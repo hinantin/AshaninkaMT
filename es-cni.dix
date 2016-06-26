@@ -1,0 +1,16 @@
+<dictionary>
+    <alphabet>abcdefghijklmnñopqrstuvwxyzABCDEFGHIJKLMNÑOPQRSTUVWXYZ</alphabet>
+    <sdefs>
+        <sdef n="add_mi"/>
+    </sdefs>
+    <section id="verbs" type="standard">
+    </section>
+    <section id="nouns" type="standard">
+        <e><p><l>paisano</l><r>sheninka</r></p></e>
+        <e><p><l>paisano</l><r>shaninka</r></p></e>
+        <e><p><l>pajonalino</l><r>keshii<s n="add_mi"/>+CL:provenance</r></p></e>
+        <e><p><l>pajonalino</l><r>kishii<s n="add_mi"/>+CL:provenance</r></p></e>
+        <e><p><l>pedregal</l><r>mapi<s n="add_mi"/>+CL:quantity</r></p></e>
+        <e><p><l>cascajal</l><r>mapi<s n="add_mi"/>+CL:quantity</r></p></e>
+    </section>
+</dictionary>
