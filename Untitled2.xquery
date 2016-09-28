@@ -1,0 +1,1 @@
+distinct-values(doc('/db/HNTAshaninka/AnnotatedSentences/annotated_sentences_wtg.xml')//element[.//e_asl eq 'IRR']//e_afl)
