@@ -27,7 +27,7 @@
         <!-- stick, inchakii -->
         <e><p><l>stick</l><r>incha<s n="add_mi"/>+CL:long,thin.branch</r></p></e>
     </section>
-    <section id="adverbs">
+    <section id="adverbs" type="standard">
         <!-- close.by, okaakini -->
         <e><p><l>close.by</l><r>okaaki<s n="add_mi"/>+ADV</r></p></e>
         <!-- quickly, shintsini -->
