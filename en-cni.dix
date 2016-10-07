@@ -10,6 +10,8 @@
         <e><p><l>hunt</l><r>kin<s n="add_mi"/>+EP@a+DUR</r></p></e>
         <e><p><l>poach</l><r>kin<s n="add_mi"/>+EP@a+DUR</r></p></e>
         <e><p><l>prey_on</l><r>kin<s n="add_mi"/>+EP@a+DUR</r></p></e>
+        <!-- to work, antavai -->
+        <e><p><l>work</l><r>ant<s n="add_mi"/>+EP@a+DUR</r></p></e>
     </section>
     <section id="nouns" type="standard">
         <e><p><l>fellowman</l><r>sheninka</r></p></e>
