@@ -33,8 +33,8 @@
     </section>
     <section id="adverbs" type="standard">
         <!-- close.by, okaakini -->
-        <e><p><l>close.by</l><r>okaaki<s n="add_mi"/>+ADV</r></p></e>
+        <e><p><l>close.by</l><r>okaaki<s n="add_mi"/>+ADV@ni</r></p></e>
         <!-- quickly, shintsini -->
-        <e><p><l>quickly</l><r>shintsi<s n="add_mi"/>+ADV</r></p></e>
+        <e><p><l>quickly</l><r>shintsi<s n="add_mi"/>+ADV@ni</r></p></e>
     </section>
 </dictionary>
