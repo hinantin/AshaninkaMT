@@ -1,8 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
     <alphabet>abcdefghijklmnñopqrstuvwxyzABCDEFGHIJKLMNÑOPQRSTUVWXYZ</alphabet>
     <sdefs>
-        <sdef n="add_mi"/>
+        <sdef n="v" c="verb"/>
+        <sdef n="n" c="noun"/>
+        <sdef n="sg" c="singular"/>
+        <sdef n="pl" c="plural"/>
+        <!-- Classifier -->
+        <sdef n="CL:L.S.T.F.F" c="classifier"/>
+        <sdef n="CL:long,thin.branch"/>
+        <sdef n="add_mi"    c="additional morphology"/>
+        <sdef n="preform"    c="additional wordform, insert before"/>
+		
+		<sdef n="compound-only-L" c="May only be the left-side of a compound"/>
+		<sdef n="compound-R"      c="May be the right-side of a compound, or a full word"/>
     </sdefs>
+    <pardef n="cl__n">
+        <e><p><l>shi</l><r><s n="n"/><s n="CL:L.S.T.F.F"/><s n="compound-only-L"/></r></p></e>
+        <e><p><l>kii</l><r><s n="n"/><s n="CL:L.S.T.F.F"/><s n="compound-only-L"/></r></p></e>
+    </pardef>
+    <pardef n="nmz__v">
+        <e><p><l>nka</l><r><s n="n"/><s n="compound-only-L"/></r></p></e>
+    </pardef>
     <section id="verbs" type="standard">
         <e><p><l>be_of_the_same_group</l><r>shani</r></p></e>
         <e><p><l>be_of_the_same_group</l><r>sheni</r></p></e>
@@ -14,10 +33,12 @@
         <e><p><l>work</l><r>ant<s n="add_mi"/>+EP@a+DUR</r></p></e>
     </section>
     <section id="nouns" type="standard">
-        <e><p><l>fellowman</l><r>sheninka</r></p></e>
-        <e><p><l>fellowman</l><r>shaninka</r></p></e>
+        <!-- fellowman, sheninka -->
+        <e lm="sheni"><i>sheni</i><par n="nmz__v"/></e>
+		<!-- fellowman, shaninka -->
+        <e lm="shani"><i>shani</i><par n="nmz__v"/></e>
         <!-- grass, inchashi -->
-        <e><p><l>grass</l><r>incha<s n="add_mi"/>+CL:L.S.T.F.F</r></p></e>
+        <e><p><l>grass</l><r>incha</r></p><par n="cl__n"/></e>
         <!-- herb, inchashi -->
         <e><p><l>herb</l><r>incha<s n="add_mi"/>+CL:L.S.T.F.F</r></p></e>
         <!-- tree, inchato -->
@@ -31,9 +52,9 @@
         <!-- healthy, tekatsi oyerine -->
         <e><p><l>healthy</l><r>oyerine<s n="preform"/>#tekatsi</r></p></e>
         <!-- lacquer, patanariki -->
-        <e><p><l>lacquer</l><r>patanari<s n="preform"/>+CL:S.R.H</r></p></e>
+        <e><p><l>lacquer</l><r>patanari<s n="add_mi"/>+CL:S.R.H</r></p></e>
         <!-- sealing wax, patanariki -->
-        <e><p><l>sealing_wax</l><r>patanari<s n="preform"/>+CL:S.R.H</r></p></e>
+        <e><p><l>sealing<b/>wax</l><r>patanari<s n="add_mi"/>+CL:S.R.H</r></p></e>
     </section>
     <section id="adverbs" type="standard">
         <!-- close.by, okaakini -->
