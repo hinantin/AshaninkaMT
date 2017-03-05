@@ -12,6 +12,7 @@ compile:
 	@echo "fat" | lt-proc en-cni.bin
 	@echo "stick" | lt-proc en-cni.bin
 	@echo "hunt" | lt-proc en-cni.bin
+	@lt-comp lr prq.monodix prq-monodix.bin
 
 
 
