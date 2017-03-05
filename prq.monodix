@@ -6,8 +6,8 @@
         <sdef n="n" c="noun"/>
         <sdef n="sg" c="singular"/>
         <sdef n="pl" c="plural"/>
-        <!-- Classifier -->
-        <sdef n="CL:L.S.T.F.F" c="classifier"/>
+        <!-- Classifiers -->
+        <sdef n="CL:L.S.T.F.F" c="classifier 'small, thin, flexible'"/>
         <sdef n="CL:long,thin.branch"/>
 		<sdef n="CL:tree"/>
         <sdef n="add_mi"    c="additional morphology"/>
@@ -18,7 +18,7 @@
     </sdefs>
     <pardef n="cl__n">
         <e><p><l>shi</l><r><s n="n"/><s n="CL:L.S.T.F.F"/><s n="compound-only-L"/></r></p></e>
-        <e><p><l>kii</l><r><s n="n"/><s n="CL:L.S.T.F.F"/><s n="compound-only-L"/></r></p></e>
+        <e><p><l>kii</l><r><s n="n"/><s n="CL:long,thin.branch"/><s n="compound-only-L"/></r></p></e>
 		<e><p><l>to</l><r><s n="n"/><s n="CL:tree"/><s n="compound-only-L"/></r></p></e>
     </pardef>
     <pardef n="nmz__v">
