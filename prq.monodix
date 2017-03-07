@@ -10,6 +10,11 @@
         <sdef n="CL:L.S.T.F.F" c="classifier 'small, thin, flexible'"/>
         <sdef n="CL:long,thin.branch"/>
 		<sdef n="CL:tree"/>
+		<sdef n="CL:plank"/>
+		
+		<!-- Infinitive -->
+		<sdef n="Inf"/>
+		
         <sdef n="add_mi"    c="additional morphology"/>
         <sdef n="preform"    c="additional wordform, insert before"/>
 		
@@ -20,9 +25,14 @@
         <e><p><l>shi</l><r><s n="n"/><s n="CL:L.S.T.F.F"/><s n="compound-only-L"/></r></p></e>
         <e><p><l>kii</l><r><s n="n"/><s n="CL:long,thin.branch"/><s n="compound-only-L"/></r></p></e>
 		<e><p><l>to</l><r><s n="n"/><s n="CL:tree"/><s n="compound-only-L"/></r></p></e>
+		<e><p><l>panki</l><r><s n="n"/><s n="CL:tree"/><s n="compound-only-L"/></r></p></e>
     </pardef>
     <pardef n="nmz__v">
-        <e><p><l>nka</l><r><s n="n"/><s n="compound-only-L"/></r></p></e>
+        <e><p><l>nka</l><r><s n="n"/><s n="Inf"/><s n="compound-only-L"/></r></p></e>
+    </pardef>
+	<pardef n="nmz__inf">
+	    <e><p><l>aantsi</l><r><s n="n"/><s n="compound-R"/></r></p></e>
+	    <e r="RL"><p><l>t</l><r><s n="n"/><s n="compound-R"/></r></p></e>
     </pardef>
     <section id="verbs" type="standard">
     </section>
@@ -31,8 +41,12 @@
         <e lm="sheni"><i>sheni</i><par n="nmz__v"/></e>
 		<!-- fellowman, shaninka -->
         <e lm="shani"><i>shani</i><par n="nmz__v"/></e>
+        <!-- saber, yotaantsi -->
+        <e lm="yo"><i>yot</i><par n="nmz__inf"/></e>		
         <!-- grass, inchashi -->
         <e lm="incha"><i>incha</i><par n="cl__n"/></e>
+		<!-- nocturnal.butterfly, inkoratopanki -->
+		<e lm="inkorato"><i>inkorato</i><par n="cl__n"/></e>
     </section>
     <section id="adverbs" type="standard">
     </section>
