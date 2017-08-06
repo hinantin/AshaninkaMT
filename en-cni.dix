@@ -49,7 +49,7 @@
         <e><p><l>fat</l><r>vatsa<s n="add_mi"/>+ADJ.m.</r></p></e>
         <!-- stick, inchakii -->
         <e><p><l>stick</l><r>incha<s n="add_mi"/>+CL:long,thin.branch</r></p></e>
-        <!-- healthy, tekatsi oyerine -->
+        <!-- tekatsi oyerine / =NEG.EXIST = / EN: 'healthy'; ES: 'saludable' -->
         <e><p><l>healthy</l><r>oyerine<s n="preform"/>#tekatsi</r></p></e>
         <!-- lacquer, patanariki -->
         <e><p><l>lacquer</l><r>patanari<s n="add_mi"/>+CL:S.R.H</r></p></e>
