@@ -55,6 +55,13 @@
         <e><p><l>lacquer</l><r>patanari<s n="add_mi"/>+CL:S.R.H</r></p></e>
         <!-- sealing wax, patanariki -->
         <e><p><l>sealing<b/>wax</l><r>patanari<s n="add_mi"/>+CL:S.R.H</r></p></e>
+        <!-- antyaro onika / =antyaro =onika / =big =earthquake / ES: un.gran.terremoto, EN: big.earthquake -->
+        <!-- otzimaki antaro onika / EN: '' -->
+		<e><p><l>earthquake</l><r>onika<s n="preform"/>#antyaro</r></p></e>
+		<!-- kaari kemisantatsini, ES: terco, EN: stubborn -->
+		<e><p><l>stubborn</l><r>kemisantatsini<s n="preform"/>#kaari</r></p></e>
+        <!-- chamairotonqui / chamairotonki / [=chamairo+n.m. -tonki]+m. / =liana.sp. -cl:long.tree.segment / EN: 'toad.species'; ES: 'especie.de.sapo' -->
+        <e><p><l>toad<b/>species</l><r>chamairo<s n="add_mi"/>+CL:long.tree.segment</r></p></e>
     </section>
     <section id="adverbs" type="standard">
         <!-- close.by, okaakini -->
