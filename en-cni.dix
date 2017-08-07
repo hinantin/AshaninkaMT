@@ -41,7 +41,7 @@
         <e><p><l>grass</l><r>incha<s n="add_mi"/>+CL:L.S.T.F.F</r></p></e>
         <!-- inchashi / =incha -shi / =plant -cl:l.s.t.f.f / EN: 'herb' ES: 'hierba' -->
         <e><p><l>herb</l><r>incha<s n="add_mi"/>+CL:L.S.T.F.F</r></p></e>
-        <!-- tree, inchato -->
+        <!-- inchato / =incha -to / =plant -cl:tree / EN: 'tree' ES: 'árbol' -->
         <e><p><l>tree</l><r>incha<s n="add_mi"/>+CL:tree</r></p></e>
         <!-- fat.n.m., vatsanto -->
         <e><p><l>fat</l><r>vatsa<s n="add_mi"/>+ADJ.n.m.</r></p></e>
