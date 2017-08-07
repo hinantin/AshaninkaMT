@@ -43,9 +43,9 @@
         <e><p><l>herb</l><r>incha<s n="add_mi"/>+CL:L.S.T.F.F</r></p></e>
         <!-- inchato / =incha -to / =plant -cl:tree / EN: 'tree' ES: 'árbol' -->
         <e><p><l>tree</l><r>incha<s n="add_mi"/>+CL:tree</r></p></e>
-        <!-- fat.n.m., vatsanto -->
+        <!-- vatsanto / =vatsa -nto+n.m. / =to.get.fat -adj / EN: 'fat.n.m.' ES: 'gorda' -->
         <e><p><l>fat</l><r>vatsa<s n="add_mi"/>+ADJ.n.m.</r></p></e>
-        <!-- fat.m., vatsantsi, -->
+        <!-- vatsantsi / =vatsa -ntsi+n.m. / =to.get.fat -adj / EN: 'fat.m.' ES: 'gordo' -->
         <e><p><l>fat</l><r>vatsa<s n="add_mi"/>+ADJ.m.</r></p></e>
         <!-- stick, inchakii -->
         <e><p><l>stick</l><r>incha<s n="add_mi"/>+CL:long,thin.branch</r></p></e>
