@@ -64,6 +64,7 @@
         <!-- chamairotonqui / chamairotonki / [=chamairo+n.m. -tonki]+m. / =liana.sp. -cl:long.tree.segment / EN: 'toad.species'; ES: 'especie.de.sapo' -->
         <e><p><l>toad<b/>species</l><r>chamairo<s n="add_mi"/>+CL:long.tree.segment</r></p></e>
         <!-- tsantsakirentsi / =tsantsa -ki -re -ntsi / =long -cl:s.r.h -nmz -nposs / EN: 'long-pointed.fishing.arrow'; ES: 'flecha.para.la.pesca.con.punta.larga' -->
+        <e><p><l>long-pointed.fishing.arrow</l><r>tsantsakirentsi</r></p></e>
         <!-- tsatamentotsi / =tsat -a -mento -tsi / =to.tear.into.two.parts -ep -concr -nposs / ES: 'flecha.para.la.pesca.con.punta.larga (no.necesita.de.un.arco.propulsor) ' -->
     </section>
     <section id="adverbs" type="standard">
