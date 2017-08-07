@@ -39,7 +39,7 @@
         <e lm="shani"><i>shani</i><par n="nmz__v"/></e>
         <!-- inchashi / =incha -shi / =plant -cl:l.s.t.f.f / EN: 'grass' ES: 'pasto' -->
         <e><p><l>grass</l><r>incha<s n="add_mi"/>+CL:L.S.T.F.F</r></p></e>
-        <!-- herb, inchashi -->
+        <!-- inchashi / =incha -shi / =plant -cl:l.s.t.f.f / EN: 'herb' ES: 'hierba' -->
         <e><p><l>herb</l><r>incha<s n="add_mi"/>+CL:L.S.T.F.F</r></p></e>
         <!-- tree, inchato -->
         <e><p><l>tree</l><r>incha<s n="add_mi"/>+CL:tree</r></p></e>
