@@ -47,7 +47,7 @@
         <e><p><l>fat</l><r>vatsa<s n="add_mi"/>+ADJ.n.m.</r></p></e>
         <!-- vatsantsi / =vatsa -ntsi+n.m. / =to.get.fat -adj / EN: 'fat.m.' ES: 'gordo' -->
         <e><p><l>fat</l><r>vatsa<s n="add_mi"/>+ADJ.m.</r></p></e>
-        <!-- stick, inchakii -->
+        <!-- inchakii / =incha -kii / =plant -cl:long,thin.branch / EN: 'stick'; ES: 'palo' -->
         <e><p><l>stick</l><r>incha<s n="add_mi"/>+CL:long,thin.branch</r></p></e>
         <!-- tekatsi oyerine / =NEG.EXIST = / EN: 'healthy'; ES: 'saludable' -->
         <e><p><l>healthy</l><r>oyerine<s n="preform"/>#tekatsi</r></p></e>
@@ -67,6 +67,9 @@
         <!-- tsantsakirentsi / =tsantsa -ki -re -ntsi / =long -cl:s.r.h -nmz -nposs / EN: 'long-pointed.fishing.arrow'; ES: 'flecha.para.la.pesca.con.punta.larga' -->
         <e><p><l>long-pointed.fishing.arrow</l><r>tsantsakirentsi</r></p></e>
         <!-- tsatamentotsi / =tsat -a -mento -tsi / =to.tear.into.two.parts -ep -concr -nposs / ES: 'flecha.para.la.pesca.con.punta.larga (no.necesita.de.un.arco.propulsor) ' -->
+        <!-- kaari oyeakotacha / =kaari  / =NEG.COP / EN: 'intolerable'; ES: 'intolerable' -->
+        <e><p><l>intolerable</l><r>oyeakotacha<s n="preform"/>#kaari</r></p></e>
+        <!-- te inkantaje / te inkantahe / =te i- N- =kant -a -he / =NEG.REAL  3m.s- irr- =to.be -real -neg / EN: 'invalid'; ES: 'inválido' -->
     </section>
     <section id="adverbs" type="standard">
         <!-- okaakini / o- =kaaki -ni / 3n.m.s- =to.get.closer -adv / EN: 'close.by' -->
