@@ -78,4 +78,8 @@
         <!-- quickly, shintsini -->
         <e><p><l>quickly</l><r>shintsi<s n="add_mi"/>+ADV@ni</r></p></e>
     </section>
+    <section id="conjunctions" type="standard">
+        <e><p><l>but</l><r>irokantaincha</r></p><par n="Conjunctions"/></e>
+        <e><p><l>but</l><r>kantaincha<s n="preform"/>#iro</r></p><par n="Conjunctions"/></e>
+    </section>
 </dictionary>
