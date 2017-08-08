@@ -70,6 +70,7 @@
         <!-- kaari oyeakotacha / =kaari  / =NEG.COP / EN: 'intolerable'; ES: 'intolerable' -->
         <e><p><l>intolerable</l><r>oyeakotacha<s n="preform"/>#kaari</r></p></e>
         <!-- te inkantaje / te inkantahe / =te i- N- =kant -a -he / =NEG.REAL  3m.s- irr- =to.be -real -neg / EN: 'invalid'; ES: 'inválido' -->
+        <e><p><l>invalid</l><r>inkantahe<s n="preform"/>#te</r></p></e>
     </section>
     <section id="adverbs" type="standard">
         <!-- okaakini / o- =kaaki -ni / 3n.m.s- =to.get.closer -adv / EN: 'close.by' -->
