@@ -24,9 +24,20 @@
         <pardef n="nmz__v">
             <e><p><l>nka</l><r><s n="n"/><s n="compound-only-L"/></r></p></e>
         </pardef>
-        <pardef n="Conjunctions">    
+        <pardef n="Noun">
+            <e><p><l><s n="parol"/>NNS</l><r>NRoot+PL</r></p></e>
+        </pardef>
+        <pardef n="Adjectives">
+            <e><p><l><s n="parol"/>JJ</l><r></r></p></e>
+            <e><p><l><s n="parol"/>JJR</l><r></r></p></e>
+            <e><p><l><s n="parol"/>JJS</l><r></r></p></e>
+        </pardef>
+        <pardef n="Conjunctions">
+            <!-- 
+                Tag         Atributes
+                CC          pos:conjunction; type:coordinating
+            -->
             <e><p><l><s n="parol"/>CC</l><r></r></p></e>  
-            <e><p><l><s n="parol"/>CS</l><r></r></p></e>
         </pardef> 
     </pardefs>
     <section id="verbs" type="standard">
