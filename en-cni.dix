@@ -26,6 +26,15 @@
         </pardef>
         <pardef n="Noun">
             <e><p><l><s n="parol"/>NNS</l><r>NRoot+PL</r></p></e>
+            <e><p><l><s n="parol"/>NN</l><r>NRoot</r></p></e>
+            <e><p><l><s n="parol"/>NNP</l><r>NRoot</r></p></e>
+            <e><p><l><s n="parol"/>NP00000</l><r>NRoot</r></p></e>
+            <e><p><l><s n="parol"/>NP</l><r>NRoot</r></p></e>
+            <e><p><l><s n="parol"/>NP00G00</l><r>NRoot</r></p></e>
+            <e><p><l><s n="parol"/>NP00O00</l><r>NRoot</r></p></e>
+            <e><p><l><s n="parol"/>NP00V00</l><r>NRoot</r></p></e>
+            <e><p><l><s n="parol"/>NP00SP0</l><r>NRoot</r></p></e>
+            <e><p><l><s n="parol"/>NNPS</l><r>NRoot+PL</r></p></e>
         </pardef>
         <pardef n="Adjectives">
             <e><p><l><s n="parol"/>JJ</l><r></r></p></e>
