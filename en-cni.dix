@@ -6,6 +6,7 @@
         <sdef n="n" c="noun"/>
         <sdef n="sg" c="singular"/>
         <sdef n="pl" c="plural"/>
+        <sdef n="parol"  c="PAROLE style tag"/>
         <!-- Classifier -->
         <sdef n="CL:L.S.T.F.F" c="classifier"/>
         <sdef n="CL:long,thin.branch" c="classifier"/>
@@ -15,13 +16,19 @@
 		<sdef n="compound-only-L" c="May only be the left-side of a compound"/>
 		<sdef n="compound-R"      c="May be the right-side of a compound, or a full word"/>
     </sdefs>
-    <pardef n="cl__n">
-        <e><p><l>shi</l><r><s n="n"/><s n="CL:L.S.T.F.F"/><s n="compound-only-L"/></r></p></e>
-        <e><p><l>kii</l><r><s n="n"/><s n="CL:L.S.T.F.F"/><s n="compound-only-L"/></r></p></e>
-    </pardef>
-    <pardef n="nmz__v">
-        <e><p><l>nka</l><r><s n="n"/><s n="compound-only-L"/></r></p></e>
-    </pardef>
+    <pardefs>
+        <pardef n="cl__n">
+            <e><p><l>shi</l><r><s n="n"/><s n="CL:L.S.T.F.F"/><s n="compound-only-L"/></r></p></e>
+            <e><p><l>kii</l><r><s n="n"/><s n="CL:L.S.T.F.F"/><s n="compound-only-L"/></r></p></e>
+        </pardef>
+        <pardef n="nmz__v">
+            <e><p><l>nka</l><r><s n="n"/><s n="compound-only-L"/></r></p></e>
+        </pardef>
+        <pardef n="Conjunctions">    
+            <e><p><l><s n="parol"/>CC</l><r></r></p></e>  
+            <e><p><l><s n="parol"/>CS</l><r></r></p></e>
+        </pardef> 
+    </pardefs>
     <section id="verbs" type="standard">
         <e><p><l>to_be_of_the_same_group</l><r>shani</r></p></e>
         <e><p><l>to_be_of_the_same_group</l><r>sheni</r></p></e>
@@ -75,11 +82,11 @@
     <section id="adverbs" type="standard">
         <!-- okaakini / o- =kaaki -ni / 3n.m.s- =to.get.closer -adv / EN: 'close.by' -->
         <e><p><l>close.by</l><r>okaaki<s n="add_mi"/>+ADV@ni</r></p></e>
-        <!-- quickly, shintsini -->
+        <!-- shintsini / =shintsi -ni / =to.be.quick -adv / EN: 'quickly' -->
         <e><p><l>quickly</l><r>shintsi<s n="add_mi"/>+ADV@ni</r></p></e>
     </section>
     <section id="conjunctions" type="standard">
-        <e><p><l>but</l><r>irokantaincha</r></p><par n="Conjunctions"/></e>
-        <e><p><l>but</l><r>kantaincha<s n="preform"/>#iro</r></p><par n="Conjunctions"/></e>
+        <e><p><l>but</l><r>irokantaincha</r></p></e>
+        <e><p><l>but</l><r>kantaincha<s n="preform"/>#iro</r></p></e>
     </section>
 </dictionary>

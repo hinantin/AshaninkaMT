@@ -11,7 +11,8 @@ compile:
 	@echo "tree" | lt-proc en-cni.bin
 	@echo "fat" | lt-proc en-cni.bin
 	@echo "stick" | lt-proc en-cni.bin
-	@echo "hunt" | lt-proc en-cni.bin
+	@echo "to_hunt" | lt-proc en-cni.bin
+	@echo "but" | lt-proc en-cni.bin
 	@lt-comp lr prq.monodix prq-monodix.bin
 
 
