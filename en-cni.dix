@@ -84,6 +84,7 @@
         <e><p><l>to_work</l><r>ant<s n="add_mi"/>+EP@a+DUR</r></p><par n="Verb"/></e>
     </section>
     <section id="nouns" type="standard">
+        <e><p><l>cosho</l><r>incha<s n="add_mi"/>+CL:round.hollow</r></p><par n="Noun"/></e>
         <!-- fellowman, sheninka -->
         <e lm="sheni"><i>sheni</i><par n="nmz__v"/><par n="Noun"/></e>
 		<!-- fellowman, shaninka -->
