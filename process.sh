@@ -11,7 +11,7 @@ OUTPUT=$2
 
 /usr/local/bin/analyzer -f $CONFIG/en.cfg --outlv dep --output conll <$INPUT >$OUTPUT
 
-cat $OUTPUT | perl conll2xml.pm 
+cat $OUTPUT 
 
 
 #/usr/local/bin/analyzer --server -p 9696 -f /usr/local/share/freeling/config/es.cfg --outlv dep --output conll

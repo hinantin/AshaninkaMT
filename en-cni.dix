@@ -56,12 +56,12 @@
         </pardef> 
     </pardefs>
     <section id="verbs" type="standard">
-        <e><p><l>to_be_of_the_same_group</l><r>shani</r></p></e>
-        <e><p><l>to_be_of_the_same_group</l><r>sheni</r></p></e>
+        <e><p><l>be_of_the_same_group</l><r>shani</r></p></e>
+        <e><p><l>be_of_the_same_group</l><r>sheni</r></p></e>
         <!-- to hunt, to poach, to prey on sb./sth., kinavai -->
-        <e><p><l>to_hunt</l><r>kin<s n="add_mi"/>+EP@a+DUR</r></p></e>
-        <e><p><l>to_poach</l><r>kin<s n="add_mi"/>+EP@a+DUR</r></p></e>
-        <e><p><l>to_prey_on</l><r>kin<s n="add_mi"/>+EP@a+DUR</r></p></e>
+        <e><p><l>hunt</l><r>kin<s n="add_mi"/>+EP@a+DUR</r></p></e>
+        <e><p><l>poach</l><r>kin<s n="add_mi"/>+EP@a+DUR</r></p></e>
+        <e><p><l>prey_on</l><r>kin<s n="add_mi"/>+EP@a+DUR</r></p></e>
         <!-- to work, antavai -->
         <e><p><l>to_work</l><r>ant<s n="add_mi"/>+EP@a+DUR</r></p></e>
     </section>

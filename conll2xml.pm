@@ -1,8 +1,5 @@
 #!/usr/bin/perl
 
-package squoia::conll2xml;
-
-
 use strict;
 use utf8;
 use XML::LibXML;
@@ -54,13 +51,22 @@ my $sentence; # actual sentence
 my $openQuot=1;
 my $openBar=1;
 
-my $verbose = '';
+# my $verbose = '';
 
-sub main{
-	my $InputLines = $_[0];
+my ($file, $verbose, $withCorzu) = @ARGV;
+my $InputLines = undef;
+
+{
+  local $/=undef;
+  open FILE, $file or die "Couldn't open file: $!";
+  $InputLines = <FILE>;
+  close FILE;
+}
+
+#	my $InputLines = $_[0];
 	binmode($InputLines, ':utf8');
-	$verbose = $_[1];
-	my $withCorzu=$_[2];
+#	$verbose = $_[1];
+	# my $withCorzu=$_[2];
 
 	print STDERR "#VERBOSE ". (caller(0))[3]."\n" if $verbose;
 
@@ -1227,7 +1233,7 @@ sub main{
 	#print STDOUT $docstring;
 
 	return $dom;
-}
+
 
 
 sub insertEntityInSpan{
@@ -2018,3 +2024,4 @@ sub numberIsPartOfDate{
 	return $isDate;
 }
 1;
+
