@@ -115,7 +115,7 @@ my $InputLines = undef;
 	     # create a new word node and attach it to sentence
 	     my $wordNode = XML::LibXML::Element->new( 'NODE' );
 	     $sentence->appendChild($wordNode);
-	     my ($id, $word, $lem, $cpos, $pos, $info, $head, $rel, $rest) = split (/\t|\s+/, $line);
+	     my ($id, $word, $lem, $cpos, $pos, $info, $blank1, $blank2, $rel, $head, $rest) = split (/\t|\s+/, $line);
 	     # entity: always last, but can be 9 or 10 columns -> just take last one
 	     my @rows = split (/\t|\s/, $line);
 	     my $entity = @rows[-1];
