@@ -39,6 +39,15 @@
             <e><p><l><s n="parol"/>NP00SP0</l><r>NRoot</r></p></e>
             <e><p><l><s n="parol"/>NNPS</l><r>NRoot+PL</r></p></e>
         </pardef>
+        <pardef n="Verb">
+            <e><p><l><s n="parol"/>MD</l><r>VRoot</r></p></e>
+            <e><p><l><s n="parol"/>VBG</l><r>VRoot</r></p></e>
+            <e><p><l><s n="parol"/>VB</l><r>VRoot</r></p></e>
+            <e><p><l><s n="parol"/>VBN</l><r>VRoot</r></p></e>
+            <e><p><l><s n="parol"/>VBD</l><r>VRoot</r></p></e>
+            <e><p><l><s n="parol"/>VBP</l><r>VRoot</r></p></e>
+            <e><p><l><s n="parol"/>VBZ</l><r>VRoot</r></p></e>
+        </pardef>
         <pardef n="Adverb">
             <e><p><l><s n="parol"/>RB</l><r>AdvRoot</r></p></e>
             <e><p><l><s n="parol"/>RBR</l><r>AdvRoot</r></p></e>
@@ -64,14 +73,15 @@
         <e><p><l>i</l><r>naro</r></p><par n="Personal_pronoun"/></e>
     </section>
     <section id="verbs" type="standard">
-        <e><p><l>be_of_the_same_group</l><r>shani</r></p></e>
-        <e><p><l>be_of_the_same_group</l><r>sheni</r></p></e>
+        <e><p><l>be_of_the_same_group</l><r>shani</r></p><par n="Verb"/></e>
+        <e><p><l>be_of_the_same_group</l><r>sheni</r></p><par n="Verb"/></e>
         <!-- to hunt, to poach, to prey on sb./sth., kinavai -->
-        <e><p><l>hunt</l><r>kin<s n="add_mi"/>+EP@a+DUR</r></p></e>
-        <e><p><l>poach</l><r>kin<s n="add_mi"/>+EP@a+DUR</r></p></e>
-        <e><p><l>prey_on</l><r>kin<s n="add_mi"/>+EP@a+DUR</r></p></e>
+        <e><p><l>hunt</l><r>kin<s n="add_mi"/>+EP@a+DUR</r></p><par n="Verb"/></e>
+        <e><p><l>go</l><r>ha</r></p><par n="Verb"/></e>
+        <e><p><l>poach</l><r>kin<s n="add_mi"/>+EP@a+DUR</r></p><par n="Verb"/></e>
+        <e><p><l>prey_on</l><r>kin<s n="add_mi"/>+EP@a+DUR</r></p><par n="Verb"/></e>
         <!-- to work, antavai -->
-        <e><p><l>to_work</l><r>ant<s n="add_mi"/>+EP@a+DUR</r></p></e>
+        <e><p><l>to_work</l><r>ant<s n="add_mi"/>+EP@a+DUR</r></p><par n="Verb"/></e>
     </section>
     <section id="nouns" type="standard">
         <!-- fellowman, sheninka -->
