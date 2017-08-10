@@ -9,7 +9,7 @@ CONFIG=/usr/local/share/freeling/config
 INPUT=$1
 OUTPUT=$2
 
-/usr/local/bin/analyzer -f $CONFIG/en.cfg --outlv parsed --output conll <$INPUT >$OUTPUT
+/usr/local/bin/analyzer -f $CONFIG/en.cfg --outlv dep --output conll <$INPUT >$OUTPUT
 
 cat $OUTPUT 
 
