@@ -60,6 +60,8 @@
     </pardefs>
     <section id="personal_pronouns" type="standard">
         <e><p><l>i</l><r>naaka</r></p><par n="Personal_pronoun"/></e>
+        <e><p><l>i</l><r>naka</r></p><par n="Personal_pronoun"/></e>
+        <e><p><l>i</l><r>naro</r></p><par n="Personal_pronoun"/></e>
     </section>
     <section id="verbs" type="standard">
         <e><p><l>be_of_the_same_group</l><r>shani</r></p></e>
