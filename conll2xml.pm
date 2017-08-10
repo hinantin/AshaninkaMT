@@ -56,15 +56,10 @@ my $openBar=1;
 my ($file, $verbose, $withCorzu) = @ARGV;
 my $InputLines = undef;
 
-{
-  local $/=undef;
-  open FILE, $file or die "Couldn't open file: $!";
-  $InputLines = <FILE>;
-  close FILE;
-}
+#	print $InputLines;
 
 #	my $InputLines = $_[0];
-	binmode($InputLines, ':utf8');
+#	binmode($InputLines, ':utf8');
 #	$verbose = $_[1];
 	# my $withCorzu=$_[2];
 
@@ -72,9 +67,12 @@ my $InputLines = undef;
 
 	my $articleID ="";	
 	my $sentInArticleID =1;
-	while(<$InputLines>)
 
+	open(my $InputLines, '<:encoding(UTF-8)', $file) or die "Could not open file '$file' $!";
+
+	while(<$InputLines>)
 	{
+#print "12\n";
 		my $line = $_;
 #	  	print $line;
 #	  	if($line =~ /ó|í|á/){print "matched line is: ".$line;
@@ -213,8 +211,8 @@ my $InputLines = undef;
 	     }
 	  }
 	
-	#my $docstring = $dom->toString(3);
-	#print STDERR $docstring;
+	my $docstring = $dom->toString(3);
+	print STDERR $docstring;
 
 	
 	## adjust dependencies (word level), 
@@ -1229,10 +1227,10 @@ my $InputLines = undef;
 	
 	
 	## print new xml to stdout
-	#my $docstring = $dom->toString(3);
-	#print STDOUT $docstring;
+	my $docstring = $dom->toString(3);
+	print STDOUT $docstring;
 
-	return $dom;
+	#return $dom;
 
 
 
