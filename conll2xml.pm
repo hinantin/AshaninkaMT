@@ -211,8 +211,8 @@ my $InputLines = undef;
 	     }
 	  }
 	
-	my $docstring = $dom->toString(3);
-	print STDERR $docstring;
+	#my $docstring = $dom->toString(3);
+	#print STDERR $docstring;
 
 	
 	## adjust dependencies (word level), 

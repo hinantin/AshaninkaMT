@@ -11,7 +11,8 @@ OUTPUT=$2
 
 /usr/local/bin/analyzer -f $CONFIG/en.cfg --outlv dep --output conll <$INPUT >$OUTPUT
 
-perl conll2xml.pm $OUTPUT 
+perl conll2xml.pm $OUTPUT | /home/richard/Documents/squoia/MT_systems/bin/squoia-xfer-lex en-cni.bin
+
 
 
 #/usr/local/bin/analyzer --server -p 9696 -f /usr/local/share/freeling/config/es.cfg --outlv dep --output conll
