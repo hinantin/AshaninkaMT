@@ -66,6 +66,11 @@
             -->
             <e><p><l><s n="parol"/>CC</l><r></r></p></e>  
         </pardef> 
+        <pardef n="Determiner">
+            <e><p><l><s n="parol"/>DT</l><r></r></p></e>
+            <e><p><l><s n="parol"/>WDT</l><r></r></p></e>
+            <e><p><l><s n="parol"/>PDT</l><r></r></p></e>
+        </pardef>
     </pardefs>
     <section id="personal_pronouns" type="standard">
         <e><p><l>i</l><r>naaka</r></p><par n="Personal_pronoun"/></e>
@@ -84,6 +89,7 @@
         <e><p><l>work</l><r>ant<s n="add_mi"/>+EP@a+DUR</r></p><par n="Verb"/></e>
     </section>
     <section id="nouns" type="standard">
+        <!-- inchanaki / =incha -naki / =plant -cl:round.hollow / ES: 'cosho'; EN: 'cosho' -->
         <e><p><l>cosho</l><r>incha<s n="add_mi"/>+CL:round.hollow</r></p><par n="Noun"/></e>
         <!-- fellowman, sheninka -->
         <e lm="sheni"><i>sheni</i><par n="nmz__v"/><par n="Noun"/></e>
