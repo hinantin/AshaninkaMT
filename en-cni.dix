@@ -78,6 +78,12 @@
         <e><p><l>i</l><r>naro</r></p><par n="Personal_pronoun"/></e>
         <e><p><l>you</l><r>aviro</r></p><par n="Personal_pronoun"/></e>
         <e><p><l>you</l><r>eroka</r></p><par n="Personal_pronoun"/></e>
+        <e><p><l>he</l><r>iri</r></p><par n="Personal_pronoun"/></e>
+        <e><p><l>he</l><r>iriro</r></p><par n="Personal_pronoun"/></e>
+        <e><p><l>he</l><r>irio</r></p><par n="Personal_pronoun"/></e>
+        <e><p><l>he</l><r>iryo</r></p><par n="Personal_pronoun"/></e>
+        <e><p><l>she</l><r>iro</r></p><par n="Personal_pronoun"/></e>
+        <e><p><l>she</l><r>iroo</r></p><par n="Personal_pronoun"/></e>
     </section>
     <section id="verbs" type="standard">
         <e><p><l>be_of_the_same_group</l><r>shani</r></p><par n="Verb"/></e>
