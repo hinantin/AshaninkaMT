@@ -2,11 +2,39 @@
 <dictionary>
     <alphabet>abcdefghijklmnñopqrstuvwxyzABCDEFGHIJKLMNÑOPQRSTUVWXYZ</alphabet>
     <sdefs>
+        <sdef n="mi"     c="Morphological information"/>
+        <sdef n="parol"  c="PAROLE style tag"/>
+        <sdef n="si"    c="syntactic information"/>
+        <sdef n="lem"    c="lem"/>
+        <sdef n="auxlem"    c="auxiliary lemma"/>
+        <sdef n="auxverbmi"    c="auxiliary morphology"/>
+        <sdef n="addlem"    c="addlem"/>
+        <sdef n="adpos"    c="adpositions (pre- or postpositions)"/>
+        <!--    deprecated <sdef n="split"    c="1:n translation that need to be split up (-> 2,3.. nodes)"/> -->
+        <sdef n="root_type"    c="quechua root type"/>
+        <sdef n="preform"    c="additional wordform, insert before"/>
+        <sdef n="postform"    c="additional wordform, insert after"/>
+        <sdef n="firstform"    c="additional wordform, insert as first token"/>
+        <sdef n="moveToHead_mi"    c="additional morphology for head"/>
+        <sdef n="lemInCpred"    c="additional morphology for Cpred (and make this the head)"/>
+        <sdef n="add_mi"    c="additional morphology"/>
+        <sdef n="verbmi"    c="verbal morphology needed for generation"/>
+        <sdef n="subj"    c="for verbs: type (semantic label) or lemma of subject"/>
+        <sdef n="obj"    c="for verbs: type (semantic label) or lemma of object"/>
+        <sdef n="transitivity"    c="for verbs: either rflx (intransitive or reflexive form with 'se'), rzpr (reciprocal form with 'se'), intrans (intransitive form, no 'se'), trans (transitive form, need a 'cd')"/>
+        <sdef n="subjToObj"    c="for verbs: convert subject to object, e.g. 'tengo una casa' -> in Q: wasi kapuWAn"/>
+        <sdef n="func"    c="attributive use of nominal root translated from Spanish adjective"/>
+        <sdef n="s_pos"    c="source pos (if necessary to distinguish between adj and noun (e.g. 'general'))"/>
+        <sdef n="pobjCase"    c="different case of 'prepositional object' in Quechua and Spanish (e.g. 'convertir(se) en/a' -> '-man tukuy' (no -pi))"/>
+        <sdef n="objCase"    c="different case of 'direct object' in Spanish"/>
+        <sdef n="iobjCase"    c="different case of 'indirect object' in Spanish"/>
+        <sdef n="head"    c="use this translation only if head matches indicated semantics"/>
+        <!--  -->
         <sdef n="v" c="verb"/>
         <sdef n="n" c="noun"/>
         <sdef n="sg" c="singular"/>
         <sdef n="pl" c="plural"/>
-        <sdef n="parol"  c="PAROLE style tag"/>
+        
         <!-- Classifier -->
         <sdef n="CL:L.S.T.F.F" c="classifier"/>
         <sdef n="CL:long,thin.branch" c="classifier"/>
