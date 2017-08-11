@@ -153,8 +153,8 @@
         <!-- inchato / =incha -to / =plant -cl:tree / EN: 'tree' ES: 'árbol' -->
         <e><p><l>tree</l><r>incha<s n="add_mi"/>+CL:tree</r></p><par n="Noun"/></e>
         <!--  -->
-        <e><p><l>iyani</l><r>small</r></p><par n="Adjectives"/></e>
-        <e><p><l>iyaani</l><r>small</r></p><par n="Adjectives"/></e>
+        <e><p><l>small</l><r>iyani</r></p><par n="Adjectives"/></e>
+        <e><p><l>small</l><r>iyaani</r></p><par n="Adjectives"/></e>
         <!-- vatsanto / =vatsa -nto+n.m. / =to.get.fat -adj / EN: 'fat.n.m.' ES: 'gorda' -->
         <e><p><l>fat</l><r>vatsa<s n="add_mi"/>+ADJ.n.m.</r></p><par n="Adjectives"/></e>
         <!-- vatsantsi / =vatsa -ntsi+n.m. / =to.get.fat -adj / EN: 'fat.m.' ES: 'gordo' -->
@@ -201,5 +201,8 @@
         <e><p><l>but</l><r>irokantaincha</r></p><par n="Conjunctions"/></e>
         <e><p><l>but</l><r>kantaincha<s n="preform"/>#iro</r></p><par n="Conjunctions"/></e>
         <e><p><l>and</l><r>eehatzi</r></p><par n="Conjunctions"/></e>
+    </section>
+    <section id="determiners" type="standard">
+        <e><p><l>that</l><r>irora</r></p><par n="Determiner"/></e>
     </section>
 </dictionary>
