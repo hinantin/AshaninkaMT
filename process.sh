@@ -6,8 +6,12 @@ CONFIG=/usr/local/share/freeling/config
 
 # sh process.sh myinput.txt myoutput.txt
 
-INPUT=$1
-OUTPUT=$2
+INPUT=myinput.txt
+OUTPUT=myoutput.txt
+
+rm -f $INPUT $OUTPUT 
+
+printf "$1" > $INPUT
 
 /usr/local/bin/analyzer -f $CONFIG/en.cfg --outlv dep --output conll <$INPUT >$OUTPUT
 

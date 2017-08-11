@@ -89,6 +89,9 @@
         <e><p><l>work</l><r>ant<s n="add_mi"/>+EP@a+DUR</r></p><par n="Verb"/></e>
     </section>
     <section id="nouns" type="standard">
+        <!-- nihateni / =niha -teni / =water -cl:longitudinal.depression / EN: 'brook, creek' -->
+        <e><p><l>brook</l><r>niha<s n="add_mi"/>+CL:longitudinal.depression</r></p><par n="Noun"/></e>
+        <e><p><l>creek</l><r>niha<s n="add_mi"/>+CL:longitudinal.depression</r></p><par n="Noun"/></e>
         <!-- inchatonaki / =incha -to -naki / =plant -cl:tree -cl:round.hollow / ES: 'cosho'; EN: 'cosho' -->
         <e><p><l>cosho</l><r>incha<s n="add_mi"/>+CL:tree+CL:round.hollow</r></p><par n="Noun"/></e>
         <!-- fellowman, sheninka -->
@@ -105,7 +108,7 @@
         <e><p><l>fat</l><r>vatsa<s n="add_mi"/>+ADJ.n.m.</r></p><par n="Adjectives"/></e>
         <!-- vatsantsi / =vatsa -ntsi+n.m. / =to.get.fat -adj / EN: 'fat.m.' ES: 'gordo' -->
         <e><p><l>fat</l><r>vatsa<s n="add_mi"/>+ADJ.m.</r></p><par n="Adjectives"/></e>
-        <!-- cascajal -->
+        <!-- ES: 'cascajal' -->
         <e><p><l>gravel_pit</l><r>mapi<s n="add_mi"/>+CL:quantity</r></p><par n="Noun"/></e>
         <!-- ES: 'pedregal' -->
         <e><p><l>stony_ground</l><r>mapi<s n="add_mi"/>+CL:quantity</r></p><par n="Noun"/></e>
