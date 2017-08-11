@@ -55,6 +55,9 @@
         <pardef n="Personal_pronoun">
             <e><p><l><s n="parol"/>PRP</l><r>PrnPers</r></p></e>
         </pardef>
+        <pardef n="Possessive_pronoun">
+            <e><p><l><s n="parol"/>PRP$</l><r>PrnPoss</r></p></e>
+        </pardef>
         <pardef n="Noun">
             <e><p><l><s n="parol"/>NNS</l><r>NRoot+PL</r></p></e>
             <e><p><l><s n="parol"/>NN</l><r>NRoot</r></p></e>
@@ -121,6 +124,17 @@
         <!--  -->
         <e><p><l>we</l><r>aaka</r></p><par n="Personal_pronoun"/></e>
         <e><p><l>we</l><r>aro</r></p><par n="Personal_pronoun"/></e>
+    </section>
+    <section id="possessive_pronouns" type="standard">
+        <e><p><l>mine</l><r>nashi</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>yours</l><r>pashi</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>his</l><r>rashi</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>his</l><r>irashi</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>hers</l><r>ashi</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>ours</l><r>ashi</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>yours</l><r>pashiite</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>theirs</l><r>irashiite</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>theirs</l><r>ashiite</r></p><par n="Possessive_pronoun"/></e>
     </section>
     <section id="verbs" type="standard">
         <e><p><l>be_of_the_same_group</l><r>shani</r></p><par n="Verb"/></e>
