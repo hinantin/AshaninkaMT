@@ -209,6 +209,7 @@
             / =NEG.REAL  3n.m.s- IRR- =to.be.good -ep -irr  2s- =to.bathe -ep -appl -ep -irr -3n.m.o  2poss- =blood -cl:liquid / EN : 'It is not good to bathe in the river during your period' 
         -->
         <e><p><l>period</l><r>iraa<s n="add_mi"/>+CL:liquid</r></p><par n="Noun"/></e>
+        <e><p><l>school</l><r>pankoa<s n="preform"/>#yotaantsi</r></p><par n="Noun"/></e>
     </section>
     <section id="adverbs" type="standard">
         <!-- okaakini / o- =kaaki -ni / 3n.m.s- =to.get.closer -adv / EN: 'close.by' -->
