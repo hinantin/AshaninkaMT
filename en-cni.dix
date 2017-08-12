@@ -18,6 +18,7 @@
         <sdef n="moveToHead_mi"    c="additional morphology for head"/>
         <sdef n="lemInCpred"    c="additional morphology for Cpred (and make this the head)"/>
         <sdef n="add_mi"    c="additional morphology"/>
+        <sdef n="add_p"    c="additional properties"/>
         <sdef n="verbmi"    c="verbal morphology needed for generation"/>
         <sdef n="subj"    c="for verbs: type (semantic label) or lemma of subject"/>
         <sdef n="obj"    c="for verbs: type (semantic label) or lemma of object"/>
@@ -150,7 +151,7 @@
     </section>
     <section id="nouns" type="standard">
         <!-- tsimeripee / =tsimeri -pee / =bird -pl / EN: 'birds, small.birds'; ES: 'pájaros, pajaritos' -->
-        <e><p><l>bird</l><r>tsimeri</r></p><par n="Noun"/></e>
+        <e><p><l>bird</l><r>tsimeri<s n="add_p"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>small_bird</l><r>tsimeri</r></p><par n="Noun"/></e>
         <!-- nihateni / =niha -teni / =water -cl:longitudinal.depression / EN: 'brook, creek' -->
         <e><p><l>brook</l><r>niha<s n="add_mi"/>+CL:longitudinal.depression</r></p><par n="Noun"/></e>
