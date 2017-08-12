@@ -151,7 +151,8 @@
     </section>
     <section id="nouns" type="standard">
         <!-- tsimeripee / =tsimeri -pee / =bird -pl / EN: 'birds, small.birds'; ES: 'pájaros, pajaritos' -->
-        <e><p><l>bird</l><r>tsimeri<s n="add_p"/>+m.</r></p><par n="Noun"/></e>
+        <e><p><l>bird</l><r>tsimeri<s n="add_p"/>+m.+poss@ti.</r></p><par n="Noun"/></e>
+        <e><p><l>book</l><r>nyaanamento<s n="add_p"/>+inal.</r></p><par n="Noun"/></e>
         <e><p><l>small_bird</l><r>tsimeri</r></p><par n="Noun"/></e>
         <!-- nihateni / =niha -teni / =water -cl:longitudinal.depression / EN: 'brook, creek' -->
         <e><p><l>brook</l><r>niha<s n="add_mi"/>+CL:longitudinal.depression</r></p><par n="Noun"/></e>
