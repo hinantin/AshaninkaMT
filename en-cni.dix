@@ -138,9 +138,19 @@
         <e><p><l>theirs</l><r>ashiite</r></p><par n="Possessive_pronoun"/></e>
     </section>
     <section id="verbs" type="standard">
+        <!-- #####
+            A 
+        ##### -->
+        <!-- #####
+            B 
+        ##### -->
         <e><p><l>be</l><r>kant</r></p><par n="Verb"/></e>
         <e><p><l>be_of_the_same_group</l><r>shani</r></p><par n="Verb"/></e>
         <e><p><l>be_of_the_same_group</l><r>sheni</r></p><par n="Verb"/></e>
+        <!-- #####
+            H 
+        ##### -->
+        <e><p><l>hug</l><r>avitsano</r></p><par n="Verb"/></e>
         <!-- to hunt, to poach, to prey on sb./sth., kinavai -->
         <e><p><l>hunt</l><r>kin<s n="add_mi"/>+EP@a+DUR</r></p><par n="Verb"/></e>
         <e><p><l>go</l><r>ha</r></p><par n="Verb"/></e>
