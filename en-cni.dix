@@ -152,10 +152,12 @@
     <section id="nouns" type="standard">
         <!-- tsimeripee / =tsimeri -pee / =bird -pl / EN: 'birds, small.birds'; ES: 'pájaros, pajaritos' -->
         <e><p><l>bird</l><r>tsimeri<s n="add_p"/>+m.+poss@ti.</r></p><par n="Noun"/></e>
-        <e><p><l>book</l><r>nyaanamento<s n="add_p"/>+inal.</r></p><par n="Noun"/></e>
         <e><p><l>small_bird</l><r>tsimeri</r></p><par n="Noun"/></e>
+        <e><p><l>book</l><r>nyaanamento<s n="add_p"/>+inal.</r></p><par n="Noun"/></e>
         <!-- nihateni / =niha -teni / =water -cl:longitudinal.depression / EN: 'brook, creek' -->
         <e><p><l>brook</l><r>niha<s n="add_mi"/>+CL:longitudinal.depression</r></p><par n="Noun"/></e>
+        <!-- tsimerityonki / =tsimeri -tyonki /  / EN: 'chili_pepper'; ES: 'espcie_de_ají'-->
+        <e><p><l>chili_pepper</l><r>tsimeri<s n="add_mi"/>+CL:long.tree.segment<s n="add_p"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>creek</l><r>niha<s n="add_mi"/>+CL:longitudinal.depression</r></p><par n="Noun"/></e>
         <!-- inchatonaki / =incha -to -naki / =plant -cl:tree -cl:round.hollow / ES: 'cosho'; EN: 'cosho' -->
         <e><p><l>cosho</l><r>incha<s n="add_mi"/>+CL:tree+CL:round.hollow</r></p><par n="Noun"/></e>
@@ -167,6 +169,8 @@
         <e><p><l>grass</l><r>incha<s n="add_mi"/>+CL:L.S.T.F.F</r></p><par n="Noun"/></e>
         <!-- inchashi / =incha -shi / =plant -cl:l.s.t.f.f / EN: 'herb' ES: 'hierba' -->
         <e><p><l>herb</l><r>incha<s n="add_mi"/>+CL:L.S.T.F.F</r></p><par n="Noun"/></e>
+        <e><p><l>microphone</l><r>nyaanamento<s n="add_p"/>+inal.</r></p><par n="Noun"/></e>
+        <e><p><l>daughter_in_law</l><r>nyaniyo<s n="add_p"/>+m.ego</r></p><par n="Noun"/></e>
         <!-- inchato / =incha -to / =plant -cl:tree / EN: 'tree' ES: 'árbol' -->
         <e><p><l>tree</l><r>incha<s n="add_mi"/>+CL:tree</r></p><par n="Noun"/></e>
         <!--  -->
