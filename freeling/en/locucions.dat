@@ -121,6 +121,7 @@ up_front up_front RB I
 up_front up_front JJ I
 vice_versa vice_versa RB I
 Z_times $L1_times RB I
+gravel_pit gravel_pit NN I
 prey_on prey_on VBP I
 preyed_on prey_on VBD I
 preyed_on prey_on VBN I
