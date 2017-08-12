@@ -187,7 +187,7 @@
         <!-- lacquer, patanariki -->
         <e><p><l>lacquer</l><r>patanari<s n="add_mi"/>+CL:S.R.H</r></p><par n="Noun"/></e>
         <!-- sealing wax, patanariki -->
-        <e><p><l>sealing<b/>wax</l><r>patanari<s n="add_mi"/>+CL:S.R.H</r></p><par n="Noun"/></e>
+        <e><p><l>sealing_wax</l><r>patanari<s n="add_mi"/>+CL:S.R.H</r></p><par n="Noun"/></e>
         <!-- antyaro onika / =antyaro =onika / =big =earthquake / ES: un.gran.terremoto, EN: big.earthquake -->
         <!-- otarankantanakari, otzimaki antaro onika / o- =tarank -ant -an -ak -a -ri  o- =tzim -ak -i  =antaro  =onika / 3n.m.s- =to.fall.down -appl.reas -dir -prf -irr -rel  3n.m.s- =to.exist -prf -irr  =big  =earthquake / EN: 'when.the.hills.collapsed.during.a.big.earthquake' \cite[p.169]{mihas:narrative:14} -->
         <e><p><l>earthquake</l><r>onika<s n="preform"/>#antyaro</r></p><par n="Adjectives"/></e>
@@ -204,6 +204,11 @@
         <e><p><l>invalid</l><r>inkantahe<s n="preform"/>#te</r></p><par n="Adjectives"/></e>
         <e><p><l>uncle</l><r>pava<s n="add_mi"/>+CL:distant/surrogate.kin+poss@ti.</r></p><par n="Noun"/></e>
         <e><p><l>home</l><r>panko</r></p><par n="Noun"/></e>
+        <!-- 
+            te onkametsate pikaatakotero piraaja / te onkametsate pikaatakotero piraaha / =te o- n- =kametsa -t -e pi- =kaa -t -ako -t -e -ro p- =iraa -ja 
+            / =NEG.REAL  3n.m.s- IRR- =to.be.good -ep -irr  2s- =to.bathe -ep -appl -ep -irr -3n.m.o  2poss- =blood -cl:liquid / EN : 'It is not good to bathe in the river during your period' 
+        -->
+        <e><p><l>period</l><r>iraa<s n="add_mi"/>+CL:liquid</r></p><par n="Noun"/></e>
     </section>
     <section id="adverbs" type="standard">
         <!-- okaakini / o- =kaaki -ni / 3n.m.s- =to.get.closer -adv / EN: 'close.by' -->
