@@ -156,7 +156,7 @@
         <e><p><l>book</l><r>nyaanamento<s n="add_p"/>+inal.</r></p><par n="Noun"/></e>
         <!-- nihateni / =niha -teni / =water -cl:longitudinal.depression / EN: 'brook, creek' -->
         <e><p><l>brook</l><r>niha<s n="add_mi"/>+CL:longitudinal.depression</r></p><par n="Noun"/></e>
-        <!-- tsimerityonki / =tsimeri -tyonki /  / EN: 'chili_pepper'; ES: 'espcie_de_ají'-->
+        <!-- tsimerityonki / =tsimeri -tyonki / =bird -cl:long.tree.segment / EN: 'chili_pepper'; ES: 'espcie_de_ají'-->
         <e><p><l>chili_pepper</l><r>tsimeri<s n="add_mi"/>+CL:long.tree.segment<s n="add_p"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>creek</l><r>niha<s n="add_mi"/>+CL:longitudinal.depression</r></p><par n="Noun"/></e>
         <!-- inchatonaki / =incha -to -naki / =plant -cl:tree -cl:round.hollow / ES: 'cosho'; EN: 'cosho' -->
