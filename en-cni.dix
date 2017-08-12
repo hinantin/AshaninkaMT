@@ -148,16 +148,85 @@
         <e><p><l>be_of_the_same_group</l><r>shani</r></p><par n="Verb"/></e>
         <e><p><l>be_of_the_same_group</l><r>sheni</r></p><par n="Verb"/></e>
         <!-- #####
+            C 
+        ##### -->
+        <!-- #####
+            D 
+        ##### -->
+        <!-- #####
+            E 
+        ##### -->
+        <!-- #####
+            F 
+        ##### -->
+        <!-- #####
+            G 
+        ##### -->
+        <e><p><l>go</l><r>ha</r></p><par n="Verb"/></e>
+        <!-- #####
             H 
         ##### -->
         <e><p><l>hug</l><r>avitsano</r></p><par n="Verb"/></e>
         <!-- to hunt, to poach, to prey on sb./sth., kinavai -->
         <e><p><l>hunt</l><r>kin<s n="add_mi"/>+EP@a+DUR</r></p><par n="Verb"/></e>
-        <e><p><l>go</l><r>ha</r></p><par n="Verb"/></e>
+        <!-- #####
+            I 
+        ##### -->
+        <!-- #####
+            J 
+        ##### -->
+        <!-- #####
+            K 
+        ##### -->
+        <!-- #####
+            L 
+        ##### -->
+        <!-- #####
+            M 
+        ##### -->
+        <!-- #####
+            N 
+        ##### -->
+        <!-- #####
+            O 
+        ##### -->
+        <!-- #####
+            P 
+        ##### -->
         <e><p><l>poach</l><r>kin<s n="add_mi"/>+EP@a+DUR</r></p><par n="Verb"/></e>
         <e><p><l>prey_on</l><r>kin<s n="add_mi"/>+EP@a+DUR</r></p><par n="Verb"/></e>
+        <!-- #####
+            Q 
+        ##### -->
+        <!-- #####
+            R 
+        ##### -->
+        <!-- #####
+            S 
+        ##### -->
+        <!-- #####
+            T 
+        ##### -->
+        <!-- #####
+            U 
+        ##### -->
+        <!-- #####
+            V 
+        ##### -->
+        <!-- #####
+            W 
+        ##### -->
         <!-- to work, antavai -->
         <e><p><l>work</l><r>ant<s n="add_mi"/>+EP@a+DUR</r></p><par n="Verb"/></e>
+        <!-- #####
+            X 
+        ##### -->
+        <!-- #####
+            Y 
+        ##### -->
+        <!-- #####
+            Z 
+        ##### -->
     </section>
     <section id="nouns" type="standard">
         <!-- #####
