@@ -18,7 +18,10 @@
         <sdef n="moveToHead_mi"    c="additional morphology for head"/>
         <sdef n="lemInCpred"    c="additional morphology for Cpred (and make this the head)"/>
         <sdef n="add_mi"    c="additional morphology"/>
-        <sdef n="add_p"    c="additional properties"/>
+        <sdef n="poss"    c="poss"/>
+        <sdef n="gndr"    c="gender"/>
+        <sdef n="inal"    c="inaliable"/>
+        <sdef n="voc"    c="vocative FLAGS +1S, +2S, +3S, +1PL, +2PL, +3PL"/>
         <sdef n="verbmi"    c="verbal morphology needed for generation"/>
         <sdef n="subj"    c="for verbs: type (semantic label) or lemma of subject"/>
         <sdef n="obj"    c="for verbs: type (semantic label) or lemma of object"/>
@@ -129,9 +132,9 @@
     <section id="possessive_pronouns" type="standard">
         <e><p><l>mine</l><r>nashi</r></p><par n="Possessive_pronoun"/></e>
         <e><p><l>yours</l><r>pashi</r></p><par n="Possessive_pronoun"/></e>
-        <e><p><l>his</l><r>rashi</r></p><par n="Possessive_pronoun"/></e>
-        <e><p><l>his</l><r>irashi</r></p><par n="Possessive_pronoun"/></e>
-        <e><p><l>hers</l><r>ashi</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>his</l><r>rashi<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>his</l><r>irashi<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>hers</l><r>ashi<s n="gndr"/>+n.m.</r></p><par n="Possessive_pronoun"/></e>
         <e><p><l>ours</l><r>ashi</r></p><par n="Possessive_pronoun"/></e>
         <e><p><l>yours</l><r>pashiite</r></p><par n="Possessive_pronoun"/></e>
         <e><p><l>theirs</l><r>irashiite</r></p><par n="Possessive_pronoun"/></e>
@@ -147,6 +150,7 @@
         <e><p><l>be</l><r>kant</r></p><par n="Verb"/></e>
         <e><p><l>be_of_the_same_group</l><r>shani</r></p><par n="Verb"/></e>
         <e><p><l>be_of_the_same_group</l><r>sheni</r></p><par n="Verb"/></e>
+        <e><p><l>bring</l><r>am</r></p><par n="Verb"/></e>
         <!-- #####
             C 
         ##### -->
@@ -236,9 +240,9 @@
             B 
         ##### -->
         <!-- tsimeripee / =tsimeri -pee / =bird -pl / EN: 'birds, small.birds'; ES: 'pájaros, pajaritos' -->
-        <e><p><l>bird</l><r>tsimeri<s n="add_p"/>+m.+poss@ti.</r></p><par n="Noun"/></e>
-        <e><p><l>small_bird</l><r>tsimeri</r></p><par n="Noun"/></e>
-        <e><p><l>book</l><r>nyaanamento<s n="add_p"/>+inal.</r></p><par n="Noun"/></e>
+        <e><p><l>bird</l><r>tsimeri<s n="gndr"/>+m.<s n="poss"/>ti</r></p><par n="Noun"/></e>
+        <e><p><l>small_bird</l><r>tsimeri<s n="gndr"/>+m.<s n="poss"/>ti</r></p><par n="Noun"/></e>
+        <e><p><l>book</l><r>nyaanamento<s n="inal"/>+tsi</r></p><par n="Noun"/></e>
         <!-- nihateni / =niha -teni / =water -cl:longitudinal.depression / EN: 'brook, creek' -->
         <e><p><l>brook</l><r>niha<s n="add_mi"/>+CL:longitudinal.depression</r></p><par n="Noun"/></e>
         <!-- #####
