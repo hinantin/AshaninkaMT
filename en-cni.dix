@@ -271,6 +271,9 @@
         <e lm="sheni"><i>sheni</i><par n="nmz__v"/><par n="Noun"/></e>
 		<!-- fellowman, shaninka -->
         <e lm="shani"><i>shani</i><par n="nmz__v"/><par n="Noun"/></e>
+        <!-- inchahempeki / ES: 'leña'; EN: 'firewood' -->
+        <e><p><l>firewood</l><r>incha<s n="add_mi"/>+CL:small.branch</r></p><par n="Noun"/></e>
+        <e><p><l>firewood</l><r>tsitsi</r></p><par n="Noun"/></e>
         <!-- #####
             G 
         ##### -->
@@ -342,7 +345,7 @@
         <!--  -->
         <e><p><l>small</l><r>iyani</r></p><par n="Adjectives"/></e>
         <e><p><l>small</l><r>iyaani</r></p><par n="Adjectives"/></e>
-        <!-- ES: 'pedregal' -->
+        <!-- mapiporoki / =mapi -poroki / =stone -cl:quantity / EN: 'stony_ground, stony_area'; ES: 'pedregal' -->
         <e><p><l>stony_ground</l><r>mapi<s n="add_mi"/>+CL:quantity</r></p><par n="Noun"/></e>
         <e><p><l>stony_area</l><r>mapi<s n="add_mi"/>+CL:quantity</r></p><par n="Noun"/></e>
         <!-- inchakii / =incha -kii / =plant -cl:long,thin.branch / EN: 'stick'; ES: 'palo' -->
