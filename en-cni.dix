@@ -339,7 +339,11 @@
             te onkametsate pikaatakotero piraaja / te onkametsate pikaatakotero piraaha / =te o- n- =kametsa -t -e pi- =kaa -t -ako -t -e -ro p- =iraa -ja 
             / =NEG.REAL  3n.m.s- IRR- =to.be.good -ep -irr  2s- =to.bathe -ep -appl -ep -irr -3n.m.o  2poss- =blood -cl:liquid / EN : 'It is not good to bathe in the river during your period' 
         -->
-        <e><p><l>period</l><r>iraa<s n="add_mi"/>+CL:liquid</r></p><par n="Noun"/></e>
+        <!--
+            kityonkari okanta iraajantsi / kityonkari okanta iraahantsi / =kityonka -ri o- =kant -a =iraa -ha -ntsi 
+            / =to.be.red -rel  3n.m.s- =to.be -real  =blood -cl:liquid -nposs / EN: '(liquid).blood.is.red'; ES: 'la.sangre.es.de.color.rojo' 
+        -->
+        <e><p><l>period</l><r>iraa<s n="add_mi"/>+CL:liquid<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
         <!-- #####
             Q 
         ##### -->
