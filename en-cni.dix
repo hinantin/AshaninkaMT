@@ -54,54 +54,54 @@
             <e><p><l>nka</l><r><s n="n"/><s n="compound-only-L"/></r></p></e>
         </pardef>
         <pardef n="Personal_pronoun">
-            <e><p><l><s n="parol"/>PRP</l><r>PrnPers</r></p></e>
+            <e><p><l><s n="parol"/>PRP</l><r><s n="mi"/>PrnPers</r></p></e>
         </pardef>
         <pardef n="Possessive_pronoun">
-            <e><p><l><s n="parol"/>PRP$</l><r>PrnPoss</r></p></e>
+            <e><p><l><s n="parol"/>PRP$</l><r><s n="mi"/>PrnPoss</r></p></e>
         </pardef>
         <pardef n="Noun">
-            <e><p><l><s n="parol"/>NNS</l><r>NRoot+PL</r></p></e>
-            <e><p><l><s n="parol"/>NN</l><r>NRoot</r></p></e>
-            <e><p><l><s n="parol"/>NNP</l><r>NRoot</r></p></e>
-            <e><p><l><s n="parol"/>NP00000</l><r>NRoot</r></p></e>
-            <e><p><l><s n="parol"/>NP</l><r>NRoot</r></p></e>
-            <e><p><l><s n="parol"/>NP00G00</l><r>NRoot</r></p></e>
-            <e><p><l><s n="parol"/>NP00O00</l><r>NRoot</r></p></e>
-            <e><p><l><s n="parol"/>NP00V00</l><r>NRoot</r></p></e>
-            <e><p><l><s n="parol"/>NP00SP0</l><r>NRoot</r></p></e>
-            <e><p><l><s n="parol"/>NNPS</l><r>NRoot+PL</r></p></e>
+            <e><p><l><s n="parol"/>NNS</l><r><s n="mi"/>NRoot+PL</r></p></e>
+            <e><p><l><s n="parol"/>NN</l><r><s n="mi"/>NRoot</r></p></e>
+            <e><p><l><s n="parol"/>NNP</l><r><s n="mi"/>NRoot</r></p></e>
+            <e><p><l><s n="parol"/>NP00000</l><r><s n="mi"/>NRoot</r></p></e>
+            <e><p><l><s n="parol"/>NP</l><r><s n="mi"/>NRoot</r></p></e>
+            <e><p><l><s n="parol"/>NP00G00</l><r><s n="mi"/>NRoot</r></p></e>
+            <e><p><l><s n="parol"/>NP00O00</l><r><s n="mi"/>NRoot</r></p></e>
+            <e><p><l><s n="parol"/>NP00V00</l><r><s n="mi"/>NRoot</r></p></e>
+            <e><p><l><s n="parol"/>NP00SP0</l><r><s n="mi"/>NRoot</r></p></e>
+            <e><p><l><s n="parol"/>NNPS</l><r><s n="mi"/>NRoot+PL</r></p></e>
         </pardef>
         <pardef n="Verb">
-            <e><p><l><s n="parol"/>MD</l><r>VRoot</r></p></e>
-            <e><p><l><s n="parol"/>VBG</l><r>VRoot</r></p></e>
-            <e><p><l><s n="parol"/>VB</l><r>VRoot</r></p></e>
-            <e><p><l><s n="parol"/>VBN</l><r>VRoot</r></p></e>
-            <e><p><l><s n="parol"/>VBD</l><r>VRoot</r></p></e>
-            <e><p><l><s n="parol"/>VBP</l><r>VRoot</r></p></e>
-            <e><p><l><s n="parol"/>VBZ</l><r>VRoot</r></p></e>
+            <e><p><l><s n="parol"/>MD</l><r><s n="mi"/>VRoot</r></p></e>
+            <e><p><l><s n="parol"/>VBG</l><r><s n="mi"/>VRoot</r></p></e>
+            <e><p><l><s n="parol"/>VB</l><r><s n="mi"/>VRoot</r></p></e>
+            <e><p><l><s n="parol"/>VBN</l><r><s n="mi"/>VRoot</r></p></e>
+            <e><p><l><s n="parol"/>VBD</l><r><s n="mi"/>VRoot</r></p></e>
+            <e><p><l><s n="parol"/>VBP</l><r><s n="mi"/>VRoot</r></p></e>
+            <e><p><l><s n="parol"/>VBZ</l><r><s n="mi"/>VRoot</r></p></e>
         </pardef>
         <pardef n="Adverb">
-            <e><p><l><s n="parol"/>RB</l><r>AdvRoot</r></p></e>
-            <e><p><l><s n="parol"/>RBR</l><r>AdvRoot</r></p></e>
-            <e><p><l><s n="parol"/>RBS</l><r>AdvRoot</r></p></e>
-            <e><p><l><s n="parol"/>WRB</l><r>AdvRoot</r></p></e>
+            <e><p><l><s n="parol"/>RB</l><r><s n="mi"/>AdvRoot</r></p></e>
+            <e><p><l><s n="parol"/>RBR</l><r><s n="mi"/>AdvRoot</r></p></e>
+            <e><p><l><s n="parol"/>RBS</l><r><s n="mi"/>AdvRoot</r></p></e>
+            <e><p><l><s n="parol"/>WRB</l><r><s n="mi"/>AdvRoot</r></p></e>
         </pardef>
         <pardef n="Adjectives">
-            <e><p><l><s n="parol"/>JJ</l><r></r></p></e>
-            <e><p><l><s n="parol"/>JJR</l><r></r></p></e>
-            <e><p><l><s n="parol"/>JJS</l><r></r></p></e>
+            <e><p><l><s n="parol"/>JJ</l><r><s n="mi"/>AdjRoot</r></p></e>
+            <e><p><l><s n="parol"/>JJR</l><r><s n="mi"/>AdjRoot</r></p></e>
+            <e><p><l><s n="parol"/>JJS</l><r><s n="mi"/>AdjRoot</r></p></e>
         </pardef>
         <pardef n="Conjunctions">
             <!-- 
                 Tag         Atributes
                 CC          pos:conjunction; type:coordinating
             -->
-            <e><p><l><s n="parol"/>CC</l><r></r></p></e>  
+            <e><p><l><s n="parol"/>CC</l><r><s n="mi"/>ConnRoot</r></p></e>  
         </pardef> 
         <pardef n="Determiner">
-            <e><p><l><s n="parol"/>DT</l><r></r></p></e>
-            <e><p><l><s n="parol"/>WDT</l><r></r></p></e>
-            <e><p><l><s n="parol"/>PDT</l><r></r></p></e>
+            <e><p><l><s n="parol"/><s n="mi"/>DT</l><r></r></p></e>
+            <e><p><l><s n="parol"/><s n="mi"/>WDT</l><r></r></p></e>
+            <e><p><l><s n="parol"/><s n="mi"/>PDT</l><r></r></p></e>
         </pardef>
     </pardefs>
     <section id="personal_pronouns" type="standard">
