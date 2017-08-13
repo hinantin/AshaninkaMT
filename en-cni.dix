@@ -20,7 +20,7 @@
         <sdef n="add_mi"    c="additional morphology"/>
         <sdef n="poss"    c="poss"/>
         <sdef n="gndr"    c="gender"/>
-        <sdef n="inal"    c="inaliable"/>
+        <sdef n="inal"    c="inalienable"/>
         <sdef n="voc"    c="vocative FLAGS +1S, +2S, +3S, +1PL, +2PL, +3PL"/>
         <sdef n="verbmi"    c="verbal morphology needed for generation"/>
         <sdef n="subj"    c="for verbs: type (semantic label) or lemma of subject"/>
