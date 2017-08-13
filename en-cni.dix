@@ -21,7 +21,8 @@
         <sdef n="poss"    c="poss"/>
         <sdef n="gndr"    c="gender"/>
         <sdef n="inal"    c="inalienable"/>
-        <sdef n="voc"    c="vocative FLAGS +1S, +2S, +3S, +1PL, +2PL, +3PL"/>
+        <sdef n="voc"    c="vocative FLAGS +1SG, +2SG, +3SG, +1PL, +2PL, +3PL"/>
+        <sdef n="num"    c="number +1SG, +2SG, 3SG, 1PL. 2PL, 3PL"/>
         <sdef n="verbmi"    c="verbal morphology needed for generation"/>
         <sdef n="subj"    c="for verbs: type (semantic label) or lemma of subject"/>
         <sdef n="obj"    c="for verbs: type (semantic label) or lemma of object"/>
@@ -137,8 +138,8 @@
         <e><p><l>hers</l><r>ashi<s n="gndr"/>+n.m.</r></p><par n="Possessive_pronoun"/></e>
         <e><p><l>ours</l><r>ashi</r></p><par n="Possessive_pronoun"/></e>
         <e><p><l>yours</l><r>pashiite</r></p><par n="Possessive_pronoun"/></e>
-        <e><p><l>theirs</l><r>irashiite</r></p><par n="Possessive_pronoun"/></e>
-        <e><p><l>theirs</l><r>ashiite</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>theirs</l><r>irashiite<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>theirs</l><r>ashiite<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
     </section>
     <section id="verbs" type="standard">
         <!-- #####
