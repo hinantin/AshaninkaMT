@@ -23,6 +23,7 @@
         <sdef n="inal"    c="inalienable"/>
         <sdef n="voc"    c="vocative FLAGS +1SG, +2SG, +3SG, +1PL, +2PL, +3PL"/>
         <sdef n="num"    c="number +1SG, +2SG, 3SG, 1PL. 2PL, 3PL"/>
+        <sdef n="kinship"    c="+m.ego, +n.m.ego"/>
         <sdef n="verbmi"    c="verbal morphology needed for generation"/>
         <sdef n="subj"    c="for verbs: type (semantic label) or lemma of subject"/>
         <sdef n="obj"    c="for verbs: type (semantic label) or lemma of object"/>
@@ -131,15 +132,15 @@
         <e><p><l>we</l><r>aro</r></p><par n="Personal_pronoun"/></e>
     </section>
     <section id="possessive_pronouns" type="standard">
-        <e><p><l>mine</l><r>nashi<s n="gndr"/>+1SG</r></p><par n="Possessive_pronoun"/></e>
-        <e><p><l>yours</l><r>pashi<s n="gndr"/>+2SG</r></p><par n="Possessive_pronoun"/></e>
-        <e><p><l>his</l><r>rashi<s n="gndr"/>+3SG<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
-        <e><p><l>his</l><r>irashi<s n="gndr"/>+3SG<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
-        <e><p><l>hers</l><r>ashi<s n="gndr"/>+1SG<s n="gndr"/>+n.m.</r></p><par n="Possessive_pronoun"/></e>
-        <e><p><l>ours</l><r>ashi<s n="gndr"/>+1PL</r></p><par n="Possessive_pronoun"/></e>
-        <e><p><l>yours</l><r>pashiite<s n="gndr"/>+2PL</r></p><par n="Possessive_pronoun"/></e>
-        <e><p><l>theirs</l><r>irashiite<s n="gndr"/>+3PL<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
-        <e><p><l>theirs</l><r>ashiite<s n="gndr"/>+3PL<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>mine</l><r>nashi<s n="num"/>+1SG</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>yours</l><r>pashi<s n="num"/>+2SG</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>his</l><r>rashi<s n="num"/>+3SG<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>his</l><r>irashi<s n="num"/>+3SG<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>hers</l><r>ashi<s n="num"/>+1SG<s n="gndr"/>+n.m.</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>ours</l><r>ashi<s n="num"/>+1PL</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>yours</l><r>pashiite<s n="num"/>+2PL</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>theirs</l><r>irashiite<s n="num"/>+3PL<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>theirs</l><r>ashiite<s n="num"/>+3PL<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
     </section>
     <section id="verbs" type="standard">
         <!-- #####
@@ -250,7 +251,7 @@
             C 
         ##### -->
         <!-- tsimerityonki / =tsimeri -tyonki / =bird -cl:long.tree.segment / EN: 'chili_pepper'; ES: 'espcie_de_ají'-->
-        <e><p><l>chili_pepper</l><r>tsimeri<s n="add_mi"/>+CL:long.tree.segment<s n="add_p"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>chili_pepper</l><r>tsimeri<s n="add_mi"/>+CL:long.tree.segment<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <!-- nihateni / EN: 'creek' -->
         <e><p><l>creek</l><r>niha<s n="add_mi"/>+CL:longitudinal.depression</r></p><par n="Noun"/></e>
         <!-- inchatonaki / =incha -to -naki / =plant -cl:tree -cl:round.hollow / ES: 'cosho'; EN: 'cosho' -->
@@ -258,7 +259,7 @@
         <!-- #####
             D 
         ##### -->
-        <e><p><l>daughter_in_law</l><r>nyaniyo<s n="add_p"/>+m.ego</r></p><par n="Noun"/></e>
+        <e><p><l>daughter_in_law</l><r>nyaniyo<s n="kinship"/>+m.ego</r></p><par n="Noun"/></e>
         <!-- #####
             E 
         ##### -->
@@ -315,13 +316,13 @@
         <!-- lacquer, patanariki -->
         <e><p><l>lacquer</l><r>patanari<s n="add_mi"/>+CL:S.R.H</r></p><par n="Noun"/></e>
         <!-- tsantsakirentsi / =tsantsa -ki -re -ntsi / =long -cl:s.r.h -nmz -nposs / EN: 'long-pointed.fishing.arrow'; ES: 'flecha.para.la.pesca.con.punta.larga' -->
-        <e><p><l>long_pointed_fishing_arrow</l><r>tsantsakire<s n="add_p"/>+inal.</r></p><par n="Noun"/></e>
+        <e><p><l>long_pointed_fishing_arrow</l><r>tsantsakire<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
         <!-- tsatamentotsi / =tsat -a -mento -tsi / =to.tear.into.two.parts -ep -concr -nposs / ES: 'flecha.para.la.pesca.con.punta.larga (no.necesita.de.un.arco.propulsor) ' -->
-        <e><p><l>bowless_long_pointed_fishing_arrow</l><r>tsatamento<s n="add_p"/>+inal.</r></p><par n="Noun"/></e>
+        <e><p><l>bowless_long_pointed_fishing_arrow</l><r>tsatamento<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
         <!-- #####
             M 
         ##### -->
-        <e><p><l>microphone</l><r>nyaanamento<s n="add_p"/>+inal.</r></p><par n="Noun"/></e>
+        <e><p><l>microphone</l><r>nyaanamento<s n="inal"/>+tsi</r></p><par n="Noun"/></e>
         <!-- #####
             N 
         ##### -->
