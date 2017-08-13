@@ -21,7 +21,7 @@
         <sdef n="poss"    c="poss"/>
         <sdef n="gndr"    c="gender"/>
         <sdef n="inal"    c="inalienable"/>
-        <sdef n="voc"    c="vocative FLAGS +1SG, +2SG, +3SG, +1PL, +2PL, +3PL"/>
+        <sdef n="voc"    c="vocative FLAGS +N (None). +1SG, +2SG, +3SG, +1PL, +2PL, +3PL"/>
         <sdef n="num"    c="number +1SG, +2SG, 3SG, 1PL. 2PL, 3PL"/>
         <sdef n="kinship"    c="+m.ego, +n.m.ego"/>
         <sdef n="verbmi"    c="verbal morphology needed for generation"/>
@@ -242,8 +242,8 @@
             B 
         ##### -->
         <!-- tsimeripee / =tsimeri -pee / =bird -pl / EN: 'birds, small.birds'; ES: 'pájaros, pajaritos' -->
-        <e><p><l>bird</l><r>tsimeri<s n="gndr"/>+m.<s n="poss"/>ti</r></p><par n="Noun"/></e>
-        <e><p><l>small_bird</l><r>tsimeri<s n="gndr"/>+m.<s n="poss"/>ti</r></p><par n="Noun"/></e>
+        <e><p><l>bird</l><r>tsimeri<s n="gndr"/>+m.<s n="poss"/>+ti</r></p><par n="Noun"/></e>
+        <e><p><l>small_bird</l><r>tsimeri<s n="gndr"/>+m.<s n="poss"/>+ti</r></p><par n="Noun"/></e>
         <e><p><l>book</l><r>nyaanamento<s n="inal"/>+tsi</r></p><par n="Noun"/></e>
         <!-- nihateni / =niha -teni / =water -cl:longitudinal.depression / EN: 'brook, creek' -->
         <e><p><l>brook</l><r>niha<s n="add_mi"/>+CL:longitudinal.depression</r></p><par n="Noun"/></e>
@@ -314,7 +314,7 @@
             L 
         ##### -->
         <!-- lacquer, patanariki -->
-        <e><p><l>lacquer</l><r>patanari<s n="add_mi"/>+CL:S.R.H</r></p><par n="Noun"/></e>
+        <e><p><l>lacquer</l><r>patanari<s n="add_mi"/>+CL:S.R.H<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <!-- tsantsakirentsi / =tsantsa -ki -re -ntsi / =long -cl:s.r.h -nmz -nposs / EN: 'long-pointed.fishing.arrow'; ES: 'flecha.para.la.pesca.con.punta.larga' -->
         <e><p><l>long_pointed_fishing_arrow</l><r>tsantsakire<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
         <!-- tsatamentotsi / =tsat -a -mento -tsi / =to.tear.into.two.parts -ep -concr -nposs / ES: 'flecha.para.la.pesca.con.punta.larga (no.necesita.de.un.arco.propulsor) ' -->
@@ -327,7 +327,7 @@
             N 
         ##### -->
         <!-- inchato / =incha -to / =plant -cl:tree / EN: 'tree' ES: 'árbol' -->
-        <e><p><l>tree</l><r>incha<s n="add_mi"/>+CL:tree</r></p><par n="Noun"/></e>
+        <e><p><l>tree</l><r>incha<s n="add_mi"/>+CL:tree<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <!-- #####
             O 
         ##### -->
@@ -369,13 +369,15 @@
         <!-- #####
             U 
         ##### -->
-        <e><p><l>uncle</l><r>pava<s n="add_mi"/>+CL:distant/surrogate.kin+poss@ti.</r></p><par n="Noun"/></e>
+        <e><p><l>uncle</l><r>pava<s n="add_mi"/>+CL:distant/surrogate.kin<s n="poss"/>+ti<s n="voc"/>+N+1SG</r></p><par n="Noun"/></e>
+        <e><p><l>uncle</l><r>iri<s n="add_mi"/>+CL:distant/surrogate.kin<s n="voc"/>+1SG</r></p><par n="Noun"/></e>
         <!-- #####
             V 
         ##### -->
         <!-- #####
             W 
         ##### -->
+        
         <!-- #####
             X 
         ##### -->
