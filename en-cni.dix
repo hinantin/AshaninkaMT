@@ -131,15 +131,15 @@
         <e><p><l>we</l><r>aro</r></p><par n="Personal_pronoun"/></e>
     </section>
     <section id="possessive_pronouns" type="standard">
-        <e><p><l>mine</l><r>nashi</r></p><par n="Possessive_pronoun"/></e>
-        <e><p><l>yours</l><r>pashi</r></p><par n="Possessive_pronoun"/></e>
-        <e><p><l>his</l><r>rashi<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
-        <e><p><l>his</l><r>irashi<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
-        <e><p><l>hers</l><r>ashi<s n="gndr"/>+n.m.</r></p><par n="Possessive_pronoun"/></e>
-        <e><p><l>ours</l><r>ashi</r></p><par n="Possessive_pronoun"/></e>
-        <e><p><l>yours</l><r>pashiite</r></p><par n="Possessive_pronoun"/></e>
-        <e><p><l>theirs</l><r>irashiite<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
-        <e><p><l>theirs</l><r>ashiite<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>mine</l><r>nashi<s n="gndr"/>+1SG</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>yours</l><r>pashi<s n="gndr"/>+2SG</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>his</l><r>rashi<s n="gndr"/>+3SG<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>his</l><r>irashi<s n="gndr"/>+3SG<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>hers</l><r>ashi<s n="gndr"/>+1SG<s n="gndr"/>+n.m.</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>ours</l><r>ashi<s n="gndr"/>+1PL</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>yours</l><r>pashiite<s n="gndr"/>+2PL</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>theirs</l><r>irashiite<s n="gndr"/>+3PL<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>theirs</l><r>ashiite<s n="gndr"/>+3PL<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
     </section>
     <section id="verbs" type="standard">
         <!-- #####
