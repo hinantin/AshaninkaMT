@@ -323,6 +323,10 @@
         <!-- #####
             M 
         ##### -->
+        <!-- kaniria / =kaniri -a / =yucca -cl:liquid / ES: 'bebida.de.yuca, masato'; EN: 'manioc.beer, masato' -->
+        <e><p><l>manioc</l><r>kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>manioc_beer</l><r>kaniri<s n="add_mi"/>+CL:liquid</r></p><par n="Noun"/></e>
+        <e><p><l>masato</l><r>kaniri<s n="add_mi"/>+CL:liquid</r></p><par n="Noun"/></e>
         <e><p><l>microphone</l><r>nyaanamento<s n="inal"/>+tsi</r></p><par n="Noun"/></e>
         <!-- #####
             N 
@@ -389,6 +393,7 @@
         <!-- #####
             Y 
         ##### -->
+        <e><p><l>yucca</l><r>kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <!-- #####
             Z 
         ##### -->
