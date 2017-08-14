@@ -256,6 +256,7 @@
         <e><p><l>creek</l><r>niha<s n="add_mi"/>+CL:longitudinal.depression</r></p><par n="Noun"/></e>
         <!-- inchatonaki / =incha -to -naki / =plant -cl:tree -cl:round.hollow / ES: 'cosho'; EN: 'cosho' -->
         <e><p><l>cosho</l><r>incha<s n="add_mi"/>+CL:tree+CL:round.hollow</r></p><par n="Noun"/></e>
+        <e><p><l>clay_pot</l><r>kovitzi<s n="gndr"/>+n.m.<s n="poss"/>+te</r></p><par n="Noun"/></e>
         <!-- #####
             D 
         ##### -->
