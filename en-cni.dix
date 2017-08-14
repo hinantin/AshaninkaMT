@@ -394,6 +394,8 @@
             Y 
         ##### -->
         <e><p><l>yucca</l><r>kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <!-- kaniriapatsa / kaniri -a -patsa / ES: 'masa.de.yuca' -->
+        <e><p><l>yucca_mass</l><r>kaniri<s n="add_mi"/>+CL:liquid+CL:mass</r></p><par n="Noun"/></e>
         <!-- #####
             Z 
         ##### -->
