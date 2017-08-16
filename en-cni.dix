@@ -376,6 +376,7 @@
         <e><p><l>small</l><r>iyaani</r></p><par n="Adjectives"/></e>
         <e><p><l>small</l><r>kapiche</r></p><par n="Adjectives"/></e>
         <e><p><l>small</l><r>kapichee</r></p><par n="Adjectives"/></e>
+        <e><p><l>small_parrot</l><r>chokiyo</r></p><par n="Noun"/></e>
         <!-- mapiporoki / =mapi -poroki / =stone -cl:quantity / EN: 'stony_ground, stony_area'; ES: 'pedregal' -->
         <e><p><l>stony_ground</l><r>mapi<s n="add_mi"/>+CL:quantity</r></p><par n="Noun"/></e>
         <e><p><l>stony_area</l><r>mapi<s n="add_mi"/>+CL:quantity</r></p><par n="Noun"/></e>
