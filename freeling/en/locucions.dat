@@ -136,6 +136,7 @@ clay_<pot> clay_pot $2:NN I
 % Adverbs
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 down_river down_river RP I
+up_river up_river RP I
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Ideophones
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
