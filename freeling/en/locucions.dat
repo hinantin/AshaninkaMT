@@ -129,6 +129,8 @@ manioc_<beer> manioc_beer $2:NN I
 yucca_<mass> yucca_mass $2:NN I
 clay_<pot> clay_pot $2:NN I
 small_<parrot> small_parrot $2:NN I
+chimicua_<tree> chimicua_tree $2:NN I
+chamairo_<vine> chamairo_vine $2:NN I
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Verbs
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
