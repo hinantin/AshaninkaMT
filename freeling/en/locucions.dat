@@ -121,13 +121,18 @@ up_front up_front RB I
 up_front up_front JJ I
 vice_versa vice_versa RB I
 Z_times $L1_times RB I
-gravel_pit gravel_pit NN I
-manioc_beer manioc_beer NN I
-yucca_mass yucca_mass NN I
-clay_pot clay_pot NN I
-prey_on prey_on VBP I
-preyed_on prey_on VBD I
-preyed_on prey_on VBN I
-preying_on prey_on VBG I
-preys_on prey_on VBZ I
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Nouns
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+gravel_<pit> gravel_pit $2:NN I
+manioc_<beer> manioc_beer $2:NN I
+yucca_<mass> yucca_mass $2:NN I
+clay_<pot> clay_pot $2:NN I
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Verbs
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<prey>_on prey_on $1:VB I
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Ideophones
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 </Multiwords>
