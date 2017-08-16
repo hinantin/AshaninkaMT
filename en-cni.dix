@@ -111,6 +111,9 @@
         <pardef n="Ideophone">
             <e><p><l><s n="parol"/>NN</l><r><s n="mi"/>IdeoRoot</r></p></e>
         </pardef>
+        <pardef n="Particle">
+            <e><p><l><s n="parol"/>RP</l><r></r></p></e>
+        </pardef>
     </pardefs>
     <section id="personal_pronouns" type="standard">
         <!--  -->
@@ -267,6 +270,7 @@
             D 
         ##### -->
         <e><p><l>daughter_in_law</l><r>nyaniyo<s n="kinship"/>+m.ego</r></p><par n="Noun"/></e>
+        <e><p><l>down_river</l><r>kirinka</r></p><par n="Particle"/></e>
         <!-- #####
             E 
         ##### -->
