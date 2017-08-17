@@ -132,7 +132,7 @@ small_<parrot> small_parrot $2:NN I
 chimicua_<tree> chimicua_tree $2:NN I
 chamairo_<vine> chamairo_vine $2:NN I
 <daughter>_in_law daughter_in_law $1:NN I
-cry_<baby> cry_baby $1:NN I
+cry_<baby> cry_baby $2:NN I
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Verbs
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
