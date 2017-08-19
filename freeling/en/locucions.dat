@@ -133,6 +133,8 @@ chimicua_<tree> chimicua_tree $2:NN I
 chamairo_<vine> chamairo_vine $2:NN I
 <daughter>_in_law daughter_in_law $1:NN I
 cry_<baby> cry_baby $2:NN I
+wealthy_<woman> wealthy_woman $2:NN I
+wealthy_<man> wealthy_man $2:NN I
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Verbs
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
