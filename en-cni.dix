@@ -24,6 +24,8 @@
         <sdef n="voc"    c="vocative FLAGS +N (None). +1SG, +2SG, +3SG, +1PL, +2PL, +3PL"/>
         <sdef n="num"    c="number +1SG, +2SG, 3SG, 1PL. 2PL, 3PL"/>
         <sdef n="kinship"    c="+m.ego, +n.m.ego"/>
+        <!-- Location -->
+        <sdef n="loc"    c="location"/>
         <sdef n="verbmi"    c="verbal morphology needed for generation"/>
         <sdef n="subj"    c="for verbs: type (semantic label) or lemma of subject"/>
         <sdef n="obj"    c="for verbs: type (semantic label) or lemma of object"/>
@@ -436,6 +438,17 @@
         <e><p><l>close.by</l><r>okaaki<s n="add_mi"/>+ADV@ni</r></p><par n="Adverb"/></e>
         <!-- shintsini / =shintsi -ni / =to.be.quick -adv / EN: 'quickly' -->
         <e><p><l>quickly</l><r>shintsi<s n="add_mi"/>+ADV@ni</r></p><par n="Adverb"/></e>
+        <!-- ================================== 
+            Location 
+        ================================== -->
+        <e><p><l>here</l><r>aka<s n="loc"/>+proximal.b.</r></p><par n="Adverb"/></e>
+        <e><p><l>here</l><r>haka<s n="loc"/>+proximal.b.</r></p><par n="Adverb"/></e>
+        <e><p><l>there</l><r>ara<s n="loc"/>+medial.b.</r></p><par n="Adverb"/></e>
+        <e><p><l>there</l><r>hara<s n="loc"/>+medial.b.</r></p><par n="Adverb"/></e>
+        <e><p><l>there</l><r>anta<s n="loc"/>+distal.b.</r></p><par n="Adverb"/></e>
+        <e><p><l>there</l><r>hanta<s n="loc"/>+distal.b.</r></p><par n="Adverb"/></e>
+        <e><p><l>there</l><r>anto<s n="loc"/>+distal.unb.</r></p><par n="Adverb"/></e>
+        <e><p><l>there</l><r>hanto<s n="loc"/>+distal.unb.</r></p><par n="Adverb"/></e>
     </section>
     <section id="conjunctions" type="standard">
         <e><p><l>but</l><r>irokantaincha</r></p><par n="Conjunctions"/></e>
