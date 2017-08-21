@@ -285,6 +285,8 @@
         <!-- antyaro onika / =antyaro =onika / =big =earthquake / ES: un.gran.terremoto, EN: big.earthquake -->
         <!-- otarankantanakari, otzimaki antaro onika / o- =tarank -ant -an -ak -a -ri  o- =tzim -ak -i  =antaro  =onika / 3n.m.s- =to.fall.down -appl.reas -dir -prf -irr -rel  3n.m.s- =to.exist -prf -irr  =big  =earthquake / EN: 'when.the.hills.collapsed.during.a.big.earthquake' \cite[p.169]{mihas:narrative:14} -->
         <e><p><l>earthquake</l><r>onika<s n="preform"/>#antyaro</r></p><par n="Adjectives"/></e>
+        <!-- shintsitsaro / =shintsi -tsa -ro+n.m. / =to.be.strong -cl:long.flexible.thin -nmz / EN: 'exclamation.mark'; ES: 'signo.de.admiración' -->
+        <e><p><l>exclamation_mark</l><r>shintsitsaro<s n="gndr"/>+n.m.</r></p><par n="Adjectives"/></e>
         <!-- sokijamentotsi / EN: 'exit'; ES: 'salida' -->
         <e><p><l>exit</l><r>sokihamento<s n="inal"/>+tsi</r></p><par n="Noun"/></e>
         <!-- #####
