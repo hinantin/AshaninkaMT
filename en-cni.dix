@@ -366,6 +366,8 @@
         <!-- #####
             P 
         ##### -->
+        <!-- samaninki / [=samani+m. =inki+n.m.]+n.m. / =rodent.sp. =peanut / EN: 'peanut.sp.'; ES: 'especie.de.maní' -->
+        <e><p><l>peanut</l><r>samaninki<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <!-- 
             te onkametsate pikaatakotero piraaja / te onkametsate pikaatakotero piraaha / =te o- n- =kametsa -t -e pi- =kaa -t -ako -t -e -ro p- =iraa -ja 
             / =NEG.REAL  3n.m.s- IRR- =to.be.good -ep -irr  2s- =to.bathe -ep -appl -ep -irr -3n.m.o  2poss- =blood -cl:liquid / EN : 'It is not good to bathe in the river during your period' 
