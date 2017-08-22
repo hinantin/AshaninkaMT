@@ -321,6 +321,8 @@
         <!-- inchashi / =incha -shi / =plant -cl:l.s.t.f.f / EN: 'herb' ES: 'hierba' -->
         <e><p><l>herb</l><r>incha<s n="add_mi"/>+CL:L.S.T.F.F</r></p><par n="Noun"/></e>
         <e><p><l>home</l><r>panko</r></p><par n="Noun"/></e>
+        <e><p><l>hot</l><r>saava<s n="add_mi"/>+CL:liquid+ADJ<s n="gndr"/>+m.</r></p><par n="Adjectives"/></e>
+        <e><p><l>hot</l><r>saava<s n="add_mi"/>+CL:liquid+ADJ<s n="gndr"/>+n.m.</r></p><par n="Adjectives"/></e>
         <!-- #####
             I 
         ##### -->
