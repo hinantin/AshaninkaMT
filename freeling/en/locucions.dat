@@ -136,6 +136,7 @@ cry_<baby> cry_baby $2:NN I
 wealthy_<woman> wealthy_woman $2:NN I
 wealthy_<man> wealthy_man $2:NN I
 exclamation_<mark> exclamation_mark $2:NN I
+plantain_<sprout> plantain_sprout $2:NN I
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Verbs
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

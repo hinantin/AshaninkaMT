@@ -373,6 +373,8 @@
         <e><p><l>period</l><r>iraa<s n="add_mi"/>+CL:liquid<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
         <!-- oveshiki parenti / =oveshiki =parenti / =new.sprout =plantain / EN: 'plantain.sprout'; ES: 'brote/mamón.del.plátano' -->
         <e><p><l>plantain_sprout</l><r>parenti<s n="preform"/>#oveshiki</r></p><par n="Noun"/></e>
+        <e><p><l>plantain</l><r>chentero<s n="add_mi"/>+CL:plantain<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>plantain</l><r>mamaro<s n="add_mi"/>+CL:plantain<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <!-- #####
             Q 
         ##### -->
