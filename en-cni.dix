@@ -258,6 +258,8 @@
         <e><p><l>book</l><r>nyaanamento<s n="inal"/>+tsi</r></p><par n="Noun"/></e>
         <!-- nihateni / =niha -teni / =water -cl:longitudinal.depression / EN: 'brook, creek' -->
         <e><p><l>brook</l><r>niha<s n="add_mi"/>+CL:longitudinal.depression</r></p><par n="Noun"/></e>
+        <!-- tsiyomentotsi / =tsiyo -mento -tsi / =to.give.off.light -concr -nposs / EN: 'burner'; ES: 'mechero' -->
+        <e><p><l>burner</l><r>tsiyomento<s n="inal"/>+tsi</r></p><par n="Noun"/></e>
         <!-- #####
             C 
         ##### -->
@@ -287,7 +289,7 @@
         <e><p><l>earthquake</l><r>onika<s n="preform"/>#antyaro</r></p><par n="Adjectives"/></e>
         <!-- shintsitsaro / =shintsi -tsa -ro+n.m. / =to.be.strong -cl:long.flexible.thin -nmz / EN: 'exclamation.mark'; ES: 'signo.de.admiración' -->
         <e><p><l>exclamation_mark</l><r>shintsitsaro<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <!-- sokijamentotsi / EN: 'exit'; ES: 'salida' -->
+        <!-- sokijamentotsi / sokihamentotsi / =sokih -a -mento -tsi / =to.go.out -ep -concr -nposs / EN: 'exit'; ES: 'salida' -->
         <e><p><l>exit</l><r>sokihamento<s n="inal"/>+tsi</r></p><par n="Noun"/></e>
         <!-- #####
             F 
