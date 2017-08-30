@@ -267,6 +267,8 @@
         <!-- tsimerityonki / =tsimeri -tyonki / =bird -cl:long.tree.segment / EN: 'chili_pepper'; ES: 'espcie_de_ají'-->
         <e><p><l>chili_pepper</l><r>tsimeri<s n="add_mi"/>+CL:long.tree.segment<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>chimicua_tree</l><r>meronki<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <!-- apatotantsipanko / =apato -t -antsi =panko / =to.meet -ep -inf =house / EN: 'community.hall'; ES: 'salòn.comunal' -->
+        <e><p><l>community_hall</l><r>panko<s n="preform"/>#apatotantsi</r></p><par n="Noun"/></e>
         <!-- nihateni / EN: 'creek' -->
         <e><p><l>creek</l><r>niha<s n="add_mi"/>+CL:longitudinal.depression</r></p><par n="Noun"/></e>
         <!-- inchatonaki / =incha -to -naki / =plant -cl:tree -cl:round.hollow / ES: 'cosho'; EN: 'cosho' -->
