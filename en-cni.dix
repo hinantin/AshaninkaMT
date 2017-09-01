@@ -396,6 +396,8 @@
         ##### -->
         <e><p><l>relative</l><r>sheni<s n="add_mi"/>+NMZ@nka</r></p><par n="Noun"/></e>
         <e><p><l>relative</l><r>shani<s n="add_mi"/>+NMZ@nka</r></p><par n="Noun"/></e>
+        <!-- kaaritseeyacha / kaari tseeyacha / =kaari =tseey -acha / =NEG.COP =to.lie -stat / EN: 'reliable'; ES: 'confiable' -->
+        <e><p><l>reliable</l><r>tseeyacha<s n="preform"/>#kaari</r></p><par n="Noun"/></e>
         <!-- #####
             S 
         ##### -->
@@ -441,6 +443,8 @@
         <e><p><l>wasp</l><r>sani<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>wealthy_woman</l><r>kireekipakoro<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>wealthy_man</l><r>kireekipakori<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
+        <!-- ampitsari / =ampitsa -ri / =to.be.wrinkled -nmz / EN: 'wrinkled'; ES: 'arrugado' -->
+        <e><p><l>wrinkled</l><r>ampitsari<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <!-- #####
             X 
         ##### -->
