@@ -252,6 +252,8 @@
         <!-- #####
             B 
         ##### -->
+        <!-- ayomparitaantsi / =ayompari -t -aantsi / =trading.partner -ep -inf / EN: 'barter, the.bartering'; ES: 'trueque, persona.que.intercambia.cosas' -->
+        <e><p><l>barter</l><r>ayomparitaantsi</r></p><par n="Noun"/></e>
         <!-- tsimeripee / =tsimeri -pee / =bird -pl / EN: 'birds, small.birds'; ES: 'pájaros, pajaritos' -->
         <e><p><l>bird</l><r>tsimeri<s n="gndr"/>+m.<s n="poss"/>+ti</r></p><par n="Noun"/></e>
         <e><p><l>small_bird</l><r>tsimeri<s n="gndr"/>+m.<s n="poss"/>+ti</r></p><par n="Noun"/></e>
@@ -350,6 +352,9 @@
         ##### -->
         <!-- lacquer, patanariki -->
         <e><p><l>lacquer</l><r>patanari<s n="add_mi"/>+CL:S.R.H<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <!--  -->
+        <e><p><l>liar</l><r>cheeyari<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
+        <e><p><l>liar</l><r>tseeyari<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <!-- tsantsakirentsi / =tsantsa -ki -re -ntsi / =long -cl:s.r.h -nmz -nposs / EN: 'long-pointed.fishing.arrow'; ES: 'flecha.para.la.pesca.con.punta.larga' -->
         <e><p><l>long_pointed_fishing_arrow</l><r>tsantsakire<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
         <!-- tsatamentotsi / =tsat -a -mento -tsi / =to.tear.into.two.parts -ep -concr -nposs / ES: 'flecha.para.la.pesca.con.punta.larga (no.necesita.de.un.arco.propulsor) ' -->
