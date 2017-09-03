@@ -1,4 +1,6 @@
 compile:
+	@cp /usr/local/share/freeling/en/locucions.dat freeling/en
+	@cp /usr/local/share/freeling/en/dicc.src freeling/en
 	@rm -f es-cni.bin
 	@lt-comp lr es-cni.dix es-cni.bin
 	@echo "pedregal" | lt-proc es-cni.bin

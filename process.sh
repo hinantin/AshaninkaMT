@@ -6,9 +6,6 @@ CONFIG=/usr/local/share/freeling/config
 
 # sh process.sh myinput.txt myoutput.txt
 
-cp /usr/local/share/freeling/en/locucions.dat freeling/en
-cp /usr/local/share/freeling/en/dicc.src freeling/en
-
 INPUT=myinput.txt
 OUTPUT=myoutput.txt
 
