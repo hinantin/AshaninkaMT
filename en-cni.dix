@@ -255,6 +255,8 @@
         ##### -->
         <!-- ayomparitaantsi / =ayompari -t -aantsi / =trading.partner -ep -inf / EN: 'barter, the.bartering'; ES: 'trueque, persona.que.intercambia.cosas' -->
         <e><p><l>barter</l><r>ayomparitaantsi</r></p><par n="Noun"/></e>
+        <!-- kajemamentotsi / kahemamentotsi / =kahem -a -mento -tsi / EN: 'bell'; ES: 'campana' -->
+        <e><p><l>bell</l><r>kahemamento<s n="inal"/>+tsi</r></p><par n="Noun"/></e>
         <!-- tsimeripee / =tsimeri -pee / =bird -pl / EN: 'birds, small.birds'; ES: 'pájaros, pajaritos' -->
         <e><p><l>bird</l><r>tsimeri<s n="gndr"/>+m.<s n="poss"/>+ti</r></p><par n="Noun"/></e>
         <e><p><l>small_bird</l><r>tsimeri<s n="gndr"/>+m.<s n="poss"/>+ti</r></p><par n="Noun"/></e>
