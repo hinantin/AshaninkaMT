@@ -429,6 +429,8 @@
         <!-- kaari kemisantatsini / =kaari  =kemisan -t -atsi -ni / =NEG.COP =to.obey -ep -stat -rel / ES: 'terco', EN: 'stubborn; lit.: the.one.who.doe.not.obey' -->
         <e><p><l>stubborn</l><r>kemisantatsini<s n="preform"/>#kaari</r></p><par n="Adjectives"/></e>
         <e><p><l>school</l><r>panko<s n="preform"/>#yotaantsi</r></p><par n="Noun"/></e>
+        <e><p><l>snakebite_medicinal_plant</l><r>mankeshi<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>snakebite_medicinal_plant</l><r>mankishi<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <!-- #####
             T 
         ##### -->        
