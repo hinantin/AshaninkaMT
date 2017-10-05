@@ -319,6 +319,7 @@
         <!-- #####
             G 
         ##### -->
+        <!-- animal_de_caza -->
         <e><p><l>game_animal</l><r>poshiniri<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>god</l><r>pava<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <!-- inchashi / =incha -shi / =plant -cl:l.s.t.f.f / EN: 'grass' ES: 'pasto' -->
@@ -372,6 +373,7 @@
         <!-- #####
             M 
         ##### -->
+        <!-- mamífero -->
         <e><p><l>mammal</l><r>poshiniri<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <!-- kaniria / =kaniri -a / =yucca -cl:liquid / ES: 'bebida.de.yuca, masato'; EN: 'manioc.beer, masato' -->
         <e><p><l>manioc</l><r>kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
