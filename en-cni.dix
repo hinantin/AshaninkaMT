@@ -470,6 +470,9 @@
         <!-- #####
             W 
         ##### -->
+        <!-- parija / pariha / =pari -ha / =to.fall -cl:liquid / EN: 'waterfall'; ES: 'caída.de.agua, cascada' -->
+        <e><p><l>waterfall</l><r>pari<s n="gndr"/>+CL:liquid</r></p><par n="Noun"/></e>
+        <!--  -->
         <e><p><l>wasp</l><r>sani<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>wealthy_woman</l><r>kireekipakoro<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>wealthy_man</l><r>kireekipakori<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
