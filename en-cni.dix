@@ -446,6 +446,7 @@
         <e><p><l>sweet_pepper</l><r>pochari<s n="add_mi"/>+CL:chili-pepper</r></p><par n="Noun"/></e>
         <!-- pochariyaniri / =pochari =kaniri / =sweet =yucca / EN: 'sweet.yucca'; ES: 'sp.de.yuca' -->
         <e><p><l>sweet_yucca</l><r>pochariyaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>sweet_manioc</l><r>pochariyaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <!-- #####
             T 
         ##### -->        
