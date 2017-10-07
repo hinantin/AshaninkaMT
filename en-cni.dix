@@ -427,10 +427,12 @@
         <!-- ES: 'adormilado/sleepy, dormilón/sleepyhead, soñoliento/drowsy' -->
         <e><p><l>sleepy</l><r>pochokintsi<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>sleepy</l><r>pochokinti<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
+        <!--  -->
         <e><p><l>small</l><r>iyani</r></p><par n="Adjectives"/></e>
         <e><p><l>small</l><r>iyaani</r></p><par n="Adjectives"/></e>
         <e><p><l>small</l><r>kapiche</r></p><par n="Adjectives"/></e>
         <e><p><l>small</l><r>kapichee</r></p><par n="Adjectives"/></e>
+        <!--  -->
         <e><p><l>small_parrot</l><r>chokiyo</r></p><par n="Noun"/></e>
         <!-- mapiporoki / =mapi -poroki / =stone -cl:quantity / EN: 'stony_ground, stony_area'; ES: 'pedregal' -->
         <e><p><l>stony_ground</l><r>mapi<s n="add_mi"/>+CL:quantity</r></p><par n="Noun"/></e>
@@ -441,7 +443,9 @@
         <e><p><l>sealing_wax</l><r>patanari<s n="add_mi"/>+CL:S.R.H</r></p><par n="Noun"/></e>
         <!-- kaari kemisantatsini / =kaari  =kemisan -t -atsi -ni / =NEG.COP =to.obey -ep -stat -rel / ES: 'terco', EN: 'stubborn; lit.: the.one.who.doe.not.obey' -->
         <e><p><l>stubborn</l><r>kemisantatsini<s n="preform"/>#kaari</r></p><par n="Adjectives"/></e>
+        <!--  -->
         <e><p><l>school</l><r>panko<s n="preform"/>#yotaantsi</r></p><par n="Noun"/></e>
+        <!--  -->
         <e><p><l>snakebite_medicinal_plant</l><r>mankeshi<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>snakebite_medicinal_plant</l><r>mankishi<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <!-- pocharikana / =pochari -kana / =sweet -cl:chili-pepper / ES: 'ají.dulce'; EN: 'sweet.pepper' -->
