@@ -442,6 +442,10 @@
         <e><p><l>school</l><r>panko<s n="preform"/>#yotaantsi</r></p><par n="Noun"/></e>
         <e><p><l>snakebite_medicinal_plant</l><r>mankeshi<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>snakebite_medicinal_plant</l><r>mankishi<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <!-- pocharikana / =pochari -kana / =sweet -cl:chili-pepper / ES: 'ají.dulce'; EN: 'sweet.pepper' -->
+        <e><p><l>sweet_pepper</l><r>pochari<s n="add_mi"/>+CL:chili-pepper</r></p><par n="Noun"/></e>
+        <!-- pochariyaniri / =pochari =kaniri / =sweet =yucca / EN: 'sweet.yucca'; ES: 'sp.de.yuca' -->
+        <e><p><l>sweet_yucca</l><r>pochariyaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <!-- #####
             T 
         ##### -->        
