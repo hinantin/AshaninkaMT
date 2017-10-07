@@ -140,6 +140,9 @@ exclamation_<mark> exclamation_mark $2:NN I
 plantain_<sprout> plantain_sprout $2:NN I
 community_<hall> community_hall $2:NN I
 venomous_<root> venomous_root $2:NN I
+sweet_<pepper> sweet_pepper $2:NN I
+sweet_<yucca> sweet_yucca $2:NN I
+sweet_<manioc> sweet_manioc $2:NN I
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Verbs
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
