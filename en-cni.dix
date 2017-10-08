@@ -428,6 +428,8 @@
         <!-- #####
             S 
         ##### -->
+        <!-- tsinane pimantirori ovatsa / =tsinane  =pimant -i -ro -ri  o- =vatsa / EN: 'sex.worker, lit.: woman.who.sells.her.flesh'; ES: 'trabajadora.sexual' -->
+        <e><p><l>sex_worker</l><r>ovatsa<s n="preform"/>#tsinane#pimantirori</r></p><par n="Noun"/></e>
         <!-- kaari kameetsatatsi / =kaari =kameetsa -t -atsi / =NEG.COP  =to.be.good -ep -stat / EN: 'sin'; ES: 'maldad, pecado' -->
         <e><p><l>sin</l><r>kameetsatatsi<s n="preform"/>#kaari</r></p><par n="Noun"/></e>
         <!-- ES: 'adormilado/sleepy, dormilón/sleepyhead, soñoliento/drowsy' -->
