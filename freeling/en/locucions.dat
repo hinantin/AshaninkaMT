@@ -144,6 +144,7 @@ sweet_<pepper> sweet_pepper $2:NN I
 sweet_<yucca> sweet_yucca $2:NN I
 sweet_<manioc> sweet_manioc $2:NN I
 snakebite_medicinal_<plant> snakebite_medicinal_plant $3:NN I
+pregnant_<woman> pregnant_woman $2:NN I
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Verbs
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
