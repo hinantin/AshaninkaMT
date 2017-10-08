@@ -335,6 +335,9 @@
         <e><p><l>healthy</l><r>oyerini<s n="preform"/>#tekatsi</r></p><par n="Adjectives"/></e>
         <!-- inchashi / =incha -shi / =plant -cl:l.s.t.f.f / EN: 'herb' ES: 'hierba' -->
         <e><p><l>herb</l><r>incha<s n="add_mi"/>+CL:L.S.T.F.F</r></p><par n="Noun"/></e>
+        <!--  -->
+        <e><p><l>HIV</l><r>virakocha<s n="preform"/>#imantsiyare</r></p><par n="Noun"/></e>
+        <!--  -->
         <e><p><l>home</l><r>panko</r></p><par n="Noun"/></e>
         <!-- tsikomentotsi / =tsiko -mento -tsi / =to.hook -mento+n.m. -nposs / EN: 'hook'; ES: 'gancho' -->
         <e><p><l>hook</l><r>tsikomento<s n="inal"/>+tsi</r></p><par n="Noun"/></e>
