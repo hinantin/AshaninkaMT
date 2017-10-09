@@ -378,7 +378,7 @@
         <!-- #####
             M 
         ##### -->
-        <!-- mamífero -->
+        <!-- poshiniri / =poshini -ri / =to.be.tasty -rel / EN: 'mammal'; ES: 'mamífero' -->
         <e><p><l>mammal</l><r>poshiniri<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <!-- kaniria / =kaniri -a / =yucca -cl:liquid / ES: 'bebida.de.yuca, masato'; EN: 'manioc.beer, masato' -->
         <e><p><l>manioc</l><r>kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
