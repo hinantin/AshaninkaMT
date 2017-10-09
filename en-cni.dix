@@ -291,6 +291,9 @@
         <!-- #####
             D 
         ##### -->
+        <e><p><l>danger</l><r>kovenkari</r></p><par n="Noun"/></e>
+        <e><p><l>danger</l><r>koveenkari</r></p><par n="Noun"/></e>
+        <!--  -->
         <e><p><l>daughter_in_law</l><r>nyaniyo<s n="kinship"/>+m.ego</r></p><par n="Noun"/></e>
         <e><p><l>down_river</l><r>kirinka</r></p><par n="Particle"/></e>
         <!-- #####
