@@ -149,6 +149,7 @@ pregnant_<woman> pregnant_woman $2:NN I
 % Verbs
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <prey>_on prey_on $1:VB I
+<be>_bored be_bored $1:VB I
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Adverbs
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

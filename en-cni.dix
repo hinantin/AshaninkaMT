@@ -158,6 +158,7 @@
             B 
         ##### -->
         <e><p><l>be</l><r>kant</r></p><par n="Verb"/></e>
+        <e><p><l>be_bored</l><r>shem</r></p><par n="Verb"/></e>
         <e><p><l>be_of_the_same_group</l><r>shani</r></p><par n="Verb"/></e>
         <e><p><l>be_of_the_same_group</l><r>sheni</r></p><par n="Verb"/></e>
         <e><p><l>bring</l><r>am</r></p><par n="Verb"/></e>
@@ -472,6 +473,8 @@
         <!--  -->
         <e><p><l>snakebite_medicinal_plant</l><r>mankeshi<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>snakebite_medicinal_plant</l><r>mankishi<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <!-- EN: 'sobbing'; ES: 'sollozante' -->
+        <e><p><l>sobbing</l><r>shenkaanti<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <!-- pocharikana / =pochari -kana / =sweet -cl:chili-pepper / ES: 'ají.dulce'; EN: 'sweet.pepper' -->
         <e><p><l>sweet_pepper</l><r>pochari<s n="add_mi"/>+CL:chili-pepper</r></p><par n="Noun"/></e>
         <!-- pochariyaniri / =pochari =kaniri / =sweet =yucca / EN: 'sweet.yucca'; ES: 'sp.de.yuca' -->
