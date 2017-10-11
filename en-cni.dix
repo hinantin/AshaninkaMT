@@ -497,6 +497,8 @@
         <!-- #####
             V 
         ##### -->
+        <!-- sataamentotsi / =sat -aa -mento -tsi / =to.stick.sth.into.sth./sb. -cl:liquid -concr -nposs / EN: 'vaccine'; ES: 'vacuna' -->
+        <e><p><l>vaccine</l><r>sataamento<s n="inal"/>+tsi</r></p><par n="Noun"/></e>
         <!-- chamairo / =chamairo / =liana/vine.sp. / EN: 'vine' -->
         <e><p><l>chamairo_vine</l><r>chamairo<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <!--  -->
