@@ -169,6 +169,7 @@
         <!-- #####
             D 
         ##### -->
+        <e><p><l>drink</l><r>ir</r></p><par n="Verb"/></e>
         <!-- #####
             E 
         ##### -->
@@ -236,6 +237,7 @@
         <!-- #####
             W 
         ##### -->
+        <e><p><l>want</l><r>kov</r></p><par n="Verb"/></e>
         <!-- to work, antavai -->
         <e><p><l>work</l><r>ant<s n="add_mi"/>+EP@a+DUR</r></p><par n="Verb"/></e>
         <!-- #####
