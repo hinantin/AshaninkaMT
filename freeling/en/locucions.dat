@@ -145,6 +145,8 @@ sweet_<yucca> sweet_yucca $2:NN I
 sweet_<manioc> sweet_manioc $2:NN I
 snakebite_medicinal_<plant> snakebite_medicinal_plant $3:NN I
 pregnant_<woman> pregnant_woman $2:NN I
+sown_<field> sown_field $2:NN I
+sown_plot_of_<land> sown_plot_of_land $4:NN I
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Verbs
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
