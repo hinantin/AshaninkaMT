@@ -487,8 +487,8 @@
         <!-- shenkaanti / =shenkaa -nti / =to.sob -adj / EN: 'sobbing'; ES: 'sollozante' -->
         <e><p><l>sobbing</l><r>shenkaanti<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <!--  -->
-        <e><p><l>sown_field</l><r>ova<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
-        <e><p><l>sown_plot_of_land</l><r>ova<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
+        <e><p><l>sown_field</l><r>ova<s n="inal"/>+ntsi<s n="gndr"/>+n.m.<s n="poss"/>+ni</r></p><par n="Noun"/></e>
+        <e><p><l>sown_plot_of_land</l><r>ova<s n="inal"/>+ntsi<s n="gndr"/>+n.m.<s n="poss"/>+ni</r></p><par n="Noun"/></e>
         <!-- pocharikana / =pochari -kana / =sweet -cl:chili-pepper / ES: 'ají.dulce'; EN: 'sweet.pepper' -->
         <e><p><l>sweet_pepper</l><r>pochari<s n="add_mi"/>+CL:chili-pepper</r></p><par n="Noun"/></e>
         <!-- pochariyaniri / =pochari =kaniri / =sweet =yucca / EN: 'sweet.yucca'; ES: 'sp.de.yuca' -->
