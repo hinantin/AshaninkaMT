@@ -150,6 +150,7 @@ pregnant_<woman> pregnant_woman $2:NN I
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <prey>_on prey_on $1:VB I
 <be>_bored be_bored $1:VB I
+<be>_of_the_same_group be_of_the_same_group $1:VB I
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Adverbs
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
