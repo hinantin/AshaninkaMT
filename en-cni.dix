@@ -355,7 +355,7 @@
         <!--  -->
         <e><p><l>HIV</l><r>virakocha<s n="preform"/>#imantsiyare</r></p><par n="Noun"/></e>
         <!--  -->
-        <e><p><l>home</l><r>panko</r></p><par n="Noun"/></e>
+        <e><p><l>home</l><r>panko<s n="gndr"/>+n.m.<s n="inal"/>+tsi</r></p><par n="Noun"/></e>
         <!-- tsikomentotsi / =tsiko -mento -tsi / =to.hook -mento+n.m. -nposs / EN: 'hook'; ES: 'gancho' -->
         <e><p><l>hook</l><r>tsikomento<s n="inal"/>+tsi</r></p><par n="Noun"/></e>
         <e><p><l>hospital</l><r>panko<s n="preform"/>#avintantsi</r></p><par n="Noun"/></e>
@@ -562,6 +562,8 @@
         <e><p><l>close.by</l><r>okaaki<s n="add_mi"/>+ADV@ni</r></p><par n="Adverb"/></e>
         <!-- shintsini / =shintsi -ni / =to.be.quick -adv / EN: 'quickly' -->
         <e><p><l>quickly</l><r>shintsi<s n="add_mi"/>+ADV@ni</r></p><par n="Adverb"/></e>
+        <!--  -->
+        <e><p><l>inside</l><r>intsomoe</r></p><par n="Adverb"/></e>
         <!-- ================================== 
             Location 
         ================================== -->
