@@ -222,6 +222,9 @@
         <!-- #####
             S 
         ##### -->
+        <!--  -->
+        <e><p><l>scorn</l><r>manin</r></p><par n="Verb"/></e>
+        <e><p><l>look_down_on</l><r>manin</r></p><par n="Verb"/></e>
         <!-- tsipariantsi / =tsipa -ri -antsi / =to.be.together -rev -inf / EN: 'share'; ES: 'repartir' -->
         <e><p><l>share</l><r>tsipa<s n="add_mi"/>+REV</r></p><par n="Verb"/></e>
         <!-- #####
@@ -305,6 +308,8 @@
         <e><p><l>daughter_in_law</l><r>nyaniyo<s n="kinship"/>+m.ego</r></p><par n="Noun"/></e>
         <!-- shiharontsi / =shi -ha -ro -ntsi / =to.defecate.on.sth. -cl:liquid -nmz -nposs / ES: 'diarrea'; EN: 'diarrhea' -->
         <e><p><l>diarrhea</l><r>shiharo<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
+        <!--  -->
+        <e><p><l>disregard</l><r>inkemisante<s n="preform"/>#te</r></p><par n="Noun"/></e>
         <!--  -->
         <e><p><l>down_river</l><r>kirinka</r></p><par n="Particle"/></e>
         <!-- #####
@@ -479,6 +484,8 @@
         <e><p><l>stick</l><r>incha<s n="add_mi"/>+CL:long,thin.branch</r></p><par n="Noun"/></e>
         <!-- sealing wax, patanariki -->
         <e><p><l>sealing_wax</l><r>patanari<s n="add_mi"/>+CL:S.R.H</r></p><par n="Noun"/></e>
+        <!--  -->
+        <e><p><l>stomach</l><r>moti<s n="inal"/>+tsi</r></p><par n="Noun"/></e>
         <!-- kaari kemisantatsini / =kaari  =kemisan -t -atsi -ni / =NEG.COP =to.obey -ep -stat -rel / ES: 'terco', EN: 'stubborn; lit.: the.one.who.doe.not.obey' -->
         <e><p><l>stubborn</l><r>kemisantatsini<s n="preform"/>#kaari</r></p><par n="Adjectives"/></e>
         <!--  -->
@@ -583,5 +590,6 @@
     </section>
     <section id="determiners" type="standard">
         <e><p><l>that</l><r>irora</r></p><par n="Determiner"/></e>
+        <e><p><l>many</l><r>osheki</r></p><par n="Determiner"/></e>
     </section>
 </dictionary>
