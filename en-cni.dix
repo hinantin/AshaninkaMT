@@ -394,6 +394,8 @@
         ##### -->
         <!-- lacquer, patanariki -->
         <e><p><l>lacquer</l><r>patanari<s n="add_mi"/>+CL:S.R.H<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <!-- akiparentsi / EN: 'leaf-wrapped.food'; ES: 'comida.envuelta.en.hojas' -->
+        <e><p><l>leaf_wrapped_food</l><r>akipare<s n="inal"/>+ntsi<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <!-- sankenarentsi / =sankena -re -ntsi / ES: 'carta'; EN: 'letter' -->
         <e><p><l>letter</l><r>sankenare<s n="inal"/>+ntsi<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <!--  -->
