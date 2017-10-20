@@ -147,6 +147,7 @@ snakebite_medicinal_<plant> snakebite_medicinal_plant $3:NN I
 pregnant_<woman> pregnant_woman $2:NN I
 sown_<field> sown_field $2:NN I
 sown_<plot>_of_land sown_plot_of_land $2:NN I
+leaf_wrapped_<food> leaf_wrapped_food $3:NN I
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Verbs
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
