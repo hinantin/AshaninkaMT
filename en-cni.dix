@@ -381,6 +381,9 @@
         <e><p><l>intolerable</l><r>oyeakotacha<s n="preform"/>#kaari</r></p><par n="Adjectives"/></e>
         <!-- te inkantaje / te inkantahe / =te i- N- =kant -a -he / =NEG.REAL  3m.s- irr- =to.be -real -neg / EN: 'invalid'; ES: 'inválido' -->
         <e><p><l>invalid</l><r>inkantahe<s n="preform"/>#te</r></p><par n="Adjectives"/></e>
+        <!--  -->
+        <e><p><l>invisible</l><r>ineeti<s n="preform"/>#kaari</r></p><par n="Noun"/></e>
+        <e><p><l>invisible</l><r>konihatatsi<s n="preform"/>#kaari</r></p><par n="Noun"/></e>
         <!-- #####
             J 
         ##### -->
