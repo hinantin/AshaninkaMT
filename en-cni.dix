@@ -293,6 +293,8 @@
         <e><p><l>chimicua_tree</l><r>meronki<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <!-- apatotantsipanko / =apato -t -antsi =panko / =to.meet -ep -inf =house / EN: 'community.hall'; ES: 'salòn.comunal' -->
         <e><p><l>community_hall</l><r>panko<s n="preform"/>#apatotantsi</r></p><par n="Noun"/></e>
+        <!-- imeshi birakocha / imeshi virakocha / i- =meshi ** =virakocha / 3m.poss- =skin ** =outsider / EN: 'condom; lit.: outsider's.skin'; ES: 'condón' -->
+        <e><p><l>condom</l><r>virakocha<s n="preform"/>#imeshi</r></p><par n="Noun"/></e>
         <!-- nihateni / EN: 'creek' -->
         <e><p><l>creek</l><r>niha<s n="add_mi"/>+CL:longitudinal.depression</r></p><par n="Noun"/></e>
         <!-- inchatonaki / =incha -to -naki / =plant -cl:tree -cl:round.hollow / ES: 'cosho'; EN: 'cosho' -->
