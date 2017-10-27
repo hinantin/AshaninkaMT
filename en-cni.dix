@@ -370,6 +370,8 @@
         <e><p><l>healthy</l><r>oyerine<s n="preform"/>#tekatsi</r></p><par n="Adjectives"/></e>
         <!-- tekatsi oyerini / =NEG.EXIST = / EN: 'healthy'; ES: 'saludable' -->
         <e><p><l>healthy</l><r>oyerini<s n="preform"/>#tekatsi</r></p><par n="Adjectives"/></e>
+        <!--  -->
+        <e><p><l>heavy</l><r>tenari<s n="gndr"/>+m.</r></p><par n="Adjectives"/></e>
         <!-- inchashi / =incha -shi / =plant -cl:l.s.t.f.f / EN: 'herb' ES: 'hierba' -->
         <e><p><l>herb</l><r>incha<s n="add_mi"/>+CL:L.S.T.F.F</r></p><par n="Noun"/></e>
         <!--  -->
@@ -421,6 +423,8 @@
         <!--  -->
         <e><p><l>liar</l><r>cheeyari<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>liar</l><r>tseeyari<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
+        <!--  -->
+        <e><p><l>long</l><r>santsari<s n="gndr"/>+m.</r></p><par n="Adjectives"/></e>
         <!-- tsantsakirentsi / =tsantsa -ki -re -ntsi / =long -cl:s.r.h -nmz -nposs / EN: 'long-pointed.fishing.arrow'; ES: 'flecha.para.la.pesca.con.punta.larga' -->
         <e><p><l>long_pointed_fishing_arrow</l><r>tsantsakire<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
         <!-- tsatamentotsi / =tsat -a -mento -tsi / =to.tear.into.two.parts -ep -concr -nposs / ES: 'flecha.para.la.pesca.con.punta.larga (no.necesita.de.un.arco.propulsor) ' -->
@@ -542,6 +546,9 @@
         <!-- ebankaro / evankaro / ES: 'teenager'; ES: 'adolescente' -->
         <e><p><l>teenager</l><r>evankari<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>teenager</l><r>evankaro<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <!--  -->
+        <e><p><l>thin</l><r>matsari<s n="gndr"/>+m.</r></p><par n="Adjectives"/></e>
+        <e><p><l>thin</l><r>matsaro<s n="gndr"/>+n.m.</r></p><par n="Adjectives"/></e>
         <!-- #####
             U 
         ##### -->
