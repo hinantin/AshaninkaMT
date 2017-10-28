@@ -599,6 +599,9 @@
         <!--  -->
         <e><p><l>wealthy_woman</l><r>kireekipakoro<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>wealthy_man</l><r>kireekipakori<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
+        <!--  -->
+        <e><p><l>widowed</l><r>kamaiventsinkari<s n="gndr"/>+m.</r></p><par n="Adjectives"/></e>
+        <e><p><l>widowed</l><r>kamaiventsinkaro<s n="gndr"/>+n.m.</r></p><par n="Adjectives"/></e>
         <!-- ampitsari / =ampitsa -ri / =to.be.wrinkled -nmz / EN: 'wrinkled'; ES: 'arrugado' -->
         <e><p><l>wrinkled</l><r>ampitsari<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <!-- ampitsaro / =ampitsa -ro / =to.be.wrinkled -nmz / EN: 'wrinkled'; ES: 'arrugada' -->
