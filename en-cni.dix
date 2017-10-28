@@ -228,6 +228,9 @@
         ##### -->
         <!--  -->
         <e><p><l>scorn</l><r>manin</r></p><par n="Verb"/></e>
+        <!--  -->
+        <e><p><l>sleep</l><r>maa</r></p><par n="Verb"/></e>
+        <!--  -->
         <e><p><l>look_down_on</l><r>manin</r></p><par n="Verb"/></e>
         <!-- tsipariantsi / =tsipa -ri -antsi / =to.be.together -rev -inf / EN: 'share'; ES: 'repartir' -->
         <e><p><l>share</l><r>tsipa<s n="add_mi"/>+REV</r></p><par n="Verb"/></e>
