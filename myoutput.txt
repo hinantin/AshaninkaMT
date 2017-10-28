@@ -1,0 +1,4 @@
+1 They      they      PRP PRP pos=pronoun|type=personal  - - (sv:2(sn-chunk:1) 2 ncsubj - -
+2 showed    show      VBD VBD pos=verb|vform=past        - - -                 0 top    - -
+3 disregard disregard NN  NN  pos=noun|type=common|num=s - - (n-chunk:3))      2 dobj   - -
+
