@@ -158,6 +158,8 @@ mobile_<phone> mobile_phone $2:NN I
 <be>_of_the_same_group be_of_the_same_group $1:VB I
 there_<be> there_be $2:VB I
 there_<be>_not there_be_not $2:VB I
+there_will_<be> there_will_be $3:VB I
+there_will_not_<be> there_will_not__be $4:VB I
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Adverbs
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
