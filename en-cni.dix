@@ -241,10 +241,13 @@
         ##### -->
         <e><p><l>there_be</l><r>choora</r></p><par n="Verb"/></e>
         <e><p><l>there_be</l><r>ainiro</r></p><par n="Verb"/></e>
+        <e><p><l>there_will_be</l><r>choora</r></p><par n="Verb"/></e>
+        <e><p><l>there_will_be</l><r>ainiro</r></p><par n="Verb"/></e>
         <!--  -->
         <e><p><l>there_be_not</l><r>aneerohi<s n="preform"/>#te</r></p><par n="Verb"/></e>
         <e><p><l>there_be_not</l><r>anyeerohi<s n="preform"/>#te</r></p><par n="Verb"/></e>
         <e><p><l>there_be_not</l><r>tekatsi</r></p><par n="Verb"/></e>
+        <e><p><l>there_will_be_nothing</l><r>tekatsi</r></p><par n="Verb"/></e>
         <!-- #####
             U 
         ##### -->
