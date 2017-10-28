@@ -304,11 +304,16 @@
         <e><p><l>condom</l><r>virakocha<s n="preform"/>#imeshi</r></p><par n="Noun"/></e>
         <!-- nihateni / EN: 'creek' -->
         <e><p><l>creek</l><r>niha<s n="add_mi"/>+CL:longitudinal.depression</r></p><par n="Noun"/></e>
+        <!--  -->
+        <e><p><l>cooked</l><r>posari<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <!-- inchatonaki / =incha -to -naki / =plant -cl:tree -cl:round.hollow / ES: 'cosho'; EN: 'cosho' -->
         <e><p><l>cosho</l><r>incha<s n="add_mi"/>+CL:tree+CL:round.hollow</r></p><par n="Noun"/></e>
+        <!--  -->
         <e><p><l>cousin</l><r>entyo<s n="gndr"/>+n.m.<s n="voc"/>+N</r></p><par n="Noun"/></e>
         <e><p><l>cousin</l><r>irento<s n="gndr"/>+n.m.<s n="voc"/>+1SG+2SG+3SG+1PL</r></p><par n="Noun"/></e>
+        <!--  -->
         <e><p><l>clay_pot</l><r>kovitzi<s n="gndr"/>+n.m.<s n="poss"/>+te</r></p><par n="Noun"/></e>
+        <!--  -->
         <e><p><l>cry_baby</l><r>shinka<s n="add_mi"/>+ADJ<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>cry_baby</l><r>shinka<s n="add_mi"/>+ADJ<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <!-- #####
@@ -503,6 +508,9 @@
         <e><p><l>sharp</l><r>tsaimpiri<s n="gndr"/>+m.</r></p><par n="Adjectives"/></e>
         <!-- kaari kameetsatatsi / =kaari =kameetsa -t -atsi / =NEG.COP  =to.be.good -ep -stat / EN: 'sin'; ES: 'maldad, pecado' -->
         <e><p><l>sin</l><r>kameetsatatsi<s n="preform"/>#kaari</r></p><par n="Noun"/></e>
+        <!--  -->
+        <e><p><l>sick</l><r>mantsiyari<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
+        <e><p><l>sick</l><r>mantsiyaro<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <!-- ES: 'adormilado/sleepy, dormilón/sleepyhead, soñoliento/drowsy' -->
         <e><p><l>sleepy</l><r>pochokintsi<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>sleepy</l><r>pochokinti<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
