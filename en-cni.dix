@@ -661,15 +661,16 @@
         <!-- ================================== 
             Location 
         ================================== -->
+        <!-- Bounded proximal -->
         <e><p><l>here</l><r>aka<s n="loc"/>+proximal.b.</r></p><par n="Adverb"/></e>
         <e><p><l>here</l><r>haka<s n="loc"/>+proximal.b.</r></p><par n="Adverb"/></e>
-        <!--  -->
+        <!-- Bounded medial -->
         <e><p><l>there</l><r>ara<s n="loc"/>+medial.b.</r></p><par n="Adverb"/></e>
         <e><p><l>there</l><r>hara<s n="loc"/>+medial.b.</r></p><par n="Adverb"/></e>
-        <!--  -->
+        <!-- Bounded distal -->
         <e><p><l>there</l><r>anta<s n="loc"/>+distal.b.</r></p><par n="Adverb"/></e>
         <e><p><l>there</l><r>hanta<s n="loc"/>+distal.b.</r></p><par n="Adverb"/></e>
-        <!--  -->
+        <!-- Unbounded distal -->
         <e><p><l>there</l><r>anto<s n="loc"/>+distal.unb.</r></p><par n="Adverb"/></e>
         <e><p><l>there</l><r>hanto<s n="loc"/>+distal.unb.</r></p><par n="Adverb"/></e>
         <e><p><l>over_there</l><r>anto<s n="loc"/>+distal.unb.</r></p><par n="Adverb"/></e>
