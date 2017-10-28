@@ -568,6 +568,8 @@
         <!-- pochariyaniri / =pochari =kaniri / =sweet =yucca / EN: 'sweet.yucca'; ES: 'sp.de.yuca' -->
         <e><p><l>sweet_yucca</l><r>pochariyaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>sweet_manioc</l><r>pochariyaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>sweet_yucca</l><r>kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>sweet_manioc</l><r>kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <!-- #####
             T 
         ##### -->        
