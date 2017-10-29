@@ -468,6 +468,8 @@
         <!-- micrófono  -->
         <e><p><l>microphone</l><r>nyaanamento<s n="inal"/>+tsi</r></p><par n="Noun"/></e>
         <!--  -->
+        <e><p><l>money</l><r>kireeki<s n="gndr"/>+m.<s n="poss"/>+te</r></p><par n="Noun"/></e>
+        <!--  -->
         <e><p><l>money_contribution</l><r>kireeki<s n="preform"/>#hokaantsi</r></p><par n="Noun"/></e>
         <!--  -->
         <e><p><l>moth</l><r>periki<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
@@ -553,6 +555,8 @@
         <e><p><l>stony_area</l><r>mapi<s n="add_mi"/>+CL:quantity</r></p><par n="Noun"/></e>
         <!-- inchakii / =incha -kii / =plant -cl:long,thin.branch / EN: 'stick'; ES: 'palo' -->
         <e><p><l>stick</l><r>incha<s n="add_mi"/>+CL:long,thin.branch</r></p><par n="Noun"/></e>
+        <!--  -->
+        <e><p><l>stone</l><r>mapi<s n="gndr"/>+n.m.<s n="poss"/>+ni</r></p><par n="Noun"/></e>
         <!-- sealing wax, patanariki -->
         <e><p><l>sealing_wax</l><r>patanari<s n="add_mi"/>+CL:S.R.H</r></p><par n="Noun"/></e>
         <!--  -->
