@@ -468,6 +468,8 @@
         <!-- micrófono  -->
         <e><p><l>microphone</l><r>nyaanamento<s n="inal"/>+tsi</r></p><par n="Noun"/></e>
         <!--  -->
+        <e><p><l>money_contribution</l><r>kireeki<s n="preform"/>#hokaantsi</r></p><par n="Noun"/></e>
+        <!--  -->
         <e><p><l>moth</l><r>periki<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <!--  -->
         <e><p><l>mother</l><r>niro<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>

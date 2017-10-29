@@ -150,6 +150,7 @@ sown_<plot>_of_land sown_plot_of_land $2:NN I
 leaf_wrapped_<food> leaf_wrapped_food $3:NN I
 cell_<phone> cell_phone $2:NN I
 mobile_<phone> mobile_phone $2:NN I
+mobile_<contribution> money_contribution $2:NN I
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Verbs
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
