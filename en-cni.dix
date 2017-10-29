@@ -695,5 +695,7 @@
     <section id="determiners" type="standard">
         <e><p><l>that</l><r>irora</r></p><par n="Determiner"/></e>
         <e><p><l>many</l><r>osheki</r></p><par n="Determiner"/></e>
+        <!--  -->
+        <e><p><l>both</l><r>apiteroite</r></p><par n="Determiner"/></e>
     </section>
 </dictionary>
