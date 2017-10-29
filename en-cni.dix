@@ -106,9 +106,9 @@
             <e><p><l><s n="parol"/>CC</l><r><s n="mi"/>ConnRoot</r></p></e>  
         </pardef> 
         <pardef n="Determiner">
-            <e><p><l><s n="parol"/><s n="mi"/>DT</l><r></r></p></e>
-            <e><p><l><s n="parol"/><s n="mi"/>WDT</l><r></r></p></e>
-            <e><p><l><s n="parol"/><s n="mi"/>PDT</l><r></r></p></e>
+            <e><p><l><s n="parol"/>DT</l><r><s n="mi"/>DetRoot</r></p></e>
+            <e><p><l><s n="parol"/>WDT</l><r><s n="mi"/>DetRoot</r></p></e>
+            <e><p><l><s n="parol"/>PDT</l><r><s n="mi"/>DetRoot</r></p></e>
         </pardef>
         <pardef n="Ideophone">
             <e><p><l><s n="parol"/>NN</l><r><s n="mi"/>IdeoRoot</r></p></e>
