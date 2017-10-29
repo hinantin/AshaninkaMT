@@ -617,6 +617,11 @@
         <e><p><l>venomous_root</l><r>komo</r></p><par n="Noun"/></e>
         <e><p><l>venomous_root</l><r>konyapi</r></p><par n="Noun"/></e>
         <e><p><l>venomous_root</l><r>kepiyari</r></p><par n="Noun"/></e>
+        <!--
+            novamashite / n- =ova -mashi -te   
+            irovamashite / ir- =ova -mashi -te   
+        -->
+        <e><p><l>vineyard</l><r>ovamashi<s n="gndr"/>+n.m.<s n="poss"/>+te</r></p><par n="Noun"/></e>
         <!-- #####
             W 
         ##### -->
