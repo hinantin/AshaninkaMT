@@ -1,4 +1,9 @@
-1 They      they      PRP PRP pos=pronoun|type=personal  - - (sv:2(sn-chunk:1) 2 ncsubj - -
-2 showed    show      VBD VBD pos=verb|vform=past        - - -                 0 top    - -
-3 disregard disregard NN  NN  pos=noun|type=common|num=s - - (n-chunk:3))      2 dobj   - -
+1 Make        make       VB   VB   pos=verb|vform=infinitive   - - (claus:1      0 top        - -
+2 your        your       PRP$ PRP$ pos=pronoun|type=possessive - - (sn-chunk:3   3 ncmod-poss - -
+3 house       house      NN   NN   pos=noun|type=common|num=s  - - (n-chunk:3))  1 dobj       - -
+4 with        with       IN   IN   pos=preposition             - - (sp-chunk:4   1 ncmod      - -
+5 an          a          DT   DT   pos=determiner              - - (sn-chunk:7   7 det        - -
+6 oval-shaped oval_shape VBN  VBN  pos=verb|vform=participle   - - -             7 modnomatch - -
+7 roof        roof       NN   NN   pos=noun|type=common|num=s  - - (n-chunk:7))) 4 dobj       - -
+8 .           .          Fp   Fp   pos=punctuation|type=period - - (st-brk:8))   1 ta         - -
 

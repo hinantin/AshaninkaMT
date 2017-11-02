@@ -180,6 +180,8 @@
             F 
         ##### -->
         <e><p><l>fall</l><r>pary</r></p><par n="Verb"/></e>
+        <e><p><l>fall_into</l><r>pary</r></p><par n="Verb"/></e>
+        <!--  -->
         <e><p><l>fight</l><r>antavak</r></p><par n="Verb"/></e>
         <!-- #####
             G 
@@ -681,7 +683,7 @@
         <!-- Bounded medial -->
         <e><p><l>there</l><r>ara<s n="loc"/>+medial.b.</r></p><par n="Adverb"/></e>
         <e><p><l>there</l><r>hara<s n="loc"/>+medial.b.</r></p><par n="Adverb"/></e>
-        <!-- Bounded distal -->
+        <!-- Bounded distal; DEM.ADV -->
         <e><p><l>there</l><r>anta<s n="loc"/>+distal.b.</r></p><par n="Adverb"/></e>
         <e><p><l>there</l><r>hanta<s n="loc"/>+distal.b.</r></p><par n="Adverb"/></e>
         <!-- Unbounded distal -->

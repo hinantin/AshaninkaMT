@@ -162,6 +162,7 @@ there_<be>_not there_be_not $2:VB I
 there_will_<be> there_will_be $3:VB I
 there_will_not_<be> there_will_not_be $4:VB I
 there_will_<be>_nothing there_will_be_nothing $3:VB I
+<fall>_into fall_into $1:VB I
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Adverbs
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

@@ -15,6 +15,8 @@ printf "$1" > $INPUT
 
 /usr/local/bin/analyzer -f $CONFIG/en.cfg --outlv dep --output conll <$INPUT >$OUTPUT
 
+# cat $OUTPUT
+
 perl conll2xml.pm $OUTPUT | /home/richard/Documents/squoia/MT_systems/bin/squoia-xfer-lex en-cni.bin
 
 
