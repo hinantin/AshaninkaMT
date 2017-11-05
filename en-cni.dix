@@ -463,14 +463,18 @@
         <e><p><l>mammal</l><r>poshiniri<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <!--  -->
         <e><p><l>man</l><r>shirampari<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
+        <!--  -->
+        <e><p><l>male_healer</l><r>aavintantzinkari<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
+        <e><p><l>female_healer</l><r>aavintantzinkaro<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <!-- kaniria / =kaniri -a / =yucca -cl:liquid / ES: 'bebida.de.yuca, masato'; EN: 'manioc.beer, masato' -->
         <e><p><l>manioc</l><r>kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <!--  -->
         <e><p><l>manioc_beer</l><r>kaniri<s n="add_mi"/>+CL:liquid@a</r></p><par n="Noun"/></e>
         <e><p><l>masato</l><r>kaniri<s n="add_mi"/>+CL:liquid</r></p><par n="Noun"/></e>
-        <!--  -->
-        <e><p><l>manioc_field</l><r>kaniri<s n="add_mi"/>+CL:vast.space.with.vegetation@mashi<s n="poss"/>+te</r></p><par n="Noun"/></e>
-        <e><p><l>yucca_field</l><r>kaniri<s n="add_mi"/>+CL:vast.space.with.vegetation@mashi<s n="poss"/>+te</r></p><par n="Noun"/></e>
+        <!-- piyanirimashite / pi- =yaniri -mashi -ite / 2poss- =yucca -cl:wide,flat.space -aug / ES: 'tu.yucal' -->
+        <e><p><l>manioc_field</l><r>kaniri<s n="add_mi"/>+CL:vast.space.with.vegetation@mashi</r></p><par n="Noun"/></e>
+        <e><p><l>yucca_field</l><r>kaniri<s n="add_mi"/>+CL:vast.space.with.vegetation@mashi</r></p><par n="Noun"/></e>
+        <e><p><l>manioc_garden</l><r>kaniri<s n="add_mi"/>+CL:vast.space.with.vegetation@mashi</r></p><par n="Noun"/></e>
         <!-- micrófono  -->
         <e><p><l>microphone</l><r>nyaanamento<s n="inal"/>+tsi</r></p><par n="Noun"/></e>
         <!--  -->
@@ -584,6 +588,8 @@
         <!--  -->
         <e><p><l>sown_field</l><r>ova<s n="inal"/>+ntsi<s n="gndr"/>+n.m.<s n="poss"/>+ni</r></p><par n="Noun"/></e>
         <e><p><l>sown_plot_of_land</l><r>ova<s n="inal"/>+ntsi<s n="gndr"/>+n.m.<s n="poss"/>+ni</r></p><par n="Noun"/></e>
+        <!--  -->
+        <e><p><l>successful_agriculturalist</l><r>ovantsi<s n="add_mi"/>+CL:your.hand</r></p><par n="Noun"/></e>
         <!-- pocharikana / =pochari -kana / =sweet -cl:chili-pepper / ES: 'ají.dulce'; EN: 'sweet.pepper' -->
         <e><p><l>sweet_pepper</l><r>pochari<s n="add_mi"/>+CL:chili-pepper</r></p><par n="Noun"/></e>
         <!-- pochariyaniri / =pochari =kaniri / =sweet =yucca / EN: 'sweet.yucca'; ES: 'sp.de.yuca' -->
@@ -677,6 +683,8 @@
         <!--  -->
         <e><p><l>alone</l><r>apaniroeni</r></p><par n="Adverb"/></e>
         <e><p><l>alone</l><r>apanironi</r></p><par n="Adverb"/></e>
+        <!--  -->
+        <e><p><l>well</l><r>kametsa</r></p><par n="Adverb"/></e>
         <!-- ================================== 
             Location 
         ================================== -->
