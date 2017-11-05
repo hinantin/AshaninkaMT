@@ -463,7 +463,7 @@
         <e><p><l>mammal</l><r>poshiniri<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <!--  -->
         <e><p><l>man</l><r>shirampari<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
-        <!--  -->
+        <!-- EN: 'herbalist.who.uses.steambathing_techniques/herbal_treatments.to.cure.patients' -->
         <e><p><l>male_healer</l><r>aavintantzinkari<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>female_healer</l><r>aavintantzinkaro<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <!-- kaniria / =kaniri -a / =yucca -cl:liquid / ES: 'bebida.de.yuca, masato'; EN: 'manioc.beer, masato' -->
