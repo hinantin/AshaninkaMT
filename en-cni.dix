@@ -488,6 +488,7 @@
         <!-- #####
             N 
         ##### -->
+        <e><p><l>name</l><r>vahiro<s n="inal"/>+ntsi<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <!-- inchato / =incha -to / =plant -cl:tree / EN: 'tree' ES: 'árbol' -->
         <e><p><l>tree</l><r>incha<s n="add_mi"/>+CL:tree<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <!-- #####
@@ -550,6 +551,7 @@
         <!-- kaari kameetsatatsi / =kaari =kameetsa -t -atsi / =NEG.COP  =to.be.good -ep -stat / EN: 'sin'; ES: 'maldad, pecado' -->
         <e><p><l>sin</l><r>kameetsatatsi<s n="preform"/>#kaari</r></p><par n="Noun"/></e>
         <!--  -->
+        <e><p><l>shamanic_ritual_singing</l><r>pantsa<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
         <e><p><l>shamanic_song</l><r>pantsa<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
         <e><p><l>singing</l><r>pantsa<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
         <!--  -->
