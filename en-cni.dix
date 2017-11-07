@@ -279,6 +279,11 @@
         <!-- #####
             A 
         ##### -->
+        <!--  -->
+        <e><p><l>adjective</l><r>kantaveetachari</r></p><par n="Noun"/></e>
+        <!--  -->
+        <e><p><l>adverb</l><r>tsipatsatachari</r></p><par n="Noun"/></e>
+        <!--  -->
         <e><p><l>arrow</l><r>chekopi<s n="gndr"/>+n.m.<s n="poss"/>+te</r></p><par n="Noun"/></e>
         <!-- #####
             B 
@@ -333,6 +338,8 @@
         <e><p><l>cousin</l><r>irento<s n="gndr"/>+n.m.<s n="voc"/>+1SG+2SG+3SG+1PL</r></p><par n="Noun"/></e>
         <!--  -->
         <e><p><l>clay_pot</l><r>kovitzi<s n="gndr"/>+n.m.<s n="poss"/>+te</r></p><par n="Noun"/></e>
+        <!--  -->
+        <e><p><l>conjunction</l><r>ovavitsatachari</r></p><par n="Noun"/></e>
         <!--  -->
         <e><p><l>cry_baby</l><r>shinka<s n="add_mi"/>+ADJ<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>cry_baby</l><r>shinka<s n="add_mi"/>+ADJ<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
@@ -417,6 +424,7 @@
         <!-- #####
             I 
         ##### -->
+        <e><p><l>interjection</l><r>okireatsataa<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
         <!-- kaari oyeakotacha / =kaari  / =NEG.COP / EN: 'intolerable'; ES: 'intolerable' -->
         <e><p><l>intolerable</l><r>oyeakotacha<s n="preform"/>#kaari</r></p><par n="Adjectives"/></e>
         <!-- te inkantaje / te inkantahe / =te i- N- =kant -a -he / =NEG.REAL  3m.s- irr- =to.be -real -neg / EN: 'invalid'; ES: 'inválido' -->
@@ -523,6 +531,8 @@
         <e><p><l>plate</l><r>oantamento<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
         <!-- motinto / =moti -nto / =belly -adj / EN: 'pregnant.woman'; ES: 'mujer.embarazada' -->
         <e><p><l>pregnant_woman</l><r>motinto<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <!--  -->
+        <e><p><l>pronoun</l><r>poyaatsatachari</r></p><par n="Noun"/></e>
         <!-- #####
             Q 
         ##### -->
@@ -639,6 +649,8 @@
         <e><p><l>venomous_root</l><r>komo</r></p><par n="Noun"/></e>
         <e><p><l>venomous_root</l><r>konyapi</r></p><par n="Noun"/></e>
         <e><p><l>venomous_root</l><r>kepiyari</r></p><par n="Noun"/></e>
+        <!--  -->
+        <e><p><l>verb</l><r>antaa<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
         <!--
             novamashite / n- =ova -mashi -te   
             irovamashite / ir- =ova -mashi -te   
