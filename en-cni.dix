@@ -655,8 +655,8 @@
         <!--  -->
         <e><p><l>verb</l><r>antaa<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
         <!--
-            novamashite / n- =ova -mashi -te   
-            irovamashite / ir- =ova -mashi -te   
+            novamashite / n- =ova -mashi -te / 1sg.poss- =grape -cl:vast.space.with.vegetation -aln.poss. / EN: 'my.vineyard'; ES: 'mi.viña'   
+            irovamashite / ir- =ova -mashi -te / 3m.poss- =grape -cl:vast.space.with.vegetation -aln.poss. / EN: 'his.vineyard'; ES: 'su.viña'   
         -->
         <e><p><l>vineyard</l><r>ovamashi<s n="gndr"/>+n.m.<s n="poss"/>+te</r></p><par n="Noun"/></e>
         <!--  -->
