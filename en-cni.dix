@@ -481,9 +481,9 @@
         <e><p><l>female_healer</l><r>aavintantzinkaro<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <!-- kaniria / =kaniri -a / =yucca -cl:liquid / ES: 'bebida.de.yuca, masato'; EN: 'manioc.beer, masato' -->
         <e><p><l>manioc</l><r>kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <!--  -->
+        <!-- **** beer types *** -->
         <e><p><l>manioc_beer</l><r>kaniri<s n="add_mi"/>+CL:liquid@a</r></p><par n="Noun"/></e>
-        <e><p><l>masato</l><r>kaniri<s n="add_mi"/>+CL:liquid</r></p><par n="Noun"/></e>
+        <e><p><l>masato</l><r>kaniri<s n="add_mi"/>+CL:liquid@a</r></p><par n="Noun"/></e>
         <e><p><l>corn_beer</l><r>shinki<s n="add_mi"/>+CL:liquid@a</r></p><par n="Noun"/></e>
         <e><p><l>plantain_beer</l><r>parianti<s n="add_mi"/>+CL:liquid@aa</r></p><par n="Noun"/></e>
         <e><p><l>banana_beer</l><r>parianti<s n="add_mi"/>+CL:liquid@aa</r></p><par n="Noun"/></e>
