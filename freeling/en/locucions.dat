@@ -126,6 +126,9 @@ Z_times $L1_times RB I
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 gravel_<pit> gravel_pit $2:NN I
 manioc_<beer> manioc_beer $2:NN I
+corn_<beer> corn_beer $2:NN I
+plantain_<beer> plantain_beer $2:NN I
+banana_<beer> banana_beer $2:NN I
 yucca_<mass> yucca_mass $2:NN I
 clay_<pot> clay_pot $2:NN I
 small_<parrot> small_parrot $2:NN I
@@ -150,7 +153,7 @@ sown_<plot>_of_land sown_plot_of_land $2:NN I
 leaf_wrapped_<food> leaf_wrapped_food $3:NN I
 cell_<phone> cell_phone $2:NN I
 mobile_<phone> mobile_phone $2:NN I
-mobile_<contribution> money_contribution $2:NN I
+money_<contribution> money_contribution $2:NN I
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Verbs
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
