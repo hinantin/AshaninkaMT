@@ -484,6 +484,8 @@
         <!--  -->
         <e><p><l>manioc_beer</l><r>kaniri<s n="add_mi"/>+CL:liquid@a</r></p><par n="Noun"/></e>
         <e><p><l>masato</l><r>kaniri<s n="add_mi"/>+CL:liquid</r></p><par n="Noun"/></e>
+        <e><p><l>corn_beer</l><r>shinki<s n="add_mi"/>+CL:liquid@a</r></p><par n="Noun"/></e>
+        <e><p><l>plantain_beer</l><r>parianti<s n="add_mi"/>+CL:liquid@aa</r></p><par n="Noun"/></e>
         <!-- piyanirimashite / pi- =yaniri -mashi -ite / 2poss- =yucca -cl:wide,flat.space -aug / ES: 'tu.yucal' -->
         <e><p><l>manioc_field</l><r>kaniri<s n="add_mi"/>+CL:vast.space.with.vegetation@mashi</r></p><par n="Noun"/></e>
         <e><p><l>yucca_field</l><r>kaniri<s n="add_mi"/>+CL:vast.space.with.vegetation@mashi</r></p><par n="Noun"/></e>
