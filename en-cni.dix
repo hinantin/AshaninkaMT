@@ -384,6 +384,8 @@
         <e><p><l>fellowman</l><r>sheni<s n="add_mi"/>+NMZ</r></p><par n="Noun"/></e>
 		<!-- fellowman, shaninka -->
         <e><p><l>fellowman</l><r>shani<s n="add_mi"/>+NMZ</r></p><par n="Noun"/></e>
+        <!-- ES: 'palizada' -->
+        <e><p><l>fenced_enclosure</l><r>inchapooki</r></p><par n="Noun"/></e>
         <!-- tsibakantatsiri / tsivakantatsiri / =taivak -ant -atsi -ri / =to.put.out -appl.reas -stat -rel / EN: 'fire_fighter'; ES: 'bombero' -->
         <e><p><l>fire_fighter</l><r>tsivakantatsiri</r></p><par n="Noun"/></e>
         <!-- inchahempeki / =incha -hempeki / =plant -cl:small.branch / ES: 'leña'; EN: 'firewood' -->
