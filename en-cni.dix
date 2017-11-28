@@ -284,6 +284,8 @@
         <!--  -->
         <e><p><l>adverb</l><r>tsipatsatachari</r></p><par n="Noun"/></e>
         <!--  -->
+        <e><p><l>anger</l><r>kisaantsi</r></p><par n="Noun"/></e>
+        <!--  -->
         <e><p><l>arrow</l><r>chekopi<s n="gndr"/>+n.m.<s n="poss"/>+te</r></p><par n="Noun"/></e>
         <!-- #####
             B 
@@ -550,6 +552,8 @@
         <e><p><l>pregnant_woman</l><r>motinto<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <!--  -->
         <e><p><l>pronoun</l><r>poyaatsatachari</r></p><par n="Noun"/></e>
+        <!--  -->
+        <e><p><l>prophesy</l><r>kantachani</r></p><par n="Noun"/></e>
         <!-- #####
             Q 
         ##### -->
