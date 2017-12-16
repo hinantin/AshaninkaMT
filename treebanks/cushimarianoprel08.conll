@@ -1,3 +1,5 @@
+# 13
+
 1	i-	_	VPers	VPers	VPers=3m.A+	2	s.subj	_	_
 2	=tsat	_	Root_EP	Root_EP	Root=VRoot|EP=-t|trans=to.hung.from.sth.	14	sntc	_	_
 3	-ak	_	ASP	ASP	ASP=+PRF	2	asp	_	_
@@ -9,9 +11,11 @@
 9	=kahank	_	Root	Root	Root=VRoot|trans=to.perfume	10	s.arg.claus	_	_
 10	-ant	_	APPL	APPL	APPL=+APPL.REAS|trans=in.order.to	2	reas	_	_
 11	-yaa	_	STATUS	STATUS	STATUS=+REAL	9	status	_	_
-12	-ri	_	NS	NS	NS=+REL	11	rel	_	_
+12	=ri	_	NS	NS	NS=+REL	11	rel	_	_
 13	.	_	$.	$.	_	14	punc	_	_
 14	VROOT	_	_	_	_	0	sentence	_	_
+
+# 14
 
 1	p-	_	VPers	VPers	VPers=2A+	2	s.subj	_	_
 2	=ak	_	Root	Root	Root=VRoot|trans=to.answer.back	12	sntc	_	_
@@ -26,4 +30,22 @@
 11	.	_	$.	$.	_	12	punc	_	_
 12	VROOT	_	_	_	_	0	sentence	_	_
 
+# 37
+
+1	=am	_	Root	Root	Root=VRoot|trans=to.bring	16	sntc	_	_
+2	-i	_	STATUS	STATUS	STATUS=+IRR	1	status	_	_
+3	=ro	_	PRN.O	PRN.O	PRN.O=+3n.m.O	2	prn.o	_	_
+4	=tsinane	_	Root	Root	Root=NRoot|trans=woman|gndr=+n.m.	1	s.arg	_	_
+5	=ana	_	Root	Root	Root=NRoot|trans=huito|gndr=+n.m.|poss=+ni	3	o.arg	_	_
+6	=eereki	_	Root	Root	Root=NRoot|trans=green	5	adj.mod	_	_
+7	o-	_	VPers	VPers	VPers=3n.m.A+	8	a.subj	_	_
+8	=tirit	_	Root_EP	Root_EP	Root=VRoot|EP=-t|trans=to.anoint	9	s.arg.claus	_	_
+9	-ant	_	APPL	APPL	APPL=+APPL.REAS|trans=in.order.to	1	reas	_	_
+10	-yaa	_	STATUS	STATUS	STATUS=+IRR	9	status	_	_
+11	=vo	_	PRN.O	PRN.O	PRN.O=+3n.m.O	4	prn.o	_	_
+12	-ri	_	NS	NS	NS=+REL	11	rel	_	_
+13	o-	_	NPers	NPers	NPers=3n.m.poss+	14	s.poss	_	_
+14	=kishi	_	Root	Root	Root=NRoot|trans=hair	11	o.arg	_	_
+15	.	_	$.	$.	_	16	punc	_	_
+16	VROOT	_	_	_	_	0	sentence	_	_
 
