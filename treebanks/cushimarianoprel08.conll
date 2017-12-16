@@ -9,7 +9,7 @@
 9	=kahank	_	Root	Root	Root=VRoot|trans=to.perfume	10	s.arg.claus	_	_
 10	-ant	_	APPL	APPL	APPL=+APPL.REAS|trans=in.order.to	2	reas	_	_
 11	-yaa	_	STATUS	STATUS	STATUS=+REAL	9	status	_	_
-12	-ri	_	REL	REL	REL=-ri	11	rel	_	_
+12	-ri	_	NS	NS	NS=+REL	11	rel	_	_
 13	.	_	$.	$.	_	14	punc	_	_
 14	VROOT	_	_	_	_	0	sentence	_	_
 
