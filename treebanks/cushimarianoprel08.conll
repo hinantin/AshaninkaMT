@@ -13,3 +13,17 @@
 13	.	_	$.	$.	_	14	punc	_	_
 14	VROOT	_	_	_	_	0	sentence	_	_
 
+1	p-	_	VPers	VPers	VPers=2A+	2	s.subj	_	_
+2	=ak	_	Root	Root	Root=VRoot|trans=to.answer.back	12	sntc	_	_
+3	-e	_	STATUS	STATUS	STATUS=+IRR	2	status	_	_
+4	=ri	_	PRN.O	PRN.O	PRN.O=+3m.O	3	
+5	=pavachori	_	Root	Root	Root=NRoot|trans=uncle|kinship=kin.of.a.male|gndr=+m.|poss=+ti	5	o.arg	_	_
+6	,	_	$.	$.	_	12	punc	_	_
+7	i-	_	VPers	VPers	VPers=3m.S+	2	s.subj	_	_
+8	=kaem	_	Root	Root	Root=VRoot|trans=to.call.sb.	
+9	-ati	_	ASP	ASP	ASP=+PROG	8	
+10	=mi	_	O	O	O=+2SG.O	9	
+11	.	_	$.	$.	_	12	punc	_	_
+12	VROOT	_	_	_	_	0	sentence	_	_
+
+
