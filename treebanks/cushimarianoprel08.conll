@@ -37,8 +37,8 @@
 3	=ni	_	O	O	O=+3SG.O	9	o	_	_
 4	=ri	_	PRN.O	PRN.O	PRN.O=+3m.O	3	prn.o	_	_
 5	=naana	_	Root	Root	Root=NRoot|gndr=+n.m.|trans=mother|k=kin.of.a.fe/male	1	s.arg	_	_
-6	=apa	_	Root	Root	Root=NRoot|trans=father|k=kin.of.a.fe/male|gndr=+m.	3	o.arg	_	_
-6	=kaniri	_	Root	Root	Root=NRoot|trans=sweet.manioc|gndr=+n.m.	4	o.arg	_	_
+6	=apa	_	Root	Root	Root=NRoot|trans=father|k=kin.of.a.fe/male|gndr=+m.	4	o.arg	_	_
+6	=kaniri	_	Root	Root	Root=NRoot|trans=sweet.manioc|gndr=+n.m.	3	o.arg	_	_
 7	.	_	$.	$.	_	12	punc	_	_
 8	VROOT	_	_	_	_	0	sentence	_	_
 
