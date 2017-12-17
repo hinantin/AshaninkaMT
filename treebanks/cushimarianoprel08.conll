@@ -7,7 +7,7 @@
 6	-ak	_	ASP	ASP	ASP=+PRF	5	asp	_	_
 7	-i	_	STATUS	STATUS	STATUS=+REAL	6	status	_	_
 8	=ovayeri	_	Root	Root	Root=NRoot|trans=warrior|gndr=+m.	5	s-arg	_	_
-9	.	_	$.	$.	_	3	punc	_	_
+9	.	_	$.	$.	_	10	punc	_	_
 10	VROOT	_	_	_	_	0	sentence	_	_
 
 
