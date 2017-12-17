@@ -17,9 +17,9 @@
 5	-at	_	ASP_EP	ASP_EP	ASP=+TERM|EP=-t|TERM=once-and-for.all	4	asp	_	_
 6	-i	_	STATUS	STATUS	STATUS=+REAL	5	status	_	_
 7	=ro	_	PRN.O	PRN.O	PRN.O=+3n.m.O	6	prn-o	_	_
-8	i-	_	NPers	NPers	NPers=3m.poss+	9	s-poss	_	_
-9	=ina	_	Root	Root	Root=NRoot|trans=wife|k=kin.of.a.fe/male	10	o-arg	_	_
-10	=yompiri	_	Root	Root	Root=NP|gndr=+m.	7	s-arg	_	_
+8	i-	_	NPers	NPers	NPers=3m.poss+	10	s-poss	_	_
+9	=ina	_	Root	Root	Root=NRoot|trans=wife|k=kin.of.a.fe/male	8	poss	_	_
+10	=yompiri	_	Root	Root	Root=NP|gndr=+m.	7	o-arg	_	_
 11	,	_	$.	$.	_	17	punc	_	_
 12	=amaenkari	_	Root_EP_NMZ_NMZ	Root_EP_NMZ_NMZ	Root=VRoot|EP=-a|NMZ=enka|NMZ=ri|gndr=+m.|trans=jealous	14	cop-o-arg	_	_
 13	i-	_	VPers	VPers	VPers=3m.S+	14	s-subj	_	_
