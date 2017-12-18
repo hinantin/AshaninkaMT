@@ -127,9 +127,9 @@
 11	=ro	_	PRN.O	PRN.O	PRN.O=+3n.m.O	10	prn-o	_	_
 12	o-	_	NPers	NPers	NPers=3n.m.poss+	13	poss	_	_
 13	=kantire	_	Root	Root	Root=NRoot|trans=basket|gndr=+n.m.	11	o-arg	_	_
-14	=ovaa	_	Root	Root	Root=NRoot|trans=sown.plot.of.land|gndr=+n.m.|inal=+ntsi|poss=+ni	7	co	_	_
+14	=ovaa	_	Root	Root	Root=NRoot|trans=sown.plot.of.land|gndr=+n.m.|inal=+ntsi|poss=+ni	16	s-arg	_	_
 15	-ntsi	_	Gen	Gen	Gen=+nposs	14	alien	_	_
-16	-ki	_	Cas	Cas	Cas=+LOC	15	loc	_	_
+16	-ki	_	Cas	Cas	Cas=+LOC	7	mod	_	_
 17	.	_	$.	$.	_	18	punc	_	_
 18	VROOT	_	_	_	_	0	sentence	_	_
 
