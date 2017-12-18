@@ -71,6 +71,7 @@
 10	.	_	$.	$.	_	11	punc	_	_
 11	VROOT	_	_	_	_	0	sentence	_	_
 
+
 1	=akishit	_	Root_EP	Root_EP	Root=VRoot|EP=-t|trans=to.roast	9	sntc	_	_
 2	-i	_	STATUS	STATUS	STATUS=+REAL	1	status	_	_
 3	=ni	_	O	O	O=+3SG.O	2	o	_	_
