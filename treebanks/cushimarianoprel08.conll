@@ -59,6 +59,18 @@
 12	VROOT	_	_	_	_	0	sentence	_	_
 
 
+1	=am	_	Root	Root	Root=VRoot|trans=to.visit	11	sntc	_	_
+2	-ak	_	ASP	ASP	ASP=+PRF	1	asp	_	_
+3	-e	_	STATUS	STATUS	STATUS=+REAL	3	status	_	_
+4	no-	_	NPers	NPers	NPers=1SG.poss+	5	s-poss	_	_
+5	=shavo	_	Root	Root	Root=NRoot|trans=granddaughter|gndr=+m.|k=kin.of.a.female	1	s-arg	_	_
+6	=koriti	_	Root	Root	Root=NRoot|trans=sweet.potato|gndr=+n.m.	1	o-arg	_	_
+7	=ovaa	_	Root	Root	Root=NRoot|trans=sown.plot.of.land|gndr=+n.m.|inal=+ntsi|poss=+ni	1	co	_	_
+8	-ntsi	_	Gen	Gen	Gen=+nposs	7	alien	_	_
+9	-ki	_	Cas	Cas	Cas=+LOC	8	loc	_	_
+10	.	_	$.	$.	_	11	punc	_	_
+11	VROOT	_	_	_	_	0	sentence	_	_
+
 1	=akishit	_	Root_EP	Root_EP	Root=VRoot|EP=-t|trans=to.roast	9	sntc	_	_
 2	-i	_	STATUS	STATUS	STATUS=+REAL	1	status	_	_
 3	=ni	_	O	O	O=+3SG.O	2	o	_	_
