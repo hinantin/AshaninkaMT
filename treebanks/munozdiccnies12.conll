@@ -1,10 +1,11 @@
 1	n-	_	VPers	VPers	VPers=1SG.A+	2	s.subj	_	_
 2	=amen	_	Root	Root	Root=VRoot|trans=to.look.for	10	sntc	_	_
-3	-apinit	_	TIME.MODAL_EP	TIME.MODAL_EP	TIME=+HAB|EP=-t	2	
+3	-apinit	_	TIME.MODAL_EP	TIME.MODAL_EP	TIME=+HAB|EP=-t	2	time	_	_
 4	-ak	_	ASP	ASP	ASP=+PRF	3	asp	_	_
 5	-e	_	STATUS	STATUS	STATUS=+IRR	4	status	_	_
 6	=ro	_	PRN.O	PRN.O	PRN.O=+3n.m.O	5	prn.o	_	_
-7	=kitaiteri	_	Root	Root	Root=NRoot|trans=day|gndr=+m.	??	_	_
-8	-pee	_	Num	Num	Num=+DIST	7	
-9	-ki	_	
+7	=kitaiteri	_	Root	Root	Root=NRoot|trans=day|gndr=+m.	2	co	_	_
+8	-pee	_	Num	Num	Num=+DIST	7	num	_	_
+9	-ki	_	Cas	Cas	Cas=+LOC.T	8	cas	_	_
 10	VROOT	_	_	_	_	0	sentence	_	_
+

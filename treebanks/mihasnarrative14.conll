@@ -1,0 +1,7 @@
+1	=pava	_	Root	Root	Root=NRoot|trans=solar.deity|gndr=+m.|poss=+ni	7	sntc	_	_
+2	=vitsik	_	Root	Root	Root=VRoot|trans=to.create	7	sntc	_	_
+3	-i	_	STATUS	STATUS	STATUS=+IRR	2	status	_	_
+4	-ro	_	PRN.O	PRN.O	PRN.O=+3n.m.O	3	prn-o	_	_
+5	-ri	_	NS	NS	NS=+REL	4	rel	_	_
+6	=kipatsi	_	Root	Root	Root=NRoot|trans=earth|gndr=+n.m.	4	o-arg	_	_
+7	VROOT	_	_	_	_	0	sentence	_	_
