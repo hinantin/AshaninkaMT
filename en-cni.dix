@@ -444,6 +444,8 @@
             I 
         ##### -->
         <e><p><l>interjection</l><r>okireatsataa<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
+        <!-- pashinisato nampitsi / =pashini -sato *** =nampi -tsi / =other +:human.provenance  / EN: 'international'; ES: 'internacional'   -->
+        <e><p><l>international</l><r>nampitsi<s n="preform"/>#pashinisato</r></p><par n="Adjectives"/></e>
         <!-- kaari oyeakotacha / =kaari  / =NEG.COP / EN: 'intolerable'; ES: 'intolerable' -->
         <e><p><l>intolerable</l><r>oyeakotacha<s n="preform"/>#kaari</r></p><par n="Adjectives"/></e>
         <!-- te inkantaje / te inkantahe / =te i- N- =kant -a -he / =NEG.REAL  3m.s- irr- =to.be -real -neg / EN: 'invalid'; ES: 'inválido' -->
@@ -524,6 +526,8 @@
             N 
         ##### -->
         <e><p><l>name</l><r>vahiro<s n="inal"/>+ntsi<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <!--  -->
+        <e><p><l>national</l><r>anampisato<s n="gndr"/>+n.m.</r></p><par n="Adjectives"/></e>
         <!-- inchato / =incha -to / =plant -cl:tree / EN: 'tree' ES: 'árbol' -->
         <e><p><l>tree</l><r>incha<s n="add_mi"/>+CL:tree<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <!-- #####
@@ -738,6 +742,8 @@
         <e><p><l>alone</l><r>apanironi</r></p><par n="Adverb"/></e>
         <!--  -->
         <e><p><l>well</l><r>kametsa</r></p><par n="Adverb"/></e>
+        <!--  -->
+        <e><p><l>never</l><r>katsini<s n="preform"/>#eiro</r></p><par n="Adverb"/></e>
         <!-- ================================== 
             Location 
         ================================== -->
