@@ -140,7 +140,7 @@
 4	-i	_	STATUS	STATUS	STATUS=+IRR	3	status	_	_
 5	=na	_	O	O	O=+1SG.O	4	o	_	_
 6	n-	_	NPers	NPers	NPers=1SG.poss+	7	poss	_	_
-7	=ishintyo	_	Root	Root	Root=NRoot|trans=daughter|gndr=+n.m.|k=kin.of.fe/male	1	s-arg	_	_
+7	=ishintyo	_	Root	Root	Root=NRoot|trans=daughter|gndr=+n.m.|k=kin.of.a.fe/male	1	s-arg	_	_
 8	:	_	$.	$.	_	16	punc	_	_
 9	r-	_	VPers	VPers	VPers=3m.S+	10	s-subj	_	_
 10	=am	_	Root	Root	Root=VRoot|trans=to.bring	16	sntc	_	_
