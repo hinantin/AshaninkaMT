@@ -151,6 +151,7 @@
 15	.	_	$.	$.	_	16	punc	_	_
 16	VROOT	_	_	_	_	0	sentence	_	_
 
+
 1	r-	_	VPers	VPers	VPers=3m.A+	2	s-subj	_	_
 2	=atsot	_	Root_EP	Root_EP	Root=VRoot|EP=-t|trans=to.suck	11	sntc	_	_
 3	-i	_	STATUS	STATUS	STATUS=+REAL	2	status	_	_
