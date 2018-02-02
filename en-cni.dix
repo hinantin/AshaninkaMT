@@ -550,6 +550,8 @@
         <e><p><l>painted</l><r>karinari<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>painted</l><r>karinaro<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>painted</l><r>karinavo<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <!-- tsipacontataca / tsipakontataka -->
+        <e><p><l>palmiped</l><r>tsipakontataka</r></p><par n="Noun"/></e>
         <!-- samaninki / [=samani+m. =inki+n.m.]+n.m. / =rodent.sp. =peanut / EN: 'peanut.sp.'; ES: 'especie.de.maní' -->
         <e><p><l>peanut</l><r>samaninki<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <!-- 
