@@ -307,6 +307,8 @@
         <e><p><l>bird</l><r>tsimeri<s n="gndr"/>+m.<s n="poss"/>+ti</r></p><par n="Noun"/></e>
         <e><p><l>small_bird</l><r>tsimeri<s n="gndr"/>+m.<s n="poss"/>+ti</r></p><par n="Noun"/></e>
         <e><p><l>book</l><r>nyaanamento<s n="inal"/>+tsi</r></p><par n="Noun"/></e>
+        <!--  -->
+        <e><p><l>bow</l><r>tsovi</r></p><par n="Noun"/></e>
         <!-- nihateni / =niha -teni / =water -cl:longitudinal.depression / EN: 'brook, creek' -->
         <e><p><l>brook</l><r>niha<s n="add_mi"/>+CL:longitudinal.depression</r></p><par n="Noun"/></e>
         <!-- tsiyomentotsi / =tsiyo -mento -tsi / =to.give.off.light -concr -nposs / EN: 'burner'; ES: 'mechero' -->
