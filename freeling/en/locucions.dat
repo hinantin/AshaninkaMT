@@ -154,6 +154,7 @@ leaf_wrapped_<food> leaf_wrapped_food $3:NN I
 cell_<phone> cell_phone $2:NN I
 mobile_<phone> mobile_phone $2:NN I
 money_<contribution> money_contribution $2:NN I
+armored_<catfish> armored_catfish $2:NN I
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Verbs
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
