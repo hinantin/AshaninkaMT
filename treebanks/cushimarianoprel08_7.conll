@@ -1,0 +1,16 @@
+1	=aatonkori	_	Root	Root	Root=VRoot|trans=to.undress	16	sntc	_	_	
+2	-ak	_	ASP	ASP	ASP=+PRF	1	asp	_	_
+3	-e	_	STATUS	STATUS	STATUS=+IRR	2	status	_	_
+4	=ro	_	PRN.O	PRN.O	PRN.O=+3n.m.O	3	prn-o	_	_
+5	=choeni	_	Root	Root	Root=NRoot|trans=sister|k=kin.of.a.male|gndr=+n.m.	1	s-arg	_	_
+6	=ishinto	_	Root	Root	Root=NRoot|trans=daughter|k=kin.of.a.fe/male|gndr=+n.m.	4	o-arg	_	_
+7	o-	_	NPers	NPers	NPers=3n.m.poss+	8	poss	_	_
+8	=kitsare	_	Root	Root	Root=NRoot|trans=cushma|gndr=+m.|inal=-ntsi	16	o-arg	_	_
+9	o-	_	VPers	VPers	VPers=3n.m.A+	10	a-subj	_	_
+10	=kavoshit	_	Root_EP	Root_EP	Root=VRoot|EP=-t|trans=to.bathe	11	s-arg-claus	_	_
+11	-ant	_	APPL	APPL	APPL=+APPL.REAS|trans=in.order.to	1	reas	_	_
+12	-yaa	_	STATUS	STATUS	STATUS=+IRR	10	status	_	_
+13	=vo	_	PRN.O	PRN.O	PRN.O=+3n.m.O	12	prn-o	_	_
+14	-ri	_	NS	NS	NS=+REL	13	rel	_	_
+15	.	_	$.	$.	_	16	punc	_	_
+16	VROOT	_	_	_	_	0	sentence	_	_
