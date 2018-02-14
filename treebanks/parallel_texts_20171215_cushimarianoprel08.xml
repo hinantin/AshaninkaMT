@@ -217,13 +217,14 @@ jaka	[=haka+proximal.b.][PrnDem][=here, close.to.the.speaker]
     <text id="10">
         <prq>Osheki itsaati abo aririka iñee pokatsiri.</prq>
         <es>El tatatao avisa cuando ve acercarse a alguien.</es>
+        <en>The tatatao-vulture warns when it sees somebody approaching.</en>
         <morphology>
 
 osheki	[=osheki][AdjRoot][=many, much, a.lot]
 
 itsaati	[i-][VPers][3m.S+][--][=tsa][VRoot][=to.bark (ES: ladrar)][--][-a][+REP][=again.and.again]a[--][-t][+EP]t[--][-i][+IRR]i
 
-abo	[=avo][NRoot][=falcon.sp., red-throated.caracara (sci.nm.: daptrius.americanus); (ES: atatao)
+abo	[=avo][NRoot][=falcon.sp., red-throated.caracara (sci.nm.: daptrius.americanus); tatatao-vulture (ES: sp.de.gallinazo, tatatao)]
 
 aririka	[=aririka][WhPrn][=when]
 
