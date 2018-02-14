@@ -1,0 +1,357 @@
+<parallel>
+    <text id="">
+        <prq/>
+        <es/>
+        <morphology/>
+    </text>
+    <text id="1.1">
+        <prq>Paamabentya kaakitaki obayeri. </prq>
+        <es>Cuídense, vienen los guerreros.</es>
+        <morphology>
+
+paamabentya	[p-][VPers][2S+][--][=aam][VRoot][=to.beware.of.sth/sb. (ES: tener.cuidado)][--][-a][+EP]a[--][-vent][+APPL.BEN][=action.done.for.sb.else]vent[--][-ya][+IRR]ya
+
+kaakitaki	[=kaaki][VRoot][=to.approach][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-i][+REAL]i
+
+obayeri	[=ovayeri+m.][NRoot][=warrior (ES: guerrero)]
+
+.	.[$.]
+</morphology>
+    </text>
+    <text id="1.2">
+        <prq>Eero piñanatiro iina Yompiri, amaenkari inati.</prq>
+        <es>No hables con la esposa de Yompiri porque es celoso.</es>
+        <morphology>
+
+eero	[=eero][Neg][=NEG.IRR]
+
+piñanatiro	[pi-][VPers][2A+][--][=ny][VRoot][=to.visit][--][-an+source][ADV][+DIR][=INCEP:beginning.of.a.new.action]an[--][-a][ASP][+TERM][=TERM: once-and-for.all]a[--][-t][+EP]t[--][-i][+REAL]i[--][=ro][+3n.m.O]
+
+iina	[i-][NPers][3m.poss+][--][=ina+n.m.+inal@tsi.+voc.][NRoot][=mother; wife (kin.of.a.fe/male)]
+
+yompiri	[=yompiri][NRoot][=NP]
+
+,	,[$.]
+
+amaenkari	[=am][VRoot][=to.watch.out.for.sb.][--][-a][+EP]a[--][-enka+quality][+NMZ]enka[--][-ri+m.][+NMZ]
+
+inati	[i-][VPers][3m.S+][--][=na][VRoot][=to.be][--][-t][+EP]t[--][-i][+REAL]i
+
+.	.[$.]
+</morphology>
+    </text>
+    <text id="2">
+        <prq>Amake noshabo koriti obaantsiki.</prq>
+        <es>Mi nieta trajo camotes de la chacra.</es>
+        <morphology>
+
+amake	[=am][VRoot][=to.bring (ES: traer)][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e
+
+noshabo	[no-][NPers][1SG.poss+][--][=shavo+n.m.][NRoot][=granddaughter (kin.of.a.female)]
+
+koriti	[=koriti+n.m.][NRoot][=sweet.potato (ES: camote, botany.id.: ipomeea.batatas)]
+
+obaantsiki	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.plot.of.land (ES: chacra)][--][-ntsi+alien.][Gen][+nposs]ntsi[--][-ki][Cas][+LOC]
+
+.	.[$.]
+</morphology>
+    </text>
+    <text id="3">
+        <prq>Irika aaniri rashinonkaaka tekatsi iriripaye. </prq>
+        <es>Este niño huérfano está sufriendo porque no tiene padres.</es>
+        <morphology>
+
+irika	[=irika+m.+proximal][PrnDem][=this]
+
+aaniri	[=aaniri+m.+inal@ntsi.][NRoot][=orphan (ES: huérfano)]
+
+rashinonkaaka	[r-][VPers][3m.S+][--][=ashinonk][VRoot][=to.suffer (ES: sufrir)][--][-a][+EP]a[--][-ak][ASP][+PRF]ak[--][-a][+REAL]a
+
+tekatsi	[=tekatsi][Neg][=NOT.POSSESS]
+
+iriripaye	[ir-][NPers][3m.poss+][--][=iri+m.][NRoot][=father (kin.of.a.fe/male)][--][-paye][Num][+PL]
+
+.	.[$.]
+</morphology>
+    </text>
+    <text id="4">
+        <prq>Noñaakero nanaeni aanakiro obantire obaantsiki. </prq>
+        <es>Vi a mi tía llevar su canasta a la chacra.</es>
+        <morphology>
+
+noñaakero	[no-][VPers][1SG.A+][--][=ny][VRoot][=to.see][--][-a][+EP]a[--][-ak][+PRF]ak[--][-e][+REAL]e[--][=ro][+3n.m.O]
+
+nanaeni	[=nanaeni+n.m.+voc.+poss@te.][NRoot][=aunt (kin.of.a.female)]
+
+aanakiro	[=a][VRoot][=to.take (ES: agarrar)][--][-an+source][ADV][+DIR][=departing]an[--][-ak][ASP][+PRF]ak[--][-i][+REAL]i[--][=ro][+3n.m.O]
+
+oyantire	[o-][NPers][3n.m.poss+][--][=kantire+n.m.][NRoot][=basket (ES: canasta)]
+
+obaantsiki	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra)][--][-ntsi+alien.][Gen][+nposs]ntsi[--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+</morphology>
+    </text>
+    <text id="5">
+        <prq>Okantakina nishintyo: Ramaki aapi shitobi. </prq>
+        <es>Mi hija me dijo: “Mi abuelo trajo callampa”.</es>
+        <morphology>
+
+okantakina	[o-][VPers][3n.m.A+][--][=kant][VRoot][=to.say][--][-ak][ASP][+PRF]ak[--][-i][+IRR]i[--][=na][+1SG.O]
+
+nishintyo	[n-][NPers][1SG.poss+][--][=ishintyo+n.m.][NRoot][=daughter (kin.of.a.fe/male)]
+
+:	:[$.]
+
+ramaki	[r-][VPers][3m.S+][--][=am][VRoot][=to.bring (ES: traer)][--][-ak][ASP][+PRF]ak[--][-i][+IRR]i
+
+aapi	[=aapi+m.+poss@ti.][NRoot][=grandfather (kin.of.a.female, fem.ego)]
+
+shitobi	[=shitovi+n.m.][NRoot][=orange/purple-colored.edible.mushroom (ES: hongo.comestible, hongo.callampa)]
+
+.	.[$.]
+</morphology>
+    </text>
+    <text id="6">
+        <prq>Okantakena choeni: Pamakena aari tsitsi.</prq>
+        <es>Mi hermana me dijo: “Hermano, tráeme leña”.</es>
+        <morphology>
+
+okantakena	[o-][VPers][3n.m.A+][--][=kant][VRoot][=to.say][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=na][+1SG.O]
+
+choeni	[=choeni+n.m.][NRoot][=sister (kin.of.a.male, male.ego)]
+
+:	:[$.]
+
+pamakena	[p-][VPers][2A+][--][=am][VRoot][=to.bring (ES: traer)][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=na][+1SG.O]
+
+aari	[=aari+m.][NRoot][=brother (kin.of.a.female, fem.ego; ES: hermano.de.mujer)]
+
+tsitsi	[=tsitsi+n.m.][NRoot][=firewood (ES: leña)]
+
+.	.[$.]
+</morphology>
+    </text>
+    <text id="7">
+        <prq>Aatonkoriakero choeni ishinto oitsare okaboshitantyaabori.</prq>
+        <es>Mi hermana desnudó a su hija para bañarla.</es>
+        <morphology>
+
+aatonkoriakero	[=aatonkori][VRoot][=to.undress (ES: desnudar)][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ro][+3n.m.O]
+
+choeni	[=choeni+n.m.][NRoot][=sister (kin.of.a.male, male.ego)]
+
+ishinto	[=ishinto+n.m.][NRoot][=daughter (kin.of.fe/male)]
+
+oitsare	[o-][NPers][3n.m.poss+][--][=kitsare+m.+inal@ntsi.][NRoot][=cushma]
+
+okaboshitantyaabori	[o-][VPers][3n.m.A+][--][=kavoshi][VRoot][=to.bathe (ES: bañar)][--][-t][+EP]t[--][-ant][+APPL.REAS][=in.order.to]ant[--][-yaa][+IRR]yaa[--][=vo][+3n.m.O][--][=ri][NS][+REL]
+
+.	.[$.]
+</morphology>
+    </text>
+    <text id="8.1">
+        <prq>Pamakenari abentyari akaatabakeriita nija jaabari. </prq>
+        <es>Trae al llorón para bañarlo con agua caliente.</es>
+        <morphology>
+
+pamakenari	[p-][VPers][2A+][--][=am][VRoot][=to.bring (ES: traer)][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=na][+1SG.O][--][=ri][+3m.O]
+
+abentyari	[=aventyari+m.][NRoot][=cry.baby (ES: llorón)]
+
+akaatabakeriita	[a-][VPers][1PL.A+][--][=kaa][VRoot][=to.bathe (ES: bañar)][--][-t][+EP]t[--][-av+object.oriented][ADV][+DIR][=contrary,opposite]av[--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=rii][+3m.O][--][=ta][MODAL][+OPT_SUBJ]
+
+nija	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
+
+jaabari	[=haavari+m.][NRoot][=warm, hot (prbly.liquid)]
+
+.	.[$.]
+</morphology>
+    </text>
+    <text id="8.2">
+        <prq>Irika eentsi abentyari osheki ikaimi tsireniriki. </prq>
+        <es>Este niño llorón grita demasiado por las noches.</es>
+        <morphology>
+
+irika	[=irika+m.+proximal][PrnDem][=this]
+
+eentsi	[=eentsi+n./m.+poss@te.][NRoot][=child (ES: niño)]
+
+abentyari	[=aventyari+m.][NRoot][=cry.baby (ES: llorón)]
+
+osheki	[=osheki][AdjRoot][=many, much, a.lot]
+
+ikaimi	[i-][VPers][3m.S/A+][--][=kaim][VRoot][=to.call (ES: llamar)][--][-i][+IRR]i
+
+tsireniriki	[=tsireniri][NRoot][=night][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+</morphology>
+    </text>
+    <text id="9">
+        <prq>Nabijakero nampitsi nareetantakari jaka. </prq>
+        <es>Pasé la ciudad para llegar hasta aquí.</es>
+        <morphology>
+
+nabijakero	[n-][VPers][1SG.A+][--][=avih][VRoot][=to.pass, to.move.past/to_the_other_side_of.sb/sth. (ES: pasar)][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ro][+3n.m.O]
+
+nampitsi	[=nampi+n.m.+inal@tsi.][NRoot][=village, place, country; settlement][--][-tsi+alien.][Gen][+nposs]tsi
+
+nareetantakari	[n-][VPers][1SG.A+][--][=aree][VRoot][=to.arrive (ES: llegar), to.visit.with.sb.][--][-t][+EP]t[--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-a][+IRR]a[--][=ri][NS][+REL]
+
+jaka	[=haka+proximal.b.][PrnDem][=here, close.to.the.speaker]
+
+.	.[$.]
+</morphology>
+    </text>
+    <text id="10">
+        <prq>Osheki itsaati abo aririka iñee pokatsiri.</prq>
+        <es>El tatatao avisa cuando ve acercarse a alguien.</es>
+        <morphology>
+
+osheki	[=osheki][AdjRoot][=many, much, a.lot]
+
+itsaati	[i-][VPers][3m.S+][--][=tsa][VRoot][=to.bark (ES: ladrar)][--][-a][+REP][=again.and.again]a[--][-t][+EP]t[--][-i][+IRR]i
+
+abo	[=avo][NRoot][=falcon.sp., red-throated.caracara (sci.nm.: daptrius.americanus); (ES: atatao)
+
+aririka	[=aririka][WhPrn][=when]
+
+iñee	[i-][VPers][3m.S+][--][=ny][VRoot][=to.see, to.look.for; to.visit][--][-ee][+IRR]ee
+
+pokatsiri	[=pok][VRoot][=to.come (ES: venir), to.arrive][--][-atsi][Asp][+STAT.IPRF]atsi[--][=ri][NS][+REL]
+
+.	.[$.]
+</morphology>
+    </text>
+    <text id="13">
+        <!-- Itsatakiro ajopi koriari ikanjantantyaari. -->
+        <prq>Itsatakiro ajopi koriari ikajankantyaari.</prq>
+        <es>Koriari se cuelga vainilla en la espalda para estar perfumado.</es>
+        <morphology>
+            
+itsatakiro	[i-][VPers][3m.A+][--][=tsa][VRoot][=to.hung.from.sth. (ES: colgarse)][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-i][+REAL]i[--][-ro][+3n.m.O]
+
+ajopi	[=ahopi+n.m.][NRoot][=aromatic.love.charm/amulet (ES: amuleto.aromático.para.el.amor)]
+
+koriari	[=koriari][NRoot][=NP]
+
+ikajankantyaari	[i-][VPers][3m.S+][--][=kahank][VRoot][=to.perfume (ES: perfumar)][--][-ant][+APPL.REAS][=in.order.to]ant[--][-yaa][+REAL]yaa[--][-ri][+REL]
+
+.	.[$.]
+            </morphology>
+        <parsing>
+            
+1	i-	_	VPers	VPers	VPers=3m.A+	2	s.subj	_	_
+2	=tsat	_	Root_EP	Root_EP	Root=VRoot|EP=-t|trans=to.hung.from.sth.	14	sntc	_	_
+3	-ak	_	ASP	ASP	ASP=+PRF	2	asp	_	_
+4	-i	_	STATUS	STATUS	STATUS=+REAL	3	status	_	_
+5	=ro	_	PRN.O	PRN.O	PRN.O=+3n.m.O	4	prn.o	_	_
+6	ahopi	_	Root	Root	Root=NRoot|trans=aromatic.love.amulet|gndr=+n.m.	5	o.arg	_	_
+7	koriari	_	Root	Root	Root=NP|gndr=+m.	8	s.arg	_	_
+8	i-	_	VPers	VPers	VPers=3m.S+	9	s.subj	_	_
+9	=kahank	_	Root	Root	Root=VRoot|trans=to.perfume	10	s.arg.claus	_	_
+10	-ant	_	APPL	APPL	APPL=+APPL.REAS|trans=in.order.to	2	reas	_	_
+11	-yaa	_	STATUS	STATUS	STATUS=+REAL	9	status	_	_
+12	-ri	_	NS	NS	NS=+REL	11	rel	_	_
+13	.	_	$.	$.	_	14	punc	_	_
+14	VROOT	_	_	_	_	0	sentence	_	_
+            </parsing>
+    </text>
+    <text id="14">
+        <prq>Pakeri pabachori, ikaematimi.</prq>
+        <es>Responde a tu tío, te está llamando.</es>
+        <morphology>
+            
+pakeri	[p-][VPers][2A+][--][=ak][VRoot][=to.answer.back][--][-e][+IRR]e[--][=ri][+3m.O]
+
+pabachori	[=pavachori+m.+poss@ti.][NRoot][=uncle (kin.of.a.male)]
+
+,	,[$.]
+
+ikaematimi	[i-][VPers][3m.S+][--][=kaem][VRoot][=to.call.sb.][--][-ati][ASP][+PROG]ati[--][=mi][+2SG.O]
+
+.	.[$.]
+            </morphology>
+    </text>
+    <text id="15">
+        <prq>Ikantana nirentitsori: Poya mamori akacharentsi. </prq>
+        <es>Mi primo me dice: “Come el sábalo anzueleado”.</es>
+        <morphology>
+
+ikantana	[i-][VPers][3m.S/A+][--][=kant][VRoot][=to.say][--][-a][+REAL]a[--][=na][+1SG.O]
+
+nirentitsori	[n-][NPers][1SG.poss+][--][=irenti+m.][NRoot][=brother (kin.of.a.male)][--][-tsori][+CL:distant/surrogate.kin][=distant/surrogate.kin]
+
+:	:[$.]
+
+[p-][VPers][2S+][--][=oy][VRoot][=to.eat (ES: comer)][--][-a][+IRR]a
+
+mamori	[=mamori+m.][NRoot][=fish.sp., sabalo (sci.nm.: brycon.sp.)]
+
+akacharentsi	[=akacha][VRoot][=to.fish.with.a.line.and.a.hook, to.angle (ES: ansolear)][--][-re+m.][NS][+NMZ]re[--][-ntsi+alien.][Gen][+nposs]ntsi
+</morphology>
+    </text>
+    <text id="20">
+        <prq>Akishitiniri naana apa kaniri. </prq>
+        <es>Mi mamá asa yuca para mi papá.</es>
+        <morphology>
+
+akishitiniri	[=akishi][VRoot][=to.roast (ES: asar)][--][-t][+EP]t[--][-i][+REAL]i[--][=ni][+3SG.O][--][=ri][+3m.O]
+
+naana	[=naana+n.m.+voc.+poss@te:ti.][NRoot][=mom, mother (kin.of.a.fe/male; ES: mamá)]
+
+apa	[=apa+m.][NRoot][=13 (kin.of.a.fe/male)]
+
+kaniri	[=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; sci.nm.: manihot.sculenta)]
+
+.	.[$.]
+</morphology>
+    </text>
+    <text id="37">
+        <prq>Amiro tsinane ana eereki otiritantyaabori oishi.</prq>
+        <es>La mujer trae huito verde para teñirse el cabello.</es>
+        <morphology>
+            
+amiro	[=am][VRoot][=to.bring (ES: traer)][--][-i][+IRR]i[--][=ro][+3n.m.O]
+
+tsinane	[=tsinane+n.m.][NRoot][=woman]
+
+ana	[=ana+n.m.+poss@ni.][NRoot][=huito]
+
+eereki	[=eereki][NRoot][=green]
+
+otiritantyaabori	[o-][VPers][3n.m.A+][--][=tiri][VRoot][=to.anoint (ES: frotar)][--][-t][+EP]t[--][-ant][+APPL.REAS][=in.order.to]ant[--][-yaa][+IRR]yaa[--][=vo][+3n.m.O][--][-ri][NS][+REL]
+
+oishi	[o-][NPers][3n.m.poss+][--][=kishi+n.m.+inal@tsi.][NRoot][=hair]
+
+.	.[$.]
+            </morphology>
+    </text>
+    <text id="675">
+        <prq>Ratsotiro shima ojampobatsate mapi. </prq>
+        <es>El boquicico chupa le barro de la piedra.</es>
+        <morphology>
+
+ratsotiro	[r-][VPers][3m.A+][--][=atso][VRoot][=to.suck (prbly.cacao)][--][-t][+EP]t[--][-i][+REAL]i[--][=ro][+3n.m.O]
+
+shima	[=shima+m.+poss@ni.][NRoot][=boquichico-fish (ES: boquichico, chupadora; sci.nm.: prochilo.dus.nigricans)]
+
+ojampobatsate	[o-][NPers][3n.m.poss+][--][=hampovatsa+n.m.+poss@te.][NRoot][=mud (ES: barro)][--][-te][Gen][+aln.poss.]
+
+mapi	[=mapi+n.m.+poss@ni:ne.][NRoot][=stone; rock]
+
+.	.[$.]
+</morphology>
+    </text>
+    <text id="">
+        <prq>Ashi Añane</prq>
+        <es>Nuestra voz</es>
+        <morphology>
+
+ashi	[=ashi][PrnPoss][+1PL]
+
+añane	[a-][NPers][1PL.poss+][--][=nya+n.m.+inal@ntsi.+poss@ne.][NRoot][=word (ES: palabra), language][--][-ne][Gen][+aln.poss.]ne
+</morphology>
+    </text>
+</parallel>
