@@ -13,6 +13,8 @@ use JSON::Parse 'parse_json';
 binmode STDIN, ':utf8';
 binmode(STDOUT, ":utf8");
 use Data::Dumper;
+use Encode;
+use URI::Encode;
 use Getopt::Long qw(GetOptions);
 
 my $configfile = '/usr/lib/cgi-bin/runasimi/ConfigFile.ini';
@@ -38,10 +40,13 @@ GetOptions (
   open(FILE, $parsing) or die "Can't read file '$parsing' [$!]\n";  
   $document = <FILE>; 
   close (FILE);  
-  $document = "\n<![CDATA[\n$document\n]]>";
+  my $uri     = URI::Encode->new( { encode_reserved => 0 } );
+  $document = $uri->encode("\n\n\n$document\n");
+  #$document = $uri->encode("\n<![CDATA[\n$document\n]]>");
+  print "$document";
 }
 
-$URL = "http://$user:$password\@localhost:8080/exist/rest/db/HNTAshaninka/ParallelCorpus/query/function_saveparsing.xql?pasing=$document&lang=$lang&textid=$textid&paralleltext=$paralleltext";
+$URL = "http://$user:$password\@localhost:8080/exist/rest/db/HNTAshaninka/ParallelCorpus/query/function_saveparsing.xql?parsing=$document&lang=$lang&textid=$textid&paralleltext=$paralleltext";
 # connecting to $URL...
 $client = RPC::XML::Client->new($URL);
 # Output options
@@ -52,5 +57,5 @@ my @options = ({
 $req = RPC::XML::request->new();
 $response = $client->send_request('system.listMethods');
 my $result = $response->value;
-print "$callback('$result')";
+print "$result";
 
