@@ -1,0 +1,19 @@
+1	no-	_	VPers	VPers	VPers=1SG.A+	2	s-subj	_	_
+2	=nya	_	Root_EP	Root_EP	Root=VRoot|EP=-a|trans=to.see	18	sntc	_	_
+3	-ak	_	ASP	ASP	ASP=+PRF	2	asp	_	_
+4	-e	_	STATUS	STATUS	STATUS=+REAL	3	status	_	_
+5	=ro	_	PRN.O	PRN.O	PRN.O=+3n.m.O	4	prn-o	_	_
+6	=nanaeni	_	Root	Root	Root=NRoot|trans=aunt|gndr=+n.m.|poss=-te	5	o-arg	_	_
+7	=a	_	Root	Root	Root=VRoot|trans=to.take	18	sntc	_	_
+8	-an	_	ADV	ADV	ADV=+DIR|sem=+source|trans=departing	7	dir	_	_
+9	-ak	_	ASP	ASP	ASP=+PRF	8	asp	_	_
+10	-i	_	STATUS	STATUS	STATUS=+REAL	9	status	_	_
+11	=ro	_	PRN.O	PRN.O	PRN.O=+3n.m.O	10	prn-o	_	_
+12	o-	_	NPers	NPers	NPers=3n.m.poss+	13	poss	_	_
+13	=kantire	_	Root	Root	Root=NRoot|trans=basket|gndr=+n.m.	11	o-arg	_	_
+14	=ovaa	_	Root	Root	Root=NRoot|trans=sown.plot.of.land|gndr=+n.m.|inal=+ntsi|poss=+ni	16	s-arg	_	_
+15	-ntsi	_	Gen	Gen	Gen=+nposs	14	alien	_	_
+16	-ki	_	Cas	Cas	Cas=+LOC	7	mod	_	_
+17	.	_	$.	$.	_	18	punc	_	_
+18	VROOT	_	_	_	_	0	sentence	_	_
+
