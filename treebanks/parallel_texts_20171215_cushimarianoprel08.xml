@@ -310,6 +310,7 @@ akacharentsi	[=akacha][VRoot][=to.fish.with.a.line.and.a.hook, to.angle (ES: ans
     <text id="20">
         <prq>Akishitiniri naana apa kaniri. </prq>
         <es>Mi mamá asa yuca para mi papá.</es>
+        <en>My mother roasts sweet manioc for my father.</en>
         <morphology>
 
 akishitiniri	[=akishi][VRoot][=to.roast (ES: asar)][--][-t][+EP]t[--][-i][+REAL]i[--][=ni][+3SG.O][--][=ri][+3m.O]
