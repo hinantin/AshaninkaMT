@@ -400,6 +400,15 @@ pokatsiri	[=pok][VRoot][=to.come (ES: venir), to.arrive][--][-atsi][Asp][+STAT.I
 .	.[$.]
 </morphology>
     </text>
+    <text id="11">
+        <prq>Poyaatanakero abotsi jatatsiri kempityaariki.</prq>
+        <es>Sigue el camino que va a la comunidad de Kempityari.</es>
+        <en>Follow the road that goes towards the Kempityari community.</en>
+        <morphology>
+
+
+</morphology>
+    </text>
     <text id="13">
         <!-- Itsatakiro ajopi koriari ikanjantantyaari. -->
         <prq>Itsatakiro ajopi koriari ikajankantyaari.</prq>
