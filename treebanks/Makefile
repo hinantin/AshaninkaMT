@@ -7,4 +7,5 @@ download:
 
 cushimarianoprel08:
 	@perl function_saveparsing.pl --parsing=cushimarianoprel08_2.conll --lang=cni --textid=2 --paralleltext=parallel_texts_20171215_cushimarianoprel08
+	@make download;  git commit -a -m "Adding stuff."; git push -u origin master
 
