@@ -416,6 +416,14 @@ kempityaariki	[=kempityaari][NRoot][=NP][--][-ki][Cas][+LOC_LOC.T]
 
 .	.[$.]
 </morphology>
+        <parsing>
+
+
+
+1	p-	_	VPers	VPers	VPers=2S+	2	s-subj	_	_
+
+
+</parsing>
     </text>
     <text id="13">
         <!-- Itsatakiro ajopi koriari ikanjantantyaari. -->
