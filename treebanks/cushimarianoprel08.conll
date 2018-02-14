@@ -10,6 +10,9 @@
 9	.	_	$.	$.	_	10	punc	_	_
 10	VROOT	_	_	_	_	0	sentence	_	_
 
+
+
+
 1	=eero	_	Root	Root	Root=NEG.IRR	3	neg	_	_
 2	pi-	_	VPers	VPers	VPers=2A+	3	s-subj	_	_
 3	=ny	_	Root	Root	Root=VRoot|trans=to.visit	17	sntc	_	_
