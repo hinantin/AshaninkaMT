@@ -262,20 +262,20 @@ tsitsi	[=tsitsi+n.m.][NRoot][=firewood (ES: leña)]
         <parsing>
 
 
-1	o-	_	VPers	VPers	VPers=3n.m.A 	2	s-subj	_	_
+1	o-	_	VPers	VPers	VPers=3n.m.A+	2	s-subj	_	_
 2	=kant	_	Root	Root	Root=VRoot|trans=to.say	16	sntc	_	_
-3	-ak	_	ASP	ASP	ASP= PRF	2	asp	_	_
-4	-e	_	STATUS	STATUS	STATUS= REAL	3	status	_	_
-5	=na	_	O	O	O= 1SG.O	4	o	_	_
-6	=choeni	_	Root	Root	Root=NRoot|trans=sister|gndr= n.m.|k=kin.of.a.male	1	s-arg	_	_
+3	-ak	_	ASP	ASP	ASP=+PRF	2	asp	_	_
+4	-e	_	STATUS	STATUS	STATUS=+REAL	3	status	_	_
+5	=na	_	O	O	O=+1SG.O	4	o	_	_
+6	=choeni	_	Root	Root	Root=NRoot|trans=sister|gndr=+n.m.|k=kin.of.a.male	1	s-arg	_	_
 7	:	_	$.	$.	_	16	punc	_	_
-8	p-	_	VPers	VPers	VPers=2A 	9	s-subj	_	_
+8	p-	_	VPers	VPers	VPers=2A+	9	s-subj	_	_
 9	=am	_	Root	Root	Root=VRoot|trans=to.bring	16	sntc	_	_
-10	-ak	_	ASP	ASP	ASP= PRF	9	asp	_	_
-11	-e	_	STATUS	STATUS	STATUS= IRR	10	status	_	_
-12	=na	_	O	O	O= 1SG.O	11	o	_	_
-13	=aari	_	Root	Root	Root=NRoot|trans=brother|gndr= m.|k=kin.of.a.female	8	s-arg	_	_
-14	=tsitsi	_	Root	Root	Root=NRoot|trans=firewood|gndr= n.m.	9	o-arg	_	_
+10	-ak	_	ASP	ASP	ASP=+PRF	9	asp	_	_
+11	-e	_	STATUS	STATUS	STATUS=+IRR	10	status	_	_
+12	=na	_	O	O	O=+1SG.O	11	o	_	_
+13	=aari	_	Root	Root	Root=NRoot|trans=brother|gndr=+m.|k=kin.of.a.female	8	s-arg	_	_
+14	=tsitsi	_	Root	Root	Root=NRoot|trans=firewood|gndr=+n.m.	9	o-arg	_	_
 15	.	_	$.	$.	_	16	punc	_	_
 16	VROOT	_	_	_	_	0	sentence	_	_
 

@@ -40,7 +40,7 @@ GetOptions (
   open(FILE, $parsing) or die "Can't read file '$parsing' [$!]\n";  
   $document = <FILE>; 
   close (FILE);  
-  my $uri     = URI::Encode->new( { encode_reserved => 0 } );
+  my $uri     = URI::Encode->new( { encode_reserved => 1 } );
   $document = $uri->encode("\n\n\n$document\n");
   #$document = $uri->encode("\n<![CDATA[\n$document\n]]>");
   print "$document";
