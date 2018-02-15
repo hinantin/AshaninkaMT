@@ -560,13 +560,15 @@ mamoripaye	[=mamori+m.][NRoot][=fish.sp., sabalo (sci.nm.: brycon.sp.)][--][-pay
     <text id="17">
         <prq>Irika niyompari akachabaerenti kitaejerikipaye roba  shima.</prq>
         <es>Este amigo que pesca con anzuelo come pescado todos los días.</es>
-        <en>This friend who fishes with a hook, eats fish every day.</en>
+        <en>This friend who fishes with a fishhook, eats fish every day.</en>
         <morphology>
 
 
 irika	[=irika+m.+proximal][PrnDem][=this]
 
 niyompari	[n-][NPers][1SG.poss+][--][=iyompari+m.][NRoot][=friend; trading.partner]
+
+akachabaerenti	[=akacha][VRoot][=to.fish.with.a.line.and.a.hook, to.angle (ES: ansolear)][--][-vae][ASP][+DUR]vae[--][-re+m.][NS][+NMZ]re[--][-nti+alien.][Gen][+nposs]nti
 
 </morphology>
         <parsing/>
