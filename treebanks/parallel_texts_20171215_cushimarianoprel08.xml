@@ -578,7 +578,14 @@ roba	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-a][+IRR]a
 shima	[=shima+m.+poss@ni.][NRoot][=fish; fish.sp., boquichico-fish (ES: boquichico, chupadora; sci.nm.: prochilodus.nigricans)]
 
 </morphology>
-        <parsing/>
+        <parsing>
+
+
+
+1	=irika	_	Root	Root	Root=PrnDem|trans=this|gndr=+m.|sem=+proximal	2	det	_	_
+
+
+</parsing>
     </text>
     <text id="20">
         <prq>Akishitiniri naana apa kaniri. </prq>
