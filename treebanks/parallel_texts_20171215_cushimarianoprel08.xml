@@ -545,9 +545,15 @@ akacharentsi	[=akacha][VRoot][=to.fish.with.a.line.and.a.hook, to.angle (ES: ans
         <en/>
         <morphology>
 
-namanantake	[n-][VPers][1SG.S/A+][--][=amanant][VRoot][=to.buy (ES: comprar)][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e
+namanantake	[n-][VPers][1SG.S+][--][=amanant][VRoot][=to.buy (ES: comprar)][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e
 
+akachaarontsi	[=akachaa][VRoot][=to.fish.with.a.line.and.a.hook, to.angle (ES: ansolear)][--][-ro+n.m.][NS][+NMZ]ro[--][-ntsi+alien.][Gen][+nposs]ntsi
 
+akachatantyaari	[=akacha][VRoot][=to.fish.with.a.line.and.a.hook, to.angle (ES: ansolear)][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to]ant[--][-yaa][+IRR]yaa[--][=ri][+3m.O]
+
+mamoripaye	[=mamori+m.][NRoot][=fish.sp., sabalo (sci.nm.: brycon.sp.)][--][-paye][Num][+PL_DIST]
+
+.	.[$.]
 </morphology>
         <parsing/>
     </text>
