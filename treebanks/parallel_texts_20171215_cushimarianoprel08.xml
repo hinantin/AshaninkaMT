@@ -585,6 +585,8 @@ shima	[=shima+m.+poss@ni.][NRoot][=fish; fish.sp., boquichico-fish (ES: boquichi
 1	=irika	_	Root	Root	Root=PrnDem|trans=this|gndr=+m.|sem=+proximal	2	det	_	_
 2	n-	_	NPers	NPers	NPers=1SG.poss+	3	poss	_	_
 3	=ishintyo	_	Root	Root	Root=NRoot|trans=friend|gndr=+m.	1?	s-arg	_	_
+4	=akachavaere	_	Root_DUR_NMZ	Root_DUR_NMZ	Root=VRoot|DUR=-vae|NMZ=-re|trans=hook|gndr=+m.	1?	s-arg	_	_
+
 
 </parsing>
     </text>
