@@ -679,6 +679,41 @@ rakopero	[r-][NPers][3m.poss+][--][=akopero+inal@n/tsi.][NRoot][=right.hand (ES:
 </morphology>
         <parsing/>
     </text>
+    <text id="23">
+        <!-- Robaankiro entsi rako rakatsatantyaariri iriri. -->
+        <prq>Robaakiro entsi rako rakatsatantyaariri iriri.</prq>
+        <es>El niño alza la mano para agarrar a su padre.</es>
+        <en>The child raises the hand in order to grab his father.</en>
+        <morphology>
+
+robaakiro	[ro-][VPers][3n.m.A+][--][=v][VRoot][=to.put, to.place (ES: poner, colocar)][--][-aak][ASP][+PRF]aak[--][-i][+IRR]i[--][=ro][+3n.m.O]
+
+entsi	[=entsi+n./m.+poss@te.][NRoot][=child (ES: niño)]
+
+rako	[r-][NPers][3m.poss+][--][=ako+n.m.+inal@tsi.][NRoot][=hand (ES: mano)]
+
+rakatsatantyaariri	[r-][VPers][3m.S/A+][--][=akatsa][VRoot][=to.guide/help.sb.holding.hands (ES: guiar/ayudar.a.algn.tomándolo.de.la.mano)][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to]ant[--][-yaa][+IRR]yaa[--][=ri][+3m.O][--][=ri][NS][+REL]
+
+.	.[$.]
+</morphology>
+        <parsing/>
+    </text>
+    <text id="24">
+        <prq>Aanakero amaani pitotsi.</prq>
+        <es>La creciente llevó la canoa.</es>
+        <en/>
+        <morphology>
+
+aanakero	[=a][VRoot][=to.take (ES: agarrar)][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ro][+3n.m.O]
+
+amaani	[=amaani+n.m.][NRoot][=increase (ES: creciente)]
+
+pitotsi	[=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe (ES: canoa)][--][-tsi+alien.][Gen][+nposs]tsi
+
+.	.[$.]
+</morphology>
+        <parsing/>
+    </text>
     <text id="37">
         <prq>Amiro tsinane ana eereki otiritantyaabori oishi.</prq>
         <es>La mujer trae huito verde para teñirse el cabello.</es>
