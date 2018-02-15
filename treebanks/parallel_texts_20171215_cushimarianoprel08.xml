@@ -423,6 +423,8 @@ kempityaariki	[=kempityaari][NRoot][=NP][--][-ki][Cas][+LOC_LOC.T]
 1	p-	_	VPers	VPers	VPers=2S+	2	s-subj	_	_
 2	=oyaat	_	Root_EP	Root_EP	Root=VRoot|EP=-t|trans=to.follow	10	sntc	_	_
 3	-an	_	ADV	ADV	ADV=+DIR|sem=+source|DIR=(upon).leaving/departing	2	dir	_	_
+4	-ak	_	ASP	ASP	ASP=+PRF	3	asp	_	_
+
 
 </parsing>
     </text>
