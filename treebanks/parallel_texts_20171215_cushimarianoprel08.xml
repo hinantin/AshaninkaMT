@@ -619,8 +619,26 @@ nija	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
 </morphology>
         <parsing/>
     </text>
+    <text id="19">
+        <prq>Tasheyakena, pimpena pakishire.</prq>
+        <es>Siento hambre, dame tu asado.</es>
+        <en>I feel hungry, give me your roast.</en>
+        <morphology>
+
+tasheyakena	[=tashey][VRoot][=to.be.hungry (ES: tener.hambre)][--][-ak][+CAUS.SOC]ak[--][-e][+REAL]e[--][=na][+1SG.O]
+
+,	,[$.]
+
+pimpena	[pi-][VPers][2A+][--][N=][IRR+][--][=p][VRoot][=to.give (ES: dar)][--][-e][+IRR]e[--][=na][+1SG.O]
+
+pakishire	[p-][NPers][2poss+][--][=akishi][VRoot][=to.roast (ES: asar)][--][-re+m.][NS][+NMZ]re
+
+.	.[$.]
+</morphology>
+        <parsing/>
+    </text>
     <text id="20">
-        <prq>Akishitiniri naana apa kaniri. </prq>
+        <prq>Akishitiniri naana apa kaniri.</prq>
         <es>Mi mamá asa yuca para mi papá.</es>
         <en>My mother roasts sweet manioc for my father.</en>
         <morphology>
