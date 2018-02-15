@@ -442,7 +442,12 @@ kempityaariki	[=kempityaari][NRoot][=NP][--][-ki][Cas][+LOC_LOC.T]
         <prq>Ijampitiro charine isheeni: ¿Aeniro piarentsi nireri? </prq>
         <es>Mi abuelo pregunta a mi abuela: “¿Hay masato para tomar?”</es>
         <en>My grandfather asks my grandmother: "Is there manioc-beer to drink?"</en>
-        <morphology/>
+        <morphology>
+
+ijampitiro	[i-][VPers][3m.A+][--][=hampi][VRoot][=to.ask.(about.sth.) (ES: preguntar)][--][-t][+EP]t[--][-i][+IRR]i[--][=ro][+3n.m.O
+
+
+</morphology>
     </text>
     <text id="13">
         <!-- Itsatakiro ajopi koriari ikanjantantyaari. -->
