@@ -654,6 +654,13 @@ kaniri	[=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; sci.nm
 .	.[$.]
 </morphology>
     </text>
+    <text id="21">
+        <prq>Rakitsitatya yeye paamariki.</prq>
+        <es>Mi hermano se calienta en el fuego.</es>
+        <en/>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="37">
         <prq>Amiro tsinane ana eereki otiritantyaabori oishi.</prq>
         <es>La mujer trae huito verde para teñirse el cabello.</es>
