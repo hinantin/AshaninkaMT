@@ -424,7 +424,8 @@ kempityaariki	[=kempityaari][NRoot][=NP][--][-ki][Cas][+LOC_LOC.T]
 2	=oyaat	_	Root_EP	Root_EP	Root=VRoot|EP=-t|trans=to.follow	10	sntc	_	_
 3	-an	_	ADV	ADV	ADV=+DIR|sem=+source|DIR=(upon).leaving/departing	2	dir	_	_
 4	-ak	_	ASP	ASP	ASP=+PRF	3	asp	_	_
-
+5	-e	_	STATUS	STATUS	STATUS=+IRR	4	status	_	_
+6	=ro	_	PRN.O	PRN.O	PRN.O=+3n.m.O	5	prn-o	_	_
 
 </parsing>
     </text>
