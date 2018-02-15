@@ -591,7 +591,7 @@ shima	[=shima+m.+poss@ni.][NRoot][=fish; fish.sp., boquichico-fish (ES: boquichi
 8	r-	_	VPers	VPers	VPers=3m.S+	9	s-subj	_	_
 9	=ov	_	Root	Root	Root=VRoot|trans=to.eat	13	sntc	_	_
 10	-a	_	STATUS	STATUS	STATUS=+IRR	9	status	_	_
-11	=shima	_	Root	Root	Root=NRoot|trans=boquichico-fish|gndr=+m.|poss=+ni	1	s-arg	_	_
+11	=shima	_	Root	Root	Root=NRoot|trans=boquichico-fish|gndr=+m.|poss=+ni	9	o-arg	_	_
 12	.	_	$.	$.	_	13	punc	_	_
 13	VROOT	_	_	_	_	0	sentence	_	_
 
