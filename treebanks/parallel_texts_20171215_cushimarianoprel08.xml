@@ -670,6 +670,22 @@ paamariki	[=paamari+n.m.][NRoot][=fire (ES: candela, fuego)][--][-ki][Cas][+LOC_
 </morphology>
         <parsing/>
     </text>
+    <text id="22">
+        <prq>Itinairo irianeerikipaye rakopero.</prq>
+        <es>Los niños levantan la mano derecha.</es>
+        <en>Children raise their right hand.</en>
+        <morphology>
+
+itinairo	[i-][VPers][3m.S/A+][--][=tina][VRoot][=to.lift (ES: levantar)][--][-i][+IRR]i[--][=ro][+3n.m.O]
+
+irianeerikipaye	[=irianeeriki+m.][NRoot][=child (ES: niño)][--][-paye][Num][+PL]
+
+rakopero	[r-][NPers][3m.poss+][--][=akopero+inal@n/tsi.][NRoot][=right.hand (ES: mano.derecha)]
+
+.	.[$.]
+</morphology>
+        <parsing/>
+    </text>
     <text id="37">
         <prq>Amiro tsinane ana eereki otiritantyaabori oishi.</prq>
         <es>La mujer trae huito verde para teñirse el cabello.</es>
