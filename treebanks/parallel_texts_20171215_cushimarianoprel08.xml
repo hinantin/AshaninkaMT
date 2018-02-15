@@ -581,14 +581,13 @@ shima	[=shima+m.+poss@ni.][NRoot][=fish; fish.sp., boquichico-fish (ES: boquichi
         <parsing>
 
 
-
-1	=irika	_	Root	Root	Root=PrnDem|trans=this|gndr=+m.|sem=+proximal	2	det	_	_
+1	=irika	_	Root	Root	Root=PrnDem|trans=this|gndr=+m.|sem=+proximal	3	det	_	_
 2	n-	_	NPers	NPers	NPers=1SG.poss+	3	poss	_	_
 3	=ishintyo	_	Root	Root	Root=NRoot|trans=friend|gndr=+m.	8	s-arg	_	_
-4	=akachavaerenti	_	Root_DUR_ADJZ	Root_DUR_ADJZ	Root=VRoot|DUR=-vae|ADJZ=-renti|trans=hook.fisherman|gndr=+m.	1?	s-arg	_	_
+4	=akachavaerenti	_	Root_DUR_ADJZ	Root_DUR_ADJZ	Root=VRoot|DUR=-vae|ADJZ=-renti|trans=hook.fisherman|gndr=+m.	3	s-arg	_	_
 5	=kitaeteri	_	Root	Root	Root=NRoot|trans=day	9	s-arg	_	_
 6	-ki	_	Cas	Cas	Cas=+LOC.T	5	mod	_	_
-7	-paye	_	-paye	_	Num	Num	Num=+DIST	6	num	_	_
+7	-paye	_	Num	Num	Num=+DIST	6	num	_	_
 8	r-	_	VPers	VPers	VPers=3m.S+	9	s-subj	_	_
 9	=ov	_	Root	Root	Root=VRoot|trans=to.eat	13	sntc	_	_
 10	-a	_	STATUS	STATUS	STATUS=+IRR	9	status	_	_
