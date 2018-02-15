@@ -1,11 +1,4 @@
 <parallel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="parallel_texts.xsd">
-    <text id="">
-        <prq/>
-        <es/>
-        <en/>
-        <morphology/>
-        <parsing/>
-    </text>
     <text id="1.1">
         <prq>Paamabentya kaakitaki obayeri. </prq>
         <es>Cuídense, vienen los guerreros.</es>
