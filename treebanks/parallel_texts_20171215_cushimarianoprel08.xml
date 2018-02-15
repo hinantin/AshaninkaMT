@@ -438,6 +438,11 @@ kempityaariki	[=kempityaari][NRoot][=NP][--][-ki][Cas][+LOC_LOC.T]
 
 </parsing>
     </text>
+    <text id="12">
+        <prq>Ijampitiro charine isheeni: ¿Aeniro piarentsi nireri? </prq>
+        <es>Mi abuelo pregunta a mi abuela: “¿Hay masato para tomar?”</es>
+        <morphology/>
+    </text>
     <text id="13">
         <!-- Itsatakiro ajopi koriari ikanjantantyaari. -->
         <prq>Itsatakiro ajopi koriari ikajankantyaari.</prq>
