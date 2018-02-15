@@ -426,6 +426,8 @@ kempityaariki	[=kempityaari][NRoot][=NP][--][-ki][Cas][+LOC_LOC.T]
 4	-ak	_	ASP	ASP	ASP=+PRF	3	asp	_	_
 5	-e	_	STATUS	STATUS	STATUS=+IRR	4	status	_	_
 6	=ro	_	PRN.O	PRN.O	PRN.O=+3n.m.O	5	prn-o	_	_
+7	=avo	_	Root	Root	Root=NRoot|trans=road|gndr=+n.m.|inal=-tsi	6	o-arg	_	_
+8	-tsi	_	Gen	Gen	Gen=+nposs	7	alien	_	_
 
 </parsing>
     </text>
