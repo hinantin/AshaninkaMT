@@ -658,7 +658,12 @@ kaniri	[=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; sci.nm
         <prq>Rakitsitatya yeye paamariki.</prq>
         <es>Mi hermano se calienta en el fuego.</es>
         <en>My brother is getting warm near the fire.</en>
-        <morphology/>
+        <morphology>
+
+rakitsitatya	[r-][VPers][3m.S/A+][--][=akitsi][VRoot][=to.get.warm (ES: calentarse)][--][-t][+EP]t[--][-a][+REAL]a[--][=tya][+N.C.FOC][=urgency, impatience, surprise, exasperation (non-contradictory.emphasis); almost (with.time.adverbs)]
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="37">
