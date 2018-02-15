@@ -577,6 +577,7 @@ roba	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-a][+IRR]a
 
 shima	[=shima+m.+poss@ni.][NRoot][=fish; fish.sp., boquichico-fish (ES: boquichico, chupadora; sci.nm.: prochilodus.nigricans)]
 
+.	.[$.]
 </morphology>
         <parsing>
 
@@ -597,6 +598,26 @@ shima	[=shima+m.+poss@ni.][NRoot][=fish; fish.sp., boquichico-fish (ES: boquichi
 
 
 </parsing>
+    </text>
+    <text id="18">
+        <prq>Rakachatiri Shebankori komairi omotyaaki nija.</prq>
+        <es>Shewankori anzuelea paco en la poza del río.</es>
+        <en>Shevankori angles paco-fish in the billabong.</en>
+        <morphology>
+
+rakachatiri	[r-][VPers][3m.A+][--][=akacha][VRoot][=to.fish.with.a.line.and.a.hook, to.angle (ES: ansolear)][--][-t][+EP]t[--][-i][+REAL]i[--][=ri][+3m.O]
+
+shewankori	[=shevankori][NRoot][=NP]
+
+komairi	[=komairi+m.+poss@ti.][NRoot][=fish.sp. (ES: paco,, gamitana; sci.nm.: syzlo, chalceus.opalinus,, cichlidae, astronatus.ocellatus)]
+
+omotyaaki	[o-][NPers][3n.m.poss+][--][=motya][NRoot][=stomach, belly][--][-a][+CL:liquid][=liquid][--][-ki][Cas][+LOC_LOC.T]
+
+nija	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
+
+.	.[$.]
+</morphology>
+        <parsing/>
     </text>
     <text id="20">
         <prq>Akishitiniri naana apa kaniri. </prq>
