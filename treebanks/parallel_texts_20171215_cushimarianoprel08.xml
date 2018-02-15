@@ -428,6 +428,10 @@ kempityaariki	[=kempityaari][NRoot][=NP][--][-ki][Cas][+LOC_LOC.T]
 6	=ro	_	PRN.O	PRN.O	PRN.O=+3n.m.O	5	prn-o	_	_
 7	=avo	_	Root	Root	Root=NRoot|trans=road|gndr=+n.m.|inal=-tsi	6	o-arg	_	_
 8	-tsi	_	Gen	Gen	Gen=+nposs	7	alien	_	_
+9	=hat	_	Root_EP	Root_EP	Root=VRoot|EP=-t|trans=to.go	10	sntc	_	_
+10	-atsi	_	ASP	ASP	ASP=+STAT.IPRF	9	asp	_	_
+11	=ri	_	NS	NS	NS=+REL	11	rel	_	_
+
 
 </parsing>
     </text>
