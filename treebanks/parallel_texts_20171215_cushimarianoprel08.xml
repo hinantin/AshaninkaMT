@@ -432,7 +432,7 @@ kempityaariki	[=kempityaari][NRoot][=NP][--][-ki][Cas][+LOC_LOC.T]
 10	-atsi	_	ASP	ASP	ASP=+STAT.IPRF	9	asp	_	_
 11	=ri	_	NS	NS	NS=+REL	11	rel	_	_
 12	=koriari	_	Root	Root	Root=NP	11	s-arg	_	_
-13	-ki	_	
+13	-ki	_	Cas	Cas	Cas=+LOC	12	mod	_	_
 14	.	_	$.	$.	_	15	punc	_	_
 15	VROOT	_	_	_	_	0	sentence	_	_
 
