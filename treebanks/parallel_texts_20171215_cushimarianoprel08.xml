@@ -32,9 +32,9 @@ obayeri	[=ovayeri+m.][NRoot][=warrior (ES: guerrero)]
 </parsing>
     </text>
     <text id="1.2">
-        <prq>Eero piñanatiro iina Yompiri, amaenkari inati.</prq>
-        <es>No hables con la esposa de Yompiri porque es celoso.</es>
-        <en>Don't talk to Yompiri's wife because he is a jealous man.</en>
+        <sentence lang="prq">Eero piñanatiro iina Yompiri, amaenkari inati.</sentence>
+        <sentence lang="es">No hables con la esposa de Yompiri porque es celoso.</sentence>
+        <sentence lang="en">Don't talk to Yompiri's wife because he is a jealous man.</sentence>
         <morphology>
 
 eero	[=eero][Neg][=NEG.IRR]
