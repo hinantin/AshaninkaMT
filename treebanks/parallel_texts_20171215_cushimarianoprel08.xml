@@ -733,7 +733,11 @@ pitotsi	[=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe (ES: canoa)][--][-tsi+alie
         <prq>Ramana Shabashi ipankoki aririka iñaanatero iñaane Paba.</prq>
         <es>Shawashi ora en su casa cuando lee la Palabra de Dios.</es>
         <en>Shavashi prays in his house when he reads God's word.</en>
-        <morphology/>
+        <morphology>
+
+shabashi	[=shavashi][NRoot][=NP]
+
+</morphology>
         <parsing/>
     </text>
     <text id="27">
