@@ -770,6 +770,13 @@ pitotsi	[=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe (ES: canoa)][--][-tsi+alie
         <morphology/>
         <parsing/>
     </text>
+    <text id="32">
+        <prq>Pamenero iroka shiyakaantsi.</prq>
+        <es>Mira esta foto.</es>
+        <en>Look at this picture.</en>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="37">
         <prq>Amiro tsinane ana eereki otiritantyaabori oishi.</prq>
         <es>La mujer trae huito verde para teñirse el cabello.</es>
