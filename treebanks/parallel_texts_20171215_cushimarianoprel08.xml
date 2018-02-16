@@ -79,9 +79,9 @@ inati	[i-][VPers][3m.S+][--][=na][VRoot][=to.be][--][-t][+EP]t[--][-i][+REAL]i
 </parsing>
     </text>
     <text id="2">
-        <prq>Amake noshabo koriti obaantsiki.</prq>
-        <es>Mi nieta trajo camotes de la chacra.</es>
-        <en>My granddaughter brought sweet potatoes from the sown field.</en>
+        <sentence lang="prq">Amake noshabo koriti obaantsiki.</sentence>
+        <sentence lang="es">Mi nieta trajo camotes de la chacra.</sentence>
+        <sentence lang="en">My granddaughter brought sweet potatoes from the sown field.</sentence>
         <morphology>
 
 amake	[=am][VRoot][=to.bring (ES: traer)][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e
