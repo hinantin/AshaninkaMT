@@ -113,9 +113,9 @@ obaantsiki	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.plot.of.land (ES: chacr
 </parsing>
     </text>
     <text id="3">
-        <prq>Irika aaniri rashinonkaaka tekatsi iriripaye. </prq>
-        <es>Este niño huérfano está sufriendo porque no tiene padres.</es>
-        <en>This orphan child is suffering because he doesn't have parents.</en>
+        <sentence lang="prq">Irika aaniri rashinonkaaka tekatsi iriripaye. </sentence>
+        <sentence lang="es">Este niño huérfano está sufriendo porque no tiene padres.</sentence>
+        <sentence lang="en">This orphan child is suffering because he doesn't have parents.</sentence>
         <morphology>
 
 irika	[=irika+m.+proximal][PrnDem][=this]
