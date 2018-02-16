@@ -192,9 +192,9 @@ obaantsiki	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.lan
 </parsing>
     </text>
     <text id="5">
-        <prq>Okantakina nishintyo: Ramaki aapi shitobi. </prq>
-        <es>Mi hija me dijo: “Mi abuelo trajo callampa”.</es>
-        <en>My daughter told me: "Mi grandfather brought callampa-mushroom".</en>
+        <sentence lang="prq">Okantakina nishintyo: Ramaki aapi shitobi. </sentence>
+        <sentence lang="es">Mi hija me dijo: “Mi abuelo trajo callampa”.</sentence>
+        <sentence lang="en">My daughter told me: "Mi grandfather brought callampa-mushroom".</sentence>
         <morphology>
 
 okantakina	[o-][VPers][3n.m.A+][--][=kant][VRoot][=to.say][--][-ak][ASP][+PRF]ak[--][-i][+IRR]i[--][=na][+1SG.O]
@@ -235,9 +235,9 @@ shitobi	[=shitovi+n.m.][NRoot][=orange/purple-colored.edible.mushroom (ES: hongo
 </parsing>
     </text>
     <text id="6">
-        <prq>Okantakena choeni: Pamakena aari tsitsi.</prq>
-        <es>Mi hermana me dijo: “Hermano, tráeme leña”.</es>
-        <en>My sister told me: "Brother, bring me firewood".</en>
+        <sentence lang="prq">Okantakena choeni: Pamakena aari tsitsi.</sentence>
+        <sentence lang="es">Mi hermana me dijo: “Hermano, tráeme leña”.</sentence>
+        <sentence lang="en">My sister told me: "Brother, bring me firewood".</sentence>
         <morphology>
 
 okantakena	[o-][VPers][3n.m.A+][--][=kant][VRoot][=to.say][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=na][+1SG.O]
