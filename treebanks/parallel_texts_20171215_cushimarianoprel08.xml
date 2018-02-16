@@ -749,6 +749,13 @@ pitotsi	[=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe (ES: canoa)][--][-tsi+alie
         <morphology/>
         <parsing/>
     </text>
+    <text id="29">
+        <prq>Robanakero pinkatsari ramatsaere obakerari riyatantyaari rapatotya.</prq>
+        <es>El jefe se puso la corona nueva antes de ir a la reunión.</es>
+        <en>The chief put on the new crown before going to the meeting.</en>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="37">
         <prq>Amiro tsinane ana eereki otiritantyaabori oishi.</prq>
         <es>La mujer trae huito verde para teñirse el cabello.</es>
