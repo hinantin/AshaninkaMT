@@ -278,9 +278,9 @@ tsitsi	[=tsitsi+n.m.][NRoot][=firewood (ES: leña)]
 </parsing>
     </text>
     <text id="7">
-        <prq>Aatonkoriakero choeni ishinto oitsare okaboshitantyaabori.</prq>
-        <es>Mi hermana desnudó a su hija para bañarla.</es>
-        <en>My sister undressed her daughter in order to bathe her.</en>
+        <sentence lang="prq">Aatonkoriakero choeni ishinto oitsare okaboshitantyaabori.</sentence>
+        <sentence lang="es">Mi hermana desnudó a su hija para bañarla.</sentence>
+        <sentence lang="en">My sister undressed her daughter in order to bathe her.</sentence>
         <morphology>
 
 aatonkoriakero	[=aatonkori][VRoot][=to.undress (ES: desnudar)][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ro][+3n.m.O]
