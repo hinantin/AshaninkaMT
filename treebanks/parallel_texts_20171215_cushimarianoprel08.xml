@@ -359,9 +359,9 @@ tsireniriki	[=tsireniri][NRoot][=night][--][-ki][Cas][+LOC_LOC.T]
 </morphology>
     </text>
     <text id="9">
-        <prq>Nabijakero nampitsi nareetantakari jaka. </prq>
-        <es>Pasé la ciudad para llegar hasta aquí.</es>
-        <en>I passed by the city in order to get till here.</en>
+        <sentence lang="prq">Nabijakero nampitsi nareetantakari jaka. </sentence>
+        <sentence lang="es">Pasé la ciudad para llegar hasta aquí.</sentence>
+        <sentence lang="en">I passed by the city in order to get till here.</sentence>
         <morphology>
 
 nabijakero	[n-][VPers][1SG.A+][--][=avih][VRoot][=to.pass, to.move.past/to_the_other_side_of.sb/sth. (ES: pasar)][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ro][+3n.m.O]
