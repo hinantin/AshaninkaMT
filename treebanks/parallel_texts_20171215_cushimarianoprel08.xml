@@ -883,7 +883,13 @@ tsimiki	[=tsimi+n.m.+poss@ne.][NRoot][=macaw-and-parrot.clay.lick (QU: qullpa, E
         <sentence lang="prq">Ikantiri Kaaroshi itomi: Pinkantero anirio otsikaatena piarentsi.</sentence>
         <sentence lang="es">Kaaroshi le dice a su hijo: “Dile a mi nuera que me sirva el masato”.</sentence>
         <sentence lang="en">Kaaroshi says to his son: "Tell my daughte-in-law to serve me masato-beer".</sentence>
-        <morphology/>
+        <morphology>
+
+
+ikantiri	[i-][VPers][3m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be; to.be.able][--][-i][+IRR]i[--][=ri][+3m.O]
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="675">
