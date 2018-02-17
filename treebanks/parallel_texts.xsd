@@ -1,7 +1,14 @@
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning" elementFormDefault="qualified" vc:minVersion="1.1">
     <xs:simpleType name="language">
         <xs:restriction base="xs:string">
-            <xs:enumeration value="prq"/>
+            <xs:enumeration value="prq">
+                <xs:annotation>
+                    <xs:documentation>
+                        ES: Asheninka del Perené.
+                        EN: Perene Asheninka
+                    </xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
             <xs:enumeration value="cni"/>
             <xs:enumeration value="es"/>
             <xs:enumeration value="en"/>
