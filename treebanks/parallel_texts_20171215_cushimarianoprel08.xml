@@ -723,16 +723,16 @@ pitotsi	[=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe (ES: canoa)][--][-tsi+alie
         <parsing/>
     </text>
     <text id="25.2">
-        <prq>Ramaatakoti yeye ishintipaareki riyaataero kirinka.</prq>
-        <es>Mi hermano va río abajo en su balsa.</es>
-        <en>My brother goes down river in his canoe.</en>
+        <sentence lang="prq">Ramaatakoti yeye ishintipaareki riyaataero kirinka.</sentence>
+        <sentence lang="es">Mi hermano va río abajo en su balsa.</sentence>
+        <sentence lang="en">My brother goes down river in his canoe.</sentence>
         <morphology/>
         <parsing/>
     </text>
     <text id="26">
-        <prq>Ramana Shabashi ipankoki aririka iñaanatero iñaane Paba.</prq>
-        <es>Shawashi ora en su casa cuando lee la Palabra de Dios.</es>
-        <en>Shavashi prays in his house when he reads God's word.</en>
+        <sentence lang="prq">Ramana Shabashi ipankoki aririka iñaanatero iñaane Paba.</sentence>
+        <sentence lang="es">Shawashi ora en su casa cuando lee la Palabra de Dios.</sentence>
+        <sentence lang="en">Shavashi prays in his house when he reads God's word.</sentence>
         <morphology>
 
 shabashi	[=shavashi][NRoot][=NP]
