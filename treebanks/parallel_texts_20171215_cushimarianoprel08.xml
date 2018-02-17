@@ -515,9 +515,9 @@ ikaematimi	[i-][VPers][3m.S+][--][=kaem][VRoot][=to.call.sb.][--][-ati][ASP][+PR
             </morphology>
     </text>
     <text id="15">
-        <prq>Ikantana nirentitsori: Poya mamori akacharentsi. </prq>
-        <es>Mi primo me dice: “Come el sábalo anzueleado”.</es>
-        <en>My cousin tells me: "Eat the angled sabalo-fish".</en>
+        <sentence lang="prq">Ikantana nirentitsori: Poya mamori akacharentsi. </sentence>
+        <sentence lang="es">Mi primo me dice: “Come el sábalo anzueleado”.</sentence>
+        <sentence lang="en">My cousin tells me: "Eat the angled sabalo-fish".</sentence>
         <morphology>
 
 ikantana	[i-][VPers][3m.S/A+][--][=kant][VRoot][=to.say][--][-a][+REAL]a[--][=na][+1SG.O]
