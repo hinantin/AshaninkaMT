@@ -791,16 +791,16 @@ kocheri	[=kocheri][NRoot][=NP]
         <parsing/>
     </text>
     <text id="33">
-        <prq>Pamenarontya jempe pobatikerori pipanko.</prq>
-        <es>Fija donde vas a ubicar tu casa.</es>
-        <en>Establish where you are going to locate your house.</en>
+        <sentence lang="prq">Pamenarontya jempe pobatikerori pipanko.</sentence>
+        <sentence lang="es">Fija donde vas a ubicar tu casa.</sentence>
+        <sentence lang="en">Establish where you are going to locate your house.</sentence>
         <morphology/>
         <parsing/>
     </text>
     <text id="34">
-        <prq>Maaroni rantayetiri Ishako, rantiro rampateki.</prq>
-        <es>Todo lo que hace Ishako lo hace con la mano izquierda.</es>
-        <en>Everything that Ishako does, he makes it with his left hand.</en>
+        <sentence lang="prq">Maaroni rantayetiri Ishako, rantiro rampateki.</sentence>
+        <sentence lang="es">Todo lo que hace Ishako lo hace con la mano izquierda.</sentence>
+        <sentence lang="en">Everything that Ishako does, he makes it with his left hand.</sentence>
         <morphology/>
         <parsing/>
     </text>
