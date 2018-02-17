@@ -1,0 +1,52 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning" elementFormDefault="qualified" vc:minVersion="1.1">
+    <xs:simpleType name="language">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="prq"/>
+            <xs:enumeration value="cni"/>
+            <xs:enumeration value="es"/>
+            <xs:enumeration value="en"/>
+            <xs:enumeration value="pt"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:element name="parallel">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="text" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="sentence" minOccurs="2" maxOccurs="6">
+                                <xs:complexType>
+                                    <xs:simpleContent>
+                                        <xs:extension base="xs:string">
+                                            <xs:attribute type="language" name="lang" use="required"/>
+                                        </xs:extension>
+                                    </xs:simpleContent>
+                                </xs:complexType>
+                            </xs:element>
+                            <!-- 
+                            <xs:element name="prq" minOccurs="1" maxOccurs="1"/>
+                            <xs:element name="es" minOccurs="0" maxOccurs="1"/>
+                            <xs:element name="en" minOccurs="1" maxOccurs="1"/>
+                            -->
+                            <xs:element name="morphology" minOccurs="1" maxOccurs="1" nillable="false">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:string">
+                                        <xs:minLength value="1"/>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                            <xs:element name="parsing" minOccurs="1" maxOccurs="1" nillable="false">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:string">
+                                        <xs:minLength value="1"/>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="id" use="required"/>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
