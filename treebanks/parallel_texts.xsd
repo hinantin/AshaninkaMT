@@ -31,6 +31,13 @@
                     </xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
+            <xs:enumeration value="cpu">
+                <xs:annotation>
+                    <xs:documentation>
+                        ES: Ashéninka, Pichis
+                    </xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
             <xs:enumeration value="es">
                 <xs:annotation>
                     <xs:documentation>
