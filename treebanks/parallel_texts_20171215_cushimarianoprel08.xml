@@ -665,9 +665,9 @@ paamariki	[=paamari+n.m.][NRoot][=fire (ES: candela, fuego)][--][-ki][Cas][+LOC_
         <parsing/>
     </text>
     <text id="22">
-        <prq>Itinairo irianeerikipaye rakopero.</prq>
-        <es>Los niños levantan la mano derecha.</es>
-        <en>Children raise their right hand.</en>
+        <sentence lang="prq">Itinairo irianeerikipaye rakopero.</sentence>
+        <sentence lang="es">Los niños levantan la mano derecha.</sentence>
+        <sentence lang="en">Children raise their right hand.</sentence>
         <morphology>
 
 itinairo	[i-][VPers][3m.S/A+][--][=tina][VRoot][=to.lift (ES: levantar)][--][-i][+IRR]i[--][=ro][+3n.m.O]
