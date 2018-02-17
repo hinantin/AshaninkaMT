@@ -863,7 +863,17 @@ antamiki	[=antami][NRoot][=woods, forest; dense.tropical.forest][--][-ki][Cas][+
         <sentence lang="prq">Aniriake koshiri kipatsiki ikaboshitantyari tsimiki.</sentence>
         <sentence lang="es">El mono bajó al suelo para bañarse en la colpa.</sentence>
         <sentence lang="en"/>
-        <morphology/>
+        <morphology>
+
+
+aniriake	[=aniri][VRoot][=to.go.down (ES: bajar)][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e
+
+koshiri	[=koshiri+m.+poss@ti.][NRoot][=monkey.sp., white.monkey.sp. (ES: machín.blanco; sci.nm.: cebus.albifrons)]
+
+kipatsiki	[=kipatsi+n.m.+poss@te:ti.][NRoot][=ground, mud, earth; land][--][-ki][Cas][+LOC_LOC.T]
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="675">
