@@ -856,6 +856,7 @@ raniiti	[r-][VPers][3m.S+][--][=anii][VRoot][=to.walk][--][-t][+EP]t[--][-i][+IR
 
 antamiki	[=antami][NRoot][=woods, forest; dense.tropical.forest][--][-ki][Cas][+LOC]
 
+.	.[$.]
 </morphology>
         <parsing/>
     </text>
@@ -876,6 +877,7 @@ ikaboshitantyari	[i-][VPers][3m.S/A+][--][=kavoshi][VRoot][=to.bathe (ES: bañar
 
 tsimiki	[=tsimi+n.m.+poss@ne.][NRoot][=macaw-and-parrot.clay.lick (QU: qullpa, ES: colpa); clean.water.well.where.animals.go.to.drink, water.hole][--][-ki][Cas][+LOC_LOC.T]
 
+.	.[$.]
 </morphology>
         <parsing/>
     </text>
@@ -891,6 +893,22 @@ ikantiri	[i-][VPers][3m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.hap
 kaaroshi	[=Carlos|Carlo/caaroshi][NRootEs][=Carlos]
 
 itomi	[i-][NPers][3m.poss+][--][=tomi+m.+inal@tsi.][NRoot][=son (kin.of.a.fe/male)]
+
+:	:[$.]
+
+"	"[$.]
+
+pinkantero	[pi-][VPers][2S/A+][--][N=][IRR+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be; to.be.able][--][-e][+IRR]e[--][=ro][+3n.m.O]
+
+anirio	[=anirio+n.m.][NRoot][=daughter.in.law (kin.of.a.male, male.ego)]
+
+otsikaatena	[o-][VPers][3n.m.S/A+][--][=tsikaa][VRoot][=to.sieve, to.sift.sth. (ES: cernir.algo)][--][-t][+EP]t[--][-e][+IRR]e[--][=na][+1SG.O
+
+piarentsi	[=pyare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato)][--][-ntsi+alien.][Gen][+nposs]ntsi
+
+"	"[$.]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
