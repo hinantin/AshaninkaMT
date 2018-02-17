@@ -682,9 +682,9 @@ rakopero	[r-][NPers][3m.poss+][--][=akopero+inal@n/tsi.][NRoot][=right.hand (ES:
     </text>
     <text id="23">
         <!-- Robaankiro entsi rako rakatsatantyaariri iriri. -->
-        <prq>Robaakiro entsi rako rakatsatantyaariri iriri.</prq>
-        <es>El niño alza la mano para agarrar a su padre.</es>
-        <en>The child raises the hand in order to grab his father.</en>
+        <sentence lang="prq">Robaakiro entsi rako rakatsatantyaariri iriri.</sentence>
+        <sentence lang="es">El niño alza la mano para agarrar a su padre.</sentence>
+        <sentence lang="en">The child raises the hand in order to grab his father.</sentence>
         <morphology>
 
 robaakiro	[ro-][VPers][3n.m.A+][--][=v][VRoot][=to.put, to.place (ES: poner, colocar)][--][-aak][ASP][+PRF]aak[--][-i][+IRR]i[--][=ro][+3n.m.O]
@@ -700,9 +700,9 @@ rakatsatantyaariri	[r-][VPers][3m.S/A+][--][=akatsa][VRoot][=to.guide/help.sb.ho
         <parsing/>
     </text>
     <text id="24">
-        <prq>Aanakero amaani pitotsi.</prq>
-        <es>La creciente llevó la canoa.</es>
-        <en>The increase carried the canoe.</en>
+        <sentence lang="prq">Aanakero amaani pitotsi.</sentence>
+        <sentence lang="es">La creciente llevó la canoa.</sentence>
+        <sentence lang="en">The increase carried the canoe.</sentence>
         <morphology>
 
 aanakero	[=a][VRoot][=to.take (ES: agarrar)][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ro][+3n.m.O]
@@ -716,9 +716,9 @@ pitotsi	[=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe (ES: canoa)][--][-tsi+alie
         <parsing/>
     </text>
     <text id="25.1">
-        <prq>Ontimatye ramaate maniro imontyantyaabori obeniki.</prq>
-        <es>El venado tiene que nadar para cruzar el río Unini.</es>
-        <en>The deer has to swim in order to cross the Unini river.</en>
+        <sentence lang="prq">Ontimatye ramaate maniro imontyantyaabori obeniki.</sentence>
+        <sentence lang="es">El venado tiene que nadar para cruzar el río Unini.</sentence>
+        <sentence lang="en">The deer has to swim in order to cross the Unini river.</sentence>
         <morphology/>
         <parsing/>
     </text>
