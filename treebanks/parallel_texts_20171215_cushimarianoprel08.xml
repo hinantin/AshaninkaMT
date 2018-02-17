@@ -856,10 +856,10 @@ mapi	[=mapi+n.m.+poss@ni:ne.][NRoot][=stone; rock]
 .	.[$.]
 </morphology>
     </text>
-    <text id="">
-        <prq>Ashi Añane</prq>
-        <es>Nuestra voz</es>
-        <en>Our voice</en>
+    <text id="0">
+        <sentence lang="prq">Ashi Añane</sentence>
+        <sentence lang="es">Nuestra voz</sentence>
+        <sentence lang="en">Our voice</sentence>
         <morphology>
 
 ashi	[=ashi][PrnPoss][+1PL]
