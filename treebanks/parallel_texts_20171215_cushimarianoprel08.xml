@@ -940,6 +940,18 @@ shinkirenti	[=shinki][VRoot][=to.get.drunk; to.intoxicate][--][-re+m.][NS][+NMZ]
 </morphology>
         <parsing/>
     </text>
+    <text id="43">
+        <sentence lang="prq">Antabaerianti inati jankori raantabori itsipanashite inampiki.</sentence>
+        <sentence lang="es">La curuhuinsi es trabajadora, por eso lleva hojas a su nido.</sentence>
+        <sentence lang="en">The curuhuinsi-ant is a worker, that's why she carries leaves towards its nest.</sentence>
+        <morphology>
+
+
+jankori	[=hankori][NRoot][=(reddish).ant.sp. (curuhuinsi, ES: coqui, sp.de.hormiga.(rojiza); sci.nm.: género.atta)]
+
+</morphology>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi. </sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
