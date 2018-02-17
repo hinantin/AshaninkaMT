@@ -923,8 +923,21 @@ piarentsi	[=pyare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato)][--][-ntsi+a
     <text id="42">
         <sentence lang="prq">Rantakeri Shoshokiri apaani shinkirenti.</sentence>
         <sentence lang="es">Shoshokiri pegó a un borracho.</sentence>
-        <sentence lang="en">Shoshokiri hit the drunkard.</sentence>
-        <morphology/>
+        <sentence lang="en">Shoshokiri hit one drunkard.</sentence>
+        <morphology>
+
+
+rantakeri	[r-][VPers][3m.S/A+][--][=ant][VRoot][=to.beat, to.hit; to.build, to.do, to.make][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=ri][NS][+REL]
+
+shoshokiri	[=shoshokiri][NRoot][=NP]
+
+apaani	[=apaani][NRoot][=one]
+
+shinkirenti	[=shinki][VRoot][=to.get.drunk; to.intoxicate][--][-re+m.][NS][+NMZ]re[--][-nti+alien.][Gen][+nposs]nti
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="675">
