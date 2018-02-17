@@ -777,16 +777,16 @@ kocheri	[=kocheri][NRoot][=NP]
         <parsing/>
     </text>
     <text id="31">
-        <prq>Noñakiri antamiki antari amempori robari shitsibari.</prq>
-        <es>En el monte vi a un buitre comiendo carne podrida.</es>
-        <en>In the mountain I saw a vulture eating rotten meat.</en>
+        <sentence lang="prq">Noñakiri antamiki antari amempori robari shitsibari.</sentence>
+        <sentence lang="es">En el monte vi a un buitre comiendo carne podrida.</sentence>
+        <sentence lang="en">In the mountain I saw a vulture eating rotten meat.</sentence>
         <morphology/>
         <parsing/>
     </text>
     <text id="32">
-        <prq>Pamenero iroka shiyakaantsi.</prq>
-        <es>Mira esta foto.</es>
-        <en>Look at this picture.</en>
+        <sentence lang="prq">Pamenero iroka shiyakaantsi.</sentence>
+        <sentence lang="es">Mira esta foto.</sentence>
+        <sentence lang="en">Look at this picture.</sentence>
         <morphology/>
         <parsing/>
     </text>
