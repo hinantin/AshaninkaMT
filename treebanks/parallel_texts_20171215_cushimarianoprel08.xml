@@ -553,9 +553,9 @@ mamoripaye	[=mamori+m.][NRoot][=fish.sp., sabalo (sci.nm.: brycon.sp.)][--][-pay
     </text>
     <text id="17">
         <!-- Irika niyompari akachabaerenti kitaejerikipaye roba shima. -->
-        <prq>Irika niyompari akachabaerenti kitaeterikipaye roba shima.</prq>
-        <es>Este amigo que pesca con anzuelo come pescado todos los días.</es>
-        <en>This friend who fishes with a fishhook, eats fish every day.</en>
+        <sentence lang="prq">Irika niyompari akachabaerenti kitaeterikipaye roba shima.</sentence>
+        <sentence lang="es">Este amigo que pesca con anzuelo come pescado todos los días.</sentence>
+        <sentence lang="en">This friend who fishes with a fishhook, eats fish every day.</sentence>
         <morphology>
 
 
@@ -594,9 +594,9 @@ shima	[=shima+m.+poss@ni.][NRoot][=fish; fish.sp., boquichico-fish (ES: boquichi
 </parsing>
     </text>
     <text id="18">
-        <prq>Rakachatiri Shebankori komairi omotyaaki nija.</prq>
-        <es>Shewankori anzuelea paco en la poza del río.</es>
-        <en>Shevankori angles paco-fish in the billabong.</en>
+        <sentence lang="prq">Rakachatiri Shebankori komairi omotyaaki nija.</sentence>
+        <sentence lang="es">Shewankori anzuelea paco en la poza del río.</sentence>
+        <sentence lang="en">Shevankori angles paco-fish in the billabong.</sentence>
         <morphology>
 
 rakachatiri	[r-][VPers][3m.A+][--][=akacha][VRoot][=to.fish.with.a.line.and.a.hook, to.angle (ES: ansolear)][--][-t][+EP]t[--][-i][+REAL]i[--][=ri][+3m.O]
@@ -614,9 +614,9 @@ nija	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
         <parsing/>
     </text>
     <text id="19">
-        <prq>Tasheyakena, pimpena pakishire.</prq>
-        <es>Siento hambre, dame tu asado.</es>
-        <en>I am hungry, give me your roast.</en>
+        <sentence lang="prq">Tasheyakena, pimpena pakishire.</sentence>
+        <sentence lang="es">Siento hambre, dame tu asado.</sentence>
+        <sentence lang="en">I am hungry, give me your roast.</sentence>
         <morphology>
 
 tasheyakena	[=tashey][VRoot][=to.be.hungry (ES: tener.hambre)][--][-ak][+CAUS.SOC]ak[--][-e][+REAL]e[--][=na][+1SG.O]
