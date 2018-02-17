@@ -741,9 +741,9 @@ shabashi	[=shavashi][NRoot][=NP]
         <parsing/>
     </text>
     <text id="27">
-        <prq>Ramanantake Koriobiri ichenko cheenkari.</prq>
-        <es>Koriobiri compró su pantalón negro.</es>
-        <en>Korioviri bought his black pants.</en>
+        <sentence lang="prq">Ramanantake Koriobiri ichenko cheenkari.</sentence>
+        <sentence lang="es">Koriobiri compró su pantalón negro.</sentence>
+        <sentence lang="en">Korioviri bought his black pants.</sentence>
         <morphology>
 
 korioviri	[=korioviri][NRoot][=person's.name]
