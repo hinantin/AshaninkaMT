@@ -849,11 +849,11 @@ oishi	[o-][NPers][3n.m.poss+][--][=kishi+n.m.+inal@tsi.][NRoot][=hair]
 
 noñaakeri	[no-][VPers][1SG.A+][--][=ny][VRoot][=to.see][--][-a][+EP]a[--][-ak][+CAUS.SOC]ak[--][-e][+IRR]e[--][=ri][+3m.O]
 
-maniro	[=maniro+m.][NRoot][=deer (ES: venado); red.deer (ES: venado.rojo; sci.nm.: mazama.americana); gray.deer (ES: venado.gris; sci.nm.: mazama.gouazoubira)]
+maniro	[=maniro+m.][NRoot][=deer (ES: venado)]
 
-raniiti	[r-][VPers][3m.S/A+][--][=anii][VRoot][=to.go, to.walk; to.go.down][--][-t][+EP]t[--][-i][+IRR]i
+raniiti	[r-][VPers][3m.S+][--][=anii][VRoot][=to.walk][--][-t][+EP]t[--][-i][+IRR]i
 
-antamiki	[=antami][NRoot][=woods, forest; dense.tropical.forest][--][-ki][Cas][+LOC_LOC.T]
+antamiki	[=antami][NRoot][=woods, forest; dense.tropical.forest][--][-ki][Cas][+LOC]
 
 </morphology>
         <parsing/>
