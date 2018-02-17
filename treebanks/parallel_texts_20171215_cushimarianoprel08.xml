@@ -840,9 +840,9 @@ oishi	[o-][NPers][3n.m.poss+][--][=kishi+n.m.+inal@tsi.][NRoot][=hair]
             </morphology>
     </text>
     <text id="675">
-        <prq>Ratsotiro shima ojampobatsate mapi. </prq>
-        <es>El boquichico chupa le barro de la piedra.</es>
-        <en>The boquichico-fish sucks the mud from the stones.</en>
+        <sentence lang="prq">Ratsotiro shima ojampobatsate mapi. </sentence>
+        <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
+        <sentence lang="en">The boquichico-fish sucks the mud from the stones.</sentence>
         <morphology>
 
 ratsotiro	[r-][VPers][3m.A+][--][=atso][VRoot][=to.suck (prbly.cacao)][--][-t][+EP]t[--][-i][+REAL]i[--][=ro][+3n.m.O]
