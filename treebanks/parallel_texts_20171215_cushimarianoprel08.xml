@@ -752,9 +752,9 @@ korioviri	[=korioviri][NRoot][=person's.name]
         <parsing/>
     </text>
     <text id="28">
-        <prq>Ramatabitakero Kocheri iina ikantiro notonkake maniro, kaari maeta.</prq>
-        <es>Kocheri engañó a su mujer diciendo que había cazado un venado cuando no era cierto.</es>
-        <en>Kocheri misled his wife saying that he had hunted a deer when it wasn't true.</en>
+        <sentence lang="prq">Ramatabitakero Kocheri iina ikantiro notonkake maniro, kaari maeta.</sentence>
+        <sentence lang="es">Kocheri engañó a su mujer diciendo que había cazado un venado cuando no era cierto.</sentence>
+        <sentence lang="en">Kocheri misled his wife saying that he had hunted a deer when it wasn't true.</sentence>
         <morphology>
 
 kocheri	[=kocheri][NRoot][=NP]
@@ -763,16 +763,16 @@ kocheri	[=kocheri][NRoot][=NP]
         <parsing/>
     </text>
     <text id="29">
-        <prq>Robanakero pinkatsari ramatsaere obakerari riyatantyaari rapatotya.</prq>
-        <es>El jefe se puso la corona nueva antes de ir a la reunión.</es>
-        <en>The chief put on the new crown before going to the meeting.</en>
+        <sentence lang="prq">Robanakero pinkatsari ramatsaere obakerari riyatantyaari rapatotya.</sentence>
+        <sentence lang="es">El jefe se puso la corona nueva antes de ir a la reunión.</sentence>
+        <sentence lang="en">The chief put on the new crown before going to the meeting.</sentence>
         <morphology/>
         <parsing/>
     </text>
     <text id="30">
-        <prq>Okantakena oriani: Nareetakitakabo ameeni.</prq>
-        <es>Una niña me dijo: “Fuí a visitar a mi abuela”.</es>
-        <en>A small girl told me: "I went to visit my grandmother".</en>
+        <sentence lang="prq">Okantakena oriani: Nareetakitakabo ameeni.</sentence>
+        <sentence lang="es">Una niña me dijo: “Fuí a visitar a mi abuela”.</sentence>
+        <sentence lang="en">A small girl told me: "I went to visit my grandmother".</sentence>
         <morphology/>
         <parsing/>
     </text>
