@@ -38,6 +38,20 @@
                     </xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
+            <xs:enumeration value="cpy">
+                <xs:annotation>
+                    <xs:documentation>
+                        ES: Ashéninka, Sur de Ucayali
+                    </xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="cpb">
+                <xs:annotation>
+                    <xs:documentation>
+                        ES: Ashéninka, Ucayali-Yurúa
+                    </xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
             <xs:enumeration value="es">
                 <xs:annotation>
                     <xs:documentation>
