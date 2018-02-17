@@ -376,9 +376,9 @@ jaka	[=haka+proximal.b.][PrnDem][=here, close.to.the.speaker]
 </morphology>
     </text>
     <text id="10">
-        <prq>Osheki itsaati abo aririka iñee pokatsiri.</prq>
-        <es>El tatatao avisa cuando ve acercarse a alguien.</es>
-        <en>The tatatao-vulture warns when it sees somebody approaching.</en>
+        <sentence lang="prq">Osheki itsaati abo aririka iñee pokatsiri.</sentence>
+        <sentence lang="es">El tatatao avisa cuando ve acercarse a alguien.</sentence>
+        <sentence lang="en">The tatatao-vulture warns when it sees somebody approaching.</sentence>
         <morphology>
 
 osheki	[=osheki][AdjRoot][=many, much, a.lot]
@@ -397,9 +397,9 @@ pokatsiri	[=pok][VRoot][=to.come (ES: venir), to.arrive][--][-atsi][Asp][+STAT.I
 </morphology>
     </text>
     <text id="11">
-        <prq>Poyaatanakero abotsi jatatsiri kempityaariki.</prq>
-        <es>Sigue el camino que va a la comunidad de Kempityari.</es>
-        <en>Follow the road that goes towards the Kempityari community.</en>
+        <sentence lang="prq">Poyaatanakero abotsi jatatsiri kempityaariki.</sentence>
+        <sentence lang="es">Sigue el camino que va a la comunidad de Kempityari.</sentence>
+        <sentence lang="en">Follow the road that goes towards the Kempityari community.</sentence>
         <morphology>
 
 poyaatanakero	[p-][VPers][2A+][--][=oyaa][VRoot][=to.follow][--][-t][+EP]t[--][-an+source][ADV][+DIR][=(upon).leaving/departing]an[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ro][+3n.m.O]
