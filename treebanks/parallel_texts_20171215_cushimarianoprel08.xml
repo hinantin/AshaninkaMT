@@ -805,9 +805,9 @@ kocheri	[=kocheri][NRoot][=NP]
         <parsing/>
     </text>
     <text id="35">
-        <prq>Oyoyaati isheeni ampe kitamaari obaantsiki.</prq>
-        <es>La abuela cosecha algodón blanco en la chacra.</es>
-        <en>The grandmother harvests white cotton in the sown field.</en>
+        <sentence lang="prq">Oyoyaati isheeni ampe kitamaari obaantsiki.</sentence>
+        <sentence lang="es">La abuela cosecha algodón blanco en la chacra.</sentence>
+        <sentence lang="en">The grandmother harvests white cotton in the sown field.</sentence>
         <morphology/>
         <parsing/>
     </text>
