@@ -812,16 +812,16 @@ kocheri	[=kocheri][NRoot][=NP]
         <parsing/>
     </text>
     <text id="36">
-        <prq>Itotakero jataantaneri amporetsate isheeni.</prq>
-        <es>El doctor cortó el intestino de la abuela.</es>
-        <en>The doctor cut grandmother's intestine.</en>
+        <sentence lang="prq">Itotakero jataantaneri amporetsate isheeni.</sentence>
+        <sentence lang="es">El doctor cortó el intestino de la abuela.</sentence>
+        <sentence lang="en">The doctor cut grandmother's intestine.</sentence>
         <morphology/>
         <parsing/>
     </text>
     <text id="37">
-        <prq>Amiro tsinane ana eereki otiritantyaabori oishi.</prq>
-        <es>La mujer trae huito verde para teñirse el cabello.</es>
-        <en>The woman brings green huito to dye her hair.</en>
+        <sentence lang="prq">Amiro tsinane ana eereki otiritantyaabori oishi.</sentence>
+        <sentence lang="es">La mujer trae huito verde para teñirse el cabello.</sentence>
+        <sentence lang="en">The woman brings green huito to dye her hair.</sentence>
         <morphology>
             
 amiro	[=am][VRoot][=to.bring (ES: traer)][--][-i][+IRR]i[--][=ro][+3n.m.O]
