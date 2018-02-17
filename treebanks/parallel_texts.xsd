@@ -9,7 +9,28 @@
                     </xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
-            <xs:enumeration value="cni"/>
+            <xs:enumeration value="cni">
+                <xs:annotation>
+                    <xs:documentation>
+                        ES: Asháninka
+                        EN: Ashaninka
+                    </xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="cpc">
+                <xs:annotation>
+                    <xs:documentation>
+                        ES: Ajyíninka Apurucayali
+                    </xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="cjo">
+                <xs:annotation>
+                    <xs:documentation>
+                        ES: Ashéninka Pajonal
+                    </xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
             <xs:enumeration value="es">
                 <xs:annotation>
                     <xs:documentation>
