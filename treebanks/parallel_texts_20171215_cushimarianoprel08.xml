@@ -335,7 +335,9 @@ jaabari	[=haavari+m.][NRoot][=warm, hot (prbly.liquid)]
 
 .	.[$.]
 </morphology>
-        <parsing/>
+        <parsing>
+            
+        </parsing>
     </text>
     <text id="8.2">
         <sentence lang="prq">Irika eentsi abentyari osheki ikaimi tsireniriki. </sentence>
