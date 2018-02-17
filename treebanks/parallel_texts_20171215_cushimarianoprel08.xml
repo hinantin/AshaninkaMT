@@ -943,11 +943,29 @@ shinkirenti	[=shinki][VRoot][=to.get.drunk; to.intoxicate][--][-re+m.][NS][+NMZ]
     <text id="43">
         <sentence lang="prq">Antabaerianti inati jankori raantabori itsipanashite inampiki.</sentence>
         <sentence lang="es">La curuhuinsi es trabajadora, por eso lleva hojas a su nido.</sentence>
-        <sentence lang="en">The curuhuinsi-ant is a worker, that's why she carries leaves towards its nest.</sentence>
+        <sentence lang="en">The curuhuinsi-ant is a worker, that's why it carries leaves towards its nest.</sentence>
         <morphology>
 
 
 jankori	[=hankori][NRoot][=(reddish).ant.sp. (curuhuinsi, ES: coqui, sp.de.hormiga.(rojiza); sci.nm.: género.atta)]
+
+</morphology>
+        <parsing/>
+    </text>
+    <text id="44">
+        <sentence lang="prq">Otimatye antabaete obantyaari poshiniri.</sentence>
+        <sentence lang="es">Tenemos que trabajar para poder comer.</sentence>
+        <sentence lang="en">We have to work so that we can eat.</sentence>
+        <morphology>
+
+
+otimatye	[o-][VPers][3n.m.S/A+][--][=tim][VRoot][=to.have; to.give.birth][--][-a][+REP][=again.and.again]a[--][-t][+EP]t[--][-ye][+IRR]ye
+
+antabaete	[=ant][VRoot][=to.beat, to.hit; to.build, to.do, to.make][--][-a][+CL:liquid][=liquid]a[--][-vae][ASP][+DUR]vae[--][-t][+EP]t[--][-e][+IRR]e
+
+obantyaari	[=ov][VRoot][=to.eat (ES: comer)][--][-ant][+APPL.INST][=reason,instrumentality;in.order.to]ant[--][-yaa][+REAL]yaa[--][=ri][NS][+REL]
+
+poshiniri	[=poshini][VRoot][=to.be.tasty; to.be.delicious][--][-ri+m.][NS][+NMZ]ri
 
 </morphology>
         <parsing/>
