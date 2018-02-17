@@ -920,6 +920,13 @@ piarentsi	[=pyare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato)][--][-ntsi+a
         <morphology/>
         <parsing/>
     </text>
+    <text id="42">
+        <sentence lang="prq">Rantakeri Shoshokiri apaani shinkirenti.</sentence>
+        <sentence lang="es">Shoshokiri pegó a un borracho.</sentence>
+        <sentence lang="en">Shoshokiri hit the drunkard.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi. </sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
