@@ -632,9 +632,9 @@ pakishire	[p-][NPers][2poss+][--][=akishi][VRoot][=to.roast (ES: asar)][--][-re+
         <parsing/>
     </text>
     <text id="20">
-        <prq>Akishitiniri naana apa kaniri.</prq>
-        <es>Mi mamá asa yuca para mi papá.</es>
-        <en>My mother roasts sweet manioc for my father.</en>
+        <sentence lang="prq">Akishitiniri naana apa kaniri.</sentence>
+        <sentence lang="es">Mi mamá asa yuca para mi papá.</sentence>
+        <sentence lang="en">My mother roasts sweet manioc for my father.</sentence>
         <morphology>
 
 akishitiniri	[=akishi][VRoot][=to.roast (ES: asar)][--][-t][+EP]t[--][-i][+REAL]i[--][=ni][+3SG.O][--][=ri][+3m.O]
@@ -649,9 +649,9 @@ kaniri	[=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; sci.nm
 </morphology>
     </text>
     <text id="21">
-        <prq>Rakitsitatya yeye paamariki.</prq>
-        <es>Mi hermano se calienta en el fuego.</es>
-        <en>My brother is getting warm near the fire.</en>
+        <sentence lang="prq">Rakitsitatya yeye paamariki.</sentence>
+        <sentence lang="es">Mi hermano se calienta en el fuego.</sentence>
+        <sentence lang="en">My brother is getting warm near the fire.</sentence>
         <morphology>
 
 rakitsitatya	[r-][VPers][3m.S+][--][=akitsi][VRoot][=to.get.warm (ES: calentarse)][--][-t][+EP]t[--][-a][+REAL]a[--][=tya][+N.C.FOC][=urgency, impatience, surprise, exasperation (non-contradictory.emphasis); almost (with.time.adverbs)]
