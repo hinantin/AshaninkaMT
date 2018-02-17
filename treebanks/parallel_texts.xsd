@@ -10,7 +10,14 @@
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="cni"/>
-            <xs:enumeration value="es"/>
+            <xs:enumeration value="es">
+                <xs:annotation>
+                    <xs:documentation>
+                        ES: Español
+                        EN: Spanish
+                    </xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
             <xs:enumeration value="en"/>
             <xs:enumeration value="pt"/>
         </xs:restriction>
