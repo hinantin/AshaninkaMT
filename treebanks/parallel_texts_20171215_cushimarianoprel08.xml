@@ -841,6 +841,23 @@ oishi	[o-][NPers][3n.m.poss+][--][=kishi+n.m.+inal@tsi.][NRoot][=hair]
 .	.[$.]
             </morphology>
     </text>
+    <text id="38">
+        <sentence lang="prq">Noñaakeri maniro raniiti antamiki.</sentence>
+        <sentence lang="es">Vi al venado caminar en el monte.</sentence>
+        <morphology>
+
+
+noñaakeri	[no-][VPers][1SG.S/A+][--][=ny][VRoot][=to.see, to.look.for; to.visit][--][-a][+EP]a[--][-ak][+CAUS.SOC]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+maniro	[=maniro+m.][NRoot][=deer (ES: venado); red.deer (ES: venado.rojo; sci.nm.: mazama.americana); gray.deer (ES: venado.gris; sci.nm.: mazama.gouazoubira)]
+
+raniiti	[r-][VPers][3m.S/A+][--][=anii][VRoot][=to.go, to.walk; to.go.down][--][-t][+EP]t[--][-i][+IRR]i
+
+antamiki	[=antami][NRoot][=woods, forest; dense.tropical.forest][--][-ki][Cas][+LOC_LOC.T]
+
+</morphology>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi. </sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
