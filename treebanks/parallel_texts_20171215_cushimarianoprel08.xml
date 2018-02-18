@@ -992,6 +992,25 @@ itsinanitepaye	[i-][NPers][3m.poss+][--][=tsinani+n.m.][NRoot][=female, woman; y
 </morphology>
         <parsing/>
     </text>
+    <text id="46">
+        <sentence lang="prq">Riyaatati apa antamiki ramini tapetsa.</sentence>
+        <sentence lang="es">Papá se va al monte a buscar támishi.</sentence>
+        <sentence lang="en"/>
+        <morphology>
+
+
+riyaatati	[r-][VPers][3m.S/A+][--][=iyaa][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-a][+REP][=again.and.again]a[--][-t][+EP]t[--][-i][+IRR]i
+
+apa	[=apa+m.][NRoot][=father (kin.of.a.fe/male)]
+
+antamiki	[=antami][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.forest][--][-ki][Cas][+LOC_LOC.T]
+
+ramini	[r-][VPers][3m.S/A+][--][=amin][VRoot][=to.see, to.look, to.look.for, to.look.after, to.take.care.of][--][-i][+REAL]i
+
+
+</morphology>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi. </sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
@@ -1007,6 +1026,7 @@ ojampobatsate	[o-][NPers][3n.m.poss+][--][=hampovatsa+n.m.+poss@te.][NRoot][=mud
 mapi	[=mapi+n.m.+poss@ni:ne.][NRoot][=stone; rock]
 
 .	.[$.]
+
 </morphology>
     </text>
     <text id="0">
