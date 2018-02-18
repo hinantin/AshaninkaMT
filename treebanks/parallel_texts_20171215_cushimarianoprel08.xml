@@ -967,6 +967,28 @@ obantyaari	[=ov][VRoot][=to.eat (ES: comer)][--][-ant][+APPL.INST][=reason,instr
 
 poshiniri	[=poshini][VRoot][=to.be.tasty; to.be.delicious][--][-ri+m.][NS][+NMZ]ri
 
+.	.[$.]
+
+</morphology>
+        <parsing/>
+    </text>
+    <text id="45">
+        <sentence lang="prq">Rantabakaatya tyaapapaye ikijakotabo itsinanitepaye.</sentence>
+        <sentence lang="es">Los gallos se pelean por las gallinas.</sentence>
+        <sentence lang="en">The roosters fight for the hens.</sentence>
+        <morphology>
+
+
+rantabakaatya	[r-][VPers][3m.S/A+][--][=ant][VRoot][=to.beat, to.hit; to.build, to.do, to.make][--][-av+object.oriented][ADV][+DIR][=contrary,opposite]av[--][-ak][ASP][+PRF]ak[--][-a][+EP]a[--][-a][+IRR]a[--][=tya][+N.C.FOC][=urgency, impatience, surprise, exasperation (non-contradictory.emphasis); almost (with.time.adverbs)]
+
+tyaapapaye	[=tyaapa+n.m.+poss@te.][NRoot][=hen; chicken][--][-paye][Num][+PL_DIST]
+
+ikijakotabo	[i-][VPers][3m.S/A+][--][=kih][VRoot][=to.be.angry/furious, to.get.upset/angry][--][-ako][+APPL.GEN][=with.reference.to.sth.; about.sth.]ako[--][-t][+EP]t[--][-a][+IRR]a[--][=vo][+3n.m.O]
+
+itsinanitepaye	[i-][NPers][3m.poss+][--][=tsinani+n.m.][NRoot][=female, woman; young.girl][--][-te][Gen][+aln.poss.]te[--][-paye][Num][+PL_DIST]
+
+.	.[$.]
+
 </morphology>
         <parsing/>
     </text>
