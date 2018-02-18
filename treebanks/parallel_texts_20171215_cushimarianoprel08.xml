@@ -1126,6 +1126,17 @@ okitsoki	[=okitsoki][NRoot][=seed]
 </morphology>
         <parsing/>
     </text>
+    <text id="60">
+        <sentence lang="prq">Rareetaka anampiki apani atiri kaari añaapintane.</sentence>
+        <sentence lang="es">Una persona extraña llegó a nuestra comunidad.</sentence>
+        <morphology>
+
+
+kaari_añaapintane	[=kaari_anyaapintane][NRoot][=strange (ES: extraño)]
+
+</morphology>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi. </sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
