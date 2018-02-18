@@ -1284,7 +1284,20 @@ ikiriki	[i-][NPers][3m.poss+][--][=kiri+n.m.+inal@tsi.][NRoot][=nose; nostrils][
         <sentence lang="prq">Ramaki pabachori ibatsa maniro.</sentence>
         <sentence lang="es">Mi tío trajo carne de venado.</sentence>
         <sentence lang="en">My uncle brought deer meat.</sentence>
-        <morphology/>
+        <morphology>
+
+
+ramaki	[r-][VPers][3m.S/A+][--][=am][VRoot][=to.bring (ES: traer)][--][-ak][+CAUS.SOC]ak[--][-i][+IRR]i
+
+pabachori	[=pavachori+m.+poss@ti.][NRoot][=uncle (kin.of.a.male)]
+
+ibatsa	[i-][NPers][3m.poss+][--][=vatsa+n./m.+inal@tsi.][NRoot][=meat (ES: carne), mass; flesh, body (ES: cuerpo); inner.part.of.sth. (tender.part, cogollo)]
+
+maniro	[=maniro+m.][NRoot][=deer (ES: venado); red.deer (ES: venado.rojo; sci.nm.: mazama.americana); gray.deer (ES: venado.gris; sci.nm.: mazama.gouazoubira)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="675">
