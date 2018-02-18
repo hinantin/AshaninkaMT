@@ -1198,6 +1198,15 @@ tyaapaniki	[=tyaapa+n.m.+poss@te.][NRoot][=hen; chicken][--][-niki][+DIM]
 
 iraantari	[=ira][VRoot][=to.cry][--][-ant][+APPL.INST][=reason,instrumentality;in.order.to]ant[--][-a][+REAL]a[--][=ri][+3m.O]
 
+notyomi	[no-][NPers][1SG.poss+][--][=tyomi+m.+inal@tsi.][NRoot][=son (kin.of.a.male)]
+
+atsikakeri	[=atsik][VRoot][=to.bite (ES: morder.(sujeto.animado))][--][-ak][+CAUS.SOC]ak[--][-e][+REAL]e[--][=ri][+3m.O]
+
+shitamenkotsi	[=shitamenko+n.m.+inal@tsi.][NRoot][=dais, wooden_platform (ES: tarima.(hecha.de.pona))][--][-tsi+alien.][Gen][+nposs]tsi
+
+iporiki	[i-][NPers][3m.poss+][--][=pori+n.m.+inal@tsi.][NRoot][=leg (ES: pierna); thigh][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
