@@ -1230,6 +1230,28 @@ konoya	[=konoya+m.][NRoot][=tortoise, turtle, motelo-turtle, land.turtle.sp. (ES
 </morphology>
         <parsing/>
     </text>
+    <text id="64">
+        <sentence lang="prq">Atsiinkake pabachori ikiajempiakari shikiri ikiriki.</sentence>
+        <sentence lang="es">Mi tío estornudó cuando le entró una mosca en la nariz.</sentence>
+        <sentence lang="en"/>
+        <morphology>
+
+
+atsiinkake	[=atsiink][VRoot][=to.sneeze (ES: estornudar)][--][-ak][+CAUS.SOC]ak[--][-e][+IRR]e
+
+pabachori	[=pavachori+m.+poss@ti.][NRoot][=uncle (kin.of.a.male)]
+
+ikiajempiakari	[i-][VPers][3m.S/A+][--][=ky][VRoot][=to.enter (ES: ingresar)][--][-ahempi][+UNK1][=when]ahempi[--][-ak][ASP][+PRF]ak[--][-a][+IRR]a[--][=ri][+3m.O]
+
+shikiri	[=shikiri][NRoot][=triangular.wings.fly (ES: sp.de.mosca); mosquito.sp.]
+
+ikiriki	[i-][NPers][3m.poss+][--][=kiri+n.m.+inal@tsi.][NRoot][=nose; nostrils][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi. </sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
