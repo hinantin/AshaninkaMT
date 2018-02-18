@@ -1,0 +1,9 @@
+
+1	p-	_	VPers	VPers	VPers=2A+	2	s-subj	_	_
+2	=am	_	Root	Root	Root=VRoot|trans=to.bring	1?	sntc	_	_
+3	-ak	_	ASP	ASP	ASP=+PRF	2	asp	_	_
+4	-e	_	STATUS	STATUS	STATUS=+REAL	3	status	_	_
+5	=na	_	O	O	O=+1SG.O	4	o	_	_
+6	=ri	_	PRN.O	PRN.O	PRN.O=+3m.O	5	prn-o	_	_
+7	=aventyari	_	Root	Root	Root=NRoot|trans=cry.baby|gndr=+m.	6	o-arg	_	_
+
