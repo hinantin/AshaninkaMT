@@ -4,8 +4,10 @@
             <xs:enumeration value="prq">
                 <xs:annotation>
                     <xs:documentation>
+                        OLAS, WAVES
                         ES: Asheninka del Perené.
                         EN: Perene Asheninka
+                        PRQ: Tsika Ikantaitziro Ñaantsipaye
                     </xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
@@ -27,21 +29,27 @@
             <xs:enumeration value="cjo">
                 <xs:annotation>
                     <xs:documentation>
+                        MOUNTAINS, MONTAÑAS
                         ES: Ashéninka Pajonal
+                        CJO: Tsika Ikanteeziro Ñaagantsipaeni
                     </xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="cpu">
                 <xs:annotation>
                     <xs:documentation>
+                        FISH, PESCADO 
                         ES: Ashéninka, Pichis
+                        CPU: Tsika Ikantaitziro Ñaantsipaye
                     </xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="cpy">
                 <xs:annotation>
                     <xs:documentation>
+                        ELLIPSOIDAL STONE, PIEDRA ELIPSOIDAL
                         ES: Ashéninka, Sur de Ucayali
+                        CPY: Jimpe Ikantaitziro Naantsipaini
                     </xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
