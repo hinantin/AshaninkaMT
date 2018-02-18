@@ -1192,7 +1192,8 @@ tyaapaniki	[=tyaapa+n.m.+poss@te.][NRoot][=hen; chicken][--][-niki][+DIM]
     </text>
     <text id="62.2">
         <sentence lang="prq">Iraantari notyomi atsikakeri shitamenkotsi iporiki.</sentence>
-        <sentence lang="en">Mi hijo está llorando porque la tarima le mordió la pierna.</sentence>
+        <sentence lang="es">Mi hijo está llorando porque la tarima le mordió la pierna.</sentence>
+        <sentence lang="en">My son is crying because the wooden-platform bit his leg.</sentence>
         <morphology>
 
 
@@ -1209,6 +1210,12 @@ iporiki	[i-][NPers][3m.poss+][--][=pori+n.m.+inal@tsi.][NRoot][=leg (ES: pierna)
 .	.[$.]
 
 </morphology>
+        <parsing/>
+    </text>
+    <text id="63">
+        <sentence lang="prq">Atsinakakeri Inchato konoya.</sentence>
+        <sentence lang="es">El palo apretó a la tortuga.</sentence>
+        <morphology/>
         <parsing/>
     </text>
     <text id="675">
