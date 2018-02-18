@@ -1175,7 +1175,15 @@ inkaariberi	[=inkaari+n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)][--][-ve
     <text id="62.1">
         <sentence lang="prq">Ratsikakeri otsiti tyaapaniki.</sentence>
         <sentence lang="es">El perro mordió al pollito.</sentence>
-        <morphology/>
+        <morphology>
+
+
+ratsikakeri	[r-][VPers][3m.S/A+][--][=atsik][VRoot][=to.bite (ES: morder.(sujeto.animado))][--][-ak][+CAUS.SOC]ak[--][-e][+IRR]e[--][=ri][NS][+REL]
+
+otsiti	[=otsiti+m.+poss@te.][NRoot][=dog (ES: perro)]
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="62.2">
