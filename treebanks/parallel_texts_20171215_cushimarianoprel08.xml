@@ -1273,6 +1273,13 @@ ikiriki	[i-][NPers][3m.poss+][--][=kiri+n.m.+inal@tsi.][NRoot][=nose; nostrils][
         <morphology/>
         <parsing/>
     </text>
+    <text id="68">
+        <sentence lang="prq">Irika tyaapa shirampari batsanti oshekini iyeenka.</sentence>
+        <sentence lang="es">Este gallo gordo tiene bastante grasa.</sentence>
+        <sentence lang="en">This fat rooster has a lot of fat.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi. </sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
