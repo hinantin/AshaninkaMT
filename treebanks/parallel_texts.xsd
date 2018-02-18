@@ -22,7 +22,9 @@
             <xs:enumeration value="cpc">
                 <xs:annotation>
                     <xs:documentation>
+                        FEATHER, PLUMA
                         ES: Ajyíninka Apurucayali
+                        CPC: Tsika Ikantaitziro Ñaantsipaini 
                     </xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
