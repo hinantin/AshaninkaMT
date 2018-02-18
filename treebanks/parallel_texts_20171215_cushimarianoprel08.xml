@@ -1252,6 +1252,20 @@ ikiriki	[i-][NPers][3m.poss+][--][=kiri+n.m.+inal@tsi.][NRoot][=nose; nostrils][
 </morphology>
         <parsing/>
     </text>
+    <text id="65">
+        <sentence lang="prq">Okantiro choeni nojina: Atyo pamakenabo jebaantsi.</sentence>
+        <sentence lang="es">Mi hermana le dijo a mi mujer: “Cuñada, tráeme el abanico”.</sentence>
+        <sentence lang="en">My sister told my wife: "Sister-in-law, bring me the fan".</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="66">
+        <sentence lang="prq">Ojampiti ebankabo: ¿Ayiini, jempe ikenanake pitomi?</sentence>
+        <sentence lang="es">La joven pregunta: “¿Suegra, a dónde fue tu hijo?”</sentence>
+        <sentence lang="en">The young lady asks: "Mother-in-law, Where did your son go?"</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi. </sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
