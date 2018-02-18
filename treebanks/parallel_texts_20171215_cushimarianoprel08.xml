@@ -1091,6 +1091,24 @@ tapetsa	[=tapetsa][NRoot][=vine.sp. (ES: tamshi, tamishi, támishi)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="57">
+        <sentence lang="prq">Rashitakotakeri sheripiari maniti antari omoonaki otishi.</sentence>
+        <sentence lang="es">El chamán encerró al tigre en una cueva del cerro.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="58">
+        <sentence lang="prq">Ashiyakero isheni pochari janko oyaatantari obaantsiki </sentence>
+        <sentence lang="es">Mi abuela chupó caña dulce cuando fue a la chacra.</sentence>
+        <morphology>
+
+
+ashiyakero	[=ashiy][VRoot][=to.suck (prbly.sugar.cane)][--][-ak][+CAUS.SOC]ak[--][-e][+IRR]e[--][=ro][+3n.m.O]
+
+
+</morphology>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi. </sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
