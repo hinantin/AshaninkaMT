@@ -1215,7 +1215,19 @@ iporiki	[i-][NPers][3m.poss+][--][=pori+n.m.+inal@tsi.][NRoot][=leg (ES: pierna)
     <text id="63">
         <sentence lang="prq">Atsinakakeri Inchato konoya.</sentence>
         <sentence lang="es">El palo apretó a la tortuga.</sentence>
-        <morphology/>
+        <sentence lang="en">The tree trunk squashed the motelo-turtle.</sentence>
+        <morphology>
+
+
+atsinakakeri	[=atsinak][VRoot][=to.squash.sth.; to.squeeze.sth.; to.crush.sth. (ES: aplastar,arrollar; machucar; apretar)][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+inchato	[=incha][NRoot][=plant][--][-to][+CL:tree][=tree,trunk]
+
+konoya	[=konoya+m.][NRoot][=tortoise, turtle, motelo-turtle, land.turtle.sp. (ES: tortuga.de.tierra; PT: jabuti)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="675">
