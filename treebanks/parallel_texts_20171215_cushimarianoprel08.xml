@@ -1280,6 +1280,13 @@ ikiriki	[i-][NPers][3m.poss+][--][=kiri+n.m.+inal@tsi.][NRoot][=nose; nostrils][
         <morphology/>
         <parsing/>
     </text>
+    <text id="69">
+        <sentence lang="prq">Ramaki pabachori ibatsa maniro.</sentence>
+        <sentence lang="es">Mi tío trajo carne de venado.</sentence>
+        <sentence lang="en">My uncle brought deer meat.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi. </sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
