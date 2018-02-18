@@ -1061,9 +1061,9 @@ tapetsa	[=tapetsa][NRoot][=vine.sp. (ES: tamshi, tamishi, támishi)]
         <morphology/>
         <parsing/>
     </text>
-    <text id="51">
-        <sentence lang="prq"/>
-        <sentence lang=""/>
+    <text id="52">
+        <sentence lang="prq">Ari nomatakero nantero pikantakenari chapinki.</sentence>
+        <sentence lang="es">Ya haré lo que me dijiste ayer.</sentence>
         <morphology/>
         <parsing/>
     </text>
