@@ -1153,6 +1153,7 @@ kaari_añaapintane	[=kaari_anyaapintane][NRoot][=strange (ES: extraño)]
     <text id="61">
         <sentence lang="prq">Atojetake isheeni obajempiakari totiroki inkaariberi.</sentence>
         <sentence lang="es">La abuela empezó a toser cuando comió el caracol de la cocha.</sentence>
+        <sentence lang="en">Grandmother started coughing when she ate the aquatic-snail from the lake.</sentence>
         <morphology>
 
 
@@ -1169,6 +1170,12 @@ inkaariberi	[=inkaari+n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)][--][-ve
 .	.[$.]
 
 </morphology>
+        <parsing/>
+    </text>
+    <text id="62.1">
+        <sentence lang="prq">Ratsikakeri otsiti tyaapaniki.</sentence>
+        <sentence lang="es">El perro mordió al pollito.</sentence>
+        <morphology/>
         <parsing/>
     </text>
     <text id="675">
