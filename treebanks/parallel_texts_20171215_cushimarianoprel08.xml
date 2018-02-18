@@ -1031,6 +1031,18 @@ tapetsa	[=tapetsa][NRoot][=vine.sp. (ES: tamshi, tamishi, támishi)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="48.1">
+        <sentence lang="prq">Irojati rañeenkabeta otyaapate nana robatsitapakeri otsizi.</sentence>
+        <sentence lang="es">La gallina de mi madre aún respiraba cuando la remató el perro.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="48.2">
+        <sentence lang="prq">Irojati rañi otsiti ratsikavetakari maniti</sentence>
+        <sentence lang="es">El perro aún vive a pesar de que el tigre lo mordió.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi. </sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
