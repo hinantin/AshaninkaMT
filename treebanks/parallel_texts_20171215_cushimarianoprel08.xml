@@ -1193,7 +1193,13 @@ tyaapaniki	[=tyaapa+n.m.+poss@te.][NRoot][=hen; chicken][--][-niki][+DIM]
     <text id="62.2">
         <sentence lang="prq">Iraantari notyomi atsikakeri shitamenkotsi iporiki.</sentence>
         <sentence lang="en">Mi hijo está llorando porque la tarima le mordió la pierna.</sentence>
-        <morphology/>
+        <morphology>
+
+
+iraantari	[=ira][VRoot][=to.cry][--][-ant][+APPL.INST][=reason,instrumentality;in.order.to]ant[--][-a][+REAL]a[--][=ri][+3m.O]
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="675">
