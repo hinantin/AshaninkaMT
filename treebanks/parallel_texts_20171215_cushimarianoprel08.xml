@@ -1112,7 +1112,12 @@ ashiyakero	[=ashiy][VRoot][=to.suck (prbly.sugar.cane)][--][-ak][+CAUS.SOC]ak[--
     <text id="59">
         <sentence lang="prq">Pataetakote pamaki antsotabake okitsoki.</sentence>
         <sentence lang="es">Sube al árbol de chimicua para chupar los frutos.</sentence>
-        <morphology/>
+        <morphology>
+
+
+antsotabake	[N=][IRR+][--][=atso][VRoot][=to.suck (prbly.cacao; ES: chupar)][--][-t][+EP]t[--][-av+object.oriented][ADV][+DIR][=contrary,opposite]av[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e
+
+</morphology>
         <parsing/>
     </text>
     <text id="675">
