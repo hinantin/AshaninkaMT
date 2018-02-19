@@ -4,9 +4,10 @@
             <xs:enumeration value="prq">
                 <xs:annotation>
                     <xs:documentation>
-                        OLAS, WAVES
-                        ES: Asheninka del Perené.
-                            Tambo y Satipo (bajo Perené)
+                        
+                        ES: Asheninka del Perené
+                            alto perené - OLAS, WAVES
+                            Tambo y Satipo (bajo Perené) - TAMBOR, DRUM  
                         EN: Perene Asheninka
                         PRQ: Tsika Ikantaitziro Ñaantsipaye
                     </xs:documentation>
