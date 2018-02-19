@@ -1389,7 +1389,14 @@ shonkiri	[=shonkiri+poss@ti.][NRoot][=big.partridge.sp. (ES: perdiz); large.quai
     <text id="77">
         <sentence lang="prq">Raniwaeti ocheraaki nijaki chanchati ramenayeti robanabo.</sentence>
         <sentence lang="es">La garza de color cenizo camina en la orilla del río buscando comida.</sentence>
-        <morphology/>
+        <sentence lang="en"/>
+        <morphology>
+
+
+raniwaeti	[r-][VPers][3m.S/A+][--][=ani][VRoot][=to.go, to.walk; to.go.down][--][-vae][ASP][+DUR]vae[--][-t][+EP]t[--][-i][+REAL]i
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="675">
