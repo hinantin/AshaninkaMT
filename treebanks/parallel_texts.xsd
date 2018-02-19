@@ -6,6 +6,7 @@
                     <xs:documentation>
                         OLAS, WAVES
                         ES: Asheninka del Perené.
+                            Tambo y Satipo (bajo Perené)
                         EN: Perene Asheninka
                         PRQ: Tsika Ikantaitziro Ñaantsipaye
                     </xs:documentation>
@@ -59,6 +60,7 @@
                 <xs:annotation>
                     <xs:documentation>
                         ES: Ashéninka, Ucayali-Yurúa
+                        PT: Ashaninka do rio Amônia da região do alto Juruá (Acre)
                     </xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
