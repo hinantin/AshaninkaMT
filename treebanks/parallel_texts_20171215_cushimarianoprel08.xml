@@ -1433,7 +1433,23 @@ onkonashi	[=oNkona][NRoot][=cecropia.sp., tree.sp. (ES: cetico, siteco)][--][-sh
     <text id="79">
         <sentence lang="prq">Inoshikake notsipamintsare antari charaba antabaaki.</sentence>
         <sentence lang="es">Mi compañero jaló un súngaro grande en el río.</sentence>
-        <morphology/>
+        <sentence lang="en"/>
+        <morphology>
+
+
+inoshikake	[i-][VPers][3m.S/A+][--][=noshik][VRoot][=to.pull.sth. (ES: jalar), to.drag.sth. (ES: arrastrar)][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e
+
+notsipamintsare	[no-][NPers][1SG.poss+][--][=tsipamintsare][NRoot][=friend (ES: amigo)]
+
+antari	[=antari+m.][AdjRoot][=big; mature]
+
+charaba	[=charava][NRoot][=fish.sp. (ES: súngaro, pez.saltón)]
+
+???
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="675">
