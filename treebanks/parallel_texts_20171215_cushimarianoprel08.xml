@@ -1431,8 +1431,8 @@ onkonashi	[=oNkona][NRoot][=cecropia.sp., tree.sp. (ES: cetico, siteco)][--][-sh
         <parsing/>
     </text>
     <text id="79">
-        <sentence lang="">Inoshikake notsipamintsare antari charaba antabaaki.</sentence>
-        <sentence lang="">Mi compañero jaló un súngaro grande en el río.</sentence>
+        <sentence lang="prq">Inoshikake notsipamintsare antari charaba antabaaki.</sentence>
+        <sentence lang="es">Mi compañero jaló un súngaro grande en el río.</sentence>
         <morphology/>
         <parsing/>
     </text>
