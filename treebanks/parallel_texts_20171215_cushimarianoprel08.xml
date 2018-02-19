@@ -1336,7 +1336,6 @@ shonkiri	[=shonkiri+poss@ti.][NRoot][=big.partridge.sp. (ES: perdiz); large.quai
 
 ramakeri	[r-][VPers][3m.S/A+][--][=am][VRoot][=to.bring (ES: traer)][--][-ak][+CAUS.SOC]ak[--][-e][+IRR]e[--][=ri][+3m.O]
 
-
 .	.[$.]
 
 </morphology>
@@ -1412,6 +1411,18 @@ robanabo	[r-][NPers][3m.poss+][--][=ovanavo+n.m.+inal@ntsi.][NRoot][=staple.food
 .	.[$.]
 
 </morphology>
+        <parsing/>
+    </text>
+    <text id="78">
+        <sentence lang="prq">Robabo chapiti onkonashi.</sentence>
+        <sentence lang="es">El gusano come las hojas del cetico.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="79">
+        <sentence lang="">Inoshikake notsipamintsare antari charaba antabaaki.</sentence>
+        <sentence lang="">Mi compañero jaló un súngaro grande en el río.</sentence>
+        <morphology/>
         <parsing/>
     </text>
     <text id="675">
