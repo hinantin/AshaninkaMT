@@ -1338,6 +1338,12 @@ shonkiri	[=shonkiri+poss@ti.][NRoot][=big.partridge.sp. (ES: perdiz); large.quai
 </morphology>
         <parsing/>
     </text>
+    <text id="71.2">
+        <sentence lang="prq">Pibitirieri jamani itonkakeri pabachori.</sentence>
+        <sentence lang="es">Saca las cerdas del majás que mató tu tío.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi. </sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
