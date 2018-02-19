@@ -1356,6 +1356,12 @@ shonkiri	[=shonkiri+poss@ti.][NRoot][=big.partridge.sp. (ES: perdiz); large.quai
         <morphology/>
         <parsing/>
     </text>
+    <text id="72.3">
+        <sentence lang="prq">Otimi ibiti ani maaroni ibatsaki.</sentence>
+        <sentence lang=""/>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi. </sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
