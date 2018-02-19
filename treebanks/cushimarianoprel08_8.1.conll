@@ -13,4 +13,5 @@
 12	-e	_	STATUS	STATUS	STATUS=+REAL	11	status	_	_
 13	=rii	_	PRN.O	PRN.O	PRN.O=+3m.O	12	prn-o	_	_
 14	=ta	_	
+15	=niha	_	Root	Root	Root=NRoot|trans=water|gndr=+n.m.|poss=+ti:te	5	s-arg	_	_
 
