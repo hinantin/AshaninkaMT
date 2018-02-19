@@ -346,6 +346,9 @@ jaabari	[=haavari+m.][NRoot][=warm, hot (prbly.liquid)]
 5	=na	_	O	O	O=+1SG.O	4	o	_	_
 6	=ri	_	PRN.O	PRN.O	PRN.O=+3m.O	5	prn-o	_	_
 7	=aventyari	_	Root	Root	Root=NRoot|trans=cry.baby|gndr=+m.	6	o-arg	_	_
+8	a-	_	VPers	VPers	VPers=1PL.A+	3	s-subj	_	_
+2	=kaat	_	Root_EP	Root_EP	Root=VRoot|EP=-t|trans=to.bathe	1?	sntc	_	_
+
 
 
 </parsing>
