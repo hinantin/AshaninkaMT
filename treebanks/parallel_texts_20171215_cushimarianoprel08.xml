@@ -1386,6 +1386,12 @@ shonkiri	[=shonkiri+poss@ti.][NRoot][=big.partridge.sp. (ES: perdiz); large.quai
         <morphology/>
         <parsing/>
     </text>
+    <text id="77">
+        <sentence lang="prq">Raniwaeti ocheraaki nijaki chanchati ramenayeti robanabo.</sentence>
+        <sentence lang="es">La garza de color cenizo camina en la orilla del río buscando comida.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi. </sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
