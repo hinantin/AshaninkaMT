@@ -350,7 +350,9 @@ jaabari	[=haavari+m.][NRoot][=warm, hot (prbly.liquid)]
 9	=kaat	_	Root_EP	Root_EP	Root=VRoot|EP=-t|trans=to.bathe	1?	sntc	_	_
 10	-av	_	
 11	-ak	_	ASP	ASP	ASP=+PRF	10	asp	_	_
-
+12	-e	_	STATUS	STATUS	STATUS=+REAL	11	status	_	_
+13	=rii	_	PRN.O	PRN.O	PRN.O=+3m.O	12	prn-o	_	_
+14	=ta	_	
 
 
 </parsing>
