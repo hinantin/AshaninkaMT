@@ -353,7 +353,7 @@ jaabari	[=haavari+m.][NRoot][=warm, hot (prbly.liquid)]
 12	-e	_	STATUS	STATUS	STATUS=+REAL	11	status	_	_
 13	=rii	_	PRN.O	PRN.O	PRN.O=+3m.O	12	prn-o	_	_
 14	=ta	_	MODAL	MODAL	MODAL=+OPT	13	modal	_	_
-15	=niha	_	Root	Root	Root=NRoot|trans=water|gndr=+n.m.|poss=+ti:te	5	s-arg	_	_
+15	=niha	_	Root	Root	Root=NRoot|trans=water|gndr=+n.m.|poss=+ti:te	9	o-arg	_	_
 16	=haavari	_	Root	Root	Root=NRoot|trans=warm|gndr=+m.	15	adj-mod	_	_
 17	.	_	$.	$.	_	18	punc	_	_
 18	VROOT	_	_	_	_	0	sentence	_	_
