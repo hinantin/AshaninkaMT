@@ -423,6 +423,9 @@ jaka	[=haka+proximal.b.][PrnDem][=here, close.to.the.speaker]
 1	n-	_	VPers	VPers	VPers=1SG.A+	2	s-subj	_	_
 2	=avih	_	Root	Root	Root=VRoot|trans=to.move.past/to_the_other_side_of.sb/sth.	1?	sntc	_	_
 3	-ak	_	ASP	ASP	ASP=+PRF	2	asp	_	_
+4	-e	_	STATUS	STATUS	STATUS=+IRR	3	status	_	_
+5	=ro	_	PRN.O	PRN.O	PRN.O=+3n.m.O	4	prn-o	_	_
+
 
 
 </parsing>
