@@ -1473,8 +1473,25 @@ tonkaareki	[=tonkaare+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas]
         <parsing/>
     </text>
     <text id="81">
-        <sentence lang=""/>
-        <sentence lang=""/>
+        <sentence lang="prq">Imintsaabakero nana antari chebiro inkaaricheraaki kemetaka maanki.</sentence>
+        <sentence lang="es">A mi mamá la asustó una macana grande en la orilla de la cocha porque se parece a una víbora.</sentence>
+        <morphology>
+
+
+chebiro	[=cheviro+m.][NRoot][=fish.sp. (ES: macana, porra)]
+
+</morphology>
+        <parsing/>
+    </text>
+    <text id="82.1">
+        <sentence lang="prq">Pamakenabo noetsare cheenkari. </sentence>
+        <sentence lang="es">Tráeme mi camisa negra.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="82.2">
+        <sentence lang="prq">Ratsikakeri cheenkari otsiti abotsiki.</sentence>
+        <sentence lang="es">El jergón mordió a mi perro en el camino.</sentence>
         <morphology/>
         <parsing/>
     </text>
@@ -1514,11 +1531,11 @@ añane	[a-][NPers][1PL.poss+][--][=nya+n.m.+inal@ntsi.+poss@ne.][NRoot][=word (E
         <morphology>
 
 
-apinka	[=apinka][NRoot][=person's.name; Apu/Seer.Inca; Inca.person/people]
+apinka	[=apinka][NRoot][=Inca.person/people]
 
-yareeta	[y-][VPers][3m.S/A+][--][=aree][VRoot][=to.arrive (ES: llegar), to.visit.with.sb.][--][-t][+EP]t[--][-a][+REAL]a
+yareeta	[y-][VPers][3m.S+][--][=aree][VRoot][=to.arrive (ES: llegar)][--][-t][+EP]t[--][-a][+REAL]a
 
-antamimashiki	[=antami][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.forest][--][-mashi][+CL:vast.space.with.vegetation][=vast.space.with.vegetation;wide,flat.space][--][-ki][Cas][+LOC_LOC.T]
+antamimashiki	[=antami][NRoot][=dense.tropical.forest][--][-mashi][+CL:vast.space.with.vegetation][=vast.space.with.vegetation;wide,flat.space][--][-ki][Cas][+LOC_LOC.T]
 
 </morphology>
         <parsing/>
