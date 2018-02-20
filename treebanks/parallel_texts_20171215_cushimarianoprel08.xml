@@ -1492,7 +1492,21 @@ chebiro	[=cheviro+m.][NRoot][=fish.sp. (ES: macana, porra)]
     <text id="82.2">
         <sentence lang="prq">Ratsikakeri cheenkari otsiti abotsiki.</sentence>
         <sentence lang="es">El jergón mordió a mi perro en el camino.</sentence>
-        <morphology/>
+        <sentence lang="en"/>
+        <morphology>
+
+
+ratsikakeri	[r-][VPers][3m.S/A+][--][=atsik][VRoot][=to.bite (ES: morder.(sujeto.animado))][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+???
+
+otsiti	[=otsiti+m.+poss@te.][NRoot][=dog (ES: perro)]
+
+abotsiki	[=avo+n.m.+inal@tsi.][NRoot][=road, trail][--][-tsi+alien.][Gen][+nposs]tsi[--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="675">
