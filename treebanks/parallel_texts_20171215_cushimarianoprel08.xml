@@ -1544,6 +1544,16 @@ cheenti	[=cheenti][NRoot][=armored.catfish.sp. (ES: sp.de.carachama.con.púas.en
 </morphology>
         <parsing/>
     </text>
+    <text id="84">
+        <sentence lang="prq">Oshekini iiche tontori.</sentence>
+        <sentence lang="es">El erizo es muy espinoso.</sentence>
+        <morphology>
+
+
+
+</morphology>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi. </sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
