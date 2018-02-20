@@ -1455,9 +1455,19 @@ charaba	[=charava][NRoot][=fish.sp. (ES: súngaro, pez.saltón)]
     <text id="80">
         <sentence lang="prq">Ikanti iriani: Riyaatati charine rayi kiri tonkaareki.</sentence>
         <sentence lang="es">El niño dijo: “Mi abuelo fue a la loma a traer pijuayo”.</sentence>
-        <sentence lang="en">The child said: "My grandfather went to the hillock in order to bring pijuayo palm-tree".</sentence>
+        <sentence lang="en">The child said: "My grandfather went to the hillock to bring pijuayo palm-tree".</sentence>
         <morphology>
 
+
+charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]
+
+rayi	[r-][VPers][3m.S/A+][--][=ay][VRoot][=to.get][--][-i][+IRR]i
+
+kiri	[=kiri][NRoot][=palm.tree.sp. (ES: pijuayo, pifayo, chonta; sci.nm.: juania.australis)]
+
+tonkaareki	[=tonkaare+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
