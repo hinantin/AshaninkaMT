@@ -1545,7 +1545,8 @@ cheenti	[=cheenti][NRoot][=armored.catfish.sp. (ES: sp.de.carachama.con.púas.en
         <parsing/>
     </text>
     <text id="84">
-        <sentence lang="prq">Oshekini iiche tontori.</sentence>
+        <!-- Oshekini iiche tontori. -->
+        <sentence lang="prq">Oshekini iche tontori.</sentence>
         <sentence lang="es">El erizo es muy espinoso.</sentence>
         <morphology>
 
@@ -1559,6 +1560,13 @@ tontori	[=tontori][NRoot][=porcupine (ES: puerco.espín, erizo; sci.nm.: coendu.
 .	.[$.]
 
 </morphology>
+        <parsing/>
+    </text>
+    <text id="85">
+        <sentence lang="prq">Chekaka apa iitiki rantabaebeta obaantsiki. </sentence>
+        <sentence lang="es">Mi papá se cortó el pie mientras trabajaba en la chacra.</sentence>
+        <sentence lang="en">My father cut his foot while he was working in the sown field.</sentence>
+        <morphology/>
         <parsing/>
     </text>
     <text id="675">
