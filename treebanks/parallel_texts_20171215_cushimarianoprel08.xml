@@ -375,12 +375,25 @@ abentyari	[=aventyari+m.][NRoot][=cry.baby (ES: llorón)]
 
 osheki	[=osheki][AdjRoot][=many, much, a.lot]
 
-ikaimi	[i-][VPers][3m.S/A+][--][=kaim][VRoot][=to.call (ES: llamar)][--][-i][+IRR]i
+ikaimi	[i-][VPers][3m.S+][--][=kaim][VRoot][=to.call (ES: llamar)][--][-i][+IRR]i
 
-tsireniriki	[=tsireniri][NRoot][=night][--][-ki][Cas][+LOC_LOC.T]
+tsireniriki	[=tsireniri][NRoot][=night][--][-ki][Cas][+LOC.T]
 
 .	.[$.]
 </morphology>
+        <parsing>
+
+
+
+1	=irika	_	Root	Root	Root=PrnDem|trans=this|gndr=+m.|sem=+proximal	2	det	_	_
+2	=eentsi	_	Root	Root	Root=NRoot|trans=child|gndr=+n./m.|poss=+te	1	s-arg	_	_
+3	=aventyari	_	Root	Root	Root=NRoot|trans=cry.baby|gndr=+m.	2	adj-mod	_	_
+4	=osheki	_	Root	Root	Root=AdjRoot|trans=a.lot	6	adv	_	_
+5	i-	_	VPers	VPers	VPers=3m.S+	6	s-subj	_	_
+6	=kaim	_	Root	Root	Root=VRoot|trans=to.call.sb.	?	s-arg-claus	_	_
+7	-i	_	STATUS	STATUS	STATUS=+IRR	6	status	_	_
+
+</parsing>
     </text>
     <text id="9">
         <sentence lang="prq">Nabijakero nampitsi nareetantakari jaka. </sentence>
