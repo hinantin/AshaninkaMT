@@ -401,7 +401,7 @@ tsireniriki	[=tsireniri][NRoot][=night][--][-ki][Cas][+LOC.T]
 </parsing>
     </text>
     <text id="9">
-        <sentence lang="prq">Nabijakero nampitsi nareetantakari jaka. </sentence>
+        <sentence lang="prq">Nabijakero nampitsi nareetantakari jaka.</sentence>
         <sentence lang="es">Pasé la ciudad para llegar hasta aquí.</sentence>
         <sentence lang="en">I passed by the city in order to get till here.</sentence>
         <morphology>
@@ -1523,6 +1523,21 @@ cheenkari	[=cheenkari+m.][NRoot][=venomous.snake.sp. (ES: jergón, sp.de.culebra
 otsiti	[=otsiti+m.+poss@te.][NRoot][=dog (ES: perro)]
 
 abotsiki	[=avo+n.m.+inal@tsi.][NRoot][=road, trail][--][-tsi+alien.][Gen][+nposs]tsi[--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
+        <parsing/>
+    </text>
+    <text id="83">
+        <sentence lang="prq">Ikentabakotakena cheenti.</sentence>
+        <sentence lang="es">Las púas en la boca de la carachama me picaron en la mano.</sentence>
+        <morphology>
+
+
+ikentabakotakena	[i-][VPers][3m.S/A+][--][=kent][VRoot][=to.pierce.with.arrows, to.shoot.arrows; to.sting (ES: picar)][--][-a][+EP]a[--][=vako][NRoot][=hand (ES: mano)]vako[--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=na][+1SG.O]
+
+cheenti	[=cheenti][NRoot][=armored.catfish.sp. (ES: carachama, sp.de.pez)]
 
 .	.[$.]
 
