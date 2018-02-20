@@ -1550,7 +1550,13 @@ cheenti	[=cheenti][NRoot][=armored.catfish.sp. (ES: sp.de.carachama.con.púas.en
         <morphology>
 
 
+oshekini	[=osheki][AdjRoot][=many, much, a.lot][--][-ni][AS][+ADV]
+
+iche	[i-][NPers][3m.poss+][--][=che+m.+inal@tsi.][NRoot][=horn (ES: cuerno); thorn, spiny.thorn]
+
 tontori	[=tontori][NRoot][=porcupine (ES: puerco.espín, erizo; sci.nm.: coendu.sp., coendou.bicolor)]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
