@@ -416,6 +416,16 @@ jaka	[=haka+proximal.b.][PrnDem][=here, close.to.the.speaker]
 
 .	.[$.]
 </morphology>
+        <parsing>
+
+
+
+1	n-	_	VPers	VPers	VPers=1SG.A+	2	s-subj	_	_
+2	=avih	_	Root	Root	Root=VRoot|trans=to.move.past/to_the_other_side_of.sb/sth.	18	sntc	_	_
+
+
+
+</parsing>
     </text>
     <text id="10">
         <sentence lang="prq">Osheki itsaati abo aririka iñee pokatsiri.</sentence>
