@@ -1455,7 +1455,11 @@ charaba	[=charava][NRoot][=fish.sp. (ES: súngaro, pez.saltón)]
     <text id="80">
         <sentence lang="prq">Ikanti iriani: Riyaatati charine rayi kiri tonkaareki.</sentence>
         <sentence lang="es">El niño dijo: “Mi abuelo fue a la loma a traer pijuayo”.</sentence>
-        <morphology/>
+        <sentence lang="en">The child said: "My grandfather went to the hillock in order to bring pijuayo palm-tree".</sentence>
+        <morphology>
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="675">
