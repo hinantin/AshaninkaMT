@@ -1617,7 +1617,24 @@ inkani	[=inkani+n.m.][NRoot][=rain (ES: lluvia)]
     <text id="87">
         <sentence lang="prq">Riyaati pabachori icheki chenko ishitamenkotantyabori ipanko.</sentence>
         <sentence lang="es">Mi tío fue a cortar sachaponilla para emponar su casa.</sentence>
-        <morphology/>
+        <morphology>
+
+
+riyaati	[r-][VPers][3m.S/A+][--][=iyaa][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-i][+IRR]i
+
+pabachori	[=pavachori+m.+poss@ti.][NRoot][=uncle (kin.of.a.male)]
+
+icheki	[i-][VPers][3m.S/A+][--][=chek][VRoot][=to.cut][--][-i][+IRR]i
+
+chenko	[=chenko+n.m.][NRoot][=palm.tree.sp. (ES: sachaponilla, sp.de.palmera)]
+
+ishitamenkotantyabori	[i-][VPers][3m.S/A+][--][=shitamenko+n.m.+inal@tsi.][NRoot][=dais, wooden_platform (ES: tarima.(hecha.de.pona))]::[=to.cover.with.floor.boards (ES: entarimar/emponar.algo (p.ej.: una.casa))]+vbz.[--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to]ant[--][-ya][+IRR]ya[--][=vo][+3n.m.O][--][=ri][NS][+REL]
+
+ipanko	[i-][NPers][3m.poss+][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="675">
