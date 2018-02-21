@@ -1654,6 +1654,18 @@ chenkoripaye	[=chenkori+m.][NRoot][=fish.sp. (huasaca, huasaco, pescado.perro; s
 </morphology>
         <parsing/>
     </text>
+    <text id="89">
+        <sentence lang="prq">Ichenkoreetakeri Shoshokiri rantamintsatiro tsinanepaye.</sentence>
+        <sentence lang="es">A Shoshokiri le sacaron el pantalón por fastidíar a las mujeres.</sentence>
+        <morphology>
+
+
+shoshokiri	[=shoshokiri][NRoot][=NP]
+
+
+</morphology>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi. </sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
