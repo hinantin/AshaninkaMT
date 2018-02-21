@@ -433,7 +433,7 @@ jaka	[=haka+proximal.b.][PrnDem][=here, close.to.the.speaker]
 11	-ak	_	ASP	ASP	ASP=+PRF	10	asp	_	_
 12	-a	_	STATUS	STATUS	STATUS=+IRR	11	status	_	_
 13	=ri	_	NS	NS	NS=+REL	12	rel	_	_
-14	=haka	_	Root	Root	Root=PrnDem|trans=here|sem=+proximal.b.	9	???	_	_
+14	=haka	_	Root	Root	Root=PrnDem|trans=here|sem=+proximal.b.	9	dem	_	_
 15	.	_	$.	$.	_	16	punc	_	_
 16	VROOT	_	_	_	_	0	sentence	_	_
 
