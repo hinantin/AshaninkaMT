@@ -1686,6 +1686,25 @@ tsinanepaye	[=tsinane+n.m.][NRoot][=female, woman; young.girl][--][-paye][Num][+
         <morphology/>
         <parsing/>
     </text>
+    <text id="92">
+        <sentence lang="prq">Ikiakaakena sheripiari oparetsaki chenteroki.</sentence>
+        <sentence lang="es">El curandero me hizo entrar en las raíces que salen de la ponilla.</sentence>
+        <morphology>
+
+
+ikiakaakena	[i-][VPers][3m.S/A+][--][=ki][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)][--][-aka][+CAUS.SOC]aka[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=na][+1SG.O]
+
+sheripiari	[=sheripiari+m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero)]
+
+oparetsaki	[o-][NPers][3n.m.poss+][--][=paretsa+n.m.+inal@ntsi.][NRoot][=tree.root (ES: raíz)][--][-ki][Cas][+LOC_LOC.T]
+
+chenteroki	[=chentero][NRoot][=palm.tree.sp. (ES: ponilla, sp.de.palmera)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi. </sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
