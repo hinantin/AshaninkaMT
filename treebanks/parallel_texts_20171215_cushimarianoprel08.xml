@@ -427,7 +427,7 @@ jaka	[=haka+proximal.b.][PrnDem][=here, close.to.the.speaker]
 5	=ro	_	PRN.O	PRN.O	PRN.O=+3n.m.O	4	prn-o	_	_
 6	=nampi	_	Root	Root	Root=NRoot|trans=village|gndr=+n.m.|inal=+tsi	5	s-arg	_	_
 7	-tsi	_	Gen	Gen	Gen=+nposs	6	alien	_	_
-8	n-	_	VPers	VPers	VPers=1SG.A+	2	s-subj	_	_
+8	n-	_	VPers	VPers	VPers=1SG.A+	9	s-subj	_	_
 9	=areet	_	Root_EP	Root_EP	Root=VRoot|EP=-t|trans=to.arrive	16	sntc	_	_
 10	-ant	_	ADV_EP	ADV_EP	ADV=+DIR|EP=-t|sem=+source|INCEP=beginning.of.a.new.action	9	dir	_	_
 11	-ak	_	ASP	ASP	ASP=+PRF	10	asp	_	_
