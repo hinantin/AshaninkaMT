@@ -1637,6 +1637,12 @@ ipanko	[i-][NPers][3m.poss+][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa)
 </morphology>
         <parsing/>
     </text>
+    <text id="88">
+        <sentence lang="prq">Ijeekaeyeni inkaareki chenkoripaye.</sentence>
+        <sentence lang="es">Los huasacos viven en la cocha.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi. </sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
