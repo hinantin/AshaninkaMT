@@ -1708,7 +1708,15 @@ chenteroki	[=chentero][NRoot][=palm.tree.sp. (ES: ponilla, sp.de.palmera)][--][-
     <text id="93">
         <sentence lang="prq">Icheraakotakeri nani rirenti tsireniriki.</sentence>
         <sentence lang="es">Mi cuñado gritó a su hermano en la noche.</sentence>
-        <morphology/>
+        <morphology>
+
+
+nani	[n-][NPers][1SG.poss+][--][=ani+m.+poss@ri.][NRoot][=brother.in.law (kin.of.a.male)]
+
+icheraakotakeri	[i-][VPers][3m.S/A+][--][=cheraako][VRoot][=to.shout (ES: gritar); to.speak.with.anger (ES: hablar.con.enojo)][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="675">
