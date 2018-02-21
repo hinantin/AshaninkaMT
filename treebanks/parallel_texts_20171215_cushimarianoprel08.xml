@@ -421,18 +421,18 @@ jaka	[=haka+proximal.b.][PrnDem][=here, close.to.the.speaker]
 
 
 1	n-	_	VPers	VPers	VPers=1SG.A+	2	s-subj	_	_
-2	=avih	_	Root	Root	Root=VRoot|trans=to.move.past/to_the_other_side_of.sb/sth.	1?	sntc	_	_
+2	=avih	_	Root	Root	Root=VRoot|trans=to.move.past/to_the_other_side_of.sb/sth.	16	sntc	_	_
 3	-ak	_	ASP	ASP	ASP=+PRF	2	asp	_	_
 4	-e	_	STATUS	STATUS	STATUS=+IRR	3	status	_	_
 5	=ro	_	PRN.O	PRN.O	PRN.O=+3n.m.O	4	prn-o	_	_
 6	=nampi	_	Root	Root	Root=NRoot|trans=village|gndr=+n.m.|inal=+tsi	5	s-arg	_	_
 7	-tsi	_	Gen	Gen	Gen=+nposs	6	alien	_	_
 8	n-	_	VPers	VPers	VPers=1SG.A+	2	s-subj	_	_
-9	=areet	_	Root_EP	Root_EP	Root=VRoot|EP=-t|trans=to.arrive	1?	sntc	_	_
-10	-ant	_	ADV_EP	ADV_EP	ADV=+DIR|EP=-t|sem=+source|INCEP=beginning.of.a.new.action	3	dir	_	_
-11	-ak	_	ASP	ASP	ASP=+PRF	2	asp	_	_
-12	-a	_	STATUS	STATUS	STATUS=+IRR	5	status	_	_
-13	=ri	_	NS	NS	NS=+REL	11	rel	_	_
+9	=areet	_	Root_EP	Root_EP	Root=VRoot|EP=-t|trans=to.arrive	16	sntc	_	_
+10	-ant	_	ADV_EP	ADV_EP	ADV=+DIR|EP=-t|sem=+source|INCEP=beginning.of.a.new.action	9	dir	_	_
+11	-ak	_	ASP	ASP	ASP=+PRF	10	asp	_	_
+12	-a	_	STATUS	STATUS	STATUS=+IRR	11	status	_	_
+13	=ri	_	NS	NS	NS=+REL	12	rel	_	_
 14	=haka	_	Root	Root	Root=PrnDem|trans=here|sem=+proximal.b.	9	???	_	_
 15	.	_	$.	$.	_	16	punc	_	_
 16	VROOT	_	_	_	_	0	sentence	_	_
