@@ -1866,8 +1866,13 @@ raabakaaka	[r-][VPers][3m.S/A+][--][=aavak][VRoot][=to.receive; to.get.married (
     </text>
     <text id="112">
         <sentence lang="prq">Ipaetakiri konki echonkiini ibatsa maniro.</sentence>
-        <sentence lang="es">A mi suegro le dieron poca carne de
-            venado.</sentence>
+        <sentence lang="es">A mi suegro le dieron poca carne de venado.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="113.1">
+        <sentence lang="prq">Itonkake pabachori antari maniro eejati itonkake ebonkiri kapeshi.</sentence>
+        <sentence lang="es">Mi tío baleó un venado grande y un achuni pequeño.</sentence>
         <morphology/>
         <parsing/>
     </text>
