@@ -1847,6 +1847,12 @@ intsipaki	[=intsipa][NRoot][=ice-cream.bean.tree (ES: guaba, pacae, pacay, shimb
         <morphology/>
         <parsing/>
     </text>
+    <text id="110">
+        <sentence lang="prq">Timanake ebatairo nanaeni, raabakaaka norentitsori.</sentence>
+        <sentence lang="es">Mi tía ya tiene nuera porque mi primo se casó.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
