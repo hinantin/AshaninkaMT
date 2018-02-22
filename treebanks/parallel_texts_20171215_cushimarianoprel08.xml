@@ -1807,8 +1807,8 @@ charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)
         <parsing/>
     </text>
     <text id="106">
-        <sentence lang=""/>
-        <sentence lang=""/>
+        <sentence lang="prq">Pokake choori ijeekaje anampiki.</sentence>
+        <sentence lang="es">El serrano vino a vivir en nuestro pueblo.</sentence>
         <morphology/>
         <parsing/>
     </text>
