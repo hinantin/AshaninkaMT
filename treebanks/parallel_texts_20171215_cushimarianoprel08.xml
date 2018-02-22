@@ -1850,7 +1850,12 @@ intsipaki	[=intsipa][NRoot][=ice-cream.bean.tree (ES: guaba, pacae, pacay, shimb
     <text id="110">
         <sentence lang="prq">Timanake ebatairo nanaeni, raabakaaka norentitsori.</sentence>
         <sentence lang="es">Mi tía ya tiene nuera porque mi primo se casó.</sentence>
-        <morphology/>
+        <morphology>
+
+
+raabakaaka	[r-][VPers][3m.S/A+][--][=aavak][VRoot][=to.receive; to.get.married (ES: casarse)][--][-a][+EP]a[--][-ak][ASP][+PRF]ak[--][-a][+IRR]a
+
+</morphology>
         <parsing/>
     </text>
     <text id="675">
