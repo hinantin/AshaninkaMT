@@ -75,6 +75,7 @@
             </xs:enumeration>
             <xs:enumeration value="en"/>
             <xs:enumeration value="pt"/>
+            <xs:enumeration value="quz"/>
         </xs:restriction>
     </xs:simpleType>
     <xs:element name="parallel">

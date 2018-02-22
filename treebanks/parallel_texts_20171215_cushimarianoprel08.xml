@@ -1753,8 +1753,25 @@ charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)
         <morphology/>
         <parsing/>
     </text>
+    <text id="98">
+        <sentence lang="prq">Chobitake rotsitsite pabachori ratsikakerira jamani.</sentence>
+        <sentence lang="es">El perro de mi tío tiene gusano donde lo mordió el majás.</sentence>
+        <morphology>
+
+
+
+
+</morphology>
+        <parsing/>
+    </text>
+    <text id="99">
+        <sentence lang="prq">Okantakena choeni: Aari pamekenabo noyotsiraanikite.</sentence>
+        <sentence lang="es">Mi hermana me dijo: “Hermano, afila mi cuchillo”.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
-        <sentence lang="prq">Ratsotiro shima ojampobatsate mapi. </sentence>
+        <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
         <sentence lang="en">The boquichico-fish sucks the mud from the stones.</sentence>
         <morphology>
