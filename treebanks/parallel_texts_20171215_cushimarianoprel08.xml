@@ -1813,8 +1813,8 @@ charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)
         <parsing/>
     </text>
     <text id="107">
-        <sentence lang="prq"/>
-        <sentence lang="es"/>
+        <sentence lang="prq">Ratsi apa tonkaariki chorina ishirikashitantyaabori ipanko.</sentence>
+        <sentence lang="es">Mi papá trae hojas de chorina del cerro para techar su casa.</sentence>
         <morphology/>
         <parsing/>
     </text>
