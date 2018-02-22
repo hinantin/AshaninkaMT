@@ -1894,6 +1894,24 @@ raabakaaka	[r-][VPers][3m.S/A+][--][=aavak][VRoot][=to.receive; to.get.married (
         <morphology/>
         <parsing/>
     </text>
+    <text id="116">
+        <sentence lang="prq">Ramake apa payanti eereki.</sentence>
+        <sentence lang="es">Mi papá trajo plátano verde.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="117">
+        <sentence lang="prq">Eero nopiyaabo pinampiki.</sentence>
+        <sentence lang="es">No regresaré a tu pueblo.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="118">
+        <sentence lang="prq">Riyaatati apa eniki royeeri otiyaarentsi.</sentence>
+        <sentence lang="es">Mi papá se va al río a esperar el mijano.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
