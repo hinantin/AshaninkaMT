@@ -2211,6 +2211,12 @@ tsinane	[=tsinane+n.m.][NRoot][=female, woman; young.girl]
         <morphology/>
         <parsing/>
     </text>
+    <text id="157">
+        <sentence lang="prq">Pamakenabo kotsironaki oriani.</sentence>
+        <sentence lang="es">Tráeme la olla pequeña.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
