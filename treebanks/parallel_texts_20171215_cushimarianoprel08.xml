@@ -2024,6 +2024,12 @@ tsinane	[=tsinane+n.m.][NRoot][=female, woman; young.girl]
 </morphology>
         <parsing/>
     </text>
+    <text id="132">
+        <sentence lang="prq">Obakeri tonkitsi iitiki Chareto.</sentence>
+        <sentence lang="es">La espina picó a Chareto en el pie.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
