@@ -2133,6 +2133,12 @@ tsinane	[=tsinane+n.m.][NRoot][=female, woman; young.girl]
         <morphology/>
         <parsing/>
     </text>
+    <text id="146">
+        <sentence lang="prq">Inkani parientsiri chapinki oshokakaakero pankirentsi.</sentence>
+        <sentence lang="es">La lluvia que cayó la semana pasada hizo crecer las plantas.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
