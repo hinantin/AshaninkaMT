@@ -2066,6 +2066,12 @@ tsinane	[=tsinane+n.m.][NRoot][=female, woman; young.girl]
         <morphology/>
         <parsing/>
     </text>
+    <text id="138">
+        <sentence lang="prq">Raaki Shiyaba iitsoki shempiri impanekeki.</sentence>
+        <sentence lang="es">Shiyawa fue a recolectar huevos de taricaya en el arenal.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
@@ -2085,7 +2091,12 @@ mapi	[=mapi+n.m.+poss@ni:ne.][NRoot][=stone; rock]
 
 </morphology>
     </text>
-    <text id="0">
+<!-- ***********************************************
+****************************************************
+Examples from other sources 
+****************************************************
+************************************************ -->
+    <text id="EOS1">
         <sentence lang="prq">Ashi Añane</sentence>
         <sentence lang="es">Nuestra voz</sentence>
         <sentence lang="en">Our voice</sentence>
@@ -2096,7 +2107,7 @@ ashi	[=ashi][PrnPoss][+1PL]
 añane	[a-][NPers][1PL.poss+][--][=nya+n.m.+inal@ntsi.+poss@ne.][NRoot][=word (ES: palabra), language][--][-ne][Gen][+aln.poss.]ne
 </morphology>
     </text>
-    <text id="0">
+    <text id="EOS2">
         <sentence lang="prq">Apinka yareeta antamimashiki</sentence>
         <sentence lang="es">Los incas llegan a la selva</sentence>
         <morphology>
@@ -2109,6 +2120,21 @@ yareeta	[y-][VPers][3m.S+][--][=aree][VRoot][=to.arrive (ES: llegar)][--][-t][+E
 antamimashiki	[=antami][NRoot][=dense.tropical.forest][--][-mashi][+CL:vast.space.with.vegetation][=vast.space.with.vegetation;wide,flat.space][--][-ki][Cas][+LOC_LOC.T]
 
 .	.[$.]
+
+</morphology>
+        <parsing/>
+    </text>
+    <text id="EOS3">
+        <sentence lang="prq">ithaawakaakari antari maranke</sentence>
+        <sentence lang="en">The big serpent that scared him</sentence>
+        <morphology>
+
+
+ithaawakaakari	[i-][VPers][3m.S/A+][--][=tsaav][VRoot][=to.fear. to.be.afraid (ES: tener.miedo)][--][-aka][+CAUS.SOC]aka[--][-ak][ASP][+PRF]ak[--][-a][+REAL.RFL]a[--][=ri][NS][+REL]
+
+antari	[=antari+m.][AdjRoot][=big; mature]
+
+maranke	[=maranke+m.][NRoot][=snake.sp., serpent]
 
 </morphology>
         <parsing/>
