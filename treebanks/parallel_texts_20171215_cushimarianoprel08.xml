@@ -2036,6 +2036,12 @@ tsinane	[=tsinane+n.m.][NRoot][=female, woman; young.girl]
         <morphology/>
         <parsing/>
     </text>
+    <text id="134">
+        <sentence lang="prq">Noñaake iitsoki shempiri ijeki ocheraki nija.</sentence>
+        <sentence lang="es">Encontré huevos de taricaya en la orilla del río.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
