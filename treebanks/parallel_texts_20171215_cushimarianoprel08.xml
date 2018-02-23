@@ -1936,6 +1936,12 @@ raabakaaka	[r-][VPers][3m.S/A+][--][=aavak][VRoot][=to.receive; to.get.married (
         <morphology/>
         <parsing/>
     </text>
+    <text id="123.1">
+        <sentence lang="prq">Petyaari pikamanteri pireenti ipokatye jataantaneri.</sentence>
+        <sentence lang="es">Ve a avisar a tu hermano que viene el doctor.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
