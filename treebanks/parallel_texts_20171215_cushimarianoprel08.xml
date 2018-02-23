@@ -2048,6 +2048,12 @@ tsinane	[=tsinane+n.m.][NRoot][=female, woman; young.girl]
         <morphology/>
         <parsing/>
     </text>
+    <text id="136.1">
+        <sentence lang="prq">Imooshi jeto rashitiro omonaki inchato tainchari.</sentence>
+        <sentence lang="es">La tela de araña tapa el hueco del árbol quemado.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
