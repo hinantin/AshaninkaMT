@@ -1948,6 +1948,12 @@ raabakaaka	[r-][VPers][3m.S/A+][--][=aavak][VRoot][=to.receive; to.get.married (
         <morphology/>
         <parsing/>
     </text>
+    <text id="124">
+        <sentence lang="prq">Etakantabori robetsikiro nampitsi iritake charine.</sentence>
+        <sentence lang="es">El fundador de la ciudad fue mi abuelo.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
