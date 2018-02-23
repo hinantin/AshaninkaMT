@@ -2104,8 +2104,14 @@ tsinane	[=tsinane+n.m.][NRoot][=female, woman; young.girl]
     </text>
     <text id="143.1">
         <!-- Iroba inchato piñaakerira pamakira onati. -->
-        <sentence lang="prq">Iroka inchato piñaakerira pamakira onati.</sentence>
+        <sentence lang="prq">Ironta inchato piñaakerira pamakira onati.</sentence>
         <sentence lang="es">Ese árbol que ves es chimicua.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="143.2">
+        <sentence lang="prq"/>
+        <sentence lang="es"/>
         <morphology/>
         <parsing/>
     </text>
