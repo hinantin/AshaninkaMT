@@ -2187,6 +2187,12 @@ tsinane	[=tsinane+n.m.][NRoot][=female, woman; young.girl]
         <morphology/>
         <parsing/>
     </text>
+    <text id="154">
+        <sentence lang="prq">Nana iyatsi ayi iraari abintantyaabori opatsabo choeni.</sentence>
+        <sentence lang="es">Mi mamá fue a traer sangre de grado para curar la herida de mi hermana.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
