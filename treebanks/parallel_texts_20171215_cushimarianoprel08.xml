@@ -1981,7 +1981,13 @@ raabakaaka	[r-][VPers][3m.S/A+][--][=aavak][VRoot][=to.receive; to.get.married (
     <text id="129">
         <sentence lang="prq">Raabintatyabo Ashoshi ribenkite ikomintsantantyari.</sentence>
         <sentence lang="es">Ashoshi se cura con piripiri para ser cazador.</sentence>
-        <morphology/>
+        <morphology>
+
+
+ashoshi	[=ashoshi][NRoot][=NP]
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="675">
