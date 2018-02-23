@@ -1979,13 +1979,21 @@ raabakaaka	[r-][VPers][3m.S/A+][--][=aavak][VRoot][=to.receive; to.get.married (
         <parsing/>
     </text>
     <text id="129">
-        <sentence lang="prq">Raabintatyabo Ashoshi ribenkite ikomintsantantyari.</sentence>
+        <!-- Raabintatyabo Ashoshi ribenkite ikomintsantantyari. -->
+        <sentence lang="prq">Raabintatyabo Ashoshi ribenkite ikomintsatantyari.</sentence>
         <sentence lang="es">Ashoshi se cura con piripiri para ser cazador.</sentence>
         <morphology>
 
 
+raabintatyabo	[r-][VPers][3m.S/A+][--][=aavint][VRoot][=to.cure (ES: curar)][--][-a][+REP][=again.and.again]a[--][-t][+EP]t[--][-ya][+REAL]ya[--][=vo][+3n.m.O]
+
 ashoshi	[=ashoshi][NRoot][=NP]
 
+ribenkite	[r-][NPers][3m.poss+][--][=ivenki+n.m.][NRoot][=magic.plant.of_a_male, his.magic.plant (ES: piripiri, sci.nm.: cyperus.piripiri)][--][-i^te][DEGR][+AUG]te
+
+ikomintsatantyari	[i-][VPers][3m.S/A+][--][=komintsa][VRoot][=to.hunt (ES: cazar)][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to]ant[--][-eya][+IRR.RFL]eya[--][=ri][NS][+REL]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
@@ -2031,6 +2039,8 @@ apinka	[=apinka][NRoot][=Inca.person/people]
 yareeta	[y-][VPers][3m.S+][--][=aree][VRoot][=to.arrive (ES: llegar)][--][-t][+EP]t[--][-a][+REAL]a
 
 antamimashiki	[=antami][NRoot][=dense.tropical.forest][--][-mashi][+CL:vast.space.with.vegetation][=vast.space.with.vegetation;wide,flat.space][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
