@@ -2007,7 +2007,15 @@ ikomintsatantyari	[i-][VPers][3m.S/A+][--][=komintsa][VRoot][=to.hunt (ES: cazar
     <text id="131">
         <sentence lang="prq">Jantsaro oishi iroka tsinane.</sentence>
         <sentence lang="es">Esta mujer tiene cabello largo.</sentence>
-        <morphology/>
+        <sentence lang="en">This woman has long hair.</sentence>
+        <morphology>
+
+
+jantsaro	[=hantsa][NRoot][=long (in.length; ES: largo)]+vbz.[--][-ro+n.m.][NS][+ADJ.NMZ]ro
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="675">
