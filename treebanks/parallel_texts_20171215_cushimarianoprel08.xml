@@ -1930,6 +1930,12 @@ raabakaaka	[r-][VPers][3m.S/A+][--][=aavak][VRoot][=to.receive; to.get.married (
         <morphology/>
         <parsing/>
     </text>
+    <text id="122">
+        <sentence lang="prq">Nonkotsibetaka kaniri iro kantaencha kijotake tema eshiraatake.</sentence>
+        <sentence lang="es">Había cocinado yuca, pero está dura porque es caulla.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
