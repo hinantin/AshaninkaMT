@@ -2242,6 +2242,12 @@ ishinto	[i-][NPers][3m.poss+][--][=shinto+n.m.+inal@tsi.][NRoot][=daughter (kin.
 </morphology>
         <parsing/>
     </text>
+    <text id="160">
+        <sentence lang="prq">Iyotaka eentsipaye jaekanaentsiri pankotsiki.</sentence>
+        <sentence lang="es">Solamente se quedaron niños en la casa.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
