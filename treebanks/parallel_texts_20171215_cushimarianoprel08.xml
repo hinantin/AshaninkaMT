@@ -2435,6 +2435,18 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="188">
+        <sentence lang="prq">Choeni ojebankiro paamari omorekantyaari.</sentence>
+        <sentence lang="es">Mi hermana abanica la candela para que arda.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="189">
+        <sentence lang="prq">—¿Pikemakena Niotya nokantakemiri? —Jee, nokemakemi pabaeni.</sentence>
+        <sentence lang="es">—Niotya, ¿escuchaste lo que te dije? —Sí tío, te escuché.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
