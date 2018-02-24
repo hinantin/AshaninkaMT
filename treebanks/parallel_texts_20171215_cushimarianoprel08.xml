@@ -2266,6 +2266,12 @@ ishinto	[i-][NPers][3m.poss+][--][=shinto+n.m.+inal@tsi.][NRoot][=daughter (kin.
         <morphology/>
         <parsing/>
     </text>
+    <text id="163.2">
+        <sentence lang="prq">Pamakenabo perato jaanari noyiitantyaamiri iyaaki shonkiri.</sentence>
+        <sentence lang="es">Traeme el plato hondo para servirte caldo de paujil.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
