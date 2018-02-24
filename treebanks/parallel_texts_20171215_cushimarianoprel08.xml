@@ -2226,7 +2226,18 @@ tsinane	[=tsinane+n.m.][NRoot][=female, woman; young.girl]
     <text id="159">
         <sentence lang="prq">Riyote yeye okaemakantiro ishinto.</sentence>
         <sentence lang="es">La suegra de mi hermano manda llamar a su hija.</sentence>
-        <morphology/>
+        <morphology>
+
+
+riyote	[r-][NPers][3m.poss+][--][=iyo+n.m.+poss@te.][NRoot][=mother.in.lar (kin.of.a.male; suegra)][--][-te][Gen][+aln.poss.]te
+
+yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
+
+okaemakantiro	[o-][VPers][3n.m.S/A+][--][=kaem][VRoot][=to.scream, to.call.sb. (to.inform.of.sth.)][--][-ak][+CAUS.SOC]ak[--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-t][+EP]t[--][-i][+REAL]i[--][=ro][+3n.m.O]
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="675">
