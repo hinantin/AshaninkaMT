@@ -2339,6 +2339,12 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="173">
+        <sentence lang="prq">Iro robanabo shima jampobatsa.</sentence>
+        <sentence lang="es">El barro es el alimento del pez boquichico.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
