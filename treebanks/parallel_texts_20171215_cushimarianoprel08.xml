@@ -2387,6 +2387,30 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="181">
+        <sentence lang="prq">Robapiintiro tsipana jankori imooki.</sentence>
+        <sentence lang="es">La curuhuinsi acarrea las hojas a su nido.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="182">
+        <sentence lang="prq">Janta tonkaareki inampitabo maeni.</sentence>
+        <sentence lang="es">Allá en el cerro vive el oso.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="183.1">
+        <sentence lang="prq">Nijaacheraki eniki ari oshekitiri jantari.</sentence>
+        <sentence lang="es">En la orilla del río abundan los árboles maderables.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="183.2">
+        <sentence lang="prq">Itobi notyomi jantari rantantyaari ibito.</sentence>
+        <sentence lang="es">Mi hijo tumba el cedro para hacer su canoa.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
