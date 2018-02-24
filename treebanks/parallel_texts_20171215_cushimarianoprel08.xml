@@ -2549,6 +2549,12 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="205.2">
+        <sentence lang="prq">Pinkeme, okaematimi piniro obaantsiki.</sentence>
+        <sentence lang="es">Escucha, tu madre te llama desde la chacra.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
