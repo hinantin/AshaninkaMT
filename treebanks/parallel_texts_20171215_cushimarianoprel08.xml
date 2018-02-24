@@ -2376,6 +2376,7 @@ antamimashiki	[=antami][NRoot][=dense.tropical.forest][--][-mashi][+CL:vast.spac
     <text id="EOS3">
         <sentence lang="prq">jominthaawakeri kashekari</sentence>
         <sentence lang="en">the jaguar frightened him</sentence>
+        <!-- lit.: the jaguar mede him scared -->
         <!-- e.g.: the jaguar was pusuing him or jumped at him -->
         <morphology/>
         <parsing/>
