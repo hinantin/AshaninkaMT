@@ -2263,7 +2263,15 @@ ishinto	[i-][NPers][3m.poss+][--][=shinto+n.m.+inal@tsi.][NRoot][=daughter (kin.
     <text id="163.1">
         <sentence lang="prq">Robiinkakero charine jabiri jaanaareki obeni.</sentence>
         <sentence lang="es">El abuelo botó el machete en el río profundo.</sentence>
-        <morphology/>
+        <morphology>
+
+
+jabiri	[=haviri][NRoot][=machete (ES: machete)]
+
+jaanaareki	[=haanaare][NRoot][=deep (ES: profundo); the.bottom (ES: lo.hondo)][--][-ki][Cas][+LOC_LOC.T]
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="163.2">
