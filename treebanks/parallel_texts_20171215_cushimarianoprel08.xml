@@ -2477,6 +2477,18 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="195">
+        <sentence lang="prq">Ikentabakotakeri jeto yeye rakoki iñaatsabeta.</sentence>
+        <sentence lang="es">La araña le picó a mi hermano en la mano mientras jugaba.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="196">
+        <sentence lang="prq">Kaakitaki oime Tyempoya riyaati rantabaeti jantari. </sentence>
+        <sentence lang="es">El esposo de Tyempoña ya regresa de trabajar la madera.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
