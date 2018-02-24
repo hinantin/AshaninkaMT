@@ -2489,6 +2489,24 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="197">
+        <sentence lang="prq">Iina Chamiri iyaati areetabo iñiiro.</sentence>
+        <sentence lang="es">La esposa de Chamiri fue a visitar a su mamá.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="198">
+        <sentence lang="prq">Okachoneentakeri konki jiriimaki ikentsiki.</sentence>
+        <sentence lang="es">El ácido del limón hizo atragantar a mi suegro.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="199">
+        <sentence lang="prq">Ikentakiri apa jiriti imampaabeta otebaki inchato.</sentence>
+        <sentence lang="es">Mi papá tiró al pájaro madrugador mientras cantaba en la rama del árbol.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
