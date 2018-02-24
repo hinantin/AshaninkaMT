@@ -2363,6 +2363,30 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="177">
+        <sentence lang="prq">Nokantiri notyomi: Pijankenatero pantabaere rookanakemiri obametantatsiri.</sentence>
+        <sentence lang="es">Le dije a mi hjo: “Escribe tu trabajo que te dejó el profesor”.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="178">
+        <sentence lang="PRQ">Otimatye ayometaeri eentsipaye ijankenate ijankenabaerentitantyaari.</sentence>
+        <sentence lang="ES">Tenemos que enseñar a los niños a escribir para que sean escritores.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="179">
+        <sentence lang="prq">Ijaekantabo jankiro inchatoki, añiiri aririka ompare inkani.</sentence>
+        <sentence lang="es">El caracol que vive en los árboles solo se los ve cuando llueve.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="180">
+        <sentence lang="prq">Janko okemeneenta pitsi opochaanikiti.</sentence>
+        <sentence lang="es">La caña de azúcar se parece a la miel.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
