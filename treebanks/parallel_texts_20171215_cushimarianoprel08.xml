@@ -2327,6 +2327,12 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="171">
+        <sentence lang="prq">Obashireenkataka jamomo imampabeata otebaki inchato.</sentence>
+        <sentence lang="es">La torcaza canta tristemente sobre la rama del árbol.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
