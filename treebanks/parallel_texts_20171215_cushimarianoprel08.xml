@@ -2771,9 +2771,15 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
-    <text id="235">
-        <sentence lang="prq"/>
-        <sentence lang="es"/>
+    <text id="237.2">
+        <sentence lang="prq">Iika kayetsi tekatsi robakaeyabo iina.</sentence>
+        <sentence lang="es">Este afasi no tiene nada que darle de comer a su mujer.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="238">
+        <sentence lang="prq">Okantana nana: Pinkebero pako aririka poya obanabontsi.</sentence>
+        <sentence lang="es">Mi mamá me dice: “Lávate las manos antes de comer”.</sentence>
         <morphology/>
         <parsing/>
     </text>
