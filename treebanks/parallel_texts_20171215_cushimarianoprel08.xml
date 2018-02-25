@@ -2933,6 +2933,24 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="263.1">
+        <sentence lang="prq">Ityaakitakeri yeye kipatsi irokiki itsipamintsare iñaatsabaetantari.</sentence>
+        <sentence lang="es">Mi hermano echó tierra en el ojo de su amigo mientras jugaba.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="263.2">
+        <sentence lang="prq">Ijeekaeyeni kipatsiki maboeni añiinkari.</sentence>
+        <sentence lang="es">En la Tierra viven todos los seres vivos.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="263.3">
+        <sentence lang="prq">Kipatsitakemi, piyaate pinkaaboshitya.</sentence>
+        <sentence lang="es">Estás sucio; vete a bañar.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
