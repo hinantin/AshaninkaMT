@@ -2927,6 +2927,12 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="262">
+        <sentence lang="prq">Ikimoshiretati yeye raaki osheki shima.</sentence>
+        <sentence lang="es">Mi hermano está contento por haber pescado muchos peces.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
