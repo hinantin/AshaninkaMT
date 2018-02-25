@@ -2759,6 +2759,12 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="236">
+        <sentence lang="prq">Katsobatake pipanko pobetsike otsipa.</sentence>
+        <sentence lang="es">Tu casa tiene goteras; construye otra.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="235">
         <sentence lang="prq"/>
         <sentence lang="es"/>
