@@ -2735,6 +2735,12 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="232">
+        <sentence lang="prq">Ijaantakoti konki katsikori robantyaabori iyaniri.</sentence>
+        <sentence lang="es">Mi suegro saca hormigas comestibles de la tierra para comerlas con su yuca.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
