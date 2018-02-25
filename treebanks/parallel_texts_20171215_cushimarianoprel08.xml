@@ -2879,6 +2879,12 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="254">
+        <sentence lang="prq">Ikentake apa kentsori ocheempeki.</sentence>
+        <sentence lang="es">Mi papá picó una perdiz en el cerro.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
