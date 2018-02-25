@@ -2886,8 +2886,20 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <parsing/>
     </text>
     <text id="255">
+        <sentence lang="prq">Robatiyakero yeye kepaye rantantyaari ipanko.</sentence>
+        <sentence lang="es">Mi hermano plantó un horcón para construir su casa.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="256">
         <sentence lang="prq">Ikanti sheripiari: Kepishiri sheri.</sentence>
         <sentence lang="es">El Curandero dice: “El tabaco es amargo”</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="257">
+        <sentence lang="prq">Ichekake Pishaba kepiyashi ipashikantyaabori ipanko.</sentence>
+        <sentence lang="es">Pishaba cortó bombonaje para tapar el techo de su casa.</sentence>
         <morphology/>
         <parsing/>
     </text>
