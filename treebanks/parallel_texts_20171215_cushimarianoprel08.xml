@@ -2723,6 +2723,12 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="230">
+        <sentence lang="prq">Ikiakeri kashiri Aroshi rootake kaari rootaperotantaari.</sentence>
+        <sentence lang="es">La luna cargó a Aroshi, por eso ya no alumbra bien.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
