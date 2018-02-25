@@ -2801,6 +2801,12 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="242">
+        <sentence lang="prq">Ikaaboshita kemari tsimiki.</sentence>
+        <sentence lang="es">La sachavaca se baña en la colpa.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
