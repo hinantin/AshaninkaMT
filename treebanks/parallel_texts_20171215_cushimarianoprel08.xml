@@ -2754,6 +2754,12 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <parsing/>
     </text>
     <text id="235">
+        <sentence lang="prq">Raanakero katsitori robanabo imooshiki.</sentence>
+        <sentence lang="es">La hormiga llevó su comida a su nido.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="235">
         <sentence lang="prq"/>
         <sentence lang="es"/>
         <morphology/>
