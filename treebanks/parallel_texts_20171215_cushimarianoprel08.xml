@@ -2693,6 +2693,12 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="225">
+        <sentence lang="prq">Pincheke kapiro nakijeekakotantyari jetari.</sentence>
+        <sentence lang="es">Corta paca para cocinar la carachama.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
