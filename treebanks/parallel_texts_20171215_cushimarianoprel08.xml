@@ -2609,6 +2609,12 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="212">
+        <sentence lang="prq">Ikantakeri Tajorentsi kamari: Eero pantakaeri kaariperori atiri.</sentence>
+        <sentence lang="es">Jesús le dijo a Satanás: “No hagas cosas malas con la gente”.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
