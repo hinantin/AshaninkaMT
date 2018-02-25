@@ -2765,6 +2765,12 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="237.1">
+        <sentence lang="prq">Aashitakari choeni shirampari kayetsi.</sentence>
+        <sentence lang="es">Mi hermana se casó con un hombre afasi.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="235">
         <sentence lang="prq"/>
         <sentence lang="es"/>
