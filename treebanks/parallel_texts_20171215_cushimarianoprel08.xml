@@ -3197,6 +3197,18 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="303">
+        <sentence lang="prq">Robakabo koshiri chochoki tonkariki.</sentence>
+        <sentence lang="es">El mono blanco come huayos en la altura del cerro.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="304">
+        <sentence lang="prq">Ikoshitake tsirarato amperi isheeni.</sentence>
+        <sentence lang="es">El pájaro shicapa robó el algodón de mi abuela.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
