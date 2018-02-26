@@ -3569,6 +3569,18 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="363">
+        <sentence lang="prq">Riyati apa ichekakoti meronki antamiki.</sentence>
+        <sentence lang="es">Mi papá va al monte a traer chimicua.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="364">
+        <sentence lang="prq"/>
+        <sentence lang="es"/>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
