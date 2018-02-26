@@ -3605,6 +3605,18 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="369">
+        <sentence lang="prq">Raanakero charine imire ikenabaetantakari antamiki.</sentence>
+        <sentence lang="es">Mi abuelo llevó su líquido para la sed cuando fue a cazar en el bosque.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="370">
+        <sentence lang="prq">Omishitakeri tsinane oshirontane ratsobootiro.</sentence>
+        <sentence lang="es">La mujer soñó que su enamorado la besó.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
