@@ -3251,6 +3251,24 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="312">
+        <sentence lang="prq">Rayi konki maaniri roetantyaariri itomi ikamankaati.</sentence>
+        <sentence lang="es">Mi suegro trae canela negra para preparar un remedio para su hijo que está vomitando.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="313">
+        <sentence lang="prq">Noñaakeri maanki rankobiitiri onkiro.</sentence>
+        <sentence lang="es">Vi a la culebra enroscando al ratón.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="314">
+        <sentence lang="prq">Itsatakero Kamañaari imaantare eero ikentantariri maño.</sentence>
+        <sentence lang="es">Kamañari amarró su mosquitero para que no lo piquen los zancudos.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
