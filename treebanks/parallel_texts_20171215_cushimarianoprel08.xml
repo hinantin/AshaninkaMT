@@ -3407,6 +3407,18 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="337">
+        <sentence lang="prq">Ranti mankareto imoshi otebaki inchatoshiki.</sentence>
+        <sentence lang="es">La araña teje su tela en las ramas de los arbustos.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="338">
+        <sentence lang="prq">Imanonkakeri tijo Shantyoma iñaakeri oshitobake irira.</sentence>
+        <sentence lang="es">El gallinazo bañado de sangre hizo mal agüero a Shantyoma.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
