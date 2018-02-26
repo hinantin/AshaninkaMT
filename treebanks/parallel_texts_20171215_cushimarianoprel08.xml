@@ -3383,6 +3383,12 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="333">
+        <sentence lang="prq">Itsonkatakeri notyomi mampiritsi ibatsaki.</sentence>
+        <sentence lang="es">Mi hijo está lleno de isangos en todo el cuerpo.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
