@@ -3450,8 +3450,8 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <parsing/>
     </text>
     <text id="344">
-        <sentence lang="prq"/>
-        <sentence lang="es"/>
+        <sentence lang="prq">Imaabaeti Toropeeti mapipookiki itsariantyariri otiyaarentsi.</sentence>
+        <sentence lang="es">Toropetzi duerme en el cascajal para echar red al mijano.</sentence>
         <morphology/>
         <parsing/>
     </text>
