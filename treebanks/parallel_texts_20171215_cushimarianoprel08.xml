@@ -3576,8 +3576,8 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <parsing/>
     </text>
     <text id="364">
-        <sentence lang="prq"/>
-        <sentence lang="es"/>
+        <sentence lang="prq">Aririka omakaatake meshinto kametsarini ayero atsima.</sentence>
+        <sentence lang="es">Cuando la capirona está seca es buena para hacer leña.</sentence>
         <morphology/>
         <parsing/>
     </text>
