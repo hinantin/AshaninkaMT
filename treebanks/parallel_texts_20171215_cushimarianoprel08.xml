@@ -3347,6 +3347,12 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="328">
+        <sentence lang="prq">Ijekaki makota otamentotsiki royeri shikiri robantyari.</sentence>
+        <sentence lang="es">La makota vive donde hay luz esperando a las moscas para comer.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
