@@ -3179,9 +3179,15 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
-    <text id="301">
-        <sentence lang="prq">Ipakeri ibaatrote koriki rantabaibentari.</sentence>
-        <sentence lang="es">Su patrón le dio dinero por su trabajo.</sentence>
+    <text id="301.1">
+        <sentence lang="prq">Ijeeki korinto omooki otishi.</sentence>
+        <sentence lang="es">El elefante vive en la cueva de la montaña.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="301.2">
+        <sentence lang="prq">Roeminkiakeri korinto apani atiri antirori iina.</sentence>
+        <sentence lang="es">El teniente gobernador metió al calabozo al hombre que pegaba a su mujer.</sentence>
         <morphology/>
         <parsing/>
     </text>
