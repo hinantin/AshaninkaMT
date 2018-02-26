@@ -3455,6 +3455,18 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="345">
+        <sentence lang="prq">Imampa mapiti tonkaareki riyotiro kitaejeri.</sentence>
+        <sentence lang="es">El pájaro del cerro canta anunciando el amanecer.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="346">
+        <sentence lang="prq">Irakake mapocha obaneki choeni.</sentence>
+        <sentence lang="es">La papaya se maduró en la chacra de mi hermana.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
