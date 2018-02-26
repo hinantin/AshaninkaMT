@@ -3131,6 +3131,42 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="293">
+        <sentence lang="prq">Raake apa osheki kompiroshi ibetsikantyari apanko.</sentence>
+        <sentence lang="es">Mi papá sacó muchas yarinas para construir nuestra casa.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="294">
+        <sentence lang="prq">kompitaka ñaantsi ipakenari obametantatsiri.</sentence>
+        <sentence lang="es">La palabra que me dio el profesor es difícil.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="295">
+        <sentence lang="prq">Itobakaakenabo konki meshiyanto.</sentence>
+        <sentence lang="es">Mi suegro me hizo tumbar el árbol de capirona.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="296">
+        <sentence lang="prq">Ranashita konoya ineetsikiroeni ramini shitobi.</sentence>
+        <sentence lang="es">El motelo camina despacio buscando callampas.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="297">
+        <sentence lang="prq">Robabo kontsabo pamaki.</sentence>
+        <sentence lang="es">La perdiz mediana come la chimicua.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="298">
+        <sentence lang="prq">Nopakotakeri kooko piarentsi pochaari.</sentence>
+        <sentence lang="es">A mi suegro le di masato dulce.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
