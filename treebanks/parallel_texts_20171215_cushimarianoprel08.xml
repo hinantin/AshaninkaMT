@@ -3365,6 +3365,18 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="331.1">
+        <sentence lang="prq">Ijankenaeyakeni mampaantsi iirianipaye.</sentence>
+        <sentence lang="es">Los niños escribieron una canción.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="331.2">
+        <sentence lang="prq">Imampaakabo irianipaye mampaantsi ojarentsiteki yotaantsinpanko.</sentence>
+        <sentence lang="es">Los niños cantaron una canción en el aniversario de la escuela.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
