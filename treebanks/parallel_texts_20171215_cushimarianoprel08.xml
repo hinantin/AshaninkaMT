@@ -3426,6 +3426,30 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <parsing/>
     </text>
     <text id="340">
+        <sentence lang="prq">Mantsiyatake yeye omatakeri katsirentsi.</sentence>
+        <sentence lang="es">Mi hermano se enfermó con paludismo.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="341">
+        <sentence lang="prq">Omatakeri pabachori mantsiyarentsi kamaantsi.</sentence>
+        <sentence lang="es">A mi tío lo atacó la enfermedad de la gripe.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="342">
+        <sentence lang="prq">Maperotaka nana omantsiyare te ariajeniti.</sentence>
+        <sentence lang="es">Mi mamá está grave, parece que no se va a mejorar.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="343">
+        <sentence lang="prq">Rontibatakabo Napo mapi oshetakiriaakeri ishetaki.</sentence>
+        <sentence lang="es">Napo se tropezó con la piedra hasta sacarse la uña.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="344">
         <sentence lang="prq"/>
         <sentence lang="es"/>
         <morphology/>
