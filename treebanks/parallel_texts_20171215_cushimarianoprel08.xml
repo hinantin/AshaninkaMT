@@ -3209,6 +3209,18 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="305">
+        <sentence lang="prq">Ijeeki koshoshiko omotyaaki antaboki nijaa.</sentence>
+        <sentence lang="es">El bufeo vive en la poza del río grande.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="306">
+        <sentence lang="prq">Ipakeri apa kotsiraaniki riyompari ikobantari tiri.</sentence>
+        <sentence lang="es">Mi papá dio un cuchillo a su amigo a cambio de brea.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
