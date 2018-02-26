@@ -3065,6 +3065,12 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="283">
+        <sentence lang="prq">Ijaeki kobana nijaaki robabo onkochapaaki.</sentence>
+        <sentence lang="es">La lisa vive en el agua comiendo frutos de cetico.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
