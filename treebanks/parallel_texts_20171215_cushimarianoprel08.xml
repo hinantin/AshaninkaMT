@@ -3563,6 +3563,12 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="362">
+        <sentence lang="prq">Rakachaatake nani osheki mereto nijaateniki.</sentence>
+        <sentence lang="es">Mi cuñado pescó con anzuelo muchas mojarras en la quebrada.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
