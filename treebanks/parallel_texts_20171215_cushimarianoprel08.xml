@@ -4068,6 +4068,18 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="441">
+        <sentence lang="prq">Robantabo rampate oshero.</sentence>
+        <sentence lang="es">El cangrejo come con la pinza izquierda.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="442">
+        <sentence lang="prq">Osheki rantyabaeshiti osheto.</sentence>
+        <sentence lang="es">El maquisapa es muy travieso.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
