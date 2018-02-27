@@ -4152,6 +4152,36 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="455">
+        <sentence lang="prq">Ipakeri apa yeeye otsipa ichenko.</sentence>
+        <sentence lang="es">Mi papá le dio otro pantalón a mi hermano.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="456">
+        <sentence lang="prq">Iritake otsiti itsipamintsare atiri.</sentence>
+        <sentence lang="es">El perro es el amigo fiel del hombre.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="457">
+        <sentence lang="prq">Otyaankakeri nana yeye obantsiki raye tsistsi.</sentence>
+        <sentence lang="es">Mi mamá mandó a mi hermano a la chacra a traer leña.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="458.1">
+        <sentence lang="prq">Oyiitakero isheni obaniri pojare.</sentence>
+        <sentence lang="es">Mi abuela baja su yuca cocinada.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="458.2">
+        <sentence lang="prq">Ayitapaki aakomentotsiki obametantatsiri.</sentence>
+        <sentence lang="es">El profesor se bajó de la avioneta.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
