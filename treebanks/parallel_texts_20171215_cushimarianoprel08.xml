@@ -4552,6 +4552,36 @@ joo	[=hoo+s.redup.word][IdeoPRQ][=sound.made.by.a.hualo.frog.when.calling.the.ra
         <morphology/>
         <parsing/>
     </text>
+    <text id="515">
+        <sentence lang="prq">Opiyiro isheni aabintabontsi.</sentence>
+        <sentence lang="es">Los remedios le dan náuseas a mi abuela.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="516">
+        <sentence lang="prq">Pochari tibana ari irakakerika.</sentence>
+        <sentence lang="es">La piña es dulce cuando está madura.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="517">
+        <sentence lang="prq">Aririka otampatikatapake ari nopochokiti osheki.</sentence>
+        <sentence lang="es">Al llegar el mediodía tengo mucho sueño.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="518">
+        <sentence lang="prq">Pochokitake konki te imaye tsireniriki iyaati ishimata.</sentence>
+        <sentence lang="es">Mi suegro tiene mucho sueño porque anoche fue a pescar.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="519">
+        <sentence lang="prq">Poematanake mampaamentotsi ipankoki Kocheri.</sentence>
+        <sentence lang="es">El radio sonó en la casa de Kocheri.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
