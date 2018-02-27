@@ -4852,6 +4852,103 @@ joo	[=hoo+s.redup.word][IdeoPRQ][=sound.made.by.a.hualo.frog.when.calling.the.ra
         <morphology/>
         <parsing/>
     </text>
+    <text id="562">
+        <sentence lang="prq">Raati Kompiyoki shina ipimanteri.</sentence>
+        <sentence lang="es">Kompiyoshi saca lopuna para vender.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="563">
+        <sentence lang="prq">Ibakabo tyaapa shinki.</sentence>
+        <sentence lang="es">La gallina se comió el maíz.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="564">
+        <sentence lang="prq">Irika shirampari shinkirenti iro inkame aakeri itashe.</sentence>
+        <sentence lang="es">Este hombre borracho ya se muere de hambre.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="565">
+        <sentence lang="prq">Pishiyakaeri pitomi, ataerikari shinkiririti.</sentence>
+        <sentence lang="es">Haz correr a tu hijo; cuidado que lo agarre el remolino.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="566">
+        <sentence lang="prq">Ramaatakoti ayompari ishintipaareki riyatantyari aatariki obeni. </sentence>
+        <sentence lang="es">Los amigos bajan en la balsa hasta la boca del río Unini.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="567">
+        <sentence lang="prq">Noñaabetakari shintori ikaabeata tsimiki.</sentence>
+        <sentence lang="es">Había visto a la huangana bañándose en la colpa.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="568">
+        <sentence lang="prq">Ishinto niyompari aake oime.</sentence>
+        <sentence lang="es">La hija de mi amigo se casó.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="569">
+        <sentence lang="prq">Ishintsaerikakeri obametantatsiri irianikipaye.</sentence>
+        <sentence lang="es">El profesor puso en fila a los niños.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="570.1">
+        <sentence lang="prq">Ashitakantabori antami shiramparijaniki shintsiri ini.</sentence>
+        <sentence lang="es">El dueño del bosque es un hombrecito fuerte.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="570.2">
+        <sentence lang="prq">Pimpabakena shintsiri nokobati nirabake namampaatyeri.</sentence>
+        <sentence lang="es">Dame tu bebida (lit. tu fuerte); quiero tomar para cantar.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="571">
+        <sentence lang="prq">Ontimatye oya otimantyari ashintsinka.</sentence>
+        <sentence lang="es">Tenemos que comer para tener fuerza.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="572">
+        <sentence lang="prq">Shipetare atiri eero raabiro rataetero otishi.</sentence>
+        <sentence lang="es">La persona débil no puede subir al cerro.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="573">
+        <!-- Shipetatantsi kkari ñaatsabaerontsi ari obamaake. -->
+        <sentence lang="prq">Shipetatantsi kari ñaatsabaerontsi ari obamaake.</sentence>
+        <sentence lang="es">La debilidad no es una broma; nos puede causar la muerte.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="574">
+        <sentence lang="prq">Ishiyakaakabo shirampari tsinane.</sentence>
+        <sentence lang="es">El hombre hizo escapar a la mujer.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="575.1">
+        <sentence lang="prq">Ramaero sheripiari ishire mantsiyare iro rantsiinkantanakari.</sentence>
+        <sentence lang="es">El curandero hizo volver al espíritu del enfermo, por eso estornudó.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="575.2">
+        <sentence lang="prq">Añaabakajea shiretsiki.</sentence>
+        <sentence lang="es">Nos veremos en el futuro próximo.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
