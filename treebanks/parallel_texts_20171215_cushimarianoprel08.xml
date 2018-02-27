@@ -4997,6 +4997,78 @@ joo	[=hoo+s.redup.word][IdeoPRQ][=sound.made.by.a.hualo.frog.when.calling.the.ra
         <morphology/>
         <parsing/>
     </text>
+    <text id="582.2">
+        <sentence lang="prq">Shitobaje pinkatsari jebatirori nampitsi.</sentence>
+        <sentence lang="es">El jefe de la comunidad salió del cargo.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="583">
+        <sentence lang="prq">Iro robanabo konoya shitobi.</sentence>
+        <sentence lang="es">El alimento del motelo es la callampa.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="584">
+        <sentence lang="prq">Ikiyakoti ani ishitsa rakachatantyari nijateniki.</sentence>
+        <sentence lang="es">Mi cuñado saca lombrices para ir a pescar en la quebrada.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="585">
+        <sentence lang="prq">Osheki oshitsapaereki inchatopaye aakobentirori.</sentence>
+        <sentence lang="es">El árbol tiene muchas raíces que lo sostienen.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="586.1">
+        <sentence lang="prq">Ishiyaeyeni soraro kiteejeriki.</sentence>
+        <sentence lang="es">Los soldados corren todos los días.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="586.2">
+        <sentence lang="prq">Ishiyakakabo ebankari ishirontane.</sentence>
+        <sentence lang="es">El joven hizo escapar a su enamorada.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="587">
+        <sentence lang="prq">Raminiro pabachori shiyakaantsipaye.</sentence>
+        <sentence lang="es">Mi tío mira las fotos.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="588.1">
+        <sentence lang="prq">Osheki shiyakomentotsi antaboki nampitsiki.</sentence>
+        <sentence lang="es">Hay muchos carros en las ciudades grandes.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="588.2">
+        <sentence lang="prq">Ramanantake obaeyirori iñaane Paba ishiyakomento iyaatantyari Tampoki. </sentence>
+        <sentence lang="es">El pastor compró un bote a motor para viajar en el río Tambo.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="589">
+        <sentence lang="prq">Iyotiro konki rantiro shobirentsi.</sentence>
+        <sentence lang="es">Mi suegro es experto en hacer quenas.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="590">
+        <sentence lang="prq">Ijeeki shompoti inkaareki.</sentence>
+        <sentence lang="es">El bujurqui vive en la cocha.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="591">
+        <sentence lang="prq">Motake shonkiri tonkareki.</sentence>
+        <sentence lang="es">La perdiz cantó en la loma.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
