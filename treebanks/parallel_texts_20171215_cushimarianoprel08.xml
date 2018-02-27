@@ -3894,6 +3894,24 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="414">
+        <sentence lang="prq">¿Oitaka obakemiri petakobaetantari?</sentence>
+        <sentence lang="es">¿Qué te pasa? ¿Por qué estás sufriendo?</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="415">
+        <sentence lang="prq">Ojaabiki ijeekaeyeni konoya robabo shitobipaye.</sentence>
+        <sentence lang="es">Las tortugas están abajo comiendo callampas.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="416">
+        <sentence lang="prq">Opiriati ojarentsiki nijapaye.</sentence>
+        <sentence lang="es">En el verano las quebradas se secan.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
