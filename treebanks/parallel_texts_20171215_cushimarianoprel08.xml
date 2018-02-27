@@ -4327,6 +4327,48 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="483">
+        <sentence lang="prq">Iroka pashikabontsi obakerari ojaabati kametsa.</sentence>
+        <sentence lang="es">Esta colcha nueva calienta muy bien.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="484">
+        <sentence lang="prq">Robanabo pashiti iraantsi.</sentence>
+        <sentence lang="es">La garrapata se alimenta de sangre.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="485">
+        <sentence lang="prq">Robakabo tsobero patintoki ochempeki.</sentence>
+        <sentence lang="es">El maquisapa comió zapote en el cerro.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="486">
+        <sentence lang="prq">Otimi osheki ipatsabo iitoki eentsi.</sentence>
+        <sentence lang="es">El niño tiene muchas heridas en la cabeza.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="487">
+        <sentence lang="prq">Iyati nanaeni inkaareki ayi patsiri oyaari.</sentence>
+        <sentence lang="es">Mi tía se va a la cocha a juntar ranas para comer.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="488">
+        <sentence lang="prq">Natantakaari payanti batsatsi.</sentence>
+        <sentence lang="es">Comí el plátano con la carne.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="489">
+        <sentence lang="prq">Naati payantipeshi nopankiteri nobaneki. </sentence>
+        <sentence lang="es">Estoy sacando el machiki del plátano para sembrarlo en mi chacra.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
