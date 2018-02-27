@@ -4242,6 +4242,30 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="469">
+        <sentence lang="prq">Ichekakotake pabachori pamaki iraka tonkareki.</sentence>
+        <sentence lang="es">En el cerro, mi tío cortó una chimicua que tenía frutos maduros.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="470">
+        <sentence lang="prq">Makaatake pampiamentotsi jeekatsiri Kemariariki.</sentence>
+        <sentence lang="es">El puente de la quebrada Kemariari está por caerse.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="471">
+        <sentence lang="prq">Iroka ebankabo pankibaerento te omakoneti antabaeti.</sentence>
+        <sentence lang="es">Esta joven sembradora no se cansa de trabajar.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="472">
+        <sentence lang="prq">Iroka otaki pankirentsi kametsari ashi shibaerontsi.</sentence>
+        <sentence lang="es">La corteza de esta planta es buena para la diarrea.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
