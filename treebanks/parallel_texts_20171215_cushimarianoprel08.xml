@@ -3912,6 +3912,18 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="417">
+        <sentence lang="prq">Iñampoeretakeri Shebankori maniti okaakini ipankoki.</sentence>
+        <sentence lang="es">Shewankori vio la huella del tigre cerca de su casa.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="418">
+        <sentence lang="prq">Ookakiro choeni kaarashi nijaki.</sentence>
+        <sentence lang="es">Mi hermana bota la basura al río.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
