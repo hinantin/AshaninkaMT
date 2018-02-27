@@ -3942,6 +3942,30 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="422">
+        <sentence lang="prq">Kiake etini omoonaki inchato.</sentence>
+        <sentence lang="es">La carachupa entró al hueco del palo.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="423">
+        <sentence lang="prq">Antabo omoti Shakiñi itimatye entsite.</sentence>
+        <sentence lang="es">La barriga de Shakiñi es grande, ya va a dar a luz.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="424">
+        <sentence lang="prq">Omotyaki nija ari ikemaetiri ramampae tyaapa.</sentence>
+        <sentence lang="es">En la poza escuchan cantar al gallo.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="425">
+        <sentence lang="prq">Onampinaki pankotsi ojeeki shibitsa.</sentence>
+        <sentence lang="es">La soga está al costado de la casa.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
