@@ -3972,6 +3972,18 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="427">
+        <sentence lang="prq">Osheki oneeki onkona.</sentence>
+        <sentence lang="es">El cetico tiene muchos gusanos.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="428">
+        <sentence lang="prq">Oontsotakero iñeeni paamari akishitantyaari kaniri.</sentence>
+        <sentence lang="es">Mi tía atizó la candela para asar la yuca.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
