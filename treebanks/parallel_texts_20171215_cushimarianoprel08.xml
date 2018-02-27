@@ -4044,6 +4044,24 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="437">
+        <sentence lang="prq">Roretiri apa ijamanite kanirimashiki.</sentence>
+        <sentence lang="es">Mi papá da comedero al majás en el yucal.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="438">
+        <sentence lang="prq">Itaakero opooki eentsi oria.</sentence>
+        <sentence lang="es">A la niña la quemó el sol en la cara.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="439">
+        <sentence lang="prq">Oshekitatsi machaaki obantsiki.</sentence>
+        <sentence lang="es">Aún hay muchos frejoles en la chacra.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
