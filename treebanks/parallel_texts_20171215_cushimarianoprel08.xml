@@ -4273,6 +4273,48 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="474">
+        <sentence lang="prq">Antabo ipante charaba.</sentence>
+        <sentence lang="es">La boca del súngaro es grande.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="475">
+        <sentence lang="prq">Amaatake pantyo inkaareki.</sentence>
+        <sentence lang="es">El pato nada en la cocha.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="476">
+        <sentence lang="prq">Noñakeri parari robari shiketi.</sentence>
+        <sentence lang="es">Vi al lobo marino comiendo carachamas.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="477">
+        <sentence lang="prq">Robabo pareto ishinkine Koriobiri.</sentence>
+        <sentence lang="es">El pareto come el maíz de Koriowiri.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="478">
+        <sentence lang="prq">Opariaki nana jenoki opankoki.</sentence>
+        <sentence lang="es">Mi mamá se cayó desde lo alto de su casa al suelo.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="479">
+        <sentence lang="prq">Okantana nana: Pashi iroka kitsarentsi.</sentence>
+        <sentence lang="es">Mi mamá me dice: “La ropa es tuya”.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="480">
+        <sentence lang="prq">Pashibentaka ebankari tema rantibatakaro mapi.</sentence>
+        <sentence lang="es">El joven tuvo vergüenza porque se tropezó con la piedra.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
