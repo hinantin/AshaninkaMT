@@ -4780,6 +4780,48 @@ joo	[=hoo+s.redup.word][IdeoPRQ][=sound.made.by.a.hualo.frog.when.calling.the.ra
         <morphology/>
         <parsing/>
     </text>
+    <text id="551">
+        <sentence lang="prq">Irika atiri sheteri te ramene kametsa aririka raniti.</sentence>
+        <sentence lang="es">Este hombre tuerto no mira bien por donde camina.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="552">
+        <sentence lang="prq">Itobakotake konki sheyaki antamiki.</sentence>
+        <sentence lang="es">Mi suegro tumbó ungurahui en el monte.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="553">
+        <sentence lang="prq">Ishibaitatya eentsi robajempiakabo iraka.</sentence>
+        <sentence lang="es">Al niño le dio diarrea cuando comió el maduro.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="554">
+        <sentence lang="prq">Shookake chokiyo ishibanki irotaintsi irare.</sentence>
+        <sentence lang="es">Ya crecieron las plumas del pihuicho; está listo para volar.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="555">
+        <sentence lang="prq">Ikentakeri jani ishibiki koshiri.</sentence>
+        <sentence lang="es">La avispa picó al mono en el pene.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="556">
+        <sentence lang="prq">Shitobanake osheki shiketi ikonataentakabori ocheba.</sentence>
+        <sentence lang="es">Muchas carachamas pequeñas salieron cuando echaro barbasco en el defluente.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="557">
+        <sentence lang="prq">Pocake osheki shikiri ikemaenkatiri tashankantsi shima</sentence>
+        <sentence lang="es">Muchas moscas vienen porque huelen el pescado seco.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
