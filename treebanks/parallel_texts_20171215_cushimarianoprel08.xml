@@ -4961,6 +4961,24 @@ joo	[=hoo+s.redup.word][IdeoPRQ][=sound.made.by.a.hualo.frog.when.calling.the.ra
         <morphology/>
         <parsing/>
     </text>
+    <text id="577">
+        <sentence lang="prq">Oshirinkaare nija obakero noshintipaare kipatsiki.</sentence>
+        <sentence lang="es">La merma del río varó mi balsa.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="578">
+        <sentence lang="prq">Oshirontaka tsinane osheki oshinkitantari.</sentence>
+        <sentence lang="es">La mujer se rió demasiado cuando se emborrachó.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="579">
+        <sentence lang="prq">Mariapake charine shitamentotsiki makotake.</sentence>
+        <sentence lang="es">El abuelo se echó en la tarima para descansar.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
