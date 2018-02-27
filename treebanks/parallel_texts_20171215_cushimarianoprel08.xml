@@ -3815,6 +3815,18 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="401">
+        <sentence lang="prq">Ijeki obae omoki impetaki.</sentence>
+        <sentence lang="es">El gallo de roca vive en el hueco de la roca.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="402">
+        <sentence lang="prq">Otimatye obametaeri atomipaye rantabaete ero iperatantari.</sentence>
+        <sentence lang="es">Tenemos que enseñar a nuestros hijos a trabajar para que no sean ociosos.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
