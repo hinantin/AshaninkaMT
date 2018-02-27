@@ -4582,6 +4582,48 @@ joo	[=hoo+s.redup.word][IdeoPRQ][=sound.made.by.a.hualo.frog.when.calling.the.ra
         <morphology/>
         <parsing/>
     </text>
+    <text id="520">
+        <sentence lang="prq">Ompojakeri Kepityoki Ashisho.</sentence>
+        <sentence lang="es">Kepityoki golpeó a Ashisho.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="521">
+        <sentence lang="prq">Opokake toto intakeronta nijaateni aretabo nana.</sentence>
+        <sentence lang="es">Mi hermana viene del otro lado de la quebrada a visitar a mi mamá.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="522">
+        <sentence lang="prq">Raakero apa inaki pomporo ityootantyari.</sentence>
+        <sentence lang="es">Mi papá sacó el caparazón del caracol para su bocina.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="523">
+        <sentence lang="prq">Ponatake ipori nani raatikaitakeri iñaatsabaebeta.</sentence>
+        <sentence lang="es">Las piernas de mi cuñado están renegridas porque lo patearon en el juego.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="524">
+        <sentence lang="prq">Nokantiri atiri aretapaenchari: ¿Pipoñari eeroka?.</sentence>
+        <sentence lang="es">Le dije a la persona que llegó: “¿Cuál es tu lugar de origen?”</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="525">
+        <sentence lang="prq">Ikentake Tyobiri robashiroki poobonto.</sentence>
+        <sentence lang="es">Tyobiri picó una panguana desde su maspute.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="526">
+        <sentence lang="prq">Raati nani poonkito iponkatyari itomi piyatsari.</sentence>
+        <sentence lang="es">Mi cuñado fue a traer ishanga para disciplinar a su hijo desobediente.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
