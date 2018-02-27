@@ -4486,7 +4486,25 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
     <text id="507">
         <sentence lang="prq">Ikaemiro pirinto inkani ikanti: Joo joo joo...</sentence>
         <sentence lang="es">El hualo llama a la lluvia diciendo: “Joo, joo. joo...”.</sentence>
-        <morphology/>
+        <morphology>
+
+
+ikaemiro	[i-][VPers][3m.S/A+][--][=kaem][VRoot][=to.scream, to.call.sb. (to.inform.of.sth.)][--][-i][+REAL]i[--][=ro][+3n.m.O]
+
+pirinto	[=pirinto+m.][NRoot][=lake.frog, toad (ES: sp.de.sapo, hualo; sci.nm.: leptodactylus.knudseni); mountain.frog]
+
+inkani	[=inkani+n.m.][NRoot][=rain (ES: lluvia)]
+
+ikanti	[i-][VPers][3m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be; to.be.able][--][-i][+REAL]i
+
+joo	[=hoo+s.redup.word][IdeoPRQ][=sound.made.by.a.hualo.frog.when.calling.the.rain]
+
+joo	[=hoo+s.redup.word][IdeoPRQ][=sound.made.by.a.hualo.frog.when.calling.the.rain]
+
+joo	[=hoo+s.redup.word][IdeoPRQ][=sound.made.by.a.hualo.frog.when.calling.the.rain]
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="508">
