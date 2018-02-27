@@ -4020,6 +4020,30 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="433">
+        <sentence lang="prq">Oshekini opane aroshi aririka atoonkiro.</sentence>
+        <sentence lang="es">El arroz tiene mucho polvo cuando se pila.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="434">
+        <sentence lang="prq">Enitatsi osheki oparetsa komo.</sentence>
+        <sentence lang="es">El barbasco aún tiene muchas raíces.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="435">
+        <sentence lang="prq">Imampaabaeta opempe etakota tonkaareki.</sentence>
+        <sentence lang="es">El tucán canta en el cerro cuando está triste.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="436">
+        <sentence lang="prq">Paamabentya pikiikari opiyaataki omitsitsiyimikari.</sentence>
+        <sentence lang="es">Cuidado cuando entres en el remolino; te puedes hundir.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
