@@ -4218,6 +4218,30 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="465">
+        <sentence lang="prq">Itotati pajo Chabari rirantyari ibiare</sentence>
+        <sentence lang="es">Chabari corta pate para tomar masato.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="466">
+        <sentence lang="prq">Okantanake isheeni: Paajonki Paba.</sentence>
+        <sentence lang="es">La abuela dijo: “Gracias, Dios”.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="467">
+        <sentence lang="prq">Robabo shabo pajotiki tonkariki</sentence>
+        <sentence lang="es">El añuje come almendras en el cerro.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="468">
+        <sentence lang="prq">Raanakeri pakitsa otyaapanikite nishintyo.</sentence>
+        <sentence lang="es">El gavilán llevó al pollito de mi hija.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
