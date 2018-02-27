@@ -4624,6 +4624,18 @@ joo	[=hoo+s.redup.word][IdeoPRQ][=sound.made.by.a.hualo.frog.when.calling.the.ra
         <morphology/>
         <parsing/>
     </text>
+    <text id="527">
+        <sentence lang="prq">Kiake porenti nopankoki.</sentence>
+        <sentence lang="es">La luciérnaga entró a mi casa.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="528">
+        <sentence lang="prq">Shitobake ojompo oporiki eentsi.</sentence>
+        <sentence lang="es">A la niña le salió pus de la pierna.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
