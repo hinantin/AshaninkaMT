@@ -4459,6 +4459,54 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="504">
+        <sentence lang="prq">Ikaemakantakae pinkatsari ampatotya.</sentence>
+        <sentence lang="es">La autoridad nos mandó llamar para una reunión.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="505">
+        <sentence lang="prq">Piñaabakena, nabijabaketa.</sentence>
+        <sentence lang="es">Con su permiso, voy a pasar.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="506.1">
+        <sentence lang="prq">Pimpiriintajeri pirenti ipariantakabo ishinkiro.</sentence>
+        <sentence lang="es">Levanta a tu hermano; se cayó de borracho.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="506.2">
+        <sentence lang="prq">Kamabetaka charine iro kantaenchari piriintaja.</sentence>
+        <sentence lang="es">Mi abuelo había fallecido, sin embargo resucitó luego.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="507">
+        <sentence lang="prq">Ikaemiro pirinto inkani ikanti: Joo joo joo...</sentence>
+        <sentence lang="es">El hualo llama a la lluvia diciendo: “Joo, joo. joo...”.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="508">
+        <sentence lang="prq">Pishimentotsi aririka obakerate opishiti kametsa.</sentence>
+        <sentence lang="es">La escoba, cuando es nueva, barre bien.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="509">
+        <sentence lang="prq">Robakabo pishiti mapocha obantsiki.</sentence>
+        <sentence lang="es">La pinsha comió papaya en la chacra.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="510">
+        <sentence lang="prq">Robabo tsipanashi pitiro.</sentence>
+        <sentence lang="es">El grillo come hojas de bijao.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
