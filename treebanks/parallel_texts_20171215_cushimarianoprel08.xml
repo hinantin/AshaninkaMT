@@ -3659,6 +3659,24 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="377">
+        <sentence lang="prq">Ikantanake pinkatsari: Pomonkeri koshinti tyaapapankoki.</sentence>
+        <sentence lang="es">El jefe dijo: “Mete al ladrón en el gallinero”.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="378">
+        <sentence lang="prq">Imontyaakero maniro nijaateni.</sentence>
+        <sentence lang="es">El venado vadeó el río.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="379">
+        <sentence lang="prq">Morekake paamari ominkiake isheni osheki tsitsi.</sentence>
+        <sentence lang="es">La candela arde bien porque la abuela metió mucha leña.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
