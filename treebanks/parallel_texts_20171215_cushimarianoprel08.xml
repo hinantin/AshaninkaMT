@@ -4080,6 +4080,30 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="443">
+        <sentence lang="prq">Ramanantake obametantatsiri oshiyakaantsi roshiyakantantyariri robameri.</sentence>
+        <sentence lang="es">El profesor compró una cámara para tomar fotos a sus alumnos.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="444">
+        <sentence lang="prq">Ookiro choeni otaki kaniri nijaaki robantyaabori mamori.</sentence>
+        <sentence lang="es">Mi hermana bota las cáscaras en la quebrada para que las coman los sábalos.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="445">
+        <sentence lang="prq">Ikobeme inkie chompita otapinaki shitamenkotsiki, robabakari tyaapa.</sentence>
+        <sentence lang="es">La gallina se comió a la cucaracha cuando estaba entrando debajo de la tarima.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="446">
+        <sentence lang="prq">Oshoki Shariba osheki ishipatona itapinomaki.</sentence>
+        <sentence lang="es">A Shariba le crece mucha barba en la quijada.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
