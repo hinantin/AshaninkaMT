@@ -3695,6 +3695,54 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="383">
+        <sentence lang="prq">Iroñaaka namanatakera nairotsa jantsari, nonoshikatye komairipaye.</sentence>
+        <sentence lang="es">Ahora que compré nailon largo, jalaré pacos.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="384">
+        <sentence lang="prq">Namanantake nenkitsiki nantantyaari amarentsipaye.</sentence>
+        <sentence lang="es">Compré mullos para hacer brazaletes.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="385">
+        <sentence lang="prq">Ipatsaakaanti netsi aitoki eerorika ayitari intsipaite.</sentence>
+        <sentence lang="es">El piojo produce heridas en la cabeza cuando no lo sacamos rápido.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="386">
+        <sentence lang="prq">Pimpabakena nija nirabake, oshekini nomire.</sentence>
+        <sentence lang="es">Dame agua para tomar, tengo mucha sed.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="387">
+        <sentence lang="prq">Ikantakero ebankari tsinane: Nonintakemi osheki, tsame noinantemi.</sentence>
+        <sentence lang="es">El joven le dijo a la mujer: “Te amo; cásate conmigo”.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="388">
+        <sentence lang="prq">Impojakeri nironto eentsi ipankaki.</sentence>
+        <sentence lang="es">La ronsapa golpeó al niño en la frente.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="389">
+        <sentence lang="prq">Itsaakeri itonki shima iniyametoki charine.</sentence>
+        <sentence lang="es">El hueso de pescado se atoró en la garganta del abuelo.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="390">
+        <sentence lang="prq">Noñaakeri Shapopo niyanki obaantsiki.</sentence>
+        <sentence lang="es">Vi a Shapopo en medio de la chacra.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
