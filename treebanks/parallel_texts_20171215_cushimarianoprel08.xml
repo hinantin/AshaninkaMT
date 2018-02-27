@@ -4104,6 +4104,54 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="447">
+        <sentence lang="prq">Rotatsinkakeri nani apani atiri te iñaakota okantakantiro ishinkiro.</sentence>
+        <sentence lang="es">Mi cuñado empujó a una persona a causa de la borrachera.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="448">
+        <sentence lang="prq">Otebaki inchato iñatsaeyani koshiripaye.</sentence>
+        <sentence lang="es">Los monos juegan en las ramas del árbol.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="449">
+        <sentence lang="prq">Otetaka charine otenkanaki pojapaka iito.</sentence>
+        <sentence lang="es">Mi abuelito se metió en la zanja y se golpeó la cabeza.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="450">
+        <sentence lang="prq">Okanti nana: Pitetajero machaki kantiriki.</sentence>
+        <sentence lang="es">Mi mamá dice: “Mete el frijol en la canasta”.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="451">
+        <sentence lang="prq">Otitakotapaka charine ishintipare inchapookiki.</sentence>
+        <sentence lang="es">La balsa del abuelo se atravesó en la palizada.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="452">
+        <sentence lang="prq">Ijeeki charaba otsapiaki nija.</sentence>
+        <sentence lang="es">El súngaro está en la orilla del río.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="453">
+        <sentence lang="prq">Ikaimati yeye otsapiki obantsi.</sentence>
+        <sentence lang="es">Mi hermano está gritando al canto de la chacra.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="454">
+        <sentence lang="prq">Ratsikabetakari otsimapookiri iitiki otsiti.</sentence>
+        <sentence lang="es">El jergón casi mordió la pata del perro.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
