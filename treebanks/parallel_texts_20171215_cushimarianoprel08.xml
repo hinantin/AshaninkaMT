@@ -3996,6 +3996,24 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="431.1">
+        <sentence lang="prq">Roonkake apa tonkaareki irotaentsi rareetajea.</sentence>
+        <sentence lang="es">Papá puqueó en la loma; ya está por llegar.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="431.2">
+        <sentence lang="prq">Amaanitake enini, irojatsi oonkantanakari nijaatenipaye.</sentence>
+        <sentence lang="es">El río creció, por eso se represó la quebrada.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="431.3">
+        <sentence lang="prq">Oonkaka imoti eentsi osheki robaka.</sentence>
+        <sentence lang="es">La barriga del niño se hinchó por comer demasiado.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
