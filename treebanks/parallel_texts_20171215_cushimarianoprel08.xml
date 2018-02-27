@@ -3683,6 +3683,18 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="381">
+        <sentence lang="prq">Iroka kooya motinto anti omarentsi.</sentence>
+        <sentence lang="es">Esta mujer embarazada hace collares.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="382">
+        <sentence lang="prq">Moyaake onijaate iiñeeni obakotanakeri paamareki.</sentence>
+        <sentence lang="es">Hierve el agua que mi cuñada dejó en la candela.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
