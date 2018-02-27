@@ -4497,12 +4497,15 @@ inkani	[=inkani+n.m.][NRoot][=rain (ES: lluvia)]
 
 ikanti	[i-][VPers][3m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be; to.be.able][--][-i][+REAL]i
 
-joo	[=hoo+s.redup.word][IdeoPRQ][=sound.made.by.a.hualo.frog.when.calling.the.rain]
+:	:[$.]
 
 joo	[=hoo+s.redup.word][IdeoPRQ][=sound.made.by.a.hualo.frog.when.calling.the.rain]
 
 joo	[=hoo+s.redup.word][IdeoPRQ][=sound.made.by.a.hualo.frog.when.calling.the.rain]
 
+joo	[=hoo+s.redup.word][IdeoPRQ][=sound.made.by.a.hualo.frog.when.calling.the.rain]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
@@ -4522,6 +4525,30 @@ joo	[=hoo+s.redup.word][IdeoPRQ][=sound.made.by.a.hualo.frog.when.calling.the.ra
     <text id="510">
         <sentence lang="prq">Robabo tsipanashi pitiro.</sentence>
         <sentence lang="es">El grillo come hojas de bijao.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="511">
+        <sentence lang="prq">Iroka pitotsi ramanantakero apa amontyantyabori eniki.</sentence>
+        <sentence lang="es">Papá compró esta canoa para cruzar el río.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="512">
+        <sentence lang="prq">Nirake pitsi niyaatantakari antamiki.</sentence>
+        <sentence lang="es">Comí miel cuando fui al monte.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="513">
+        <sentence lang="prq">Pitsitake ichenko nani okantakaantiro iñaatsatabo jampobatsa.</sentence>
+        <sentence lang="es">El pantalón de mi cuñado está sucia porque estaba jugando en el barro.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="514">
+        <sentence lang="prq">Opitsitsayetiro isheni oitsare.</sentence>
+        <sentence lang="es">Mi abuela tiñe la cushma con barro negro.</sentence>
         <morphology/>
         <parsing/>
     </text>
