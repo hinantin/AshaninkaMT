@@ -4636,6 +4636,78 @@ joo	[=hoo+s.redup.word][IdeoPRQ][=sound.made.by.a.hualo.frog.when.calling.the.ra
         <morphology/>
         <parsing/>
     </text>
+    <text id="529">
+        <sentence lang="prq">Robaka Shamoko poshiniri batsatsi.</sentence>
+        <sentence lang="es">Shamoco comió carne sabrosa.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="530">
+        <sentence lang="prq">Iroka potsomentotsi irashi pirenti.</sentence>
+        <sentence lang="es">Este color es de tu hermano.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="531">
+        <sentence lang="prq">Ipotsotabo potsotsi charine eero itantari oria.</sentence>
+        <sentence lang="es">Mi papá se pinta la cara para que el sol no lo queme.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="532">
+        <sentence lang="prq">Oyaati isheni aaye potsoti opotsotyari opooki.</sentence>
+        <sentence lang="es">Mi abuelita fue a traer achiote para pintarse la cara.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="533">
+        <sentence lang="prq">Okantana nana: Pireboshitya chetakitakemi.</sentence>
+        <sentence lang="es">Mi mamá me dice: “Lávate la cara porque estas legañoso”.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="534">
+        <sentence lang="prq">Ireento Irishiria oyaati areetanta</sentence>
+        <sentence lang="es">La hermana de Irishiria se va de paseo.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="535">
+        <sentence lang="prq">Ritaki apitsatakiriri ina konki.</sentence>
+        <sentence lang="es">Él es el que le quitó la esposa a mi suegro.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="536">
+        <sentence lang="prq">Rootaki antakerori entyo oshinkitantakari.</sentence>
+        <sentence lang="es">Ella es quien la pegó a mi hermana cuando estaba ebria.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="537">
+        <sentence lang="prq">Osheki ikaemi shaa aririka iñee pokatsiri. </sentence>
+        <sentence lang="es">El piampía grita cuando ve que alguien se acerca.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="538">
+        <sentence lang="prq">Oshaake nana oshibitsate paato antantyaabori otsaato kantiri.</sentence>
+        <sentence lang="es">Mi mamá peló la corteza del palo de balsa para amarrar su canasta.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="539">
+        <sentence lang="prq">Ishabaetashita Koñoriki otsapiaki itsarobi ramate.</sentence>
+        <sentence lang="es">Koñori sólo camina en la orilla del río porque tiene miedo nadar.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="540">
+        <sentence lang="prq">Ikentake ani shabo kanirimashiki.</sentence>
+        <sentence lang="es">Mi cuñado picó un añuje en el yucal.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
