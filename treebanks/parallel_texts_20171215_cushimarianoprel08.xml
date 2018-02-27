@@ -3984,6 +3984,18 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology/>
         <parsing/>
     </text>
+    <text id="429">
+        <sentence lang="prq">Ontyiro ina kitsarentsi.</sentence>
+        <sentence lang="es">Mi mamá teje una cushma.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="430">
+        <sentence lang="prq">Roñaakakeri icharine inchashi maankibenki.</sentence>
+        <sentence lang="es">El abuelito mostró a su nieto la planta que es remedio para la mordedura de culebra.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
