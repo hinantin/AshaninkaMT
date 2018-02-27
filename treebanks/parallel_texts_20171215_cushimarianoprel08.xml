@@ -2261,7 +2261,8 @@ ishinto	[i-][NPers][3m.poss+][--][=shinto+n.m.+inal@tsi.][NRoot][=daughter (kin.
         <parsing/>
     </text>
     <text id="163.1">
-        <sentence lang="prq">Robiinkakero charine jabiri jaanaareki obeni.</sentence>
+        <!-- Robiinkakero charine jabiri jaanaareki obeni. -->
+        <sentence lang="prq">Robiintakero charine jabiri jaanaareki obeni.</sentence>
         <sentence lang="es">El abuelo botó el machete en el río profundo.</sentence>
         <morphology>
 
