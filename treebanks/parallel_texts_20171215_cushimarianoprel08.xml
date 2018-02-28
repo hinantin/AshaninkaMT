@@ -5069,6 +5069,60 @@ joo	[=hoo+s.redup.word][IdeoPRQ][=sound.made.by.a.hualo.frog.when.calling.the.ra
         <morphology/>
         <parsing/>
     </text>
+    <text id="592">
+        <sentence lang="prq">Ipatimatiri eentsi shonkoro ikentantyaariri. </sentence>
+        <sentence lang="es">Los niños persiguen lagartijas para picarlas.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="593">
+        <sentence lang="prq">Opankitake noshabo shoñaki obaantsiki obakerari.</sentence>
+        <sentence lang="es">Mi nieta sembró daledale en la chacra nueva.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="594">
+        <sentence lang="prq">Shookake ishinkine apa ipankitakeri obantsiki.</sentence>
+        <sentence lang="es">El maíz que mi papá sembró en la chacra está creciendo.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="595">
+        <sentence lang="prq">Itaakero ani robane tonkaareki.</sentence>
+        <sentence lang="es">Mi cuñado quemó la chacra en la loma.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="596">
+        <sentence lang="prq">Itanjonkakero peyari komatire otantoki.</sentence>
+        <sentence lang="es">El díablo sopló a mi comadre en su cuarto.</sentence>s
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="597">
+        <sentence lang="prq">Otakiriati iñeni kaniri antantyari piarentsi.</sentence>
+        <sentence lang="es">Mi cuñada está pelando yuca para preparar masato.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="598">
+        <sentence lang="prq">Aririka otampiate osheki eero opare inkani.</sentence>
+        <sentence lang="es">Si hace mucho viento es porque no va a llover.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="599">
+        <sentence lang="prq">Tampootake charine ishinkitantari.</sentence>
+        <sentence lang="es">El abuelo tocó el tambor en la fiesta.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="600">
+        <sentence lang="prq">Itantoriaakero pabachori itanto.</sentence>
+        <sentence lang="es">Mi tío desarmó el cerco.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
