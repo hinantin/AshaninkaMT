@@ -5213,6 +5213,114 @@ joo	[=hoo+s.redup.word][IdeoPRQ][=sound.made.by.a.hualo.frog.when.calling.the.ra
         <morphology/>
         <parsing/>
     </text>
+    <text id="616">
+        <sentence lang="prq">Itinaeri ani charaba rotetantyaariri ibitoki.</sentence>
+        <sentence lang="es">Mi cuñado levanta el súngaro para meterlo en la canoa.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="617">
+        <sentence lang="prq">Antyashipabotaki notinabo.</sentence>
+        <sentence lang="es">Mi almohada está vieja.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="618">
+        <sentence lang="prq">Eero pamiro inchaki tipiro.</sentence>
+        <sentence lang="es">No traigas un palo torcido.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="619">
+        <sentence lang="prq">Itipiati pabachori kompiroshi rantantyari ipanko.</sentence>
+        <sentence lang="es">Mi tío está doblando hojas de yarina para el techo de su casa</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="620">
+        <sentence lang="prq">Raatsi Kobashito tiri robatsikantyabori ichakopite.</sentence>
+        <sentence lang="es">Raatsi konki tirokitsa raabintantyari itinkaabo itomi.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="621">
+        <sentence lang="prq">Raatsi konki tirokitsa raabintantyari itinkaabo itomi.</sentence>
+        <sentence lang="es">Mi suegro fue a traer renaco para curar la fractura de su hijo.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="622">
+        <sentence lang="prq">Robabo shintori tiroti.</sentence>
+        <sentence lang="es">La hunagana come huicungo.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="623">
+        <sentence lang="prq">Tiyaatanaja obametantatsiri eniki.</sentence>
+        <sentence lang="es">Los profesores surcan el río.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="624">
+        <sentence lang="prq">Okantiro ina choeni: Pookero itiya piyaariri.</sentence>
+        <sentence lang="es">Mi mamá le dice a mi hermana: “Bota el excemento de tu hermano”.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="625">
+        <sentence lang="prq">Itobakero yeye inchato.</sentence>
+        <sentence lang="es">Mi hermano tumbó el árbol.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="626">
+        <sentence lang="prq">Oshoki toniro inkaareki.</sentence>
+        <sentence lang="es">El aguaje crece en las cochas.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="627">
+        <sentence lang="prq">Itonkake Shoshokiri shabo rababeta kaniri obantsipooshiki.</sentence>
+        <sentence lang="es">Shoshokiri baleó un añuje que comía yuca en la purma.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="628">
+        <sentence lang="prq">Makotakena nanitiro tonkaare naantabori kepaye.</sentence>
+        <sentence lang="es">Me cansé subiendo la loma para traer palos para armar mi casa.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="629">
+        <sentence lang="prq">Imanatakeri yeye shonkiri tonkamentotsiki.</sentence>
+        <sentence lang="es">Mi hermano dirparó a la perdiz con la escopeta.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="630">
+        <sentence lang="prq">Atoonkatyeero shinki jonkoki antantyaari shinkia.</sentence>
+        <sentence lang="es">Tenemos que moler el maíz para hacer chicha.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="631">
+        <sentence lang="prq">Ipashikaatakeri yeye antari tooso oshinchaakiki.</sentence>
+        <sentence lang="es">Mi hermano tarrafeó un turushuqui grande en la correntada.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="632">
+        <sentence lang="prq">Itotanakeri itaki totiroki rantibatantanakari.</sentence>
+        <sentence lang="es">Se cortó con el caparazón de caracol cuando se tropezó.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="633">
+        <sentence lang="prq">Ijeeki inkaareki osheki totiroki rootake robanabo koteri.</sentence>
+        <sentence lang="es">En la cocha viven muchos caracoles y son el alimento de la unchala.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
