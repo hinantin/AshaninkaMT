@@ -5507,6 +5507,72 @@ joo	[=hoo+s.redup.word][IdeoPRQ][=sound.made.by.a.hualo.frog.when.calling.the.ra
         <morphology/>
         <parsing/>
     </text>
+    <text id="663">
+        <sentence lang="prq">Rapatota tsiyeri ranashitantyaari antamiki.</sentence>
+        <sentence lang="es">La huasa anda en grupos por el bosque.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="664">
+        <sentence lang="prq">Antabo ishetaki tsobo roteyantyaariri chompita.</sentence>
+        <sentence lang="es">La lechuza tiene garras largas para atrapar a las cucarachas.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="665">
+        <sentence lang="prq">Oyaati choeni otsoki kaniri tonkareki.</sentence>
+        <sentence lang="es">Mi hermana va a la loma a sacar yuca.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="666">
+        <sentence lang="prq">Raakero Abentyari okashi tsomanto raabintantyariri ipatsaabo itomi.</sentence>
+        <sentence lang="es">Aventyari sacó resina de cumala para curar la herida de su hijo.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="667">
+        <sentence lang="prq">Ikentabaeti tsompari ishimane otsapiaki nija.</sentence>
+        <sentence lang="es">La garza pesca peces en la orilla del río.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="668">
+        <sentence lang="prq">Otsonkakero tsinanepaye otakiriro kaniri.</sentence>
+        <sentence lang="es">Las mujeres terminaron de pelar la yuca.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="669">
+        <sentence lang="prq">Osheki iñaamatabo tsonkiri ratsotiro obocharite inchateyaki.</sentence>
+        <sentence lang="es">Al picaflor le encanta chupar el néctar de las flores.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="670">
+        <sentence lang="prq">Osheki noñaamatabo nobabo tsonkitiroki tema opochatati.</sentence>
+        <sentence lang="es">Me gusta mucho comer el moquichi porque es dulce.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="671">
+        <sentence lang="prq">Ayiro tsinanepaye tsoopirontsi okiantyariri otomipaye.</sentence>
+        <sentence lang="es">Las mujeres llevan la aparina para cargar a sus hijos.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="672">
+        <sentence lang="prq">Robakabo tsoori mapocha.</sentence>
+        <sentence lang="es">El paucar comió la papaya.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="673">
+        <sentence lang="prq">Itsopaakero Apeti iraiki te ramabetapajero iyatsinka.</sentence>
+        <sentence lang="es">Apeti sacó su muela porque ya no soportó el dolor.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
