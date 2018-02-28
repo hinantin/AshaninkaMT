@@ -5628,6 +5628,66 @@ mapi	[=mapi+n.m.+poss@ni:ne.][NRoot][=stone; rock]
         <morphology/>
         <parsing/>
     </text>
+    <text id="681">
+        <sentence lang="prq">Ikaemakantaetakeri obametantatsiri yempipabaerontsiki.</sentence>
+        <sentence lang="es">El profesor tiene una llamada por teléfono.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="682">
+        <sentence lang="prq">Antabo iyempita otsiti ikemantari intaena.</sentence>
+        <sentence lang="es">Las orejas del perro son grandes, por eso oye muy lejos.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="683">
+        <sentence lang="prq">Katsitake iyereto charine okantakaantiro ityerobi.</sentence>
+        <sentence lang="es">A mi abuelo le duele la cabeza por estar de rodillas.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="684">
+        <sentence lang="prq">Nokantakeri yeye: Pamitakotena nopankoki notsonkantyaabori intsipaite.</sentence>
+        <sentence lang="es">Le dije a mi hermano: “Ayúdame a termirar mi casa”.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="685">
+        <sentence lang="prq">Rayiro pinkatsare yomaarentsi riyomatantyabori jantari.</sentence>
+        <sentence lang="es">El jefe lleva la regla para medir la madera.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="686">
+        <sentence lang="prq">Osheki yoosara aririka ojarentsite</sentence>
+        <sentence lang="es">La mantablanca abunda en tiempo de verano.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="687.1">
+        <sentence lang="prq">Noyometaemi panteri aririka piyaatake jantariki.</sentence>
+        <sentence lang="es">Te voy a instruir qué hacer cuando vayas a sacar madera.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="687.2">
+        <sentence lang="prq">Otimatye piyote pijankenate pibaero.</sentence>
+        <sentence lang="es">Tienes que saber escribir tu nombre.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="687.3">
+        <sentence lang="prq">Otimatye piyotero inchashi aabintantatsiri pamitakotantyaariri mantsiyare.</sentence>
+        <sentence lang="es">Tienes que conocer las plantas curativas para ayudar a los enfermos.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="688">
+        <sentence lang="prq">Iyataeyeni irianipaye yotaantsinpankoki riyotantyaari.</sentence>
+        <sentence lang="es">Los alumnos se van a la escuela para aprender.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <!-- ***********************************************
 ****************************************************
 Examples from other sources 
