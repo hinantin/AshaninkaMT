@@ -5598,7 +5598,37 @@ mapi	[=mapi+n.m.+poss@ni:ne.][NRoot][=stone; rock]
 
 </morphology>
     </text>
-<!-- ***********************************************
+    <text id="676">
+        <sentence lang="prq">Ityaakero yeye antabo inchato.</sentence>
+        <sentence lang="es">Mi hermano tumbó el palo grueso.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="677">
+        <sentence lang="prq">Oitsokake tyaapa antamiki.</sentence>
+        <sentence lang="es">La gallina puso un huevo en el monte.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="678">
+        <sentence lang="prq">Tajakotake iitsoki tyaapa shitobanake tyaapaniki.</sentence>
+        <sentence lang="es">Los huevos se reventaron y salieron los pollitos.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="679">
+        <sentence lang="prq">Kiake tyaapapankoki maretyakintsi roba iitsoki.</sentence>
+        <sentence lang="es">La iguana entró en el gallinero para comer los huevos.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="680">
+        <sentence lang="prq">Oninti impanekiki kaniri tyonkiro.</sentence>
+        <sentence lang="es">La yuca “tyonkiro” crece en la arena.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <!-- ***********************************************
 ****************************************************
 Examples from other sources 
 ****************************************************
