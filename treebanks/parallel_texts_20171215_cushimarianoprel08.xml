@@ -5405,6 +5405,36 @@ joo	[=hoo+s.redup.word][IdeoPRQ][=sound.made.by.a.hualo.frog.when.calling.the.ra
         <morphology/>
         <parsing/>
     </text>
+    <text id="647">
+        <sentence lang="prq">Itsonkatakeri Tyobiri tsiito iboriki rantabaetantari robaneki.</sentence>
+        <sentence lang="es">Los mosquitos chuparon sangre de las piernas de Tyobiri mientras trabajaba en su chacra.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="648">
+        <sentence lang="prq">Pamakenabo tsikamentotsi nontsikaatabake piarentsi</sentence>
+        <sentence lang="es">Tráeme el colador para colar masato.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="649">
+        <sentence lang="prq">Raati yeye tsikontoche riraashiterori ishinkana.</sentence>
+        <sentence lang="es">Mi hermano trajo uña de gato para curarse los riñones.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="650">
+        <sentence lang="prq">Itsikotiro yeye kiri irakaentsiri.</sentence>
+        <sentence lang="es">Mi hermano coge el pijuayo que está maduro.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="651">
+        <sentence lang="prq">Omakoriati isheni inchatoki otsimankitye.</sentence>
+        <sentence lang="es">La abuela descansa en la sombra del árbol.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
