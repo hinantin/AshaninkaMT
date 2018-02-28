@@ -5321,6 +5321,54 @@ joo	[=hoo+s.redup.word][IdeoPRQ][=sound.made.by.a.hualo.frog.when.calling.the.ra
         <morphology/>
         <parsing/>
     </text>
+    <text id="634">
+        <sentence lang="prq">Aririka piñeri tsaampi inkie pipankoki raretatyea atiri.</sentence>
+        <sentence lang="es">Si ves entrar una mariposa a tu casa, tendrás una visita.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="635">
+        <sentence lang="prq">Itsaatakeri otsiti jamani obantsipooshiki.</sentence>
+        <sentence lang="es">El perro ladró al majás en la purma.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="636">
+        <sentence lang="prq">Rayiro sheripiare iyokane itsaatoki.</sentence>
+        <sentence lang="es">El chamán lleva su coca en su morral.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="637">
+        <sentence lang="prq">Itsamaetiro Mishari robane shookake inchashipaye.</sentence>
+        <sentence lang="es">Mishari cultiva su chacra porque ya creció la maleza.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="638">
+        <sentence lang="prq">Niyotabakeri iritake tsamiri okityonkati imentaina. </sentence>
+        <sentence lang="es">Al paujil lo reconocí por el color rojo de su cresta.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="639">
+        <sentence lang="prq">Otashitake ameeni tsanabo operiri charine.</sentence>
+        <sentence lang="es">Mi abuela asó pituca para mi abuelo.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="640">
+        <sentence lang="prq">Ineeki tsonkiri kemetaka tsanoerentsi iporeriaati.</sentence>
+        <sentence lang="es">El pecho del picaflor se parece a un collar porque brilla.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="641">
+        <sentence lang="prq">Tsataka koshiri otebaki inchato.</sentence>
+        <sentence lang="es">El mono se cuelga en la rama del árbol.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
