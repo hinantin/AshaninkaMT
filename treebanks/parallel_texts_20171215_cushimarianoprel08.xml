@@ -5123,6 +5123,60 @@ joo	[=hoo+s.redup.word][IdeoPRQ][=sound.made.by.a.hualo.frog.when.calling.the.ra
         <morphology/>
         <parsing/>
     </text>
+    <text id="601">
+        <sentence lang="prq">Ipoonkake nani kampona itantotantyaabori ityaapapankote.</sentence>
+        <sentence lang="es">Mi cuñado batió la pona para cercar el gallinero.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="603">
+        <sentence lang="prq">Pamakeri shima tashirentsi robabakia areetinkari.</sentence>
+        <sentence lang="es">Trae el pescado asado para invitar a comer al visitante.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="604">
+        <sentence lang="prq">Otashitakeri ina jetari ipajakaatakeri pabachori.</sentence>
+        <sentence lang="es">Mi mamá asó la carachama que mi papá pescó.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="605">
+        <sentence lang="prq">Ikantake entsi piyatsare: Tee niyaate naye tsitsi.</sentence>
+        <sentence lang="es">El niño ocioso dijo: “No fui a traer leña”.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="606">
+        <sentence lang="prq">Tekirata nontsonkero nante nobito.</sentence>
+        <sentence lang="es">Todavía no termino de hacer mi canoa.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="607">
+        <sentence lang="prq">Iraaka iriani iraakotabo iteni.</sentence>
+        <sentence lang="es">El niño llora por su teta.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="608">
+        <sentence lang="prq">Ijeeki iitsoki teparo intsomoeki impaneki.</sentence>
+        <sentence lang="es">Los huevos de la taricaya están dentro de la arena.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="609">
+        <sentence lang="prq">Ipankitake Koshanti tibana ibaneki.</sentence>
+        <sentence lang="es">Koshantzi sembró piñas en su chacra.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="610">
+        <sentence lang="prq">Atiri riyati rayi tibi ochempeki.</sentence>
+        <sentence lang="es">La gente va al cerro a traer sal de piedra.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
