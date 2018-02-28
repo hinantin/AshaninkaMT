@@ -5381,6 +5381,30 @@ joo	[=hoo+s.redup.word][IdeoPRQ][=sound.made.by.a.hualo.frog.when.calling.the.ra
         <morphology/>
         <parsing/>
     </text>
+    <text id="643">
+        <sentence lang="prq">Rantakeri eentsi tseeri irotake itseyantari.</sentence>
+        <sentence lang="es">El niño tocó al caracol y por eso es mentiroso.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="644">
+        <sentence lang="prq">Itseeyaka obametantatsiri Camaiteri ikantanakeri ashitaaniyetatsiri: Inkaamani nompiyaje.</sentence>
+        <sentence lang="es">El profesor Camaiteri mintió a los padres diciendo: “Mañana regreso”.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="645">
+        <sentence lang="prq">Otsibakakero tampia ootamentotsi.</sentence>
+        <sentence lang="es">El viento apagó el mechero.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="646">
+        <sentence lang="prq">Ikentakeri tsibeta nani ikaaboshibeta nijaaki.</sentence>
+        <sentence lang="es">A mi cuñado lo picó la raya mientras se bañaba en el río.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
