@@ -5369,9 +5369,15 @@ joo	[=hoo+s.redup.word][IdeoPRQ][=sound.made.by.a.hualo.frog.when.calling.the.ra
         <morphology/>
         <parsing/>
     </text>
-    <text id="642">
+    <text id="642.1">
         <sentence lang="prq">Tsataka koshiri otebaki inchato.</sentence>
         <sentence lang="es">El mono se cuelga en la rama del árbol.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="642.2">
+        <sentence lang="prq">Itsati otsiti tsireniriki, aririka iñayetiri abijatsiri.</sentence>
+        <sentence lang="es">El perro ladra en la noche cuando alguien pasa cerca.</sentence>
         <morphology/>
         <parsing/>
     </text>
