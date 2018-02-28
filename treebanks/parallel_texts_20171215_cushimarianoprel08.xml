@@ -523,6 +523,7 @@ nireri	[n-][VPers][1SG.S/A+][--][=ir][VRoot][=to.drink (ES: beber)][--][-e][+IRR
 
 ?	?[$.]
 </morphology>
+        <parsing/>
     </text>
     <text id="13">
         <!-- Itsatakiro ajopi koriari ikanjantantyaari. -->
@@ -784,7 +785,22 @@ pitotsi	[=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe (ES: canoa)][--][-tsi+alie
         <sentence lang="prq">Ontimatye ramaate maniro imontyantyaabori obeniki.</sentence>
         <sentence lang="es">El venado tiene que nadar para cruzar el río Unini.</sentence>
         <sentence lang="en">The deer has to swim in order to cross the Unini river.</sentence>
-        <morphology/>
+        <morphology>
+
+
+ontimatye	[o-][VPers][3n.m.S/A+][--][N=][IRR+][--][=tim][VRoot][=to.have; to.give.birth][--][-aty][ASP][+PROG]aty[--][-e][+REAL]e
+
+ramaate	[r-][VPers][3m.S/A+][--][=amaa][VRoot][=to.swim][--][-t][+EP]t[--][-e][+REAL]e
+
+maniro	[=maniro+m.][NRoot][=deer (ES: venado); red.deer (ES: venado.rojo; sci.nm.: mazama.americana); gray.deer (ES: venado.gris; sci.nm.: mazama.gouazoubira)]
+
+imontyantyaabori	[i-][VPers][3m.S/A+][--][=monty][VRoot][=to.cross.river (by.boat/canoe/a_bridge, ES: vadear)][--][-ant][Asp][+APPL.REAS][=in.order.to]ant[--][-yaa][+IRR]yaa[--][=vo][+3n.m.O][--][=ri][NS][+REL]
+
+obeniki	[=oveni][NRoot][=Unini.river (ES: río.Unini)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="25.2">
