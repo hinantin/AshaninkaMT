@@ -5471,6 +5471,42 @@ joo	[=hoo+s.redup.word][IdeoPRQ][=sound.made.by.a.hualo.frog.when.calling.the.ra
         <morphology/>
         <parsing/>
     </text>
+    <text id="657">
+        <sentence lang="prq">Ramanantake Yompiri tsirentsitonki raanajeniro iina.</sentence>
+        <sentence lang="es">Yompiri compró fideos para llevar a su mujer.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="658">
+        <sentence lang="prq">Ipayeetiri kayetsi tsirikana ikomintsatantyaari.</sentence>
+        <sentence lang="wa">Al afasi se le da ají para que sea cazador.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="659">
+        <sentence lang="prq">Iroka tsitsi piriaperotake iro omorekantari kametsa.</sentence>
+        <sentence lang="es">Esta leña esta muy seca, por eso arde demasiado.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="660">
+        <sentence lang="prq">Naake osheki tsitsiri nakachatantyari mamori.</sentence>
+        <sentence lang="es">Agarré muchos grillos para anzuelear sábalos.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="661">
+        <sentence lang="prq">Osheki robari tsiya chapitsi.</sentence>
+        <sentence lang="es">La chicua se alimenta de gusanos.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
+    <text id="662">
+        <sentence lang="prq">Robabo meyiri oitsoki tsiyaroki.</sentence>
+        <sentence lang="es">La ardilla come semillas de shapaja.</sentence>
+        <morphology/>
+        <parsing/>
+    </text>
     <text id="675">
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
