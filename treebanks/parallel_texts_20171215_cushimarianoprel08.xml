@@ -877,7 +877,16 @@ paba	[=pava+m.+poss@ni.][NRoot][=solar.deity, god (ES: dios), creator (PT: Deus.
         <sentence lang="en">Korioviri bought his black pants.</sentence>
         <morphology>
 
+
+ramanantake	[r-][VPers][3m.S/A+][--][=amanant][VRoot][=to.buy (ES: comprar)][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e
+
 korioviri	[=korioviri][NRoot][=person's.name]
+
+ichenko	[i-][NPers][3m.poss+][--][=chenko+n.m.+inal@tsi.][NRoot][=trousers, pants (ES: pantalón)]
+
+cheenkari	[=cheenkari+sem@color.][NRoot][=obscure; black (ES: negro)]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
