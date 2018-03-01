@@ -949,7 +949,22 @@ rapatotya	[r-][VPers][3m.S/A+][--][=apato][VRoot][=to.gather (ES: juntar), to.me
         <sentence lang="prq">Okantakena oriani: Nareetakitakabo ameeni.</sentence>
         <sentence lang="es">Una niña me dijo: “Fuí a visitar a mi abuela”.</sentence>
         <sentence lang="en">A small girl told me: "I went to visit my grandmother".</sentence>
-        <morphology/>
+        <morphology>
+
+
+okantakena	[o-][VPers][3n.m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be; to.be.able][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=na][+1SG.O]
+
+oriani	[=oriani+n.m.][AdjRoot][=small]
+
+:	:[$.]
+
+???
+
+ameeni	[=ameeni+n.m.+poss@ti.][NRoot][=grandmother (fem.ego); granddaughter (fem.ego)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="31">
