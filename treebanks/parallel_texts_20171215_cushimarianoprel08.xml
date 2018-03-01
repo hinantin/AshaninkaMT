@@ -1237,7 +1237,19 @@ shinkirenti	[=shinki][VRoot][=to.get.drunk; to.intoxicate][--][-re+m.][NS][+NMZ]
         <morphology>
 
 
+antabaerianti	[=ant][VRoot][=to.beat, to.hit; to.build, to.do, to.make][--][-a][+EP]a[--][-vae][ASP][+DUR]vae[--][-rianti+m.][NS][+ADJ.CAPABLE]rianti
+
+inati	[i-][VPers][3m.S/A+][--][=na][VRoot][=to.be][--][-t][+EP]t[--][-i][+IRR]i
+
 jankori	[=hankori][NRoot][=(reddish).ant.sp. (curuhuinsi, ES: coqui, sp.de.hormiga.(rojiza); sci.nm.: género.atta)]
+
+raantabori	[r-][VPers][3m.S/A+][--][=a][VRoot][=to.take (ES: agarrar)][--][-ant][+APPL.INST][=reason,instrumentality;in.order.to]ant[--][-a][+REAL]a[--][=vo][+3n.m.O][--][=ri][NS][+REL]
+
+itsipanashite	[i-][NPers][3m.poss+][--][=tsipana+n.m.][NRoot][=plant.sp. (ES: bijao); bijao.leaf (used.to.wrap.food)][--][-shi][+CL:L.S.T.F.F][=leaf;small,thin,flexible,flat;leafy.substance][--][-te][Gen][+aln.poss.]te
+
+inampiki	[i-][NPers][3m.poss+][--][=nampi+n.m.+inal@tsi.][NRoot][=village, place, country; settlement][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
@@ -1307,7 +1319,18 @@ tapetsa	[=tapetsa][NRoot][=vine.sp. (ES: tamshi, tamishi, támishi)]
     <text id="47">
         <sentence lang="prq">Ikantapaakeri konki itsipamintsare ibashiyari: ¿Añaatsimi ani?</sentence>
         <sentence lang="es">Mi suegro le dijo a su amigo en broma: “Cuñado, ¿aún estas vivo?”</sentence>
-        <morphology/>
+        <morphology>
+
+
+ikantapaakeri	[i-][VPers][3m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be; to.be.able][--][-apa+goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]apa[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+konki	[=konki+poss@ri:re.][NRoot][=father.in.law (kin.of.a.male; ES: suegro)]
+
+itsipamintsare	[i-][NPers][3m.poss+][--][=tsipamintsare][NRoot][=friend (ES: amigo)]
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="48.1">
