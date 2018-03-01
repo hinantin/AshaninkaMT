@@ -995,7 +995,18 @@ shitsibari	[=shitsivari][NRoot][=sth.rotten (ES: algo.que.está.podrido, carne.p
         <sentence lang="prq">Pamenero iroka shiyakaantsi.</sentence>
         <sentence lang="es">Mira esta foto.</sentence>
         <sentence lang="en">Look at this picture.</sentence>
-        <morphology/>
+        <morphology>
+
+
+pamenero	[p-][VPers][2S/A+][--][=amen][VRoot][=to.see, to.look, to.look.for, to.look.after, to.take.care.of][--][-e][+IRR]e[--][=ro][+3n.m.O]
+
+iroka	[=iroka+n.m.+proximal.b.][PrnDem][=this (ES: esta)]
+
+shiyakaantsi	[=shiyak][VRoot][=to.take.a.picture (ES: tomar.una.foto)][--][-aantsi][NS][+NMZ.INF]aantsi
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="33">
