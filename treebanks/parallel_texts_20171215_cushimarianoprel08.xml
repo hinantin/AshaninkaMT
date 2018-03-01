@@ -1194,7 +1194,20 @@ piarentsi	[=pyare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato)][--][-ntsi+a
         <sentence lang="prq">Anonkaka piarentsi jeekatsiri inchatonakiki.</sentence>
         <sentence lang="es">El masato que está en el cosho se rebalsó.</sentence>
         <sentence lang="en">The manioc-beer that is in the plant-based container, it overflowed.</sentence>
-        <morphology/>
+        <morphology>
+
+
+anonkaka	[=anonk][VRoot][=to.get.overflowed, to.overflow (ES: rebalsarse)][--][-ak][ASP][+PRF]ak[--][-a][+REAL]a
+
+piarentsi	[=pyare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato)][--][-ntsi+alien.][Gen][+nposs]ntsi
+
+jeekatsiri	[=heek][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir); to.be][--][-atsi][Asp][+STAT.IPRF]atsi[--][=ri][NS][+REL]
+
+inchatonakiki	[=incha][NRoot][=plant][--][-to][+CL:tree][=tree,trunk][--][-naki][+CL:round.hollow][=round,hollow;interior.space;vacuous,round][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="42">
