@@ -1081,7 +1081,20 @@ obaantsiki	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.lan
         <sentence lang="prq">Itotakero jataantaneri amporetsate isheeni.</sentence>
         <sentence lang="es">El doctor cortó el intestino de la abuela.</sentence>
         <sentence lang="en">The doctor cut grandmother's intestine.</sentence>
-        <morphology/>
+        <morphology>
+
+
+itotakero	[i-][VPers][3m.S/A+][--][=to][VRoot][=to.cut (ES: cortar)][--][-t][+EP]t[--][-ak][+CAUS.SOC]ak[--][-e][+REAL]e[--][=ro][+3n.m.O]
+
+???
+
+oamporetsate	[Ø-][NPers][3n.m.poss+][--][=amporetsa][NRoot][=intestine][--][-te][Gen][+aln.poss.]te
+
+isheeni	[=isheeni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="37">
