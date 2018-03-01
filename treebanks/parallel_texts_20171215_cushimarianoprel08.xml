@@ -971,7 +971,16 @@ ameeni	[=ameeni+n.m.+poss@ti.][NRoot][=grandmother (fem.ego); granddaughter (fem
         <sentence lang="prq">Noñakiri antamiki antari amempori robari shitsibari.</sentence>
         <sentence lang="es">En el monte vi a un buitre comiendo carne podrida.</sentence>
         <sentence lang="en">In the mountain I saw a vulture eating rotten meat.</sentence>
-        <morphology/>
+        <morphology>
+
+
+noñakiri	[no-][VPers][1SG.S/A+][--][=ny][VRoot][=to.see, to.look.for; to.visit][--][-ak][ASP][+PRF]ak[--][-i][+REAL]i[--][=ri][+3m.O]
+
+antamiki	[=antami][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.forest][--][-ki][Cas][+LOC_LOC.T]
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="32">
