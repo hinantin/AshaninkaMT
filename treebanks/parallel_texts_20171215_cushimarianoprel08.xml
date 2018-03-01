@@ -1010,10 +1010,24 @@ shiyakaantsi	[=shiyak][VRoot][=to.take.a.picture (ES: tomar.una.foto)][--][-aant
         <parsing/>
     </text>
     <text id="33">
-        <sentence lang="prq">Pamenarontya jempe pobatikerori pipanko.</sentence>
+        <!-- Pamenarontya jempe pobatikerori pipanko. -->
+        <sentence lang="prq">Pamenarotya jempe pobatikerori pipanko.</sentence>
         <sentence lang="es">Fija donde vas a ubicar tu casa.</sentence>
         <sentence lang="en">Establish where you are going to locate your house.</sentence>
-        <morphology/>
+        <morphology>
+
+
+pamenarotya	[p-][VPers][2S/A+][--][=amen][VRoot][=to.see, to.look, to.look.for, to.look.after, to.take.care.of][--][-a][+REAL]a[--][=ro][+3n.m.O][--][=tya][+N.C.FOC][=urgency, impatience, surprise, exasperation (non-contradictory.emphasis); almost (with.time.adverbs)]
+
+jempe	[=hempe][IndfSpecif][=where]
+
+pobatikerori	[p-][VPers][2S/A+][--][ov=][AGT.CAUS+][--][=katik][VRoot][=to.hang (ES: ahorcar)][--][-e][+IRR]e[--][=ro][+3n.m.O][--][=ri][NS][+REL]
+
+pipanko	[pi-][NPers][2poss+][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="34">
