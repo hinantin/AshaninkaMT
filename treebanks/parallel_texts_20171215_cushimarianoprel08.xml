@@ -878,7 +878,7 @@ paba	[=pava+m.+poss@ni.][NRoot][=solar.deity, god (ES: dios), creator (PT: Deus.
         <morphology>
 
 
-ramanantake	[r-][VPers][3m.S/A+][--][=amanant][VRoot][=to.buy (ES: comprar)][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e
+ramanantake	[r-][VPers][3m.S+][--][=amanant][VRoot][=to.buy (ES: comprar)][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e
 
 korioviri	[=korioviri][NRoot][=person's.name]
 
@@ -897,7 +897,26 @@ cheenkari	[=cheenkari+sem@color.][NRoot][=obscure; black (ES: negro)]
         <sentence lang="en">Kocheri misled his wife saying that he had hunted a deer when it wasn't true.</sentence>
         <morphology>
 
+
+ramatabitakero	[r-][VPers][3m.S/A+][--][=amatavi][VRoot][=to.deceive; to.trick.sb.][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=ro][+3n.m.O]
+
 kocheri	[=kocheri][NRoot][=NP]
+
+iina	[i-][NPers][3m.poss+][--][=ina+n.m.+inal@tsi.+voc.][NRoot][=mother; wife (kin.of.a.fe/male)]
+
+ikantiro	[i-][VPers][3m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be; to.be.able][--][-i][+REAL]i[--][=ro][+3n.m.O]
+
+notonkake	[no-][VPers][1SG.S/A+][--][=tonk][VRoot][=to.shoot (ES: balear); to.burst][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e
+
+maniro	[=maniro+m.][NRoot][=deer (ES: venado); red.deer (ES: venado.rojo; sci.nm.: mazama.americana); gray.deer (ES: venado.gris; sci.nm.: mazama.gouazoubira)]
+
+,	,[$.]
+
+kaari	[=kaari][Neg][=NEG.COP (EN: not.be, this.is.not.so; ES: no.es,, ¿por.qué.no?,, ¿no.es?)]
+
+???
+
+.	.[$.]
 
 </morphology>
         <parsing/>
@@ -906,7 +925,16 @@ kocheri	[=kocheri][NRoot][=NP]
         <sentence lang="prq">Robanakero pinkatsari ramatsaere obakerari riyatantyaari rapatotya.</sentence>
         <sentence lang="es">El jefe se puso la corona nueva antes de ir a la reunión.</sentence>
         <sentence lang="en">The chief put on the new crown before going to the meeting.</sentence>
-        <morphology/>
+        <morphology>
+
+
+robanakero	[ro-][VPers][3n.m.S/A+][--][=v][VRoot][=to.put, to.place (ES: poner, colocar)][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=ro][+3n.m.O]
+
+pinkatsari	[=pinkatsari+m.+voc.+poss@te.][NRoot][=chief (ES: jefe); regional.leader]
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="30">
