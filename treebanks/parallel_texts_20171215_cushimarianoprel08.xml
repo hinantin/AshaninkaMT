@@ -851,7 +851,15 @@ kirinka	[=kirinka][NRoot][=down.river, downstream (ES: río.abajo), central.part
         <sentence lang="en">Shavashi prays in his house when he reads God's word.</sentence>
         <morphology>
 
+
+
+
 shabashi	[=shavashi][NRoot][=NP]
+
+ipankoki	[i-][NPers][3m.poss+][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)][--][-ki][Cas][+LOC_LOC.T]
+
+aririka	[=ari][PostPol][=PP][--][-rika][+COND]::[WhPrn][=when]
+
 
 </morphology>
         <parsing/>
