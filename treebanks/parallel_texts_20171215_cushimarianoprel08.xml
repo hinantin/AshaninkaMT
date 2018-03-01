@@ -1034,7 +1034,24 @@ pipanko	[pi-][NPers][2poss+][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa)
         <sentence lang="prq">Maaroni rantayetiri Ishako, rantiro rampateki.</sentence>
         <sentence lang="es">Todo lo que hace Ishako lo hace con la mano izquierda.</sentence>
         <sentence lang="en">Everything that Ishako does, he makes it with his left hand.</sentence>
-        <morphology/>
+        <morphology>
+
+
+maaroni	[=maaroni][IndfPrn][=all, everyone]
+
+rantayetiri	[r-][VPers][3m.S/A+][--][=ant][VRoot][=to.beat, to.hit; to.build, to.do, to.make][--][-a][+CL:liquid][=liquid]a[--][-ye][+DIST]ye[--][-t][+EP]t[--][-i][+REAL]i[--][=ri][NS][+REL]
+
+ishako	[=ishako][NRoot][=person's.name, NP]
+
+,	,[$.]
+
+rantiro	[r-][VPers][3m.S/A+][--][=ant][VRoot][=to.beat, to.hit; to.build, to.do, to.make][--][-i][+REAL]i[--][=ro][+3n.m.O]
+
+rampateki	[r-][NPers][3m.poss+][--][=ampate+inal@ntsi.][NRoot][=left.hand, left.side (ES: mano.izquierda; lado.izquierdo)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="35">
