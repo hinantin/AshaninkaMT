@@ -1055,10 +1055,26 @@ rampateki	[r-][NPers][3m.poss+][--][=ampate+inal@ntsi.][NRoot][=left.hand, left.
         <parsing/>
     </text>
     <text id="35">
-        <sentence lang="prq">Oyoyaati isheeni ampe kitamaari obaantsiki.</sentence>
+        <!-- Oyoyaati isheeni ampe kitamaari obaantsiki. -->
+        <sentence lang="prq">Okoyaati isheeni ampe kitamaari obaantsiki.</sentence>
         <sentence lang="es">La abuela cosecha algodón blanco en la chacra.</sentence>
         <sentence lang="en">The grandmother harvests white cotton in the sown field.</sentence>
-        <morphology/>
+        <morphology>
+
+
+okoyaati	[o-][VPers][3n.m.S/A+][--][=koya][VRoot][=to.gather][--][-a][+CL:liquid][=liquid]a[--][-t][+EP]t[--][-i][+REAL]i
+
+isheeni	[=isheeni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
+
+ampe	[=ampe][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense; ES: algodón)]
+
+kitamaari	[=kitamaari+m.+sem@color.][NRoot][=white]
+
+obaantsiki	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra)][--][-ntsi+alien.][Gen][+nposs]ntsi[--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="36">
