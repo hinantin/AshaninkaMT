@@ -827,7 +827,22 @@ obeniki	[=oveni][NRoot][=Unini.river (ES: río.Unini)][--][-ki][Cas][+LOC_LOC.T]
         <sentence lang="prq">Ramaatakoti yeye ishintipaareki riyaataero kirinka.</sentence>
         <sentence lang="es">Mi hermano va río abajo en su balsa.</sentence>
         <sentence lang="en">My brother goes down river in his canoe.</sentence>
-        <morphology/>
+        <morphology>
+
+
+ramaatakoti	[r-][VPers][3m.S/A+][--][=amaa][VRoot][=to.swim][--][-t][+EP]t[--][-ako][+APPL.GEN][=with.reference.to.sth.; about.sth.]ako[--][-t][+EP]t[--][-i][+REAL]i
+
+yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
+
+ishintipaareki	[i-][NPers][3m.poss+][--][=shintipaa+n.m.+poss@re.][NRoot][=raft, balsa][--][-re][Gen][+aln.poss.]re[--][-ki][Cas][+LOC_LOC.T]
+
+riyaataero	[r-][VPers][3m.S/A+][--][=iyaa][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-a][+REP][=again.and.again]a[--][-e][+REAL]e[--][=ro][+3n.m.O]
+
+kirinka	[=kirinka][NRoot][=down.river, downstream (ES: río.abajo), central.part.of.the.jungle]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="26">
