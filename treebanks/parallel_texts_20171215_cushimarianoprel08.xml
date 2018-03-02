@@ -1320,6 +1320,7 @@ tapetsa	[=tapetsa][NRoot][=vine.sp. (ES: tamshi, tamishi, támishi)]
         <!-- Ikantapaakeri konki itsipamintsare ibashiyari: ¿Añaatsimi ani? -->
         <sentence lang="prq">Ikantapaakeri konki itsipamintsare ibashiyari: ¿Añaatsini ani?</sentence>
         <sentence lang="es">Mi suegro le dijo a su amigo en broma: “Cuñado, ¿aún estas vivo?”</sentence>
+        <sentence lang="en">Father-in-law jokingly said to his friend: "Son-in-law, are you sill alive?"</sentence>
         <morphology>
 
 
@@ -1329,7 +1330,7 @@ konki	[=konki+poss@ri:re.][NRoot][=father.in.law (kin.of.a.male; ES: suegro)]
 
 itsipamintsare	[i-][NPers][3m.poss+][--][=tsipamintsare][NRoot][=friend (ES: amigo)]
 
-???
+ibashiyari	[i-][VPers][3m.S/A+][--][=vashi][VRoot][=to.get.glad (ES: alegrarse)][--][-ya][+IRR]ya[--][=ri][NS][+REL]
 
 :	:[$.]
 
