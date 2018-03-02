@@ -1420,10 +1420,27 @@ añeenkatatsi	[=anyeenka][VRoot][=to.be.raw (ES: estar.crudo/fresco)][--][-t][+E
     <text id="50">
         <sentence lang="prq">Ikantana apa: Pijaeke kametsa pankotsiki eero pantabaka.</sentence>
         <sentence lang="es">Mi papá me dice: “Tienes que estar tranquilo en la casa y no pelear”.</sentence>
+        <sentence lang="en">Father said to me: </sentence>
         <morphology>
 
 
+ikantana	[i-][VPers][3m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be; to.be.able][--][-a][+REAL]a[--][=na][+1SG.O]
 
+apa	[=apa+m.][NRoot][=father (kin.of.a.fe/male)]
+
+:	:[$.]
+
+pijaeke	[pi-][VPers][2S/A+][--][=haek][VRoot][=to.be, to.be.at, to.be.in, to.sit, to.live][--][-e][+IRR]e
+
+kametsa	[=kametsa][NRoot][=well, good]
+
+pankotsiki	[=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)][--][-tsi+alien.][Gen][+nposs]tsi[--][-ki][Cas][+LOC_LOC.T]
+
+eero	[=eero][Neg][=NEG.IRR]
+
+pantabaka	[p-][VPers][2S/A+][--][=ant][VRoot][=to.beat, to.hit; to.build, to.do, to.make][--][-av][+RCP]av[--][-ak][+CAUS.SOC]ak[--][-a][+REAL]a
+
+.	.[$.]
 
 </morphology>
         <parsing/>
