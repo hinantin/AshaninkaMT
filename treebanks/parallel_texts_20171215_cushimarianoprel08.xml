@@ -1376,7 +1376,22 @@ otsitzi	[=otsitzi][OtherRoot][=dog]
     <text id="48.2">
         <sentence lang="prq">Irojati rañi otsiti ratsikavetakari maniti</sentence>
         <sentence lang="es">El perro aún vive a pesar de que el tigre lo mordió.</sentence>
-        <morphology/>
+        <morphology>
+
+
+irojati	[=irohati][AdvRoot][=until (ES: hasta.que), when]
+
+rañi	[r-][VPers][3m.S/A+][--][=any][VRoot][=to.live (ES: vivir)][--][-i][+IRR]i
+
+otsiti	[=otsiti+m.+poss@te.][NRoot][=dog (ES: perro)]
+
+ratsikavetakari	[r-][VPers][3m.S/A+][--][=atsik][VRoot][=to.bite (ES: morder.(sujeto.animado))][--][-a][+EP]a[--][-ve][+FRUS][=in.vain (ES: casi)]ve[--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-a][+IRR]a[--][=ri][+3m.O]
+
+maniti	[=maniti][NRoot][=tiger (ES: tigre); jaguar (sci.nm.: panthera.onca)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="49">
