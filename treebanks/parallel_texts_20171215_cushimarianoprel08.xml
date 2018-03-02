@@ -1376,6 +1376,7 @@ otsitzi	[=otsitzi][OtherRoot][=dog]
     <text id="48.2">
         <sentence lang="prq">Irojati rañi otsiti ratsikavetakari maniti</sentence>
         <sentence lang="es">El perro aún vive a pesar de que el tigre lo mordió.</sentence>
+        <sentence lang="en">The dog is still alive although the tiger bit it.</sentence>
         <morphology>
 
 
@@ -1397,7 +1398,23 @@ maniti	[=maniti][NRoot][=tiger (ES: tigre); jaguar (sci.nm.: panthera.onca)]
     <text id="49">
         <sentence lang="prq">Onkotsibetakari nana batsatsi kantimaetacha añeenkatatsi.</sentence>
         <sentence lang="es">Mi mamá cocinó la carne, pero aún está cruda.</sentence>
-        <morphology/>
+        <sentence lang="en"/>
+        <morphology>
+
+
+onkotsibetakari	[o-][VPers][3n.m.S/A+][--][N=][IRR+][--][=kotsi][VRoot][=to.cook (ES: cocinar)][--][-ve][+FRUS][=in.vain (ES: casi)]ve[--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-a][+IRR]a[--][=ri][+3m.O]
+
+nana	[=nana+n.m.+voc.+poss@te:ti.][NRoot][=mom, mother (kin.of.a.fe/male; ES: mamá)]
+
+batsatsi	[=vatsa+n./m.+inal@tsi.][NRoot][=meat (ES: carne), mass; flesh, body (ES: cuerpo); inner.part.of.sth. (tender.part, cogollo)][--][-tsi+alien.][Gen][+nposs]tsi
+
+kantimaetacha	[=kantimaetacha][ConnRoot][=but (ES: pero)]
+
+añeenkatatsi	[=anyeenka][VRoot][=to.be.raw (ES: estar.crudo/fresco)][--][-t][+EP]t[--][-atsi][Asp][+STAT.IPRF]atsi
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="50">
