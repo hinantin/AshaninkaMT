@@ -1448,7 +1448,20 @@ pantabaka	[p-][VPers][2S/A+][--][=ant][VRoot][=to.beat, to.hit; to.build, to.do,
     <text id="51">
         <sentence lang="prq">Imaye apaniroeni ebankari imaamentoki.</sentence>
         <sentence lang="es">El joven duerme solo en su cama.</sentence>
-        <morphology/>
+        <morphology>
+
+
+imaye	[i-][VPers][3m.S/A+][--][=may][VRoot][=to.sleep (ES: dormir)][--][-e][+IRR]e
+
+apaniroeni	[=apaniro][NRoot][=on.one's.own][--][-eni][+ADV]::[=solely]
+
+ebankari	[=evankari+m.][NRoot][=young.man, adolescent]
+
+imaamentoki	[i-][NPers][3m.poss+][--][=maa][VRoot][=to.sleep (ES: dormir)][--][-mento+n.m.][NS][+NMZ.CONCR]mento[--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="52">
