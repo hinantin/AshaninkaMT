@@ -1341,14 +1341,22 @@ añaatsini	[=any][VRoot][=to.live (ES: vivir)][--][-a][+EP]a[--][-atsi][Asp][+ST
 ani	[=ani+m.+poss@ri.][NRoot][=brother.in.law (kin.of.a.male)]
 
 .	.[$.]
-
+ 
 </morphology>
         <parsing/>
     </text>
     <text id="48.1">
         <sentence lang="prq">Irojati rañeenkabeta otyaapate nana robatsitapakeri otsizi.</sentence>
         <sentence lang="es">La gallina de mi madre aún respiraba cuando la remató el perro.</sentence>
-        <morphology/>
+        <sentence lang="en"/>
+        <morphology>
+
+
+irojati	[=irohati][AdvRoot][=until (ES: hasta.que), when]
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="48.2">
