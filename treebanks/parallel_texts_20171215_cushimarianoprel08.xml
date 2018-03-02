@@ -1346,7 +1346,8 @@ ani	[=ani+m.+poss@ri.][NRoot][=brother.in.law (kin.of.a.male)]
         <parsing/>
     </text>
     <text id="48.1">
-        <sentence lang="prq">Irojati rañeenkabeta otyaapate nana robatsitapakeri otsizi.</sentence>
+        <!-- Irojati rañeenkabeta otyaapate nana robatsitapakeri otsizi. -->
+        <sentence lang="prq">Irojati rañeenkabeta otyaapate nana robatsitapakeri otsitzi.</sentence>
         <sentence lang="es">La gallina de mi madre aún respiraba cuando la remató el perro.</sentence>
         <sentence lang="en"/>
         <morphology>
@@ -1354,7 +1355,17 @@ ani	[=ani+m.+poss@ri.][NRoot][=brother.in.law (kin.of.a.male)]
 
 irojati	[=irohati][AdvRoot][=until (ES: hasta.que), when]
 
+rañeenkabeta	[r-][VPers][3m.S/A+][--][=anyeenka][VRoot][=to.breath (ES: respirar); to.sigh (ES: suspirar)][--][-ve][+FRUS][=in.vain (ES: casi)]ve[--][-t][+EP]t[--][-a][+REAL]a
 
+otyaapate	[o-][NPers][3n.m.poss+][--][=tyaapa+n.m.+poss@te.][NRoot][=hen; chicken][--][-te][Gen][+aln.poss.]te
+
+nana	[=nana+n.m.+voc.+poss@te:ti.][NRoot][=mom, mother (kin.of.a.fe/male; ES: mamá)]
+
+robatsitapakeri	[r-][VPers][3m.S/A+][--][ov=][AGT.CAUS+][--][=katsi][VRoot][=to.feel.pain; to.be.in.pain; to.cause.pain][--][-t][+EP]t[--][-ap+goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ri][NS][+REL]
+
+otsitzi	[=otsitzi][OtherRoot][=dog]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
