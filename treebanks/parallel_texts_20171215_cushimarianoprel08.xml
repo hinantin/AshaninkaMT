@@ -1419,8 +1419,13 @@ añeenkatatsi	[=anyeenka][VRoot][=to.be.raw (ES: estar.crudo/fresco)][--][-t][+E
     </text>
     <text id="50">
         <sentence lang="prq">Ikantana apa: Pijaeke kametsa pankotsiki eero pantabaka.</sentence>
-        <sentence lang="es">Mi mamá cocinó la carne, pero aún está cruda.</sentence>
-        <morphology/>
+        <sentence lang="es">Mi papá me dice: “Tienes que estar tranquilo en la casa y no pelear”.</sentence>
+        <morphology>
+
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="51">
