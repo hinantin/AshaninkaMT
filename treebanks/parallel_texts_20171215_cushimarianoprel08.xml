@@ -1760,7 +1760,26 @@ ikiriki	[i-][NPers][3m.poss+][--][=kiri+n.m.+inal@tsi.][NRoot][=nose; nostrils][
         <sentence lang="prq">Okantiro choeni nojina: Atyo pamakenabo jebaantsi.</sentence>
         <sentence lang="es">Mi hermana le dijo a mi mujer: “Cuñada, tráeme el abanico”.</sentence>
         <sentence lang="en">My sister told my wife: "Sister-in-law, bring me the fan".</sentence>
-        <morphology/>
+        <morphology>
+
+
+okantiro	[o-][VPers][3n.m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be; to.be.able][--][-i][+IRR]i[--][=ro][+3n.m.O]
+
+choeni	[=choeni+n.m.][NRoot][=sister (kin.of.a.male, male.ego)]
+
+nojina	[no-][NPers][1SG.poss+][--][=hina+n.m.+inal@n/tsi.][NRoot][=mother; wife (kin.of.a.fe/male)]
+
+:	:[$.]
+
+atyo	[=atyo+n.m.][NRoot][=sister.in.law (kin.of.a.female, fem.ego)]
+
+pamakenabo	[p-][VPers][2S/A+][--][=am][VRoot][=to.bring (ES: traer)][--][-ak][+CAUS.SOC]ak[--][-e][+IRR]e[--][=na][+1SG.O][--][=vo][+3n.m.O]
+
+jebaantsi	[=heva][VRoot][=to.lead][--][-antsi][NS][+NMZ.INF]antsi
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="66">
