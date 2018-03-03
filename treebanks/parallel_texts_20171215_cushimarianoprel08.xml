@@ -1909,6 +1909,12 @@ jebari	[=hevari][NRoot][=local.leader/chief]
         <morphology>
 
 
+okantakena	[o-][VPers][3n.m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be; to.be.able][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=na][+1SG.O]
+
+nana	[=nana+n.m.+voc.+poss@te:ti.][NRoot][=mom, mother (kin.of.a.fe/male; ES: mamá)]
+
+:	:[$.]
+
 pibitirieri	[pi-][VPers][2S/A+][--][=vitiri][VRoot][=to.pluck (ES: desplumar)][--][-e][+IRR]e[--][=ri][+3m.O]
 
 shonkiri	[=shonkiri+poss@ti.][NRoot][=big.partridge.sp. (ES: perdiz); large.quail]
@@ -1923,7 +1929,21 @@ ramakeri	[r-][VPers][3m.S/A+][--][=am][VRoot][=to.bring (ES: traer)][--][-ak][+C
     <text id="71.2">
         <sentence lang="prq">Pibitirieri jamani itonkakeri pabachori.</sentence>
         <sentence lang="es">Saca las cerdas del majás que mató tu tío.</sentence>
-        <morphology/>
+        <sentence lang="en"/>
+        <morphology>
+
+
+pibitirieri	[pi-][VPers][2S/A+][--][=vitiri][VRoot][=to.pluck (ES: desplumar)][--][-e][+IRR]e[--][=ri][+3m.O]
+
+jamani	[=hamani+m.][NRoot][=rodent.sp., paca (ES: picuro, majás, majas, majaz, zamaño; sci.nm.: coelogenus.paca)]
+
+itonkakeri	[i-][VPers][3m.S/A+][--][=tonk][VRoot][=to.shoot (ES: balear); to.burst][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=ri][NS][+REL]
+
+pabachori	[=pavachori+m.+poss@ti.][NRoot][=uncle (kin.of.a.male)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="72.1">
