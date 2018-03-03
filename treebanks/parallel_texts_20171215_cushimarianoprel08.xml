@@ -1506,7 +1506,20 @@ pitsaeyaka	[pi-][VPers][2S/A+][--][=tsaey][VRoot][=to.lie (ES: mentir)][--][-ak]
     <text id="54">
         <sentence lang="prq">Ashetakero nija isheeni oetsareki.</sentence>
         <sentence lang="es">El agua mojó la ropa de la abuela.</sentence>
-        <morphology/>
+        <morphology>
+
+
+ashetakero	[=ashe+prop@t.][VRoot][=to.wet.sth. (ES: mojar)][--][-t][+EP]t[--][-ak][+CAUS.SOC]ak[--][-e][+IRR]e[--][=ro][+3n.m.O]
+
+nija	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
+
+isheeni	[=isheeni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
+
+oetsareki	[o-][NPers][3n.m.poss+][--][=ketsare+m.+inal@ntsi.][NRoot][=dress (ES: vestido), cushma, cloth (ES: tela)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="55">
