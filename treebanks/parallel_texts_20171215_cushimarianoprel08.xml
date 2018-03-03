@@ -1786,7 +1786,30 @@ jebaantsi	[=hevaa+n.m.+inal@ntsi.][NRoot][=fan (ES: abanico)][--][-ntsi+alien.][
         <sentence lang="prq">Ojampiti ebankabo: ¿Ayiini, jempe ikenanake pitomi?</sentence>
         <sentence lang="es">La joven pregunta: “¿Suegra, a dónde fue tu hijo?”</sentence>
         <sentence lang="en">The young lady asks: "Mother-in-law, Where did your son go?"</sentence>
-        <morphology/>
+        <morphology>
+
+
+ojampiti	[o-][VPers][3n.m.S/A+][--][=hampi][VRoot][=to.ask.(about.sth.) (ES: preguntar)][--][-t][+EP]t[--][-i][+REAL]i
+
+ebankabo	[=evankavo+n.m.][NRoot][=young.woman, adolescent]
+
+:	:[$.]
+
+¿	¿[$.]
+
+ayiini	[=ayiini+n.m.+voc@N.][NRoot][=mother.in.law (ES: suegra)]
+
+,	,[$.]
+
+jempe	[=hempe][IndfSpecif][=where]
+
+ikenanake	[i-][VPers][3m.S/A+][--][=ken][VRoot][=to.go.by.trail, to.go, to.pass, to.walk, to.come][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][+CAUS.SOC]ak[--][-e][+IRR]e
+
+pitomi	[pi-][NPers][2poss+][--][=tomi+m.+inal@tsi.][NRoot][=son (kin.of.a.fe/male)]
+
+?	?[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="67">
