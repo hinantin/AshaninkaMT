@@ -1527,7 +1527,22 @@ oetsareki	[o-][NPers][3n.m.poss+][--][=ketsare+m.+inal@ntsi.][NRoot][=dress (ES:
     <text id="55">
         <sentence lang="prq">Ashirariake antyashipari ikobeme rataetero impeeta.</sentence>
         <sentence lang="es">El anciano se resbaló queriendo subir la roca.</sentence>
-        <morphology/>
+        <morphology>
+
+
+ashirariake	[=ashirari][VRoot][=to.slip (ES: resbalar)][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e
+
+antyashipari	[=antyashipari+m.][NRoot][=elderly.man, old.man (ES: anciano)]
+
+ikobeme	[i-][VPers][3m.S/A+][--][=kov][VRoot][=to.want][--][-e][+REAL]e[--][=me][MODAL][+SUBJ]
+
+rataetero	[r-][VPers][3m.S/A+][--][=atae][VRoot][=to.go.up (ES: subir); to.climb (ES: trepar)][--][-t][+EP]t[--][-e][+IRR]e[--][=ro][+3n.m.O]
+
+impeeta	[=iNpeeta+n.m.][NRoot][=rock (ES: roca); cave; crag]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="56">
