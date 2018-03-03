@@ -1591,6 +1591,7 @@ otishi	[=otishi+n.m.][NRoot][=row; hill (ES: cerro); mountain.pass (ES: abra)]
     <text id="58">
         <sentence lang="prq">Ashiyakero isheni pochari janko oyaatantari obaantsiki </sentence>
         <sentence lang="es">Mi abuela chupó caña dulce cuando fue a la chacra.</sentence>
+        <sentence lang="en">My grandmother sucked sweet sugar cane to go to the sown-field.</sentence>
         <morphology>
 
 
@@ -1600,7 +1601,11 @@ isheni	[=isheni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
 
 pochari	[=pochari][AdjRoot][=sweet (ES: dulce)]
 
+janko	[=hanko+n.m.][NRoot][=sugar.cane (ES: caña.de.azucar; botany.nm.: saccharum.officinale)]
+
 oyaatantari	[=oyaa][VRoot][=to.go (ES: ir); to.follow][--][-t][+EP]t[--][-ant][+APPL.INST][=reason,instrumentality;in.order.to]ant[--][-a][+REAL]a[--][=ri][NS][+REL]
+
+obaantsiki	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra)][--][-ntsi+alien.][Gen][+nposs]ntsi[--][-ki][Cas][+LOC_LOC.T]
 
 .	.[$.]
 
