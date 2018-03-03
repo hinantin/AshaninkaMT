@@ -1889,6 +1889,15 @@ maniro	[=maniro+m.][NRoot][=deer (ES: venado); red.deer (ES: venado.rojo; sci.nm
 
 beshiriayetakani	[=veshiri][VRoot][=to.rejoice, to.get.glad (ES: alegrarse)][--][-a][+EP]a[--][-ye][+DIST]ye[--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-a][+REAL]a[--][=ni][NS][+REL.IRR]
 
+atiripaye	[=atiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)][--][-paye][Num][+PL_DIST]
+
+iñaabakero	[i-][VPers][3m.S/A+][--][=ny][VRoot][=to.see, to.look.for; to.visit][--][-a][+EP]a[--][-av+object.oriented][ADV][+DIR][=contrary,opposite]av[--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=ro][+3n.m.O]
+
+ipashitakariri	[i-][NPers][3m.poss+][--][=pashitakari+poss@ri.][NRoot][=gift (ES: regalo)][--][-ri][Gen][+aln.poss.]ri
+
+jebari	[=hevari][NRoot][=local.leader/chief]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
