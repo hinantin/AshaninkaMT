@@ -1527,6 +1527,7 @@ oetsareki	[o-][NPers][3n.m.poss+][--][=ketsare+m.+inal@ntsi.][NRoot][=dress (ES:
     <text id="55">
         <sentence lang="prq">Ashirariake antyashipari ikobeme rataetero impeeta.</sentence>
         <sentence lang="es">El anciano se resbaló queriendo subir la roca.</sentence>
+        <sentence lang="en">The elderly man slipped when trying to climb the rock.</sentence>
         <morphology>
 
 
@@ -1548,7 +1549,18 @@ impeeta	[=iNpeeta+n.m.][NRoot][=rock (ES: roca); cave; crag]
     <text id="56">
         <sentence lang="prq">Pashitajero ashitabo tyaapapanko.</sentence>
         <sentence lang="es">Cierra la puerta del gallinero.</sentence>
-        <morphology/>
+        <morphology>
+
+
+???
+
+ashitabo	[=ashitavo+n.m.+inal@ntsi.][NRoot][=door (ES: puerta)]
+
+tyaapapanko	[=tyaapa+n.m.+poss@te.][NRoot][=hen; chicken][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="57">
