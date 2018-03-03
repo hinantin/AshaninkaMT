@@ -1549,6 +1549,7 @@ impeeta	[=iNpeeta+n.m.][NRoot][=rock (ES: roca); cave; crag]
     <text id="56">
         <sentence lang="prq">Pashitajero ashitabo tyaapapanko.</sentence>
         <sentence lang="es">Cierra la puerta del gallinero.</sentence>
+        <sentence lang="en">Close the henhouse door.</sentence>
         <morphology>
 
 
@@ -1566,7 +1567,25 @@ tyaapapanko	[=tyaapa+n.m.+poss@te.][NRoot][=hen; chicken][--][=panko+n.m.+inal@t
     <text id="57">
         <sentence lang="prq">Rashitakotakeri sheripiari maniti antari omoonaki otishi.</sentence>
         <sentence lang="es">El chamán encerró al tigre en una cueva del cerro.</sentence>
-        <morphology/>
+        <sentence lang="en"/>
+        <morphology>
+
+
+rashitakotakeri	[r-][VPers][3m.S/A+][--][=ashitako][VRoot][=to.lock.sth./sb.in (ES: encerrar(se))][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=ri][+3m.O]
+
+sheripiari	[=sheripiari+m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero)]
+
+maniti	[=maniti][NRoot][=tiger (ES: tigre); jaguar (sci.nm.: panthera.onca)]
+
+antari	[=antari+m.][AdjRoot][=big; mature]
+
+omoonaki	[=omoona][NRoot][=hole][--][-ki][Cas][+LOC_LOC.T]
+
+otishi	[=otishi+n.m.][NRoot][=row; hill (ES: cerro); mountain.pass (ES: abra)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="58">
