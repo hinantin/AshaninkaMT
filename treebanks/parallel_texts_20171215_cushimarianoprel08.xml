@@ -1949,7 +1949,18 @@ pabachori	[=pavachori+m.+poss@ti.][NRoot][=uncle (kin.of.a.male)]
     <text id="72.1">
         <sentence lang="prq">Oshekini ibiti shonkiri.</sentence>
         <sentence lang="es">La perdiz tiene muchas plumas.</sentence>
-        <morphology/>
+        <morphology>
+
+
+oshekini	[=osheki][AdjRoot][=many, much, a.lot][--][-ni][DEGR][+AUG_INTNS]
+
+ibiti	[i-][NPers][3m.poss+][--][=viti+n.m.+inal@tsi.][NRoot][=hair (ES: vello, pelo.del.cuerpo); feather (ES: pluma)]
+
+shonkiri	[=shonkiri+poss@ti.][NRoot][=big.partridge.sp. (ES: perdiz); large.quail]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="72.2">
