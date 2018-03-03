@@ -1490,7 +1490,17 @@ chapinki	[=chapinki][AdvRoot][=the.other.day, yesterday; long.ago, before; a.sho
     <text id="53">
         <sentence lang="prq">Aritapaake pitsaeyaka.</sentence>
         <sentence lang="es">Ya basta de mentira.</sentence>
-        <morphology/>
+        <sentence lang="en"/>
+        <morphology>
+
+
+aritapaake	[=aritapaake][PostPol][=it.is.enough (ES: bastar; suficiente; basta.ya.de.algo)]
+
+pitsaeyaka	[pi-][VPers][2S/A+][--][=tsaey][VRoot][=to.lie (ES: mentir)][--][-ak][ASP][+PRF]ak[--][-a][+IRR]a
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="54">
