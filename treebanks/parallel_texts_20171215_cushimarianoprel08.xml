@@ -2089,11 +2089,11 @@ iitsoki	[i-][NPers][3m.poss+][--][=kitsoki][NRoot][=egg (huevo)]
     <text id="77">
         <sentence lang="prq">Raniwaeti ocheraaki nijaki chanchati ramenayeti robanabo.</sentence>
         <sentence lang="es">La garza de color cenizo camina en la orilla del río buscando comida.</sentence>
-        <sentence lang="en"/>
-        <morphology>
+        <sentence lang="en">The gray heron walks in the river shore looking for his food.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="fully">
 
 
-raniwaeti	[r-][VPers][3m.S/A+][--][=ani][VRoot][=to.go, to.walk; to.go.down][--][-vae][ASP][+DUR]vae[--][-t][+EP]t[--][-i][+REAL]i
+raniwaeti	[r-][VPers][3m.S+][--][=ani][VRoot][=to.walk (ES: caminar)][--][-vae][ASP][+DUR]vae[--][-t][+EP]t[--][-i][+REAL]i
 
 ocheraaki	[=ocheraa][NRoot][=shore (ES: orilla)][--][-ki][Cas][+LOC_LOC.T]
 
@@ -2101,9 +2101,9 @@ nijaki	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)][--][-
 
 chanchati	[=chanchati][NRoot][=gray.heron.sp. (ES: garza.de.color.cenizo)]
 
-ramenayeti	[r-][VPers][3m.S/A+][--][=amen][VRoot][=to.see, to.look, to.look.for, to.look.after, to.take.care.of][--][-a][+EP]a[--][-ye][+DIST]ye[--][-t][+EP]t[--][-i][+REAL]i
+ramenayeti	[r-][VPers][3m.S+][--][=amen][VRoot][=to.look.for][--][-a][+EP]a[--][-ye][+DIST]ye[--][-t][+EP]t[--][-i][+REAL]i
 
-robanabo	[r-][NPers][3m.poss+][--][=ovanavo+n.m.+inal@ntsi.][NRoot][=staple.food, necessity.good]
+robanabo	[r-][NPers][3m.poss+][--][=ovanavo+n.m.+inal@ntsi.][NRoot][=food (ES: comida)]
 
 .	.[$.]
 
