@@ -2068,7 +2068,7 @@ antamiki	[=antami][NRoot][=woods, forest (ES: monte, bosque)][--][-ki][Cas][+LOC
         <sentence lang="prq">Imoontiro chamanto inchato robantyaariri iitsoki. </sentence>
         <sentence lang="es">El pájaro carpintero hace hueco en el árbol para poner huevos.</sentence>
         <sentence lang="en">The red-headed woodpecker makes a hole in the tree in order to put his eggs.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="fully">
 
 
 imoontiro	[i-][VPers][3m.S/A+][--][=moon][VRoot][=to.make.a.hole.in.sth. (ES: hacer.un.hueco.en.algo, agujerear.algo)][--][-t][+EP]t[--][-i][+REAL]i[--][=ro][+3n.m.O]
