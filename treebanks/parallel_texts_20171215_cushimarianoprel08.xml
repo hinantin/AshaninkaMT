@@ -2007,7 +2007,19 @@ ibatsaki	[i-][NPers][3m.poss+][--][=vatsa+n./m.+inal@tsi.][NRoot][=flesh, body (
     <text id="73">
         <sentence lang="prq">Ratsikakeri chaanari notsitsite.</sentence>
         <sentence lang="es">El tigre colorado mordió a mi perro.</sentence>
-        <morphology/>
+        <sentence lang="en">The red tiger bit my dog.</sentence>
+        <morphology>
+
+
+ratsikakeri	[r-][VPers][3m.S/A+][--][=atsik][VRoot][=to.bite (ES: morder.(sujeto.animado))][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=ri][+3m.O]
+
+chaanari	[=chaanari+m.][NRoot][=red.tiger.sp. (ES: sp.de.tigre.colorado)]
+
+notsitsite	[n-][NPers][1SG.poss+][--][=otsitsi+m.+poss@te.][NRoot][=dog (ES: perro)][--][-te][Gen][+aln.poss.]te
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="74">
