@@ -134,7 +134,7 @@ iriripaye	[ir-][NPers][3m.poss+][--][=iri+m.][NRoot][=father (kin.of.a.fe/male)]
 
 .	.[$.]
 </morphology>
-        <parsing>
+        <parsing format="CoNLL" analysislevel="fully">
 
 
 1	=irika	_	Root	Root	Root=PrnDem|trans=this|gndr=+m.|sem=+proximal	2	det	_	_
@@ -156,7 +156,7 @@ iriripaye	[ir-][NPers][3m.poss+][--][=iri+m.][NRoot][=father (kin.of.a.fe/male)]
         <sentence lang="prq">Noñaakero nanaeni aanakiro obantire obaantsiki. </sentence>
         <sentence lang="es">Vi a mi tía llevar su canasta a la chacra.</sentence>
         <sentence lang="en">I saw my aunt carrying her basket towards the sown field.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="fully">
 
 noñaakero	[no-][VPers][1SG.A+][--][=ny][VRoot][=to.see][--][-a][+EP]a[--][-ak][+PRF]ak[--][-e][+REAL]e[--][=ro][+3n.m.O]
 
@@ -170,7 +170,7 @@ obaantsiki	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.lan
 
 .	.[$.]
 </morphology>
-        <parsing>
+        <parsing format="CoNLL" analysislevel="fully">
 
 
 1	no-	_	VPers	VPers	VPers=1SG.A+	2	s-subj	_	_
