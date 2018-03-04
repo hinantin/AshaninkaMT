@@ -98,7 +98,7 @@ obaantsiki	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.plot.of.land (ES: chacr
 
 .	.[$.]
 </morphology>
-        <parsing>
+        <parsing format="CoNLL" analysislevel="fully">
 
 
 1	=am	_	Root	Root	Root=VRoot|trans=to.visit	11	sntc	_	_
