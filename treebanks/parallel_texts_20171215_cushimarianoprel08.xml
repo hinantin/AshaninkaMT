@@ -2026,8 +2026,8 @@ notsitsite	[n-][NPers][1SG.poss+][--][=otsitsi+m.+poss@te.][NRoot][=dog (ES: per
     <text id="74">
         <sentence lang="prq">Itonkake apa chakami otishiki.</sentence>
         <sentence lang="es">Mi papá mató un trompetero en el cerro.</sentence>
-        <sentence lang="en"/>
-        <morphology format="ashaninkamorph" analysislevel="not-fully">
+        <sentence lang="en">My dad shot a grey-winged trumpeter in the hill.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="fully">
 
 
 itonkake	[i-][VPers][3m.S+][--][=tonk][VRoot][=to.shoot (ES: balear); to.burst][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e
@@ -2036,7 +2036,7 @@ apa	[=apa+m.][NRoot][=father (kin.of.a.fe/male)]
 
 chakami	[=chakami][NRoot][=bird.sp., grey-winged.trumpeter.sp. (ES: trompetero, ave.de.monte)]
 
-otishiki	[=otishi+n.m.][NRoot][=row; hill (ES: cerro); mountain.pass (ES: abra)][--][-ki][Cas][+LOC_LOC.T]
+otishiki	[=otishi+n.m.][NRoot][=row; hill (ES: cerro)][--][-ki][Cas][+LOC]
 
 .	.[$.]
 
