@@ -2046,7 +2046,21 @@ otishiki	[=otishi+n.m.][NRoot][=row; hill (ES: cerro)][--][-ki][Cas][+LOC]
     <text id="75">
         <sentence lang="prq">Ipeyakero nani ichakopite antamiki.</sentence>
         <sentence lang="es">Mi cuñado perdió su flecha en el monte.</sentence>
-        <morphology/>
+        <sentence lang="en"/>
+        <morphology>
+
+
+ipeyakero	[i-][VPers][3m.A+][--][=pey][VRoot][=to.lose (ES: perder)][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ro][+3n.m.O]
+
+nani	[n-][NPers][1SG.poss+][--][=ani+m.+poss@ri.][NRoot][=brother.in.law (kin.of.a.male)]
+
+ichakopite	[i-][NPers][3m.poss+][--][=chakopi+n.m.+poss@te:ti.][NRoot][=arrow; small.cane (ES: cañabrava.pequeña)][--][-te][Gen][+aln.poss.]te
+
+antamiki	[=antami][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.forest][--][-ki][Cas][+LOC]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="76">
