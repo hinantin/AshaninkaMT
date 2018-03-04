@@ -4,10 +4,15 @@
             <xs:enumeration value="ashaninkamorph"/>
         </xs:restriction>
     </xs:simpleType>
-    <xs:simpleType name="morphologicalanalysislevel">
+    <xs:simpleType name="analysislevel">
         <xs:restriction base="xs:string">
             <xs:enumeration value="not-fully"/>
             <xs:enumeration value="fully"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="parsingoutputformat">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="CoNLL"/>
         </xs:restriction>
     </xs:simpleType>
     <xs:simpleType name="language">
@@ -114,17 +119,20 @@
                                     <xs:simpleContent>
                                         <xs:extension base="xs:string">
                                             <xs:attribute type="morphologicalanalysisformat" name="format" use="required"/>
-                                            <xs:attribute type="morphologicalanalysislevel" name="analysislevel" use="required"/>
+                                            <xs:attribute type="analysislevel" name="analysislevel" use="required"/>
                                         </xs:extension>
                                     </xs:simpleContent>
                                 </xs:complexType>
                             </xs:element>
                             <xs:element name="parsing" minOccurs="1" maxOccurs="1" nillable="false">
-                                <xs:simpleType>
-                                    <xs:restriction base="xs:string">
-                                        <xs:minLength value="1"/>
-                                    </xs:restriction>
-                                </xs:simpleType>
+                                <xs:complexType>
+                                    <xs:simpleContent>
+                                        <xs:extension base="xs:string">
+                                            <xs:attribute type="parsingoutputformat" name="format" use="required"/>
+                                            <xs:attribute type="analysislevel" name="analysislevel" use="required"/>
+                                        </xs:extension>
+                                    </xs:simpleContent>
+                                </xs:complexType>
                             </xs:element>
                         </xs:sequence>
                         <xs:attribute name="id" use="required"/>
