@@ -1949,15 +1949,15 @@ pabachori	[=pavachori+m.+poss@ti.][NRoot][=uncle (kin.of.a.male)]
     <text id="72.1">
         <sentence lang="prq">Oshekini ibiti shonkiri.</sentence>
         <sentence lang="es">La perdiz tiene muchas plumas.</sentence>
-        <sentence lang="en">The big partridge has lot of feathers.</sentence>
+        <sentence lang="en">The big partridge has so many feathers.</sentence>
         <morphology>
 
 
-oshekini	[=osheki][AdjRoot][=many, much, a.lot][--][-ni][DEGR][+AUG_INTNS]
+oshekini	[=osheki][AdjRoot][=many][--][-ni][DEGR][+AUG_INTNS]
 
-ibiti	[i-][NPers][3m.poss+][--][=viti+n.m.+inal@tsi.][NRoot][=hair (ES: vello, pelo.del.cuerpo); feather (ES: pluma)]
+ibiti	[i-][NPers][3m.poss+][--][=viti+n.m.+inal@tsi.][NRoot][=feather (ES: pluma)]
 
-shonkiri	[=shonkiri+poss@ti.][NRoot][=big.partridge.sp. (ES: perdiz); large.quail]
+shonkiri	[=shonkiri+poss@ti.][NRoot][=big.partridge.sp. (ES: perdiz)]
 
 .	.[$.]
 
@@ -1971,9 +1971,9 @@ shonkiri	[=shonkiri+poss@ti.][NRoot][=big.partridge.sp. (ES: perdiz); large.quai
         <morphology>
 
 
-osheki	[=osheki][AdjRoot][=many, much, a.lot]
+osheki	[=osheki][AdjRoot][=a.lot]
 
-ibiti	[i-][NPers][3m.poss+][--][=viti+n.m.+inal@tsi.][NRoot][=hair (ES: vello, pelo.del.cuerpo), bristle (ES: cerda); feather (ES: pluma)]
+ibiti	[i-][NPers][3m.poss+][--][=viti+n.m.+inal@tsi.][NRoot][=bristle (ES: cerda)]
 
 shintori	[=shintori+m.][NRoot][=collared.peccary (ES: sajino, saíno, huangana; sci.nm.: tayassu.tajacu)]
 
