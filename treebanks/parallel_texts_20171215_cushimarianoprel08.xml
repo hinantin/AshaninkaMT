@@ -1985,7 +1985,22 @@ shintori	[=shintori+m.][NRoot][=collared.peccary (ES: sajino, saíno, huangana; 
     <text id="72.3">
         <sentence lang="prq">Otimi ibiti ani maaroni ibatsaki.</sentence>
         <sentence lang="es">Mi cuñado tiene vello en todo el cuerpo.</sentence>
-        <morphology/>
+        <morphology>
+
+
+otimi	[o-][VPers][3n.m.S/A+][--][=tim][VRoot][=to.have (ES: tener); to.give.birth][--][-i][+REAL]i
+
+ibiti	[i-][NPers][3m.poss+][--][=viti+n.m.+inal@tsi.][NRoot][=hair (ES: vello, pelo.del.cuerpo), bristle (ES: cerda); feather (ES: pluma)]
+
+ani	[=ani+m.+poss@ri.][NRoot][=brother.in.law (kin.of.a.male)]
+
+maaroni	[=maaroni][AdjRoot][=everybody, all, entire]
+
+ibatsaki	[i-][NPers][3m.poss+][--][=vatsa+n./m.+inal@tsi.][NRoot][=meat (ES: carne), mass; flesh, body (ES: cuerpo); inner.part.of.sth. (tender.part, cogollo)][--][-ki][+CL:S.R.H][=small,round(ed);hard;seed-like]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="73">
