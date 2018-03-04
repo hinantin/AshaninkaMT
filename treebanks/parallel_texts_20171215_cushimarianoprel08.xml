@@ -1838,19 +1838,19 @@ notyomi	[no-][NPers][1SG.poss+][--][=tyomi+m.+inal@tsi.][NRoot][=son (kin.of.a.m
     <text id="68">
         <sentence lang="prq">Irika tyaapa shirampari batsanti oshekini iyeenka.</sentence>
         <sentence lang="es">Este gallo gordo tiene bastante grasa.</sentence>
-        <sentence lang="en">This fat rooster has a lot of fat.</sentence>
+        <sentence lang="en">This fat rooster has so much fat.</sentence>
         <morphology>
 
 
 irika	[=irika+m.+proximal][PrnDem][=this]
 
-tyaapa	[=tyaapa+n.m.+poss@te.][NRoot][=hen; chicken]
+tyaapa	[=tyaapa+n.m.+poss@te.][NRoot][=chicken]
 
-shirampari	[=shirampari+m.][NRoot][=man; male (ES: hombre)]
+shirampari	[=shirampari+m.][NRoot][=male (ES: hombre)]
 
 batsanti	[=vatsa][VRoot][=to.get.fat, to.gain.weight (ES: engordar)][--][-nti+m.][NS][+ADJ.PARTIC]nti
 
-oshekini	[=osheki][AdjRoot][=many, much, a.lot][--][-ni][DEGR][+AUG_INTNS]
+oshekini	[=osheki][AdjRoot][=much][--][-ni][DEGR][+AUG_INTNS]
 
 iyeenka	[i-][NPers][3m.poss+][--][=yeenka+n.m.+inal@ntsi.][NRoot][=fat, lard, grease (ES: manteca, grasa, cebo); body.fat]
 
