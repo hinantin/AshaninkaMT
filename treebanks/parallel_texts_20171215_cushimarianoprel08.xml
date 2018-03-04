@@ -1967,7 +1967,19 @@ shonkiri	[=shonkiri+poss@ti.][NRoot][=big.partridge.sp. (ES: perdiz); large.quai
     <text id="72.2">
         <sentence lang="prq">Osheki ibiti shintori.</sentence>
         <sentence lang="es">La huangana tiene muchas cerdas.</sentence>
-        <morphology/>
+        <sentence lang="en">The collared-peccary has a lot of bristles.</sentence>
+        <morphology>
+
+
+osheki	[=osheki][AdjRoot][=many, much, a.lot]
+
+ibiti	[i-][NPers][3m.poss+][--][=viti+n.m.+inal@tsi.][NRoot][=hair (ES: vello, pelo.del.cuerpo), bristle (ES: cerda); feather (ES: pluma)]
+
+shintori	[=shintori+m.][NRoot][=collared.peccary (ES: sajino, saíno, huangana; sci.nm.: tayassu.tajacu)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="72.3">
