@@ -17,7 +17,7 @@ obayeri	[=ovayeri+m.][NRoot][=warrior (ES: guerrero)]
 
 .	.[$.]
 </morphology>
-        <parsing>
+        <parsing format="CoNLL" analysislevel="fully">
 
 
 1	p-	_	VPers	VPers	VPers=2S+	2	s-subj	_	_
