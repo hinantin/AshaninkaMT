@@ -1816,13 +1816,13 @@ pitomi	[pi-][NPers][2poss+][--][=tomi+m.+inal@tsi.][NRoot][=son (kin.of.a.fe/mal
         <!-- Iriitake charine ibakeniri ibaero notyoni. -->
         <sentence lang="prq">Iriitake charine ibakeniri ibaero notyomi.</sentence>
         <sentence lang="es">Mi abuelo fue quien puso el nombre a mi hijo.</sentence>
-        <sentence lang="en">My grandfather was the one who gave the name to my son.</sentence>
+        <sentence lang="en">My grandfather was the one who put the name to my son.</sentence>
         <morphology>
 
 
 iriitake	[=iriitake+cntr.exh.l.+foc.][PrnPers][+3SG.m.][=that's.why; he.is.the.one.(who)]
 
-charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]
+charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male)]
 
 ibakeniri	[i-][VPers][3m.S/A+][--][=v][VRoot][=to.put, to.place (ES: poner, colocar)][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=ni][+3SG.O][--][=ri][NS][+REL]
 
