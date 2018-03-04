@@ -6,7 +6,7 @@
         <sentence lang="prq">Paamabentya kaakitaki obayeri.</sentence>
         <sentence lang="es">Cuídense, vienen los guerreros.</sentence>
         <sentence lang="prq">Beware, the warriors are approaching.</sentence>
-        <morphology format="ashaninkamorph" analysislevel="not-fully">
+        <morphology format="ashaninkamorph" analysislevel="fully">
 
 
 paamabentya	[p-][VPers][2S+][--][=aam][VRoot][=to.beware.of.sth/sb. (ES: tener.cuidado)][--][-a][+EP]a[--][-vent][+APPL.BEN][=action.done.for.sb.else]vent[--][-ya][+IRR]ya
@@ -39,7 +39,7 @@ obayeri	[=ovayeri+m.][NRoot][=warrior (ES: guerrero)]
         <sentence lang="prq">Eero piñanatiro iina Yompiri, amaenkari inati.</sentence>
         <sentence lang="es">No hables con la esposa de Yompiri porque es celoso.</sentence>
         <sentence lang="en">Don't talk to Yompiri's wife because he is a jealous man.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="fully">
 
 eero	[=eero][Neg][=NEG.IRR]
 
@@ -86,7 +86,7 @@ inati	[i-][VPers][3m.S+][--][=na][VRoot][=to.be][--][-t][+EP]t[--][-i][+REAL]i
         <sentence lang="prq">Amake noshabo koriti obaantsiki.</sentence>
         <sentence lang="es">Mi nieta trajo camotes de la chacra.</sentence>
         <sentence lang="en">My granddaughter brought sweet potatoes from the sown field.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 amake	[=am][VRoot][=to.bring (ES: traer)][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e
 
