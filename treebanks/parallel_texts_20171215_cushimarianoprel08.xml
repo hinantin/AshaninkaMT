@@ -57,7 +57,7 @@ inati	[i-][VPers][3m.S+][--][=na][VRoot][=to.be][--][-t][+EP]t[--][-i][+REAL]i
 
 .	.[$.]
 </morphology>
-        <parsing>
+        <parsing format="CoNLL" analysislevel="fully">
 
 
 
