@@ -1,4 +1,15 @@
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning" elementFormDefault="qualified" vc:minVersion="1.1">
+    <xs:simpleType name="morphologicalanalysisformat">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="ashaninkamorph"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="morphologicalanalysislevel">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="not-fully"/>
+            <xs:enumeration value="fully"/>
+        </xs:restriction>
+    </xs:simpleType>
     <xs:simpleType name="language">
         <xs:restriction base="xs:string">
             <xs:enumeration value="prq">
@@ -99,11 +110,14 @@
                             <xs:element name="en" minOccurs="1" maxOccurs="1"/>
                             -->
                             <xs:element name="morphology" minOccurs="1" maxOccurs="1" nillable="false">
-                                <xs:simpleType>
-                                    <xs:restriction base="xs:string">
-                                        <xs:minLength value="1"/>
-                                    </xs:restriction>
-                                </xs:simpleType>
+                                <xs:complexType>
+                                    <xs:simpleContent>
+                                        <xs:extension base="xs:string">
+                                            <xs:attribute type="morphologicalanalysisformat" name="format" use="required"/>
+                                            <xs:attribute type="morphologicalanalysislevel" name="analysislevel" use="required"/>
+                                        </xs:extension>
+                                    </xs:simpleContent>
+                                </xs:complexType>
                             </xs:element>
                             <xs:element name="parsing" minOccurs="1" maxOccurs="1" nillable="false">
                                 <xs:simpleType>

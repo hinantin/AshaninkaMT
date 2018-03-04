@@ -6,7 +6,8 @@
         <sentence lang="prq">Paamabentya kaakitaki obayeri.</sentence>
         <sentence lang="es">Cuídense, vienen los guerreros.</sentence>
         <sentence lang="prq">Beware, the warriors are approaching.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
 
 paamabentya	[p-][VPers][2S+][--][=aam][VRoot][=to.beware.of.sth/sb. (ES: tener.cuidado)][--][-a][+EP]a[--][-vent][+APPL.BEN][=action.done.for.sb.else]vent[--][-ya][+IRR]ya
 
@@ -2008,7 +2009,7 @@ ibatsaki	[i-][NPers][3m.poss+][--][=vatsa+n./m.+inal@tsi.][NRoot][=flesh, body (
         <sentence lang="prq">Ratsikakeri chaanari notsitsite.</sentence>
         <sentence lang="es">El tigre colorado mordió a mi perro.</sentence>
         <sentence lang="en">The red tiger bit my dog.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 ratsikakeri	[r-][VPers][3m.S/A+][--][=atsik][VRoot][=to.bite (ES: morder.(sujeto.animado))][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=ri][+3m.O]
