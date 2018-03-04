@@ -32,6 +32,24 @@
 17	VROOT	_	_	_	_	0	sentence	_	_
 
 
+1	=osheki	_	Root	Root	Root=AdjRoot|trans=a.lot	3	neg	_	_
+2	i-	_	VPers	VPers	VPers=3m.S+	3	s-subj	_	_
+3	=tsa	_	Root	Root	Root=VRoot|trans=to.bark	15	sntc	_	_
+4	-at	_	
+5	-i	_	STATUS	STATUS	STATUS=+IRR	4	status	_	_
+6	=avo	_	Root	Root	Root=NRoot|trans=red-throated.caracara	2	s-poss	_	_
+7	=aririka	_	
+8	i-	_	
+9	=ny	_	
+10	-ee	_	
+11	=pok	_	
+12	-atsi	_	
+13	=ri	_	
+14	.	_	$.	$.	_	15	punc	_	_
+15	VROOT	_	_	_	_	0	sentence	_	_
+
+
+
 
 1	p-	_	VPers	VPers	VPers=2S+	2	s-subj	_	_
 2	=oyaat	_	Root_EP	Root_EP	Root=VRoot|EP=-t|trans=to.follow	15	sntc	_	_
@@ -254,4 +272,37 @@
 16	=haavari	_	Root	Root	Root=NRoot|trans=warm|gndr=+m.	15	adj-mod	_	_
 17	.	_	$.	$.	_	18	punc	_	_
 18	VROOT	_	_	_	_	0	sentence	_	_
+
+
+
+1	=irika	_	Root	Root	Root=PrnDem|trans=this|gndr=+m.|sem=+proximal	2	det	_	_
+2	=eentsi	_	Root	Root	Root=NRoot|trans=child|gndr=+n./m.|poss=+te	5	s-arg	_	_
+3	=aventyari	_	Root	Root	Root=NRoot|trans=cry.baby|gndr=+m.	2	adj-mod	_	_
+4	=osheki	_	Root	Root	Root=AdjRoot|trans=a.lot	6	adv	_	_
+5	i-	_	VPers	VPers	VPers=3m.S+	6	s-subj	_	_
+6	=kaim	_	Root	Root	Root=VRoot|trans=to.call.sb.	11	s-arg-claus	_	_
+7	-i	_	STATUS	STATUS	STATUS=+IRR	6	status	_	_
+8	=tsireniri	_	Root	Root	Root=NRoot|trans=night	6	s-arg	_	_
+9	-ki	_	Cas	Cas	Cas=+LOC.T	8	mod	_	_
+10	.	_	$.	$.	_	11	punc	_	_
+11	VROOT	_	_	_	_	0	sentence	_	_
+
+
+
+1	n-	_	VPers	VPers	VPers=1SG.A+	2	s-subj	_	_
+2	=avih	_	Root	Root	Root=VRoot|trans=to.move.past/to_the_other_side_of.sb/sth.	16	sntc	_	_
+3	-ak	_	ASP	ASP	ASP=+PRF	2	asp	_	_
+4	-e	_	STATUS	STATUS	STATUS=+IRR	3	status	_	_
+5	=ro	_	PRN.O	PRN.O	PRN.O=+3n.m.O	4	prn-o	_	_
+6	=nampi	_	Root	Root	Root=NRoot|trans=village|gndr=+n.m.|inal=+tsi	5	s-arg	_	_
+7	-tsi	_	Gen	Gen	Gen=+nposs	6	alien	_	_
+8	n-	_	VPers	VPers	VPers=1SG.A+	9	s-subj	_	_
+9	=areet	_	Root_EP	Root_EP	Root=VRoot|EP=-t|trans=to.arrive	16	sntc	_	_
+10	-ant	_	ADV_EP	ADV_EP	ADV=+DIR|EP=-t|sem=+source|INCEP=beginning.of.a.new.action	9	dir	_	_
+11	-ak	_	ASP	ASP	ASP=+PRF	10	asp	_	_
+12	-a	_	STATUS	STATUS	STATUS=+IRR	11	status	_	_
+13	=ri	_	NS	NS	NS=+REL	12	rel	_	_
+14	=haka	_	Root	Root	Root=PrnDem|trans=here|sem=+proximal.b.	9	dem	_	_
+15	.	_	$.	$.	_	16	punc	_	_
+16	VROOT	_	_	_	_	0	sentence	_	_
 
