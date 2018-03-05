@@ -199,7 +199,7 @@ obaantsiki	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.lan
         <sentence lang="prq">Okantakina nishintyo: Ramaki aapi shitobi. </sentence>
         <sentence lang="es">Mi hija me dijo: “Mi abuelo trajo callampa”.</sentence>
         <sentence lang="en">My daughter told me: "Grandfather brought callampa-mushroom".</sentence>
-        <morphology format="ashaninkamorph" analysislevel="not-fully">
+        <morphology format="ashaninkamorph" analysislevel="fully">
 
 
 okantakina	[o-][VPers][3n.m.A+][--][=kant][VRoot][=to.say][--][-ak][ASP][+PRF]ak[--][-i][+IRR]i[--][=na][+1SG.O]
