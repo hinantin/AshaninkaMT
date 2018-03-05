@@ -2113,14 +2113,15 @@ robanabo	[r-][NPers][3m.poss+][--][=ovanavo+n.m.+inal@ntsi.][NRoot][=food (ES: c
     <text id="78">
         <sentence lang="prq">Robabo chapiti onkonashi.</sentence>
         <sentence lang="es">El gusano come las hojas del cetico.</sentence>
+        <sentence lang="en">The worm eats the leaves of the cecropia.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-robabo	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-a][+REAL]a[--][=vo][+3n.m.O]
+robabo	[r-][VPers][3m.A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-a][+REAL]a[--][=vo][+3n.m.O]
 
 chapiti	[=chapiti][NRoot][=worm.sp. (ES: sp.de.gusano, bayuca)]
 
-onkonashi	[=oNkona][NRoot][=cecropia.sp., tree.sp. (ES: cetico, siteco)][--][-shi][+CL:L.S.T.F.F][=leaf;small,thin,flexible,flat;leafy.substance]
+onkonashi	[=oNkona][NRoot][=cecropia.sp., tree.sp. (ES: cetico, siteco)][--][-shi][+CL:L.S.T.F.F][=leaf]
 
 .	.[$.]
 
