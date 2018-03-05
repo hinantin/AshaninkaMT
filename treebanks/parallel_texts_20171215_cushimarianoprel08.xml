@@ -2114,7 +2114,7 @@ robanabo	[r-][NPers][3m.poss+][--][=ovanavo+n.m.+inal@ntsi.][NRoot][=food (ES: c
         <sentence lang="prq">Robabo chapiti onkonashi.</sentence>
         <sentence lang="es">El gusano come las hojas del cetico.</sentence>
         <sentence lang="en">The worm eats the leaves of the cecropia.</sentence>
-        <morphology format="ashaninkamorph" analysislevel="not-fully">
+        <morphology format="ashaninkamorph" analysislevel="fully">
 
 
 robabo	[r-][VPers][3m.A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-a][+REAL]a[--][=vo][+3n.m.O]
@@ -2132,16 +2132,17 @@ onkonashi	[=oNkona][NRoot][=cecropia.sp., tree.sp. (ES: cetico, siteco)][--][-sh
         <sentence lang="prq">Inoshikake notsipamintsare antari charaba antabaaki.</sentence>
         <sentence lang="es">Mi compañero jaló un súngaro grande en el río.</sentence>
         <sentence lang="en"/>
-        <morphology>
+        <sentence lang="en"/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-inoshikake	[i-][VPers][3m.S/A+][--][=noshik][VRoot][=to.pull.sth. (ES: jalar), to.drag.sth. (ES: arrastrar)][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e
+inoshikake	[i-][VPers][3m.S/A+][--][=noshik][VRoot][=to.pull.sth. (ES: jalar)][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e
 
 notsipamintsare	[no-][NPers][1SG.poss+][--][=tsipamintsare][NRoot][=friend (ES: amigo)]
 
-antari	[=antari+m.][AdjRoot][=big; mature]
+antari	[=antari+m.][AdjRoot][=big]
 
-charaba	[=charava][NRoot][=fish.sp. (ES: súngaro, pez.saltón)]
+charaba	[=charava][NRoot][=zungaro-fish (ES: súngaro)]
 
 ???
 
