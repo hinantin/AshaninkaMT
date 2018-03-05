@@ -410,8 +410,9 @@ tsireniriki	[=tsireniri][NRoot][=night][--][-ki][Cas][+LOC.T]
     <text id="9">
         <sentence lang="prq">Nabijakero nampitsi nareetantakari jaka.</sentence>
         <sentence lang="es">Pasé la ciudad para llegar hasta aquí.</sentence>
-        <sentence lang="en">I passed by the city in order to get till here.</sentence>
+        <sentence lang="en">I passed by the city in order to get here.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
+
 
 nabijakero	[n-][VPers][1SG.A+][--][=avih][VRoot][=to.pass, to.move.past/to_the_other_side_of.sb/sth. (ES: pasar)][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ro][+3n.m.O]
 
@@ -423,7 +424,7 @@ jaka	[=haka+proximal.b.][PrnDem][=here, close.to.the.speaker]
 
 .	.[$.]
 </morphology>
-        <parsing>
+        <parsing format="CoNLL" analysislevel="not-fully">
 
 
 
@@ -451,7 +452,7 @@ jaka	[=haka+proximal.b.][PrnDem][=here, close.to.the.speaker]
         <sentence lang="prq">Osheki itsaati abo aririka iñee pokatsiri.</sentence>
         <sentence lang="es">El tatatao avisa cuando ve acercarse a alguien.</sentence>
         <sentence lang="en">The tatatao-vulture warns when it sees somebody approaching.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 osheki	[=osheki][AdjRoot][=many, much, a.lot]
 
