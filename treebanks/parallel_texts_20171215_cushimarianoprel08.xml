@@ -382,7 +382,7 @@ abentyari	[=aventyari+m.][NRoot][=cry.baby (ES: llorón)]
 
 osheki	[=osheki][AdjRoot][=a.lot]
 
-ikaimi	[i-][VPers][3m.S+][--][=kaim][VRoot][=to.call (ES: llamar)][--][-i][+IRR]i
+ikaimi	[i-][VPers][3m.S+][--][=kaim][VRoot][=to.scream (ES: gritar)][--][-i][+IRR]i
 
 tsireniriki	[=tsireniri][NRoot][=night][--][-ki][Cas][+LOC.T]
 
@@ -454,11 +454,11 @@ jaka	[=haka+proximal.b.][PrnDem][=here, close.to.the.speaker]
         <sentence lang="en">The tatatao-vulture warns when it sees somebody approaching.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
-osheki	[=osheki][AdjRoot][=many, much, a.lot]
+osheki	[=osheki][AdjRoot][=a.lot]
 
 itsaati	[i-][VPers][3m.S+][--][=tsa][VRoot][=to.bark (ES: ladrar)][--][-a][+REP][=again.and.again]a[--][-t][+EP]t[--][-i][+IRR]i
 
-abo	[=avo][NRoot][=falcon.sp., red-throated.caracara (sci.nm.: daptrius.americanus); tatatao-vulture (ES: sp.de.gallinazo, tatatao)]
+abo	[=avo][NRoot][=tatatao-vulture (ES: sp.de.gallinazo, tatatao)]
 
 aririka	[=aririka][WhPrn][=when]
 
