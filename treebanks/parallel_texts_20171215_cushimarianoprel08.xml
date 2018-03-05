@@ -243,7 +243,7 @@ shitobi	[=shitovi+n.m.][NRoot][=callampa-mushroom]
         <sentence lang="prq">Okantakena choeni: Pamakena aari tsitsi.</sentence>
         <sentence lang="es">Mi hermana me dijo: “Hermano, tráeme leña”.</sentence>
         <sentence lang="en">Sister told me: "Brother, bring me firewood".</sentence>
-        <morphology format="ashaninkamorph" analysislevel="not-fully">
+        <morphology format="ashaninkamorph" analysislevel="fully">
 
 
 okantakena	[o-][VPers][3n.m.A+][--][=kant][VRoot][=to.say][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=na][+1SG.O]
@@ -260,7 +260,7 @@ tsitsi	[=tsitsi+n.m.][NRoot][=firewood (ES: leña)]
 
 .	.[$.]
 </morphology>
-        <parsing>
+        <parsing format="CoNLL" analysislevel="not-fully">
 
 
 1	o-	_	VPers	VPers	VPers=3n.m.A+	2	s-subj	_	_
@@ -287,7 +287,7 @@ tsitsi	[=tsitsi+n.m.][NRoot][=firewood (ES: leña)]
         <sentence lang="prq">Aatonkoriakero choeni ishinto oitsare okaboshitantyaabori.</sentence>
         <sentence lang="es">Mi hermana desnudó a su hija para bañarla.</sentence>
         <sentence lang="en">My sister undressed her daughter in order to bathe her.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 aatonkoriakero	[=aatonkori][VRoot][=to.undress (ES: desnudar)][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ro][+3n.m.O]
 
@@ -301,7 +301,7 @@ okaboshitantyaabori	[o-][VPers][3n.m.A+][--][=kavoshi][VRoot][=to.bathe (ES: ba�
 
 .	.[$.]
 </morphology>
-        <parsing>
+        <parsing format="CoNLL" analysislevel="not-fully">
 
 
 1	=aatonkori	_	Root	Root	Root=VRoot|trans=to.undress	16	sntc	_	_	
