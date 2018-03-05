@@ -622,7 +622,8 @@ ikaematimi	[i-][VPers][3m.S+][--][=kaem][VRoot][=to.call.sb.][--][-ati][ASP][+PR
         <sentence lang="prq">Ikantana nirentitsori: Poya mamori akacharentsi. </sentence>
         <sentence lang="es">Mi primo me dice: “Come el sábalo anzueleado”.</sentence>
         <sentence lang="en">My cousin tells me: "Eat the angled sabalo-fish".</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
 
 ikantana	[i-][VPers][3m.S/A+][--][=kant][VRoot][=to.say][--][-a][+REAL]a[--][=na][+1SG.O]
 
@@ -635,7 +636,11 @@ nirentitsori	[n-][NPers][1SG.poss+][--][=irenti+m.][NRoot][=brother (kin.of.a.ma
 mamori	[=mamori+m.][NRoot][=fish.sp., sabalo (sci.nm.: brycon.sp.)]
 
 akacharentsi	[=akacha][VRoot][=to.fish.with.a.line.and.a.hook, to.angle (ES: ansolear)][--][-re+m.][NS][+NMZ]re[--][-ntsi+alien.][Gen][+nposs]ntsi
+
+.	.[$.]
+
 </morphology>
+        <parsing format="CoNLL" analysislevel="not-fully"/>
     </text>
     <text id="16">
         <sentence lang="prq">Namanantake akachaarontsi akachatantyaari mamoripaye.</sentence>
