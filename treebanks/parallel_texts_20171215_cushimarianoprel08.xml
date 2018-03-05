@@ -341,7 +341,7 @@ jaabari	[=haavari+m.][NRoot][=warm, hot (prbly.liquid)]
 
 .	.[$.]
 </morphology>
-        <parsing>
+        <parsing format="CoNLL" analysislevel="not-fully">
 
 
 
@@ -371,9 +371,10 @@ jaabari	[=haavari+m.][NRoot][=warm, hot (prbly.liquid)]
         <sentence lang="prq">Irika eentsi abentyari osheki ikaimi tsireniriki. </sentence>
         <sentence lang="es">Este niño llorón grita demasiado por las noches.</sentence>
         <sentence lang="en">This cry-baby child screams too much at night.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
-irika	[=irika+m.+proximal][PrnDem][=this]
+
+irika	[=irika+m.+proximal][PrnDem][=this (ES: este)]
 
 eentsi	[=eentsi+n./m.+poss@te.][NRoot][=child (ES: niño)]
 
