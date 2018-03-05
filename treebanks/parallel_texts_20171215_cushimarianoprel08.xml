@@ -216,7 +216,7 @@ shitobi	[=shitovi+n.m.][NRoot][=callampa-mushroom]
 
 .	.[$.]
 </morphology>
-        <parsing>
+        <parsing format="CoNLL" analysislevel="not-fully">
 
 
 1	o-	_	VPers	VPers	VPers=3n.m.A+	2	s-subj	_	_
@@ -242,8 +242,9 @@ shitobi	[=shitovi+n.m.][NRoot][=callampa-mushroom]
     <text id="6">
         <sentence lang="prq">Okantakena choeni: Pamakena aari tsitsi.</sentence>
         <sentence lang="es">Mi hermana me dijo: “Hermano, tráeme leña”.</sentence>
-        <sentence lang="en">My sister told me: "Brother, bring me firewood".</sentence>
-        <morphology>
+        <sentence lang="en">Sister told me: "Brother, bring me firewood".</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
 
 okantakena	[o-][VPers][3n.m.A+][--][=kant][VRoot][=to.say][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=na][+1SG.O]
 
