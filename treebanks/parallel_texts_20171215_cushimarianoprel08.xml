@@ -682,7 +682,7 @@ shima	[=shima+m.+poss@ni.][NRoot][=fish; fish.sp., boquichico-fish (ES: boquichi
 
 .	.[$.]
 </morphology>
-        <parsing>
+        <parsing format="CoNLL" analysislevel="not-fully">
 
 
 1	=irika	_	Root	Root	Root=PrnDem|trans=this|gndr=+m.|sem=+proximal	3	det	_	_
