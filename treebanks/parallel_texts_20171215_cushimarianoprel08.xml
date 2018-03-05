@@ -625,7 +625,7 @@ ikaematimi	[i-][VPers][3m.S+][--][=kaem][VRoot][=to.call.sb.][--][-ati][ASP][+PR
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-ikantana	[i-][VPers][3m.S/A+][--][=kant][VRoot][=to.say][--][-a][+REAL]a[--][=na][+1SG.O]
+ikantana	[i-][VPers][3m.A+][--][=kant][VRoot][=to.say][--][-a][+REAL]a[--][=na][+1SG.O]
 
 nirentitsori	[n-][NPers][1SG.poss+][--][=irenti+m.][NRoot][=brother (kin.of.a.male)][--][-tsori][+CL:distant/surrogate.kin][=distant/surrogate.kin]
 
@@ -645,8 +645,8 @@ akacharentsi	[=akacha][VRoot][=to.fish.with.a.line.and.a.hook, to.angle (ES: ans
     <text id="16">
         <sentence lang="prq">Namanantake akachaarontsi akachatantyaari mamoripaye.</sentence>
         <sentence lang="es">Compré un anzuelo para pescar sábalos.</sentence>
-        <sentence lang="en">I bought a hook in order to fish sabalo-fish.</sentence>
-        <morphology>
+        <sentence lang="en">I bought a hook in order to fish sabalo-fishes.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 namanantake	[n-][VPers][1SG.S+][--][=amanant][VRoot][=to.buy (ES: comprar)][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e
 
@@ -658,7 +658,7 @@ mamoripaye	[=mamori+m.][NRoot][=fish.sp., sabalo (sci.nm.: brycon.sp.)][--][-pay
 
 .	.[$.]
 </morphology>
-        <parsing/>
+        <parsing format="CoNLL" analysislevel="not-fully"/>
     </text>
     <text id="17">
         <!-- Irika niyompari akachabaerenti kitaejerikipaye roba shima. -->
