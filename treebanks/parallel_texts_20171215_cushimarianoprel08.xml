@@ -370,7 +370,7 @@ jaabari	[=haavari+m.][NRoot][=warm, hot (prbly.liquid)]
     <text id="8.2">
         <sentence lang="prq">Irika eentsi abentyari osheki ikaimi tsireniriki. </sentence>
         <sentence lang="es">Este niño llorón grita demasiado por las noches.</sentence>
-        <sentence lang="en">This cry-baby child screams too much at night.</sentence>
+        <sentence lang="en">This cry-baby child screams a lot at night.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -380,7 +380,7 @@ eentsi	[=eentsi+n./m.+poss@te.][NRoot][=child (ES: niño)]
 
 abentyari	[=aventyari+m.][NRoot][=cry.baby (ES: llorón)]
 
-osheki	[=osheki][AdjRoot][=many, much, a.lot]
+osheki	[=osheki][AdjRoot][=a.lot]
 
 ikaimi	[i-][VPers][3m.S+][--][=kaim][VRoot][=to.call (ES: llamar)][--][-i][+IRR]i
 
@@ -388,7 +388,7 @@ tsireniriki	[=tsireniri][NRoot][=night][--][-ki][Cas][+LOC.T]
 
 .	.[$.]
 </morphology>
-        <parsing>
+        <parsing format="CoNLL" analysislevel="not-fully">
 
 
 
@@ -411,7 +411,7 @@ tsireniriki	[=tsireniri][NRoot][=night][--][-ki][Cas][+LOC.T]
         <sentence lang="prq">Nabijakero nampitsi nareetantakari jaka.</sentence>
         <sentence lang="es">Pasé la ciudad para llegar hasta aquí.</sentence>
         <sentence lang="en">I passed by the city in order to get till here.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 nabijakero	[n-][VPers][1SG.A+][--][=avih][VRoot][=to.pass, to.move.past/to_the_other_side_of.sb/sth. (ES: pasar)][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ro][+3n.m.O]
 
