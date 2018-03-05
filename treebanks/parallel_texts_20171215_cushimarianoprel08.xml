@@ -533,8 +533,9 @@ kempityaariki	[=kempityaari][NRoot][=NP][--][-ki][Cas][+LOC]
     <text id="12">
         <sentence lang="prq">Ijampitiro charine isheeni: ¿Aeniro piarentsi nireri? </sentence>
         <sentence lang="es">Mi abuelo pregunta a mi abuela: “¿Hay masato para tomar?”</sentence>
-        <sentence lang="en">My grandfather asks my grandmother: "Is there manioc-beer to drink?"</sentence>
+        <sentence lang="en">Grandfather asks grandmother: "Is there manioc-beer to drink?"</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
+
 
 ijampitiro	[i-][VPers][3m.A+][--][=hampi][VRoot][=to.ask.(about.sth.) (ES: preguntar)][--][-t][+EP]t[--][-i][+IRR]i[--][=ro][+3n.m.O
 
@@ -546,15 +547,16 @@ isheeni	[=isheeni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
 
 ¿	¿[$.]
 
-aeniro	[=aeniro][VRoot][=EXIST (ES: hay); POSSESS; CONT.EXIST (ES: todavía.hay)]
+aeniro	[=aeniro][VRoot][=EXIST (ES: hay)]
 
 piarentsi	[=pyare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato)][--][-ntsi+alien.][Gen][+nposs]ntsi
 
 nireri	[n-][VPers][1SG.S/A+][--][=ir][VRoot][=to.drink (ES: beber)][--][-e][+IRR]e[--][=ri][NS][+REL]
 
 ?	?[$.]
+
 </morphology>
-        <parsing/>
+        <parsing format="CoNLL" analysislevel="not-fully"/>
     </text>
     <text id="13">
         <!-- Itsatakiro ajopi koriari ikanjantantyaari. -->
