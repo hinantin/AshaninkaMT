@@ -722,7 +722,7 @@ nija	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
 .	.[$.]
 
 </morphology>
-        <parsing/>
+        <parsing format="CoNLL" analysislevel="not-fully"/>
     </text>
     <text id="19">
         <sentence lang="prq">Tasheyakena, pimpena pakishire.</sentence>
