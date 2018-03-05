@@ -728,7 +728,8 @@ nija	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
         <sentence lang="prq">Tasheyakena, pimpena pakishire.</sentence>
         <sentence lang="es">Siento hambre, dame tu asado.</sentence>
         <sentence lang="en">I am hungry, give me your roast.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
 
 tasheyakena	[=tashey][VRoot][=to.be.hungry (ES: tener.hambre)][--][-ak][+CAUS.SOC]ak[--][-e][+REAL]e[--][=na][+1SG.O]
 
@@ -739,8 +740,9 @@ pimpena	[pi-][VPers][2A+][--][N=][IRR+][--][=p][VRoot][=to.give (ES: dar)][--][-
 pakishire	[p-][NPers][2poss+][--][=akishi][VRoot][=to.roast (ES: asar)][--][-re+m.][NS][+NMZ]re
 
 .	.[$.]
+
 </morphology>
-        <parsing/>
+        <parsing format="CoNLL" analysislevel="not-fully"/>
     </text>
     <text id="20">
         <sentence lang="prq">Akishitiniri naana apa kaniri.</sentence>
