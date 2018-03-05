@@ -198,8 +198,9 @@ obaantsiki	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.lan
     <text id="5">
         <sentence lang="prq">Okantakina nishintyo: Ramaki aapi shitobi. </sentence>
         <sentence lang="es">Mi hija me dijo: “Mi abuelo trajo callampa”.</sentence>
-        <sentence lang="en">My daughter told me: "Mi grandfather brought callampa-mushroom".</sentence>
-        <morphology>
+        <sentence lang="en">My daughter told me: "Grandfather brought callampa-mushroom".</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
 
 okantakina	[o-][VPers][3n.m.A+][--][=kant][VRoot][=to.say][--][-ak][ASP][+PRF]ak[--][-i][+IRR]i[--][=na][+1SG.O]
 
@@ -211,7 +212,7 @@ ramaki	[r-][VPers][3m.S+][--][=am][VRoot][=to.bring (ES: traer)][--][-ak][ASP][+
 
 aapi	[=aapi+m.+poss@ti.][NRoot][=grandfather (kin.of.a.female, fem.ego)]
 
-shitobi	[=shitovi+n.m.][NRoot][=orange/purple-colored.edible.mushroom (ES: hongo.comestible, hongo.callampa)]
+shitobi	[=shitovi+n.m.][NRoot][=callampa-mushroom]
 
 .	.[$.]
 </morphology>
