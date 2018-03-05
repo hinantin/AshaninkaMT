@@ -503,7 +503,7 @@ abotsi	[=avo+n.m.+inal@tsi.][NRoot][=road, trail][--][-tsi+alien.][Gen][+nposs]t
 
 jatatsiri	[=ha][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-atsi][Asp][+STAT.IPRF]atsi[--][=ri][NS][+REL]
 
-kempityaariki	[=kempityaari][NRoot][=NP][--][-ki][Cas][+LOC_LOC.T]
+kempityaariki	[=kempityaari][NRoot][=NP][--][-ki][Cas][+LOC]
 
 .	.[$.]
 
@@ -534,7 +534,7 @@ kempityaariki	[=kempityaari][NRoot][=NP][--][-ki][Cas][+LOC_LOC.T]
         <sentence lang="prq">Ijampitiro charine isheeni: ¿Aeniro piarentsi nireri? </sentence>
         <sentence lang="es">Mi abuelo pregunta a mi abuela: “¿Hay masato para tomar?”</sentence>
         <sentence lang="en">My grandfather asks my grandmother: "Is there manioc-beer to drink?"</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 ijampitiro	[i-][VPers][3m.A+][--][=hampi][VRoot][=to.ask.(about.sth.) (ES: preguntar)][--][-t][+EP]t[--][-i][+IRR]i[--][=ro][+3n.m.O
 
