@@ -665,7 +665,7 @@ mamoripaye	[=mamori+m.][NRoot][=fish.sp., sabalo (sci.nm.: brycon.sp.)][--][-pay
         <sentence lang="prq">Irika niyompari akachabaerenti kitaeterikipaye roba shima.</sentence>
         <sentence lang="es">Este amigo que pesca con anzuelo come pescado todos los días.</sentence>
         <sentence lang="en">This friend who fishes with a fishhook, eats fish every day.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 irika	[=irika+m.+proximal][PrnDem][=this]
