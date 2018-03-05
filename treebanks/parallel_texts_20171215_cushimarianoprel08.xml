@@ -327,7 +327,7 @@ okaboshitantyaabori	[o-][VPers][3n.m.A+][--][=kavoshi][VRoot][=to.bathe (ES: ba�
         <sentence lang="prq">Pamakenari abentyari akaatabakeriita nija jaabari. </sentence>
         <sentence lang="es">Trae al llorón para bañarlo con agua caliente.</sentence>
         <sentence lang="en">Bring the cry-baby in order to bathe him with warm water.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 pamakenari	[p-][VPers][2A+][--][=am][VRoot][=to.bring (ES: traer)][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=na][+1SG.O][--][=ri][+3m.O]
 
@@ -335,7 +335,7 @@ abentyari	[=aventyari+m.][NRoot][=cry.baby (ES: llorón)]
 
 akaatabakeriita	[a-][VPers][1PL.A+][--][=kaa][VRoot][=to.bathe (ES: bañar)][--][-t][+EP]t[--][-av+object.oriented][ADV][+DIR][=contrary,opposite]av[--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=rii][+3m.O][--][=ta][MODAL][+OPT_SUBJ]
 
-nija	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
+nija	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua)]
 
 jaabari	[=haavari+m.][NRoot][=warm, hot (prbly.liquid)]
 
