@@ -563,8 +563,9 @@ nireri	[n-][VPers][1SG.S/A+][--][=ir][VRoot][=to.drink (ES: beber)][--][-e][+IRR
         <sentence lang="prq">Itsatakiro ajopi koriari ikajankantyaari.</sentence>
         <sentence lang="es">Koriari se cuelga vainilla en la espalda para estar perfumado.</sentence>
         <sentence lang="en">Koriari wears an aromatic love amulet on his back in order to be perfumed.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
             
+
 itsatakiro	[i-][VPers][3m.A+][--][=tsa][VRoot][=to.hung.from.sth. (ES: colgarse)][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-i][+REAL]i[--][-ro][+3n.m.O]
 
 ajopi	[=ahopi+n.m.][NRoot][=aromatic.love.charm/amulet (ES: amuleto.aromático.para.el.amor)]
@@ -574,6 +575,7 @@ koriari	[=koriari][NRoot][=NP]
 ikajankantyaari	[i-][VPers][3m.S+][--][=kahank][VRoot][=to.perfume (ES: perfumar)][--][-ant][+APPL.REAS][=in.order.to]ant[--][-yaa][+REAL]yaa[--][-ri][+REL]
 
 .	.[$.]
+
             </morphology>
         <parsing>
 
