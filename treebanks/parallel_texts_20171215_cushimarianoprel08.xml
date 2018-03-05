@@ -747,8 +747,8 @@ pakishire	[p-][NPers][2poss+][--][=akishi][VRoot][=to.roast (ES: asar)][--][-re+
     <text id="20">
         <sentence lang="prq">Akishitiniri naana apa kaniri.</sentence>
         <sentence lang="es">Mi mamá asa yuca para mi papá.</sentence>
-        <sentence lang="en">My mother roasts sweet manioc for my father.</sentence>
-        <morphology>
+        <sentence lang="en">Mother roasts sweet manioc for father.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 akishitiniri	[=akishi][VRoot][=to.roast (ES: asar)][--][-t][+EP]t[--][-i][+REAL]i[--][=ni][+3SG.O][--][=ri][+3m.O]
 
