@@ -469,7 +469,7 @@ pokatsiri	[=pok][VRoot][=to.come (ES: venir), to.arrive][--][-atsi][Asp][+STAT.I
 
 .	.[$.]
 </morphology>
-        <parsing>
+        <parsing format="CoNLL" analysislevel="not-fully">
 
 
 1	=osheki	_	Root	Root	Root=AdjRoot|trans=a.lot	3	neg	_	_
@@ -494,7 +494,8 @@ pokatsiri	[=pok][VRoot][=to.come (ES: venir), to.arrive][--][-atsi][Asp][+STAT.I
         <sentence lang="prq">Poyaatanakero abotsi jatatsiri kempityaariki.</sentence>
         <sentence lang="es">Sigue el camino que va a la comunidad de Kempityari.</sentence>
         <sentence lang="en">Follow the road that goes towards the Kempityari community.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
 
 poyaatanakero	[p-][VPers][2A+][--][=oyaa][VRoot][=to.follow][--][-t][+EP]t[--][-an+source][ADV][+DIR][=(upon).leaving/departing]an[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ro][+3n.m.O]
 
@@ -505,8 +506,9 @@ jatatsiri	[=ha][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-atsi][Asp][+STAT.IPRF
 kempityaariki	[=kempityaari][NRoot][=NP][--][-ki][Cas][+LOC_LOC.T]
 
 .	.[$.]
+
 </morphology>
-        <parsing>
+        <parsing format="CoNLL" analysislevel="not-fully">
 
 
 
