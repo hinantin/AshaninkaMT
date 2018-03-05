@@ -2113,7 +2113,7 @@ robanabo	[r-][NPers][3m.poss+][--][=ovanavo+n.m.+inal@ntsi.][NRoot][=food (ES: c
     <text id="78">
         <sentence lang="prq">Robabo chapiti onkonashi.</sentence>
         <sentence lang="es">El gusano come las hojas del cetico.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 robabo	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-a][+REAL]a[--][=vo][+3n.m.O]
