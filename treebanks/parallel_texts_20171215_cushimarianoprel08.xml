@@ -577,7 +577,7 @@ ikajankantyaari	[i-][VPers][3m.S+][--][=kahank][VRoot][=to.perfume (ES: perfumar
 .	.[$.]
 
             </morphology>
-        <parsing>
+        <parsing format="CoNLL" analysislevel="not-fully">
 
 
 1	i-	_	VPers	VPers	VPers=3m.A+	2	s-subj	_	_
@@ -602,9 +602,10 @@ ikajankantyaari	[i-][VPers][3m.S+][--][=kahank][VRoot][=to.perfume (ES: perfumar
         <sentence lang="prq">Pakeri pabachori, ikaematimi.</sentence>
         <sentence lang="es">Responde a tu tío, te está llamando.</sentence>
         <sentence lang="en">Answer back to your uncle, he is calling you.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="fully">
             
-pakeri	[p-][VPers][2A+][--][=ak][VRoot][=to.answer.back][--][-e][+IRR]e[--][=ri][+3m.O]
+
+pakeri	[p-][VPers][2A+][--][=ak][VRoot][=to.answer.back (ES: contestar, responder)][--][-e][+IRR]e[--][=ri][+3m.O]
 
 pabachori	[=pavachori+m.+poss@ti.][NRoot][=uncle (kin.of.a.male)]
 
@@ -613,7 +614,9 @@ pabachori	[=pavachori+m.+poss@ti.][NRoot][=uncle (kin.of.a.male)]
 ikaematimi	[i-][VPers][3m.S+][--][=kaem][VRoot][=to.call.sb.][--][-ati][ASP][+PROG]ati[--][=mi][+2SG.O]
 
 .	.[$.]
+
             </morphology>
+        <parsing format="CoNLL" analysislevel="not-fully"/>
     </text>
     <text id="15">
         <sentence lang="prq">Ikantana nirentitsori: Poya mamori akacharentsi. </sentence>
