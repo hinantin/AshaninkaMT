@@ -2378,7 +2378,28 @@ tsinanepaye	[=tsinane+n.m.][NRoot][=female, woman; young.girl][--][-paye][Num][+
     <text id="90">
         <sentence lang="prq">Okantakena nana: Pichenkotya intsipaite aatatyeri areetyabo pitsiro.</sentence>
         <sentence lang="es">Mi mamá me dijo: “Ponte el pantalón para ir a visitar a tu hermana”.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+okantakena	[o-][VPers][3n.m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be; to.be.able][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=na][+1SG.O]
+
+nana	[=nana+n.m.+voc.+poss@te:ti.][NRoot][=mom, mother (kin.of.a.fe/male; ES: mamá)]
+
+:	:[$.]
+
+pichenkotya	[pi-][VPers][2S/A+][--][=chenko+n.m.+inal@tsi.][NRoot][=trousers, pants (ES: pantalón)]::[=to.wear.pants (ES: ponerse.pantalones)]+vbz.[--][-t][+EP]t[--][-eya][+IRR.RFL]eya
+
+intsipaite	[i-][VPers][3m.S/A+][--][N=][IRR+][--][=tsip][VRoot][=to.accompany; to.be.together; to.join][--][-a][+REP][=again.and.again]a[--][-it][+ICPL][=speed]it[--][-e][+IRR]e
+
+aatatyeri	[=aa][VRoot][=to.perch; to.land, to.disembark; to.dock (ES: atracar)][--][-t][+EP]t[--][-a][+REP][=again.and.again]a[--][-t][+EP]t[--][-ye][+IRR]ye[--][=ri][NS][+REL]
+
+areetyabo	[=aree][VRoot][=to.arrive (ES: llegar); to.visit.with.sb.][--][-t][+EP]t[--][-ya][+IRR]ya[--][=vo][+3n.m.O]
+
+pitsiro	[pi-][NPers][2poss+][--][=tsiro+n.m.][NRoot][=sister (kin.of.a.male)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="91">
