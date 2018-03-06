@@ -2278,7 +2278,7 @@ tontori	[=tontori][NRoot][=porcupine (ES: puerco.espín, erizo; sci.nm.: coendu.
         <sentence lang="prq">Japokake chekito inkaareki ookanakeri inkani.</sentence>
         <sentence lang="es">Las ranas saltan en la charca que dejó la lluvia.</sentence>
         <sentence lang="en">The frogs are jumping up and down in the pond that the rain left.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="fully">
 
 
 japokake	[=hapok][VRoot][=to.jump, to.jump.up.and.down][--][-ak][+CAUS.SOC]ak[--][-e][+REAL]e
@@ -2287,7 +2287,7 @@ chekito	[=chekito+m.][NRoot][=frog.sp., small.toad.sp. (ES: rana)]
 
 inkaareki	[=inkaare+n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)][--][-ki][Cas][+LOC_LOC.T]
 
-ookanakeri	[=ook][VRoot][=to.abandon; to.leave (ES: dejar); to.throw; to.throw.away/out (ES: botar)][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ri][NS][+REL]
+ookanakeri	[=ook][VRoot][=to.leave (ES: dejar)][--][-an+source][ADV][+DIR][=(upon).leaving/departing]an[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ri][NS][+REL]
 
 inkani	[=inkani+n.m.][NRoot][=rain (ES: lluvia)]
 
