@@ -2271,7 +2271,22 @@ tontori	[=tontori][NRoot][=porcupine (ES: puerco.espín, erizo; sci.nm.: coendu.
         <sentence lang="prq">Chekaka apa iitiki rantabaebeta obaantsiki. </sentence>
         <sentence lang="es">Mi papá se cortó el pie mientras trabajaba en la chacra.</sentence>
         <sentence lang="en">My father cut his foot while he was working in the sown field.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+chekaka	[=chek][VRoot][=to.cut][--][-ak][ASP][+PRF]ak[--][-a][+REAL]a
+
+apa	[=apa+m.][NRoot][=father (kin.of.a.fe/male)]
+
+iitiki	[=iiti+n.m.+inal@ntsi.][NRoot][=foot (ES: pie)][--][-ki][Cas][+LOC_LOC.T]
+
+rantabaebeta	[r-][VPers][3m.S/A+][--][=antavae][VRoot][=to.work (ES: trabajar)][--][-ve][+FRUS][=in.vain (ES: casi)]ve[--][-t][+EP]t[--][-a][+REAL]a
+
+obaantsiki	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra)][--][-ntsi+alien.][Gen][+nposs]ntsi[--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="86">
