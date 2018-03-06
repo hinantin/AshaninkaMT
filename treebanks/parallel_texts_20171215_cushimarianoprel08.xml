@@ -2342,12 +2342,12 @@ chenkoripaye	[=chenkori+m.][NRoot][=fish.sp., huasaco-fish (huasaca, huasaco, pe
         <sentence lang="prq">Ichenkoreetakeri Shoshokiri rantamintsatiro tsinanepaye.</sentence>
         <sentence lang="es">A Shoshokiri le sacaron el pantalón por fastidíar a las mujeres.</sentence>
         <sentence lang="en">They took off Shoshokiri's pants because he annoys women.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-ichenkoreetakeri	[i-][VPers][3m.S/A+][--][=chenko+n.m.+inal@tsi.][NRoot][=trousers, pants (ES: pantalón)]+vbz.[--][-ree][+REV]ree[--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+ichenkoreetakeri	[i-][VPers][3m.A+][--][=chenko+n.m.+inal@tsi.][NRoot][=trousers, pants (ES: pantalón)]+vbz.[--][-ree][+REV]ree[--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ri][+3m.O]
 
-shoshokiri	[=shoshokiri][NRoot][=NP]
+shoshokiri	[=shoshokiri][NRoot][=NP, person's.name]
 
 rantamintsatiro	[r-][VPers][3m.S/A+][--][=antamintsa][VRoot][=to.annoy (prbly.with.jokes); to.accost.sb.; to.have.sexual.relations.with.sb.][--][-t][+EP]t[--][-i][+REAL]i[--][=ro][+3n.m.O]
 
