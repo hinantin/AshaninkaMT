@@ -2453,6 +2453,7 @@ chenteroki	[=chentero][NRoot][=palm.tree.sp. (ES: ponilla, sp.de.palmera)][--][-
     <text id="93">
         <sentence lang="prq">Icheraakotakeri nani rirenti tsireniriki.</sentence>
         <sentence lang="es">Mi cuñado gritó a su hermano en la noche.</sentence>
+        <sentence lang="en">My brother-in-law spoke with anger to his brother at night.</sentence>
         <morphology>
 
 
@@ -2462,7 +2463,7 @@ icheraakotakeri	[i-][VPers][3m.S/A+][--][=cheraako][VRoot][=to.shout (ES: gritar
 
 rirenti	[r-][NPers][3m.poss+][--][=irenti+m.][NRoot][=brother (kin.of.a.male)]
 
-tsireniriki	[=tsireniri][NRoot][=night (ES: noche)][--][-ki][Cas][+LOC_LOC.T]
+tsireniriki	[=tsireniri][NRoot][=night (ES: noche)][--][-ki][Cas][+LOC.T]
 
 .	.[$.]
 
