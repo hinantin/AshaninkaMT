@@ -2468,15 +2468,21 @@ tsireniriki	[=tsireniri][NRoot][=night (ES: noche)][--][-ki][Cas][+LOC.T]
 .	.[$.]
 
 </morphology>
-        <parsing/>
+        <parsing format="CoNLL"/>
     </text>
     <text id="94">
         <sentence lang="prq">Antabotonaatake ichera charine.</sentence>
         <sentence lang="es">Mi abuelo tiene labios gruesos.</sentence>
         <morphology>
+            
 
+???
+
+ichera	[i-][NPers][3m.poss+][--][=chera+n.m.+inal@tsi.][NRoot][=lip, thick.lip (ES: labio)]
 
 charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
