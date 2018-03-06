@@ -2248,7 +2248,7 @@ cheenti	[=cheenti][NRoot][=(barbed-mouth).armored.catfish.sp. (ES: sp.de.caracha
 .	.[$.]
 
 </morphology>
-        <parsing/>
+        <parsing format="CoNLL" analysislevel="not-fully"/>
     </text>
     <text id="84">
         <!-- Oshekini iiche tontori. -->
