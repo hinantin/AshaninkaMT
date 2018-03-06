@@ -2378,10 +2378,11 @@ tsinanepaye	[=tsinane+n.m.][NRoot][=female, woman; young.girl][--][-paye][Num][+
     <text id="90">
         <sentence lang="prq">Okantakena nana: Pichenkotya intsipaite aatatyeri areetyabo pitsiro.</sentence>
         <sentence lang="es">Mi mamá me dijo: “Ponte el pantalón para ir a visitar a tu hermana”.</sentence>
+        <sentence lang="en">Mother said to me: "Put on pants in order to accompany [me] to visit your sister".</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-okantakena	[o-][VPers][3n.m.A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be; to.be.able][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=na][+1SG.O]
+okantakena	[o-][VPers][3n.m.A+][--][=kant][VRoot][=to.say][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=na][+1SG.O]
 
 nana	[=nana+n.m.+voc.+poss@te:ti.][NRoot][=mom, mother (kin.of.a.fe/male; ES: mamá)]
 
@@ -2400,7 +2401,7 @@ pitsiro	[pi-][NPers][2poss+][--][=tsiro+n.m.][NRoot][=sister (kin.of.a.male)]
 .	.[$.]
 
 </morphology>
-        <parsing/>
+        <parsing format="CoNLL" analysislevel="not-fully"/>
     </text>
     <text id="91">
         <sentence lang="prq">Namanantake apaani chenkotsi obakerari iro kantimaitacha abitatakena.</sentence>
