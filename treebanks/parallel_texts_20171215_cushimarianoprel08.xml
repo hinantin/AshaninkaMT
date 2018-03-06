@@ -750,6 +750,7 @@ pakishire	[p-][NPers][2poss+][--][=akishi][VRoot][=to.roast (ES: asar)][--][-re+
         <sentence lang="en">Mother roasts sweet manioc for father.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
+
 akishitiniri	[=akishi][VRoot][=to.roast (ES: asar)][--][-t][+EP]t[--][-i][+REAL]i[--][=ni][+3SG.O][--][=ri][+3m.O]
 
 naana	[=naana+n.m.+voc.+poss@te:ti.][NRoot][=mom, mother (kin.of.a.fe/male; ES: mamá)]
@@ -765,7 +766,8 @@ kaniri	[=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; sci.nm
         <sentence lang="prq">Rakitsitatya yeye paamariki.</sentence>
         <sentence lang="es">Mi hermano se calienta en el fuego.</sentence>
         <sentence lang="en">My brother is getting warm near the fire.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
 
 rakitsitatya	[r-][VPers][3m.S+][--][=akitsi][VRoot][=to.get.warm (ES: calentarse)][--][-t][+EP]t[--][-a][+REAL]a[--][=tya][+N.C.FOC][=urgency, impatience, surprise, exasperation (non-contradictory.emphasis); almost (with.time.adverbs)]
 
@@ -774,6 +776,7 @@ yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: h
 paamariki	[=paamari+n.m.][NRoot][=fire (ES: candela, fuego)][--][-ki][Cas][+LOC_LOC.T]
 
 .	.[$.]
+
 </morphology>
         <parsing/>
     </text>
