@@ -2324,7 +2324,7 @@ ipanko	[i-][NPers][3m.poss+][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa)
         <sentence lang="prq">Ijeekaeyeni inkaareki chenkoripaye.</sentence>
         <sentence lang="es">Los huasacos viven en la cocha.</sentence>
         <sentence lang="en">The huasaco-fishes dwell in the lake.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 ijeekaeyeni	[i-][VPers][3m.S+][--][=heek][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir)][--][-aey][+PL]aey[--][-e][+REAL]e[--][-ni+circumfixing][+PL]
