@@ -2433,10 +2433,11 @@ kantimaitacha	[=kantimaitacha][ConnRoot][=but (ES: pero)]
     <text id="92">
         <sentence lang="prq">Ikiakaakena sheripiari oparetsaki chenteroki.</sentence>
         <sentence lang="es">El curandero me hizo entrar en las raíces que salen de la ponilla.</sentence>
-        <morphology>
+        <sentence lang="en">The shaman </sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-ikiakaakena	[i-][VPers][3m.S/A+][--][=ki][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)][--][-aka][+CAUS.SOC]aka[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=na][+1SG.O]
+ikiakaakena	[i-][VPers][3m.A+][--][=ky][VRoot][=to.enter (ES: ingresar)][--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.]ak[--][-aak][ASP][+PRF]aak[--][-e][+REAL]e[--][=na][+1SG.O]
 
 sheripiari	[=sheripiari+m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero)]
 
