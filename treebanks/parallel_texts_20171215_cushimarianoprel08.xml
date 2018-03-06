@@ -2407,7 +2407,26 @@ pitsiro	[pi-][NPers][2poss+][--][=tsiro+n.m.][NRoot][=sister (kin.of.a.male)]
     <text id="91">
         <sentence lang="prq">Namanantake apaani chenkotsi obakerari iro kantimaitacha abitatakena.</sentence>
         <sentence lang="es">Compré un pantalón nuevo pero me ajusta demasiado.</sentence>
-        <morphology/>
+        <morphology>
+
+
+namanantake	[n-][VPers][1SG.S+][--][=amanant][VRoot][=to.buy (ES: comprar)][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e
+
+apaani	[=apaani][NRoot][=one]
+
+chenkotsi	[=chenko+n.m.+inal@tsi.][NRoot][=trousers, pants (ES: pantalón)][--][-tsi+alien.][Gen][+nposs]tsi
+
+obakerari	[=ovakerari][NRoot][=new, recent]
+
+iro	[=iro][ConnRoot][=but]
+
+kantimaitacha	[=kantimaitacha][ConnRoot][=but (ES: pero)]
+
+????
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="92">
