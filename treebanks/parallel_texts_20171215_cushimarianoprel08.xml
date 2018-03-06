@@ -2237,12 +2237,13 @@ abotsiki	[=avo+n.m.+inal@tsi.][NRoot][=road, trail][--][-tsi+alien.][Gen][+nposs
     <text id="83">
         <sentence lang="prq">Ikentabakotakena cheenti.</sentence>
         <sentence lang="es">Las púas en la boca de la carachama me picaron en la mano.</sentence>
+        <sentence lang="en"/>
         <morphology>
 
 
-ikentabakotakena	[i-][VPers][3m.S/A+][--][=kent][VRoot][=to.pierce.with.arrows, to.shoot.arrows; to.sting (ES: picar)][--][-a][+EP]a[--][=vako][NRoot][=hand (ES: mano)]vako[--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=na][+1SG.O]
+ikentabakotakena	[i-][VPers][3m.S/A+][--][=kent][VRoot][=to.sting (ES: picar)][--][-a][+EP]a[--][=vako][NRoot][=hand (ES: mano)]vako[--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=na][+1SG.O]
 
-cheenti	[=cheenti][NRoot][=armored.catfish.sp. (ES: sp.de.carachama.con.púas.en.la.boca, sp.de.pez)]
+cheenti	[=cheenti][NRoot][=(barbed-mouth).armored.catfish.sp. (ES: sp.de.carachama.con.púas.en.la.boca, sp.de.pez)]
 
 .	.[$.]
 
