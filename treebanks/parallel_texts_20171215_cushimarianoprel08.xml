@@ -2323,14 +2323,15 @@ ipanko	[i-][NPers][3m.poss+][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa)
     <text id="88">
         <sentence lang="prq">Ijeekaeyeni inkaareki chenkoripaye.</sentence>
         <sentence lang="es">Los huasacos viven en la cocha.</sentence>
+        <sentence lang="en">The huasaco-fishes dwell in the lake.</sentence>
         <morphology>
 
 
-ijeekaeyeni	[i-][VPers][3m.S+][--][=heek][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir); to.be][--][-aey][+PL]aey[--][-e][+REAL]e[--][-ni+circumfixing][+PL]
+ijeekaeyeni	[i-][VPers][3m.S+][--][=heek][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir)][--][-aey][+PL]aey[--][-e][+REAL]e[--][-ni+circumfixing][+PL]
 
-inkaareki	[=inkaare+n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)][--][-ki][Cas][+LOC_LOC.T]
+inkaareki	[=inkaare+n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)][--][-ki][Cas][+LOC]
 
-chenkoripaye	[=chenkori+m.][NRoot][=fish.sp. (huasaca, huasaco, pescado.perro; sci.nm.: hoplias.malabaricus)][--][-paye][Num][+PL_DIST]
+chenkoripaye	[=chenkori+m.][NRoot][=fish.sp., huasaco-fish (huasaca, huasaco, pescado.perro; sci.nm.: hoplias.malabaricus)][--][-paye][Num][+PL]
 
 .	.[$.]
 
