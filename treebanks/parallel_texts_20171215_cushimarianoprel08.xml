@@ -2379,6 +2379,7 @@ tsinanepaye	[=tsinane+n.m.][NRoot][=female, woman; young.girl][--][-paye][Num][+
         <sentence lang="prq">Okantakena nana: Pichenkotya intsipaite aatatyeri areetyabo pitsiro.</sentence>
         <sentence lang="es">Mi mamá me dijo: “Ponte el pantalón para ir a visitar a tu hermana”.</sentence>
         <sentence lang="en">Mother said to me: "Put on pants in order to accompany [me] to visit your sister".</sentence>
+        <!-- translation issues  -->
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
