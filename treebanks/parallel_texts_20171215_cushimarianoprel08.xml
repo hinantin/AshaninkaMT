@@ -2454,7 +2454,7 @@ chenteroki	[=chentero][NRoot][=palm.tree.sp. (ES: ponilla, sp.de.palmera)][--][-
         <sentence lang="prq">Icheraakotakeri nani rirenti tsireniriki.</sentence>
         <sentence lang="es">Mi cuñado gritó a su hermano en la noche.</sentence>
         <sentence lang="en">My brother-in-law spoke with anger to his brother at night.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="fully">
 
 
 nani	[n-][NPers][1SG.poss+][--][=ani+m.+poss@ri.][NRoot][=brother.in.law (kin.of.a.male)]
