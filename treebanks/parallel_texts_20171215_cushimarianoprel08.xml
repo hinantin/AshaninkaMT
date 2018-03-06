@@ -2299,7 +2299,7 @@ inkani	[=inkani+n.m.][NRoot][=rain (ES: lluvia)]
     <text id="87">
         <sentence lang="prq">Riyaati pabachori icheki chenko ishitamenkotantyabori ipanko.</sentence>
         <sentence lang="es">Mi tío fue a cortar sachaponilla para emponar su casa.</sentence>
-        <sentence lang="en">Uncle went to cut the palm-tree in order to cover his with floor boards </sentence>
+        <sentence lang="en">Uncle went to cut the palm-tree in order to cover his house with floor boards.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -2318,7 +2318,7 @@ ipanko	[i-][NPers][3m.poss+][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa)
 .	.[$.]
 
 </morphology>
-        <parsing/>
+        <parsing format="CoNLL" analysislevel="not-fully"/>
     </text>
     <text id="88">
         <sentence lang="prq">Ijeekaeyeni inkaareki chenkoripaye.</sentence>
