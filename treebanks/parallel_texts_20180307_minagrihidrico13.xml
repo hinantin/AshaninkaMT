@@ -55,8 +55,8 @@ anampisato	[a-][NPers][1PL.poss+][--][=nampi+n.m.+inal@tsi.][NRoot][=village; pl
         <parsing format="" analysislevel=""/>
     </text>
     <text id="5">
-        <sentence lang="prq">TÍTULO PRELIMINAR</sentence>
-        <sentence lang="es">OETOTARI INTANAKARORI</sentence>
+        <sentence lang="prq">OETOTARI INTANAKARORI</sentence>
+        <sentence lang="es">TÍTULO PRELIMINAR</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
@@ -67,8 +67,14 @@ anampisato	[a-][NPers][1PL.poss+][--][=nampi+n.m.+inal@tsi.][NRoot][=village; pl
         <parsing format="" analysislevel=""/>
     </text>
     <text id="7">
-        <sentence lang="prq">La presente Ley regula el uso y gestión de los recursos hídricos.</sentence>
-        <sentence lang="es">Osaeki ikantakantaetire Ñaantsi antiro amenakotero ashitari nijasato</sentence>
+        <sentence lang="prq">Osaeki ikantakantaetire Ñaantsi antiro amenakotero ashitari nijasato</sentence>
+        <sentence lang="es">La presente Ley regula el uso y gestión de los recursos hídricos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8">
+        <sentence lang="prq">Amenakoteronija obirara oshintsitantari timimotirori irotakeotsipatayetari.</sentence>
+        <sentence lang="es">Comprende el agua superficial, subterránea, continental y los bienes asociados a esta.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
