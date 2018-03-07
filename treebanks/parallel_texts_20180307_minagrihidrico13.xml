@@ -6,8 +6,26 @@
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1">
-        <sentence lang="prq">“[…] El gobierno hace eco de la alerta mundial sobre el cambio climático y se compromete a fortalecer la regulación y dedicarse con seriedad a las labores de preservación de nuestra biodiversidad, del recurso hídrico y de los glaciares”.</sentence>
-        <sentence lang="es">“[…] Anampitsiteki ora ipaematanakero okanta aninkate aisati ibetsikanakero akotajero akante iroperote aminero antabaerenti amabentakotyaro aisati otimera aminakotirori, ora ashitari nijasato aisati shakarapaye”.</sentence>
+        <sentence lang="prq">“[…] Anampitsiteki ora ipaematanakero okanta aninkate aisati ibetsikanakero akotajero akante iroperote aminero antabaerenti amabentakotyaro aisati otimera aminakotirori, ora ashitari nijasato aisati shakarapaye”.</sentence>
+        <sentence lang="es">“[…] El gobierno hace eco de la alerta mundial sobre el cambio climático y se compromete a fortalecer la regulación y dedicarse con seriedad a las labores de preservación de nuestra biodiversidad, del recurso hídrico y de los glaciares”.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="2">
+        <sentence lang="prq">Ollanta Humala Taso</sentence>
+        <sentence lang="es">Ollanta Humala Tasso</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3">
+        <sentence lang="prq">Pinkatsari obitsikakotirori anamPisato</sentence>
+        <sentence lang="es">Presidente ConstituCional del Perú</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="4">
+        <sentence lang="prq">28 ora joriokikashirisarentsi 2013</sentence>
+        <sentence lang="es">28 de julio de 2013</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
