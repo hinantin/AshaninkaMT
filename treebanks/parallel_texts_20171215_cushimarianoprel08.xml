@@ -784,15 +784,17 @@ paamariki	[=paamari+n.m.][NRoot][=fire (ES: candela, fuego)][--][-ki][Cas][+LOC_
         <sentence lang="prq">Itinairo irianeerikipaye rakopero.</sentence>
         <sentence lang="es">Los niños levantan la mano derecha.</sentence>
         <sentence lang="en">Children raise their right hand.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
-itinairo	[i-][VPers][3m.S/A+][--][=tina][VRoot][=to.lift (ES: levantar)][--][-i][+IRR]i[--][=ro][+3n.m.O]
+
+itinairo	[i-][VPers][3m.A+][--][=tina][VRoot][=to.lift (ES: levantar)][--][-i][+IRR]i[--][=ro][+3n.m.O]
 
 irianeerikipaye	[=irianeeriki+m.][NRoot][=child (ES: niño)][--][-paye][Num][+PL]
 
 rakopero	[r-][NPers][3m.poss+][--][=akopero+inal@n/tsi.][NRoot][=right.hand (ES: mano.derecha)]
 
 .	.[$.]
+
 </morphology>
         <parsing/>
     </text>
