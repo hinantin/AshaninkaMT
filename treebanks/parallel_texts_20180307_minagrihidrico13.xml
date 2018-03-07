@@ -1,0 +1,14 @@
+<parallel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="parallel_texts.xsd">
+    <text id="0">
+        <sentence lang="prq">Ñaantsi ashitari Nijasato (Nº 29338)</sentence>
+        <sentence lang="es">Ley de Recursos Hídricos (Nº 29338)</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1">
+        <sentence lang="prq">“[…] El gobierno hace eco de la alerta mundial sobre el cambio climático y se compromete a fortalecer la regulación y dedicarse con seriedad a las labores de preservación de nuestra biodiversidad, del recurso hídrico y de los glaciares”.</sentence>
+        <sentence lang="es">“[…] Anampitsiteki ora ipaematanakero okanta aninkate aisati ibetsikanakero akotajero akante iroperote aminero antabaerenti amabentakotyaro aisati otimera aminakotirori, ora ashitari nijasato aisati shakarapaye”.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+</parallel>
