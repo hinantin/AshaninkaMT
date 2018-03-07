@@ -2,7 +2,22 @@
     <text id="0">
         <sentence lang="prq">Ñaantsi ashitari Nijasato (Nº 29338)</sentence>
         <sentence lang="es">Ley de Recursos Hídricos (Nº 29338)</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ñaantsi	[=nyaa+n.m.+inal@ntsi.+poss@ne.][NRoot][=word (ES: palabra); language][--][-ntsi+alien.][Gen][+nposs]ntsi
+
+ashitari	[=ashit][VRoot][=to.have, to.own, to.possess][--][-a][+EP]a[--][-ri+m.][NS][+NMZ]ri
+
+nijasato	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)][--][-sato+n.m.][NS][+CL:human.provenance][=deriving.location.names, human.provenance]
+
+(	([$.]
+
+
+
+)	)[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1">
