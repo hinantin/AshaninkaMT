@@ -2477,7 +2477,7 @@ tsireniriki	[=tsireniri][NRoot][=night (ES: noche)][--][-ki][Cas][+LOC.T]
     <text id="94">
         <sentence lang="prq">Antabotonaatake ichera charine.</sentence>
         <sentence lang="es">Mi abuelo tiene labios gruesos.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
             
 
 ???
@@ -2494,7 +2494,21 @@ charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)
     <text id="95">
         <sentence lang="prq">ñaamatari nani cherenkantsi shima.</sentence>
         <sentence lang="es">A mi cuñado le gusta el pescado frito.</sentence>
-        <morphology/>
+        <sentence lang="en"/>
+        <morphology>
+
+
+ñaamatari	[=nyaama][VRoot][=to.covet.sth. (ES: codiciar); to.like.sth. (ES: gustar)][--][-t][+EP]t[--][-a][+REAL]a[--][=ri][+3m.O]
+
+nani	[n-][NPers][1SG.poss+][--][=ani+m.+poss@ri.][NRoot][=brother.in.law (kin.of.a.male)]
+
+cherenkantsi	[=cherenk][VRoot][=to.fry.sth.][--][-antsi][NS][+NMZ.INF]antsi
+
+shima	[=shima+m.+poss@ni.][NRoot][=fish; fish.sp., boquichico-fish (ES: boquichico, chupadora; sci.nm.: prochilodus.nigricans)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="96">
