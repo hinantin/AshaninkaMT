@@ -33,9 +33,18 @@ nijasato	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)][--]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="3">
-        <sentence lang="prq">Pinkatsari obitsikakotirori anamPisato</sentence>
+        <sentence lang="prq">Pinkatsari obitsikakotirori anampisato</sentence>
         <sentence lang="es">Presidente ConstituCional del Perú</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+pinkatsari	[=pinkatsari+m.+voc.+poss@te.][NRoot][=chief (ES: jefe)]
+
+obitsikakotirori	[o-][VPers][3n.m.A+][--][=vitsik][VRoot][=to.create, to.build][--][-ako][+APPL.GEN][=with.reference.to.sth.; about.sth.]ako[--][-t][+EP]t[--][-i][+REAL]i[--][=ro][+3n.m.O][--][=ri][NS][+REL]
+
+anampisato	[a-][NPers][1PL.poss+][--][=nampi+n.m.+inal@tsi.][NRoot][=village; place; country; settlement][--][-sato+n.m.][NS][+CL:human.provenance][=deriving.location.names, human.provenance]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="4">
