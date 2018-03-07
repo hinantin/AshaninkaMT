@@ -823,7 +823,7 @@ iriri	[ir-][NPers][3m.poss+][--][=iri+m.][NRoot][=father (kin.of.a.fe/male)]
         <sentence lang="prq">Aanakero amaani pitotsi.</sentence>
         <sentence lang="es">La creciente llevó la canoa.</sentence>
         <sentence lang="en">The increase carried the canoe.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 aanakero	[=a][VRoot][=to.take (ES: agarrar)][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ro][+3n.m.O]
 
