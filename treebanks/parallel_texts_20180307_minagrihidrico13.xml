@@ -24,8 +24,26 @@
         <parsing format="" analysislevel=""/>
     </text>
     <text id="4">
-        <sentence lang="prq">28 ora joriokikashirisarentsi 2013</sentence>
+        <sentence lang="prq">28 ora jorioki kashiri sarentsi 2013</sentence>
         <sentence lang="es">28 de julio de 2013</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="5">
+        <sentence lang="prq">TÍTULO PRELIMINAR</sentence>
+        <sentence lang="es">OETOTARI INTANAKARORI</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="6">
+        <sentence lang="prq">Abakojetiro I. Anterinta</sentence>
+        <sentence lang="es">Artículo I. Contenido</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="7">
+        <sentence lang="prq">La presente Ley regula el uso y gestión de los recursos hídricos.</sentence>
+        <sentence lang="es">Osaeki ikantakantaetire Ñaantsi antiro amenakotero ashitari nijasato</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
