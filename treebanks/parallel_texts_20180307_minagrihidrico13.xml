@@ -34,7 +34,8 @@ nijasato	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)][--]
     </text>
     <text id="3">
         <sentence lang="prq">Pinkatsari obitsikakotirori anampisato</sentence>
-        <sentence lang="es">Presidente ConstituCional del Perú</sentence>
+        <sentence lang="es">Presidente Constitucional del Perú</sentence>
+        <!-- Chief of our country -->
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
