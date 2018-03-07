@@ -803,7 +803,7 @@ rakopero	[r-][NPers][3m.poss+][--][=akopero+inal@n/tsi.][NRoot][=right.hand (ES:
         <sentence lang="prq">Robaakiro entsi rako rakatsatantyaariri iriri.</sentence>
         <sentence lang="es">El niño alza la mano para agarrar a su padre.</sentence>
         <sentence lang="en">The child raises the hand in order to grab his father.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 robaakiro	[ro-][VPers][3n.m.A+][--][=v][VRoot][=to.put, to.place (ES: poner, colocar)][--][-aak][ASP][+PRF]aak[--][-i][+IRR]i[--][=ro][+3n.m.O]
 
