@@ -2514,18 +2514,19 @@ shima	[=shima+m.+poss@ni.][NRoot][=fish; fish.sp., boquichico-fish (ES: boquichi
     <text id="96">
         <sentence lang="prq">Robatyaari cherepito mereto ikentakeri inkaareki.</sentence>
         <sentence lang="es">El martín pescador está comiendo su mojarra que pescó en la cocha.</sentence>
+        <sentence lang="en">The ringed kingfisher is eating the mojarra-fish that he stung in the lake.</sentence>
         <morphology>
 
 
-robatyaari	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-aty][ASP][+PROG]aty[--][-a][+EP]a[--][-a][+REAL]a[--][=ri][+3m.O]
+robatyaari	[r-][VPers][3m.A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-aty][ASP][+PROG]aty[--][-a][+EP]a[--][-a][+REAL]a[--][=ri][+3m.O]
 
 cherepito	[=cherepito][NRoot][=ringed.kingfisher (ES: martín.pescador.(sp.de.ave); sci.nm.: ceryle.torquata)]
 
 mereto	[=mereto+m.][NRoot][=fish.sp., mojarra-fish (ES: anchoveta, mojarra; sci.nm.: astyanax.fasciatus)]
 
-ikentakeri	[i-][VPers][3m.S/A+][--][=kent][VRoot][=to.pierce.with.arrows, to.shoot.arrows; to.sting (ES: picar)][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=ri][+3m.O]
+ikentakeri	[i-][VPers][3m.S+][--][=kent][VRoot][=to.sting (ES: picar)][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=ri][NS][+REL]
 
-inkaareki	[=inkaare+n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)][--][-ki][Cas][+LOC_LOC.T]
+inkaareki	[=inkaare+n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)][--][-ki][Cas][+LOC]
 
 .	.[$.]
 
