@@ -2494,11 +2494,11 @@ charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)
     <text id="95">
         <sentence lang="prq">ñaamatari nani cherenkantsi shima.</sentence>
         <sentence lang="es">A mi cuñado le gusta el pescado frito.</sentence>
-        <sentence lang="en"/>
+        <sentence lang="en">My brother-in-law likes fried fish.</sentence>
         <morphology>
 
 
-ñaamatari	[=nyaama][VRoot][=to.covet.sth. (ES: codiciar); to.like.sth. (ES: gustar)][--][-t][+EP]t[--][-a][+REAL]a[--][=ri][+3m.O]
+ñaamatari	[=nyaama][VRoot][=to.like.sth. (ES: gustar)][--][-t][+EP]t[--][-a][+REAL]a[--][=ri][+3m.O]
 
 nani	[n-][NPers][1SG.poss+][--][=ani+m.+poss@ri.][NRoot][=brother.in.law (kin.of.a.male)]
 
