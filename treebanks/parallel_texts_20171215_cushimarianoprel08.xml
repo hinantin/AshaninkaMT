@@ -2515,7 +2515,7 @@ shima	[=shima+m.+poss@ni.][NRoot][=fish; fish.sp., boquichico-fish (ES: boquichi
         <sentence lang="prq">Robatyaari cherepito mereto ikentakeri inkaareki.</sentence>
         <sentence lang="es">El martín pescador está comiendo su mojarra que pescó en la cocha.</sentence>
         <sentence lang="en">The ringed kingfisher is eating the mojarra-fish that he stung in the lake.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="fully">
 
 
 robatyaari	[r-][VPers][3m.A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-aty][ASP][+PROG]aty[--][-a][+EP]a[--][-a][+REAL]a[--][=ri][+3m.O]
