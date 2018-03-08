@@ -84,4 +84,22 @@ anampisato	[a-][NPers][1PL.poss+][--][=nampi+n.m.+inal@tsi.][NRoot][=village; pl
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="10">
+        <sentence lang="prq">Abakojetiro II. Anibetarori</sentence>
+        <sentence lang="es">Artículo II. Finalidad</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="11">
+        <sentence lang="prq">Osaeki ikantakantaetiri Ñaantsi timatsi onintakaro aminakotero atsipatyaro nija,</sentence>
+        <sentence lang="es">La presente Ley tiene por finalidad regular el uso y gestión integrada del agua,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="12">
+        <sentence lang="prq">antiro asaekantari Anampitsite aisati pashinesato aminerori, okemitari ashitari atsipatayetari.</sentence>
+        <sentence lang="es">la actuación del Estado y los particulares en dicha gestión, así como en los bienes asociados a esta.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
