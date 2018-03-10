@@ -2536,7 +2536,16 @@ inkaareki	[=inkaare+n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)][--][-ki][
     <text id="97">
         <sentence lang="prq">Chetakitaki entsi otyaakitakeri impaneki chapinki iñaatsabaetantari.</sentence>
         <sentence lang="es">El niño está legañoso por que le entró arena ayer cuando jugaba.</sentence>
-        <morphology/>
+        <morphology>
+
+
+chetakitaki	[=chetaki+inal@ntsi.][NRoot][=rheum (ES: legaña)]::[=to.have.rheum.in.the.eye (ES: tener.legaña, estar.legañoso)]+vbz.[--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-i][+REAL]i
+
+entsi	[=entsi+n./m.+poss@te.][NRoot][=child (ES: niño)]
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="98">
