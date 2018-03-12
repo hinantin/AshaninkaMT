@@ -126,7 +126,7 @@ anampisato	[a-][NPers][1PL.poss+][--][=nampi+n.m.+inal@tsi.][NRoot][=village; pl
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-opinatatya	[o-][VPers][3n.m.S/A+][--][=pina][VRoot][=to.pay, to.pay.off (a_debt), to.be.free.of.debt; to.cost (ES: costar, valer); to.give][--][-t][+EP]t[--][-aty][ASP][+PROG]aty[--][-a][+REAL]a
+opinatatya	[o-][VPers][3n.m.S/A+][--][=pina][VRoot][=to.cost (ES: costar, valer)][--][-t][+EP]t[--][-aty][ASP][+PROG]aty[--][-a][+REAL]a
 
 </morphology>
         <parsing format="" analysislevel=""/>
