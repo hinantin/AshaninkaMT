@@ -114,4 +114,10 @@ anampisato	[a-][NPers][1PL.poss+][--][=nampi+n.m.+inal@tsi.][NRoot][=village; pl
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="15">
+        <sentence lang="prq">1. Intakantero anintero nija aminakotero otsipataro nijaki.</sentence>
+        <sentence lang="es">1. Principio de valoración del agua y de gestión integrada del agua</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
