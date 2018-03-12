@@ -126,6 +126,10 @@ anampisato	[a-][NPers][1PL.poss+][--][=nampi+n.m.+inal@tsi.][NRoot][=village; pl
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
+ora	[=ora+n.m.+medial][PrnDem][=that (ES: esa)]
+
+nija	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
+
 opinatatya	[o-][VPers][3n.m.S/A+][--][=pina][VRoot][=to.cost (ES: costar, valer)][--][-t][+EP]t[--][-aty][ASP][+PROG]aty[--][-a][+REAL]a
 
 </morphology>
