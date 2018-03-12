@@ -158,4 +158,16 @@ aninkamentotsi	[=aninka][VRoot][=to.breath (ES: respirar)][--][-mento+n.m.][NS][
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="18">
+        <sentence lang="prq">yantantaetarori otime yaminakoitero otsipatyaro pashinesato.</sentence>
+        <sentence lang="es">por lo que su uso debe basarse en la gestión integrada y en el equilibrio entre estos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="19">
+        <sentence lang="prq">Nija irotake otsipatari opaemati onijantiro abakiratero anijasatoteki.</sentence>
+        <sentence lang="es">El agua es parte integrante de los ecosistemas y renovable a través del ciclo hidrológico.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
