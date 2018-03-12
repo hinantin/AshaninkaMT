@@ -167,7 +167,16 @@ aninkamentotsi	[=aninka][VRoot][=to.breath (ES: respirar)][--][-mento+n.m.][NS][
     <text id="19">
         <sentence lang="prq">Nija irotake otsipatari opaemati onijantiro abakiratero anijasatoteki.</sentence>
         <sentence lang="es">El agua es parte integrante de los ecosistemas y renovable a través del ciclo hidrológico.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+nija	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
+
+irotake	[=irotake+cntr.exh.l.+foc.][PrnPers][+3SG.n.m.][=that's.why; she, she.is.the.one.(who), it.is.the.one.(that)]
+
+otsipatari	[o-][NPers][3n.m.poss+][--][=tsipat][VRoot][=to.accompany; to.join; to.combine (ES: combinar)][--][-a][+EP]a[--][-ri+m.][NS][+ADJ.NMZ]ri
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
 </parallel>
