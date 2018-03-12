@@ -121,9 +121,14 @@ anampisato	[a-][NPers][1PL.poss+][--][=nampi+n.m.+inal@tsi.][NRoot][=village; pl
         <parsing format="" analysislevel=""/>
     </text>
     <text id="16">
-        <sentence lang="prq"/>
-        <sentence lang="es"/>
-        <morphology format="" analysislevel=""/>
+        <sentence lang="prq">Ora nija opinatatya otsipatero ametari,</sentence>
+        <sentence lang="es">El agua tiene valor sociocultural,</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+opinatatya	[o-][VPers][3n.m.S/A+][--][=pina][VRoot][=to.pay, to.pay.off (a_debt), to.be.free.of.debt; to.cost (ES: costar, valer); to.give][--][-t][+EP]t[--][-aty][ASP][+PROG]aty[--][-a][+REAL]a
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
 </parallel>
