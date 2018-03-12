@@ -102,15 +102,15 @@ anampisato	[a-][NPers][1PL.poss+][--][=nampi+n.m.+inal@tsi.][NRoot][=village; pl
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
-    <text id="">
-        <sentence lang=""/>
-        <sentence lang=""/>
+    <text id="13">
+        <sentence lang="prq">Abakojetiro III. Intakanteroni</sentence>
+        <sentence lang="es">Artículo III. Principios</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
-    <text id="">
-        <sentence lang=""/>
-        <sentence lang=""/>
+    <text id="14">
+        <sentence lang="prq">Intakanteroni onijairo aminakoteri otsipatairo ashintari nijasato okarati:</sentence>
+        <sentence lang="es">Los principios que rigen el uso y gestión integrada de los recursos hídricos son:</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
