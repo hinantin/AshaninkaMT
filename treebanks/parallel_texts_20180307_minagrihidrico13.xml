@@ -132,6 +132,29 @@ nija	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
 
 opinatatya	[o-][VPers][3n.m.S/A+][--][=pina][VRoot][=to.cost (ES: costar, valer)][--][-t][+EP]t[--][-aty][ASP][+PROG]aty[--][-a][+REAL]a
 
+# -ro NMZ ???
+otsipatero	[o-][VPers][3n.m.S/A+][--][=tsip][VRoot][=to.accompany; to.be.together; to.join][--][-a][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]a[--][-t][+EP]t[--][-e][+IRR]e[--][=ro][+3n.m.O]
+
+ametari	[=amet][VRoot][=to.be.accustomed (ES: acostumbrar(se))][--][-a][+EP]a[--][-ri+m.][NS][+NMZ]ri
+
+
+</morphology>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="17">
+        <sentence lang="prq">opinatatya opinata aninkamentotsi,</sentence>
+        <sentence lang="es">valor económico y valor ambiental,</sentence>
+        <morphology format="" analysislevel="">
+
+
+opinatatya	[o-][VPers][3n.m.S/A+][--][=pina][VRoot][=to.cost (ES: costar, valer)][--][-t][+EP]t[--][-aty][ASP][+PROG]aty[--][-a][+REAL]a
+
+opinata	[o-][VPers][3n.m.S/A+][--][=pina][VRoot][=to.pay, to.pay.off (a_debt), to.be.free.of.debt; to.cost (ES: costar, valer); to.give][--][-t][+EP]t[--][-a][+REAL]a
+
+aninkamentotsi	[=aninka][VRoot][=to.breath (ES: respirar); to.sigh (ES: suspirar)][--][-mento+n.m.][NS][+NMZ.CONCR]mento[--][-tsi+alien.][Gen][+nposs]tsi
+
+
+
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
