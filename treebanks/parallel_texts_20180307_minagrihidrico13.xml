@@ -120,4 +120,10 @@ anampisato	[a-][NPers][1PL.poss+][--][=nampi+n.m.+inal@tsi.][NRoot][=village; pl
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="16">
+        <sentence lang="prq"/>
+        <sentence lang="es"/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
