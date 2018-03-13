@@ -275,4 +275,10 @@ otsipatari	[o-][NPers][3n.m.poss+][--][=tsipat][VRoot][=to.accompany; to.join; t
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="36">
+        <sentence lang="prq">Okantya iroperote aminakotero nija, ajebatero ashitari Anampitsite Aminakotero Nija Ayotero Ashitari Nijasato yaminakotero jebaripaye aparoni kantabaeshiyetachari.</sentence>
+        <sentence lang="es">Para una efectiva gestión pública del agua, la conducción del Sistema Nacional de Gestión de los Recursos Hídricos es de responsabilidad de una autoridad única y desconcentrada.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
