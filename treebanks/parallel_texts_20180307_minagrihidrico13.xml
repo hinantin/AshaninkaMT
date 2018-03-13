@@ -215,4 +215,22 @@ otsipatari	[o-][NPers][3n.m.poss+][--][=tsipat][VRoot][=to.accompany; to.join; t
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="26">
+        <sentence lang="prq">4. Intanakero amakotari atsiteteari</sentence>
+        <sentence lang="es">4. Principio de seguridad jurídica</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="27">
+        <sentence lang="prq">Asaekantari otime akobakaeri kantakobentantsi ashitaro antero nija.</sentence>
+        <sentence lang="es">El Estado consagra un régimen de derechos para el uso del agua.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="28">
+        <sentence lang="prq">Anijantero aminero apinkatsatero onintakaro opiro amakotantsi atiriteteari ipaeterori yantero ashitari maaroni pashinetatire apatyantsi.</sentence>
+        <sentence lang="es">Promueve y vela por el respeto de las condiciones que otorgan seguridad jurídica a la inversión relacionada con su uso, sea pública o privada o en coparticipación.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
