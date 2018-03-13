@@ -251,4 +251,16 @@ otsipatari	[o-][NPers][3n.m.poss+][--][=tsipat][VRoot][=to.accompany; to.join; t
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="32">
+        <sentence lang="prq">6. Intanakero antsitakotari</sentence>
+        <sentence lang="es">6. Principio de sostenibilidad</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33">
+        <sentence lang="prq">Ora Anampitsiteasaekantari anijantero aisati aminero anintaro aisati aminero ametakotero ashitari nijasato amakotaro okantashitya okameetsati, osaikakotanakera osaekika.</sentence>
+        <sentence lang="es">El Estado promueve y controla el aprovechamiento y conservación sostenible de los recursos hídricos previniendo la afectación de su calidad ambiental y de las condiciones naturales de su entorno, como parte del ecosistema donde se encuentran.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
