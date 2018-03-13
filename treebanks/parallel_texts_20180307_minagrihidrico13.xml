@@ -269,4 +269,10 @@ otsipatari	[o-][NPers][3n.m.poss+][--][=tsipat][VRoot][=to.accompany; to.join; t
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="35">
+        <sentence lang="prq">7. Intanakarori osaekakote amenakotero nija aparoni jebabinterori</sentence>
+        <sentence lang="es">7. Principio de descentralización de la gestión pública del agua y de autoridad única</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
