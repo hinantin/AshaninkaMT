@@ -299,4 +299,22 @@ otsipatari	[o-][NPers][3n.m.poss+][--][=tsipat][VRoot][=to.accompany; to.join; t
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="40">
+        <sentence lang="prq">9. Principio de eficiencia</sentence>
+        <sentence lang="es">9. Intanakarori akobitya</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="41">
+        <sentence lang="prq">Aminakoterori apatyantsi ashitari nijasato okanta aminakotero anintaeyaro amakotyaro, abamitero ojebateametari yantero, saekayetatiri aisati antaberenti.</sentence>
+        <sentence lang="es">La gestión integrada de los recursos hídricos se sustenta en el aprovechamiento eficiente y su conservación, incentivando el desarrollo de una cultura de uso eficiente entre los usuarios y operadores.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="42">
+        <sentence lang="prq">10. Intanakarori aminakotantsi apatyero antero asaekira nijasato</sentence>
+        <sentence lang="es">10. Principio de gestión integrada participativa por cuenca hidrográfica</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
