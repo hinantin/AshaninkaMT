@@ -197,4 +197,16 @@ otsipatari	[o-][NPers][3n.m.poss+][--][=tsipat][VRoot][=to.accompany; to.join; t
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="23">
+        <sentence lang="prq">Ora Anampitsite antero ametakotiro ashitarori saikatire jebabinterori kobantiri oñashirinkiri nija okarati okameetsati, oshekite, ipaitero aparoni ashitari.</sentence>
+        <sentence lang="es">El Estado crea mecanismos para la participación de los usuarios y de la población organizada en la toma de decisiones que afectan el agua en cuanto a calidad, cantidad, oportunidad u otro atributo del recurso.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="24">
+        <sentence lang="prq">Obakotiro oshintsitantari oshibate kameetsa yaminakobentero jebabinterori nija.</sentence>
+        <sentence lang="es">Fomenta el fortalecimiento institucional y el desarrollo técnico de las organizaciones.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
