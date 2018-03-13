@@ -287,4 +287,16 @@ otsipatari	[o-][NPers][3n.m.poss+][--][=tsipat][VRoot][=to.accompany; to.join; t
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="38">
+        <sentence lang="prq">8. Principio precautorio</sentence>
+        <sentence lang="es">8. Intanakarori amabentantsi</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39">
+        <sentence lang="prq">Tera osaeki okobatya okobinkatakoti yantaetero yashiritaro osaekira nija tekatsi kobatina nija aero ikobakaetero ashityano omonkarata te enintakaetero osantsati.</sentence>
+        <sentence lang="es">La ausencia de certeza absoluta sobre el peligro de daño grave o irreversible que amenace las fuentes de agua no constituye impedimento para adoptar medidas que impidan su degradación o extinción.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
