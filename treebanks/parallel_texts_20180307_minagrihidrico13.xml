@@ -209,4 +209,10 @@ otsipatari	[o-][NPers][3n.m.poss+][--][=tsipat][VRoot][=to.accompany; to.join; t
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="25">
+        <sentence lang="prq">Ora inijantero abakotero obametantsiki, akantakotero anintakaire,iri jebabinterori ashitari, obametantsi itsipanampayetari aisati iroperotatsi nija yashi atiripayeaisati onijantero iyotaantsi antire ita ametakotanake ante aisati okameetsate opinatya.</sentence>
+        <sentence lang="es">Promueve programas de educación, difusión y sensibilización, mediante las autoridades del sistema educativo y la sociedad civil, sobre la importancia del agua para la humanidad y los sistemas ecológicos, generando conciencia y actitudes que propicien su buen uso y valoración.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
