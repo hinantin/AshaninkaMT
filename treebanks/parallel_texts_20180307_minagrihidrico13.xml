@@ -263,4 +263,10 @@ otsipatari	[o-][NPers][3n.m.poss+][--][=tsipat][VRoot][=to.accompany; to.join; t
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="34">
+        <sentence lang="prq">Anteroni aisati aminabaetantari okobakari otimaje opinatya ojebate anampitsiteki okemitara akobakaero kobityachari pokatsireri akaraeyani Iroñaaka aisati opokayeri.</sentence>
+        <sentence lang="es">El uso y gestión sostenible del agua implica la integración equilibrada de los aspectos socioculturales, ambientales y económicos en el desarrollo nacional, así como la satisfacción de las necesidades de las actuales y futuras generaciones.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
