@@ -281,4 +281,10 @@ otsipatari	[o-][NPers][3n.m.poss+][--][=tsipat][VRoot][=to.accompany; to.join; t
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="37">
+        <sentence lang="prq">Antabaitanajero nijasato okanta yashitarori kantainchari osaeki iro te iroperote.</sentence>
+        <sentence lang="es">La gestión pública del agua comprende también la de sus bienes asociados, naturales o artificiales.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
