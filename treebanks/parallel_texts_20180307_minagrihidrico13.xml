@@ -179,4 +179,22 @@ otsipatari	[o-][NPers][3n.m.poss+][--][=tsipat][VRoot][=to.accompany; to.join; t
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="20">
+        <sentence lang="prq">2. Intanakero kobachari okini nija</sentence>
+        <sentence lang="es">2. Principio de prioridad en el acceso al agua</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="21">
+        <sentence lang="prq">Ari akianaki aminero nija onintakaro okobichemotari atiripaye okanta akobakaro kantakobentantsi iroperori ara antakanteri temariari okobicheya osarentsi nija.</sentence>
+        <sentence lang="es">El acceso al agua para la satisfacción de las necesidades primarias de la persona humana es prioritario por ser un derecho fundamental sobre cualquier uso, inclusive en épocas de escasez.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="22">
+        <sentence lang="prq">3. Intanakero ametakoterorisaekayetatire ametarori nija</sentence>
+        <sentence lang="es">3. Principio de participación de la población y cultura del agua</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
