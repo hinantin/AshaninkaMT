@@ -239,4 +239,10 @@ otsipatari	[o-][NPers][3n.m.poss+][--][=tsipat][VRoot][=to.accompany; to.join; t
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="30">
+        <sentence lang="prq">Ora Anampitsite opinkatsatiro ametari aisati apotoyetachari poñenkarope ashitarori anampi okemitara okobi ipankatatero nija yobatayentatiri nija, ipatsitekipayeni, irotake ibakotantaetarori ikantakantatsi Ñaantsi.</sentence>
+        <sentence lang="es">El Estado respeta los usos y costumbres de las comunidades campesinas y comunidades nativas, así como su derecho de utilizar las aguas que discurren por sus tierras, en tanto no se oponga a la Ley.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
