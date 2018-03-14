@@ -6478,9 +6478,23 @@ mapi	[=mapi+n.m.+poss@ni:ne.][NRoot][=stone; rock]
         <parsing/>
     </text>
     <text id="688">
-        <sentence lang="prq">Iyataeyeni irianipaye yotaantsinpankoki riyotantyaari.</sentence>
+        <!-- Iyataeyeni irianipaye yotaantsinpankoki riyotantyaari. -->
+        <sentence lang="prq">Iyataeyeni irianipaye yotaantsipankoki riyotantyaari.</sentence>
         <sentence lang="es">Los alumnos se van a la escuela para aprender.</sentence>
-        <morphology/>
+        <morphology>
+
+
+iyataeyeni	[=iya][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-aey][+PL]aey[--][-e][+IRR]e[--][-ni+circumfixing][+PL]
+
+irianipaye	[=iriani+m.][AdjRoot][=small][--][-paye][Num][+PL_DIST]
+
+yotaantsipankoki	[y-][NPers][3m.poss+][--][=o][VRoot][=to.eat (ES: comer)][--][-t][+EP]t[--][-aantsi][NS][+NMZ.INF]aantsi[--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)][--][-ki][Cas][+LOC_LOC.T]
+
+riyotantyaari	[r-][VPers][3m.S/A+][--][=iyot][VRoot][=to.know, to.understand (ES: saber, entender)][--][-ant][Asp][+APPL.REAS][=in.order.to]ant[--][-yaa][+IRR]yaa[--][=ri][NS][+REL]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <!-- ***********************************************
