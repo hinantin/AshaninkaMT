@@ -323,4 +323,10 @@ otsipatari	[o-][NPers][3n.m.poss+][--][=tsipat][VRoot][=to.accompany; to.join; t
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="44">
+        <sentence lang="prq">Iro nija obakotya okoñatantyari apitajero antero opaemati apitero okinira opaemati enijantaetiro obira nijasato.</sentence>
+        <sentence lang="es">El agua constituye parte de los ecosistemas y es renovable a través de los procesos del ciclo hidrológico.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
