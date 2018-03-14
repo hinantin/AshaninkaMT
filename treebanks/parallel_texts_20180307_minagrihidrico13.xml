@@ -317,4 +317,10 @@ otsipatari	[o-][NPers][3n.m.poss+][--][=tsipat][VRoot][=to.accompany; to.join; t
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="43">
+        <sentence lang="prq">Iroyantantarorinijaotimeamonkarabakaeya, otime opinatya aninkatanta,aisati aminakoterori otime yapatyaro nijasato amitakotantsi.</sentence>
+        <sentence lang="es">El uso del agua debe ser óptimo y equitativo, basado en su valor social, económico y ambiental, y su gestión debe ser integrada por cuenca hidrográfica y con participación activa de la población organizada.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
