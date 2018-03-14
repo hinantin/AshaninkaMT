@@ -329,4 +329,16 @@ otsipatari	[o-][NPers][3n.m.poss+][--][=tsipat][VRoot][=to.accompany; to.join; t
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="45">
+        <sentence lang="prq">11. Principio de tutela jurídica</sentence>
+        <sentence lang="es">11. Intanakarori akantakobenteri obakotachari</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46">
+        <sentence lang="prq">Ora Anampitsite amakotaro, aminero aisati akempoyero nija ashitari okantashita ameneri oñero: iraetiri, okameetsati opochatsi, aisatiokantabaetaomonkaratanijatepirotatsire.</sentence>
+        <sentence lang="es">El Estado protege, supervisa y fiscaliza el agua en sus fuentes naturales o artificiales y en el estado en que se encuentre: líquido, sólido o gaseoso, y en cualquier etapa del ciclo hidrológico.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
