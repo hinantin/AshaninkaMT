@@ -6474,7 +6474,18 @@ mapi	[=mapi+n.m.+poss@ni:ne.][NRoot][=stone; rock]
     <text id="687.3">
         <sentence lang="prq">Otimatye piyotero inchashi aabintantatsiri pamitakotantyaariri mantsiyare.</sentence>
         <sentence lang="es">Tienes que conocer las plantas curativas para ayudar a los enfermos.</sentence>
-        <morphology/>
+        <morphology>
+
+
+otimatye	[o-][VPers][3n.m.S/A+][--][=tim][VRoot][=to.have (ES: tener); to.give.birth][--][-aty][ASP][+PROG]aty[--][-e][+IRR]e
+
+piyotero	[p-][VPers][2S/A+][--][=iyot][VRoot][=to.know, to.understand (ES: saber, entender)][--][-e][+IRR]e[--][=ro][+3n.m.O]
+
+inchashi	[=inchashi+n.m.][NRoot][=herb; shrubs; weeds; medicinal.plant (ES: planta.curativa)]
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="688">
