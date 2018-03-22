@@ -2559,7 +2559,7 @@ iñaatsabaetantari	[i-][VPers][3m.S/A+][--][=nyaatsa][VRoot][=to.play; to.have.s
     <text id="98">
         <sentence lang="prq">Chobitake rotsitsite pabachori ratsikakerira jamani.</sentence>
         <sentence lang="es">El perro de mi tío tiene gusano donde lo mordió el majás.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 chobitake	[=chovi+m.+inal@tsi.][NRoot][=parasitic.worm; intestinal.worm.sp. (ES: gusano); insect.sp.]::[=to.have.worm(s) (ES: tener.gusano(s))]+vbz.[--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e
@@ -2580,7 +2580,24 @@ jamani	[=hamani+m.][NRoot][=rodent.sp., paca (ES: picuro, majás, majas, majaz, 
     <text id="99">
         <sentence lang="prq">Okantakena choeni: Aari pamekenabo noyotsiraanikite.</sentence>
         <sentence lang="es">Mi hermana me dijo: “Hermano, afila mi cuchillo”.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+okantakena	[o-][VPers][3n.m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=na][+1SG.O]
+
+choeni	[=choeni+n.m.][NRoot][=sister (kin.of.a.male, male.ego)]
+
+:	:[$.]
+
+aari	[=aari+m.][NRoot][=brother (kin.of.a.female, fem.ego; ES: hermano.de.mujer)]
+
+pamekenabo	[p-][VPers][2S/A+][--][=amek][VRoot][=to.sharpen (ES: afilar); to.polish][--][-e][+IRR]e[--][=na][+1SG.O][--][=vo][+3n.m.O]
+
+noyotsiraanikite	[no-][NPers][1SG.poss+][--][=kotsiraaniki+n.m.+poss@te.][NRoot][=machete, knife (ES: cuchillo)][--][-te][Gen][+aln.poss.]te
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="100">
