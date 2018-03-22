@@ -2606,7 +2606,20 @@ noyotsiraanikite	[no-][NPers][1SG.poss+][--][=kotsiraaniki+n.m.+poss@te.][NRoot]
     <text id="100">
         <sentence lang="prq">Obametaakeri choeni iñabaeti chokiyo.</sentence>
         <sentence lang="es">Mi hermana enseñó a hablar al perico.</sentence>
-        <morphology/>
+        <morphology>
+
+
+obametaakeri	[o-][VPers][3n.m.S/A+][--][=vame][VRoot][=to.teach (ES: enseñar)][--][-t][+EP]t[--][-aak][ASP][+PRF]aak[--][-e][+REAL]e[--][=ri][+3m.O]
+
+choeni	[=choeni+n.m.][NRoot][=sister (kin.of.a.male, male.ego)]
+
+iñabaeti	[i-][VPers][3m.S/A+][--][=nya][VRoot][=to.speak][--][-vae][ASP][+DUR]vae[--][-t][+EP]t[--][-i][+REAL]i
+
+chokiyo	[=chokiyo+m.][NRoot][=small.parrot.sp. (ES: perico/loro.pequeño, pihuicho; sci.nm.: forpus.xanthopterygius)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="101">
