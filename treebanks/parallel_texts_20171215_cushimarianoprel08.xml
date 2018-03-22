@@ -2648,7 +2648,23 @@ charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male)]
     <text id="102">
         <sentence lang="prq">Onkotsitakiro nana chomiyo antantyaari ochaapote.</sentence>
         <sentence lang="es">Mi mamá cocina moquichi para preparar chapo.</sentence>
-        <morphology/>
+        <sentence lang="en">Mother cooked the moquichi-banana in order to prepare the dessert</sentence>
+        <morphology>
+
+
+onkotsitakiro	[o-][VPers][3n.m.S/A+][--][N=][IRR+][--][=kotsi][VRoot][=to.cook (ES: cocinar)][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-i][+REAL]i[--][=ro][+3n.m.O]
+
+nana	[=nana+n.m.+voc.+poss@te:ti.][NRoot][=mom, mother (kin.of.a.fe/male; ES: mamá)]
+
+chomiyo	[=chomiyo][NRoot][=banana.sp. (ES: moquichi, sp.de.plátano)]
+
+antantyaari	[=ant][VRoot][=to.beat, to.hit; to.build, to.do, to.make][--][-ant][Asp][+APPL.REAS][=in.order.to]ant[--][-yaa][+REAL]yaa[--][=ri][+3m.O]
+
+ochaapote	[o-][NPers][3n.m.poss+][--][=chapo/chaapo+poss@te.][NRootEs][=dessert.recipe.prepared.with.plantains.&amp;.sugar.&amp;.milk.&amp;.cinnamon][--][-te][Gen][+aln.poss.]te
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="103">
