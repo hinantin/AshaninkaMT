@@ -2551,7 +2551,7 @@ chapinki	[=chapinki][NRoot][=the.other.day; yesterday (ES: ayer)]
 
 iñaatsabaetantari	[i-][VPers][3m.S/A+][--][=nyaatsa][VRoot][=to.play; to.have.sex (euphemism)][--][-vae][ASP][+DUR]vae[--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to]ant[--][-a][+REAL.RFL]a[--][=ri][NS][+REL]
 
-
+.	.[$.]
 
 </morphology>
         <parsing/>
@@ -2562,7 +2562,17 @@ iñaatsabaetantari	[i-][VPers][3m.S/A+][--][=nyaatsa][VRoot][=to.play; to.have.s
         <morphology>
 
 
+chobitake	[=chovi+m.+inal@tsi.][NRoot][=parasitic.worm; intestinal.worm.sp. (ES: gusano); insect.sp.]::[=to.have.worm(s) (ES: tener.gusano(s))]+vbz.[--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e
 
+rotsitsite	[r-][NPers][3m.poss+][--][=otsitsi+m.+poss@te.][NRoot][=dog (ES: perro)][--][-te][Gen][+aln.poss.]te
+
+pabachori	[=pavachori+m.+poss@ti.][NRoot][=uncle (kin.of.a.male)]
+
+ratsikakerira	[r-][VPers][3m.S/A+][--][=atsik][VRoot][=to.bite (ES: morder.(sujeto.animado))][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ri][+3m.O][--][=ra][+SUB][=Temporal:when;Location:where(place);Denoting.a.cause/motive/reason:since;Epist.uncertainty:Okay?]
+
+jamani	[=hamani+m.][NRoot][=rodent.sp., paca (ES: picuro, majás, majas, majaz, zamaño; sci.nm.: coelogenus.paca)]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
