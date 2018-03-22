@@ -2607,7 +2607,7 @@ noyotsiraanikite	[no-][NPers][1SG.poss+][--][=kotsiraaniki+n.m.+poss@te.][NRoot]
         <sentence lang="prq">Obametaakeri choeni iñabaeti chokiyo.</sentence>
         <sentence lang="es">Mi hermana enseñó a hablar al perico.</sentence>
         <sentence lang="en">Sister taught the small parrot to talk.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 obametaakeri	[o-][VPers][3n.m.S/A+][--][=vame][VRoot][=to.teach (ES: enseñar)][--][-t][+EP]t[--][-aak][ASP][+PRF]aak[--][-e][+REAL]e[--][=ri][+3m.O]
@@ -2624,9 +2624,25 @@ chokiyo	[=chokiyo+m.][NRoot][=small.parrot.sp. (ES: perico/loro.pequeño, pihuic
         <parsing/>
     </text>
     <text id="101">
-        <sentence lang="prq">Irika chomenta kemetaka iyomaro charine.</sentence>0
+        <sentence lang="prq">Irika chomenta kemetaka iyomaro charine.</sentence>
         <sentence lang="">Esta palometa se parece al remo de mi abuelo.</sentence>
-        <morphology/>
+        <sentence lang="en"/>
+        <morphology>
+
+
+irika	[=irika+m.+proximal][PrnDem][=this (ES: este)]
+
+chomenta	[=chomenta+m.][NRoot][=freshwater.fish.sp. (ES: palometa; sci.nm.: mylossoma.sp.)]
+
+kemetaka	[=keme][VRoot][=to.be.similar, to.seem, to.resemble, to.be.like][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-a][+REAL]a
+
+iyomaro	[i-][NPers][3m.poss+][--][=komaro+n.m.+inal@ntsi.][NRoot][=paddle, oar (ES: remo)]
+
+charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="102">
