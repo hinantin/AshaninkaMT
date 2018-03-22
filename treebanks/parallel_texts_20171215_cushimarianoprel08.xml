@@ -2649,7 +2649,7 @@ charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male)]
         <sentence lang="prq">Onkotsitakiro nana chomiyo antantyaari ochaapote.</sentence>
         <sentence lang="es">Mi mamá cocina moquichi para preparar chapo.</sentence>
         <sentence lang="en">Mother cooked the moquichi-banana in order to prepare the dessert.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 onkotsitakiro	[o-][VPers][3n.m.S/A+][--][N=][IRR+][--][=kotsi][VRoot][=to.cook (ES: cocinar)][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-i][+REAL]i[--][=ro][+3n.m.O]
