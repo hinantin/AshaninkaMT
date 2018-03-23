@@ -2752,7 +2752,22 @@ anampiki	[a-][NPers][1PL.poss+][--][=nampi+n.m.+inal@tsi.][NRoot][=village; plac
     <text id="107">
         <sentence lang="prq">Ratsi apa tonkaariki chorina ishirikashitantyaabori ipanko.</sentence>
         <sentence lang="es">Mi papá trae hojas de chorina del cerro para techar su casa.</sentence>
-        <morphology/>
+        <morphology>
+
+
+ratsi	[r-][VPers][3m.S/A+][--][=a][VRoot][=to.get][--][&lt;*-ts][+EP]ts[--][-i][+REAL]i
+
+apa	[=apa+m.][NRoot][=father (kin.of.a.fe/male)]
+
+tonkaariki	[=tonkaari+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas][+LOC_LOC.T]
+
+ishirikashitantyaabori	[i-][VPers][3m.S/A+][--][=shirik][VRoot][=to.sew.sth (ES: tejer; coser), to.tie.sth.][--][-ashi][+APPL.INT][=purpose,(with.the).intent]ashi[--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to]ant[--][-yaa][+REAL]yaa[--][=vo][+3n.m.O][--][=ri][NS][+REL]
+
+ipanko	[i-][NPers][3m.poss+][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="108">
