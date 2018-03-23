@@ -2670,7 +2670,22 @@ ochaapote	[o-][NPers][3n.m.poss+][--][=chapo/chaapo+poss@te.][NRootEs][=dessert.
     <text id="103">
         <sentence lang="prq">Antantsi sheni chomo obantyaari obiyare.</sentence>
         <sentence lang="es">Mi abuelita hace tinaja para guardar su masato.</sentence>
-        <morphology/>
+        <morphology>
+
+
+antantsi	[=ant][VRoot][=to.beat, to.hit; to.build, to.do, to.make][--][-antsi][NS][+NMZ.INF]antsi
+
+sheni	[=sheni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
+
+chomo	[=chomo][NRoot][=clay.jar (ES: tinaja.de.barro)]
+
+obantyaari	[=ov][VRoot][=to.save (ES: guardar)][--][-ant][Asp][+APPL.REAS][=in.order.to]ant[--][-yaa][+REAL]yaa[--][=ri][+3m.O]
+
+obiyare	[o-][NPers][3n.m.poss+][--][=piyare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="104">
