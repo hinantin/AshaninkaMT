@@ -2670,6 +2670,7 @@ ochaapote	[o-][NPers][3n.m.poss+][--][=chapo/chaapo+poss@te.][NRootEs][=dessert.
     <text id="103">
         <sentence lang="prq">Antantsi sheni chomo obantyaari obiyare.</sentence>
         <sentence lang="es">Mi abuelita hace tinaja para guardar su masato.</sentence>
+        <sentence lang="en">Grandma makes the clay jar in oRder to save manioc beer in it.</sentence>
         <morphology>
 
 
@@ -2691,7 +2692,21 @@ obiyare	[o-][NPers][3n.m.poss+][--][=piyare+n.m.+inal@ntsi.][NRoot][=manioc.beer
     <text id="104">
         <sentence lang="prq">Robabo chompi iraka payanti.</sentence>
         <sentence lang="es">El pecho rojo come plátano maduro.</sentence>
-        <morphology/>
+        <sentence lang="en"/>
+        <morphology>
+
+
+robabo	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-a][+REAL]a[--][=vo][+3n.m.O]
+
+chompi	[=chompi][NRoot][=silver-beacked.tanager (sci.nm.: ramphocelus.carbo); black.small.bird.sp.; red.breasted.bird.sp. (ES: sp.de.pájaro.con.pecho.rojo)]
+
+iraka	[i-][NPers][3m.poss+][--][=iraka][NRoot][=ripe (ES: maduro)]
+
+payanti	[=payanti+n.m.+poss@te:ti.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="105">
