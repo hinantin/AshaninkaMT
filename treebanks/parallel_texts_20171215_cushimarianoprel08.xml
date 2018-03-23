@@ -2776,6 +2776,7 @@ ipanko	[i-][NPers][3m.poss+][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa)
     <text id="108">
         <sentence lang="prq">Robabo chorito intsipaki.</sentence>
         <sentence lang="es">El chorito come guaba.</sentence>
+        <sentence lang="en">The chorito-parrot eats ice-cream bean.</sentence>
         <morphology>
 
 
@@ -2793,7 +2794,21 @@ intsipaki	[=intsipa][NRoot][=ice-cream.bean.tree (ES: guaba, pacae, pacay, shimb
     <text id="109.1">
         <sentence lang="prq">Irika ebankari imaperotatya ikomintsati.</sentence>
         <sentence lang="es">Este joven es un verdadero cazador.</sentence>
-        <morphology/>
+        <sentence lang="en"/>
+        <morphology>
+
+
+irika	[=irika+m.+proximal][PrnDem][=this (ES: este)]
+
+ebankari	[=evankari+m.][NRoot][=young.man, adolescent]
+
+imaperotatya	[=imaperotatya][OtherRoot][=SUPERLATIVE (EN: is.that.true?,~supreme; ES: verdadero)]
+
+ikomintsati	[i-][VPers][3m.S/A+][--][=komintsa][VRoot][=to.hunt (ES: cazar)][--][-t][+EP]t[--][-i][+REAL]i
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="109.2">
