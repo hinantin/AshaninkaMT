@@ -2712,7 +2712,21 @@ payanti	[=payanti+n.m.+poss@te:ti.][NRoot][=plantain (banana-like.fruit.that.nee
     <text id="105">
         <sentence lang="prq">Osheki ikemaenkatiro chokiro pocharipaye.</sentence>
         <sentence lang="es">La hormiga negra es atraída por los dulces.</sentence>
-        <morphology/>
+        <sentence lang="en">The black ant senses the odor of sweets.</sentence>
+        <morphology>
+
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+ikemaenkatiro	[i-][VPers][3m.S/A+][--][=kem][VRoot][=to.hear, to.listen; to.sense (ES: sentir)][--][-a][+EP]a[--][=enka][NRoot][=voice (ES: voz), speech.sound (inmaterial); odor (ES: olor)]enka[--][-t][+EP]t[--][-i][+REAL]i[--][=ro][+3n.m.O]
+
+chokiro	[=chokiro][NRoot][=tree.ant.sp. (black.colored.ant; ES: hormiga.negra)]
+
+pocharipaye	[=pocha][VRoot][=to.be.sweet (ES: ser.dulce)][--][-ri+m.][NS][+ADJ.NMZ]ri[--][-paye][Num][+PL_DIST]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="106">
