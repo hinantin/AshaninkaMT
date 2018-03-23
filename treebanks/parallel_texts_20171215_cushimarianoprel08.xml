@@ -2732,7 +2732,20 @@ pocharipaye	[=pocha][VRoot][=to.be.sweet (ES: ser.dulce)][--][-ri+m.][NS][+ADJ.N
     <text id="106">
         <sentence lang="prq">Pokake choori ijeekaje anampiki.</sentence>
         <sentence lang="es">El serrano vino a vivir en nuestro pueblo.</sentence>
-        <morphology/>
+        <morphology>
+
+
+pokake	[=pok][VRoot][=to.come (ES: venir), to.arrive][--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-e][+REAL]e
+
+choori	[=choori+m.][NRoot][=Andean.colonist; male.Quechua.speaker; highlander (ES: serrano)]
+
+ijeekaje	[i-][VPers][3m.S/A+][--][=heek][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir); to.be][--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-e][+REAL]e
+
+anampiki	[a-][NPers][1PL.poss+][--][=nampi+n.m.+inal@tsi.][NRoot][=village; place; country; settlement][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="107">
