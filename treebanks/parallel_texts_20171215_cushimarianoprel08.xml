@@ -2814,7 +2814,23 @@ ikomintsati	[i-][VPers][3m.S/A+][--][=komintsa][VRoot][=to.hunt (ES: cazar)][--]
     <text id="109.2">
         <sentence lang="prq">Irika atiri ebankari osheki iperata.</sentence>
         <sentence lang="es">Este hombre joven es ocioso.</sentence>
-        <morphology/>
+        <sentence lang="en">This young man is very lazy.</sentence>
+        <morphology>
+
+
+irika	[=irika+m.+proximal][PrnDem][=this (ES: este)]
+
+atiri	[=atiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]
+
+ebankari	[=evankari+m.][NRoot][=young.man, adolescent]
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+iperata	[i-][VPers][3m.S/A+][--][=per][VRoot][=to.be.idle/lazy, to.laze.around (ES: estar.con.pereza); to.bum.around (ES: vagar)][--][-a][+REAL]a[--][=ta][MODAL][+OPT_SUBJ]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="110">
