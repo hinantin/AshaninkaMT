@@ -2974,6 +2974,7 @@ obaantsiki	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.lan
     <text id="114">
         <sentence lang="prq">Riyaati eemeeni ikenabaeti tonkareki. </sentence>
         <sentence lang="es">Mi cuñado fue a cazar animales en la loma.</sentence>
+        <sentence lang="en">Bother-in-law goes to hunt in the hill.</sentence>
         <morphology>
 
 
@@ -2993,7 +2994,20 @@ tonkareki	[=tonkare+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas][+
     <text id="115">
         <sentence lang="prq">Iraaka eentsi iraakotabo itibanate</sentence>
         <sentence lang="es">El niño llora por su piña.</sentence>
-        <morphology/>
+        <morphology>
+
+
+iraaka	[=ir][VRoot][=to.cry][--][-aak][ASP][+PRF]aak[--][-a][+REAL]a
+
+eentsi	[=eentsi+n./m.+poss@te.][NRoot][=child (ES: niño)]
+
+iraakotabo	[=ir][VRoot][=to.cry][--][-a][+EP]a[--][-ako][+APPL.GEN][=with.reference.to.sth.; about.sth.]ako[--][-t][+EP]t[--][-a][+IRR]a[--][=vo][+3n.m.O]
+
+itibanate	[i-][NPers][3m.poss+][--][=tivana+n.m.+poss@ti.][NRoot][=pineapple (ES: piña; botany.nm.: ananas.comosus)][--][-te][Gen][+aln.poss.]te
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="116">
