@@ -2974,7 +2974,20 @@ obaantsiki	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.lan
     <text id="114">
         <sentence lang="prq">Riyaati eemeeni ikenabaeti tonkareki. </sentence>
         <sentence lang="es">Mi cuñado fue a cazar animales en la loma.</sentence>
-        <morphology/>
+        <morphology>
+
+
+riyaati	[r-][VPers][3m.S/A+][--][=iyaa][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-i][+IRR]i
+
+eemeeni	[=eemeeni][NRoot][=brother.in.law (kin.of.a.female)]
+
+ikenabaeti	[i-][VPers][3m.S/A+][--][=ken][VRoot][=to.hunt, to.poach, to.prey.on.sb./sth.][--][-a][+EP]a[--][-vae][ASP][+DUR]vae[--][-t][+EP]t[--][-i][+REAL]i
+
+tonkareki	[=tonkare+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="115">
