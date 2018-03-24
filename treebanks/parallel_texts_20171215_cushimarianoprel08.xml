@@ -3034,7 +3034,18 @@ eereki	[=eereki][NRoot][=green; green.fruit (not.yet.ready.to.eat; ES: pona.verd
     <text id="117">
         <sentence lang="prq">Eero nopiyaabo pinampiki.</sentence>
         <sentence lang="es">No regresaré a tu pueblo.</sentence>
-        <morphology/>
+        <morphology>
+
+
+eero	[=eero][Neg][=NEG.IRR]
+
+nopiyaabo	[no-][VPers][1SG.S/A+][--][=piy][VRoot][=to.return, to.come.back (ES: volver, regresar)][--][-a][+REP][=again.and.again]a[--][-a][+REAL]a[--][=vo][+3n.m.O]
+
+pinampiki	[pi-][NPers][2poss+][--][=nampi+n.m.+inal@tsi.][NRoot][=village; place; country; settlement][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="118">
