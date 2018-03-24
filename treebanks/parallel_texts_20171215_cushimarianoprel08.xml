@@ -2860,12 +2860,13 @@ norentitsori	[no-][NPers][1SG.poss+][--][=renti+m.][NRoot][=brother (kin.of.a.ma
     <text id="111">
         <sentence lang="prq">Okaminaeri nana yeye: Eero pishitobashitobati eeniro pebonkiritsi te pantarite.</sentence>
         <sentence lang="es">Mi mamá aconseja a mi hermano: “No estés saliendo a cada rato, aún eres adolescente, no eres adulto”.</sentence>
+        <sentence lang="en"/>
         <sentence lang="en">
 
 
-nana	[=nana+n.m.+voc.+poss@te:ti.][NRoot][=mom, mother (kin.of.a.fe/male; ES: mamá)]
-
 okaminaeri	[o-][VPers][3n.m.S/A+][--][=kamin][VRoot][=to.advise; to.give.advice][--][-a][+EP]a[--][-e][+IRR]e[--][=ri][+3m.O]
+
+nana	[=nana+n.m.+voc.+poss@te:ti.][NRoot][=mom, mother (kin.of.a.fe/male; ES: mamá)]
 
 yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
 
