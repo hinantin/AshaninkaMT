@@ -2860,8 +2860,8 @@ norentitsori	[no-][NPers][1SG.poss+][--][=renti+m.][NRoot][=brother (kin.of.a.ma
     <text id="111">
         <sentence lang="prq">Okaminaeri nana yeye: Eero pishitobashitobati eeniro pebonkiritsi te pantarite.</sentence>
         <sentence lang="es">Mi mamá aconseja a mi hermano: “No estés saliendo a cada rato, aún eres adolescente, no eres adulto”.</sentence>
-        <sentence lang="en"/>
-        <sentence lang="en">
+        <sentence lang="en">Mother advised brother: "Don't come and go constantly, you are still small, not an adult".</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 okaminaeri	[o-][VPers][3n.m.S/A+][--][=kamin][VRoot][=to.advise; to.give.advice][--][-a][+EP]a[--][-e][+IRR]e[--][=ri][+3m.O]
@@ -2886,14 +2886,28 @@ pantarite	[p-][VPers][2S/A+][--][=antari+m.][AdjRoot][=big; mature]+vbz.[--][-t]
 
 .	.[$.]
 
-</sentence>
-        <morphology/>
+</morphology>
         <parsing/>
     </text>
     <text id="112">
         <sentence lang="prq">Ipaetakiri konki echonkiini ibatsa maniro.</sentence>
         <sentence lang="es">A mi suegro le dieron poca carne de venado.</sentence>
-        <morphology/>
+        <morphology>
+
+
+ipaetakiri	[i-][VPers][3m.S/A+][--][=p][VRoot][=to.give (ES: dar)][--][-ae][+IMP.P]ae[--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-i][+REAL]i[--][=ri][+3m.O]
+
+konki	[=konki+m.][NRoot][=father; father.in.law; uncle (kin.of.a.male; ES: suegro)]
+
+echonkiini	[=echonkiini][AdvRoot][=a.little (ES: poco)]
+
+ibatsa	[i-][NPers][3m.poss+][--][=vatsa+n./m.+inal@tsi.][NRoot][=meat (ES: carne), mass; flesh, body (ES: cuerpo); inner.part.of.sth. (tender.part, cogollo)]
+
+maniro	[=maniro+m.][NRoot][=deer (ES: venado); red.deer (ES: venado.rojo; sci.nm.: mazama.americana); gray.deer (ES: venado.gris; sci.nm.: mazama.gouazoubira)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="113.1">
