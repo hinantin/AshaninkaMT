@@ -2914,7 +2914,18 @@ maniro	[=maniro+m.][NRoot][=deer (ES: venado); red.deer (ES: venado.rojo; sci.nm
     <text id="113.1">
         <sentence lang="prq">Itonkake pabachori antari maniro eejati itonkake ebonkiri kapeshi.</sentence>
         <sentence lang="es">Mi tío baleó un venado grande y un achuni pequeño.</sentence>
-        <morphology/>
+        <morphology>
+
+
+itonkake	[i-][VPers][3m.S/A+][--][=tonk][VRoot][=to.shoot (ES: balear); to.burst][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e
+
+pabachori	[=pavachori+m.+poss@ti.][NRoot][=uncle (kin.of.a.male)]
+
+antari	[=antari+m.][AdjRoot][=big; mature]
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="113.2">
