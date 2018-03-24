@@ -2836,12 +2836,13 @@ iperata	[i-][VPers][3m.S/A+][--][=per][VRoot][=to.be.idle/lazy, to.laze.around (
     <text id="110">
         <sentence lang="prq">Timanake ebatairo nanaeni, raabakaaka norentitsori.</sentence>
         <sentence lang="es">Mi tía ya tiene nuera porque mi primo se casó.</sentence>
+        <sentence lang="en">Aunt currently has a daughter-in-law, my cousin got married.</sentence>
         <morphology>
 
 
 timanake	[=tim][VRoot][=POSSESS (EN: to.have; ES: tener); to.give.birth][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-e][+REAL]e
 
-???
+ebatairo	[=evatairo+n.m.][NRoot][=daughter.in.law (kin.of.a.female, female.ego)]
 
 nanaeni	[=nanaeni+n.m.+voc.+poss@te.][NRoot][=aunt (kin.of.a.female)]
 
@@ -2859,6 +2860,32 @@ norentitsori	[no-][NPers][1SG.poss+][--][=renti+m.][NRoot][=brother (kin.of.a.ma
     <text id="111">
         <sentence lang="prq">Okaminaeri nana yeye: Eero pishitobashitobati eeniro pebonkiritsi te pantarite.</sentence>
         <sentence lang="es">Mi mamá aconseja a mi hermano: “No estés saliendo a cada rato, aún eres adolescente, no eres adulto”.</sentence>
+        <sentence lang="en">
+
+
+nana	[=nana+n.m.+voc.+poss@te:ti.][NRoot][=mom, mother (kin.of.a.fe/male; ES: mamá)]
+
+okaminaeri	[o-][VPers][3n.m.S/A+][--][=kamin][VRoot][=to.advise; to.give.advice][--][-a][+EP]a[--][-e][+IRR]e[--][=ri][+3m.O]
+
+yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
+
+:	:[$.]
+
+eero	[=eero][Neg][=NEG.IRR]
+
+pishitobashitobati	[pi-][VPers][2S/A+][--][=shitov+prop@redup.][VRoot][=to.leave (ES: salir)]::[=to.come-and-go.constantly (ES: salir.cada.rato)][--][-t][+EP]t[--][-i][+REAL]i
+
+eeniro	[=eeniro][VRoot][=EXIST (EN: there.is/are; ES: hay/haber); POSSESS; CONT.EXIST (ES: todavía.ser)]
+
+pebonkiritsi	[p-][VPers][2S/A+][--][=evonkiri+m.][NRoot][=medium; small (ES: mediano; pequeño)]+vbz.[--][&lt;*-ts][+EP]ts[--][-i][+REAL]i
+
+te	[=te+future.neg.][Neg][=NEG.REAL]
+
+pantarite	[p-][VPers][2S/A+][--][=antari+m.][AdjRoot][=big; mature]+vbz.[--][-t][+EP]t[--][-e][+IRR]e
+
+.	.[$.]
+
+</sentence>
         <morphology/>
         <parsing/>
     </text>
