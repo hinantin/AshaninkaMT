@@ -3014,7 +3014,21 @@ itibanate	[i-][NPers][3m.poss+][--][=tivana+n.m.+poss@ti.][NRoot][=pineapple (ES
     <text id="116">
         <sentence lang="prq">Ramake apa payanti eereki.</sentence>
         <sentence lang="es">Mi papá trajo plátano verde.</sentence>
-        <morphology/>
+        <sentence lang="en">Father brought green plantains.</sentence>
+        <morphology>
+
+
+ramake	[r-][VPers][3m.S/A+][--][=am][VRoot][=to.bring (ES: traer)][--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-e][+REAL]e
+
+apa	[=apa+m.][NRoot][=father (kin.of.a.fe/male)]
+
+payanti	[=payanti+n.m.+poss@te:ti.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]
+
+eereki	[=eereki][NRoot][=green; green.fruit (not.yet.ready.to.eat; ES: pona.verde)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="117">
