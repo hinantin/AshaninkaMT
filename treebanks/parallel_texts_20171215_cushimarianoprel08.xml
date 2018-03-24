@@ -3052,7 +3052,23 @@ pinampiki	[pi-][NPers][2poss+][--][=nampi+n.m.+inal@tsi.][NRoot][=village; place
     <text id="118">
         <sentence lang="prq">Riyaatati apa eniki royeeri otiyaarentsi.</sentence>
         <sentence lang="es">Mi papá se va al río a esperar el mijano.</sentence>
-        <morphology/>
+        <sentence lang="en"/>
+        <morphology>
+
+
+riyaatati	[r-][VPers][3m.S/A+][--][=iyaa][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-ati][ASP][+PROG]ati
+
+apa	[=apa+m.][NRoot][=father (kin.of.a.fe/male)]
+
+eniki	[=Eni][NP][=river (Ene.river)][--][-ki][Cas][+LOC_LOC.T]
+
+royeeri	[r-][VPers][3m.S/A+][--][=oy][VRoot][=to.wait (ES: esperar)][--][-ee][+IRR]ee[--][=ri][+3m.O]
+
+otiyaarentsi	[=otiyaarentsi][NRoot][=migratory-fishes (ES: mijano, peces.migratorios, multitud.de.peces.que.nadan.juntos; migraciòn.estacional.de.peces)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="119">
