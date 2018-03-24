@@ -2942,7 +2942,32 @@ kapeshi	[=kapeshi+m.+poss@ti.][NRoot][=anteater-like.animal.sp. (ES: achuni; sci
     <text id="113.2">
         <sentence lang="prq">Ikantakena yeye: Iye, eejati naaka nokobi noyaate obaantsiki.</sentence>
         <sentence lang="es">Mi hermano me dijo: “Hermano, yo tambien quiero ir a la chacra”.</sentence>
-        <morphology/>
+        <morphology>
+
+
+ikantakena	[i-][VPers][3m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=na][+1SG.O]
+
+yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
+
+:	:[$.]
+
+iye	[=iye+m.][NRoot][=brother (kin.of.a.male, male.ego)]
+
+,	,[$.]
+
+eejati	[=eehati][ConnRoot][=also (ES: también); and (ES: y)]
+
+naaka	[=naaka+cont.d.top.][PrnPers][+1SG.EXCL.][=I (ES: yo)]
+
+nokobi	[no-][VPers][1SG.S/A+][--][=kov][VRoot][=to.want][--][-i][+REAL]i
+
+noyaate	[n-][VPers][1SG.S/A+][--][=oyaa][VRoot][=to.go (ES: ir); to.follow][--][-t][+EP]t[--][-e][+REAL]e
+
+obaantsiki	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra)][--][-ntsi+alien.][Gen][+nposs]ntsi[--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="114">
