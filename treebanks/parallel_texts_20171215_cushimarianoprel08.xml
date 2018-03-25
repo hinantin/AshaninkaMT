@@ -3216,7 +3216,23 @@ piarentsi	[=pyare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato)][--][-ntsi+a
     <text id="124">
         <sentence lang="prq">Etakantabori robetsikiro nampitsi iritake charine.</sentence>
         <sentence lang="es">El fundador de la ciudad fue mi abuelo.</sentence>
-        <morphology/>
+        <sentence lang="en">Grandfather is the city founder.</sentence>
+        <morphology>
+
+
+etakantabori	[=et][VRoot][=to.start (ES: empezar)][--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-ant][Asp][+APPL.REAS][=in.order.to]ant[--][-a][+REAL.RFL]a[--][=vo][+3n.m.O][--][=ri][NS][+REL]
+
+robetsikiro	[r-][VPers][3m.S/A+][--][=ovetsik][VRoot][=to.fix; to.make (ES: preparar.comida/bebida); to.create, to.build; to.modify][--][-i][+REAL]i[--][=ro][+3n.m.O]
+
+nampitsi	[=nampi+n.m.+inal@tsi.][NRoot][=village; place; country; settlement][--][-tsi+alien.][Gen][+nposs]tsi
+
+iritake	[=iritake+cntr.exh.l.+foc.][PrnPers][+3SG.m.][=that's.why; he.is (ES: él.es); he.is.the.one.(who)]
+
+charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="125">
