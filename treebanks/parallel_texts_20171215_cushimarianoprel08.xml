@@ -3148,7 +3148,27 @@ añabaete	[a-][VPers][1PL.S/A+][--][=nya][VRoot][=to.speak][--][-vae][ASP][+DUR]
     <text id="122">
         <sentence lang="prq">Nonkotsibetaka kaniri iro kantaencha kijotake tema eshiraatake.</sentence>
         <sentence lang="es">Había cocinado yuca, pero está dura porque es caulla.</sentence>
-        <morphology/>
+        <sentence lang="en">I cooked yucca, but it is hard because it was moldy.</sentence>
+        <morphology>
+
+
+nonkotsibetaka	[no-][VPers][1SG.S/A+][--][N=][IRR+][--][=kotsi][VRoot][=to.cook (ES: cocinar)][--][-ve][+FRUS][=in.vain (ES: casi)]ve[--][-t][+EP]t[--][-a][+REAL]a[--][-ka+proximal.loc.][+ADV]ka
+
+kaniri	[=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; sci.nm.: manihot.sculenta)]
+
+iro	[=iro][ConnRoot][=but (ES: pero)]
+
+kantaencha	[=kantaencha][ConnRoot][=but (ES: pero)]
+
+kijotake	[=kiho][VRoot][=to.be.hard (ES: estar.duro); to.join.tightly-and-rigidly][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-e][+REAL]e
+
+tema	[=tema][OtherRoot][=because (ES: porque); maybe (ES: como, ya.que, puesto.que)]
+
+eshiraatake	[=eshiraa][VRoot][=to.be.moldy/old-and-not_in_good_condition (ES: estar.pasada_de_tiempo/caulla, p.ej.: yuca)][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-e][+REAL]e
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="123.1">
