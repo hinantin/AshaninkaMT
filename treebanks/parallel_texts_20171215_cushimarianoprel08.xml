@@ -3174,7 +3174,23 @@ eshiraatake	[=eshiraa][VRoot][=to.be.moldy/old-and-not_in_good_condition (ES: es
     <text id="123.1">
         <sentence lang="prq">Petyaari pikamanteri pireenti ipokatye jataantaneri.</sentence>
         <sentence lang="es">Ve a avisar a tu hermano que viene el doctor.</sentence>
-        <morphology/>
+        <sentence lang="en">Go to warn your brother that the doctor is coming.</sentence>
+        <morphology>
+
+
+petyaari	[p-][VPers][2S/A+][--][=et][VRoot][=to.go.to.warn (ES: ir.a.avisar)][--][-yaa][+IRR]yaa[--][=ri][+3m.O]
+
+pikamanteri	[pi-][VPers][2S/A+][--][=kamant][VRoot][=to.inform; to.advise][--][-e][+REAL]e[--][=ri][NS][+REL]
+
+pireenti	[pi-][NPers][2poss+][--][=reenti+m.][NRoot][=brother (kin.of.a.male)]
+
+ipokatye	[i-][VPers][3m.S/A+][--][=pok][VRoot][=to.come (ES: venir), to.arrive][--][-aty][ASP][+PROG]aty[--][-e][+REAL]e
+
+???
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="123.2">
