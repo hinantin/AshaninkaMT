@@ -3074,7 +3074,21 @@ otiyaarentsi	[=otiyaarentsi][NRoot][=migratory-fishes (ES: mijano, peces.migrato
     <text id="119">
         <sentence lang="prq">Eentsikeroeni paniite okentimikari kitoche.</sentence>
         <sentence lang="es">Camina despacio; cuidado que te piquen las espinas.</sentence>
-        <morphology/>
+        <sentence lang="en"/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+eentsikeroeni	[=eentsikeroeni][AdvRoot][=slowly (ES: lentamente)]
+
+paniite	[p-][VPers][2S/A+][--][=anii][VRoot][=to.go; to.walk (ES: caminar); to.go.down][--][-t][+EP]t[--][-e][+IRR]e
+
+okentimikari	[o-][VPers][3n.m.S/A+][--][=kent][VRoot][=to.pierce.with.arrows, to.shoot.arrows; to.sting (ES: picar)][--][-i][+REAL]i[--][=mi][+2SG.O][--][-kari][MODAL][+APPR][=lest (in.order.to.prevent; ES: ¡cuidado!)]
+
+kitoche	[=kitoche+n.m.][NRoot][=thorn (ES: espina)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="120">
