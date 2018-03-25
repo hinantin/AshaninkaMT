@@ -3129,7 +3129,17 @@ akonkire	[a-][NPers][1PL.poss+][--][=konki+m.+poss@ri:re.][NRoot][=father.in.law
         <morphology>
 
 
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
 
+rakabaantetae	[r-][VPers][3m.S/A+][--][=ak][VRoot][=to.answer.back (ES: contestar, responder)][--][-av][+RCP]av[--][-a][+EP]a[--][-ant][Asp][+APPL.REAS][=in.order.to]ant[--][-e][+IRR]e[--][-t][+EP]t[--][=ae][+1INCL.PL.O]ae
+
+eroti	[=eroti+m.][NRoot][=yellow.forehead.and.green.body.parrot.sp.; orange-winged.parrot (sci.nm.: amazona.emazonica)]
+
+aririka	[=ari][PostPol][=PP][--][-rika][+COND]::[WhPrn][=when]
+
+añabaete	[a-][VPers][1PL.S/A+][--][=nya][VRoot][=to.speak][--][-vae][ASP][+DUR]vae[--][-t][+EP]t[--][-e][+REAL]e
+
+.	.[$.]
 
 </morphology>
         <parsing/>
