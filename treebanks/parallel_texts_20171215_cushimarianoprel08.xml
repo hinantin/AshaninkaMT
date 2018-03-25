@@ -3126,7 +3126,12 @@ akonkire	[a-][NPers][1PL.poss+][--][=konki+m.+poss@ri:re.][NRoot][=father.in.law
     <text id="121">
         <sentence lang="prq">Osheki rakabaantetae eroti aririka añabaete.</sentence>
         <sentence lang="es">El loro aurora nos imita cuando hablamos.</sentence>
-        <morphology/>
+        <morphology>
+
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="122">
