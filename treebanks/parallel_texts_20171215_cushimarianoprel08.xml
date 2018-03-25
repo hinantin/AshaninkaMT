@@ -3196,7 +3196,20 @@ ipokatye	[i-][VPers][3m.S/A+][--][=pok][VRoot][=to.come (ES: venir), to.arrive][
     <text id="123.2">
         <sentence lang="prq">Petabakiari pikonkire pinkiteri piarentsi.</sentence>
         <sentence lang="es">Empieza a convidar masato a tu suegro.</sentence>
-        <morphology/>
+        <morphology>
+
+
+petabakiari	[p-][VPers][2S/A+][--][=et][VRoot][=to.start (ES: empezar)][--][-av][+RCP]av[--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-ia][+IRR]ia[--][=ri][+3m.O]
+
+pikonkire	[pi-][NPers][2poss+][--][=konki+m.+poss@ri:re.][NRoot][=father.in.law (kin.of.a.male; ES: suegro)][--][-re][Gen][+aln.poss.]re
+
+pinkiteri	[pi-][VPers][2S/A+][--][N=][IRR+][--][=kit][VRoot][=to.serve (e.g.: liquid, food; ES: servir.(comida))][--][-e][+IRR]e[--][=ri][+3m.O]
+
+piarentsi	[=pyare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato)][--][-ntsi+alien.][Gen][+nposs]ntsi
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="124">
