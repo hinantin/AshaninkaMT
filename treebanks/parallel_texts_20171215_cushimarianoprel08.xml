@@ -3094,7 +3094,32 @@ kitoche	[=kitoche+n.m.][NRoot][=thorn (ES: espina)]
     <text id="120">
         <sentence lang="prq">Okantabakaeyani tsinanipaye: Entyo, tsame antsokakite kaniri robaneki akonkire.</sentence>
         <sentence lang="es">Las mujeres se dijeron: “Hermana, vamos a sacar yuca en la chacra del suegro”.</sentence>
-        <morphology/>
+        <morphology>
+
+
+okantabakaeyani	[o-][VPers][3n.m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-av][+RCP]av[--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-aey][+PL]aey[--][-a][+IRR]a[--][-ni+circumfixing][+PL]
+
+tsinanipaye	[=tsinani+n.m.][NRoot][=female, woman; young.girl][--][-paye][Num][+PL_DIST]
+
+:	:[$.]
+
+entyo	[=entyo+n.m.][NRoot][=sister (kin.of.a.female, fem.ego.); female.cousin (fem.ego.)]
+
+,	,[$.]
+
+tsame	[=tsame+prop@standalone.][VRoot][=COME.ON, LET'S.GO]
+
+antsokakite	[a-][VPers][1PL.S/A+][--][N=][IRR+][--][=tsok][VRoot][=to.pull.out (ES: desyerbar/desherbar/deshierbar; cosechar.yuca/mavona)][--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-it][+ICPL][=speed]it[--][-e][+REAL]e
+
+kaniri	[=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; sci.nm.: manihot.sculenta)]
+
+robaneki	[r-][NPers][3m.poss+][--][=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra)][--][-ne][Gen][+aln.poss.]ne[--][-ki][Cas][+LOC_LOC.T]
+
+akonkire	[a-][NPers][1PL.poss+][--][=konki+m.+poss@ri:re.][NRoot][=father.in.law (kin.of.a.male; ES: suegro)][--][-re][Gen][+aln.poss.]re
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="121">
