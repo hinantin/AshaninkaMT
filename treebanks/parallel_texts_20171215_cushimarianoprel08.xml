@@ -3345,7 +3345,21 @@ ikomintsatantyari	[i-][VPers][3m.S/A+][--][=komintsa][VRoot][=to.hunt (ES: cazar
     <text id="130">
         <sentence lang="prq">Jataki iiñeeni areetyabo nana.</sentence>
         <sentence lang="es">Mi cuñada va para visitar a mi mamá.</sentence>
-        <morphology/>
+        <sentence lang="en">Sister-in-law went to visit mother.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+jataki	[=ha][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-i][+REAL]i
+
+iiñeeni	[=iinyeeni+n.m.][NRoot][=sister.in.law (kin.of.a.male)]
+
+areetyabo	[=aree][VRoot][=to.arrive (ES: llegar); to.visit.with.sb.][--][-t][+EP]t[--][-eya][+IRR.RFL]eya[--][=vo][+3n.m.O]
+
+nana	[=nana+n.m.+voc.+poss@te:ti.][NRoot][=mom, mother (kin.of.a.fe/male; ES: mamá)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="131">
