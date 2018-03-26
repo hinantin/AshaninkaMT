@@ -3306,13 +3306,26 @@ tonkaareki	[=tonkaare+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas]
     <text id="128">
         <sentence lang="prq">Ayaataki etso jenoki.</sentence>
         <sentence lang="es">La golondrina está volando arriba.</sentence>
-        <morphology/>
+        <sentence lang="en">The swallow is flying high.</sentence>
+        <morphology>
+
+
+ayaataki	[=ay][VRoot][=to.fly (ES: volar)][--][-aa][+REP][=again.and.again]aa[--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-i][+REAL]i
+
+etso	[=etso+m.][NRoot][=swallow.sp. (inhabits.the.rocks); white-collared.swift (sci.nm.: streptopfogne.zonaris)]
+
+jenoki	[=henoki][NRoot][=top (ES: arriba, alto); sky]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="129">
         <!-- Raabintatyabo Ashoshi ribenkite ikomintsantantyari. -->
         <sentence lang="prq">Raabintatyabo Ashoshi ribenkite ikomintsatantyari.</sentence>
         <sentence lang="es">Ashoshi se cura con piripiri para ser cazador.</sentence>
+        <sentence lang="en">Ashoshi gets cured with the piripiri-plant so that he can hunt.</sentence>
         <morphology>
 
 
