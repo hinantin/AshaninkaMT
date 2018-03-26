@@ -3242,7 +3242,19 @@ charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male)]
         <morphology>
 
 
+etakotaka	[=etako][VRoot][=to.love (ES: amar, estimar, favorecer); to.suffer.for.love (ES: sufrir.(de.amor))][--][-t][+EP]t[--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-a][+REAL]a
 
+niibotya	[=niivotya][NRoot][=NP; person's.name]
+
+tema	[=tema][OtherRoot][=because (ES: porque); maybe (ES: como, ya.que, puesto.que)]
+
+te	[=te+future.neg.][Neg][=NEG.REAL]
+
+inintajero	[i-][VPers][3m.S/A+][--][=nint][VRoot][=to.want (ES: gustar); to.love][--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-e][+REAL]e[--][=ro][+3n.m.O]
+
+onintane	[o-][VPers][3n.m.S/A+][--][=nint][VRoot][=to.want (ES: gustar); to.love][--][-a][+IRR]a[--][=ne][NS][+REL.IRR]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
