@@ -3239,7 +3239,7 @@ charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male)]
         <sentence lang="prq">Etakotaka Niibotya tema te inintajero onintane.</sentence>
         <sentence lang="es">Niibotya está sufriendo porque su enamorado dejó de amarla.</sentence>
         <sentence lang="en"/>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 etakotaka	[=etako][VRoot][=to.love (ES: amar, estimar, favorecer); to.suffer.for.love (ES: sufrir.(de.amor))][--][-t][+EP]t[--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-a][+REAL]a
