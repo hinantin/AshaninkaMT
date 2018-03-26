@@ -3385,7 +3385,7 @@ tsinane	[=tsinane+n.m.][NRoot][=female, woman; young.girl]
     <text id="132">
         <sentence lang="prq">Obakeri tonkitsi iitiki Chareto.</sentence>
         <sentence lang="es">La espina picó a Chareto en el pie.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 ???
