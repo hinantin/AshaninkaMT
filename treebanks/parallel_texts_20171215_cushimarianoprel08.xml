@@ -3285,7 +3285,7 @@ imaamento	[i-][NPers][3m.poss+][--][=maa][VRoot][=to.sleep (ES: dormir)][--][-me
         <sentence lang="prq">Riyaati apa ichekakoti etiki tonkaareki.</sentence>
         <sentence lang="es">Mi papá fue a recoger caimitillos en la loma.</sentence>
         <sentence lang="en">Father goes to the hill-top in order to cut the caimitillo-fruit.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 riyaati	[r-][VPers][3m.S/A+][--][=iyaa][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-i][+REAL]i
@@ -3307,7 +3307,7 @@ tonkaareki	[=tonkaare+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas]
         <sentence lang="prq">Ayaataki etso jenoki.</sentence>
         <sentence lang="es">La golondrina está volando arriba.</sentence>
         <sentence lang="en">The swallow is flying high.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 ayaataki	[=ay][VRoot][=to.fly (ES: volar)][--][-aa][+REP][=again.and.again]aa[--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-i][+REAL]i
@@ -3326,7 +3326,7 @@ jenoki	[=henoki][NRoot][=top (ES: arriba, alto); sky]
         <sentence lang="prq">Raabintatyabo Ashoshi ribenkite ikomintsatantyari.</sentence>
         <sentence lang="es">Ashoshi se cura con piripiri para ser cazador.</sentence>
         <sentence lang="en">Ashoshi gets cured with the piripiri-plant so that he can hunt.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 raabintatyabo	[r-][VPers][3m.S/A+][--][=aavint][VRoot][=to.cure (ES: curar)][--][-a][+REP][=again.and.again]a[--][-t][+EP]t[--][-ya][+REAL]ya[--][=vo][+3n.m.O]
