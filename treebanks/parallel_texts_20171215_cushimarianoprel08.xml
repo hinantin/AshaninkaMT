@@ -3263,7 +3263,7 @@ onintane	[o-][VPers][3n.m.S/A+][--][=nint][VRoot][=to.want (ES: gustar); to.love
         <sentence lang="prq">Ikiyiro eti kipatsi rantantyaabori imaamento.</sentence>
         <sentence lang="es">La carachupa escarba la tierra para hacer su cama.</sentence>
         <sentence lang="en">The carachupa-armadillo digs the earth to build his bed.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 ikiyiro	[i-][VPers][3m.S/A+][--][=kiy][VRoot][=to.dig (ES: escarbar)][--][-i][+IRR]i[--][=ro][+3n.m.O]
@@ -3284,7 +3284,22 @@ imaamento	[i-][NPers][3m.poss+][--][=maa][VRoot][=to.sleep (ES: dormir)][--][-me
     <text id="127">
         <sentence lang="prq">Riyaati apa ichekakoti etiki tonkaareki.</sentence>
         <sentence lang="es">Mi papá fue a recoger caimitillos en la loma.</sentence>
-        <morphology/>
+        <morphology>
+
+
+riyaati	[r-][VPers][3m.S/A+][--][=iyaa][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-i][+REAL]i
+
+apa	[=apa+m.][NRoot][=father (kin.of.a.fe/male)]
+
+ichekakoti	[i-][VPers][3m.S/A+][--][=chek][VRoot][=to.cut][--][-ako][+CL:vessel][=vessel; recipient; cavity; hand]ako[--][-t][+EP]t[--][-i][+IRR]i
+
+etiki	[=etiki+n.m.][NRoot][=wild.fruit.sp. (ES: caimitillo)]
+
+tonkaareki	[=tonkaare+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="128">
