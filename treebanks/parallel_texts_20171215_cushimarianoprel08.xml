@@ -3238,7 +3238,7 @@ charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male)]
     <text id="125">
         <sentence lang="prq">Etakotaka Niibotya tema te inintajero onintane.</sentence>
         <sentence lang="es">Niibotya está sufriendo porque su enamorado dejó de amarla.</sentence>
-        <sentence lang="en">Niibotya is suffering for love because his boyfriend doesn't love her anymore.</sentence>
+        <sentence lang="en">Niibotya is suffering for love because [lit.: the one she loves]/[her boyfriend] doesn't love her anymore.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -3262,7 +3262,12 @@ onintane	[o-][VPers][3n.m.S/A+][--][=nint][VRoot][=to.want (ES: gustar); to.love
     <text id="126">
         <sentence lang="prq">Ikiyiro eti kipatsi rantantyaabori imaamento.</sentence>
         <sentence lang="es">La carachupa escarba la tierra para hacer su cama.</sentence>
-        <morphology/>
+        <morphology>
+
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="127">
