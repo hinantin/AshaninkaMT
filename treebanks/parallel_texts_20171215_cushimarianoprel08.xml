@@ -3385,7 +3385,20 @@ tsinane	[=tsinane+n.m.][NRoot][=female, woman; young.girl]
     <text id="132">
         <sentence lang="prq">Obakeri tonkitsi iitiki Chareto.</sentence>
         <sentence lang="es">La espina picó a Chareto en el pie.</sentence>
-        <morphology/>
+        <morphology>
+
+
+???
+
+tonkitsi	[=tonki+n.m.+inal@tsi.][NRoot][=bone (ES: hueso)][--][-tsi+alien.][Gen][+nposs]tsi
+
+iitiki	[i-][NPers][3m.poss+][--][=iti+n.m.+inal@ntsi.][NRoot][=foot (ES: pie)][--][-ki][Cas][+LOC_LOC.T]
+
+chareto	[=chareto][NRoot][=NP; person's.name]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="133">
