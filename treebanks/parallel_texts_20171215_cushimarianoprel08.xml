@@ -3404,7 +3404,23 @@ chareto	[=chareto][NRoot][=NP; person's.name]
     <text id="133">
         <sentence lang="prq">Katsitake iito nani irajeempiaka piarentsi.</sentence>
         <sentence lang="es">A mi cuñado le duele la cabeza por tomar masato.</sentence>
-        <morphology/>
+        <sentence lang="en"/>
+        <morphology>
+
+
+katsitake	[=katsi][VRoot][=to.feel.pain; to.be.in.pain; to.cause.pain][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e
+
+iito	[=iito+n.m.+inal@ntsi.][NRoot][=head (ES: cabeza)]
+
+nani	[n-][NPers][1SG.poss+][--][=ani+m.][NRoot][=grandpa, grandfather (kin.of.a.male)]
+
+irajeempiaka	[=ir][VRoot][=to.drink (ES: beber)][--][-aheempi][+UNK1][=when]aheempi[--][-ak][ASP][+PRF]ak[--][-a][+REAL]a
+
+piarentsi	[=pyare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato)][--][-ntsi+alien.][Gen][+nposs]ntsi
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="134">
