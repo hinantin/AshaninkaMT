@@ -3429,7 +3429,7 @@ piarentsi	[=pyare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato)][--][-ntsi+a
         <sentence lang="prq" normalizationlevel="none">Noñaake iitsoki shempiri ijeki ocheraki nija.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Nonyaake iitsoki shempiri iheki ocheraki niha.</sentence>
         <sentence lang="es">Encontré huevos de taricaya en la orilla del río.</sentence>
-        <sentence lang="es">I saw charapa-turtle eggs that inhabit in the river shore.</sentence>
+        <sentence lang="es">I saw charapa-turtle eggs that are in the river shore.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -3439,7 +3439,7 @@ iitsoki	[i-][NPers][3m.poss+][--][=kitsoki][NRoot][=egg (huevo); seed (ES: semil
 
 shempiri	[=shempiri][NRoot][=charapa.turtle, terrapin.sp. (ES: motelo, tortuga.de.tierra)]
 
-ijeki	[i-][VPers][3m.S/A+][--][=hek][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir); to.be][--][-i][+REAL]i
+ijeki	[i-][VPers][3m.S/A+][--][=hek][VRoot][=to.be][--][-i][+REAL]i
 
 ocheraki	[=ochera][NRoot][=shore (ES: orilla)][--][-ki][Cas][+LOC_LOC.T]
 
