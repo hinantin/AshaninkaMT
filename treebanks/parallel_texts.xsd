@@ -99,6 +99,13 @@
             <xs:enumeration value="quz"/>
         </xs:restriction>
     </xs:simpleType>
+    <xs:simpleType name="normalization">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="none"/>
+            <xs:enumeration value="normalized-alphabet"/>
+            <xs:enumeration value="normalized-lexicon"/>
+        </xs:restriction>
+    </xs:simpleType>
     <xs:element name="parallel">
         <xs:complexType>
             <xs:sequence>
@@ -110,6 +117,7 @@
                                     <xs:simpleContent>
                                         <xs:extension base="xs:string">
                                             <xs:attribute type="language" name="lang" use="required"/>
+                                            <xs:attribute type="normalization" name="normalizationlevel"/>
                                         </xs:extension>
                                     </xs:simpleContent>
                                 </xs:complexType>

@@ -3453,7 +3453,16 @@ nija	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
     <text id="135">
         <sentence lang="prq">Obari choeni imobo ramakeri nani.</sentence>
         <sentence lang="es">Mi hermana come los suris que trajo mi cuñado.</sentence>
-        <morphology/>
+        <morphology>
+
+
+obari	[o-][VPers][3n.m.S/A+][--][=v][VRoot][=to.eat (ES: comer)][--][-a][+IRR]a[--][=ri][+3m.O]
+
+choeni	[=choeni+n.m.][NRoot][=sister (kin.of.a.male, male.ego)]
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="136.1">
