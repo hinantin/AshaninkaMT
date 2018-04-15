@@ -3385,10 +3385,12 @@ tsinane	[=tsinane+n.m.][NRoot][=female, woman; young.girl]
     <text id="132">
         <sentence lang="prq">Obakeri tonkitsi iitiki Chareto.</sentence>
         <sentence lang="es">La espina picó a Chareto en el pie.</sentence>
+        <sentence lang="en">The thorn stung Chareto's foot.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 ???
+obakeri	[o-][VPers][3n.m.S/A+][--][=v][VRoot][=to.put, to.place (ES: poner, colocar)][--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-e][+REAL]e[--][=ri][+3m.O]
 
 tonkitsi	[=tonki+n.m.+inal@tsi.][NRoot][=bone (ES: hueso)][--][-tsi+alien.][Gen][+nposs]tsi
 
