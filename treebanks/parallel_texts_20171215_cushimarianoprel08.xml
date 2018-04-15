@@ -3428,7 +3428,24 @@ piarentsi	[=pyare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato)][--][-ntsi+a
     <text id="134">
         <sentence lang="prq">Noñaake iitsoki shempiri ijeki ocheraki nija.</sentence>
         <sentence lang="es">Encontré huevos de taricaya en la orilla del río.</sentence>
-        <morphology/>
+        <morphology>
+
+
+noñaake	[no-][VPers][1SG.S/A+][--][=ny][VRoot][=to.see, to.look.for; to.visit][--][-aak][ASP][+PRF]aak[--][-e][+REAL]e
+
+iitsoki	[i-][NPers][3m.poss+][--][=kitsoki][NRoot][=egg (huevo); seed (ES: semilla)]
+
+shempiri	[=shempiri][NRoot][=charapa.turtle, terrapin.sp. (ES: motelo, tortuga.de.tierra)]
+
+ijeki	[i-][VPers][3m.S/A+][--][=hek][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir); to.be][--][-i][+REAL]i
+
+ocheraki	[=ochera][NRoot][=shore (ES: orilla)][--][-ki][Cas][+LOC_LOC.T]
+
+nija	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="135">
