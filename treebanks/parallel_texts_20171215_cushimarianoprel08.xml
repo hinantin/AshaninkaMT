@@ -3577,6 +3577,7 @@ impanekiki	[=iNpaneki+n.m.][NRoot][=fine.sand, sand.made.of.very.small.grains (E
         <sentence lang="prq" normalizationlevel="none">Osheki impokiro inkiteki aririka ojarentsite.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Osheki impokiro inkiteki aririka oharentsite.</sentence>
         <sentence lang="es">Hay muchas estrellas en el cielo cuando es verano.</sentence>
+        <sentence lang="en">Many stars in the sky when it is summer/dry_season.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -3588,7 +3589,7 @@ inkiteki	[=inkite][NRoot][=sky (ES: cielo); firmament][--][-ki][Cas][+LOC_LOC.T]
 
 aririka	[=ari][PostPol][=PP][--][-rika][+COND]::[WhPrn][=when]
 
-oharentsite	[o-][NPers][3n.m.poss+][--][=harentsi+m.][NRoot][=year (ES: año); dry.season/summer (ES: verano)][--][-te][Gen][+aln.poss.]te
+oharentsite	[o-][VPers][3n.m.S/A+][--][=harentsi+m.][NRoot][=year (ES: año); dry.season/summer (ES: verano)]::[=to.be.summer]+vbz.[--][-t][+EP]t[--][-e][+IRR]e
 
 .	.[$.]
 
