@@ -3502,7 +3502,7 @@ tainchari	[=ta][VRoot][=to.burn (ES: quemar)][--][-incha][Asp][+STAT.PRF]incha[-
         <sentence lang="prq" normalizationlevel="none">Iñake yeye iitsoki tsonkiri ojeeki imooshiki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Inyake yeye iitsoki tsonkiri oheeki imooshiki.</sentence>
         <sentence lang="es">Mi hermano vio huevos de picaflor que están en su nido.</sentence>
-        <sentence lang="en"/>
+        <sentence lang="en">Brother saw hummingbird eggs that are in its nest.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -3525,9 +3525,29 @@ imooshiki	[i-][NPers][3m.poss+][--][=moo+n.m.+inal@tsi.][NRoot][=hole (ES: hueco
         <parsing/>
     </text>
     <text id="137">
-        <sentence lang="prq">Osheki impaneki okiantakari ani irokiki iñatsabaibeta nijateniki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Osheki impaneki okiantakari ani irokiki iñatsabaibeta nijateniki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Osheki impaneki okiantakari ani irokiki inyatsavaiveta nihateniki.</sentence>
         <sentence lang="es">Mucha arena entró al ojo de mi cuñado cuando jugaba en la quebrada.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+impaneki	[=iNpaneki+n.m.][NRoot][=fine.sand, sand.made.of.very.small.grains (ES: arena)]
+
+okiantakari	[o-][VPers][3n.m.S/A+][--][=ky][VRoot][=to.enter (ES: ingresar)][--][-ant][+APPL.INST][=reason,instrumentality;in.order.to]ant[--][-ak][ASP][+PRF]ak[--][-a][+REAL]a[--][=ri][+3m.O]
+
+ani	[=ani+m.+poss@ri.][NRoot][=brother.in.law (kin.of.a.male)]
+
+irokiki	[ir-][NPers][3m.poss+][--][=oki+n.m.+inal@tsi.][NRoot][=eye (ES: ojo)][--][-ki][Cas][+LOC_LOC.T]
+
+inyatsavaiveta	[i-][VPers][3m.S/A+][--][=nyatsa][VRoot][=to.play; to.have.sex (euphemism)][--][-vai][ASP][+DUR]vai[--][-ve][+FRUS][=in.vain (ES: casi)]ve[--][-t][+EP]t[--][-a][+REAL]a
+
+nihateniki	[=nihateni][NRoot][=brook; creek (ES: quebrada, arroyo)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="138">
