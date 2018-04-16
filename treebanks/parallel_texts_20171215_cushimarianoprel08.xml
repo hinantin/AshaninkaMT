@@ -3551,15 +3551,48 @@ nihateniki	[=nihateni][NRoot][=brook; creek (ES: quebrada, arroyo)][--][-ki][Cas
         <parsing/>
     </text>
     <text id="138">
-        <sentence lang="prq">Raaki Shiyaba iitsoki shempiri impanekeki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Raaki Shiyaba iitsoki shempiri impanekeki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Raaki Shiyava iitsoki shempiri impanekiki.</sentence>
         <sentence lang="es">Shiyawa fue a recolectar huevos de taricaya en el arenal.</sentence>
-        <morphology/>
+        <sentence lang="en">Shiyava got taricaya-turtle eggs in the sandy area.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+raaki	[r-][VPers][3m.S/A+][--][=a][VRoot][=to.get][--][-ak][ASP][+PRF]ak[--][-i][+IRR]i
+
+shiyava	[=shiyava][NRoot][=NP, person's.name]
+
+iitsoki	[i-][NPers][3m.poss+][--][=kitsoki][NRoot][=egg (huevo); seed (ES: semilla)]
+
+shempiri	[=shempiri][NRoot][=charapa.turtle, terrapin.sp. (ES: motelo, tortuga.de.tierra, taricaya)]
+
+impanekiki	[=iNpaneki+n.m.][NRoot][=fine.sand, sand.made.of.very.small.grains (ES: arena)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="139">
-        <sentence lang="prq">Osheki impokiro inkiteki aririka ojarentsite.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Osheki impokiro inkiteki aririka ojarentsite.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Osheki impokiro inkiteki aririka oharentsite.</sentence>
         <sentence lang="es">Hay muchas estrellas en el cielo cuando es verano.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+impokiro	[=impokiro+m.][NRoot][=star (ES: estrella)]
+
+inkiteki	[=inkite][NRoot][=sky (ES: cielo); firmament][--][-ki][Cas][+LOC_LOC.T]
+
+aririka	[=ari][PostPol][=PP][--][-rika][+COND]::[WhPrn][=when]
+
+oharentsite	[o-][NPers][3n.m.poss+][--][=harentsi+m.][NRoot][=year (ES: año); dry.season/summer (ES: verano)][--][-te][Gen][+aln.poss.]te
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="140">
