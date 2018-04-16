@@ -3474,9 +3474,28 @@ nani	[n-][NPers][1SG.poss+][--][=ani+m.+poss@ri.][NRoot][=brother.in.law (kin.of
         <parsing/>
     </text>
     <text id="136.1">
-        <sentence lang="prq">Imooshi jeto rashitiro omonaki inchato tainchari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Imooshi jeto rashitiro omonaki inchato tainchari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Imooshi heto rashitiro omonaki inchato tainchari.</sentence>
         <sentence lang="es">La tela de araña tapa el hueco del árbol quemado.</sentence>
-        <morphology/>
+        <sentence lang="en">The spider's.web encloses the hole of the burnt-tree.</sentence>
+        <morphology>
+
+
+imooshi	[i-][NPers][3m.poss+][--][=imooshi][NRoot][=spider's.web (ES: tela.de.araña)]
+
+heto	[=heto+m.][NRoot][=spider (ES: araña)]
+
+rashitiro	[r-][VPers][3m.S/A+][--][=ashi][VRoot][=to.enclose (ES: cerrar)][--][-t][+EP]t[--][-i][+IRR]i[--][=ro][+3n.m.O]
+
+omonaki	[=omona][NRoot][=hole][--][-ki][Cas][+LOC_LOC.T]
+
+inchato	[=inchato+n.m.][NRoot][=tree (ES: árbol)]
+
+tainchari	[=ta][VRoot][=to.burn (ES: quemar)][--][-incha][Asp][+STAT.PRF]incha[--][=ri][NS][+REL]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="136.2">
