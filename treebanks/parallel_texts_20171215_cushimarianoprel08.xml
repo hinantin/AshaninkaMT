@@ -3502,10 +3502,24 @@ tainchari	[=ta][VRoot][=to.burn (ES: quemar)][--][-incha][Asp][+STAT.PRF]incha[-
         <sentence lang="prq" normalizationlevel="none">Iñake yeye iitsoki tsonkiri ojeeki imooshiki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Inyake yeye iitsoki tsonkiri oheeki imooshiki.</sentence>
         <sentence lang="es">Mi hermano vio huevos de picaflor que están en su nido.</sentence>
-        <morphology>
+        <sentence lang="en"/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
+inyake	[i-][VPers][3m.S/A+][--][=ny][VRoot][=to.see, to.look.for; to.visit][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e
 
+yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
+
+iitsoki	[i-][NPers][3m.poss+][--][=kitsoki][NRoot][=egg (huevo); seed (ES: semilla)]
+iitsoki	[i-][NPers][3m.poss+][--][=kitso][VRoot][=to.have.an.oval-shape][--][-ki][+CL:S.R.H][=small,round(ed);hard;seed-like]ki
+
+tsonkiri	[=tsonkiri+poss@ti.][NRoot][=hummingbird.sp.; blue-fronted.lancebill (sci.nm.: doryfera.johannae)]
+
+ojeeki	[o-][VPers][3n.m.S/A+][--][=heek][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir); to.be][--][-i][+REAL]i
+
+imooshiki	[i-][NPers][3m.poss+][--][=moo+n.m.+inal@tsi.][NRoot][=hole (ES: hueco)][--][-shi][+CL:L.S.T.F.F][=leaf;small,thin,flexible,flat;leafy.substance][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
