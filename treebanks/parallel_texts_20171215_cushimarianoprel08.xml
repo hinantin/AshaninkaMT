@@ -3407,7 +3407,7 @@ chareto	[=chareto][NRoot][=NP; person's.name]
         <sentence lang="prq">Katsitake iito nani irajeempiaka piarentsi.</sentence>
         <sentence lang="es">A mi cuñado le duele la cabeza por tomar masato.</sentence>
         <sentence lang="en">My grandfather's head hurts when he drunk manioc beer.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 katsitake	[=katsi][VRoot][=to.feel.pain; to.be.in.pain; to.cause.pain][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e
@@ -3455,7 +3455,7 @@ nija	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ovari choeni imovo ramakeri nani.</sentence>
         <sentence lang="es">Mi hermana come los suris que trajo mi cuñado.</sentence>
         <sentence lang="en">Sister eats the palm larvae that my brother-in-law brought.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 obari	[o-][VPers][3n.m.A+][--][=v][VRoot][=to.eat (ES: comer)][--][-a][+IRR]a[--][=ri][+3m.O]
@@ -3478,7 +3478,7 @@ nani	[n-][NPers][1SG.poss+][--][=ani+m.+poss@ri.][NRoot][=brother.in.law (kin.of
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Imooshi heto rashitiro omonaki inchato tainchari.</sentence>
         <sentence lang="es">La tela de araña tapa el hueco del árbol quemado.</sentence>
         <sentence lang="en">The spider's web encloses the hole of the burnt-tree.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 imooshi	[i-][NPers][3m.poss+][--][=imooshi][NRoot][=spider's.web (ES: tela.de.araña)]
@@ -3499,9 +3499,15 @@ tainchari	[=ta][VRoot][=to.burn (ES: quemar)][--][-incha][Asp][+STAT.PRF]incha[-
         <parsing/>
     </text>
     <text id="136.2">
-        <sentence lang="prq">Iñake yeye iitsoki tsonkiri ojeeki imooshiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iñake yeye iitsoki tsonkiri ojeeki imooshiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Inyake yeye iitsoki tsonkiri oheeki imooshiki.</sentence>
         <sentence lang="es">Mi hermano vio huevos de picaflor que están en su nido.</sentence>
-        <morphology/>
+        <morphology>
+
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="137">
