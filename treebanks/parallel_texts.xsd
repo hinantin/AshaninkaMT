@@ -112,7 +112,7 @@
                 <xs:element name="text" maxOccurs="unbounded">
                     <xs:complexType>
                         <xs:sequence>
-                            <xs:element name="sentence" minOccurs="2" maxOccurs="6">
+                            <xs:element name="sentence" minOccurs="2" maxOccurs="10">
                                 <xs:complexType>
                                     <xs:simpleContent>
                                         <xs:extension base="xs:string">

@@ -3451,8 +3451,10 @@ nija	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
         <parsing/>
     </text>
     <text id="135">
-        <sentence lang="prq">Obari choeni imobo ramakeri nani.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Obari choeni imobo ramakeri nani.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ovari choeni imovo ramakeri nani.</sentence>
         <sentence lang="es">Mi hermana come los suris que trajo mi cuñado.</sentence>
+        <sentence lang="en">Sister eats the palm larvae that my brother-in-law brought.</sentence>
         <morphology>
 
 
@@ -3460,7 +3462,13 @@ obari	[o-][VPers][3n.m.S/A+][--][=v][VRoot][=to.eat (ES: comer)][--][-a][+IRR]a[
 
 choeni	[=choeni+n.m.][NRoot][=sister (kin.of.a.male, male.ego)]
 
+imovo	[=imovo+m.][NRoot][=palm.grubs/larvae (ES: suri/larva.de.las.palmeras.de.coco/aguaje/chonta, humpa~hompa; sci.nm.: rhynchophorus.palmarum)]
 
+ramakeri	[r-][VPers][3m.S/A+][--][=am][VRoot][=to.bring (ES: traer)][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=ri][NS][+REL]
+
+nani	[n-][NPers][1SG.poss+][--][=ani+m.+poss@ri.][NRoot][=brother.in.law (kin.of.a.male)]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
