@@ -3754,8 +3754,19 @@ tsimeripaye	[=tsimeri+m.+poss@ti.][NRoot][=bird, little.bird (ES: ave, pájaro)]
         <sentence lang="prq" normalizationlevel="none">Iñaakeri konki antari noonki inkaareki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Inyaakeri konki antari noonki inkaareki.</sentence>
         <sentence lang="es">Mi suegro vió una boa en la cocha.</sentence>
+        <sentence lang="en">Father in law saw a big boa in the lake.</sentence>
         <morphology>
 
+
+inyaakeri	[i-][VPers][3m.S/A+][--][=ny][VRoot][=to.see, to.look.for; to.visit][--][-a][+EP]a[--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=ri][+3m.O]
+
+konki	[=konki+m.][NRoot][=father; father.in.law; uncle (kin.of.a.male; ES: suegro)]
+
+antari	[=antari+m.][AdjRoot][=big; mature]
+
+noonki	[=noonki+m.][NRoot][=boa]
+
+inkaareki	[=inkaare+n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)][--][-ki][Cas][+LOC_LOC.T]
 
 
 
