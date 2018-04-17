@@ -3684,7 +3684,7 @@ ikamaankantakari	[i-][VPers][3m.S/A+][--][=kamaank][VRoot][=to.vomit (ES: vomita
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ironta inchato pinyaakerira pamakira onati.</sentence>
         <sentence lang="es">Ese árbol que ves es chimicua.</sentence>
         <sentence lang="en">The tree over there that you saw over there, it is a chimicua-tree over there.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 ironta	[=ironta+n.m.+distal.b.][PrnDem][=that.(over.there)]
@@ -3703,9 +3703,31 @@ onati	[o-][VPers][3n.m.S/A+][--][=n][VRoot][=to.be][--][-a][ASP][+REGR_TERM][=RE
         <parsing/>
     </text>
     <text id="143.2">
-        <sentence lang="prq">Ironta inchato piñaakeri, ari rompojakotakari tyominkiyo ishintipaareki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ironta inchato piñaakeri, ari rompojakotakari tyominkiyo ishintipaareki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ironta inchato pinyaakeri, ari rompohakotakari tyominkiyo ishintipaareki.</sentence>
         <sentence lang="es">Ese tronco que ves en el centro, ahí fue donde chocó la balsa de Tyominkio.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ironta	[=ironta+n.m.+distal.b.][PrnDem][=that.(over.there)]
+
+inchato	[=inchato+n.m.][NRoot][=tree (ES: árbol)]
+
+pinyaakeri	[pi-][VPers][2S/A+][--][=ny][VRoot][=to.see, to.look.for; to.visit][--][-a][+EP]a[--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=ri][NS][+REL]
+
+,	,[$.]
+
+ari	[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+rompohakotakari	[r-][VPers][3m.S/A+][--][=ompoh][VRoot][=to.bump.sth.][--][-ako][+APPL.GEN][=with.reference.to.sth.; about.sth.]ako[--][-t][+EP]t[--][-a][+IRR]a[--][-kari][MODAL][+APPR][=lest (in.order.to.prevent; ES: ¡cuidado!)]
+
+tyominkiyo	[=tyominkiyo][NRoot][=NP, person's.name]
+
+ishintipaareki	[i-][NPers][3m.poss+][--][=shintipa+n.m.+poss@re.][NRoot][=raft, balsa][--][-a][+CL:liquid][=liquid][--][-re][Gen][+aln.poss.]re[--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="144">
