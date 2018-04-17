@@ -3617,13 +3617,14 @@ tsirenirikipaye	[=tsireniri][NRoot][=night (ES: noche)][--][-ki][Cas][+LOC.T][--
         <parsing/>
     </text>
     <text id="141">
-        <sentence lang="prq">Nobashitaantakabo inchakitso nonkentantyaari tsimeripaye.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Nobashitaantakabo inchakitso nonkentantyaari tsimeripaye.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Novashitaantakavo inchakitso nonkentantyaari tsimeripaye.</sentence>
         <sentence lang="es">Hice maspute al lado de la moena para cazar pajaritos.</sentence>
         <sentence lang="en">I build a hunter's hiding-place with the moena tree in order to pierce little birds with arrows.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-nobashitaantakabo	[n-][VPers][1SG.S/A+][--][=ovashit][VRoot][=to.build.a.hunter's.hiding_place (ES: construir.un.maspute)][--][-a][+EP]a[--][-ant][Asp][+APPL.REAS][=in.order.to]ant[--][-ak][ASP][+PRF]ak[--][-a][+REAL]a[--][=vo][+3n.m.O]
+ovashitaantakavo	[n-][VPers][1SG.S/A+][--][=ovashit][VRoot][=to.build.a.hunter's.hiding_place (ES: construir.un.maspute)][--][-a][+EP]a[--][-ant][Asp][+APPL.REAS][=in.order.to]ant[--][-ak][ASP][+PRF]ak[--][-a][+REAL]a[--][=vo][+3n.m.O]
 
 inchakitso	[=inchakitso][NRoot][=tree.sp. (ES: moena, sp.de.árbol)]
 
@@ -3637,9 +3638,23 @@ tsimeripaye	[=tsimeri+m.+poss@ti.][NRoot][=bird, little.bird (ES: ave, pájaro)]
         <parsing/>
     </text>
     <text id="142.1">
-        <sentence lang="prq">Charine obaepatakiri inchapataki iitiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Charine obaepatakiri inchapataki iitiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Charine ovaepatakiri inchapataki iitiki.</sentence>
         <sentence lang="es">A mi abuelo le picó una astilla en su pie.</sentence>
-        <morphology/>
+        <morphology>
+
+
+charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male)]
+
+???
+
+inchapataki	[=incha][NRoot][=plant][--][-pata][+CL:long.tool][=long.tool;flat.oblong][--][-ki][Cas][+LOC_LOC.T]
+
+iitiki	[=iiti+n.m.+inal@ntsi.][NRoot][=foot (ES: pie)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="142.2">
