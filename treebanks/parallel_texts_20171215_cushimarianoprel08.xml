@@ -3736,7 +3736,7 @@ ishintipaareki	[i-][NPers][3m.poss+][--][=shintipa+n.m.+poss@re.][NRoot][=raft, 
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Iheeki Inchatomashiki tsimeripaye.</sentence>
         <sentence lang="es">Los pajaritos viven en los arbustos.</sentence>
         <sentence lang="en">The little birds inhabit the shrubs.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 iheeki	[i-][VPers][3m.S/A+][--][=heek][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir); to.be][--][-i][+IRR]i
@@ -3751,9 +3751,15 @@ tsimeripaye	[=tsimeri+m.+poss@ti.][NRoot][=bird, little.bird (ES: ave, pájaro)]
         <parsing/>
     </text>
     <text id="145.1">
-        <sentence lang="prq">Iñaakeri konki antari noonki inkaareki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iñaakeri konki antari noonki inkaareki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Inyaakeri konki antari noonki inkaareki.</sentence>
         <sentence lang="es">Mi suegro vió una boa en la cocha.</sentence>
-        <morphology/>
+        <morphology>
+
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="145.2">
