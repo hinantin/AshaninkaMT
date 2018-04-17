@@ -3732,9 +3732,22 @@ ishintipaareki	[i-][NPers][3m.poss+][--][=shintipa+n.m.+poss@re.][NRoot][=raft, 
         <parsing/>
     </text>
     <text id="144">
-        <sentence lang="prq">Ijeeki Inchatomashiki tsimeripaye.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ijeeki Inchatomashiki tsimeripaye.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iheeki Inchatomashiki tsimeripaye.</sentence>
         <sentence lang="es">Los pajaritos viven en los arbustos.</sentence>
-        <morphology/>
+        <sentence lang="en">The little birds inhabit the shrubs.</sentence>
+        <morphology>
+
+
+iheeki	[i-][VPers][3m.S/A+][--][=heek][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir); to.be][--][-i][+IRR]i
+
+inchatomashiki	[=inchatomashi][NRoot][=scrub (ES: arbusto)][--][-ki][Cas][+LOC_LOC.T]
+
+tsimeripaye	[=tsimeri+m.+poss@ti.][NRoot][=bird, little.bird (ES: ave, pájaro)][--][-paye][Num][+PL_DIST]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="145.1">
