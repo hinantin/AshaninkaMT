@@ -3619,7 +3619,15 @@ tsirenirikipaye	[=tsireniri][NRoot][=night (ES: noche)][--][-ki][Cas][+LOC.T][--
     <text id="141">
         <sentence lang="prq">Nobashitaantakabo inchakitso nonkentantyaari tsimeripaye.</sentence>
         <sentence lang="es">Hice maspute al lado de la moena para cazar pajaritos.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+nobashitaantakabo	[n-][VPers][1SG.S/A+][--][=ovashi][VRoot][=to.ensnare, to.entrap][--][-t][+EP]t[--][-a][+REP][=again.and.again]a[--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-a][+REAL.RFL]a[--][=vo][+3n.m.O]
+
+inchakitso	[=inchakitso][NRoot][=tree.sp. (ES: moena, sp.de.árbol)]
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="142.1">
