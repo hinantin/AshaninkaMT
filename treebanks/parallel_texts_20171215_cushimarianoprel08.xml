@@ -3597,18 +3597,19 @@ oharentsite	[o-][VPers][3n.m.S/A+][--][=harentsi+m.][NRoot][=year (ES: año); dr
         <parsing/>
     </text>
     <text id="140">
-        <sentence lang="prq">Osheki okaminaena ina tsirenirikipaye.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Osheki okaminaena ina tsirenirikipaye.</sentence>
         <sentence lang="es">Mi mamá me da consejos todas las noches.</sentence>
-        <morphology>
+        <sentence lang="en">Mother gives me alot of advice every night.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 osheki	[=osheki][AdjRoot][=many; much; a.lot]
 
 okaminaena	[o-][VPers][3n.m.S/A+][--][=kamin][VRoot][=to.advise; to.give.advice][--][-a][+EP]a[--][-e][+REAL]e[--][=na][+1SG.O]
 
-ina	[=ina+n.m.+inal@tsi.+voc.][NRoot][=mother; wife (kin.of.a.fe/male)]
+ina	[=ina+n.m.+inal@tsi.+voc.][NRoot][=mother (kin.of.a.fe/male)]
 
-tsirenirikipaye	[=tsireniri][NRoot][=night (ES: noche)][--][-ki][Cas][+LOC_LOC.T][--][-paye][Num][+PL_DIST]
+tsirenirikipaye	[=tsireniri][NRoot][=night (ES: noche)][--][-ki][Cas][+LOC.T][--][-paye][Num][+DIST]
 
 .	.[$.]
 
