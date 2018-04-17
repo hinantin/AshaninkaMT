@@ -3660,7 +3660,22 @@ iitiki	[=iiti+n.m.+inal@ntsi.][NRoot][=foot (ES: pie)][--][-ki][Cas][+LOC_LOC.T]
     <text id="142.2">
         <sentence lang="prq">Naashitakeri iye inchapatakite maanko ikamaankantakari.</sentence>
         <sentence lang="es">Saqué corteza del mango para mi hermano cuando vomitó.</sentence>
-        <morphology/>
+        <morphology>
+
+
+naashitakeri	[=naashi][VRoot][=to.separate][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+iye	[=iye][OtherRoot][=expression.of.surprise]
+
+inchapatakite	[i-][NPers][3m.poss+][--][=incha][NRoot][=plant][--][-pa][+CL:cylindrical,pod-like][=cylindrical,pod-like; banana,plantain][--][-taki][+CL:skin,peel][=skins,hard.outer.coverings][--][-te][Gen][+aln.poss.]te
+
+maanko	[=mango/maanko][NRoot][=mango (botany.nm.: manguira.indica, mangifera.indica)]
+
+ikamaankantakari	[i-][VPers][3m.S/A+][--][=kamaank][VRoot][=to.vomit (ES: vomitar)][--][-ant][Asp][+APPL.REAS][=in.order.to]ant[--][-ak][ASP][+PRF]ak[--][-a][+REAL.RFL]a[--][=ri][+3m.O]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="143.1">
