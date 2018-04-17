@@ -3683,6 +3683,7 @@ ikamaankantakari	[i-][VPers][3m.S/A+][--][=kamaank][VRoot][=to.vomit (ES: vomita
         <sentence lang="prq" normalizationlevel="none">Ironta inchato piñaakerira pamakira onati.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ironta inchato pinyaakerira pamakira onati.</sentence>
         <sentence lang="es">Ese árbol que ves es chimicua.</sentence>
+        <sentence lang="en">The tree over there that you saw over there, it is a chimicua-tree over there.</sentence>
         <morphology>
 
 
@@ -3690,9 +3691,9 @@ ironta	[=ironta+n.m.+distal.b.][PrnDem][=that.(over.there)]
 
 inchato	[=inchato+n.m.][NRoot][=tree (ES: árbol)]
 
-pinyaakerira	[pi-][VPers][2S/A+][--][=ny][VRoot][=to.see, to.look.for; to.visit][--][-a][+EP]a[--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=ri][+3m.O][--][-ra+medial.loc.][+ADV]ra
+pinyaakerira	[pi-][VPers][2S/A+][--][=nya][VRoot][=to.speak][--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-e][+IRR]e[--][=ri][+3m.O][--][-ra+medial.loc.][+ADV]ra
 
-pamakira	[=pamaki][NRoot][=tree.sp. (ES: chimicua, sp.de.árbol)][--][-ra+medial.b.][Adv][+DEM]
+pamakira	[=pamaki][NRoot][=tree.sp. (ES: chimicua, sp.de.árbol)][--][-ra+medial.b.][Adv][+DEM][=not.here, there, not.in.the.speaker's.interactional.space]
 
 onati	[o-][VPers][3n.m.S/A+][--][=n][VRoot][=to.be][--][-a][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]a[--][-t][+EP]t[--][-i][+IRR]i
 
