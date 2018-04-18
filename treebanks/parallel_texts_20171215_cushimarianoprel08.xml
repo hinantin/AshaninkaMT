@@ -3921,12 +3921,22 @@ keshiiki	[=keshii][NRoot][=mountainous.grassland (ES: (gran).pajonal); grass.typ
         <parsing/>
     </text>
     <text id="150">
-        <sentence lang="prq">Pishiye intsipaeni payena nija.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Pishiye intsipaeni payena nija.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Pishiye intsipaeni payena niha.</sentence>
         <sentence lang="es">Corre rápido a traerme agua.</sentence>
+        <sentence lang="en">Run quickly, get me water.</sentence>
         <morphology>
 
 
+pishiye	[pi-][VPers][2S/A+][--][=shiy][VRoot][=to.escape, to.run (ES: escapar)][--][-e][+IRR]e
 
+intsipaeni	[=intsipaeni][AdvRoot][=quickly (ES: rápido)]
+
+payena	[p-][VPers][2S/A+][--][=a][VRoot][=to.get][--][-ye][+IRR]ye[--][=na][+1SG.O]
+
+niha	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
