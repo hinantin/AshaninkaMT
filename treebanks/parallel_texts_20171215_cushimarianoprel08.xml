@@ -3924,13 +3924,13 @@ keshiiki	[=keshii][NRoot][=mountainous.grassland (ES: (gran).pajonal); grass.typ
         <sentence lang="prq" normalizationlevel="none">Pishiye intsipaeni payena nija.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Pishiye intsipaeni payena niha.</sentence>
         <sentence lang="es">Corre rápido a traerme agua.</sentence>
-        <sentence lang="en">Run quickly, get me water.</sentence>
+        <sentence lang="en">Run with urgency, get me water.</sentence>
         <morphology>
 
 
 pishiye	[pi-][VPers][2S/A+][--][=shiy][VRoot][=to.escape, to.run (ES: escapar)][--][-e][+IRR]e
 
-intsipaeni	[=intsipaeni][AdvRoot][=quickly (ES: rápido)]
+intsipaeni	[=intsipaeni][AdvRoot][=quickly (ES: rápido); urgently, with.urgency (ES: urgente)]
 
 payena	[p-][VPers][2S/A+][--][=a][VRoot][=to.get][--][-ye][+IRR]ye[--][=na][+1SG.O]
 
