@@ -4045,15 +4045,49 @@ choeni	[=choeni+n.m.][NRoot][=sister (kin.of.a.male, male.ego)]
         <parsing/>
     </text>
     <text id="155">
-        <sentence lang="prq">Itomi yeye iraenkari osheki rantabaeshiti.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Itomi yeye iraenkari osheki rantabaeshiti.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Itomi yeye iraenkari osheki rantavaeshiti.</sentence>
         <sentence lang="es">El hijo llorón de mi hermano es muy travieso.</sentence>
-        <morphology/>
+        <!-- * travieso = hace de todo. -->
+        <sentence lang="en">Brother's son is a cry-baby, he is so mischievous </sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+itomi	[i-][NPers][3m.poss+][--][=tomi+m.+inal@tsi.][NRoot][=son (kin.of.a.fe/male)]
+
+yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
+
+iraenkari	[=ir][VRoot][=to.drink (ES: beber)][--][-a][+EP]a[--][-enka][NS][+NMZ.QLTY]enka[--][-ri+m.][NS][+NMZ]
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+rantabaeshiti	[r-][VPers][3m.S/A+][--][=ant][VRoot][=to.beat, to.hit; to.build, to.do, to.make][--][-a][+EP]a[--][-vae][ASP][+DUR]vae[--][-shi][+APPL.INT][=purpose,(with.the).intent]shi[--][-t][+EP]t[--][-i][+IRR]i
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="156.1">
-        <sentence lang="prq">Ramake Pishiyaba pankotsiki mapocha iraka.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ramake Pishiyaba pankotsiki mapocha iraka.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ramake Pishiyava pankotsiki mapocha iraka.</sentence>
         <sentence lang="es">Pishiyawa trajo a la casa papaya madura.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ramake	[r-][VPers][3m.S/A+][--][=am][VRoot][=to.bring (ES: traer)][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e
+
+pishiyaba	[=pishiyava][NRoot][=NP, person's.name]
+
+pankotsiki	[=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)][--][-tsi+alien.][Gen][+nposs]tsi[--][-ki][Cas][+LOC_LOC.T]
+
+mapocha	[=mapocha+n.m.+poss@ti.][NRoot][=papaya (botany.nm.: carica.papaya)]
+
+iraka	[=iraka][NRoot][=ripe (ES: maduro)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="156.2">
