@@ -4124,27 +4124,50 @@ kotsironaki	[=kotsi][VRoot][=to.cook (ES: cocinar)][--][-ro+n.m.][NS][+NMZ]ro[--
 
 oriani	[=oriani+n.m.][AdjRoot][=small]
 
+.	.[$.]
 
 </morphology>
         <parsing/>
     </text>
     <text id="158">
-        <sentence lang="prq">Ikantakina nirentitsori: Oyoyaatati isheni amperi obaneki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikantakina nirentitsori: Oyoyaatati isheni amperi obaneki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikantakina nirentitsori: Oyoyaatati isheni amperi ovaneki.</sentence>
         <sentence lang="es">Mi primo me dijo: “La abuela está cosechando el algodón en su chacra”.</sentence>
-        <morphology/>
-        <parsing/>
-    </text>
-    <text id="159">
-        <sentence lang="prq">Riyote yeye okaemakantiro ishinto.</sentence>
-        <sentence lang="es">La suegra de mi hermano manda llamar a su hija.</sentence>
         <morphology>
 
 
-riyote	[r-][NPers][3m.poss+][--][=iyo+n.m.+poss@te.][NRoot][=mother.in.lar (kin.of.a.male; suegra)][--][-te][Gen][+aln.poss.]te
+ikantakina	[i-][VPers][3m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-ak][ASP][+PRF]ak[--][-i][+REAL]i[--][=na][+1SG.O]
+
+nirentitsori	[n-][NPers][1SG.poss+][--][=irenti+m.][NRoot][=brother (kin.of.a.male)][--][-tsori][+CL:distant/surrogate.kin][=distant/surrogate.kin]
+
+:	:[$.]
+
+???
+
+isheni	[=isheni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
+
+amperi	[=ampe][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense; ES: algodón)][--][-ri+m.][NS][+NMZ]
+
+obaneki	[o-][NPers][3n.m.poss+][--][=va+n.m.+poss@ni:ne.+voc@1SG.][NRoot][=sown.field, sown.plot.of.land (ES: chacra)][--][-ne][Gen][+aln.poss.]ne[--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
+        <parsing/>
+    </text>
+    <text id="159">
+        <sentence lang="prq" normalizationlevel="none">Riyote yeye okaemakantiro ishinto.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Riyote yeye okaemakantiro ishinto.</sentence>
+        <sentence lang="es">La suegra de mi hermano manda llamar a su hija.</sentence>
+        <sentence lang="en">Brother's mother-in-law mandates to call his daughter.</sentence>
+        <morphology>
+
+
+riyote	[r-][NPers][3m.poss+][--][=iyo+n.m.+poss@te.][NRoot][=mother.in.law (kin.of.a.male; suegra)][--][-te][Gen][+aln.poss.]te
 
 yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
 
-okaemakantiro	[o-][VPers][3n.m.S/A+][--][=kaem][VRoot][=to.scream, to.call.sb. (to.inform.of.sth.)][--][-ak][+CAUS.SOC]ak[--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-t][+EP]t[--][-i][+REAL]i[--][=ro][+3n.m.O]
+okaemakantiro	[o-][VPers][3n.m.S/A+][--][=kaem][VRoot][=to.scream (ES: gritar); to.call.sb. (to.inform.of.sth.; ES: llamar)][--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-t][+EP]t[--][-i][+REAL]i[--][=ro][+3n.m.O]
 
 ishinto	[i-][NPers][3m.poss+][--][=shinto+n.m.+inal@tsi.][NRoot][=daughter (kin.of.a.fe/male)]
 
