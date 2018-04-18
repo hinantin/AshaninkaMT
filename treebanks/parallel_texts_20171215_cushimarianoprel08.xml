@@ -4133,6 +4133,7 @@ oriani	[=oriani+n.m.][AdjRoot][=small]
         <sentence lang="prq" normalizationlevel="none">Ikantakina nirentitsori: Oyoyaatati isheni amperi obaneki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikantakina nirentitsori: Oyoyaatati isheni amperi ovaneki.</sentence>
         <sentence lang="es">Mi primo me dijo: “La abuela está cosechando el algodón en su chacra”.</sentence>
+        <sentence lang="en">Cousin said to me: "Grandmother is harvesting cotton in her sown field".</sentence>
         <morphology>
 
 
@@ -4148,7 +4149,7 @@ isheni	[=isheni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
 
 amperi	[=ampe][NRoot][=cotton (botany.nm.: gossipium.sp., gossipium.barbadense; ES: algodón)][--][-ri+m.][NS][+NMZ]
 
-obaneki	[o-][NPers][3n.m.poss+][--][=va+n.m.+poss@ni:ne.+voc@1SG.][NRoot][=sown.field, sown.plot.of.land (ES: chacra)][--][-ne][Gen][+aln.poss.]ne[--][-ki][Cas][+LOC_LOC.T]
+ovaneki	[o-][NPers][3n.m.poss+][--][=va+n.m.+poss@ni:ne.+voc@1SG.][NRoot][=sown.field, sown.plot.of.land (ES: chacra)][--][-ne][Gen][+aln.poss.]ne[--][-ki][Cas][+LOC_LOC.T]
 
 .	.[$.]
 
@@ -4160,7 +4161,7 @@ obaneki	[o-][NPers][3n.m.poss+][--][=va+n.m.+poss@ni:ne.+voc@1SG.][NRoot][=sown.
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Riyote yeye okaemakantiro ishinto.</sentence>
         <sentence lang="es">La suegra de mi hermano manda llamar a su hija.</sentence>
         <sentence lang="en">Brother's mother-in-law mandates to call his daughter.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 riyote	[r-][NPers][3m.poss+][--][=iyo+n.m.+poss@te.][NRoot][=mother.in.law (kin.of.a.male; suegra)][--][-te][Gen][+aln.poss.]te
@@ -4177,7 +4178,8 @@ ishinto	[i-][NPers][3m.poss+][--][=shinto+n.m.+inal@tsi.][NRoot][=daughter (kin.
         <parsing/>
     </text>
     <text id="160">
-        <sentence lang="prq">Iyotaka eentsipaye jaekanaentsiri pankotsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iyotaka eentsipaye jaekanaentsiri pankotsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iyotaka eentsipaye haekanaentsiri pankotsiki.</sentence>
         <sentence lang="es">Solamente se quedaron niños en la casa.</sentence>
         <morphology/>
         <parsing/>
