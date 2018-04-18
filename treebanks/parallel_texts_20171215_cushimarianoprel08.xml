@@ -4130,7 +4130,7 @@ oriani	[=oriani+n.m.][AdjRoot][=small]
         <parsing/>
     </text>
     <text id="158">
-        <sentence lang="prq" normalizationlevel="none">Ikantakina nirentitsori: Oyoyaatati isheni amperi obaneki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikantakina nirentitsori: Ovoyaatati isheni amperi obaneki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikantakina nirentitsori: Oyoyaatati isheni amperi ovaneki.</sentence>
         <sentence lang="es">Mi primo me dijo: “La abuela está cosechando el algodón en su chacra”.</sentence>
         <sentence lang="en">Cousin said to me: "Grandmother is harvesting cotton in her sown field".</sentence>
@@ -4181,7 +4181,20 @@ ishinto	[i-][NPers][3m.poss+][--][=shinto+n.m.+inal@tsi.][NRoot][=daughter (kin.
         <sentence lang="prq" normalizationlevel="none">Iyotaka eentsipaye jaekanaentsiri pankotsiki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Iyotaka eentsipaye haekanaentsiri pankotsiki.</sentence>
         <sentence lang="es">Solamente se quedaron niños en la casa.</sentence>
-        <morphology/>
+        <morphology>
+
+
+iyotaka	[=iyot][VRoot][=to.know (ES: saber); to.understand (ES: entender)][--][-ak][ASP][+PRF]ak[--][-a][+REAL]a
+
+eentsipaye	[=eentsi+n./m.+poss@te.][NRoot][=child (ES: niño)][--][-paye][Num][+PL_DIST]
+
+haekanaentsiri	[=haek][VRoot][=to.be, to.be.at, to.be.in; to.sit; to.live][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-aentsi][Asp][+STAT.PRF]aentsi[--][=ri][NS][+REL]
+
+pankotsiki	[=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)][--][-tsi+alien.][Gen][+nposs]tsi[--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="161">
