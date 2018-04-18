@@ -4182,7 +4182,7 @@ ishinto	[i-][NPers][3m.poss+][--][=shinto+n.m.+inal@tsi.][NRoot][=daughter (kin.
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Iyotaka eentsipaye haekanaentsiri pankotsiki.</sentence>
         <sentence lang="es">Solamente se quedaron niños en la casa.</sentence>
         <sentence lang="en">The children know how to be in the house.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 iyotaka	[=iyot][VRoot][=to.know (ES: saber); to.understand (ES: entender)][--][-ak][ASP][+PRF]ak[--][-a][+REAL]a
@@ -4199,9 +4199,26 @@ pankotsiki	[=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)][
         <parsing/>
     </text>
     <text id="161">
-        <sentence lang="prq">Ojabati nana nija opitiriantyariri tyaapa.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ojabati nana nija opitiriantyariri tyaapa.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ohavati nana niha opitiriantyariri tyaapa.</sentence>
         <sentence lang="es">Mi mamá calienta agua para desplumar la gallina.</sentence>
-        <morphology/>
+        <sentence lang="en">Mother heats water in order to pluck the chicken.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ohavati	[o-][VPers][3n.m.S/A+][--][=hava][VRoot][=to.heat (ES: hacer.hervir); to.incubate (ES: incubar)][--][-t][+EP]t[--][-i][+IRR]i
+
+nana	[=nana+n.m.+voc.+poss@te:ti.][NRoot][=mom, mother (kin.of.a.fe/male; ES: mamá)]
+
+niha	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
+
+opitiriantyariri	[o-][VPers][3n.m.S/A+][--][=pitiri][VRoot][=to.pluck.sth.(out) (prbly. hair, feathers, bristle; ES: desplumar)][--][-ant][Asp][+APPL.REAS][=in.order.to]ant[--][-ya][+IRR]ya[--][=ri][+3m.O][--][=ri][NS][+REL]
+
+tyaapa	[=tyaapa+n.m.+poss@te.][NRoot][=hen; chicken]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="162">
