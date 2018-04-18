@@ -3999,7 +3999,7 @@ apa	[=apa+m.][NRoot][=father (kin.of.a.fe/male)]
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Rantivataka Kamanyari shitovanake osheki irira.</sentence>
         <sentence lang="es">Kamaañari se tropezó y le salió mucha sangre.</sentence>
         <sentence lang="en">Kamanyari tripped over, he bled a lot [lit. a lot of his blod came out].</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 [
 rantivataka	[r-][VPers][3m.S/A+][--][=antiva][VRoot][=to.trip.(over.sth.) (ES: tropezar)][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-a][+REAL]a
