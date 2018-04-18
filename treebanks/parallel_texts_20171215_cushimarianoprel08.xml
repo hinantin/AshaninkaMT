@@ -3890,9 +3890,34 @@ inkokiroeni	[=inkokiroeni][NRoot][=outside]
         <parsing/>
     </text>
     <text id="149">
-        <sentence lang="prq">Jamorenkake iiti obametantayetatsiri, tema raniitake inteena ipoñanaka keshiiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Jamorenkake iiti obametantayetatsiri, tema raniitake inteena ipoñanaka keshiiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Hamorenkake iiti ovametantayetatsiri, tema raniitake inteena iponyanaka keshiiki.</sentence>
         <sentence lang="es">A los maestros les salieron ampollas en los pies porque caminaron lejos desde el Gran Pajonal.</sentence>
-        <morphology/>
+        <sentence lang="en">The teachers' feet have blisters because they walked from far away, thay came from the mountainous grassland.</sentence>
+        <morphology>
+
+
+hamorenkake	[=hamorenk][VRoot][=to.have.blisters (ES: tener/salir.ampollas)][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e
+
+iiti	[i-][NPers][3m.poss+][--][=iti+n.m.+inal@ntsi.][NRoot][=foot (ES: pie)]
+
+ovametantayetatsiri	[=ovame][VRoot][=to.teach (ES: enseñar)][--][-t][+EP]t[--][-ant][+APPL.INST][=reason,instrumentality;in.order.to]ant[--][-a][+EP]a[--][-ye][+DIST]ye[--][-t][+EP]t[--][-atsi][Asp][+STAT.IPRF]atsi[--][=ri][NS][+REL]
+
+,	,[$.]
+
+tema	[=tema][OtherRoot][=because (ES: porque); maybe (ES: como, ya.que, puesto.que)]
+
+raniitake	[r-][VPers][3m.S/A+][--][=anii][VRoot][=to.go; to.walk (ES: caminar); to.go.down][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-e][+REAL]e
+
+inteena	[=inteena+sem@loc.][AdvRoot][=far.away (ES: muy.lejos)]
+
+iponyanaka	[i-][VPers][3m.S/A+][--][=pony][VRoot][=to.come.from.(some_place) (ES: venir.de.algún_lugar)][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF]ak[--][-a][+REAL]a
+
+keshiiki	[=keshii][NRoot][=mountainous.grassland (ES: (gran).pajonal); grass.type (ES: hierva.de.pajonal); grass-and-shrub.savannahs][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="150">
