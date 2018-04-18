@@ -4018,9 +4018,30 @@ irira	[ir-][NPers][3m.poss+][--][=ira+n.m.+inal@ntsi.+poss@ni.][NRoot][=blood (E
         <parsing/>
     </text>
     <text id="154">
-        <sentence lang="prq">Nana iyatsi ayi iraari abintantyaabori opatsabo choeni.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Nana iyatsi ayi iraari abintantyaabori opatsabo choeni.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Nana iyatzi ayi iraari avintantyaavori opatsavo choeni.</sentence>
         <sentence lang="es">Mi mamá fue a traer sangre de grado para curar la herida de mi hermana.</sentence>
-        <morphology/>
+        <sentence lang="en">Mother goes to get dragon's.blood in order to cure sister's wound.</sentence>
+        <morphology>
+
+
+nana	[=nana+n.m.+voc.+poss@te:ti.][NRoot][=mom, mother (kin.of.a.fe/male; ES: mamá)]
+
+iyatzi	[=iya][VRoot][=to.go (ES: ir)][--][-tz][+EP]tz[--][-i][+REAL]i
+
+ayi	[=ay][VRoot][=to.get][--][-i][+IRR]i
+
+iraari	[=iraari+n.m.][NRoot][=dragon's.blood (red-color.resin/sap, ES: sangre.de.grado/drago)]
+
+avintantyaavori	[=avint][VRoot][=to.cure (ES: curar)][--][-ant][Asp][+APPL.REAS][=in.order.to]ant[--][-yaa][+IRR]yaa[--][=vo][+3n.m.O][--][=ri][NS][+REL]
+
+opatsavo	[o-][NPers][3n.m.poss+][--][=patsa][VRoot][=to.have.a.skin.sore, to.have.a.wound; to.rot; to.have.a.wet.wound.with.pus][--][-vo+n.m.][NS][+NMZ]vo
+
+choeni	[=choeni+n.m.][NRoot][=sister (kin.of.a.male, male.ego)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="155">
