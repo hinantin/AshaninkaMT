@@ -4111,9 +4111,21 @@ akishitabakeeta	[=akishi][VRoot][=to.roast (ES: asar)][--][-t][+EP]t[--][-av+obj
         <parsing/>
     </text>
     <text id="157">
-        <sentence lang="prq">Pamakenabo kotsironaki oriani.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Pamakenabo kotsironaki oriani.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Pamakenavo kotsironaki oriani.</sentence>
         <sentence lang="es">Tráeme la olla pequeña.</sentence>
-        <morphology/>
+        <sentence lang="en">Bring it to me the small pod.</sentence>
+        <morphology>
+
+
+pamakenavo	[p-][VPers][2S/A+][--][=am][VRoot][=to.bring (ES: traer)][--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-e][+REAL]e[--][=na][+1SG.O][--][=vo][+3n.m.O]
+
+kotsironaki	[=kotsi][VRoot][=to.cook (ES: cocinar)][--][-ro+n.m.][NS][+NMZ]ro[--][-naki][+CL:round.hollow][=round,hollow;interior.space;vacuous,round]
+
+oriani	[=oriani+n.m.][AdjRoot][=small]
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="158">
