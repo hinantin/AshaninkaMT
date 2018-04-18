@@ -3799,13 +3799,13 @@ inkaare	[=inkaare+n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)]
         <!-- Inkani parientsiri chapinki oshokakaakero pankirentsi. -->
         <sentence lang="prq">Inkani pariantziri chapinki oshokakaakero pankirentsi.</sentence>
         <sentence lang="es">La lluvia que cayó la semana pasada hizo crecer las plantas.</sentence>
-        <sentence lang="en">The rain that fell the other day caused plants to grow.</sentence>
+        <sentence lang="en">The rain that fell the other day upon leaving caused plants to grow.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 inkani	[=inkani+n.m.][NRoot][=rain (ES: lluvia)]
 
-pariantziri	[=pari][VRoot][=to.fall (ES: caer)][--][-ant][Asp][+APPL.REAS][=in.order.to]ant[--][-i][+IRR]i[--][=ri][NS][+REL]
+pariantziri	[=pari][VRoot][=to.fall (ES: caer)][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-tz][+EP]tz[--][-i][+IRR]i[--][=ri][NS][+REL]
 
 chapinki	[=chapinki][NRoot][=the.other.day; yesterday (ES: ayer)]
 
@@ -3819,15 +3819,47 @@ pankirentsi	[=pankire+m.+inal@ntsi.][NRoot][=plant (ES: planta)][--][-ntsi+alien
         <parsing/>
     </text>
     <text id="147.1">
-        <sentence lang="prq">Ijaekaeyeni ompokiro inkiteki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ijaekaeyeni ompokiro inkiteki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ihaekaeyeni ompokiro inkiteki.</sentence>
         <sentence lang="es">Las estrellas viven en el firmamento.</sentence>
-        <morphology/>
+        <sentence lang="en">The stars live in the firmament.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ihaekaeyeni	[i-][VPers][3m.S/A+][--][=haek][VRoot][=to.be, to.be.at, to.be.in; to.sit; to.live][--][-aey][+PL]aey[--][-e][+REAL]e[--][-ni+circumfixing][+PL]
+
+ompokiro	[=ompokiro][NRoot][=star (ES: estrella)]
+
+inkiteki	[=inkite][NRoot][=sky (ES: cielo); firmament][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="147.2">
-        <sentence lang="prq">Aririka akemejanteri Paba ari aataje inkiteki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Aririka akemejanteri Paba ari aataje inkiteki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Aririka akemehanteri Pava ari ahatahe inkiteki.</sentence>
         <sentence lang="es">Si creemos en Dios iremos al cielo.</sentence>
-        <morphology/>
+        <sentence lang="en">If we believe in God we will go to heaven.</sentence>
+        <morphology>
+
+
+aririka	[=ari][PostPol][=PP][--][-rika][+COND]::[WhPrn][=when]
+
+akemejanteri	[a-][VPers][1PL.S/A+][--][=kemehan][VRoot][=to.pay.attention; to.believe; to.obey][--][-t][+EP]t[--][-e][+IRR]e[--][=ri][+3m.O]
+
+pava	[=pava+m.+poss@ni.][NRoot][=solar.deity; god (ES: dios); creator (PT: Deus.solar); dad, father]
+
+ari	[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+ahatahe	[a-][VPers][1PL.S/A+][--][=ha][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-e][+REAL]e
+
+inkiteki	[=inkite][NRoot][=sky (ES: cielo); firmament][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="148">
