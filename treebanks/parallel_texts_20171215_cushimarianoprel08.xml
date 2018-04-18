@@ -3995,9 +3995,26 @@ apa	[=apa+m.][NRoot][=father (kin.of.a.fe/male)]
         <parsing/>
     </text>
     <text id="153">
-        <sentence lang="prq">Rantibataka Kamañari shitobanake osheki irira.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Rantibataka Kamañari shitobanake osheki irira.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rantivataka Kamanyari shitovanake osheki irira.</sentence>
         <sentence lang="es">Kamaañari se tropezó y le salió mucha sangre.</sentence>
-        <morphology/>
+        <sentence lang="en">Kamanyari tripped over, she bled a lot.</sentence>
+        <morphology>
+
+
+rantivataka	[r-][VPers][3m.S/A+][--][=antiva][VRoot][=to.trip.(over.sth.) (ES: tropezar)][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-a][+REAL]a
+
+kamanyari	[=kamanyari][NRoot][=NP, person's.name]
+
+shitovanake	[=shitov][VRoot][=to.leave (ES: salir); to.escape][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+irira	[ir-][NPers][3m.poss+][--][=ira+n.m.+inal@ntsi.+poss@ni.][NRoot][=blood (ES: sangre)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="154">
