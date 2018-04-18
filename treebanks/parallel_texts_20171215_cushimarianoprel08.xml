@@ -3863,9 +3863,30 @@ inkiteki	[=inkite][NRoot][=sky (ES: cielo); firmament][--][-ki][Cas][+LOC_LOC.T]
         <parsing/>
     </text>
     <text id="148">
-        <sentence lang="prq">Ikantakeri paba icharine: Piyaate piñaatsatya inkokiroeni.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikantakeri paba icharine: Piyaate piñaatsatya inkokiroeni.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikantakeri pava icharine: Piyaate pinyaatsatya inkokiroeni.</sentence>
         <sentence lang="es">Mi papá dijo a su nieto: “Vete a jugar afuera”.</sentence>
-        <morphology/>
+        <sentence lang="en">Father said to his grandson: "Go play outside".</sentence>
+        <morphology>
+
+
+ikantakeri	[i-][VPers][3m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+pava	[=pava+m.+poss@ni.][NRoot][=solar.deity; god (ES: dios); creator (PT: Deus.solar); dad, father]
+
+icharine	[i-][NPers][3m.poss+][--][=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male); grandson (ES: nieto)]
+
+:	:[$.]
+
+piyaate	[p-][VPers][2S/A+][--][=iyaa][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-e][+IRR]e
+
+pinyaatsatya	[pi-][VPers][2S/A+][--][=nyaatsa][VRoot][=to.play; to.have.sex (euphemism)][--][-t][+EP]t[--][-ya][+IRR]ya
+
+inkokiroeni	[=inkokiroeni][NRoot][=outside]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="149">
