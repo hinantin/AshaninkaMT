@@ -3942,15 +3942,56 @@ niha	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
         <parsing/>
     </text>
     <text id="151">
-        <sentence lang="prq">Sheripiari eejati maniti kiajeetanake intsomoeki impeetaki ari rashitakotakeri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Sheripiari eejati maniti kiajeetanake intsomoeki impeetaki ari rashitakotakeri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Sheripiari eehati maniti kiaheetanake intsomoeki impeetaki ari rashitakotakeri.</sentence>
         <sentence lang="es">El curandero y el tigre entraron dentro del tunel rocoso, allí lo encerró.</sentence>
-        <morphology/>
+        <sentence lang="en">The shaman and the tiger entered inside the rocky cave, so they locked them in.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+sheripiari	[=sheripiari+m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero)]
+
+eehati	[=eehati][ConnRoot][=also (ES: también); and (ES: y)]
+
+maniti	[=maniti][NRoot][=tiger (ES: tigre); jaguar (sci.nm.: panthera.onca)]
+
+kiaheetanake	[=ky][VRoot][=to.enter (ES: ingresar)][--][-a][+EP]a[--][-hee][NUM][+PL]hee[--][-t][+EP]t[--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF]ak[--][-e][+REAL]e
+
+intsomoeki	[=intsomoeki][AdvRoot][=towards.the.inside (ES: hacia.adentro)]
+
+impeetaki	[=iNpeeta+n.m.][NRoot][=rock (ES: roca); cave; crag][--][-ki][Cas][+LOC_LOC.T]
+
+ari	[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+rashitakotakeri	[r-][VPers][3m.S/A+][--][=ashitako][VRoot][=to.lock.sth./sb.in (ES: encerrar(se))][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="152">
-        <sentence lang="prq">Iraatya otsitsi tokaareki rookanakeri apa.</sentence>
+        <!-- Iraatya otsitsi tokaareki rookanakeri apa. -->
+        <sentence lang="prq" normalizationlevel="none">Iraatya otsitsi tonkaareki rookanakeri apa.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iraatya otsitsi tonkaareki rookanakeri apa.</sentence>
         <sentence lang="es">El perro llora en el cerro por que le dejó mi papá.</sentence>
-        <morphology/>
+        <sentence lang="en">The dog is crying in the hill top, father left it upon departing.</sentence>
+        <morphology>
+
+
+iraatya	[=ira][VRoot][=to.cry][--][-aty][ASP][+PROG]aty[--][-a][+REAL]a
+
+otsitsi	[=otsitsi+m.+poss@te.][NRoot][=dog (ES: perro)]
+
+tonkaareki	[=tonkaare+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas][+LOC_LOC.T]
+
+rookanakeri	[r-][VPers][3m.S/A+][--][=ook][VRoot][=to.abandon; to.leave (ES: dejar); to.throw; to.throw.away/out (ES: botar)][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+apa	[=apa+m.][NRoot][=father (kin.of.a.fe/male)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="153">
