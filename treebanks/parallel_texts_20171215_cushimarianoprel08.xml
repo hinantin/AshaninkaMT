@@ -3893,7 +3893,7 @@ inkokiroeni	[=inkokiroeni][NRoot][=outside]
         <sentence lang="prq" normalizationlevel="none">Jamorenkake iiti obametantayetatsiri, tema raniitake inteena ipoñanaka keshiiki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Hamorenkake iiti ovametantayetatsiri, tema raniitake inteena iponyanaka keshiiki.</sentence>
         <sentence lang="es">A los maestros les salieron ampollas en los pies porque caminaron lejos desde el Gran Pajonal.</sentence>
-        <sentence lang="en">The teachers' feet have blisters because they walked from far away, they came from the mountainous grassland.</sentence>
+        <sentence lang="en">The teachers' feet have blisters because they walked from far away, they came from the Gran Pajonal.</sentence>
         <morphology>
 
 
@@ -3923,7 +3923,12 @@ keshiiki	[=keshii][NRoot][=mountainous.grassland (ES: (gran).pajonal); grass.typ
     <text id="150">
         <sentence lang="prq">Pishiye intsipaeni payena nija.</sentence>
         <sentence lang="es">Corre rápido a traerme agua.</sentence>
-        <morphology/>
+        <morphology>
+
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="151">
