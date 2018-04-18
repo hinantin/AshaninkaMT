@@ -4022,7 +4022,7 @@ irira	[ir-][NPers][3m.poss+][--][=ira+n.m.+inal@ntsi.+poss@ni.][NRoot][=blood (E
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Nana iyatzi ayi iraari avintantyaavori opatsavo choeni.</sentence>
         <sentence lang="es">Mi mamá fue a traer sangre de grado para curar la herida de mi hermana.</sentence>
         <sentence lang="en">Mother goes to get dragon's.blood in order to cure sister's wound.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 nana	[=nana+n.m.+voc.+poss@te:ti.][NRoot][=mom, mother (kin.of.a.fe/male; ES: mamá)]
