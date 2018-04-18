@@ -3893,7 +3893,7 @@ inkokiroeni	[=inkokiroeni][NRoot][=outside]
         <sentence lang="prq" normalizationlevel="none">Jamorenkake iiti obametantayetatsiri, tema raniitake inteena ipoñanaka keshiiki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Hamorenkake iiti ovametantayetatsiri, tema raniitake inteena iponyanaka keshiiki.</sentence>
         <sentence lang="es">A los maestros les salieron ampollas en los pies porque caminaron lejos desde el Gran Pajonal.</sentence>
-        <sentence lang="en">The teachers' feet have blisters because they walked from far away, they came from the mountainous grassland.</sentence>
+        <sentence lang="en">The teachers' feet have blisters because they walked far away, they came from the mountainous grassland.</sentence>
         <morphology>
 
 
@@ -3913,7 +3913,7 @@ inteena	[=inteena+sem@loc.][AdvRoot][=far.away (ES: muy.lejos)]
 
 iponyanaka	[i-][VPers][3m.S/A+][--][=pony][VRoot][=to.come.from.(some_place) (ES: venir.de.algún_lugar)][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF]ak[--][-a][+REAL]a
 
-keshiiki	[=keshii][NRoot][=mountainous.grassland (ES: (gran).pajonal); grass.type (ES: hierva.de.pajonal); grass-and-shrub.savannahs][--][-ki][Cas][+LOC_LOC.T]
+keshiiki	[=keshii][NRoot][=mountainous.grassland (ES: (gran).pajonal); grass.type (ES: hierva.de.pajonal); grass-and-shrub.savannahs; Gran.Pajonal, place.name][--][-ki][Cas][+LOC_LOC.T]
 
 .	.[$.]
 
