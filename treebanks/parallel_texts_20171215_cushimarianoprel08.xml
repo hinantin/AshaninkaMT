@@ -4385,15 +4385,50 @@ nopankoki	[no-][NPers][1SG.poss+][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: 
         <parsing/>
     </text>
     <text id="168">
-        <sentence lang="prq">Iñaashitakabo iro inchato kijori raatikashitakabo jamaka.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iñaashitakabo iro inchato kijori raatikashitakabo jamaka.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Inyaashitakavo iro inchato kihori raatikashitakavo hamaka.</sentence>
         <sentence lang="es">Pensó que era un palo duro, piso en el palo podrido.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+inyaashitakavo	[i-][VPers][3m.S/A+][--][=ny][VRoot][=to.see, to.look.for; to.visit][--][-a][+EP]a[--][-ashi][+APPL.INT][=purpose,(with.the).intent]ashi[--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-a][+REAL]a[--][=vo][+3n.m.O]
+
+iro	[=iro+n.m.][PrnDem][=this]
+
+inchato	[=inchato+n.m.][NRoot][=tree (ES: árbol)]
+
+kihori	[=kiho][VRoot][=to.be.hard (ES: estar.duro); to.join.tightly-and-rigidly][--][-ri+m.][NS][+ADJ.NMZ]ri
+
+raatikashitakavo	[r-][VPers][3m.S/A+][--][=aatik][VRoot][=to.step, to.foot (ES: pisar)][--][-a][+EP]a[--][-shi][+APPL.INT][=purpose,(with.the).intent]shi[--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-a][+REAL.RFL]a[--][=vo][+3n.m.O]
+
+hamaka	[=hamaka][NRoot][=rotten.piece.of.wood/tree (ES: palo.podrido)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="169">
-        <sentence lang="prq">Ityaakitakero Chobirio jamampo okiki tsinane.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ityaakitakero Chobirio jamampo okiki tsinane.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ityaakitakero Chovirio hamampo okiki tsinane.</sentence>
         <sentence lang="es">Chowirio echó ceniza en el ojo de una mujer.</sentence>
-        <morphology/>
+        <sentence lang="en">Chovirio made ashes fall into a woman's eye.</sentence>
+        <morphology>
+
+
+ityaakitakero	[i-][VPers][3m.S/A+][--][=ty][VRoot][=to.fell, to.cut.down (e.g.: a.tree.; ES: tumbar, hacer.caer)][--][-a][+EP]a[--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-it][Asp][+ANT][=past/non-past.action:before]it[--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=ro][+3n.m.O]
+
+chovirio	[=chovirio][NRoot][=NP, person's.name]
+
+hamampo	[=hamampo][NRoot][=ash (ES: ceniza); grey, ashen, having.colour.of.smoke/ashes]
+
+okiki	[o-][NPers][3n.m.poss+][--][=ki+n.m.+inal@tsi.][NRoot][=eye (ES: ojo)][--][-ki][Cas][+LOC_LOC.T]
+
+tsinane	[=tsinane+n.m.][NRoot][=female, woman; young.girl]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="170">
