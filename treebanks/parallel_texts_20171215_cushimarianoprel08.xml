@@ -4503,9 +4503,24 @@ piyaatika	[p-][VPers][2S/A+][--][=iya][VRoot][=to.go (ES: ir)][--][-a][+REP][=ag
         <parsing/>
     </text>
     <text id="173">
-        <sentence lang="prq">Iro robanabo shima jampobatsa.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iro robanabo shima jampobatsa.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iro rovanavo shima hampovatsa.</sentence>
         <sentence lang="es">El barro es el alimento del pez boquichico.</sentence>
-        <morphology/>
+        <sentence lang="en">Mud is food for the boquichico-fish.</sentence>
+        <morphology>
+
+
+iro	[=iro+n.m.][PrnDem][=this]
+
+rovanavo	[r-][NPers][3m.poss+][--][=ovanavo+n.m.+inal@ntsi.][NRoot][=staple.food, necessity.good; food (ES: comida)]
+
+shima	[=shima+m.+poss@ni.][NRoot][=fish; fish.sp., boquichico-fish (ES: boquichico, chupadora; sci.nm.: prochilodus.nigricans)]
+
+hampovatsa	[=hampovatsa+n.m.+poss@te.][NRoot][=mud (ES: barro); clay; swamp-like, muddy soil]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="174">
