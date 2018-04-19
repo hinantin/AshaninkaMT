@@ -4253,11 +4253,13 @@ piarentsi	[=pyare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato)][--][-ntsi+a
 
 charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]
 
-jabiri	[=haviri][NRoot][=machete (ES: machete)]
+haviri	[=haviri][NRoot][=machete (ES: machete)]
 
-jaanaareki	[=haanaare][NRoot][=deep (ES: profundo); the.bottom (ES: lo.hondo)][--][-ki][Cas][+LOC_LOC.T]
+haanaareki	[=haanaare][NRoot][=deep (ES: profundo); the.bottom (ES: lo.hondo)][--][-ki][Cas][+LOC_LOC.T]
 
-obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
+oveni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
@@ -4269,7 +4271,19 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <morphology>
 
 
+pamakenavo	[p-][VPers][2S/A+][--][=am][VRoot][=to.bring (ES: traer)][--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-e][+REAL]e[--][=na][+1SG.O][--][=vo][+3n.m.O]
 
+perato	[=plato/perato+poss@te.][NRootEs][=plate]
+
+haanari	[=haanari][NRoot][=deep (ES: profundo); the.bottom (ES: lo.hondo)]
+
+???
+
+iyaaki	[i-][NPers][3m.poss+][--][=yaaki+m.+inal@ntsi.][NRoot][=meat.brot (ES: chilcano)]
+
+shonkiri	[=shonkiri+poss@ti.][NRoot][=big.partridge.sp. (ES: perdiz); large.quail]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
