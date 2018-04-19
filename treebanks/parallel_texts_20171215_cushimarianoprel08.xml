@@ -4364,9 +4364,24 @@ pariakotanake	[=pari][VRoot][=to.fall (ES: caer)][--][-ako][+APPL.GEN][=with.ref
         <parsing/>
     </text>
     <text id="167">
-        <sentence lang="prq">Ipokake nani jaka nopankoki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ipokake nani jaka nopankoki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ipokake nani haka nopankoki.</sentence>
         <sentence lang="es">Mi hermano vino aquí a mi casa.</sentence>
-        <morphology/>
+        <sentence lang="en">Brother-in-law came here to my house.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ipokake	[i-][VPers][3m.S/A+][--][=pok][VRoot][=to.come (ES: venir), to.arrive][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e
+
+nani	[n-][NPers][1SG.poss+][--][=ani+m.+poss@ri.][NRoot][=brother.in.law (kin.of.a.male)]
+
+haka	[=haka+proximal.b.][PrnDem][=here, close.to.the.speaker (ES: aquí)]
+
+nopankoki	[no-][NPers][1SG.poss+][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="168">
