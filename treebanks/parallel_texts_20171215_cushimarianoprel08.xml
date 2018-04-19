@@ -4457,7 +4457,7 @@ ovaantsiki	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.lan
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ovashireenkataka hamomo imampaveata otevaki inchato.</sentence>
         <sentence lang="es">La torcaza canta tristemente sobre la rama del árbol.</sentence>
         <sentence lang="en">The pigeon got a sad sound when singing in the tree branch.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 ovashireenkataka	[o-][VPers][3n.m.S/A+][--][=vashire][VRoot][=to.get.sad (ES: entristecer, ponerse.triste), to.be.sad][--][=enka][NRoot][=voice (ES: voz), speech.sound (inmaterial); odor (ES: olor)]enka[--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-a][+REAL]a
@@ -4476,9 +4476,29 @@ inchato	[=inchato+n.m.][NRoot][=tree (ES: árbol)]
         <parsing/>
     </text>
     <text id="172">
-        <sentence lang="prq">Ojampitiri nana apa: ¿Jempe piyaatika?</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ojampitiri nana apa: ¿Jempe piyaatika?</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ohampitiri nana apa: ¿Hempe piyaatika?</sentence>
         <sentence lang="es">Mi mamá le pregunta a mi papá: “¿A dónde vas?”</sentence>
-        <morphology/>
+        <morphology>
+
+
+ohampitiri	[o-][VPers][3n.m.S/A+][--][=hampi][VRoot][=to.ask.(about.sth.) (ES: preguntar)][--][-t][+EP]t[--][-i][+IRR]i[--][=ri][+3m.O]
+
+nana	[=nana+n.m.+voc.+poss@te:ti.][NRoot][=mom, mother (kin.of.a.fe/male; ES: mamá)]
+
+apa	[=apa+m.][NRoot][=father (kin.of.a.fe/male)]
+
+:	:[$.]
+
+¿	¿[$.]
+
+hempe	[=hempe][IndfSpecif][=where]
+
+piyaatika	[p-][VPers][2S/A+][--][=iya][VRoot][=to.go (ES: ir)][--][-a][+REP][=again.and.again]a[--][-t][+EP]t[--][-i][+IRR]i[--][=ka][+Q]
+
+?	?[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="173">
