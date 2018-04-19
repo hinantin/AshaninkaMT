@@ -4435,8 +4435,8 @@ tsinane	[=tsinane+n.m.][NRoot][=female, woman; young.girl]
         <sentence lang="prq" normalizationlevel="none">Itsaatakeri notsitsite jamani obaantsiki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Itsaatakeri notsitsite hamani ovaantsiki.</sentence>
         <sentence lang="es">Mi perro ladró a un majás en la chacra.</sentence>
-        <sentence lang="en"/>
-        <morphology>
+        <sentence lang="en">My dog barked at a majas-rodent in the sown field.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 itsaatakeri	[i-][VPers][3m.S/A+][--][=tsaa][VRoot][=to.bark (ES: ladrar)][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ri][+3m.O]
