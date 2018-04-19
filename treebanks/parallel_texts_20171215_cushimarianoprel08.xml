@@ -4292,7 +4292,8 @@ shonkiri	[=shonkiri+poss@ti.][NRoot][=big.partridge.sp. (ES: perdiz); large.quai
     <text id="164">
         <sentence lang="prq" normalizationlevel="none">Raakero apa itenki jababo robantyaabori ramatsaereki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Raakero apa itenki havavo rovantyaavori ramatsaereki.</sentence>
-        <sentence lang="">Mi papá sacó plumas del guacamayo colorado para ponerlas en su corona.</sentence>
+        <sentence lang="es">Mi papá sacó plumas del guacamayo colorado para ponerlas en su corona.</sentence>
+        <sentence lang="en">Father took the red-and-green macaw z feathers in order to put them in his crown.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -4314,9 +4315,25 @@ ramatsaereki	[r-][NPers][3m.poss+][--][=amatsaere+n.m.+inal@ntsi.][NRoot][=crown
         <parsing/>
     </text>
     <text id="165">
-        <sentence lang="prq">Namanantake jabiri obakerari nopejashitantyaabori noborotaarite.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Namanantake jabiri obakerari nopejashitantyaabori noborotaarite.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Namanantake haviri ovakerari nopehashitantyaavori novorotaarite.</sentence>
         <sentence lang="es">Compré un machete nuevo para hacer mi porotal.</sentence>
-        <morphology/>
+        <morphology>
+
+
+namanantake	[n-][VPers][1SG.S/A+][--][=amanant][VRoot][=to.buy (ES: comprar)][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e
+
+haviri	[=haviri][NRoot][=machete (ES: machete)]
+
+ovakerari	[=ovakerari][NRoot][=new, recent]
+
+nopehashitantyaavori	[no-][VPers][1SG.S/A+][--][=peh][VRoot][=to.clear.land.in.order.to.be.cultivated (ES: rozar, limpiar.un.terreno.de.bosque.para.ser.cultivado)][--][-a][+EP]a[--][-shi][+APPL.INT][=purpose,(with.the).intent]shi[--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to]ant[--][-yaa][+IRR]yaa[--][=vo][+3n.m.O][--][=ri][NS][+REL]
+
+novorotaarite	[no-][NPers][1SG.poss+][--][=porotal/porotaari+poss@te.][NRootEs][=piece.of.land.where.poroto-beans.are.grown (ES: porotal)][--][-i^te][DEGR][+AUG]te
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="166">
