@@ -4222,9 +4222,22 @@ tyaapa	[=tyaapa+n.m.+poss@te.][NRoot][=hen; chicken]
         <parsing/>
     </text>
     <text id="162">
-        <sentence lang="prq">Jaaka inchatonaki piarentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Jaaka inchatonaki piarentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Haaka inchatonaki piarentsi.</sentence>
         <sentence lang="es">El cosho está lleno de masato.</sentence>
-        <morphology/>
+        <sentence lang="en">The cosho-container is full of manioc beer.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+haaka	[=haaka][NRoot][=full (ES: saturado, lleno)]
+
+inchatonaki	[=inchatonaki][NRoot][=big.traditional.fishing.boat; plant_based.container/deposit.to.store.sth. (ES: cosho)]
+
+piarentsi	[=pyare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato)][--][-ntsi+alien.][Gen][+nposs]ntsi
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="163.1">
