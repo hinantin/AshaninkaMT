@@ -4319,7 +4319,7 @@ ramatsaereki	[r-][NPers][3m.poss+][--][=amatsaere+n.m.+inal@ntsi.][NRoot][=crown
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Namanantake haviri ovakerari nopehashitantyaavori novorotaarite.</sentence>
         <sentence lang="es">Compré un machete nuevo para hacer mi porotal.</sentence>
         <sentence lang="en">I bought a new machete with the intent to clear land in order for me to cultivate poroto beans in it.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 namanantake	[n-][VPers][1SG.S/A+][--][=amanant][VRoot][=to.buy (ES: comprar)][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e
@@ -4338,9 +4338,28 @@ novorotaarite	[no-][NPers][1SG.poss+][--][=porotal/porotaari+poss@te.][NRootEs][
         <parsing/>
     </text>
     <text id="166">
-        <sentence lang="prq">Onkobeme ojeeke Kishityo jeekamentotsiki iro kantimaetacha pariakotanake.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Onkobeme ojeeke Kishityo jeekamentotsiki iro kantimaetacha pariakotanake.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Onkoveme oheeke Kishityo heekamentotsiki iro kantimaetacha pariakotanake.</sentence>
         <sentence lang="es">Kishokiyo quizo sentarse en el asiento, pero se cayó.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+onkoveme	[o-][VPers][3n.m.S/A+][--][N=][IRR+][--][=kov][VRoot][=to.want][--][-e][+REAL]e[--][=me][MODAL][+SUBJ][=not.to.achieve/realize.an.action/idea (ES: para.bien/mal.las.acciones/ideas.expresadas.no.se.realizaron)]
+
+oheeke	[o-][VPers][3n.m.S/A+][--][=heek][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir); to.be][--][-e][+IRR]e
+
+kishityo	[=kishityo][NRoot][=NP, person's.name]
+
+heekamentotsiki	[=heek][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir); to.be][--][-a][+EP]a[--][-mento+n.m.][NS][+NMZ.CONCR]mento[--][-tsi+alien.][Gen][+nposs]tsi[--][-ki][Cas][+LOC_LOC.T]
+
+iro	[=iro][ConnRoot][=but (ES: pero)]
+kantimaetacha	[=kantimaetacha][ConnRoot][=but (ES: pero)]
+
+pariakotanake	[=pari][VRoot][=to.fall (ES: caer)][--][-ako][+APPL.GEN][=with.reference.to.sth.; about.sth.]ako[--][-t][+EP]t[--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="167">
