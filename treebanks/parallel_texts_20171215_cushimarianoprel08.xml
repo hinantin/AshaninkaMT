@@ -4453,9 +4453,26 @@ ovaantsiki	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.lan
         <parsing/>
     </text>
     <text id="171">
-        <sentence lang="prq">Obashireenkataka jamomo imampabeata otebaki inchato.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Obashireenkataka jamomo imampabeata otebaki inchato.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ovashireenkataka hamomo imampaveata otevaki inchato.</sentence>
         <sentence lang="es">La torcaza canta tristemente sobre la rama del árbol.</sentence>
-        <morphology/>
+        <sentence lang="en">The pigeon got a sad sound when singing in the tree branch.</sentence>
+        <morphology>
+
+
+ovashireenkataka	[o-][VPers][3n.m.S/A+][--][=vashire][VRoot][=to.get.sad (ES: entristecer, ponerse.triste), to.be.sad][--][=enka][NRoot][=voice (ES: voz), speech.sound (inmaterial); odor (ES: olor)]enka[--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-a][+REAL]a
+
+hamomo	[=hamomo+m.][NRoot][=ruddy.pigeon (sci.nm.: columba.subvinacca), dove.sp.]
+
+imampaveata	[i-][VPers][3m.S/A+][--][=mamp][VRoot][=to.sing (ES: cantar)][--][-a][+EP]a[--][-ve][+FRUS][=in.vain (ES: casi)]ve[--][-a][+IRR]a[--][=ta][MODAL][+OPT_SUBJ]
+
+otevaki	[=oteva][NRoot][=branch (ES: rama); fork-like.branch (ES: horquilla)][--][-ki][Cas][+LOC_LOC.T]
+
+inchato	[=inchato+n.m.][NRoot][=tree (ES: árbol)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="172">
