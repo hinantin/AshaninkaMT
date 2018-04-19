@@ -4480,7 +4480,7 @@ inchato	[=inchato+n.m.][NRoot][=tree (ES: árbol)]
         <sentence lang="prq" normalizationlevel="none">Ohampitiri nana apa: ¿Hempe piyaatika?</sentence>
         <sentence lang="es">Mi mamá le pregunta a mi papá: “¿A dónde vas?”</sentence>
         <sentence lang="en">Mother asks father: "¿Where do you go?"</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 ohampitiri	[o-][VPers][3n.m.S/A+][--][=hampi][VRoot][=to.ask.(about.sth.) (ES: preguntar)][--][-t][+EP]t[--][-i][+IRR]i[--][=ri][+3m.O]
@@ -4507,7 +4507,7 @@ piyaatika	[p-][VPers][2S/A+][--][=iya][VRoot][=to.go (ES: ir)][--][-a][+REP][=ag
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Iro rovanavo shima hampovatsa.</sentence>
         <sentence lang="es">El barro es el alimento del pez boquichico.</sentence>
         <sentence lang="en">Mud is food for the boquichico-fish.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 iro	[=iro+n.m.][PrnDem][=this]
