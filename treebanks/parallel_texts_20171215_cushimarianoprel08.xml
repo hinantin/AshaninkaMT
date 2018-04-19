@@ -4268,7 +4268,8 @@ oveni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <sentence lang="prq" normalizationlevel="none">Pamakenabo perato jaanari noyiitantyaamiri iyaaki shonkiri.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Pamakenavo perato haanari noyiitantyaamiri iyaaki shonkiri.</sentence>
         <sentence lang="es">Traeme el plato hondo para servirte caldo de paujil.</sentence>
-        <morphology>
+        <sentence lang="en">Bring me the deep plate in order to for me to serve you partridge brot.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 pamakenavo	[p-][VPers][2S/A+][--][=am][VRoot][=to.bring (ES: traer)][--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-e][+REAL]e[--][=na][+1SG.O][--][=vo][+3n.m.O]
@@ -4277,7 +4278,7 @@ perato	[=plato/perato+poss@te.][NRootEs][=plate]
 
 haanari	[=haanari][NRoot][=deep (ES: profundo); the.bottom (ES: lo.hondo)]
 
-???
+noyiitantyaamiri	[no-][VPers][1SG.S/A+][--][=yiit][VRoot][=to.serve (e.g.: liquid, food; ES: servir.(comida))][--][-ant][Asp][+APPL.REAS][=in.order.to]ant[--][-yaa][+IRR]yaa[--][=mi][+2SG.O][--][=ri][+3m.O]
 
 iyaaki	[i-][NPers][3m.poss+][--][=yaaki+m.+inal@ntsi.][NRoot][=meat.brot (ES: chilcano)]
 
@@ -4289,9 +4290,27 @@ shonkiri	[=shonkiri+poss@ti.][NRoot][=big.partridge.sp. (ES: perdiz); large.quai
         <parsing/>
     </text>
     <text id="164">
-        <sentence lang="prq">Raakero apa itenki jababo robantyaabori ramatsaereki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Raakero apa itenki jababo robantyaabori ramatsaereki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Raakero apa itenki havavo rovantyaavori ramatsaereki.</sentence>
         <sentence lang="">Mi papá sacó plumas del guacamayo colorado para ponerlas en su corona.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+raakero	[r-][VPers][3m.S/A+][--][=a][VRoot][=to.take (ES: agarrar)][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ro][+3n.m.O]
+
+apa	[=apa+m.][NRoot][=father (kin.of.a.fe/male)]
+
+itenki	[i-][NPers][3m.poss+][--][=tenki+inal@tze.][NRoot][=dorsal-feather.ornament (ES: adorno.dorsal.de.plumas)]
+
+havavo	[=havavo+m.][NRoot][=red-and-green.macaw (sci.nm.: ara.chloroptera, ara.macao; ES: papagallo, guacamayo.rojo/colorado), parrot.sp.]
+
+rovantyaavori	[ro-][VPers][3n.m.S/A+][--][=v][VRoot][=to.put, to.place (ES: poner, colocar)][--][-ant][+APPL.INST][=reason,instrumentality;in.order.to]ant[--][-yaa][+REAL]yaa[--][=vo][+3n.m.O][--][=ri][NS][+REL]
+
+ramatsaereki	[r-][NPers][3m.poss+][--][=amatsaere+n.m.+inal@ntsi.][NRoot][=crown; cap; hat (ES: corona.(de.hombres), sobrero)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="165">
