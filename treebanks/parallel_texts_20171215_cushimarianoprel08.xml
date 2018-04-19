@@ -4242,9 +4242,11 @@ piarentsi	[=pyare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato)][--][-ntsi+a
     </text>
     <text id="163.1">
         <!-- Robiinkakero charine jabiri jaanaareki obeni. -->
-        <sentence lang="prq">Robiintakero charine jabiri jaanaareki obeni.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Robiintakero charine jabiri jaanaareki obeni.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Roviintakero charine habiri haanaareki oveni.</sentence>
         <sentence lang="es">El abuelo botó el machete en el río profundo.</sentence>
-        <morphology>
+        <sentence lang="en">Grandfather threw the machete in the deep part of the Unini river.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 ???
@@ -4261,9 +4263,15 @@ obeni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <parsing/>
     </text>
     <text id="163.2">
-        <sentence lang="prq">Pamakenabo perato jaanari noyiitantyaamiri iyaaki shonkiri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Pamakenabo perato jaanari noyiitantyaamiri iyaaki shonkiri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Pamakenavo perato haanari noyiitantyaamiri iyaaki shonkiri.</sentence>
         <sentence lang="es">Traeme el plato hondo para servirte caldo de paujil.</sentence>
-        <morphology/>
+        <morphology>
+
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="164">
