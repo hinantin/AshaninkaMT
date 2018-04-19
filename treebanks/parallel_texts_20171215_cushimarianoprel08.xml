@@ -4413,7 +4413,7 @@ hamaka	[=hamaka][NRoot][=rotten.piece.of.wood/tree (ES: palo.podrido)]
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ityaakitakero Chovirio hamampo okiki tsinane.</sentence>
         <sentence lang="es">Chowirio echó ceniza en el ojo de una mujer.</sentence>
         <sentence lang="en">Chovirio made ashes fall into a woman's eye.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 ityaakitakero	[i-][VPers][3m.S/A+][--][=ty][VRoot][=to.fell, to.cut.down (e.g.: a.tree.; ES: tumbar, hacer.caer)][--][-a][+EP]a[--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-it][Asp][+ANT][=past/non-past.action:before]it[--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=ro][+3n.m.O]
@@ -4432,9 +4432,24 @@ tsinane	[=tsinane+n.m.][NRoot][=female, woman; young.girl]
         <parsing/>
     </text>
     <text id="170">
-        <sentence lang="prq">Itsaatakeri notsitsite jamani obaantsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Itsaatakeri notsitsite jamani obaantsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Itsaatakeri notsitsite hamani ovaantsiki.</sentence>
         <sentence lang="es">Mi perro ladró a un majás en la chacra.</sentence>
-        <morphology/>
+        <sentence lang="en"/>
+        <morphology>
+
+
+itsaatakeri	[i-][VPers][3m.S/A+][--][=tsaa][VRoot][=to.bark (ES: ladrar)][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+notsitsite	[n-][NPers][1SG.poss+][--][=otsitsi+m.+poss@te.][NRoot][=dog (ES: perro)][--][-te][Gen][+aln.poss.]te
+
+hamani	[=hamani+m.][NRoot][=rodent.sp., paca (ES: picuro, majás, majas, majaz, zamaño; sci.nm.: coelogenus.paca)]
+
+ovaantsiki	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra)][--][-ntsi+alien.][Gen][+nposs]ntsi[--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="171">
