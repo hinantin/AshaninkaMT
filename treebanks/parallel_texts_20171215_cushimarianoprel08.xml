@@ -4524,15 +4524,49 @@ hampovatsa	[=hampovatsa+n.m.+poss@te.][NRoot][=mud (ES: barro); clay; swamp-like
         <parsing/>
     </text>
     <text id="174">
-        <sentence lang="prq">Ikentakeri antari jani iyempitaki eentsi antyabaeshiri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikentakeri antari jani iyempitaki eentsi antyabaeshiri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikentakeri antari hani iyempitaki eentsi antavaeshiri.</sentence>
         <sentence lang="es">La avispa picó la oreja del niño travieso.</sentence>
-        <morphology/>
+        <sentence lang="en">The big wasp stung the mischievous child.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ikentakeri	[i-][VPers][3m.S/A+][--][=kent][VRoot][=to.pierce.with.arrows, to.shoot.arrows; to.sting (ES: picar)][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+antari	[=antari+m.][AdjRoot][=big; mature]
+
+hani	[=hani+m.][NRoot][=wasp]
+
+iyempitaki	[i-][NPers][3m.poss+][--][=yempita+n.m.+inal@ntsi.][NRoot][=ear (ES: oreja, oído)][--][-ki][Cas][+LOC_LOC.T]
+
+eentsi	[=eentsi+n./m.+poss@te.][NRoot][=child (ES: niño)]
+
+???
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="175">
-        <sentence lang="prq">Niyompari ipashitakanabo jankenamentotsi kityonkari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Niyompari ipashitakanabo jankenamentotsi kityonkari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Niyompari ipashitakanavo hankenamentotsi kityonkari.</sentence>
         <sentence lang="es">Mi amigo me regaló un lapicero rojo.</sentence>
-        <morphology/>
+        <sentence lang="en">My friend gave me a red pen as a gift.</sentence>
+        <morphology>
+
+
+niyompari	[n-][NPers][1SG.poss+][--][=iyompari+m.][NRoot][=friend (ES: amigo); trading.partner]
+
+ipashitakanavo	[i-][VPers][3m.S/A+][--][=pashi][VRoot][=to.give.sth.away, to.give.sth.as.a.gift (ES: regalar); to.lend.sth. (ES: prestar)][--][-t][+EP]t[--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-a][+REAL]a[--][=vo][+3n.m.O]
+
+hankenamentotsi	[=hankena][VRoot][=to.write, to.draw][--][-mento+n.m.][NS][+NMZ.CONCR]mento[--][-tsi+alien.][Gen][+nposs]tsi
+
+kityonkari	[=kityonkari+sem@color.][NRoot][=red (ES: rojo)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="176">
