@@ -4553,7 +4553,7 @@ eentsi	[=eentsi+n./m.+poss@te.][NRoot][=child (ES: niño)]
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Niyompari ipashitakanavo hankenamentotsi kityonkari.</sentence>
         <sentence lang="es">Mi amigo me regaló un lapicero rojo.</sentence>
         <sentence lang="en">My friend gave me a red pen as a gift.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 niyompari	[n-][NPers][1SG.poss+][--][=iyompari+m.][NRoot][=friend (ES: amigo); trading.partner]
@@ -4570,9 +4570,28 @@ kityonkari	[=kityonkari+sem@color.][NRoot][=red (ES: rojo)]
         <parsing/>
     </text>
     <text id="176">
-        <sentence lang="prq">Iroka jankenarentsi rantakeri eentsi irootake kompitarentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iroka jankenarentsi rantakeri eentsi irootake kompitarentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iroka hankenarentsi rantakeri eentsi irootake kompitarentsi.</sentence>
         <sentence lang="es">Este escrito que hizo el niño es una adivinanza.</sentence>
-        <morphology/>
+        <sentence lang="en">This writing that the child made is a riddle.</sentence>
+        <morphology>
+
+
+iroka	[=iroka+n.m.+proximal.b.][PrnDem][=this (ES: esta)]
+
+hankenarentsi	[=hankena][VRoot][=to.write, to.draw][--][-re+m.][NS][+NMZ]re[--][-ntsi+alien.][Gen][+nposs]ntsi
+
+rantakeri	[r-][VPers][3m.S/A+][--][=ant][VRoot][=to.beat, to.hit; to.build, to.do, to.make][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ri][NS][+REL]
+
+eentsi	[=eentsi+n./m.+poss@te.][NRoot][=child (ES: niño)]
+
+irootake	[=irootake+cntr.exh.l.+foc.][PrnPers][+3SG.n.m.][=that's.why, she; she.is (ES: ella.es)]
+
+kompitarentsi	[=kompi][VRoot][=to.ignore; to.be.difficult (ES: ser.difícil); to.make.a.mistake; to.confuse][--][-t][+EP]t[--][-a][+CL:liquid][=liquid]a[--][-re+m.][NS][+NMZ]re[--][-ntsi+alien.][Gen][+nposs]ntsi
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="177">
