@@ -4625,6 +4625,7 @@ ovametantatsiri	[=ovame][VRoot][=to.teach (ES: enseñar)][--][-t][+EP]t[--][-ant
         <sentence lang="prq" normalizationlevel="none">Otimatye ayometaeri eentsipaye ijankenate ijankenabaerentitantyaari.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Otimatye ayometaeri eentsipaye ihankenate ihankenavaerentitantyaari.</sentence>
         <sentence lang="es">Tenemos que enseñar a los niños a escribir para que sean escritores.</sentence>
+        <sentence lang="en">We have to teach children to write in order for them to be writers.</sentence>
         <morphology>
 
 
@@ -4644,9 +4645,15 @@ ihankenavaerentitantyaari	[i-][VPers][3m.S/A+][--][=hankenavaerenti][NRoot][=wri
         <parsing/>
     </text>
     <text id="179">
-        <sentence lang="prq">Ijaekantabo jankiro inchatoki, añiiri aririka ompare inkani.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ijaekantabo jankiro inchatoki, añiiri aririka ompare inkani.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ihaekantavo hankiro inchatoki, anyiiri aririka ompare inkani.</sentence>
         <sentence lang="es">El caracol que vive en los árboles solo se los ve cuando llueve.</sentence>
-        <morphology/>
+        <morphology>
+
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="180">
