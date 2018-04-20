@@ -4622,9 +4622,25 @@ ovametantatsiri	[=ovame][VRoot][=to.teach (ES: enseñar)][--][-t][+EP]t[--][-ant
         <parsing/>
     </text>
     <text id="178">
-        <sentence lang="PRQ">Otimatye ayometaeri eentsipaye ijankenate ijankenabaerentitantyaari.</sentence>
-        <sentence lang="ES">Tenemos que enseñar a los niños a escribir para que sean escritores.</sentence>
-        <morphology/>
+        <sentence lang="prq" normalizationlevel="none">Otimatye ayometaeri eentsipaye ijankenate ijankenabaerentitantyaari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Otimatye ayometaeri eentsipaye ihankenate ihankenavaerentitantyaari.</sentence>
+        <sentence lang="es">Tenemos que enseñar a los niños a escribir para que sean escritores.</sentence>
+        <morphology>
+
+
+otimatye	[o-][VPers][3n.m.S/A+][--][=tim][VRoot][=POSSESS (EN: to.have; ES: tener); to.give.birth][--][-aty][ASP][+PROG]aty[--][-e][+IRR]e
+
+ayometaeri	[a-][VPers][1PL.S/A+][--][=yome][VRoot][=to.teach][--][-t][+EP]t[--][-a][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]a[--][-e][+IRR]e[--][=ri][NS][+REL]
+
+eentsipaye	[=eentsi+n./m.+poss@te.][NRoot][=child (ES: niño)][--][-paye][Num][+PL_DIST]
+
+ihankenate	[i-][VPers][3m.S/A+][--][=hankena][VRoot][=to.write, to.draw][--][-t][+EP]t[--][-e][+IRR]e
+
+ihankenavaerentitantyaari	[i-][VPers][3m.S/A+][--][=hankenavaerenti][NRoot][=writer (ES: escritor)]::[=to.be.a.writer (ES: ser.escritor)]+vbz.[--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to]ant[--][-yaa][+IRR]yaa[--][=ri][+3m.O]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="179">
