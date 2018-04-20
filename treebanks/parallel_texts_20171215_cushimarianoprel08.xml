@@ -4595,9 +4595,29 @@ kompitarentsi	[=kompi][VRoot][=to.ignore; to.be.difficult (ES: ser.difícil); to
         <parsing/>
     </text>
     <text id="177">
-        <sentence lang="prq">Nokantiri notyomi: Pijankenatero pantabaere rookanakemiri obametantatsiri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Nokantiri notyomi: Pijankenatero pantabaere rookanakemiri obametantatsiri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Nokantiri notyomi: Pihankenatero pantavaere rookanakemiri ovametantatsiri.</sentence>
         <sentence lang="es">Le dije a mi hjo: “Escribe tu trabajo que te dejó el profesor”.</sentence>
-        <morphology/>
+        <morphology>
+
+
+nokantiri	[no-][VPers][1SG.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-i][+IRR]i[--][=ri][+3m.O]
+
+notyomi	[no-][NPers][1SG.poss+][--][=tyomi+m.+inal@tsi.][NRoot][=son (kin.of.a.male)]
+
+:	:[$.]
+
+pihankenatero	[pi-][VPers][2S/A+][--][=hankena][VRoot][=to.write, to.draw][--][-t][+EP]t[--][-e][+REAL]e[--][=ro][+3n.m.O]
+
+pantavaere	[p-][NPers][2poss+][--][=antavae][VRoot][=to.work (ES: trabajar)][--][-re+m.][NS][+NMZ]re
+
+rookanakemiri	[r-][VPers][3m.S/A+][--][=ook][VRoot][=to.abandon; to.leave (ES: dejar); to.throw; to.throw.away/out (ES: botar)][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=mi][+2SG.O][--][=ri][NS][+REL]
+
+ovametantatsiri	[=ovame][VRoot][=to.teach (ES: enseñar)][--][-t][+EP]t[--][-ant][+APPL.INST][=reason,instrumentality;in.order.to]ant[--][-atsi][Asp][+STAT.IPRF]atsi[--][=ri][NS][+REL]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="178">
