@@ -134,4 +134,30 @@ tãpo	[=tãpo/tambor][NRootEs][=tambor]
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8">
+        <sentence lang="cpb">
+Oimoshirinkikari Iwathaki Irirori
+
+Irirori sherepiyari iyniiri osheki inintane,
+aririka iranay iyamãpite. Iyeneri Itxokitsite
+Ikemita inpokiromay, Thonkiri, Txoma, Txowãtsi,
+eehatsi, kasheekari. Mawoyni sherepiyari ãtawiyare
+tsimatsi inintane, iitarika ikowori irirori inintakoteri.
+
+Professor Komãyari Ashaninka do Rio Amônea - Comunidade Apiwtxa
+</sentence>
+        <sentence lang="pt">
+Protetor da matéria e dos espíritos
+Ele, Sheripiyari (pajé), consegue ver muitas coisas boas através da música 
+que traz as visões mostrando plantas medicinais e os caminhos do mal e do bem.
+Quando bebe Kamarãpe (Ayuaska), vê o impokiromai (estrela que tem mistérios
+e orienta o pajé), o Thõkiri (beija-flor), o Thowa (japó, pássaro-guia do pajé) e o 
+Kashekari (onça com a qual caminha o espírito do pajé), buscando conhecimiento 
+e cuidando de sua família, protegendo-a do mal. Todos os Sheripiyari e Ãtawiyari (pajé
+iniciante) têm seu protetor. O que ele quiser 
+fazer, ele consegue. Faz para ajudar nas curas das doenças e outras coisas mais.
+        </sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
