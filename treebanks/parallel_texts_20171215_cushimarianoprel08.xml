@@ -4574,7 +4574,7 @@ kityonkari	[=kityonkari+sem@color.][NRoot][=red (ES: rojo)]
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Iroka hankenarentsi rantakeri eentsi irootake kompitarentsi.</sentence>
         <sentence lang="es">Este escrito que hizo el niño es una adivinanza.</sentence>
         <sentence lang="en">This writing that the child made is a riddle.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 iroka	[=iroka+n.m.+proximal.b.][PrnDem][=this (ES: esta)]
@@ -4598,7 +4598,8 @@ kompitarentsi	[=kompi][VRoot][=to.ignore; to.be.difficult (ES: ser.difícil); to
         <sentence lang="prq" normalizationlevel="none">Nokantiri notyomi: Pijankenatero pantabaere rookanakemiri obametantatsiri.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Nokantiri notyomi: Pihankenatero pantavaere rookanakemiri ovametantatsiri.</sentence>
         <sentence lang="es">Le dije a mi hjo: “Escribe tu trabajo que te dejó el profesor”.</sentence>
-        <morphology>
+        <sentence lang="en">I said to my son: "Write your work that the teacher left you".</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 nokantiri	[no-][VPers][1SG.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-i][+IRR]i[--][=ri][+3m.O]
