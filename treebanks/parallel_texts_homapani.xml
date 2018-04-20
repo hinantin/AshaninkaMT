@@ -108,7 +108,18 @@ entsite	[=entsi+n./m.+poss@te.][NRoot][=child (ES: niño)][--][-i^te][+CL:anim.P
     <text id="6">
         <sentence lang="cpb">iyotakero piratãtsi, Sõkari eehatsi tãpo.</sentence>
         <sentence lang="pt">Lá ensinaram a ela o Pirãtãtsi (músicas que fazem lembrar o passado e trazem alegrias e tristezas) e a tocar o sõkari (flauta) e o tãpo (tambor).</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+sõkari	[=sõkari+n.m.+voc.][NRoot][=panpipe(s) (flute-like.instr.; ES: antara; PT: flauta); Ashéninka.flute]
+
+eehatsi	[=eehatsi][ConnRoot][=also; and (PT: e)]
+
+tãpo	[=tãpo/tambor][NRootEs][=tambor]
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="7">
