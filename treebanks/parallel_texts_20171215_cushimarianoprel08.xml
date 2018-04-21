@@ -4834,9 +4834,27 @@ shitamenkotsiki	[=shitamenko+n.m.+inal@tsi.][NRoot][=dais, wooden_platform (ES: 
         <parsing/>
     </text>
     <text id="186">
-        <sentence lang="prq">Raakero charine oshi jayapa ramenakobentantyaabori koshitakeriri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Raakero charine oshi jayapa ramenakobentantyaabori koshitakeriri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Raakero charine oshi hayapa ramenakoventantyaavori koshitakeriri.</sentence>
         <sentence lang="es">El abuelo sacó hojas de toé para ver quién le robó.</sentence>
-        <morphology/>
+        <morphology>
+
+
+raakero	[r-][VPers][3m.S/A+][--][=a][VRoot][=to.take (ES: agarrar)][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=ro][+3n.m.O]
+
+charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male); grandson (ES: nieto)]
+
+oshi	[=oshi+inal@tsi.][NRoot][=leaf]
+
+hayapa	[=hayapa][NRoot][=South_American.flowering.plant.sp. (ES: toé, floripondio)]
+
+ramenakoventantyaavori	[r-][VPers][3m.S/A+][--][=amen][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of][--][-ako][+APPL.GEN][=with.reference.to.sth.; about.sth.]ako[--][-vent][+APPL.BEN][=action.done.for.sb.else]vent[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that]ant[--][-yaa][+IRR]yaa[--][=vo][+3n.m.O][--][=ri][NS][+REL]
+
+koshitakeriri	[=koshi][VRoot][=to.steal; to.rob (ES: robar)][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=ri][+3m.O][--][=ri][NS][+REL]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="187">
