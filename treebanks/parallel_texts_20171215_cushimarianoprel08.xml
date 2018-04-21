@@ -4761,9 +4761,26 @@ hantari	[=hantari+n.m.][NRoot][=timber.tree.sp. (ES: árbol.(maderable), cedro)]
         <parsing/>
     </text>
     <text id="183.2">
-        <sentence lang="prq">Itobi notyomi jantari rantantyaari ibito.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Itobi notyomi jantari rantantyaari ibito.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Itovi notyomi hantari rantantyaari ivito.</sentence>
         <sentence lang="es">Mi hijo tumba el cedro para hacer su canoa.</sentence>
-        <morphology/>
+        <sentence lang="en">My son cut down a cedar timber-tree in order to build his canoe.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+itovi	[i-][VPers][3m.S/A+][--][=tov][VRoot][=to.fell, to.cut.down (a.tree)][--][-i][+IRR]i
+
+notyomi	[no-][NPers][1SG.poss+][--][=tyomi+m.+inal@tsi.][NRoot][=son (kin.of.a.male)]
+
+hantari	[=hantari+n.m.][NRoot][=timber.tree.sp. (ES: árbol.(maderable), cedro)]
+
+rantantyaari	[r-][VPers][3m.S/A+][--][=ant][VRoot][=to.beat, to.hit; to.build, to.do, to.make][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that]ant[--][-yaa][+REAL]yaa[--][=ri][+3m.O]
+
+ivito	[i-][NPers][3m.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe (ES: canoa)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="184">
