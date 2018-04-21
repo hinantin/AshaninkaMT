@@ -4938,12 +4938,19 @@ pavaeni	[=pavaeni+m.][NRoot][=uncle (ES: tío)]
         <parsing/>
     </text>
     <text id="190">
-        <sentence lang="prq">Ijampitakena Jatantaneri: ¿Jempe okatsitake?</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ijampitakena Jatantaneri: ¿Jempe okatsitake?</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ihampitakena Hatantaneri: ¿Hempe okatsitake?</sentence>
         <sentence lang="es">El doctor me preguntó: “¿Dónde te duele?”</sentence>
         <morphology>
 
 
+ihampitakena	[i-][VPers][3m.S/A+][--][=hampi][VRoot][=to.ask.(about.sth.) (ES: preguntar)][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=na][+1SG.O]
 
+hempe	[=hempe][IndfSpecif][=where]
+
+okatsitake	[o-][VPers][3n.m.S/A+][--][=katsit][VRoot][=to.be.in.pain, to.feel.pain (ES: doler)][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e
+
+.	.[$.]
 
 </morphology>
         <parsing/>
