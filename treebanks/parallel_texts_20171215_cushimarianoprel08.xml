@@ -4696,9 +4696,24 @@ opochaanikiti	[o-][NPers][3n.m.poss+][--][=pochaaniki+poss@ti.][NRoot][=sweet (E
         <parsing/>
     </text>
     <text id="181">
-        <sentence lang="prq">Robapiintiro tsipana jankori imooki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Robapiintiro tsipana jankori imooki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Rovapiintiro tsipana hankori imooki.</sentence>
         <sentence lang="es">La curuhuinsi acarrea las hojas a su nido.</sentence>
-        <morphology/>
+        <sentence lang="en">The reddish ant always saves bijao leaves in its hole.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+rovapiintiro	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.save.sth.in.sth. (ES: guardar.algo)][--][-apiin][Asp][+HAB_CUST][=always]apiin[--][-t][+EP]t[--][-i][+IRR]i[--][=ro][+3n.m.O]
+
+tsipana	[=tsipana+n.m.][NRoot][=plant.sp. (ES: bijao); bijao.leaf (used.to.wrap.food)]
+
+hankori	[=hankori][NRoot][=(reddish).ant.sp. (curuhuinsi, ES: coqui, sp.de.hormiga.(rojiza); sci.nm.: género.atta)]
+
+imooki	[i-][NPers][3m.poss+][--][=moo+n.m.+inal@tsi.][NRoot][=hole (ES: hueco)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="182">
