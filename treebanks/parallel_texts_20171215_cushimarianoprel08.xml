@@ -4717,9 +4717,24 @@ imooki	[i-][NPers][3m.poss+][--][=moo+n.m.+inal@tsi.][NRoot][=hole (ES: hueco)][
         <parsing/>
     </text>
     <text id="182">
-        <sentence lang="prq">Janta tonkaareki inampitabo maeni.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Janta tonkaareki inampitabo maeni.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Hanta tonkaareki inampitavo maeni.</sentence>
         <sentence lang="es">Allá en el cerro vive el oso.</sentence>
-        <morphology/>
+        <sentence lang="en">There in the hill top the bear lives.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+hanta	[=hanta+distal.b.][PrnDem][=there, far.from.the.speaker (bounded; ES: allá, allí)]
+
+tonkaareki	[=tonkaare+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas][+LOC_LOC.T]
+
+inampitavo	[i-][VPers][3m.S/A+][--][=nampi+n.m.+inal@tsi.][NRoot][=village; place; country; settlement]::[= (ES: vivir)]+vbz.[--][-t][+EP]t[--][-a][+IRR]a[--][=vo][+3n.m.O]
+
+maeni	[=maeni+m.][NRoot][=bear.sp. (ES: sp.de.oso, oso.de.anteojos; sci.nm.: tremarctos.ornatus)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="183.1">
