@@ -4675,9 +4675,24 @@ inkani	[=inkani+n.m.][NRoot][=rain (ES: lluvia)]
         <parsing/>
     </text>
     <text id="180">
-        <sentence lang="prq">Janko okemeneenta pitsi opochaanikiti.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Janko okemeneenta pitsi opochaanikiti.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Hanko okemeneenta pitsi opochaanikiti.</sentence>
         <sentence lang="es">La caña de azúcar se parece a la miel.</sentence>
-        <morphology/>
+        <sentence lang="en">The sugar cane is almost similar to sweet of honey.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+hanko	[=hanko+n.m.][NRoot][=sugar.cane (ES: caña.de.azucar; botany.nm.: saccharum.officinale)]
+
+okemeneenta	[o-][VPers][3n.m.S/A+][--][=keme][VRoot][=to.be.similar, to.seem, to.resemble, to.be.like][--][-neent][DEGR][+SENSORY][=DIM: almost,(do).a.little.bit]neent[--][-a][+IRR]a
+
+pitsi	[=pitsi+m.][NRoot][=beehive; honey]
+
+opochaanikiti	[o-][NPers][3n.m.poss+][--][=pochaaniki+poss@ti.][NRoot][=sweet (ES: dulce)][--][-ti][Gen][+aln.poss.]ti
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="181">
