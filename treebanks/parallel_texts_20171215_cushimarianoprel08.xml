@@ -4903,9 +4903,27 @@ omorekantyaari	[o-][VPers][3n.m.S/A+][--][=morek][VRoot][=to.burn (ES: arder)][-
         <parsing/>
     </text>
     <text id="189">
-        <sentence lang="prq">—¿Pikemakena Niotya nokantakemiri? —Jee, nokemakemi pabaeni.</sentence>
+        <sentence lang="prq" normalizationlevel="none">—¿Pikemakena Niotya nokantakemiri? —Jee, nokemakemi pabaeni.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">—¿Pikemakena Niotya nokantakemiri? —Hee, nokemakemi pavaeni.</sentence>
         <sentence lang="es">—Niotya, ¿escuchaste lo que te dije? —Sí tío, te escuché.</sentence>
-        <morphology/>
+        <morphology>
+
+
+—	—[$.]
+
+¿	¿[$.]
+
+pikemakena	[pi-][VPers][2S/A+][--][=kem][VRoot][=to.hear, to.listen; to.sense (ES: sentir)][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=na][+1SG.O]
+
+?	?[$.]
+
+—	—[$.]
+
+,	,[$.]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="190">
