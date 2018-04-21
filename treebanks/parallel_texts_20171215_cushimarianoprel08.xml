@@ -4859,9 +4859,26 @@ koshitakeriri	[=koshi][VRoot][=to.steal; to.rob (ES: robar)][--][-t][+EP]t[--][-
         <parsing/>
     </text>
     <text id="187">
-        <sentence lang="prq">Osheki jaye abotsiki ratsikabakeri yeye.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Osheki jaye abotsiki ratsikabakeri yeye.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Osheki haye avotsiki ratsikavakeri yeye.</sentence>
         <sentence lang="es">Hay muchos shitaracos en el camino y uno picó a mi hermano.</sentence>
-        <morphology/>
+        <sentence lang="en">A lot of shirataco-ants in the road, they bit brother.</sentence>
+        <morphology>
+
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+haye	[=haye][NRoot][=ant.sp. (shirataco)]
+
+avotsiki	[=avo+n.m.+inal@tsi.][NRoot][=road, trail][--][-tsi+alien.][Gen][+nposs]tsi[--][-ki][Cas][+LOC_LOC.T]
+
+ratsikavakeri	[r-][VPers][3m.S/A+][--][=atsik][VRoot][=to.bite (ES: morder.(sujeto.animado))][--][-av][+RCP]av[--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="188">
