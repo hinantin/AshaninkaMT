@@ -4906,6 +4906,7 @@ omorekantyaari	[o-][VPers][3n.m.S/A+][--][=morek][VRoot][=to.burn (ES: arder)][-
         <sentence lang="prq" normalizationlevel="none">—¿Pikemakena Niotya nokantakemiri? —Jee, nokemakemi pabaeni.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">—¿Pikemakena Niotya nokantakemiri? —Hee, nokemakemi pavaeni.</sentence>
         <sentence lang="es">—Niotya, ¿escuchaste lo que te dije? —Sí tío, te escuché.</sentence>
+        <sentence lang="en">—Niotya, did you hear what I said to you? —Yes,  </sentence>
         <morphology>
 
 
@@ -4926,6 +4927,10 @@ nokantakemiri	[no-][VPers][1SG.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do;
 hee	[=hee][OtherRoot][=yes (ES: sí)]
 
 ,	,[$.]
+
+nokemakemi	[no-][VPers][1SG.S/A+][--][=kem][VRoot][=to.hear, to.listen; to.sense (ES: sentir)][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=mi][+2SG.O]
+
+pavaeni	[=pavaeni+m.][NRoot][=uncle (ES: tío)]
 
 .	.[$.]
 
