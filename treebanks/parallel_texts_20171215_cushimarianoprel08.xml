@@ -4648,8 +4648,8 @@ ihankenavaerentitantyaari	[i-][VPers][3m.S/A+][--][=hankenavaerenti][NRoot][=wri
         <sentence lang="prq" normalizationlevel="none">Ijaekantabo jankiro inchatoki, añiiri aririka ompare inkani.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ihaekantavo hankiro inchatoki, anyiiri aririka omparee inkani.</sentence>
         <sentence lang="es">El caracol que vive en los árboles solo se los ve cuando llueve.</sentence>
-        <sentence lang="en">The small snail lives in the trees when rain falls.</sentence>
-        <morphology>
+        <sentence lang="en">The small snail lives in the trees, we see it when the rain falls.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 ihaekantavo	[i-][NPers][3m.poss+][--][=haek][VRoot][=to.be, to.be.at, to.be.in; to.sit; to.live][--][-anta][Asp][+APPL.REAS][=in.order.to, so.that]anta[--][-vo+n.m.][NS][+NMZ]vo
