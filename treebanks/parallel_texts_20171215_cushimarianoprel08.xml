@@ -4646,8 +4646,9 @@ ihankenavaerentitantyaari	[i-][VPers][3m.S/A+][--][=hankenavaerenti][NRoot][=wri
     </text>
     <text id="179">
         <sentence lang="prq" normalizationlevel="none">Ijaekantabo jankiro inchatoki, añiiri aririka ompare inkani.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ihaekantavo hankiro inchatoki, anyiiri aririka ompare inkani.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ihaekantavo hankiro inchatoki, anyiiri aririka omparee inkani.</sentence>
         <sentence lang="es">El caracol que vive en los árboles solo se los ve cuando llueve.</sentence>
+        <sentence lang="en">The small snail lives in the trees when rain falls.</sentence>
         <morphology>
 
 
@@ -4659,6 +4660,13 @@ inchatoki	[=inchato+n.m.][NRoot][=tree (ES: árbol)][--][-ki][Cas][+LOC_LOC.T]
 
 ,	,[$.]
 
+anyiri	[=any][VRoot][=to.live (ES: vivir)][--][-ii][+IRR]ii[--][=ri][+3m.O]
+
+aririka	[=ari][PostPol][=PP][--][-rika][+COND]::[WhPrn][=when]
+
+omparee	[o-][VPers][3n.m.S/A+][--][N=][IRR+][--][=pare][VRoot][=to.fall (ES: caer)][--][-e][+REAL]e
+
+inkani	[=inkani+n.m.][NRoot][=rain (ES: lluvia)]
 
 
 .	.[$.]
