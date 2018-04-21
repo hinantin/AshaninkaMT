@@ -4626,7 +4626,7 @@ ovametantatsiri	[=ovame][VRoot][=to.teach (ES: enseñar)][--][-t][+EP]t[--][-ant
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Otimatye ayometaeri eentsipaye ihankenate ihankenavaerentitantyaari.</sentence>
         <sentence lang="es">Tenemos que enseñar a los niños a escribir para que sean escritores.</sentence>
         <sentence lang="en">We have to teach children to write in order for them to be writers.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 otimatye	[o-][VPers][3n.m.S/A+][--][=tim][VRoot][=POSSESS (EN: to.have; ES: tener); to.give.birth][--][-aty][ASP][+PROG]aty[--][-e][+IRR]e
@@ -4651,7 +4651,17 @@ ihankenavaerentitantyaari	[i-][VPers][3m.S/A+][--][=hankenavaerenti][NRoot][=wri
         <morphology>
 
 
+ihaekantavo	[i-][NPers][3m.poss+][--][=haek][VRoot][=to.be, to.be.at, to.be.in; to.sit; to.live][--][-anta][Asp][+APPL.REAS][=in.order.to, so.that]anta[--][-vo+n.m.][NS][+NMZ]vo
 
+hankiro	[=hankiro+m.+poss@ti.][NRoot][=snail; small-size.snail (ES: caracol.chico, molusco; sci.nm.: thaumastus.melancheilus)]
+
+inchatoki	[=inchato+n.m.][NRoot][=tree (ES: árbol)][--][-ki][Cas][+LOC_LOC.T]
+
+,	,[$.]
+
+
+
+.	.[$.]
 
 </morphology>
         <parsing/>
