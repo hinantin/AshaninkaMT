@@ -4738,9 +4738,26 @@ maeni	[=maeni+m.][NRoot][=bear.sp. (ES: sp.de.oso, oso.de.anteojos; sci.nm.: tre
         <parsing/>
     </text>
     <text id="183.1">
-        <sentence lang="prq">Nijaacheraki eniki ari oshekitiri jantari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Nijaacheraki eniki ari oshekitiri jantari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Nihaacheraki eniki ari oshekitiri hantari.</sentence>
         <sentence lang="es">En la orilla del río abundan los árboles maderables.</sentence>
-        <morphology/>
+        <sentence lang="en">In the river shore timber trees are abundant.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+nihaacheraki	[=nihaa+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)][--][=chera][NRoot][=shore (ES: orilla)][--][-ki][Cas][+LOC_LOC.T]
+
+eniki	[=Eni][NP][=river (Ene.river)][--][-ki][Cas][+LOC_LOC.T]
+
+ari	[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+oshekitiri	[=osheki][VRoot][=to.be.much; to.be.abundant][--][-t][+EP]t[--][-i][+IRR]i[--][=ri][NS][+REL]
+
+hantari	[=hantari+n.m.][NRoot][=timber.tree.sp. (ES: árbol.(maderable), cedro)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="183.2">
