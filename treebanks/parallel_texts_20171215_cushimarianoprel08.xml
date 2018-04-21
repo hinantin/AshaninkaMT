@@ -4811,9 +4811,26 @@ maniti	[=maniti][NRoot][=tiger (ES: tigre); jaguar (sci.nm.: panthera.onca)]
         <parsing/>
     </text>
     <text id="185">
-        <sentence lang="prq">Ijapokabentiro tyaapa ishinkine jeekatsiri shitamenkotsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ijapokabentiro tyaapa ishinkine jeekatsiri shitamenkotsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ihapokaventiro tyaapa ishinkine heekatsiri shitamenkotsiki.</sentence>
         <sentence lang="es">La gallina brinca por su maíz que está en el emponado.</sentence>
-        <morphology/>
+        <sentence lang="en"/>
+        <morphology>
+
+
+ihapokaventiro	[i-][VPers][3m.S/A+][--][=hapok][VRoot][=to.jump, to.jump.up.and.down][--][-a][+EP]a[--][-vent][+APPL.BEN][=action.done.for.sb.else]vent[--][-i][+REAL]i[--][=ro][+3n.m.O]
+
+tyaapa	[=tyaapa+n.m.+poss@te.][NRoot][=hen; chicken]
+
+ishinkine	[i-][NPers][3m.poss+][--][=shinki+m.+poss@ne.][NRoot][=corn, maize (ES: maíz, botany.nm.: zea.maíz)][--][-ne][Gen][+aln.poss.]ne
+
+heekatsiri	[=heek][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir); to.be][--][-atsi][Asp][+STAT.IPRF]atsi[--][=ri][NS][+REL]
+
+shitamenkotsiki	[=shitamenko+n.m.+inal@tsi.][NRoot][=dais, wooden_platform (ES: tarima.(hecha.de.pona))][--][-tsi+alien.][Gen][+nposs]tsi[--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="186">
