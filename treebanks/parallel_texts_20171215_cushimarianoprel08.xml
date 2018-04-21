@@ -4882,9 +4882,24 @@ yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: h
         <parsing/>
     </text>
     <text id="188">
-        <sentence lang="prq">Choeni ojebankiro paamari omorekantyaari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Choeni ojebankiro paamari omorekantyaari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Choeni ohevankiro paamari omorekantyaari.</sentence>
         <sentence lang="es">Mi hermana abanica la candela para que arda.</sentence>
-        <morphology/>
+        <sentence lang="en">Sister fans the fire in order for it to burn.</sentence>
+        <morphology>
+
+
+choeni	[=choeni+n.m.][NRoot][=sister (kin.of.a.male, male.ego)]
+
+ohevankiro	[o-][VPers][3n.m.S/A+][--][=hevank][VRoot][=to.fan][--][-i][+IRR]i[--][=ro][+3n.m.O]
+
+paamari	[=paamari+n.m.][NRoot][=fire (ES: candela, fuego)]
+
+omorekantyaari	[o-][VPers][3n.m.S/A+][--][=morek][VRoot][=to.burn (ES: arder)][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-yaa][+IRR]yaa[--][=ri][+3m.O]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="189">
