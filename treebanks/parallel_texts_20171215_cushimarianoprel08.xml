@@ -4965,7 +4965,15 @@ okatsitake	[o-][VPers][3n.m.S/A+][--][=katsit][VRoot][=to.be.in.pain, to.feel.pa
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
+iheeki	[i-][VPers][3m.S/A+][--][=heek][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir); to.be][--][-i][+IRR]i
 
+shenonti	[=shenonti][NRoot][=monkey.sp. (ES: mono.coto)]
+
+henoki	[=henoki][NRoot][=top (ES: arriba, alto); sky]
+
+inchatoki	[=inchato+n.m.][NRoot][=tree (ES: árbol)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
