@@ -4941,6 +4941,7 @@ pavaeni	[=pavaeni+m.][NRoot][=uncle (ES: tío)]
         <sentence lang="prq" normalizationlevel="none">Ijampitakena Jatantaneri: ¿Jempe okatsitake?</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ihampitakena Hatantaneri: ¿Hempe okatsitake?</sentence>
         <sentence lang="es">El doctor me preguntó: “¿Dónde te duele?”</sentence>
+        <sentence lang="en">The doctor asked me: "Where does it feel pain?"</sentence>
         <morphology>
 
 
@@ -4958,9 +4959,15 @@ okatsitake	[o-][VPers][3n.m.S/A+][--][=katsit][VRoot][=to.be.in.pain, to.feel.pa
         <parsing/>
     </text>
     <text id="191">
-        <sentence lang="prq">Ijeeki shenonti jenoki inchatoki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ijeeki shenonti jenoki inchatoki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iheeki shenonti henoki inchatoki.</sentence>
         <sentence lang="es">El coto mono vive en la parte de arriba de un árbol.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="192">
