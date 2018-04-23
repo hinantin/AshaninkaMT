@@ -4983,6 +4983,7 @@ inchatoki	[=inchato+n.m.][NRoot][=tree (ES: árbol)][--][-ki][Cas][+LOC_LOC.T]
         <sentence lang="prq" normalizationlevel="none">Okantiro naana choeni: Pijerenkiro kametsa apanko.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Okantiro naana choeni: Piherenkiro kametsa apanko.</sentence>
         <sentence lang="es">Mi mamá dijo a mi hermana: “Cultiva bien el patio de la casa”.</sentence>
+        <sentence lang="en">Mother said to sister: "Cultivate well our house."</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
