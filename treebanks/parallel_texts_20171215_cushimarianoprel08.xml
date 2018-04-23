@@ -5480,7 +5480,14 @@ inchatoki	[=inchato+n.m.][NRoot][=tree (ES: árbol)][--][-ki][Cas][+LOC_LOC.T]
     <text id="265">
         <sentence lang="prq">Aririkia añaanatero kiribiro, ari opakae yotaantsi.</sentence>
         <sentence lang="es">Si leemos el libro, nos dará conocimientos.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+opakae	[o-][VPers][3n.m.S/A+][--][=p][VRoot][=to.give (ES: dar)][--][-ak][ASP][+PRF]ak[--][=ae][+1INCL.PL.O][=(to).us (ES: (a).nosotros)]ae
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="266">
@@ -6476,7 +6483,13 @@ inchatoki	[=inchato+n.m.][NRoot][=tree (ES: árbol)][--][-ki][Cas][+LOC_LOC.T]
     <text id="424">
         <sentence lang="prq">Omotyaki nija ari ikemaetiri ramampae tyaapa.</sentence>
         <sentence lang="es">En la poza escuchan cantar al gallo.</sentence>
-        <morphology/>
+        <morphology>
+
+
+ramampae	[r-][VPers][3m.S/A+][--][=amamp][VRoot][=to.sing (ES: cantar)][--][=ae][+1INCL.PL.O][=(to).us (ES: (a).nosotros)]ae
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="425">
