@@ -6489,6 +6489,7 @@ opakae	[o-][VPers][3n.m.S/A+][--][=p][VRoot][=to.give (ES: dar)][--][-ak][ASP][+
 ramampae	[r-][VPers][3m.S/A+][--][=amamp][VRoot][=to.sing (ES: cantar)][--][=ae][+1INCL.PL.O][=(to).us (ES: (a).nosotros)]ae
 
 
+
 </morphology>
         <parsing/>
     </text>
@@ -6992,9 +6993,21 @@ ramampae	[r-][VPers][3m.S/A+][--][=amamp][VRoot][=to.sing (ES: cantar)][--][=ae]
         <parsing/>
     </text>
     <text id="504">
-        <sentence lang="prq">Ikaemakantakae pinkatsari ampatotya.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikaemakantakae pinkatsari ampatotya.</sentence>
         <sentence lang="es">La autoridad nos mandó llamar para una reunión.</sentence>
-        <morphology/>
+        <sentence lang="en">The regional leader called us for a meeting.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ikaemakantakae	[i-][VPers][3m.S/A+][--][=kaem][VRoot][=to.scream (ES: gritar); to.call.sb. (to.inform.of.sth.; ES: llamar)][--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-ak][ASP][+PRF]ak[--][=ae][+1INCL.PL.O][=(to).us (ES: (a).nosotros)]ae
+
+pinkatsari	[=pinkatsari+m.+voc.+poss@te.][NRoot][=chief (ES: jefe); regional.leader]
+
+ampatotya	[N=][IRR+][--][=apato][VRoot][=to.gather, to.meet, to.get.together][--][-t][+EP]t[--][-ya][+IRR]ya
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="505">
