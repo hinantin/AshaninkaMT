@@ -5013,15 +5013,43 @@ apanko	[a-][NPers][1PL.poss+][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
+ovametantatsiri	[o-][VPers][3n.m.S/A+][--][=vame][VRoot][=to.teach (ES: enseñar)][--][-t][+EP]t[--][-ant][+APPL.INST][=reason,instrumentality;in.order.to]ant[--][-atsi][Asp][+STAT.IPRF]atsi[--][=ri][NS][+REL]
 
+rotyaantiri	[r-][VPers][3m.S/A+][--][o=][AGT.CAUS+][--][=ty][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)][--][-a][+REP][=again.and.again]a[--][-ant][+APPL.INST][=reason,instrumentality;in.order.to]ant[--][-i][+IRR]i[--][=ri][+3m.O]
+
+rovamere	[ro-][NPers][3m.poss+][--][=vame][VRoot][=to.teach (ES: enseñar)][--][-re+m.][NS][+NMZ]re
+
+raye	[r-][VPers][3m.S/A+][--][=ay][VRoot][=to.get][--][-e][+IRR]e
+
+herina	[=herina][NRoot][=nettle.sp.with.big.thorns (ES: ishanga, ortiga.(con.puas.grandes))]
+
+iponkantyari	[i-][VPers][3m.S/A+][--][=ponk][VRoot][=to.shoot.down.pona-palm.tree (ES: derribar/batir.la.pona)][--][-ant][+APPL.INST][=reason,instrumentality;in.order.to]ant[--][-ya][+REAL]ya[--][=ri][+3m.O]
+
+eshikempitari	[=eshikempitari][NRoot][=deaf (ES: sordo); disobedient (ES: desobediente)]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
     </text>
     <text id="194">
-        <sentence lang="prq">Ijaeki jetari otapinaki mapi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ijaeki jetari otapinaki mapi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ihaeki hetari otapinaki mapi.</sentence>
         <sentence lang="es">La carachama vive debajo de las piedras.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ihaeki	[i-][VPers][3m.S/A+][--][=haek][VRoot][=to.be, to.be.at, to.be.in; to.sit; to.live][--][-i][+IRR]i
+
+hetari	[=hetari+m.][NRoot][=small.suckermouth.armored.catfish.sp. (ES: carachama; sci.nm.: aphanotorulus.unicolor)]
+
+otapinaki	[=otapinaki][AdvRoot][=under (ES: debajo.(de))]
+
+mapi	[=mapi+n.m.+poss@ni:ne.][NRoot][=stone; rock]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="195">
