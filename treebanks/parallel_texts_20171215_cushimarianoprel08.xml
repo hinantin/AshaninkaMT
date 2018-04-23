@@ -4980,9 +4980,29 @@ inchatoki	[=inchato+n.m.][NRoot][=tree (ES: árbol)][--][-ki][Cas][+LOC_LOC.T]
         <parsing/>
     </text>
     <text id="192">
-        <sentence lang="prq">Okantiro naana choeni: Pijerenkiro kametsa apanko. </sentence>
+        <sentence lang="prq" normalizationlevel="none">Okantiro naana choeni: Pijerenkiro kametsa apanko.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Okantiro naana choeni: Piherenkiro kametsa apanko.</sentence>
         <sentence lang="es">Mi mamá dijo a mi hermana: “Cultiva bien el patio de la casa”.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+okantiro	[o-][VPers][3n.m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-i][+REAL]i[--][=ro][+3n.m.O]
+
+naana	[=naana+n.m.+voc.+poss@te:ti.][NRoot][=mom, mother (kin.of.a.fe/male; ES: mamá)]
+
+choeni	[=choeni+n.m.][NRoot][=sister (kin.of.a.male, male.ego)]
+
+:	:[$.]
+
+piherenkiro	[pi-][VPers][2S/A+][--][=herenk][VRoot][=to.cultivate (ES: cultivar.(dejar.sin.hierba))][--][-i][+REAL]i[--][=ro][+3n.m.O]
+
+kametsa	[=kametsa][NRoot][=well, good]
+
+apanko	[a-][NPers][1PL.poss+][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="193">
