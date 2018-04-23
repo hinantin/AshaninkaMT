@@ -5007,9 +5007,15 @@ apanko	[a-][NPers][1PL.poss+][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa
         <parsing/>
     </text>
     <text id="193">
-        <sentence lang="prq">Obametantatsiri rotyaantiri robamere raye jerina iponkantyari eshikempitari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Obametantatsiri rotyaantiri robamere raye jerina iponkantyari eshikempitari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ovametantatsiri rotyaantiri rovamere raye herina iponkantyari eshikempitari.</sentence>
         <sentence lang="es">El profesor manda a su alumno a traer ortiga para castigar a los niños desobedientes.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="194">
