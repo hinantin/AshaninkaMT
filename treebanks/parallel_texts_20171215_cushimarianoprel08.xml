@@ -5077,9 +5077,27 @@ inyaatsaveta	[i-][VPers][3m.S/A+][--][=nyaatsa][VRoot][=to.play; to.have.sex (eu
         <parsing/>
     </text>
     <text id="196">
-        <sentence lang="prq">Kaakitaki oime Tyempoya riyaati rantabaeti jantari. </sentence>
+        <sentence lang="prq" normalizationlevel="none">Kaakitaki oime Tyempoya riyaati rantabaeti jantari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Kaakitaki oime Tyempoya riyaati rantavaeti hantari.</sentence>
         <sentence lang="es">El esposo de Tyempoña ya regresa de trabajar la madera.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+kaakitaki	[=kaaki][VRoot][=to.approach, to.get.closer, to.come.near][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-i][+IRR]i
+
+oime	[o-][NPers][3n.m.poss+][--][=ime+m.+voc.][NRoot][=husband (kin.of.a.female; ES: esposo)]
+
+tyempoya	[=tyempoya][NRoot][=NP, person's.name]
+
+riyaati	[r-][VPers][3m.S/A+][--][=iyaa][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-i][+REAL]i
+
+rantavaeti	[r-][VPers][3m.S/A+][--][=antavae][VRoot][=to.work (ES: trabajar)][--][-t][+EP]t[--][-i][+REAL]i
+
+hantari	[=hantari+n.m.][NRoot][=timber.tree.sp. (ES: árbol.(maderable), cedro)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="197">
