@@ -5036,6 +5036,7 @@ eshikempitari	[=eshikempitari][NRoot][=deaf (ES: sordo); disobedient (ES: desobe
         <sentence lang="prq" normalizationlevel="none">Ijaeki jetari otapinaki mapi.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ihaeki hetari otapinaki mapi.</sentence>
         <sentence lang="es">La carachama vive debajo de las piedras.</sentence>
+        <sentence lang="en">The small suckermouth armored catfish lives under the rocks.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -5053,9 +5054,26 @@ mapi	[=mapi+n.m.+poss@ni:ne.][NRoot][=stone; rock]
         <parsing/>
     </text>
     <text id="195">
-        <sentence lang="prq">Ikentabakotakeri jeto yeye rakoki iñaatsabeta.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikentabakotakeri jeto yeye rakoki iñaatsabeta.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikentavakotakeri heto yeye rakoki inyaatsaveta.</sentence>
         <sentence lang="es">La araña le picó a mi hermano en la mano mientras jugaba.</sentence>
-        <morphology/>
+        <sentence lang="en">The spider stung brother's hand when he played.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ikentavakotakeri	[i-][VPers][3m.S/A+][--][=kent][VRoot][=to.pierce.with.arrows, to.shoot.arrows; to.sting (ES: picar)][--][-a][+EP]a[--][=vako][NRoot][=hand (ES: mano)]vako[--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+heto	[=heto+m.][NRoot][=spider (ES: araña)]
+
+yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
+
+rakoki	[r-][NPers][3m.poss+][--][=ako+n.m.+inal@tsi.][NRoot][=arm][--][-ki][Cas][+LOC_LOC.T]
+
+inyaatsaveta	[i-][VPers][3m.S/A+][--][=nyaatsa][VRoot][=to.play; to.have.sex (euphemism)][--][-ve][+FRUS][=in.vain (ES: casi)]ve[--][-t][+EP]t[--][-a][+IRR]a
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="196">
