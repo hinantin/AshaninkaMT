@@ -5146,12 +5146,25 @@ ikentsiki	[i-][NPers][3m.poss+][--][=kentsi+n.m.+inal@tsi.][NRoot][=neck, nape (
         <parsing/>
     </text>
     <text id="199">
-        <sentence lang="prq">Ikentakiri apa jiriti imampaabeta otebaki inchato.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikentakiri apa jiriti imampaabeta otebaki inchato.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikentakiri apa hiriti imampaaveta otevaki inchato.</sentence>
         <sentence lang="es">Mi papá tiró al pájaro madrugador mientras cantaba en la rama del árbol.</sentence>
         <morphology>
 
 
+ikentakiri	[i-][VPers][3m.S/A+][--][=kent][VRoot][=to.pierce.with.arrows, to.shoot.arrows; to.sting (ES: picar)][--][-ak][ASP][+PRF]ak[--][-i][+REAL]i[--][=ri][+3m.O]
 
+apa	[=apa+m.][NRoot][=father (kin.of.a.fe/male)]
+
+hiriti	[=hiriti][NRoot][=blue-crowned.motmot (sci.nm.: momotus.momota, ES: ave.de.monte, pájaro.madrugador)]
+
+imampaaveta	[i-][VPers][3m.S/A+][--][=mamp][VRoot][=to.sing (ES: cantar)][--][-a][+EP]a[--][-av+object.oriented][ADV][+DIR][=contrary,opposite]av[--][-e][+REAL]e[--][=ta][MODAL][+OPT_SUBJ]
+
+otevaki	[=oteva][NRoot][=branch (ES: rama); fork-like.branch (ES: horquilla)][--][-ki][Cas][+LOC_LOC.T]
+
+inchato	[=inchato+n.m.][NRoot][=tree (ES: árbol)]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
