@@ -5193,6 +5193,7 @@ oporiperoki	[o-][NPers][3n.m.poss+][--][=poripero][NRoot][=right.leg (ES: pierna
         <sentence lang="prq" normalizationlevel="none">Robetsikati charine ijonkare ijonkantantyaari.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovetsikati charine ihonkare ihonkantantyaari.</sentence>
         <sentence lang="es">Mi abuelo está confeccionando su antara para entonar.</sentence>
+        <sentence lang="en">Grandfather is making his antara-panpipe, in order to play it.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -5210,15 +5211,45 @@ ihonkantantyaari	[i-][VPers][3m.S/A+][--][=honk][VRoot][=to.play.antara][--][-an
         <parsing/>
     </text>
     <text id="202">
-        <sentence lang="prq">Rokiro iriani kaarashi impeetaki. </sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rokiro iriani kaarashi impeetaki.</sentence>
         <sentence lang="es">El niño bota la basura al barranco.</sentence>
-        <morphology/>
+        <sentence lang="en">The child threw away the garbage in the ravine.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+rokiro	[r-][VPers][3m.S/A+][--][=ok][VRoot][=to.abandon; to.leave (ES: dejar); to.throw; to.throw.away/out (ES: botar)][--][-i][+IRR]i[--][=ro][+3n.m.O]
+
+iriani	[i-][NPers][3m.poss+][--][=iriani][NRoot][=child (ES: niño)]
+
+kaarashi	[=kaarashi+n.m.][NRoot][=trash, garbage (ES: basura); fallen/dead.leaves (ES: hojarasca)]
+
+impeetaki	[=iNpeeta+n.m.][NRoot][=rock (ES: roca); (rocky).cave (ES: cueva/tunel.rocoso); crag; ravine (ES: barranco)][--][-ki][+CL:human.populated][=place.populated.by.humans]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="203.1">
-        <sentence lang="prq">Jatake isheni onkaaboshiteri otsitite nijateniki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Jatake isheni onkaaboshiteri otsitite nijateniki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Hatake isheni onkaavoshiteri otsitite nihateniki.</sentence>
         <sentence lang="es">La abuela fue al río a bañar a su perro.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+hatake	[=ha][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-e][+REAL]e
+
+isheni	[=isheni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
+
+onkaavoshiteri	[o-][VPers][3n.m.S/A+][--][N=][IRR+][--][=kaavoshi][VRoot][=to.bathe (ES: bañar)][--][-t][+EP]t[--][-e][+REAL]e[--][=ri][+3m.O]
+
+otsitite	[=otsiti+m.+poss@te.][NRoot][=dog (ES: perro)][--][-i^te][DEGR][+AUG]te
+
+nihateniki	[=nihateni][NRoot][=brook; creek (ES: quebrada, arroyo)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="203.2">
