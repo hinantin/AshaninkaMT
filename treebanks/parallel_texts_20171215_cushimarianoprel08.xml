@@ -5171,9 +5171,22 @@ inchato	[=inchato+n.m.][NRoot][=tree (ES: árbol)]
         <parsing/>
     </text>
     <text id="200">
-        <sentence lang="prq">Jompotaki nana oporiperoki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Jompotaki nana oporiperoki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Hompotaki nana oporiperoki.</sentence>
         <sentence lang="es">Mi mamá tiene un tumor en la pierna derecha.</sentence>
-        <morphology/>
+        <sentence lang="en">Mother has a tumor in her right leg.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+hompotaki	[=hompo+inal@tsi.][NRoot][=tumor; boil (ES: tumor, chupo)]::[=to.have.a.tumor (ES: tener.un.tumor)]+vbz.[--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-i][+REAL]i
+
+nana	[=nana+n.m.+voc.+poss@te:ti.][NRoot][=mom, mother (kin.of.a.fe/male; ES: mamá)]
+
+oporiperoki	[o-][NPers][3n.m.poss+][--][=poripero][NRoot][=right.leg (ES: pierna.derecha)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="201">
