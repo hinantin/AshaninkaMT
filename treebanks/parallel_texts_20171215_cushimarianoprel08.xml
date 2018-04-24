@@ -5234,6 +5234,7 @@ impeetaki	[=iNpeeta+n.m.][NRoot][=rock (ES: roca); (rocky).cave (ES: cueva/tunel
         <sentence lang="prq" normalizationlevel="none">Jatake isheni onkaaboshiteri otsitite nijateniki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Hatake isheni onkaavoshiteri otsitite nihateniki.</sentence>
         <sentence lang="es">La abuela fue al río a bañar a su perro.</sentence>
+        <sentence lang=""/>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -5243,7 +5244,7 @@ isheni	[=isheni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
 
 onkaavoshiteri	[o-][VPers][3n.m.S/A+][--][N=][IRR+][--][=kaavoshi][VRoot][=to.bathe (ES: bañar)][--][-t][+EP]t[--][-e][+REAL]e[--][=ri][+3m.O]
 
-otsitite	[=otsiti+m.+poss@te.][NRoot][=dog (ES: perro)][--][-i^te][DEGR][+AUG]te
+rotsitite	[o-][NPers][3n.m.poss+][--][=otsiti+m.+poss@te.][NRoot][=dog (ES: perro)][--][-te][Gen][+aln.poss.]te
 
 nihateniki	[=nihateni][NRoot][=brook; creek (ES: quebrada, arroyo)][--][-ki][Cas][+LOC_LOC.T]
 
