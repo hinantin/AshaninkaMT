@@ -5101,9 +5101,26 @@ hantari	[=hantari+n.m.][NRoot][=timber.tree.sp. (ES: árbol.(maderable), cedro)]
         <parsing/>
     </text>
     <text id="197">
-        <sentence lang="prq">Iina Chamiri iyaati areetabo iñiiro.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iina Chamiri iyaati areetabo iñiiro.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iina Chamiri iyaati areetavo inyiiro.</sentence>
         <sentence lang="es">La esposa de Chamiri fue a visitar a su mamá.</sentence>
-        <morphology/>
+        <sentence lang="en">Chamiri's wife went to visit </sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+iina	[i-][NPers][3m.poss+][--][=iina+n.m.+inal@tsi.][NRoot][=mother; wife (kin.of.a.fe/male)]
+
+chamiri	[=chamiri][NRoot][=NP, person's.name]
+
+iyaati	[=iyaa][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-i][+IRR]i
+
+areetavo	[=aree][VRoot][=to.arrive (ES: llegar); to.visit.with.sb.][--][-t][+EP]t[--][-a][+REAL]a[--][=vo][+3n.m.O]
+
+inyiiro	[i-][NPers][3m.poss+][--][=nyiiro+n.m.][NRoot][=mother (kin.of.a.fe/male)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="198">
