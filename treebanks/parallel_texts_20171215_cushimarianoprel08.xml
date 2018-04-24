@@ -5272,9 +5272,24 @@ nihaateniki	[=nihaateni][NRoot][=brook; creek (ES: quebrada, arroyo)][--][-ki][C
         <parsing/>
     </text>
     <text id="204">
-        <sentence lang="prq">Itaayetatiro obaantsi otinaantari kachaarentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Itaayetatiro obaantsi otinaantari kachaarentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Itaayetatiro ovaantsi otinaantari kachaarentsi.</sentence>
         <sentence lang="es">Están quemando chacra, por eso se levanta el humo.</sentence>
-        <morphology/>
+        <sentence lang="en">They are burning the sown field, that's why the smoke rises.</sentence>
+        <morphology>
+
+
+itaayetatiro	[i-][VPers][3m.S/A+][--][=taa][VRoot][=to.burn (ES: quemar)][--][-ye][+DIST]ye[--][-t][+EP]t[--][-ati][ASP][+PROG]ati[--][=ro][+3n.m.O]
+
+ovaantsi	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra)][--][-ntsi+alien.][Gen][+nposs]ntsi
+
+otinaantari	[o-][VPers][3n.m.S/A+][--][=tina][VRoot][=to.lift (ES: levantar); to.get.up][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-a][+REAL]a[--][=ri][+3m.O]
+
+kachaarentsi	[=kachaare+m.+inal@ntsi.][NRoot][=smoke (ES: humo)][--][-ntsi+alien.][Gen][+nposs]ntsi
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="205.1">
