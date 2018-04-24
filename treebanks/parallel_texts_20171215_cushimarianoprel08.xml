@@ -5124,15 +5124,36 @@ inyiiro	[i-][NPers][3m.poss+][--][=nyiiro+n.m.][NRoot][=mother (kin.of.a.fe/male
         <parsing/>
     </text>
     <text id="198">
-        <sentence lang="prq">Okachoneentakeri konki jiriimaki ikentsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Okachoneentakeri konki jiriimaki ikentsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Okachoneentakeri konki hiriimaki ikentsiki.</sentence>
         <sentence lang="es">El ácido del limón hizo atragantar a mi suegro.</sentence>
-        <morphology/>
+        <!-- The lemon acid made my father-in-law choke. -->
+        <sentence lang="en">Father-in-law felt a little bit of the sour taste of the lemon in his neck.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+okachoneentakeri	[o-][VPers][3n.m.S/A+][--][=kacho][VRoot][=to.be.sour (ES: ser.agrio)][--][-neent][DEGR][+SENSORY][=DIM: almost,(do).a.little.bit]neent[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ri][NS][+REL]
+
+konki	[=konki+m.+poss@ri:re.][NRoot][=father.in.law (kin.of.a.male; ES: suegro)]
+
+hiriimaki	[=hiriimaki][NRoot][=lemon (botany.nm.: citrus.lemon/limon; ES: limón)]
+
+ikentsiki	[i-][NPers][3m.poss+][--][=kentsi+n.m.+inal@tsi.][NRoot][=neck, nape (ES: cuello, nuca)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="199">
         <sentence lang="prq">Ikentakiri apa jiriti imampaabeta otebaki inchato.</sentence>
         <sentence lang="es">Mi papá tiró al pájaro madrugador mientras cantaba en la rama del árbol.</sentence>
-        <morphology/>
+        <morphology>
+
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="200">
