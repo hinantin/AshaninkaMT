@@ -5254,9 +5254,21 @@ nihateniki	[=nihateni][NRoot][=brook; creek (ES: quebrada, arroyo)][--][-ki][Cas
         <parsing/>
     </text>
     <text id="203.2">
-        <sentence lang="prq">Noyaatapainte nonkaaboshitapaentya nijaateniki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Noyaatapainte nonkaaboshitapaentya nijaateniki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Noyaatapainte nonkaavoshitapaentya nihaateniki.</sentence>
         <sentence lang="es">Voy a bañarme un momento en el río.</sentence>
-        <morphology/>
+        <morphology>
+
+
+noyaatapainte	[n-][VPers][1SG.S/A+][--][=oyaa][VRoot][=to.go (ES: ir); to.follow][--][-t][+EP]t[--][-apaint][Asp][+SEMEL.F][=PUNCTUAL:once;for.a.while,short-term]apaint[--][-e][+IRR]e
+
+nonkaavoshitapaentya	[no-][VPers][1SG.S/A+][--][N=][IRR+][--][=kaavoshi][VRoot][=to.bathe (ES: bañar)][--][-t][+EP]t[--][-apaent][Asp][+SEMEL.F][=PUNCTUAL:once;for.a.while,short-term]apaent[--][-ya][+REAL]ya
+
+nihaateniki	[=nihaateni][NRoot][=brook; creek (ES: quebrada, arroyo)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="204">
