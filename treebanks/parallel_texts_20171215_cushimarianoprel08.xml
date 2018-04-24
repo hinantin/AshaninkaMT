@@ -5190,9 +5190,23 @@ oporiperoki	[o-][NPers][3n.m.poss+][--][=poripero][NRoot][=right.leg (ES: pierna
         <parsing/>
     </text>
     <text id="201">
-        <sentence lang="prq">Robetsikati charine ijonkare ijonkantantyaari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Robetsikati charine ijonkare ijonkantantyaari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovetsikati charine ihonkare ihonkantantyaari.</sentence>
         <sentence lang="es">Mi abuelo está confeccionando su antara para entonar.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+rovetsikati	[ro-][VPers][3n.m.S/A+][--][=vetsik][VRoot][=to.fix; to.make (ES: preparar.comida/bebida); to.create, to.build][--][-ati][ASP][+PROG]ati
+
+charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male); grandson (ES: nieto)]
+
+ihonkare	[i-][NPers][3m.poss+][--][=honkare+n.m.+voc.][NRoot][=panpipe(s) (flute-like.instr.; ES: antara); Ashéninka.flute]
+
+ihonkantantyaari	[i-][VPers][3m.S/A+][--][=honk][VRoot][=to.play.antara][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-t][+EP]t[--][-yaa][+REAL]yaa[--][=ri][+3m.O]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="202">
