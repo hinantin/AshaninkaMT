@@ -5356,9 +5356,24 @@ shitsa	[=shitsa][NRoot][=vine; string.like; worm.sp., intestinal.worm (ES: sp.de
         <parsing/>
     </text>
     <text id="207.1">
-        <sentence lang="prq">Pamakenabo piyajankarite notiritabakia nokentsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Pamakenabo piyajankarite notiritabakia nokentsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Pamakenavo piyahankarite notiritavakia nokentsiki.</sentence>
         <sentence lang="es">Tráeme tu perfume para echarme en el cuello.</sentence>
-        <morphology/>
+        <sentence lang="en">Bring me your perfume to anoint it on my neck.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+pamakenavo	[p-][VPers][2S/A+][--][=am][VRoot][=to.bring (ES: traer)][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=na][+1SG.O][--][=vo][+3n.m.O]
+
+piyahankarite	[pi-][NPers][2poss+][--][=kahank][VRoot][=to.perfume (ES: perfumar); to.smell.sth.pleasant (ES: oler.algo.agradable)][--][-a][+CL:liquid][=liquid]a[--][-ri+m.][NS][+NMZ]ri[--][-te][Gen][+aln.poss.]te
+
+notiritavakia	[no-][VPers][1SG.S/A+][--][=tiri][VRoot][=to.rub, to.anoint (ES: frotar, sobar)][--][-t][+EP]t[--][-av+object.oriented][ADV][+DIR][=contrary,opposite]av[--][-ak][ASP][+PRF]ak[--][-ia][+IRR]ia
+
+nokentsiki	[no-][NPers][1SG.poss+][--][=kentsi+n.m.+inal@tsi.][NRoot][=neck, nape (ES: cuello, nuca)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="207.2">
