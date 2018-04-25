@@ -5335,9 +5335,24 @@ ovaantsiki	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.lan
         <parsing/>
     </text>
     <text id="206">
-        <sentence lang="prq">Kainitake noitsi raakena shitsa.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Kainitake noitsi raakena shitsa.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Kainitake noitsi raakena shitsa.</sentence>
         <sentence lang="es">Me da comezón el pie porque me entró la lombriz.</sentence>
-        <morphology/>
+        <sentence lang="en">My foot itches because a worm got in.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+kainitake	[=kaini][VRoot][=to.itch; to.be.itchy (ES: dar.comezón/escozor, picar)][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-e][+REAL]e
+
+noitsi	[no-][NPers][1SG.poss+][--][=kitsi+n.m.+inal@tsi.][NRoot][=leg; foot (ES: pie)]
+
+raakena	[r-][VPers][3m.S/A+][--][=a][VRoot][=to.get][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=na][+1SG.O]
+
+shitsa	[=shitsa][NRoot][=vine; string.like; worm.sp., intestinal.worm (ES: sp.de.lombriz.de.tierra/instestinal)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="207.1">
