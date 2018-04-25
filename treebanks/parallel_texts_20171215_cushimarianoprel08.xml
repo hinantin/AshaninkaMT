@@ -5407,10 +5407,11 @@ pochaari	[=pocha][VRoot][=to.be.sweet (ES: ser.dulce)][--][-a][+EP]a[--][-ri+m.]
         <sentence lang="prq" normalizationlevel="none">Omatakeri neentsite kamaantsi.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Omatakeri neentsite kamaantsi.</sentence>
         <sentence lang="es">A mi hijo le dio la gripe.</sentence>
-        <morphology>
+        <sentence lang="en">My son got the flu.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-???
+omatakeri	[o-][VPers][3n.m.S/A+][--][=mat][VRoot][=to.become.infected.wth.sth., to.get.a_disease (ES: contagiarse)][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ri][+3m.O]
 
 neentsite	[n-][NPers][1SG.poss+][--][=eentsi+n./m.+poss@te.][NRoot][=child (ES: niño)][--][-te][Gen][+aln.poss.]te
 
@@ -5422,9 +5423,21 @@ kamaantsi	[=kamaantsi+n./m.+poss@te.][NRoot][=flu (ES: gripe, constipado); snot 
         <parsing/>
     </text>
     <text id="208.2">
-        <sentence lang="prq">Pisheteri iyamantsite pitomi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Pisheteri iyamantsite pitomi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Pisheteri iyamantsite pitomi.</sentence>
         <sentence lang="es">Limpia el moco de tu hijo.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+pisheteri	[pi-][VPers][2S/A+][--][=shet][VRoot][=to.clean][--][-e][+IRR]e[--][=ri][+3m.O]
+
+iyamantsite	[i-][NPers][3m.poss+][--][=kamantsi+n./m.+poss@te.][NRoot][=flu (ES: gripe, constipado); snot (ES: moco); having.a.cold; phlegm][--][-te][Gen][+aln.poss.]te
+
+pitomi	[pi-][NPers][2poss+][--][=tomi+m.+inal@tsi.][NRoot][=son (kin.of.a.fe/male)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="209">
