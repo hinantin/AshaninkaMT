@@ -5276,7 +5276,7 @@ nihaateniki	[=nihaateni][NRoot][=brook; creek (ES: quebrada, arroyo)][--][-ki][C
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Itaayetatiro ovaantsi otinaantari kachaarentsi.</sentence>
         <sentence lang="es">Están quemando chacra, por eso se levanta el humo.</sentence>
         <sentence lang="en">They are burning the sown field, that's why the smoke rises.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 itaayetatiro	[i-][VPers][3m.S/A+][--][=taa][VRoot][=to.burn (ES: quemar)][--][-ye][+DIST]ye[--][-t][+EP]t[--][-ati][ASP][+PROG]ati[--][=ro][+3n.m.O]
@@ -5293,9 +5293,22 @@ kachaarentsi	[=kachaare+m.+inal@ntsi.][NRoot][=smoke (ES: humo)][--][-ntsi+alien
         <parsing/>
     </text>
     <text id="205.1">
-        <sentence lang="prq">Ikaemake Shariba tonkaareki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikaemake Shariba tonkaareki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikaemake Shariva tonkaareki.</sentence>
         <sentence lang="es">Shariwa gritó en el cerro.</sentence>
-        <morphology/>
+        <sentence lang="en">Shariva screamed in the hill top.</sentence>
+        <morphology>
+
+
+ikaemake	[i-][VPers][3m.S/A+][--][=kaem][VRoot][=to.scream (ES: gritar); to.call.sb. (to.inform.of.sth.; ES: llamar)][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e
+
+shariva	[=shariva][NRoot][=person's.name]
+
+tonkaareki	[=tonkaare+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="205.2">
