@@ -5484,7 +5484,18 @@ apatorentsi	[=apato][VRoot][=to.gather (ES: juntar), to.meet, to.get.together][-
     <text id="211.1">
         <sentence lang="prq">Ikamarankake notyomi tsireniriki.</sentence>
         <sentence lang="es">Mi hijo vomitó en la noche.</sentence>
-        <morphology/>
+        <morphology>
+
+
+ikamarankake	[i-][VPers][3m.S/A+][--][=kamarank][VRoot][=to.vomit (ES: vomitar)][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e
+
+notyomi	[no-][NPers][1SG.poss+][--][=tyomi+m.+inal@tsi.][NRoot][=son (kin.of.a.male)]
+
+tsireniriki	[=tsireniri][NRoot][=night (ES: noche)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="211.2">
