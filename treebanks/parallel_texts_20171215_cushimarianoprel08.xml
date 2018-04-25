@@ -5377,9 +5377,29 @@ nokentsiki	[no-][NPers][1SG.poss+][--][=kentsi+n.m.+inal@tsi.][NRoot][=neck, nap
         <parsing/>
     </text>
     <text id="207.2">
-        <sentence lang="prq">Iroka inchato kajankari, jaaka okitsoki pochaari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iroka inchato kajankari, jaaka okitsoki pochaari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iroka inchato kahankari, haaka okitsoki pochaari.</sentence>
         <sentence lang="es">Este árbol perfumado está lleno de frutos dulces.</sentence>
-        <morphology/>
+        <morphology>
+
+
+iroka	[=iroka+n.m.+proximal.b.][PrnDem][=this (ES: esta)]
+
+inchato	[=inchato+n.m.][NRoot][=tree (ES: árbol)]
+
+kahankari	[=kahank][VRoot][=to.perfume (ES: perfumar); to.smell.sth.pleasant (ES: oler.algo.agradable)][--][-a][+EP]a[--][-ri+m.][NS][+ADJ.NMZ]ri
+
+,	,[$.]
+
+haaka	[=haaka][NRoot][=full (ES: saturado, lleno)]
+
+okitsoki	[=okitsoki][NRoot][=seed]
+
+pochaari	[=pocha][VRoot][=to.be.sweet (ES: ser.dulce)][--][-a][+EP]a[--][-ri+m.][NS][+NMZ]ri
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="208.1">
