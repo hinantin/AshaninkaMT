@@ -5519,9 +5519,15 @@ eentsipaye	[=eentsi+n./m.+poss@te.][NRoot][=child (ES: niño)][--][-paye][Num][+
         <parsing/>
     </text>
     <text id="212">
-        <sentence lang="prq">Ikantakeri Tajorentsi kamari: Eero pantakaeri kaariperori atiri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikantakeri Tajorentsi kamari: Eero pantakaeri kaariperori atiri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikantakeri Tahorentsi kamari: Eero pantakaeri kaariperori atiri.</sentence>
         <sentence lang="es">Jesús le dijo a Satanás: “No hagas cosas malas con la gente”.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="213">
