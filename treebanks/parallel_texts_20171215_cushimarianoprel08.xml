@@ -5404,9 +5404,21 @@ pochaari	[=pocha][VRoot][=to.be.sweet (ES: ser.dulce)][--][-a][+EP]a[--][-ri+m.]
         <parsing/>
     </text>
     <text id="208.1">
-        <sentence lang="prq">Omatakeri neentsite kamaantsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Omatakeri neentsite kamaantsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Omatakeri neentsite kamaantsi.</sentence>
         <sentence lang="es">A mi hijo le dio la gripe.</sentence>
-        <morphology/>
+        <morphology>
+
+
+???
+
+neentsite	[n-][NPers][1SG.poss+][--][=eentsi+n./m.+poss@te.][NRoot][=child (ES: niño)][--][-te][Gen][+aln.poss.]te
+
+kamaantsi	[=kamaantsi+n./m.+poss@te.][NRoot][=flu (ES: gripe, constipado); snot (ES: moco); having.a.cold; phlegm]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="208.2">
