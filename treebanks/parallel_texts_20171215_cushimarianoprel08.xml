@@ -5522,6 +5522,7 @@ eentsipaye	[=eentsi+n./m.+poss@te.][NRoot][=child (ES: niño)][--][-paye][Num][+
         <sentence lang="prq" normalizationlevel="none">Ikantakeri Tajorentsi kamari: Eero pantakaeri kaariperori atiri.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikantakeri Tahorentsi kamari: Eero pantakaeri kaariperori atiri.</sentence>
         <sentence lang="es">Jesús le dijo a Satanás: “No hagas cosas malas con la gente”.</sentence>
+        <sentence lang="en">God said to the evil spirit: "Don't make bad things to the men".</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -5537,7 +5538,7 @@ eero	[=eero][Neg][=NEG.IRR]
 
 pantakaeri	[p-][VPers][2S/A+][--][=ant][VRoot][=to.beat, to.hit; to.build, to.do, to.make][--][-ak][ASP][+PRF]ak[--][-a][+EP]a[--][-e][+REAL]e[--][=ri][+3m.O]
 
-???
+kaariperori	[=kaariperori][NRoot][=bad (ES: malo, mala)]
 
 atiri	[=atiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]
 
