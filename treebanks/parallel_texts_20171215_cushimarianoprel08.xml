@@ -5618,9 +5618,26 @@ piyanirimashite	[pi-][NPers][2poss+][--][=kaniri+n.m.+voc.][NRoot][=(sweet).mani
         <parsing/>
     </text>
     <text id="216">
-        <sentence lang="prq">Itobi apa kampona ishitamenkotantyaabori pankotsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Itobi apa kampona ishitamenkotantyaabori pankotsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Itovi apa kampona ishitamenkotantyaabori pankotsi.</sentence>
         <sentence lang="es">Mi papá tumba la pona para hacer la tarima de la casa.</sentence>
-        <morphology/>
+        <sentence lang="en">Father cut down the palm tree in order to cover the house with floor boards.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+itovi	[i-][VPers][3m.S/A+][--][=tov][VRoot][=to.fell, to.cut.down (a.tree)][--][-i][+REAL]i
+
+apa	[=apa+m.][NRoot][=father (kin.of.a.fe/male)]
+
+kampona	[=kampona+n.m.+poss@te.][NRoot][=palm.tree.sp. (ES: pona, sp.de.palmera)]
+
+ishitamenkotantyaabori	[i-][VPers][3m.S/A+][--][=shitamenko+n.m.+inal@tsi.][NRoot][=dais, wooden_platform (ES: tarima.(hecha.de.pona))]::[=to.cover.with.floor.boards (ES: entarimar/emponar.algo (p.ej.: una.casa))]+vbz.[--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-yaa][+IRR]yaa[--][=vo][+3n.m.O][--][=ri][NS][+REL]
+
+pankotsi	[=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)][--][-tsi+alien.][Gen][+nposs]tsi
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="217">
