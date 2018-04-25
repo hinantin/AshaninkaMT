@@ -5442,9 +5442,21 @@ pitomi	[pi-][NPers][2poss+][--][=tomi+m.+inal@tsi.][NRoot][=son (kin.of.a.fe/mal
         <parsing/>
     </text>
     <text id="209">
-        <sentence lang="prq">Ratsikabetakana kamaatonki noitsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ratsikabetakana kamaatonki noitsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ratsikavetakana kamaatonki noitsiki.</sentence>
         <sentence lang="es">La cascabel casi me mordió en el pie.</sentence>
-        <morphology/>
+        <morphology>
+
+
+ratsikavetakana	[r-][VPers][3m.S/A+][--][=atsik][VRoot][=to.bite (ES: morder.(sujeto.animado))][--][-a][+EP]a[--][-ve][+FRUS][=in.vain (ES: casi)]ve[--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-a][+REAL]a[--][=na][+1SG.O]
+
+kamaatonki	[=kamaatonki][NRoot][=snake.sp. (ES: sp.de.serpiente; sci.nm.: chironius.scurrulus); rattlesnake.sp. (ES: cascabel)]
+
+noitsiki	[no-][NPers][1SG.poss+][--][=kitsi+n.m.+inal@tsi.][NRoot][=leg; foot (ES: pie)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="210">
