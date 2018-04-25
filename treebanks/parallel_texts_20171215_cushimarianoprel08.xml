@@ -5500,9 +5500,22 @@ tsireniriki	[=tsireniri][NRoot][=night (ES: noche)][--][-ki][Cas][+LOC_LOC.T]
         <parsing/>
     </text>
     <text id="211.2">
-        <sentence lang="prq">Ataanakeri kamankaantsi eentsipaye.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ataanakeri kamankaantsi eentsipaye.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ataanakeri kamankaantsi eentsipaye.</sentence>
         <sentence lang="es">El vómito atacó a todos los niños.</sentence>
-        <morphology/>
+        <sentence lang="en">The children got the vomiting sickness.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ataanakeri	[=a][VRoot][=to.take (ES: agarrar)][--][-t][+EP]t[--][-a][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]a[--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+kamankaantsi	[=kamank][VRoot][=to.vomit (ES: vomitar)][--][-a][+EP]a[--][-antsi][NS][+NMZ.INF]antsi
+
+eentsipaye	[=eentsi+n./m.+poss@te.][NRoot][=child (ES: niño)][--][-paye][Num][+PL_DIST]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="212">
