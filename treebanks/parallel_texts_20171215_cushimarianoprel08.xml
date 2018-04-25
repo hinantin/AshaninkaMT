@@ -5484,7 +5484,8 @@ apatorentsi	[=apato][VRoot][=to.gather (ES: juntar), to.meet, to.get.together][-
     <text id="211.1">
         <sentence lang="prq">Ikamarankake notyomi tsireniriki.</sentence>
         <sentence lang="es">Mi hijo vomitó en la noche.</sentence>
-        <morphology>
+        <sentence lang="en">My son vomited at night.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 ikamarankake	[i-][VPers][3m.S/A+][--][=kamarank][VRoot][=to.vomit (ES: vomitar)][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e
