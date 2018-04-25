@@ -5548,9 +5548,27 @@ atiri	[=atiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]
         <parsing/>
     </text>
     <text id="213">
-        <sentence lang="prq">Iroka tsinane kameetsaanto amampake apani amampaantsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iroka tsinane kameetsaanto amampake apani amampaantsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iroka tsinane kameetsaanto amampake apani amampaantsi.</sentence>
         <sentence lang="es">Esta mujer hermosa cantó una canción bonita.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+iroka	[=iroka+n.m.+proximal.b.][PrnDem][=this (ES: esta)]
+
+tsinane	[=tsinane+n.m.][NRoot][=female, woman (ES: mujer); young.girl]
+
+kameetsaanto	[=kameetsa][VRoot][=to.be.good][--][-a][+CL:liquid][=liquid]a[--][-nto+n.m.][NS][+ADJ.PARTIC]nto
+
+amampake	[=amamp][VRoot][=to.sing (ES: cantar)][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e
+
+apani	[=apani][NumeralPRQ][=one]
+
+amampaantsi	[=amamp][VRoot][=to.sing (ES: cantar)][--][-aantsi][NS][+NMZ.INF]aantsi
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="214">
