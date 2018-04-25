@@ -5446,7 +5446,7 @@ pitomi	[pi-][NPers][2poss+][--][=tomi+m.+inal@tsi.][NRoot][=son (kin.of.a.fe/mal
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ratsikavetakana kamaatonki noitsiki.</sentence>
         <sentence lang="es">La cascabel casi me mordió en el pie.</sentence>
         <sentence lang="en">The rattlesnake almost bit me in my foot.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 ratsikavetakana	[r-][VPers][3m.S/A+][--][=atsik][VRoot][=to.bite (ES: morder.(sujeto.animado))][--][-a][+EP]a[--][-ve][+FRUS][=in.vain (ES: casi)]ve[--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-a][+REAL]a[--][=na][+1SG.O]
