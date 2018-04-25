@@ -5576,7 +5576,7 @@ amampaantsi	[=amamp][VRoot][=to.sing (ES: cantar)][--][-aantsi][NS][+NMZ.INF]aan
         <sentence lang="prq" normalizationlevel="none">Jempe timatsiri rajankane kametsari iritake obeshiriachari.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Hempe timatsiri rahankane kametsari iritake oveshiriachari.</sentence>
         <sentence lang="es">Quien tiene el corazón bueno, es el que vive feliz.</sentence>
-        <sentence lang="en">Who is the one that has a good heart, he is the one who rejoices.</sentence>
+        <sentence lang="en">Who is the one who has a good heart, he is the one who rejoices.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -5598,9 +5598,21 @@ oveshiriachari	[o-][VPers][3n.m.S/A+][--][=veshiri][VRoot][=to.rejoice, to.get.g
         <parsing/>
     </text>
     <text id="215">
-        <sentence lang="prq">Pintsamaetero kametsa piyanirimashite.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Pintsamaetero kametsa piyanirimashite.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Pintsamaetero kametsa piyanirimashite.</sentence>
         <sentence lang="es">Cultiva bien el yucal.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+pintsamaetero	[pi-][VPers][2S/A+][--][N=][IRR+][--][=tsamae][VRoot][=to.cut.grass, to.clean.a.sown_field/road.with.a.shovel][--][-t][+EP]t[--][-e][+IRR]e[--][=ro][+3n.m.O]
+
+kametsa	[=kametsa][NRoot][=well, good]
+
+piyanirimashite	[pi-][NPers][2poss+][--][=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; sci.nm.: manihot.sculenta)][--][-mashi][+CL:vast.space.with.vegetation][=vast.space.with.vegetation;wide,flat.space][--][-i^te][+CL:anim.PL][=animate,plural]te
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="216">
