@@ -5641,9 +5641,23 @@ pankotsi	[=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)][--
         <parsing/>
     </text>
     <text id="217">
-        <sentence lang="prq">Robakabo kitaeriki iyaniri Ashisho.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Robakabo kitaeriki iyaniri Ashisho.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovakavo kitaeriki iyaniri Ashisho.</sentence>
         <sentence lang="es">El sajino comió la yuca de Ashisho.</sentence>
-        <morphology/>
+        <morphology>
+
+
+rovakavo	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-ak][ASP][+PRF]ak[--][-a][+REAL]a[--][=vo][+3n.m.O]
+
+kitaeriki	[=kitaeriki+poss@ti.][NRoot][=peccary (ES: sajino, pecarí.de.collar; sci.nm.: tayassu.tajacu); wild.pig]
+
+iyaniri	[i-][NPers][3m.poss+][--][=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; sci.nm.: manihot.sculenta)]
+
+ashisho	[=ashisho][NRoot][=person's.name; NP]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="218">
