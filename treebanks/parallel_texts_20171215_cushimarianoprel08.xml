@@ -5551,6 +5551,7 @@ atiri	[=atiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]
         <sentence lang="prq" normalizationlevel="none">Iroka tsinane kameetsaanto amampake apani amampaantsi.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Iroka tsinane kameetsaanto amampake apani amampaantsi.</sentence>
         <sentence lang="es">Esta mujer hermosa cantó una canción bonita.</sentence>
+        <sentence lang="en">This beautiful woman sang a song.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -5572,9 +5573,27 @@ amampaantsi	[=amamp][VRoot][=to.sing (ES: cantar)][--][-aantsi][NS][+NMZ.INF]aan
         <parsing/>
     </text>
     <text id="214">
-        <sentence lang="prq">Jempe timatsiri rajankane kametsari iritake obeshiriachari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Jempe timatsiri rajankane kametsari iritake obeshiriachari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Hempe timatsiri rahankane kametsari iritake oveshiriachari.</sentence>
         <sentence lang="es">Quien tiene el corazón bueno, es el que vive feliz.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+hempe	[=hempe][IndfSpecif][=where]
+
+timatsiri	[=tim][VRoot][=POSSESS (EN: to.have; ES: tener); to.give.birth][--][-atsi][Asp][+STAT.IPRF]atsi[--][=ri][NS][+REL]
+
+rahankane	[r-][NPers][3m.poss+][--][=ahankane+n.m.+inal@ntsi.][NRoot][=heart (ES: corazón)]
+
+kametsari	[=kametsa][VRoot][=to.be.good][--][-ri+m.][NS][+ADJ.NMZ]ri
+
+iritake	[=iritake+cntr.exh.l.+foc.][PrnPers][+3SG.m.][=that's.why; he.is (ES: él.es); he.is.the.one.(who)]
+
+oveshiriachari	[o-][VPers][3n.m.S/A+][--][=veshiri][VRoot][=to.rejoice, to.get.glad (ES: alegrarse)][--][-acha][Asp][+STAT.IPRF]acha[--][=ri][NS][+REL]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="215">
