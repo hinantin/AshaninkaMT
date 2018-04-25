@@ -5297,7 +5297,7 @@ kachaarentsi	[=kachaare+m.+inal@ntsi.][NRoot][=smoke (ES: humo)][--][-ntsi+alien
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikaemake Shariva tonkaareki.</sentence>
         <sentence lang="es">Shariwa gritó en el cerro.</sentence>
         <sentence lang="en">Shariva screamed in the hill top.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 ikaemake	[i-][VPers][3m.S/A+][--][=kaem][VRoot][=to.scream (ES: gritar); to.call.sb. (to.inform.of.sth.; ES: llamar)][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e
@@ -5312,9 +5312,26 @@ tonkaareki	[=tonkaare+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas]
         <parsing/>
     </text>
     <text id="205.2">
-        <sentence lang="prq">Pinkeme, okaematimi piniro obaantsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Pinkeme, okaematimi piniro obaantsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Pinkeme, okaematimi piniro ovaantsiki.</sentence>
         <sentence lang="es">Escucha, tu madre te llama desde la chacra.</sentence>
-        <morphology/>
+        <sentence lang="en">You listen, your mother is calling you from the sown field.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+pinkeme	[pi-][VPers][2S/A+][--][N=][IRR+][--][=kem][VRoot][=to.hear, to.listen; to.sense (ES: sentir)][--][-e][+IRR]e
+
+,	,[$.]
+
+okaematimi	[o-][VPers][3n.m.S/A+][--][=kaem][VRoot][=to.scream (ES: gritar); to.call.sb. (to.inform.of.sth.; ES: llamar)][--][-ati][ASP][+PROG]ati[--][=mi][+2SG.O]
+
+piniro	[pi-][NPers][2poss+][--][=niro+n.m.][NRoot][=mother (kin.of.a.fe/male)]
+
+ovaantsiki	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra)][--][-ntsi+alien.][Gen][+nposs]ntsi[--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="206">
