@@ -5461,9 +5461,23 @@ noitsiki	[no-][NPers][1SG.poss+][--][=kitsi+n.m.+inal@tsi.][NRoot][=leg; foot (E
         <parsing/>
     </text>
     <text id="210">
-        <sentence lang="prq">Pinkamanteri ashitaaneyetachari inkaamane apatorentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Pinkamanteri ashitaaneyetachari inkaamane apatorentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Pinkamanteri ashitaaneyetachari inkaamane apatorentsi.</sentence>
         <sentence lang="es">Avisa a los padres de familia que mañana tenemos reunión.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+pinkamanteri	[pi-][VPers][2S/A+][--][N=][IRR+][--][=kamant][VRoot][=to.inform; to.advise][--][-e][+IRR]e[--][=ri][+3m.O]
+
+ashitaaneyetachari	[=ashitaaneyetachari][NRoot][=parent, householder (ES: padre.de.familia)]
+
+???
+
+apatorentsi	[=apato][VRoot][=to.gather (ES: juntar), to.meet, to.get.together][--][-re+m.][NS][+NMZ]re[--][-ntsi+alien.][Gen][+nposs]ntsi
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="211.1">
