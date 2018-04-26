@@ -5891,9 +5891,30 @@ ina	[=ina+n.m.+inal@tsi.+voc.][NRoot][=mother; wife (kin.of.a.fe/male)]
         <parsing/>
     </text>
     <text id="228">
-        <sentence lang="prq">Eero paatikiro irora mapi karentsatake, pipariikari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Eero paatikiro irora mapi karentsatake, pipariikari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Eero paatikiro irora mapi karentsatake, pipariikari.</sentence>
         <sentence lang="es">No pises en esa piedra porque está resbalosa; te vas a caer.</sentence>
-        <morphology/>
+        <sentence lang="en">Do not step on that stone, it is slippery; lest you fall.</sentence>
+        <morphology>
+
+
+eero	[=eero][Neg][=NEG.IRR]
+
+paatikiro	[p-][VPers][2S/A+][--][=aatik][VRoot][=to.step, to.foot (ES: pisar)][--][-i][+REAL]i[--][=ro][+3n.m.O]
+
+irora	[=irora+n.m.+medial.b.][PrnDem][=that, whachamacallit]
+
+mapi	[=mapi+n.m.+poss@ni:ne.][NRoot][=stone; rock]
+
+karentsatake	[=karentsa][VRoot][=to.be.phlegmy (ES: estar.flemoso); to.be.viscous (ES: estar.viscoso); to.be.slippery (ES: estar.resbaloso)][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e
+
+,	,[$.]
+
+pipariikari	[pi-][VPers][2S/A+][--][=pari][VRoot][=to.fall (ES: caer)][--][-i][+IRR]i[--][-kari][MODAL][+APPR][=lest (in.order.to.prevent; ES: ¡cuidado!)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="229">
