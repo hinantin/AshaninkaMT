@@ -5690,6 +5690,7 @@ kametsa	[=kametsa][NRoot][=well, good]
         <sentence lang="prq" normalizationlevel="none">Okantashiyetashita atiri ikenkishiriamento.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Okantashiyetashita atiri ikenkishiriamento.</sentence>
         <sentence lang="es">Las personas tienen diferentes ideas.</sentence>
+        <sentence lang="en">People's ideas are different.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -5705,9 +5706,29 @@ ikenkishiriamento	[i-][NPers][3m.poss+][--][=kenkishiri][VRoot][=to.believe, to.
         <parsing/>
     </text>
     <text id="220">
-        <sentence lang="prq">Itonkabetaka paa jamani iro kantimaetacha te robamayeri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Itonkabetaka paa jamani iro kantimaetacha te robamayeri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Itonkavetaka paa hamani iro kantimaetacha te rovamayeri.</sentence>
         <sentence lang="es">Mi papá baleó un majás, pero no lo mató.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+itonkavetaka	[i-][VPers][3m.S/A+][--][=tonk][VRoot][=to.shoot (ES: balear); to.burst][--][-a][+EP]a[--][-ve][+FRUS][=in.vain (ES: casi)]ve[--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-a][+REAL]a
+
+paa	[=paa+m.][NRoot][=father (kin.of.a.fe/male)]
+
+hamani	[=hamani+m.][NRoot][=rodent.sp., paca (ES: picuro, majás, majas, majaz, zamaño; sci.nm.: coelogenus.paca)]
+
+iro	[=iro][ConnRoot][=but (ES: pero)]
+
+kantimaetacha	[=kantimaetacha][ConnRoot][=but (ES: pero)]
+
+te	[=te+future.neg.][Neg][=NEG.REAL]
+
+rovamayeri	[r-][VPers][3m.S/A+][--][=ovam][VRoot][=to.kill, to.murder, to.assassinate (ES: matar)][--][-a][+EP]a[--][-ye][+IRR]ye[--][=ri][+3m.O]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="221">
