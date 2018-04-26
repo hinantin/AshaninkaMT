@@ -5921,7 +5921,7 @@ pipariikari	[pi-][VPers][2S/A+][--][=pari][VRoot][=to.fall (ES: caer)][--][-i][+
         <sentence lang="prq" normalizationlevel="none">Ratsikakeri matsontsori tyaapa rookanakeri kashetaeni ibatsa.</sentence>
         <sentence lang="prq" normalizationlevel="none">Ratsikakeri matsontsori tyaapa rookanakeri kashetaeni ivatsa.</sentence>
         <sentence lang="es">El tigre comió a la gallina y dejó un pedazo de carne.</sentence>
-        <sentence lang="en">The jaguar bit the chicken, it left a piece of meat.</sentence>
+        <sentence lang="en">The jaguar bit the hen, it left a piece of meat.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -5943,9 +5943,24 @@ ivatsa	[i-][NPers][3m.poss+][--][=vatsa+n./m.+inal@tsi.][NRoot][=meat (ES: carne
         <parsing/>
     </text>
     <text id="230">
-        <sentence lang="prq">Ikiakeri kashiri Aroshi rootake kaari rootaperotantaari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikiakeri kashiri Aroshi rootake kaari rootaperotantaari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikiakeri kashiri Aroshi rootake kaari rootaperotantaari.</sentence>
         <sentence lang="es">La luna cargó a Aroshi, por eso ya no alumbra bien.</sentence>
-        <morphology/>
+        <sentence lang="en">The moon carried Aroshi, that's why it does not light well.</sentence>
+        <morphology>
+
+
+ikiakeri	[i-][VPers][3m.S/A+][--][=ky][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=ri][NS][+REL]
+
+kashiri	[=kashiri+m.][NRoot][=moon (ES: luna); month (ES: mes); lunar.deity]
+
+rootake	[=rootake+cntr.exh.l.+foc.][PrnPers][+3SG.n.m.][=that's.why, she; she.is (ES: ella.es)]
+
+kaari	[=kaari][Neg][=NEG.COP (EN: not.be, this.is.not.so; ES: no.es,, ¿por.qué.no?,, ¿no.es?)]
+
+rootaperotantaari	[r-][VPers][3m.S/A+][--][=oot][VRoot][=to.light (ES: alumbrar, encender)][--][-a][+EP]a[--][-pero][DEGR][+AUG][=indeed, truly, verity]pero[--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-a][+EP]a[--][-a][+REAL]a[--][=ri][+3m.O]
+
+</morphology>
         <parsing/>
     </text>
     <text id="231">
