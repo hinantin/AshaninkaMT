@@ -5662,9 +5662,28 @@ ashisho	[=ashisho][NRoot][=person's.name; NP]
         <parsing/>
     </text>
     <text id="218">
-        <sentence lang="prq">Kantapookitaka itanto Shabashi te robetsikaperotero kametsa.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Kantapookitaka itanto Shabashi te robetsikaperotero kametsa.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Kantapookitaka itanto Shavashi te rovetsikaperotero kametsa.</sentence>
         <sentence lang="es">La pared de la casa de Shawashi está mal hecha.</sentence>
-        <morphology/>
+        <sentence lang="en">Shavashi's walls are badly made, he didn't made them well.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+kantapookitaka	[=kantapooki][VRoot][=to.be.badly.made (ES: estar.mal.hecho)][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-a][+REAL]a
+
+itanto	[i-][NPers][3m.poss+][--][=tanto+n.m.+inal@tsi.][NRoot][=wall (ES: pared); room (ES: cuarto)]
+
+shavashi	[=shavashi][NRoot][=person's.name; NP]
+
+te	[=te+future.neg.][Neg][=NEG.REAL]
+
+rovetsikaperotero	[r-][VPers][3m.S/A+][--][=ovetsik][VRoot][=to.fix; to.make (ES: preparar.comida/bebida); to.create, to.build; to.modify][--][-a][+EP]a[--][-pero][DEGR][+AUG][=indeed, truly, verity]pero[--][-t][+EP]t[--][-e][+IRR]e[--][=ro][+3n.m.O]
+
+kametsa	[=kametsa][NRoot][=well, good]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="219">
