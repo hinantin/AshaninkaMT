@@ -5776,16 +5776,28 @@ tyaapa	[=tyaapa+n.m.+poss@te.][NRoot][=hen; chicken]
 </morphology>
         <parsing/>
     </text>
-    <text id="222">
-        <sentence lang="prq">Robakari kapashiro iitsoki tyaapa.</sentence>
-        <sentence lang="es">La iguana comió el huevo de la gallina.</sentence>
-        <morphology/>
-        <parsing/>
-    </text>
     <text id="223">
-        <sentence lang="prq">Kapeshi kemetaka ibotsore kobana otsapairikita ibatsaki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Kapeshi kemetaka ibotsore kobana otsapairikita ibatsaki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Kapeshi kemetaka ivotsore kovana otsapairikita ivatsaki.</sentence>
         <sentence lang="es">El achuni se parece a la lisa por las rayas que tiene en su cuerpo.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+kapeshi	[=kapeshi+m.+poss@ti.][NRoot][=anteater-like.animal.sp. (ES: achuni; sci.nm.: nasua.nasua); fish.sp.; South-American.coati, ring-tailed.coati (mishasho; sci.nm.: nassua.sp.)]
+
+kemetaka	[=keme][VRoot][=to.be.similar, to.seem, to.resemble, to.be.like][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-a][+IRR]a
+
+ivotsore	[i-][NPers][3m.poss+][--][=potso][VRoot][=to.dye; to.paint (ES: colorear); to.rub.annatto][--][-re+m.][NS][+NMZ]re
+
+kovana	[=kovana][NRoot][=lisa-fish (ES: lisa; sci.nm.: anostomidae, leporinus.friderici)]
+
+otsapairikita	[=otsapairikita][NRoot][=line (ES: línea)]
+
+ivatsaki	[i-][NPers][3m.poss+][--][=vatsa+n./m.+inal@tsi.][NRoot][=meat (ES: carne), mass; flesh, body (ES: cuerpo); inner.part.of.sth. (tender.part, cogollo)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="224">
