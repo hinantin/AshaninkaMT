@@ -5687,9 +5687,21 @@ kametsa	[=kametsa][NRoot][=well, good]
         <parsing/>
     </text>
     <text id="219">
-        <sentence lang="prq">Okantashiyetashita atiri ikenkishiriamento.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Okantashiyetashita atiri ikenkishiriamento.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Okantashiyetashita atiri ikenkishiriamento.</sentence>
         <sentence lang="es">Las personas tienen diferentes ideas.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+okantashiyetashita	[o-][VPers][3n.m.S/A+][--][=kantashiye][VRoot][=to.be.different (ES: ser.diferente)][--][-t][+EP]t[--][-ashi][+APPL.INT][=purpose,(with.the).intent]ashi[--][-t][+EP]t[--][-a][+IRR]a
+
+atiri	[=atiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]
+
+ikenkishiriamento	[i-][NPers][3m.poss+][--][=kenkishiri][VRoot][=to.believe, to.think][--][-a][+EP]a[--][-mento+n.m.][NS][+NMZ.CONCR]mento
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="220">
