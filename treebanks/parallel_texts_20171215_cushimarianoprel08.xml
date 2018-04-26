@@ -5780,6 +5780,7 @@ tyaapa	[=tyaapa+n.m.+poss@te.][NRoot][=hen; chicken]
         <sentence lang="prq" normalizationlevel="none">Kapeshi kemetaka ibotsore kobana otsapairikita ibatsaki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Kapeshi kemetaka ivotsore kovana otsapairikita ivatsaki.</sentence>
         <sentence lang="es">El achuni se parece a la lisa por las rayas que tiene en su cuerpo.</sentence>
+        <sentence lang="en">The achuni-anteater resembles the lisa-fish due to the lines in its body.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -5801,9 +5802,27 @@ ivatsaki	[i-][NPers][3m.poss+][--][=vatsa+n./m.+inal@tsi.][NRoot][=meat (ES: car
         <parsing/>
     </text>
     <text id="224">
-        <sentence lang="prq">Okantakena naana: Pimpena kapichoki pitibine.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Okantakena naana: Pimpena kapichoki pitibine.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Okantakena naana: Pimpena kapichoki pitivine.</sentence>
         <sentence lang="es">Mi mamá me dijo: “Regálame un poco de sal”.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+okantakena	[o-][VPers][3n.m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=na][+1SG.O]
+
+naana	[=naana+n.m.+voc.+poss@te:ti.][NRoot][=mom, mother (kin.of.a.fe/male; ES: mamá)]
+
+:	:[$.]
+
+pimpena	[pi-][VPers][2S/A+][--][N=][IRR+][--][=p][VRoot][=to.give (ES: dar)][--][-e][+REAL]e[--][=na][+1SG.O]
+
+kapichoki	[=kapichoki][AdvRoot][=a.little (ES: poco)]
+
+pitivine	[pi-][NPers][2poss+][--][=tivi+n.m.+poss@ni:ne.][NRoot][=salt (ES: sal)][--][-ne][Gen][+aln.poss.]ne
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="225">
