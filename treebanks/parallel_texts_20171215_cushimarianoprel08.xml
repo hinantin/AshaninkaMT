@@ -5974,13 +5974,13 @@ rootaperotantaari	[r-][VPers][3m.S/A+][--][=oot][VRoot][=to.light (ES: alumbrar,
         <sentence lang="prq" normalizationlevel="none">Añiiri niyankiiteki katsibore imoreki nijaaki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Anyiiri niyankiiteki katsivore imoreki nihaaki.</sentence>
         <sentence lang="es">Vemos a media noche la lamparilla alumbrar sobre el rio.</sentence>
-        <sentence lang="en">We see it in the middle, it burns in the river.</sentence>
+        <sentence lang="en">We see it at midnight, it burns in the river.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 anyiiri	[a-][VPers][1PL.S/A+][--][=ny][VRoot][=to.see, to.look.for; to.visit][--][-ii][+REAL]ii[--][=ri][+3m.O]
 
-niyankiiteki	[niyanki+sem@loc.][AdvRoot][=in.the.center.of.sth., in.the.middle.of.sth.; half (ES: mitad)][--][-ite][DEGR][+AUG][--][-ki][Cas][+LOC_LOC.T]
+niyankiiteki	[=niyankiite][NRoot][=midnight (ES: medianoche)][--][-ki][Cas][+LOC_LOC.T]
 
 katsivore	[=katsivore][NRoot][=nightlight (ES: lamparilla,, espíritu.del.cerro)]
 
