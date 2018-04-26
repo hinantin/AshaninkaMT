@@ -5805,6 +5805,7 @@ ivatsaki	[i-][NPers][3m.poss+][--][=vatsa+n./m.+inal@tsi.][NRoot][=meat (ES: car
         <sentence lang="prq" normalizationlevel="none">Okantakena naana: Pimpena kapichoki pitibine.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Okantakena naana: Pimpena kapichoki pitivine.</sentence>
         <sentence lang="es">Mi mamá me dijo: “Regálame un poco de sal”.</sentence>
+        <sentence lang="en">Mother said to me: "Give me a little salt."</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -5826,15 +5827,46 @@ pitivine	[pi-][NPers][2poss+][--][=tivi+n.m.+poss@ni:ne.][NRoot][=salt (ES: sal)
         <parsing/>
     </text>
     <text id="225">
-        <sentence lang="prq">Pincheke kapiro nakijeekakotantyari jetari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Pincheke kapiro nakijeekakotantyari jetari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Pincheke kapiro nakiheekakotantyari hetari.</sentence>
         <sentence lang="es">Corta paca para cocinar la carachama.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+pincheke	[pi-][VPers][2S/A+][--][N=][IRR+][--][=chek][VRoot][=to.cut (ES: cortar)][--][-e][+REAL]e
+
+kapiro	[=kapiro][NRoot][=bamboo.sp. (ES: paca, especie.de.bambú)]
+
+???
+
+hetari	[=hetari+m.][NRoot][=small.suckermouth.armored.catfish.sp. (ES: carachama; sci.nm.: aphanotorulus.unicolor)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="226">
-        <sentence lang="prq">Iñaanatakeri kapironkari charine iñaapakiri apaniroeni.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iñaanatakeri kapironkari charine iñaapakiri apaniroeni.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Inyaanatakeri kapironkari charine inyaapakiri apaniroeni.</sentence>
         <sentence lang="es">Mi abuelito conversó con el venado cenizo cuando se encontraba solo.</sentence>
-        <morphology/>
+        <sentence lang="en">Grandfather spoke with deer-like demon when he saw it on its own.</sentence>
+        <morphology>
+
+
+inyaanatakeri	[i-][VPers][3m.S/A+][--][=nya][VRoot][=to.speak][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-a][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]a[--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ri][NS][+REL]
+
+kapironkari	[=kapironkari][NRoot][=deer-like.demon (ES: peyari.transformado.en.un.venado)]
+
+charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male); grandson (ES: nieto)]
+
+inyaapakiri	[i-][VPers][3m.S/A+][--][=ny][VRoot][=to.see, to.look.for; to.visit][--][-a][+EP]a[--][-ap+goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-ak][ASP][+PRF]ak[--][-i][+IRR]i[--][=ri][+3m.O]
+
+apaniroeni	[=apaniro][NRoot][=on.one's.own][--][-eni][+ADV]::[=solely]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="227">
