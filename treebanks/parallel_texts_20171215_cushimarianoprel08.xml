@@ -5960,6 +5960,8 @@ kaari	[=kaari][Neg][=NEG.COP (EN: not.be, this.is.not.so; ES: no.es,, ¿por.qué
 
 rootaperotantaari	[r-][VPers][3m.S/A+][--][=oot][VRoot][=to.light (ES: alumbrar, encender)][--][-a][+EP]a[--][-pero][DEGR][+AUG][=indeed, truly, verity]pero[--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-a][+EP]a[--][-a][+REAL]a[--][=ri][+3m.O]
 
+.	.[$.]
+
 </morphology>
         <parsing>
 
@@ -5969,9 +5971,26 @@ rootaperotantaari	[r-][VPers][3m.S/A+][--][=oot][VRoot][=to.light (ES: alumbrar,
 </parsing>
     </text>
     <text id="231">
-        <sentence lang="prq">Añiiri niyankiiteki katsibore imoreki nijaaki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Añiiri niyankiiteki katsibore imoreki nijaaki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Anyiiri niyankiiteki katsivore imoreki nihaaki.</sentence>
         <sentence lang="es">Vemos a media noche la lamparilla alumbrar sobre el rio.</sentence>
-        <morphology/>
+        <sentence lang="en">We see it in the middle, it burns in the river.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+anyiiri	[a-][VPers][1PL.S/A+][--][=ny][VRoot][=to.see, to.look.for; to.visit][--][-ii][+REAL]ii[--][=ri][+3m.O]
+
+niyankiiteki	[niyanki+sem@loc.][AdvRoot][=in.the.center.of.sth., in.the.middle.of.sth.; half (ES: mitad)][--][-ite][DEGR][+AUG][--][-ki][Cas][+LOC_LOC.T]
+
+katsivore	[=katsivore][NRoot][=nightlight (ES: lamparilla,, espíritu.del.cerro)]
+
+imoreki	[i-][VPers][3m.S/A+][--][=morek][VRoot][=to.burn (ES: arder)][--][-i][+IRR]i
+
+nihaaki	[=nihaa+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="232">
