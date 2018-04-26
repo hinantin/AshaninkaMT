@@ -5851,7 +5851,7 @@ hetari	[=hetari+m.][NRoot][=small.suckermouth.armored.catfish.sp. (ES: carachama
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Inyaanatakeri kapironkari charine inyaapakiri apaniroeni.</sentence>
         <sentence lang="es">Mi abuelito conversó con el venado cenizo cuando se encontraba solo.</sentence>
         <sentence lang="en">Grandfather spoke with deer-like demon when he saw it alone.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 inyaanatakeri	[i-][VPers][3m.S/A+][--][=nya][VRoot][=to.speak][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-a][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]a[--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ri][NS][+REL]
@@ -5870,9 +5870,24 @@ apaniroeni	[=apaniro][NRoot][=on.one's.own][--][-eni][+ADV]::[=solely]
         <parsing/>
     </text>
     <text id="227">
-        <sentence lang="prq">Ikaraakero yeye inchakiire ina.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikaraakero yeye inchakiire ina.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikaraakero yeye inchakiire ina.</sentence>
         <sentence lang="es">Mi hermano quebró el palo de mi madre.</sentence>
-        <morphology/>
+        <sentence lang="en">Brother broke mother's stick.</sentence>
+        <morphology>
+
+
+ikaraakero	[i-][VPers][3m.S/A+][--][=kar][VRoot][=to.break (ES: quebrar)][--][-a][+EP]a[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ro][+3n.m.O]
+
+yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
+
+inchakiire	[i-][NPers][3m.poss+][--][=incha][NRoot][=plant][--][-kii][+CL:long,thin.branch][=long,thin.branch; stick.like.(with.a.sharp.pointed.end)][--][-re][Gen][+aln.poss.]re
+
+ina	[=ina+n.m.+inal@tsi.+voc.][NRoot][=mother; wife (kin.of.a.fe/male)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="228">
