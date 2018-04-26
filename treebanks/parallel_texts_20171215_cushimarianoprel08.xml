@@ -5733,15 +5733,46 @@ rovamayeri	[r-][VPers][3m.S/A+][--][=ovam][VRoot][=to.kill, to.murder, to.assass
         <parsing/>
     </text>
     <text id="221">
-        <sentence lang="prq">Robabo kapararo inchakitso pariakitatsiri nijaaki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Robabo kapararo inchakitso pariakitatsiri nijaaki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovavo kapararo inchakitso pariakitatsiri nihaaki.</sentence>
         <sentence lang="es">La sardina come frutos de moena que caen al agua.</sentence>
-        <morphology/>
+        <sentence lang="en">The sardine eats moena-tree fruits that fall in the water.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+rovavo	[r-][NPers][3m.poss+][--][=ov][VRoot][=to.eat (ES: comer)][--][-a][+EP]a[--][-vo+n.m.][NS][+NMZ]vo
+
+kapararo	[=kapararo+m.][NRoot][=sardine.sp. (ES: sp.de.sardina)]
+
+inchakitso	[=inchakitso][NRoot][=tree.sp. (ES: moena, sp.de.árbol)]
+
+pariakitatsiri	[=paria][VRoot][=to.fall (ES: caer)][--][-ki][+CL:S.R.H][=small,round(ed);hard;seed-like]ki[--][-t][+EP]t[--][-atsi][Asp][+STAT.IPRF]atsi[--][=ri][NS][+REL]
+
+nihaaki	[=nihaa+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="222">
-        <sentence lang="prq">Robakari kapashiro iitsoki tyaapa.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Robakari kapashiro iitsoki tyaapa.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovakari kapashiro iitsoki tyaapa.</sentence>
         <sentence lang="es">La iguana comió el huevo de la gallina.</sentence>
-        <morphology/>
+        <morphology>
+
+
+rovakari	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-ak][ASP][+PRF]ak[--][-a][+REAL]a[--][=ri][+3m.O]
+
+kapashiro	[=kapashiro][NRoot][=iguana.sp.]
+
+iitsoki	[i-][NPers][3m.poss+][--][=kitsoki][NRoot][=egg (huevo); seed (ES: semilla)]
+
+tyaapa	[=tyaapa+n.m.+poss@te.][NRoot][=hen; chicken]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="222">
