@@ -5895,7 +5895,7 @@ ina	[=ina+n.m.+inal@tsi.+voc.][NRoot][=mother; wife (kin.of.a.fe/male)]
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Eero paatikiro irora mapi karentsatake, pipariikari.</sentence>
         <sentence lang="es">No pises en esa piedra porque está resbalosa; te vas a caer.</sentence>
         <sentence lang="en">Do not step on that stone, it is slippery; lest you fall.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 eero	[=eero][Neg][=NEG.IRR]
@@ -5918,9 +5918,28 @@ pipariikari	[pi-][VPers][2S/A+][--][=pari][VRoot][=to.fall (ES: caer)][--][-i][+
         <parsing/>
     </text>
     <text id="229">
-        <sentence lang="prq">Ratsikakeri matsontsori tyaapa rookanakeri kashetaeni ibatsa.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ratsikakeri matsontsori tyaapa rookanakeri kashetaeni ibatsa.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ratsikakeri matsontsori tyaapa rookanakeri kashetaeni ivatsa.</sentence>
         <sentence lang="es">El tigre comió a la gallina y dejó un pedazo de carne.</sentence>
-        <morphology/>
+        <sentence lang="en">The jaguar bit the chicken, it left a piece of meat.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ratsikakeri	[r-][VPers][3m.S/A+][--][=atsik][VRoot][=to.bite (ES: morder.(sujeto.animado))][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+matsontsori	[=matsontsori][NRoot][=jaguar (ES: tigrillo; sci.nm.: leopardus.pardalis, Leopardus.wiedii)]
+
+tyaapa	[=tyaapa+n.m.+poss@te.][NRoot][=hen; chicken]
+
+rookanakeri	[r-][VPers][3m.S/A+][--][=ook][VRoot][=to.abandon; to.leave (ES: dejar); to.throw; to.throw.away/out (ES: botar)][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=ri][+3m.O]
+
+kashetaeni	[=kashetaeni][NRoot][=half (ES: mitad); piece (ES: pedazo)]
+
+ivatsa	[i-][NPers][3m.poss+][--][=vatsa+n./m.+inal@tsi.][NRoot][=meat (ES: carne), mass; flesh, body (ES: cuerpo); inner.part.of.sth. (tender.part, cogollo)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="230">
