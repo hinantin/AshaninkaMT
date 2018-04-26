@@ -5961,7 +5961,12 @@ kaari	[=kaari][Neg][=NEG.COP (EN: not.be, this.is.not.so; ES: no.es,, ¿por.qué
 rootaperotantaari	[r-][VPers][3m.S/A+][--][=oot][VRoot][=to.light (ES: alumbrar, encender)][--][-a][+EP]a[--][-pero][DEGR][+AUG][=indeed, truly, verity]pero[--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-a][+EP]a[--][-a][+REAL]a[--][=ri][+3m.O]
 
 </morphology>
-        <parsing/>
+        <parsing>
+
+
+#| "[=rootake][ConnRoot][=it.is (ES: esto.es); that's.why (ES: por.eso.es)]" : {rootake}
+
+</parsing>
     </text>
     <text id="231">
         <sentence lang="prq">Añiiri niyankiiteki katsibore imoreki nijaaki.</sentence>
