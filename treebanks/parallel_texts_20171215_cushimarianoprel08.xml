@@ -6041,9 +6041,24 @@ entsi	[=entsi+n./m.+poss@te.][NRoot][=child (ES: niño)]
         <parsing/>
     </text>
     <text id="234">
-        <sentence lang="prq">Nokemakero osheki katsinkaiteri tsireniriki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Nokemakero osheki katsinkaiteri tsireniriki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Nokemakero osheki katsinkaiteri tsireniriki.</sentence>
         <sentence lang="es">Sentí mucho frío en la noche.</sentence>
-        <morphology/>
+        <sentence lang="en">I felt a lot of cold at night.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+nokemakero	[no-][VPers][1SG.S/A+][--][=kem][VRoot][=to.hear, to.listen; to.sense (ES: sentir)][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=ro][+3n.m.O]
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+katsinkaiteri	[=katsinkaite][VRoot][=to.be.cold][--][-ri+m.][NS][+NMZ]ri
+
+tsireniriki	[=tsireniri][NRoot][=night (ES: noche)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="235">
