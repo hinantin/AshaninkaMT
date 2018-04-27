@@ -6062,9 +6062,23 @@ tsireniriki	[=tsireniri][NRoot][=night (ES: noche)][--][-ki][Cas][+LOC_LOC.T]
         <parsing/>
     </text>
     <text id="235">
-        <sentence lang="prq">Raanakero katsitori robanabo imooshiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Raanakero katsitori robanabo imooshiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Raanakero katsitori rovanavo imooshiki.</sentence>
         <sentence lang="es">La hormiga llevó su comida a su nido.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+raanakero	[r-][VPers][3m.S/A+][--][=a][VRoot][=to.take (ES: agarrar)][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ro][+3n.m.O]
+
+katsitori	[=katsitori+m.][NRoot][=ant.sp. (ES: sp.de.hormiga)]
+
+rovanavo	[r-][NPers][3m.poss+][--][=ovanavo+n.m.+inal@ntsi.][NRoot][=staple.food, necessity.good; food (ES: comida)]
+
+imooshiki	[i-][NPers][3m.poss+][--][=moo+n.m.+inal@tsi.][NRoot][=hole (ES: hueco)][--][-shi][+CL:L.S.T.F.F][=leaf;small,thin,flexible,flat;leafy.substance][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="236">
