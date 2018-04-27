@@ -5994,15 +5994,50 @@ nihaaki	[=nihaa+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)][--]
         <parsing/>
     </text>
     <text id="232">
-        <sentence lang="prq">Ijaantakoti konki katsikori robantyaabori iyaniri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ijaantakoti konki katsikori robantyaabori iyaniri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ihaantakoti konki katsikori rovantyaavori iyaniri.</sentence>
         <sentence lang="es">Mi suegro saca hormigas comestibles de la tierra para comerlas con su yuca.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+???
+
+konki	[=konki+m.][NRoot][=father; father.in.law; uncle (kin.of.a.male; ES: suegro)]
+
+katsikori	[=katsikori][NRoot][=edible.ant.sp. (ES: sp.de.hormiga.comestible)]
+
+rovantyaavori	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-yaa][+REAL]yaa[--][=vo][+3n.m.O][--][=ri][NS][+REL]
+
+iyaniri	[i-][NPers][3m.poss+][--][=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; sci.nm.: manihot.sculenta)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="233">
-        <sentence lang="prq">Irika katsimari otsitsi ratsikakeri rakoki entsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Irika katsimari otsitsi ratsikakeri rakoki entsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Irika katsimari otsitsi ratsikakeri rakoki entsi.</sentence>
         <sentence lang="es">Este perro malo mordió la mano del niño.</sentence>
-        <morphology/>
+        <sentence lang="en">This rabid dog bit the kid's hand.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+irika	[=irika+m.+proximal][PrnDem][=this (ES: este)]
+
+katsimari	[=katsimari][AdjRoot][=bad (ES: malo); fierce, rabid (ES: bravo, rabioso)]
+
+otsitsi	[=otsitsi+m.+poss@te.][NRoot][=dog (ES: perro)]
+
+ratsikakeri	[r-][VPers][3m.S/A+][--][=atsik][VRoot][=to.bite (ES: morder.(sujeto.animado))][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=ri][NS][+REL]
+
+rakoki	[r-][NPers][3m.poss+][--][=ako+n.m.+inal@tsi.][NRoot][=arm][--][-ki][Cas][+LOC_LOC.T]
+
+entsi	[=entsi+n./m.+poss@te.][NRoot][=child (ES: niño)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="234">
