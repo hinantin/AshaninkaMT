@@ -6065,6 +6065,7 @@ tsireniriki	[=tsireniri][NRoot][=night (ES: noche)][--][-ki][Cas][+LOC_LOC.T]
         <sentence lang="prq" normalizationlevel="none">Raanakero katsitori robanabo imooshiki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Raanakero katsitori rovanavo imooshiki.</sentence>
         <sentence lang="es">La hormiga llevó su comida a su nido.</sentence>
+        <sentence lang="en">The ant took food to its nest.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
