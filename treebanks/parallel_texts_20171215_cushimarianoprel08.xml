@@ -6125,9 +6125,21 @@ kayetsi	[=kayetsi][NRoot][=bad.hunter (ES: afasi, que.no.sabe.cazar, mal.cazador
         <parsing/>
     </text>
     <text id="237.2">
-        <sentence lang="prq">Irika kayetsi tekatsi robakaeyabo iina.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Irika kayetsi tekatsi robakaeyabo iina.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Irika kayetsi tekatsi rovakaeyavo iina.</sentence>
         <sentence lang="es">Este afasi no tiene nada que darle de comer a su mujer.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+irika	[=irika+m.+proximal][PrnDem][=this (ES: este)]
+
+kayetsi	[=kayetsi][NRoot][=bad.hunter (ES: afasi, que.no.sabe.cazar, mal.cazador)]
+
+tekatsi	[=tekatsi][Neg][=NEG.EXIST (EN: there.is.nothing); NOT.POSSESS]
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="238">
