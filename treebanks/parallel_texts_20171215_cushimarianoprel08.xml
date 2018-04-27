@@ -6104,8 +6104,10 @@ otsipa	[o-][NPers][3n.m.poss+][--][=otsipa+n.m.][NRoot][=other, another]
         <parsing/>
     </text>
     <text id="237.1">
-        <sentence lang="prq">Aashitakari choeni shirampari kayetsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Aashitakari choeni shirampari kayetsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Aashitakari choeni shirampari kayetsi.</sentence>
         <sentence lang="es">Mi hermana se casó con un hombre afasi.</sentence>
+        <sentence lang="en">Sister ... with a bad hunter.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -6123,7 +6125,7 @@ kayetsi	[=kayetsi][NRoot][=bad.hunter (ES: afasi, que.no.sabe.cazar, mal.cazador
         <parsing/>
     </text>
     <text id="237.2">
-        <sentence lang="prq">Iika kayetsi tekatsi robakaeyabo iina.</sentence>
+        <sentence lang="prq">Irika kayetsi tekatsi robakaeyabo iina.</sentence>
         <sentence lang="es">Este afasi no tiene nada que darle de comer a su mujer.</sentence>
         <morphology/>
         <parsing/>
