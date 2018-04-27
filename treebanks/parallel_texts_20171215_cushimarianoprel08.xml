@@ -6106,7 +6106,20 @@ otsipa	[o-][NPers][3n.m.poss+][--][=otsipa+n.m.][NRoot][=other, another]
     <text id="237.1">
         <sentence lang="prq">Aashitakari choeni shirampari kayetsi.</sentence>
         <sentence lang="es">Mi hermana se casó con un hombre afasi.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+aashitakari	[=aashi][VRoot][=to. (ES: pusanguear,, dar.brebaje, ,, embrujar)][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-a][+REAL]a[--][=ri][+3m.O]
+
+choeni	[=choeni+n.m.][NRoot][=sister (kin.of.a.male, male.ego)]
+
+shirampari	[=shirampari+m.][NRoot][=man; male (ES: hombre)]
+
+kayetsi	[=kayetsi][NRoot][=bad.hunter (ES: afasi, que.no.sabe.cazar, mal.cazador)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="237.2">
