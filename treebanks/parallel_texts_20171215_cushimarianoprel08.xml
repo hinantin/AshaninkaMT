@@ -6083,9 +6083,23 @@ imooshiki	[i-][NPers][3m.poss+][--][=moo+n.m.+inal@tsi.][NRoot][=hole (ES: hueco
         <parsing/>
     </text>
     <text id="236">
-        <sentence lang="prq">Katsobatake pipanko pobetsike otsipa.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Katsobatake pipanko pobetsike otsipa.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Katsovatake pipanko povetsike otsipa.</sentence>
         <sentence lang="es">Tu casa tiene goteras; construye otra.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+katsovatake	[=katsova][VRoot][=to.drip, to.leak.from.roof][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-e][+REAL]e
+
+pipanko	[pi-][NPers][2poss+][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)]
+
+povetsike	[p-][VPers][2S/A+][--][=ovetsik][VRoot][=to.fix; to.make (ES: preparar.comida/bebida); to.create, to.build; to.modify][--][-e][+REAL]e
+
+otsipa	[o-][NPers][3n.m.poss+][--][=otsipa+n.m.][NRoot][=other, another]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="237.1">
