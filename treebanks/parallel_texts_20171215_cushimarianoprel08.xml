@@ -6200,7 +6200,12 @@ yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: h
     <text id="240">
         <sentence lang="prq">Obakeri anirio eentsite ikeboki imaantyaari.</sentence>
         <sentence lang="es">Mi nuera puso a su bebé en la hamaca para que duerma.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="241">
