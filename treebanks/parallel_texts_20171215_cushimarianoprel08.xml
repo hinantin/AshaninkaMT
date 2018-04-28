@@ -6148,9 +6148,32 @@ iina	[i-][NPers][3m.poss+][--][=iina+n.m.+inal@tsi.][NRoot][=mother; wife (kin.o
         <parsing/>
     </text>
     <text id="238">
-        <sentence lang="prq">Okantana nana: Pinkebero pako aririka poya obanabontsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Okantana nana: Pinkebero pako aririka poya obanabontsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Okantana nana: Pinkevero pako aririka poya ovanavontsi.</sentence>
         <sentence lang="es">Mi mamá me dice: “Lávate las manos antes de comer”.</sentence>
-        <morphology/>
+        <sentence lang="en">Mother says to me: "Wash your hands when you eat the food".</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+okantana	[o-][VPers][3n.m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-a][+REAL]a[--][=na][+1SG.O]
+
+nana	[=nana+n.m.+voc.+poss@te:ti.][NRoot][=mom, mother (kin.of.a.fe/male; ES: mamá)]
+
+:	:[$.]
+
+pinkevero	[pi-][VPers][2S/A+][--][N=][IRR+][--][=kev][VRoot][=to.wash (ES: lavar)][--][-e][+IRR]e[--][=ro][+3n.m.O]
+
+pako	[p-][NPers][2poss+][--][=ako+n.m.+inal@tsi.][NRoot][=hand (ES: mano)]
+
+aririka	[=ari][PostPol][=PP][--][-rika][+COND]::[WhPrn][=when]
+
+poya	[p-][VPers][2S/A+][--][=o][VRoot][=to.eat (ES: comer)][--][-ya][+IRR]ya
+
+ovanavontsi	[=ovanavo+n.m.+inal@ntsi.][NRoot][=staple.food, necessity.good; food (ES: comida)][--][-ntsi+alien.][Gen][+nposs]ntsi
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="239">
