@@ -6283,9 +6283,24 @@ tashirentsi	[=tashire+n./m.+inal.][AdjRoot][=roasted (i.e.: kaniri/manioc, shima
         <parsing/>
     </text>
     <text id="244">
-        <sentence lang="prq">Kemijantsinkari tee robari koryo.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Kemijantsinkari tee robari koryo.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Kemihantsinkari tee rovari koryo.</sentence>
         <sentence lang="es">Los adventistas no comen bagre.</sentence>
-        <morphology/>
+        <sentence lang="en">The believers do not eat catfish.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+kemihantsinkari	[=kemihan][VRoot][=to.pay.attention; to.believe; to.obey][--][-tsinkari+m.][NS][+ADJ.NMZ]tsinkari
+
+tee	[=tee+future.neg.][Neg][=NEG.REAL]
+
+rovari	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-a][+REAL]a[--][=ri][+3m.O]
+
+koryo	[=koryo][NRoot][=fish.var., catfish.sp. (ES: cunchi; sp.de.bagre/pez)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="245">
