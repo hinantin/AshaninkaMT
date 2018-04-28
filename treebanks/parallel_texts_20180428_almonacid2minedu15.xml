@@ -1,0 +1,8 @@
+<parallel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="parallel_texts.xsd">
+    <text id="1.0">
+        <sentence lang="prq">Sheripiari aisati oaratanta</sentence>
+        <sentence lang="es">El curandero y el sapito</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+</parallel>
