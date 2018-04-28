@@ -6325,9 +6325,27 @@ irakoki	[ir-][NPers][3m.poss+][--][=ako+n.m.+inal@tsi.][NRoot][=hand (ES: mano)]
         <parsing/>
     </text>
     <text id="246">
-        <sentence lang="prq">Ijeeki kempiti omoonaki kipatsi eejati shiranta.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ijeeki kempiti omoonaki kipatsi eejati shiranta.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iheeki kempiti omoonaki kipatsi eehati shiranta.</sentence>
         <sentence lang="es">La carachama vive en el hueco de la tierra y de las rocas.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+iheeki	[i-][VPers][3m.S/A+][--][=heek][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir); to.be][--][-i][+IRR]i
+
+kempiti	[=kempiti][NRoot][=armored.catfish (ES: carachama; sci.nm.: plecostomus.sp., hypostomus.sp.), fish.sp.]
+
+omoonaki	[o-][NPers][3n.m.poss+][--][=moo+n.m.+inal@tsi.][NRoot][=hole (ES: hueco)][--][-na][+CL:large,deep.pool.of.water][=large,deep.pool.of.water; stagnant.water.pool][--][-ki][Cas][+LOC_LOC.T]
+
+kipatsi	[=kipatsi+n.m.+poss@te:ti.][NRoot][=ground, mud, earth; land]
+
+eehati	[=eehati][ConnRoot][=also (ES: también); and (ES: y)]
+
+shiranta	[=shiranta+n.m.][NRoot][=flagstone, flag, flat.stone (ES: laja, roca.plana); boulder (ES: peña.dentro.del.agua)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="247">
