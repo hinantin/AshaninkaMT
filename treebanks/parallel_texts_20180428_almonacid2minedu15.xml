@@ -17,4 +17,66 @@
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.3">
+        <sentence lang="prq">ikentakeri ¡tsekik…!</sentence>
+        <sentence lang="es">lo picó con su flecha ¡tsak…!</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.4">
+        <sentence lang="prq">yaanakeri,</sentence>
+        <sentence lang="es">y se lo llevó,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.5">
+        <sentence lang="prq">ari abakeri antyaro inkani,</sentence>
+        <sentence lang="es">entonces comenzó a llover muy fuerte.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.6">
+        <sentence lang="prq">yaitaparo kamonashi, kompiroshi yobatikakotakero inkani, intsititantyari.</sentence>
+        <sentence lang="es">Rápidamente el curandero cortó hojas de yarina para construir una ramadita y protegerse de la lluvia.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.7">
+        <sentence lang="prq">
+
+
+Meka ipokashitakeri masherotatsiri yora oratanta,
+ipitiankapaka, yamenakeri sheripiari, yaitaro ibocharote yatsotakero,
+ikantake: noñantabakerita yoka oaratanta, nontiritabakerita
+nobocharote ityokiki, nonkajentakotantyariri. Ineabakerikea
+yashaninkatanake. 
+
+</sentence>
+        <sentence lang="es">
+
+
+De pronto llegó un sapito bien raro, y el curandero empezó a burlarse
+sin saber que era el diablo. 
+
+El curandero sacó de su morral su tabaco
+que estaba lleno en su capiro (especie de bambú), chupó un poco y
+luego le frotó en la rabadilla y las ancas del sapito, y de pronto éste
+comenzó a convertirse en persona.
+
+</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.8">
+        <sentence lang="prq">Sheripiari ipeanaka tsonkiri yarasanotanake,</sentence>
+        <sentence lang="es">El curandero rápidamente se convirtió en un picaflor.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.9">
+        <sentence lang="prq">ikoabeta irayerime inkarajerime yoka, oaratanta ikamaritanake, te irayeriji.</sentence>
+        <sentence lang="es">El sapito diablo comenzó a seguirle para fracturarle sus huesos, pero no lo alcanzó.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
