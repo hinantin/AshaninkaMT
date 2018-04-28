@@ -6208,7 +6208,13 @@ ovakeri	[o-][VPers][3n.m.S/A+][--][=v][VRoot][=to.put, to.place (ES: poner, colo
 
 anirio	[=anirio+n.m.][NRoot][=daughter.in.law (kin.of.a.male, male.ego)]
 
+eentsite	[=eentsi+n./m.+poss@te.][NRoot][=child (ES: niño)][--][-i^te][DEGR][+AUG]te
 
+ikevoki	[i-][NPers][3m.poss+][--][=kevo+n.m.+inal@tsi.][NRoot][=hammock (ES: hamaca)][--][-ki][Cas][+LOC_LOC.T]
+
+imaantyaari	[i-][VPers][3m.S/A+][--][=ma][VRoot][=to.sleep (ES: dormir)][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-yaa][+IRR]yaa[--][=ri][NS][+REL]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
