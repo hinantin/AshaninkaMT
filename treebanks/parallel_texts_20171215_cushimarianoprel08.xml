@@ -6237,21 +6237,48 @@ iro	[=iro+cont.d.top.][PrnPers][+3SG.n.m.][=she, it; that's why]
 
 rakantakamiri	[r-][VPers][3m.S/A+][--][=ak][VRoot][=to.answer.back (ES: contestar, responder)][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-ak][ASP][+PRF]ak[--][-a][+REAL.RFL]a[--][=mi][+2SG.O][--][=ri][+3m.O]
 
-
+.	.[$.]
 
 </morphology>
         <parsing/>
     </text>
     <text id="242">
-        <sentence lang="prq">Ikaaboshita kemari tsimiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikaaboshita kemari tsimiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikaavoshita kemari tsimiki.</sentence>
         <sentence lang="es">La sachavaca se baña en la colpa.</sentence>
-        <morphology/>
+        <sentence lang="en">The South American tapir bathes in the clay lick.</sentence>
+        <morphology>
+
+
+ikaavoshita	[i-][VPers][3m.S/A+][--][=kaavoshi][VRoot][=to.bathe (ES: bañar)][--][-t][+EP]t[--][-a][+REAL]a
+
+kemari	[=kemari+m.+poss@ti.][NRoot][=South.American.tapir (ES: sachavaca, danta, tapir; sci.nm.: tapirus.americanus, tapirus.terrestris), pig-like.animal (PT: anta)]
+
+tsimiki	[=tsimi+n.m.+poss@ne.][NRoot][=macaw-and-parrot.clay.lick (QU: qullpa, ES: colpa); clean.water.well.where.animals.go.to.drink, water.hole][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="243">
-        <sentence lang="prq">Robatya ani kemi tashirentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Robatya ani kemi tashirentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovatya ani kemi tashirentsi.</sentence>
         <sentence lang="es">Mi cuñado come zapallo asado.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+rovatya	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-a][+REP][=again.and.again]a[--][-t][+EP]t[--][-eya][+IRR.RFL]eya
+
+ani	[=ani+m.][NRoot][=grandpa, grandfather (kin.of.a.male)]
+
+kemi	[=kemi+n.m.+poss@ne.][NRoot][=pumpkin.sp. (ES: zapallo, calabaza; botany.nm.: cucurbita.sp.); squash]
+
+tashirentsi	[=tashire+n./m.+inal.][AdjRoot][=roasted (i.e.: kaniri/manioc, shima/fish, kemi/pumpkin)][--][-ntsi+alien.][Gen][+nposs]ntsi
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="244">
