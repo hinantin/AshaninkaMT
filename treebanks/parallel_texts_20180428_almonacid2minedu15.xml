@@ -64,7 +64,26 @@ luego le frotó en la rabadilla y las ancas del sapito, y de pronto éste
 comenzó a convertirse en persona.
 
 </sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+nobocharote	[no-][NPers][1SG.poss+][--][=pocharo+n.m.][NRoot][=tobacco (ES: tabaco; sci.nm.: nicotiana.tabacum); psychoactive.drug][--][-te][Gen][+aln.poss.]te
+
+nontiritabakerita	[no-][VPers][1SG.S/A+][--][N=][IRR+][--][=tiri][VRoot][=to.rub, to.anoint (ES: frotar, sobar)][--][-t][+EP]t[--][-av+object.oriented][ADV][+DIR][=contrary,opposite]av[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ri][+3m.O][--][=ta][MODAL][+OPT_SUBJ]
+
+ityokiki	[i-][NPers][3m.poss+][--][=tyoki+inal@tsi.][NRoot][=buttock (ES: nalga); external.bottom.part (ES: parte.inferior.externa)][--][-ki][Cas][+LOC_LOC.T]
+
+nonkajentakotantyariri	[no-][VPers][1SG.S/A+][--][N=][IRR+][--][=kahen][VRoot][=to.itch (ES: dar.comezón/escozor/picazón)][--][-t][+EP]t[--][-ako][+APPL.GEN][=with.reference.to.sth.; about.sth.]ako[--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-eya][+IRR.RFL]eya[--][=ri][+3m.O][--][=ri][NS][+REL]
+
+.	.[$.]
+
+ineabakerikea	[i-][VPers][3m.S/A+][--][=ne][VRoot][=to.see, to.look.for; to.visit][--][-av+object.oriented][ADV][+DIR][=contrary,opposite]av[--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=ri][+3m.O][--][=kea][MODAL][+O.FOC]
+
+yashaninkatanake	[y-][VPers][3m.S/A+][--][=ashaninka][NRoot][=indigenous.person.that.lives.in.the.in.the.central.adjoining.Amazonian.regions.between.Peru-and-Brazil]::[=to.become.Ashaninka]+vbz.[--][-t][+EP]t[--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.8">
