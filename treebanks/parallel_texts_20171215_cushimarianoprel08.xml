@@ -6198,10 +6198,15 @@ yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: h
         <parsing/>
     </text>
     <text id="240">
-        <sentence lang="prq">Obakeri anirio eentsite ikeboki imaantyaari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Obakeri anirio eentsite ikeboki imaantyaari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ovakeri anirio eentsite ikevoki imaantyaari.</sentence>
         <sentence lang="es">Mi nuera puso a su bebé en la hamaca para que duerma.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
+
+ovakeri	[o-][VPers][3n.m.S/A+][--][=v][VRoot][=to.put, to.place (ES: poner, colocar)][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=ri][+3m.O]
+
+anirio	[=anirio+n.m.][NRoot][=daughter.in.law (kin.of.a.male, male.ego)]
 
 
 
