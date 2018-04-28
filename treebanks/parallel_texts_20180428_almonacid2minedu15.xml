@@ -5,4 +5,16 @@
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.1">
+        <sentence lang="prq">Chora perani sheripiari ijatake anta kanojakinta ikenabeti.</sentence>
+        <sentence lang="es">Cierta vez, un curandero se fue muy lejos, al fondo del bosque para cazar.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.2">
+        <sentence lang="prq">Ineakeri osheto,</sentence>
+        <sentence lang="es">Cuando divisó un maquisapa,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
