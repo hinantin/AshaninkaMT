@@ -6221,9 +6221,25 @@ imaantyaari	[i-][VPers][3m.S/A+][--][=ma][VRoot][=to.sleep (ES: dormir)][--][-an
         <parsing/>
     </text>
     <text id="241">
-        <sentence lang="prq">Ikamake Sharishi iro rakantakamiri.</sentence>
+        <!-- Ikamake Sharishi iro rakantakamiri. -->
+        <sentence lang="prq" normalizationlevel="none">Ikemake Sharishi iro rakantakamiri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikemake Sharishi iro rakantakamiri.</sentence>
         <sentence lang="es">Sharishi oyó, por eso te contestó.</sentence>
-        <morphology/>
+        <sentence lang="en">Sharishi heard, that's why she answer you back.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ikemake	[i-][VPers][3m.S/A+][--][=kem][VRoot][=to.hear, to.listen; to.sense (ES: sentir)][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e
+
+sharishi	[=sharishi][NRoot][=person's.name; NP]
+
+iro	[=iro+cont.d.top.][PrnPers][+3SG.n.m.][=she, it; that's why]
+
+rakantakamiri	[r-][VPers][3m.S/A+][--][=ak][VRoot][=to.answer.back (ES: contestar, responder)][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-ak][ASP][+PRF]ak[--][-a][+REAL.RFL]a[--][=mi][+2SG.O][--][=ri][+3m.O]
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="242">
