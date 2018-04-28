@@ -6177,9 +6177,24 @@ ovanavontsi	[=ovanavo+n.m.+inal@ntsi.][NRoot][=staple.food, necessity.good; food
         <parsing/>
     </text>
     <text id="239">
-        <sentence lang="prq">Okibatsiro ina ichenko yeye.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Okibatsiro ina ichenko yeye.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Okivatsiro ina ichenko yeye.</sentence>
         <sentence lang="es">Mi mamá lava el pantalón de mi hermano.</sentence>
-        <morphology/>
+        <sentence lang="en">Mother is washing brother's trousers.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+okivatsiro	[o-][VPers][3n.m.S/A+][--][=kiv][VRoot][=to.wash (ES: lavar)][--][-atsi][ASP][+PROG]atsi[--][=ro][+3n.m.O]
+
+ina	[=ina+n.m.+inal@tsi.+voc.][NRoot][=mother; wife (kin.of.a.fe/male)]
+
+ichenko	[i-][NPers][3m.poss+][--][=chenko+n.m.+inal@tsi.][NRoot][=trousers, pants (ES: pantalón)]
+
+yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="240">
