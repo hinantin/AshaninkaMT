@@ -6265,12 +6265,13 @@ tsimiki	[=tsimi+n.m.+poss@ne.][NRoot][=macaw-and-parrot.clay.lick (QU: qullpa, E
         <sentence lang="prq" normalizationlevel="none">Robatya ani kemi tashirentsi.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovatya ani kemi tashirentsi.</sentence>
         <sentence lang="es">Mi cuñado come zapallo asado.</sentence>
+        <sentence lang="en">Brother-in-law eats roasted pumpkin.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 rovatya	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-a][+REP][=again.and.again]a[--][-t][+EP]t[--][-eya][+IRR.RFL]eya
 
-ani	[=ani+m.][NRoot][=grandpa, grandfather (kin.of.a.male)]
+ani	[=ani+m.+poss@ri.][NRoot][=brother.in.law (kin.of.a.male)]
 
 kemi	[=kemi+n.m.+poss@ne.][NRoot][=pumpkin.sp. (ES: zapallo, calabaza; botany.nm.: cucurbita.sp.); squash]
 
