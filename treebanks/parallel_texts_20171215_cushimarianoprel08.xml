@@ -6304,9 +6304,24 @@ koryo	[=koryo][NRoot][=fish.var., catfish.sp. (ES: cunchi; sp.de.bagre/pez)]
         <parsing/>
     </text>
     <text id="245">
-        <sentence lang="prq">Ratsikakeri kempiro pabatyori irakoki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ratsikakeri kempiro pabatyori irakoki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ratsikakeri kempiro pavatyori irakoki.</sentence>
         <sentence lang="es">La “kempiro” mordió a mi tío en la mano.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph">
+
+
+ratsikakeri	[r-][VPers][3m.S/A+][--][=atsik][VRoot][=to.bite (ES: morder.(sujeto.animado))][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+kempiro	[=kempiro][NRoot][=venomous.snake.sp. (ES: shushupe, anaconda.color.marrón.claro.y.figuras.geométricas.romboides.en.negro.y.marrón; sci.nm.: lachesis.muta.muta)]
+
+irakoki	[ir-][NPers][3m.poss+][--][=ako+n.m.+inal@tsi.][NRoot][=hand (ES: mano)][--][-ki][Cas][+LOC_LOC.T]
+
+pavatyori	[=pava+m.+poss@ni.][NRoot][=solar.deity; god (ES: dios); creator (PT: Deus.solar); dad, father][--][-tyori][+CL:distant/surrogate.kin][=distant/surrogate.kin]
+
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="246">
