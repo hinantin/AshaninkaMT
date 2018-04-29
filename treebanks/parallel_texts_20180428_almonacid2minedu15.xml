@@ -2,7 +2,16 @@
     <text id="1.0">
         <sentence lang="prq">Sheripiari aisati oaratanta</sentence>
         <sentence lang="es">El curandero y el sapito</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+sheripiari	[=sheripiari+m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero; PT: pajé)]
+
+aisati	[=aisati][ConnRoot][=also; and]
+
+oaratanta	[=oaratanta+m.][NRoot][=non-edible.toad.sp. (ES: sapo.no.comestible)]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.1">
