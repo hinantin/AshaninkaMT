@@ -6431,9 +6431,26 @@ ovametantatsiri	[=ovame][VRoot][=to.teach (ES: enseñar)][--][-t][+EP]t[--][-ant
         <parsing/>
     </text>
     <text id="250.1">
-        <sentence lang="prq">Ikentake charine apaani chomenta inkaareki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikentake charine apaani chomenta inkaareki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikentake charine apaani chomenta inkaareki.</sentence>
         <sentence lang="es">El abuelo picó una palometa en la cocha.</sentence>
-        <morphology/>
+        <sentence lang="en"/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ikentake	[i-][VPers][3m.S/A+][--][=kent][VRoot][=to.pierce.with.arrows, to.shoot.arrows; to.sting (ES: picar)][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e
+
+charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male); grandson (ES: nieto)]
+
+apaani	[=apaani][NRoot][=one]
+
+chomenta	[=chomenta+m.][NRoot][=freshwater.fish.sp. (ES: palometa; sci.nm.: mylossoma.sp.)]
+
+inkaareki	[=inkaare+n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="250.2">
