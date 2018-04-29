@@ -43,7 +43,8 @@ ikenaveti	[i-][VPers][3m.S/A+][--][=ken][VRoot][=to.hunt, to.poach, to.prey.on.s
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.2">
-        <sentence lang="prq">Ineakeri osheto,</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ineakeri osheto,</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ineakeri osheto,</sentence>
         <sentence lang="es">Cuando divisó un maquisapa,</sentence>
         <sentence lang="en">He saw a makisapa-monkey,</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -59,7 +60,8 @@ osheto	[=osheto+m.][NRoot][=monkey.sp. (ES: maquisapa, mono.choro; QU: makisapa;
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.3">
-        <sentence lang="prq">ikentakeri ¡tsekik…!</sentence>
+        <sentence lang="prq" normalizationlevel="none">ikentakeri ¡tsekik…!</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">ikentakeri ¡tsekik…!</sentence>
         <sentence lang="es">lo picó con su flecha ¡tsak…!</sentence>
         <sentence lang="en">he pierced it with an arrow ¡[action of stinging with arrows]…!</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -79,9 +81,18 @@ tsekik	[=tsekik+s.redup.word][IdeoPRQ][=action.of.stinging.with.arrows]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.4">
-        <sentence lang="prq">yaanakeri,</sentence>
+        <sentence lang="prq" normalizationlevel="none">yaanakeri,</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">yaanakeri,</sentence>
         <sentence lang="es">y se lo llevó,</sentence>
-        <morphology format="" analysislevel=""/>
+        <sentence lang="en">he took it,</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+yaanakeri	[y-][VPers][3m.S/A+][--][=a][VRoot][=to.take (ES: agarrar)][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+,	,[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.5">
