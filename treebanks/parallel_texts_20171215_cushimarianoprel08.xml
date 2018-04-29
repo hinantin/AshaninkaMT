@@ -6473,9 +6473,28 @@ iitiki	[=iiti+n.m.+inal@ntsi.][NRoot][=foot (ES: pie)][--][-ki][Cas][+LOC_LOC.T]
         <parsing/>
     </text>
     <text id="251">
-        <sentence lang="prq">Ratsikakiri kentabo apa iitiki riyaabeta ikinabaeti.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ratsikakiri kentabo apa iitiki riyaabeta ikinabaeti.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ratsikakiri kentavo apa iitiki riyaaveta ikinavaeti.</sentence>
         <sentence lang="es">A mi papá le picó el shushupi en el pie cuando salía a cazar.</sentence>
-        <morphology/>
+        <sentence lang="en">The shushupi-snake bit father in his foot, he went to hunt (without finishing).</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ratsikakiri	[r-][VPers][3m.S/A+][--][=atsik][VRoot][=to.bite (ES: morder.(sujeto.animado))][--][-ak][ASP][+PRF]ak[--][-i][+IRR]i[--][=ri][+3m.O]
+
+kentavo	[=kentavo+m.][NRoot][=parrot.sp. (blue.macaw, sci.nm.: amazona.farinosa); venomous.snake.sp. (ES: shushupi)]
+
+apa	[=apa+m.][NRoot][=father (kin.of.a.fe/male)]
+
+iitiki	[=iiti+n.m.+inal@ntsi.][NRoot][=foot (ES: pie)][--][-ki][Cas][+LOC_LOC.T]
+
+riyaaveta	[r-][NPers][3m.poss+][--][=iyaa][VRoot][=to.go (ES: ir)][--][-ve][+FRUS][=in.vain (ES: casi)]ve[--][-t][+EP]t[--][-a][+CL:liquid][=liquid]a
+
+ikinavaeti	[i-][VPers][3m.S/A+][--][=kin][VRoot][=to.hunt, to.poach, to.prey.on.sb./sth.][--][-a][+EP]a[--][-vae][ASP][+DUR]vae[--][-t][+EP]t[--][-i][+REAL]i
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="252">
