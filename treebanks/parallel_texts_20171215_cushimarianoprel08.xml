@@ -6379,7 +6379,23 @@ kenitsi	[=keni+m.+inal@tsi.][NRoot][=red.mite (ES: pique, nigua); decomposition.
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
+aririka	[=ari][PostPol][=PP][--][-rika][+COND]::[WhPrn][=when]
 
+ontime	[o-][VPers][3n.m.S/A+][--][N=][IRR+][--][=tim][VRoot][=POSSESS (EN: to.have; ES: tener); to.give.birth][--][-e][+IRR]e
+
+kametsare	[=kametsa][VRoot][=to.be.good][--][-re+m.][NS][+ADJ.NMZ]re
+
+akenkishiriamento	[a-][NPers][1PL.poss+][--][=kenkishiry][VRoot][=to.believe, to.think][--][-a][+EP]a[--][-mento+n.m.][NS][+NMZ.CONCR]mento
+
+ari	[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+amatakero	[a-][VPers][1PL.S/A+][--][=mat][VRoot][=to.manage.(to.do.sth.), to.be.able/possible.(to.do.sth.) (ES: lograr, poder.hacer.algo); to.do.sth. (ES: hacer.algo); to.transmit.a.disease (ES: contagiar); to.become.infected.wth.sth., to.get.a_disease (ES: contagiarse)][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=ro][+3n.m.O]
+
+kametsa	[=kametsa][NRoot][=well, good]
+
+antavaerontsi	[=antavae][VRoot][=to.work (ES: trabajar)][--][-ro+n.m.][NS][+NMZ]ro[--][-ntsi+alien.][Gen][+nposs]ntsi
+
+.	.[$.]
 
 </morphology>
         <parsing/>
