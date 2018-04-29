@@ -6380,7 +6380,7 @@ kenitsi	[=keni+m.+inal@tsi.][NRoot][=red.mite (ES: pique, nigua); decomposition.
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-aririka	[=ari][PostPol][=PP][--][-rika][+COND]::[WhPrn][=when]
+aririka	[=ari][PostPol][=PP][--][=rika][+COND]::[=when (temporal.simultaneity), if (expresses.possible.condition)]
 
 ontime	[o-][VPers][3n.m.S/A+][--][N=][IRR+][--][=tim][VRoot][=POSSESS (EN: to.have; ES: tener); to.give.birth][--][-e][+IRR]e
 
@@ -6402,9 +6402,23 @@ antavaerontsi	[=antavae][VRoot][=to.work (ES: trabajar)][--][-ro+n.m.][NS][+NMZ]
         <parsing/>
     </text>
     <text id="249">
-        <sentence lang="prq">Osheki ikenkishiriaka charine, iro ipokantanakari ikenkitsatakaeri obametantatsiri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Osheki ikenkishiriaka charine, iro ipokantanakari ikenkitsatakaeri obametantatsiri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Osheki ikenkishiriaka charine, iro ipokantanakari ikenkitsatakaeri ovametantatsiri.</sentence>
         <sentence lang="es">Mi abuelo pensó mucho antes de venir a hablar con el profesor.</sentence>
-        <morphology/>
+        <morphology>
+
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+ikenkishiriaka	[i-][VPers][3m.S/A+][--][=kenkishiri][VRoot][=to.believe, to.think][--][-ak][ASP][+PRF]ak[--][-a][+IRR]a
+
+charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male); grandson (ES: nieto)]
+
+,	,[$.]
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="250.1">
