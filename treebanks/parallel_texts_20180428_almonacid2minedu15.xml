@@ -225,6 +225,15 @@ yoka	[=yoka+m.+proximal][PrnDem][=this (ES: él.aquí, ellos.aquí)]
 
 oaratanta	[=oaratanta+m.][NRoot][=non-edible.toad.sp. (ES: sapo.no.comestible)]
 
+ikamaritanake	[i-][VPers][3m.S/A+][--][=kamari+m.+poss@te.][NRoot][=deamon, demonic.creature/spirit, evil.spirit; shaman]::[=to.be.an.evil.spirit]+vbz.[--][-t][+EP]t[--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e
+
+,	,[$.]
+
+te	[=te+future.neg.][Neg][=NEG.REAL]
+
+irayeriji	[ir-][VPers][3m.S/A.IRR+][--][=ay][VRoot][=to.fly (ES: volar)][--][-e][+IRR]e[--][=ri][+3m.O][--][=hi+past][+NEG]
+
+.	.[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
