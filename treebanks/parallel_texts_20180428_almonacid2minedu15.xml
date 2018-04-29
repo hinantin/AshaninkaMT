@@ -98,13 +98,47 @@ yaanakeri	[y-][VPers][3m.S/A+][--][=a][VRoot][=to.take (ES: agarrar)][--][-an+so
     <text id="1.5">
         <sentence lang="prq">ari abakeri antyaro inkani,</sentence>
         <sentence lang="es">entonces comenzó a llover muy fuerte.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ari	[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+???
+
+antyaro	[=antyaro+n.m.][AdjRoot][=big; mature]
+
+inkani	[=inkani+n.m.][NRoot][=rain (ES: lluvia)]
+
+,	,[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.6">
-        <sentence lang="prq">yaitaparo kamonashi, kompiroshi yobatikakotakero inkani, intsititantyari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">yaitaparo kamonashi, kompiroshi yobatikakotakero inkani, intsititantyari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">yaitaparo kamonashi, kompiroshi yovatikakotakero inkani, intsititantyari.</sentence>
         <sentence lang="es">Rápidamente el curandero cortó hojas de yarina para construir una ramadita y protegerse de la lluvia.</sentence>
-        <morphology format="" analysislevel=""/>
+        <sentence lang="en">He took palm and yarina leaves, he made them hang in order for him to hide from the rain.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+yaitaparo	[y-][VPers][3m.S/A+][--][=a][VRoot][=to.take (ES: agarrar)][--][-it][+ICPL][=speed]it[--][-ap+goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-a][+REAL.RFL]a[--][=ro][+3n.m.O]
+
+kamonashi	[=kamona+n.m.+poss@te.][NRoot][=palm.tree.sp. (ES: pona, sp.de.palmera)][--][-shi][+CL:L.S.T.F.F][=leaf;small,thin,flexible,flat;leafy.substance]
+
+kompiroshi	[=kompiroshi][NRoot][=leaf.from.yarina-tree]
+
+yovatikakotakero	[y-][VPers][3m.S/A+][--][ov=][AGT.CAUS+][--][=katik][VRoot][=to.hang (ES: ahorcar)][--][-ako][+APPL.GEN][=with.reference.to.sth.; about.sth.]ako[--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ro][+3n.m.O]
+
+inkani	[=inkani+n.m.][NRoot][=rain (ES: lluvia)]
+
+,	,[$.]
+
+intsititantyari	[i-][VPers][3m.S/A+][--][N=][IRR+][--][=tsiti][VRoot][=to.hide (ES: ocultar)][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-eya][+IRR.RFL]eya[--][=ri][+3m.O]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.7">
