@@ -45,7 +45,17 @@ ikenaveti	[i-][VPers][3m.S/A+][--][=ken][VRoot][=to.hunt, to.poach, to.prey.on.s
     <text id="1.2">
         <sentence lang="prq">Ineakeri osheto,</sentence>
         <sentence lang="es">Cuando divisó un maquisapa,</sentence>
-        <morphology format="" analysislevel=""/>
+        <sentence lang="en">He saw a makisapa-monkey,</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ineakeri	[i-][VPers][3m.S/A+][--][=ne][VRoot][=to.see, to.look.for; to.visit][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+osheto	[=osheto+m.][NRoot][=monkey.sp. (ES: maquisapa, mono.choro; QU: makisapa; PT: macaco.barrigudo; sci.nm.: ateles.paniscus)]
+
+,	,[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.3">
