@@ -197,7 +197,14 @@ yashaninkatanake	[y-][VPers][3m.S/A+][--][=ashaninka][NRoot][=indigenous.person.
     <text id="1.8">
         <sentence lang="prq">Sheripiari ipeanaka tsonkiri yarasanotanake,</sentence>
         <sentence lang="es">El curandero rápidamente se convirtió en un picaflor.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+yarasanotanake	[y-][VPers][3m.S/A+][--][=ar][VRoot][=to.fly (ES: volar)][--][-a][+EP]a[--][-sano][DEGR][+DEXT]sano[--][-t][+EP]t[--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF]ak[--][-e][+REAL]e
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.9">
