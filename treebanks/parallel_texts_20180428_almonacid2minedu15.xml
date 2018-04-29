@@ -62,7 +62,20 @@ osheto	[=osheto+m.][NRoot][=monkey.sp. (ES: maquisapa, mono.choro; QU: makisapa;
         <sentence lang="prq">ikentakeri ¡tsekik…!</sentence>
         <sentence lang="es">lo picó con su flecha ¡tsak…!</sentence>
         <sentence lang="en">he pierced it with an arrow ¡[action of stinging with arrows]…!</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ikentakeri	[i-][VPers][3m.S/A+][--][=kent][VRoot][=to.pierce.with.arrows, to.shoot.arrows; to.sting (ES: picar)][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+¡	'[$.]
+
+tsekik	[=tsekik+s.redup.word][IdeoPRQ][=action.of.stinging.with.arrows]
+
+…	…[$.]
+
+!	![$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.4">
