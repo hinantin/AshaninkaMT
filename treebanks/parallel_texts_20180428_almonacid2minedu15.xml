@@ -210,7 +210,23 @@ yarasanotanake	[y-][VPers][3m.S/A+][--][=ar][VRoot][=to.fly (ES: volar)][--][-a]
     <text id="1.9">
         <sentence lang="prq">ikoabeta irayerime inkarajerime yoka, oaratanta ikamaritanake, te irayeriji.</sentence>
         <sentence lang="es">El sapito diablo comenzó a seguirle para fracturarle sus huesos, pero no lo alcanzó.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ikoabeta	[i-][VPers][3m.S/A+][--][=ko][VRoot][=to.want][--][-a][+EP]a[--][-ve][+FRUS][=in.vain (ES: casi)]ve[--][-t][+EP]t[--][-a][+REAL]a
+
+irayerime	[ir-][VPers][3m.S/A.IRR+][--][=ay][VRoot][=to.fly (ES: volar)][--][-e][+REAL]e[--][=ri][NS][+REL][--][=me][MODAL][+SUBJ][=not.to.achieve/realize.an.action/idea (ES: para.bien/mal.las.acciones/ideas.expresadas.no.se.realizaron)]
+
+inkarajerime	[i-][VPers][3m.S/A+][--][N=][IRR+][--][=karah][VRoot][=to.break (ES: fracturar)][--][-e][+REAL]e[--][=ri][+3m.O][--][=me][MODAL][+SUBJ][=not.to.achieve/realize.an.action/idea (ES: para.bien/mal.las.acciones/ideas.expresadas.no.se.realizaron)]
+
+yoka	[=yoka+m.+proximal][PrnDem][=this (ES: él.aquí, ellos.aquí)]
+
+,	,[$.]
+
+oaratanta	[=oaratanta+m.][NRoot][=non-edible.toad.sp. (ES: sapo.no.comestible)]
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
 </parallel>
