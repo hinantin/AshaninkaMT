@@ -6416,7 +6416,15 @@ charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male);
 
 ,	,[$.]
 
+iro	[=iro+cont.d.top.][PrnPers][+3SG.n.m.][=she, it; that's why (ES: por.eso)]
 
+ipokantanakari	[i-][VPers][3m.S/A+][--][=pok][VRoot][=to.come (ES: venir), to.arrive][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF]ak[--][-a][+IRR]a[--][=ri][+3m.O]
+
+ikenkitsatakaeri	[i-][VPers][3m.S/A+][--][=kenkitsa][VRoot][=to.talk, to.tell (ES: contar, hablar, predicar)][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-a][+EP]a[--][-e][+REAL]e[--][=ri][+3m.O]
+
+ovametantatsiri	[=ovame][VRoot][=to.teach (ES: enseñar)][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-atsi][Asp][+STAT.IPRF]atsi[--][=ri][NS][+REL]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
