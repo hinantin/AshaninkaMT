@@ -6540,9 +6540,24 @@ tsompare	[=tsompare+m.][NRoot][=heron.sp. (ES: sp.de.garza); great.egret (sci.nm
         <parsing/>
     </text>
     <text id="254">
-        <sentence lang="prq">Ikentake apa kentsori ocheempeki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikentake apa kentsori ocheempeki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikentake apa kentsori ocheempeki.</sentence>
         <sentence lang="es">Mi papá picó una perdiz en el cerro.</sentence>
-        <morphology/>
+        <sentence lang="en">Father shot an arrow to a great-tinamou in the hill.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ikentake	[i-][VPers][3m.S/A+][--][=kent][VRoot][=to.pierce.with.arrows, to.shoot.arrows; to.sting (ES: picar)][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e
+
+apa	[=apa+m.][NRoot][=father (kin.of.a.fe/male)]
+
+kentsori	[=kentsori+poss@ti.][NRoot][=great.tinamou (sci.nm.: tinamus.major, tinamous.tao)]
+
+ocheempeki	[=ocheempe][NRoot][=hill (ES: cerro)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="255">
