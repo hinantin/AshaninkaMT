@@ -6498,9 +6498,25 @@ ikinavaeti	[i-][VPers][3m.S/A+][--][=kin][VRoot][=to.hunt, to.poach, to.prey.on.
         <parsing/>
     </text>
     <text id="252">
-        <sentence lang="prq">Robabo kentabo kiri tonkariki obaantsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Robabo kentabo kiri tonkariki obaantsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovavo kentavo kiri tonkariki ovaantsiki.</sentence>
         <sentence lang="es">El loro “kentabo” come semillas de pijuayo en la chacra.</sentence>
-        <morphology/>
+        <morphology>
+
+
+rovavo	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-a][+REAL]a[--][=vo][+3n.m.O]
+
+kentavo	[=kentavo+m.][NRoot][=parrot.sp. (blue.macaw, sci.nm.: amazona.farinosa); venomous.snake.sp. (ES: shushupi)]
+
+kiri	[=kiri][NRoot][=palm.tree.sp. (ES: pijuayo, pifayo, chonta; sci.nm.: juania.australis)]
+
+tonkariki	[=tonkari+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas][+LOC_LOC.T]
+
+ovaantsiki	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra)][--][-ntsi+alien.][Gen][+nposs]ntsi[--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="253">
