@@ -6584,9 +6584,25 @@ ipanko	[i-][NPers][3m.poss+][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa)
         <parsing/>
     </text>
     <text id="256">
-        <sentence lang="prq">Ikanti sheripiari: Kepishiri sheri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikanti sheripiari: Kepishiri sheri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikanti sheripiari: Kepishiri sheri.</sentence>
         <sentence lang="es">El Curandero dice: “El tabaco es amargo”</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ikanti	[i-][VPers][3m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-i][+IRR]i
+
+sheripiari	[=sheripiari+m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero; PT: pajé)]
+
+:	:[$.]
+
+kepishiri	[=kepishiri+n.m.][NRoot][=bitter (lit.: the.bitter.one; ES: amargo); vine.sp.]
+
+sheri	[=sheri+n.m.+poss@ni.][NRoot][=tobacco.leaf; tobacco ([ˈʃɛ.ɾɪ];ES: tabaco; sci.nm.: nicotiana.tabacum); psychoactive.drug]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="257">
