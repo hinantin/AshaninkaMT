@@ -6502,7 +6502,7 @@ ikinavaeti	[i-][VPers][3m.S/A+][--][=kin][VRoot][=to.hunt, to.poach, to.prey.on.
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovavo kentavo kiri tonkariki ovaantsiki.</sentence>
         <sentence lang="es">El loro “kentabo” come semillas de pijuayo en la chacra.</sentence>
         <sentence lang="en">The kentavo-parrot eats pijuayo-seeds in the sown field.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 rovavo	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-a][+REAL]a[--][=vo][+3n.m.O]
@@ -6521,9 +6521,22 @@ ovaantsiki	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.lan
         <parsing/>
     </text>
     <text id="253">
-        <sentence lang="prq">Jantsare ikentsi tsompare.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Jantsare ikentsi tsompare.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Hantsare ikentsi tsompare.</sentence>
         <sentence lang="es">El cuello de la garza es larga.</sentence>
-        <morphology/>
+        <sentence lang="en">The heron neck is long.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+hantsare	[=hantsa][NRoot][=long (in.length; ES: largo)]+vbz.[--][-re+m.][NS][+NMZ]re
+
+ikentsi	[i-][NPers][3m.poss+][--][=kentsi+n.m.+inal@tsi.][NRoot][=neck, nape (ES: cuello, nuca)]
+
+tsompare	[=tsompare+m.][NRoot][=heron.sp. (ES: sp.de.garza); great.egret (sci.nm.: egretta.alba)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="254">
