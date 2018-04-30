@@ -6561,9 +6561,26 @@ ocheempeki	[=ocheempe][NRoot][=hill (ES: cerro)][--][-ki][Cas][+LOC_LOC.T]
         <parsing/>
     </text>
     <text id="255">
-        <sentence lang="prq">Robatiyakero yeye kepaye rantantyaari ipanko.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Robatiyakero yeye kepaye rantantyaari ipanko.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovatiyakero yeye kepaye rantantyaari ipanko.</sentence>
         <sentence lang="es">Mi hermano plantó un horcón para construir su casa.</sentence>
-        <morphology/>
+        <sentence lang="en">Brother erected a very hard wood in order for him to build his house.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+rovatiyakero	[r-][VPers][3m.S/A+][--][ov=][AGT.CAUS+][--][=katiy][VRoot][=to.stand; to.stand.guard; to.be.erect; to.stand.up][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ro][+3n.m.O]
+
+yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
+
+kepaye	[=kepaye+n.m.][NRoot][=very_hard/thick.wood.sp. (ES: horcón, poste,, shungu, corazón.de.árbol, árbol.duro; PT: espécie.de.madeira.bem.dura)]
+
+rantantyaari	[r-][VPers][3m.S/A+][--][=ant][VRoot][=to.beat, to.hit; to.build, to.do, to.make][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-yaa][+REAL]yaa[--][=ri][+3m.O]
+
+ipanko	[i-][NPers][3m.poss+][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="256">
