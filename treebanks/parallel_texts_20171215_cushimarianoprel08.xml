@@ -6672,9 +6672,29 @@ inampiki	[i-][NPers][3m.poss+][--][=nampi+n.m.+inal@tsi.][NRoot][=village; place
         <parsing/>
     </text>
     <text id="260">
-        <sentence lang="prq">Kijori iroka inchaki, ero amatiro ankaraero.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Kijori iroka inchaki, ero amatiro ankaraero.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Kihori iroka inchaki, ero amatiro ankaraero.</sentence>
         <sentence lang="es">Este palito es muy duro, no se puede quebrar.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+kihori	[=kiho][VRoot][=to.be.hard (ES: estar.duro); to.join.tightly-and-rigidly][--][-ri+m.][NS][+NMZ]ri
+
+iroka	[=iroka+n.m.+proximal.b.][PrnDem][=this (ES: esta)]
+
+inchaki	[=inchaki+poss@ri.][NRoot][=pole (ES: palo)]
+
+,	,[$.]
+
+ero	[=ero][Neg][=NEG.IRR]
+
+amatiro	[a-][VPers][1PL.S/A+][--][=mat][VRoot][=to.manage.(to.do.sth.), to.be.able/possible.(to.do.sth.) (ES: lograr, poder.hacer.algo); to.do.sth. (ES: hacer.algo); to.transmit.a.disease (ES: contagiar); to.become.infected.wth.sth., to.get.a_disease (ES: contagiarse)][--][-i][+IRR]i[--][=ro][+3n.m.O]
+
+ankaraero	[a-][VPers][1PL.S/A+][--][N=][IRR+][--][=kar][VRoot][=to.break (ES: quebrar)][--][-a][+EP]a[--][-e][+REAL]e[--][=ro][+3n.m.O]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="261">
