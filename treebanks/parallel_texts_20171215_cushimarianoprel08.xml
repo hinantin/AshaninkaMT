@@ -6702,7 +6702,7 @@ ankaraero	[a-][VPers][1PL.S/A+][--][N=][IRR+][--][=kar][VRoot][=to.break (ES: qu
         <sentence lang="prq" normalizationlevel="none">Kimoshiretanaki apa ipaetantakariri pitotsi.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Kimoshiretanaki apa ipaetantakariri pitotsi.</sentence>
         <sentence lang="es">Mi papá sintió alegría cuando recibió la canoa.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 kimoshiretanaki	[=kimoshire][VRoot][=to.be.happy, to.be.glad][--][-t][+EP]t[--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF]ak[--][-i][+IRR]i
@@ -6719,15 +6719,48 @@ pitotsi	[=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe (ES: canoa)][--][-tsi+alie
         <parsing/>
     </text>
     <text id="262">
-        <sentence lang="prq">Ikimoshiretati yeye raaki osheki shima.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikimoshiretati yeye raaki osheki shima.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikimoshiretati yeye raaki osheki shima.</sentence>
         <sentence lang="es">Mi hermano está contento por haber pescado muchos peces.</sentence>
-        <morphology/>
+        <sentence lang="en">Brother is glad, he got a lot of fish.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ikimoshiretati	[i-][VPers][3m.S/A+][--][=kimoshire][VRoot][=to.be.happy, to.be.glad][--][-t][+EP]t[--][-ati][ASP][+PROG]ati
+
+yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
+
+raaki	[r-][VPers][3m.S/A+][--][=a][VRoot][=to.get][--][-ak][ASP][+PRF]ak[--][-i][+REAL]i
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+shima	[=shima+m.+poss@ni.][NRoot][=fish; fish.sp., boquichico-fish (ES: boquichico, chupadora; sci.nm.: prochilodus.nigricans)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="263.1">
-        <sentence lang="prq">Ityaakitakeri yeye kipatsi irokiki itsipamintsare iñaatsabaetantari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ityaakitakeri yeye kipatsi irokiki itsipamintsare iñaatsabaetantari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ityaakitakeri yeye kipatsi irokiki itsipamintsare inyaatsavaetantari.</sentence>
         <sentence lang="es">Mi hermano echó tierra en el ojo de su amigo mientras jugaba.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ityaakitakeri	[i-][VPers][3m.S/A+][--][=tya][VRoot][=to.fell, to.cut.down (e.g.: a.tree.; ES: tumbar, hacer.caer)][--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-it][Asp][+ANT][=past/non-past.action:before]it[--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=ri][+3m.O]
+
+yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
+
+kipatsi	[=kipatsi+n.m.+poss@te:ti.][NRoot][=ground, earth (ES: tierra); mud; land]
+
+irokiki	[ir-][NPers][3m.poss+][--][=oki+n.m.+inal@tsi.][NRoot][=eye (ES: ojo)][--][-ki][Cas][+LOC_LOC.T]
+
+itsipamintsare	[i-][NPers][3m.poss+][--][=tsipamintsare][NRoot][=friend (ES: amigo)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="263.2">
