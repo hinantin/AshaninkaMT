@@ -6607,9 +6607,24 @@ sheri	[=sheri+n.m.+poss@ni.][NRoot][=tobacco.leaf; tobacco ([ˈʃɛ.ɾɪ];ES: ta
         <parsing/>
     </text>
     <text id="257">
-        <sentence lang="prq">Ichekake Pishaba kepiyashi ipashikantyaabori ipanko.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ichekake Pishaba kepiyashi ipashikantyaabori ipanko.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ichekake Pishava kepiyashi ipashikantyaabori ipanko.</sentence>
         <sentence lang="es">Pishaba cortó bombonaje para tapar el techo de su casa.</sentence>
-        <morphology/>
+        <sentence lang="en">Pishava cut the bombonaje-palm-tree in order to cover his house.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ichekake	[i-][VPers][3m.S/A+][--][=chek][VRoot][=to.cut (ES: cortar)][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e
+
+pishava	[=pishava][NRoot][=person's.name, NP]
+
+kepiyashi	[=kepiyashi+n.m.][NRoot][=palm.tree.sp., plant.sp. (ES: bombonaje; sci.nm.: carludovica.palmata)]
+
+ipashikantyaabori	[i-][VPers][3m.S/A+][--][=pashik][VRoot][=to.cover (ES: cubrir, tapar)][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-yaa][+IRR]yaa[--][=vo][+3n.m.O][--][=ri][NS][+REL]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="258">
