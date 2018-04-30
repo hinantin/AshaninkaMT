@@ -6628,15 +6628,47 @@ ipashikantyaabori	[i-][VPers][3m.S/A+][--][=pashik][VRoot][=to.cover (ES: cubrir
         <parsing/>
     </text>
     <text id="258">
-        <sentence lang="prq">Amaaniti nija kiabontsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Amaaniti nija kiabontsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Amaaniti niha kiavontsiki.</sentence>
         <sentence lang="es">Los ríos crecen en el invierno.</sentence>
-        <morphology/>
+        <sentence lang="en">The river increased in the winter.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+amaaniti	[=amaani+n.m.][NRoot][=increase (ES: creciente)]::[=to.increase (ES: crecer)]+vbz.[--][-t][+EP]t[--][-i][+IRR]i
+
+niha	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
+
+kiavontsiki	[=kiavontsi+sem@season.][NRoot][=winter (ES: invierno)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="259">
-        <sentence lang="prq">Kijinkari antyashipari jeekabetachari jaka jataje inampiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Kijinkari antyashipari jeekabetachari jaka jataje inampiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Kihinkari antyashipari heekabetachari haka hatahe inampiki.</sentence>
         <sentence lang="es">El anciano colérico que vivía aquí se fue a su pueblo.</sentence>
-        <morphology/>
+        <sentence lang="en">The quick-tempered elderly man that lived here, went to his village.</sentence>
+        <morphology>
+ccc
+
+kihinkari	[=kih][VRoot][=to.be.angry/furious, to.get.upset/angry][--][-inka][NS][+NMZ.QLTY]inka[--][-ri+m.][NS][+NMZ]
+
+antyashipari	[=antyashipari+m.][NRoot][=elderly.man, old.man (ES: anciano)]
+
+heekabetachari	[=heek][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir); to.be][--][-a][+EP]a[--][-ve][+FRUS][=unsuccessful/interrupted.action/state (EN: in.vain; ES: casi); action.that.didn't.achieve.the.desired.result]ve[--][-t][+EP]t[--][-acha][Asp][+STAT.IPRF]acha[--][=ri][NS][+REL]
+
+haka	[=haka+proximal.b.][PrnDem][=here, close.to.the.speaker (ES: aquí)]
+
+hatahe	[=hat][VRoot][=to.go (ES: ir)][--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-e][+IRR]e
+
+inampiki	[i-][NPers][3m.poss+][--][=nampi+n.m.+inal@tsi.][NRoot][=village; place; country; settlement][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="260">
