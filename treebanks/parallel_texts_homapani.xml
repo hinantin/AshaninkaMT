@@ -171,4 +171,17 @@ fazer, ele consegue. Faz para ajudar nas curas das doenças e outras coisas mais
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="">
+        <sentence lang="cpb">Ashi osarẽtsipaiteki</sentence>
+        <sentence lang="pt">No Tempo do Verão</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ashi	[=ashi][PrnPoss][+3SG.n.m.][=her, hers, its (ES: suyo.(de.mujer)]
+
+osarẽtsipaiteki	[=osarentsi+m.+poss@te.][NRoot][=year (ES: año); dry.season/summer (ES: verano)][--][-paite][+ADV][=during, at.the.time.of.sth., period][--][-ki][Cas][+LOC_LOC.T]
+
+</morphology>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
