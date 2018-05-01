@@ -6766,8 +6766,15 @@ itsipamintsare	[i-][NPers][3m.poss+][--][=tsipamintsare][NRoot][=friend (ES: ami
     </text>
     <text id="263.2">
         <sentence lang="prq" normalizationlevel="none">Ijeekaeyeni kipatsiki maboeni añiinkari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iheekaeyeni kipatsiki mavoeni anyiinkari.</sentence>
         <sentence lang="es">En la Tierra viven todos los seres vivos.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+iheekaeyeni	[i-][VPers][3m.S/A+][--][=heek][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir); to.be][--][-aey][+PL]aey[--][-e][+IRR]e[--][-ni+circumfixing][+PL]
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="263.3">
