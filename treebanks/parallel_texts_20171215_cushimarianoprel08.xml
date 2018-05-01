@@ -6765,7 +6765,7 @@ itsipamintsare	[i-][NPers][3m.poss+][--][=tsipamintsare][NRoot][=friend (ES: ami
         <parsing/>
     </text>
     <text id="263.2">
-        <sentence lang="prq">Ijeekaeyeni kipatsiki maboeni añiinkari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ijeekaeyeni kipatsiki maboeni añiinkari.</sentence>
         <sentence lang="es">En la Tierra viven todos los seres vivos.</sentence>
         <morphology/>
         <parsing/>
