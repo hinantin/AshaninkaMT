@@ -2,8 +2,16 @@
     <!-- 
     
 a   ã
-e   ẽk
+e   ẽ
+i   ĩ
 o   õ
+
+
+A   Ã
+E   Ẽ
+I   Ĩ
+O   Õ
+
     
 (Este hombre tenía otra casa que estaba un poco lejos en un cerro. Para llegar allí el había hecho un puente de un palo
 para cruzar el precipicio, Siempre cruzaba por allí,)
@@ -182,6 +190,21 @@ ashi	[=ashi][PrnPoss][+3SG.n.m.][=her, hers, its (ES: suyo.(de.mujer)]
 osarẽtsipaiteki	[=osarentsi+m.+poss@te.][NRoot][=year (ES: año); dry.season/summer (ES: verano)][--][-paite][+ADV][=during, at.the.time.of.sth., period][--][-ki][Cas][+LOC_LOC.T]
 
 </morphology>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="">
+        <sentence lang="cpb">
+
+
+HĨPE IKAATSIKA PAAKARI
+SHIMA? ARI IKAATSI APITE?
+PIKÃTERI WEWITO ARIRIKA
+PIMÕKAATAKA, TEKAATSIMAPIINA.
+- IKÃTSI TAYRI.
+
+</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
 </parallel>
