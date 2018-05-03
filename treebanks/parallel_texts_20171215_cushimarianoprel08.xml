@@ -6926,9 +6926,27 @@ ikenavaete	[i-][VPers][3m.S/A+][--][=ken][VRoot][=to.hunt, to.poach, to.prey.on.
         <parsing/>
     </text>
     <text id="269">
-        <sentence lang="prq">Amanantake ina kishiri okishitantyariri iishi yeye.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Amanantake ina kishiri okishitantyariri iishi yeye.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Amanantake ina kishiri okishitantyariri iishi yeye.</sentence>
         <sentence lang="es">Mi mamá compró un peine para peinar el cabello de mi hermano.</sentence>
-        <morphology/>
+        <morphology>
+
+
+amanantake	[=amanant][VRoot][=to.buy (ES: comprar)][--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-e][+REAL]e
+
+ina	[=ina+n.m.+inal@tsi.+voc.][NRoot][=mother; wife (kin.of.a.fe/male)]
+
+kishiri	[=kishiri+m.][NRoot][=comb (ES: peine)]
+
+okishitantyariri	[o-][VPers][3n.m.S/A+][--][=kishi][VRoot][=to.comb.sth., to.pull.comb.through.sb's.hair][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-eya][+IRR.RFL]eya[--][=ri][+3m.O][--][=ri][NS][+REL]
+
+iishi	[i-][NPers][3m.poss+][--][=kishi+n.m.+inal@tsi.][NRoot][=hair (ES: cabello, pelo)]
+
+yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="270">
