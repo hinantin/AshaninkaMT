@@ -6976,7 +6976,18 @@ konki	[=konki+m.+poss@ri:re.][NRoot][=father.in.law (kin.of.a.male; ES: suegro)]
         <sentence lang="prq" normalizationlevel="none">Ikantakeri obametantatsiri apa: Pamananteri pitomi ikitamaaripetate ijankenatantantyari.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikantakeri ovametantatsiri apa: Pamananteri pitomi ikitamaaripetate ihankenatantantyari.</sentence>
         <sentence lang="es">El profesor le dijo a mi papá: “Compra cuadernos a tu hijo para que pueda escribir”.</sentence>
-        <morphology format="ashaninkamorph" analysislevel="not-fully"/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ikantakeri	[i-][VPers][3m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+ovametantatsiri	[=ovame][VRoot][=to.teach (ES: enseñar)][--][-t][+EP]t[--][-ant][+APPL.INST][=reason,instrumentality;in.order.to]ant[--][-atsi][Asp][+STAT.IPRF]atsi[--][=ri][NS][+REL]
+
+apa	[=apa+m.][NRoot][=father (kin.of.a.fe/male)]
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="272">
