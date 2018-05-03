@@ -6878,9 +6878,15 @@ iyamaantsite	[i-][NPers][3m.poss+][--][=kamaantsi+n./m.+poss@te.][NRoot][=flu (E
         <parsing/>
     </text>
     <text id="267">
-        <sentence lang="prq">Kirotaka maanki otapinaki inchato.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Kirotaka maanki otapinaki inchato.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Kirotaka maanki otapinaki inchato.</sentence>
         <sentence lang="es">La víbora se enroscó debajo del palo.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="268">
