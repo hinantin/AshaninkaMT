@@ -6899,8 +6899,7 @@ inchato	[=inchato+n.m.][NRoot][=tree (ES: árbol)]
         <parsing/>
     </text>
     <text id="268">
-        <sentence lang="prq" normalizationlevel="none">Akishitakeniri ina 
-            raanakeri apa antamiki ikenabaete.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Akishitakeniri ina kishañabo raanakeri apa antamiki ikenabaete.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Akishitakeniri ina kishanyavo raanakeri apa antamiki ikenavaete.</sentence>
         <sentence lang="es">Mi mamá asó yuca que mi papá llevará para ir al monte a cazar.</sentence>
         <sentence lang="en">Mother roasted black-manioc so that father will take it in order to hunt in the woods.</sentence>
