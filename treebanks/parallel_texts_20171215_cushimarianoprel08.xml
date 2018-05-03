@@ -6806,7 +6806,7 @@ pinkaavoshitya	[pi-][VPers][2S/A+][--][N=][IRR+][--][=kaavoshi][VRoot][=to.bathe
         <parsing/>
     </text>
     <text id="264">
-        <sentence lang="prq">Riyati ani itsikotsi kiri obantsipooshiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Riyati ani itsikotsi kiri obantsipooshiki.</sentence>
         <sentence lang="es">Mi cuñado fue a coger pijuayo en la purma.</sentence>
         <morphology/>
         <parsing/>
