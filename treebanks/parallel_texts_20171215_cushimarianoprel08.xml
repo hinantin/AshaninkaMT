@@ -6929,6 +6929,7 @@ ikenavaete	[i-][VPers][3m.S/A+][--][=ken][VRoot][=to.hunt, to.poach, to.prey.on.
         <sentence lang="prq" normalizationlevel="none">Amanantake ina kishiri okishitantyariri iishi yeye.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Amanantake ina kishiri okishitantyariri iishi yeye.</sentence>
         <sentence lang="es">Mi mamá compró un peine para peinar el cabello de mi hermano.</sentence>
+        <sentence lang="en">Mother bought a comb in order to comb brother's hair.</sentence>
         <sentence lang="en"/>
         <morphology>
 
@@ -6951,9 +6952,23 @@ yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: h
         <parsing/>
     </text>
     <text id="270">
-        <sentence lang="prq">Itsonkakero kitairiki iyanirimashite konki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Itsonkakero kitairiki iyanirimashite konki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Itsonkakero kitairiki iyanirimashite konki.</sentence>
         <sentence lang="es">El sajino terminó el yucal de mi suegro.</sentence>
-        <morphology/>
+        <morphology>
+
+
+itsonkakero	[i-][VPers][3m.S/A+][--][=tsonk][VRoot][=to.finish (ES: terminar)][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=ro][+3n.m.O]
+
+kitairiki	[=kitairiki+poss@ti.][NRoot][=peccary (ES: sajino, pecarí.de.collar; sci.nm.: tayassu.tajacu); wild.pig]
+
+iyanirimashite	[i-][NPers][3m.poss+][--][=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; sci.nm.: manihot.sculenta)][--][&lt;*-ma][Gen][+aln.poss.]ma[--][-shi][+CL:L.S.T.F.F][=leaf;small,thin,flexible,flat;leafy.substance][--][-i^te][+CL:anim.PL][=animate,plural]te
+
+konki	[=konki+m.+poss@ri:re.][NRoot][=father.in.law (kin.of.a.male; ES: suegro)]
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="271">
