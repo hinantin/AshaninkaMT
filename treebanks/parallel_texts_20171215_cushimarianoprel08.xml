@@ -6787,6 +6787,7 @@ anyiinkari	[=anyi][VRoot][=to.live (ES: vivir)][--][-inka][NS][+NMZ.QLTY]inka[--
     </text>
     <text id="263.3">
         <sentence lang="prq" normalizationlevel="none">Kipatsitakemi, piyaate pinkaaboshitya.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Kipatsitakemi, piyaate pinkaavoshitya.</sentence>
         <sentence lang="es">Estás sucio; vete a bañar.</sentence>
         <morphology/>
         <parsing/>
