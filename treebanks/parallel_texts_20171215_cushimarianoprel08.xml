@@ -6973,9 +6973,10 @@ konki	[=konki+m.+poss@ri:re.][NRoot][=father.in.law (kin.of.a.male; ES: suegro)]
         <parsing/>
     </text>
     <text id="271">
-        <sentence lang="prq">Ikantakeri obametantatsiri apa: Pamananteri pitomi ikitamaaripetate ijankenatantantyari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikantakeri obametantatsiri apa: Pamananteri pitomi ikitamaaripetate ijankenatantantyari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikantakeri ovametantatsiri apa: Pamananteri pitomi ikitamaaripetate ihankenatantantyari.</sentence>
         <sentence lang="es">El profesor le dijo a mi papá: “Compra cuadernos a tu hijo para que pueda escribir”.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph"/>
         <parsing/>
     </text>
     <text id="272">
