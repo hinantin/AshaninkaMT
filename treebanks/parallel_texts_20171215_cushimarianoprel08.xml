@@ -6899,9 +6899,30 @@ inchato	[=inchato+n.m.][NRoot][=tree (ES: árbol)]
         <parsing/>
     </text>
     <text id="268">
-        <sentence lang="prq">Akishitakeniri ina kishañabo raanakeri apa antamiki ikenabaete.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Akishitakeniri ina 
+            raanakeri apa antamiki ikenabaete.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Akishitakeniri ina kishanyavo raanakeri apa antamiki ikenavaete.</sentence>
         <sentence lang="es">Mi mamá asó yuca que mi papá llevará para ir al monte a cazar.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+akishitakeniri	[=akishi][VRoot][=to.roast (ES: asar)][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=ni][+3SG.O][--][=ri][NS][+REL]
+
+ina	[=ina+n.m.+inal@tsi.+voc.][NRoot][=mother; wife (kin.of.a.fe/male)]
+
+kishanyavo	[=kishanyavo][NRoot][=black.yucca/manioc (ES: yuca.negra)]
+
+raanakeri	[r-][VPers][3m.S/A+][--][=a][VRoot][=to.take (ES: agarrar)][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+apa	[=apa+m.][NRoot][=father (kin.of.a.fe/male)]
+
+antamiki	[=antami][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.forest][--][-ki][Cas][+LOC_LOC.T]
+
+ikenavaete	[i-][VPers][3m.S/A+][--][=ken][VRoot][=to.hunt, to.poach, to.prey.on.sb./sth.][--][-a][+EP]a[--][-vae][ASP][+DUR][=action/state..endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]vae[--][-t][+EP]t[--][-e][+REAL]e
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="269">
