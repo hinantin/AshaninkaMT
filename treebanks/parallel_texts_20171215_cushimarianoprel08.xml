@@ -5601,7 +5601,7 @@ oveshiriachari	[o-][VPers][3n.m.S/A+][--][=veshiri][VRoot][=to.rejoice, to.get.g
         <sentence lang="prq" normalizationlevel="none">Pintsamaetero kametsa piyanirimashite.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Pintsamaetero kametsa piyanirimashite.</sentence>
         <sentence lang="es">Cultiva bien el yucal.</sentence>
-        <sentence lang="en">Clean well the land plate with yuccas.</sentence>
+        <sentence lang="en">Clean well the land planted with yuccas.</sentence>
         <!-- ES: yuca, terreno plantado de yucas. ; EN: land planted with yuccas. -->
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
@@ -6955,6 +6955,7 @@ yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: h
         <sentence lang="prq" normalizationlevel="none">Itsonkakero kitairiki iyanirimashite konki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Itsonkakero kitairiki iyanirimashite konki.</sentence>
         <sentence lang="es">El sajino terminó el yucal de mi suegro.</sentence>
+        <sentence lang="en">The peccary finished with uncle's .</sentence>
         <morphology>
 
 
