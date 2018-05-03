@@ -7005,7 +7005,20 @@ ihankenatantantyari	[i-][VPers][3m.S/A+][--][=hankena][VRoot][=to.write, to.draw
         <sentence lang="prq" normalizationlevel="none">Iitsaare yeye opotsota kitamaari.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Iitsaare yeye opotsota kitamaari.</sentence>
         <sentence lang="es">La ropa de mi hermano es de color blanco.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+iitsaare	[i-][NPers][3m.poss+][--][=kitsaa][VRoot][=to.dress (ES: ponerse.ropa)][--][-re+m.][NS][+NMZ]re
+
+yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
+
+opotsota	[o-][VPers][3n.m.S/A+][--][=potso][VRoot][=to.dye; to.paint (ES: colorear); to.rub.annatto][--][-t][+EP]t[--][-a][+IRR]a
+
+kitamaari	[=kitamaari+m.+sem@color.][NRoot][=white]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="273">
