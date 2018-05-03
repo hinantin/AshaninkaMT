@@ -6833,6 +6833,7 @@ ovantsipooshiki	[=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of
         <sentence lang="prq" normalizationlevel="none">Aririka añaanatero kiribiro, ari opakae yotaantsi.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Aririka anyaanatero kiriviro, ari opakae yotaantsi.</sentence>
         <sentence lang="es">Si leemos el libro, nos dará conocimientos.</sentence>
+        <sentence lang="en">If we read the book, then it will give us knowledge.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -6854,9 +6855,24 @@ opakae	[o-][VPers][3n.m.S/A+][--][=p][VRoot][=to.give (ES: dar)][--][-ak][ASP][+
         <parsing/>
     </text>
     <text id="266">
-        <sentence lang="prq" normalizationlevel="none"> Okatsitakaakeri Shareba ikiri iyamaantsite.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Okatsitakaakeri Shareba ikiri iyamaantsite.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Okatsitakaakeri Shareva ikiri iyamaantsite.</sentence>
         <sentence lang="es">La gripe le hizo doler la nariz a Sharewa.</sentence>
-        <morphology/>
+        <sentence lang="en"/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+okatsitakaakeri	[o-][VPers][3n.m.S/A+][--][=katsit][VRoot][=to.be.in.pain, to.feel.pain (ES: doler)][--][-aka][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]aka[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+shareva	[=shareva][NRoot][=person's.name; NP]
+
+ikiri	[i-][NPers][3m.poss+][--][=kiri+n.m.+inal@tsi.][NRoot][=nose; nostrils]
+
+iyamaantsite	[i-][NPers][3m.poss+][--][=kamaantsi+n./m.+poss@te.][NRoot][=flu (ES: gripe, constipado); snot (ES: moco); having.a.cold; phlegm][--][-te][Gen][+aln.poss.]te
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="267">
