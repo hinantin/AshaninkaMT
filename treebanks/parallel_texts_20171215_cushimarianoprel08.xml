@@ -6956,7 +6956,7 @@ yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: h
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Itsonkakero kitairiki iyanirimashite konki.</sentence>
         <sentence lang="es">El sajino terminó el yucal de mi suegro.</sentence>
         <sentence lang="en">The peccary finished with uncle's land planted with yuccas.</sentence>
-        <morphology format="ashaninkamorph">
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 itsonkakero	[i-][VPers][3m.S/A+][--][=tsonk][VRoot][=to.finish (ES: terminar)][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=ro][+3n.m.O]
