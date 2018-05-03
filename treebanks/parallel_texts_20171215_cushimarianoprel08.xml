@@ -7003,7 +7003,7 @@ ihankenatantantyari	[i-][VPers][3m.S/A+][--][=hankena][VRoot][=to.write, to.draw
     </text>
     <text id="272">
         <sentence lang="prq" normalizationlevel="none">Iitsaare yeye opotsota kitamaari.</sentence>
-        <sentence lang="prq" normalizationlevel="none">Iitsaare yeye opotsota kitamaari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iitsaare yeye opotsota kitamaari.</sentence>
         <sentence lang="es">La ropa de mi hermano es de color blanco.</sentence>
         <morphology/>
         <parsing/>
