@@ -6809,6 +6809,7 @@ pinkaavoshitya	[pi-][VPers][2S/A+][--][N=][IRR+][--][=kaavoshi][VRoot][=to.bathe
         <sentence lang="prq" normalizationlevel="none">Riyati ani itsikotsi kiri obantsipooshiki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Riyati ani itsikotsi kiri ovantsipooshiki.</sentence>
         <sentence lang="es">Mi cuñado fue a coger pijuayo en la purma.</sentence>
+        <sentence lang="en">My brother-in-law took hold of pifayo-tree in the abandoned sown field.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -6828,10 +6829,18 @@ ovantsipooshiki	[=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of
         <parsing/>
     </text>
     <text id="265">
-        <sentence lang="prq">Aririkia añaanatero kiribiro, ari opakae yotaantsi.</sentence>
+        <!-- Aririkia añaanatero kiribiro, ari opakae yotaantsi. -->
+        <sentence lang="prq" normalizationlevel="none">Aririka añaanatero kiribiro, ari opakae yotaantsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Aririka anyaanatero kiriviro, ari opakae yotaantsi.</sentence>
         <sentence lang="es">Si leemos el libro, nos dará conocimientos.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
+
+aririka	[=ari][PostPol][=PP][--][=rika][+COND]::[=when (temporal.simultaneity), if (expresses.possible.condition)]
+
+anyaanatero	[a-][VPers][1PL.S/A+][--][=nyaana][VRoot][=to.read (ES: leer)][--][-t][+EP]t[--][-e][+IRR]e[--][=ro][+3n.m.O]
+
+kiriviro	[=libro/kiriviro][NRootEs][=book (ES: libro)]
 
 opakae	[o-][VPers][3n.m.S/A+][--][=p][VRoot][=to.give (ES: dar)][--][-ak][ASP][+PRF]ak[--][=ae][+1INCL.PL.O][=(to).us (ES: (a).nosotros)]ae
 
