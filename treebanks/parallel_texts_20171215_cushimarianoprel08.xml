@@ -6992,6 +6992,7 @@ pamananteri	[p-][VPers][2S/A+][--][=amanant][VRoot][=to.buy (ES: comprar)][--][-
 
 pitomi	[pi-][NPers][2poss+][--][=tomi+m.+inal@tsi.][NRoot][=son (kin.of.a.fe/male)]
 
+???
 ikitamaaripetate	[i-][NPers][3m.poss+][--][=kitamaari+m.+sem@color.][NRoot][=white][--][-peta][+DIM][--][-te][Gen][+aln.poss.]te
 
 ihankenatantantyari	[i-][VPers][3m.S/A+][--][=hankena][VRoot][=to.write, to.draw][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-t][+EP]t[--][-eya][+IRR.RFL]eya[--][=ri][NS][+REL]
@@ -7022,9 +7023,22 @@ kitamaari	[=kitamaari+m.+sem@color.][NRoot][=white]
         <parsing/>
     </text>
     <text id="273">
-        <sentence lang="prq">Kiteriatake nija obeni.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Kiteriatake nija obeni.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Kiteriatake niha oveni.</sentence>
         <sentence lang="es">El agua del río Unini es limpia.</sentence>
-        <morphology/>
+        <sentence lang="en">The water of the Unini river is clean.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+???
+
+niha	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
+
+oveni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="274">
