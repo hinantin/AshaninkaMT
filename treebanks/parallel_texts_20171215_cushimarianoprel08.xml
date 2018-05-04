@@ -7218,7 +7218,7 @@ imaantyari	[i-][VPers][3m.S/A+][--][=ma][VRoot][=to.sleep (ES: dormir)][--][-ant
         <sentence lang="prq" normalizationlevel="none">Ikantakena yeye raretantapaakari: Nokobi noya kaniri.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikantakena yeye raretantapaakari: Nokovi noya kaniri.</sentence>
         <sentence lang="es">Mi hermano me dijo al llegar: “Quiero comer yuca”.</sentence>
-        <sentence lang="en"/>
+        <sentence lang="en">When arriving brother said: "I want to eat yucca".</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -7242,7 +7242,7 @@ kaniri	[=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: y
         <parsing/>
     </text>
     <text id="283">
-        <sentence lang="prq">Ijaeki kobana nijaaki robabo onkochapaaki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ijaeki kobana nijaaki robabo onkochapaaki.</sentence>
         <sentence lang="es">La lisa vive en el agua comiendo frutos de cetico.</sentence>
         <morphology/>
         <parsing/>
