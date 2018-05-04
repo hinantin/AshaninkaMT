@@ -7216,13 +7216,15 @@ imaantyari	[i-][VPers][3m.S/A+][--][=ma][VRoot][=to.sleep (ES: dormir)][--][-ant
     </text>
     <text id="282">
         <sentence lang="prq" normalizationlevel="none">Ikantakena yeye raretantapaakari: Nokobi noya kaniri.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikantakena yeye raretantapaakari: Nokobi noya kaniri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikantakena yeye raretantapaakari: Nokovi noya kaniri.</sentence>
         <sentence lang="es">Mi hermano me dijo al llegar: “Quiero comer yuca”.</sentence>
         <sentence lang="en"/>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 ikantakena	[i-][VPers][3m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=na][+1SG.O]
+
+yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
 
 
 
