@@ -7042,9 +7042,25 @@ oveni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <parsing/>
     </text>
     <text id="274">
-        <sentence lang="prq">Noñaake apani inchateyaki kiteriri abotsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Noñaake apani inchateyaki kiteriri abotsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Nonyaake apani inchateyaki kiteriri avotsiki.</sentence>
         <sentence lang="es">En el camino vi una flor amarilla.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+nonyaake	[no-][VPers][1SG.S/A+][--][=ny][VRoot][=to.see, to.look.for; to.visit][--][-a][+EP]a[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e
+
+apani	[=apani][NumeralPRQ][=one]
+
+inchateyaki	[=incha][NRoot][=plant][--][-teyaki][+CL:flower][=flower]
+
+kiteriri	[=kiteriri+sem@color.][NRoot][=yellow (ES: amarillo)]
+
+avotsiki	[=avo+n.m.+inal@tsi.][NRoot][=road, trail][--][-tsi+alien.][Gen][+nposs]tsi[--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="275">
