@@ -215,7 +215,20 @@ SÓ DOIS” – PERGUNTA TIO WEWITO
 -COMPLETA TAYRI
 
 </sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+hĩpe	[=hĩpe][IndfSpecifCPB][=where; who]
+
+kaatsika	[=kaats][VRootCPB][=to.be (PT: ser,, estar)][--][-i][+IRR]i[--][=ka][+Q]
+
+paakari	[p-][VPers][2S/A+][--][=a][VRoot][=to.get][--][-ak][ASP][+PRF]ak[--][-a][+REAL]a[--][=ri][+3m.O]
+
+shima	[=shima+m.+poss@ni.][NRoot][=fish; fish.sp., boquichico-fish (ES: boquichico, chupadora; sci.nm.: prochilodus.nigricans)]
+
+?	?[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
 </parallel>
