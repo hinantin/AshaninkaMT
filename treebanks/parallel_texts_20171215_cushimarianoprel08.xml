@@ -7194,7 +7194,7 @@ oovaenchari	[=oov][VRoot][=to.put.sth.out.in.the.sun  (ES: solear); to.shine; to
     </text>
     <text id="281">
         <sentence lang="prq" normalizationlevel="none">Ikiyakoti etini imoo imantyari.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikiyakoti etini imoo imantyari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikiyakoti etini imoo imaantyari.</sentence>
         <sentence lang="es">El quirquincho cava un hueco para dormir.</sentence>
         <morphology>
 
@@ -7205,6 +7205,7 @@ etini	[=etini][NRoot][=armadillo (ES: carachupa; sci.nm.: dasypus.novemcintus, d
 
 imoo	[i-][NPers][3m.poss+][--][=moo+n.m.+inal@tsi.][NRoot][=hole (ES: hueco)]
 
+imaantyari	[i-][VPers][3m.S/A+][--][=ma][VRoot][=to.sleep (ES: dormir)][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-eya][+IRR.RFL]eya[--][=ri][+3m.O]
 
 
 </morphology>
