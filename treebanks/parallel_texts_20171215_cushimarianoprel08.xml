@@ -7245,7 +7245,19 @@ kaniri	[=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: y
         <sentence lang="prq" normalizationlevel="none">Ijaeki kobana nijaaki robabo onkochapaaki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ihaeki kovana nihaaki rovavo onkochapaaki.</sentence>
         <sentence lang="es">La lisa vive en el agua comiendo frutos de cetico.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ihaeki	[i-][VPers][3m.S/A+][--][=haek][VRoot][=to.be, to.be.at, to.be.in; to.sit; to.live][--][-i][+IRR]i
+
+kovana	[=kovana][NRoot][=lisa-fish (ES: lisa; sci.nm.: anostomidae, leporinus.friderici)]
+
+nihaaki	[=nihaa+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)][--][-ki][Cas][+LOC_LOC.T]
+
+rovavo	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-a][+REAL.RFL]a[--][=vo][+3n.m.O]
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="284">
