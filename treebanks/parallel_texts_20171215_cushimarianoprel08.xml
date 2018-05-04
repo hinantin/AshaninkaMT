@@ -7081,14 +7081,31 @@ ateetakovetavo	[=atee][VRoot][=to.go.up (ES: subir); to.climb (ES: trepar)][--][
 
 hirimaki	[=hirimaki][NRoot][=lemon (botany.nm.: citrus.lemon/limon; ES: limón)]
 
+.	.[$.]
 
 </morphology>
         <parsing/>
     </text>
     <text id="276">
-        <sentence lang="prq">Robantabo rampate kitochempe aririka robabaetya.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Robantabo rampate kitochempe aririka robabaetya.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovantavo rampate kitochempe aririka rovavaetya.</sentence>
         <sentence lang="es">El camarón come con la pinza izquierda.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+rovantavo	[r-][VPers][3m.S/A+][--][o=][AGT.CAUS+][--][=v][VRoot][=to.eat (ES: comer)][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-a][+IRR]a[--][=vo][+3n.m.O]
+
+rampate	[r-][NPers][3m.poss+][--][=ampate+inal@ntsi.][NRoot][=left.hand, left.side (ES: mano.izquierda; lado.izquierdo)]
+
+kitochempe	[=kitochempe][NRoot][=shrimp.sp. (ES: sp.de.camarón)]
+
+aririka	[=ari][PostPol][=PP][--][=rika][+COND]::[=when (temporal.simultaneity), if (expresses.possible.condition)]
+
+rovavaetya	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-a][+EP]a[--][-vae][ASP][+DUR][=action/state..endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]vae[--][-t][+EP]t[--][-ya][+IRR]ya
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="277">
