@@ -7215,7 +7215,7 @@ imaantyari	[i-][VPers][3m.S/A+][--][=ma][VRoot][=to.sleep (ES: dormir)][--][-ant
         <parsing/>
     </text>
     <text id="282">
-        <sentence lang="prq">Ikantakena yeye raretantapaakari: Nokobi noya kaniri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikantakena yeye raretantapaakari: Nokobi noya kaniri.</sentence>
         <sentence lang="es">Mi hermano me dijo al llegar: “Quiero comer yuca”.</sentence>
         <morphology/>
         <parsing/>
