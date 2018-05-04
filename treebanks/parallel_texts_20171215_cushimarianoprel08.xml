@@ -7156,7 +7156,16 @@ ohari	[o-][NPers][3n.m.poss+][--][=hari+poss@ri][NRoot][=brother (kin.of.a.femal
         <sentence lang="prq" normalizationlevel="none">Ikentakina kitsapi nakoki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikentakina kitsapi nakoki.</sentence>
         <sentence lang="es">La aguja me picó en la mano.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ikentakina	[i-][VPers][3m.S/A+][--][=kent][VRoot][=to.pierce.with.arrows, to.shoot.arrows; to.sting (ES: picar)][--][-ak][ASP][+PRF]ak[--][-i][+IRR]i[--][=na][+1SG.O]
+
+kitsapi	[=kitsapi+m.+poss@ti.][NRoot][=needle (ES: aguja)]
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="280">
