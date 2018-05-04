@@ -7193,7 +7193,8 @@ oovaenchari	[=oov][VRoot][=to.put.sth.out.in.the.sun  (ES: solear); to.shine; to
         <parsing/>
     </text>
     <text id="281">
-        <sentence lang="prq" normalizationlevel="none">Ikiyakoti etini imoo imantyari.</sentence>
+        <!-- To be revised: Ikiyakoti etini imoo imantyari -->
+        <sentence lang="prq" normalizationlevel="none">Ikiyakoti etini imoo imantyaari.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikiyakoti etini imoo imaantyari.</sentence>
         <sentence lang="es">El quirquincho cava un hueco para dormir.</sentence>
         <sentence lang="en">The armadillo digs its hole in order for it to sleep in it.</sentence>
