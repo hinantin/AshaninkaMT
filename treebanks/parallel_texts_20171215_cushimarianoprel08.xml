@@ -7113,7 +7113,7 @@ rovavaetya	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-a][+EP
         <sentence lang="prq" normalizationlevel="none">Ijeeki kitoniro otakipayeki tsiyaroki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Iheeki kitoniro otakipayeki tsiyaroki.</sentence>
         <sentence lang="es">El alacrán vive en la corteza de las palmeras.</sentence>
-        <sentence lang="en"/>
+        <sentence lang="en">The scorpion dwells in the shapaja-palm-tree </sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -7131,9 +7131,14 @@ tsiyaroki	[=tsiyaro+n.m.][NRoot][=palm.tree.sp. (ES: shapaja, shebón; sci.nm.: 
         <parsing/>
     </text>
     <text id="278">
-        <sentence lang="prq">Ontyaati isheeni kitsaarentsi omperiri ojari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ontyaati isheeni kitsaarentsi omperiri ojari.</sentence>
         <sentence lang="es">La abuela teje cushma para su nieto.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="279">
