@@ -7110,7 +7110,7 @@ rovavaetya	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-a][+EP
         <parsing/>
     </text>
     <text id="277">
-        <sentence lang="prq">Ijeeki kitoniro otakipayeki tsiyaroki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ijeeki kitoniro otakipayeki tsiyaroki.</sentence>
         <sentence lang="es">El alacrán vive en la corteza de las palmeras.</sentence>
         <morphology/>
         <parsing/>
