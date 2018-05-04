@@ -7172,7 +7172,7 @@ nakoki	[n-][NPers][1SG.poss+][--][=ako+n.m.+inal@tsi.][NRoot][=arm][--][-ki][Cas
         <parsing/>
     </text>
     <text id="280">
-        <sentence lang="prq">Pamakenabo noetsaare kityonkari oobaenchari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Pamakenabo noetsaare kityonkari oobaenchari.</sentence>
         <sentence lang="es">Tráeme el vestido rojo que está soleado.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
