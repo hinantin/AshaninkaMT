@@ -7065,9 +7065,24 @@ avotsiki	[=avo+n.m.+inal@tsi.][NRoot][=road, trail][--][-tsi+alien.][Gen][+nposs
         <parsing/>
     </text>
     <text id="275">
-        <sentence lang="prq">Okentakero kitoche iiñeeni ateetakobetabo jirimaki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Okentakero kitoche iiñeeni ateetakobetabo jirimaki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Okentakero kitoche iinyeeni ateetakovetavo hirimaki.</sentence>
         <sentence lang="es">La espina picó a mi cuñada cuando subía al limonero.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+okentakero	[o-][VPers][3n.m.S/A+][--][=kent][VRoot][=to.pierce.with.arrows, to.shoot.arrows; to.sting (ES: picar)][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ro][+3n.m.O]
+
+kitoche	[=kitoche+n.m.][NRoot][=thorn (ES: espina)]
+
+iinyeeni	[=iinyeeni+n.m.][NRoot][=sister.in.law (kin.of.a.male)]
+
+ateetakovetavo	[=atee][VRoot][=to.go.up (ES: subir); to.climb (ES: trepar)][--][-t][+EP]t[--][-ako][+APPL.GEN][=with.reference.to.sth.; about.sth.]ako[--][-ve][+FRUS][=unsuccessful/interrupted.action/state (EN: in.vain; ES: casi); action.that.didn't.achieve.the.desired.result]ve[--][-t][+EP]t[--][-a][+REAL]a[--][=vo][+3n.m.O]
+
+hirimaki	[=hirimaki][NRoot][=lemon (botany.nm.: citrus.lemon/limon; ES: limón)]
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="276">
