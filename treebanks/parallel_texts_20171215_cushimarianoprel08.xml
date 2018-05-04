@@ -7154,6 +7154,7 @@ ohari	[o-][NPers][3n.m.poss+][--][=hari+poss@ri][NRoot][=brother (kin.of.a.femal
     </text>
     <text id="279">
         <sentence lang="prq" normalizationlevel="none">Ikentakina kitsapi nakoki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikentakina kitsapi nakoki.</sentence>
         <sentence lang="es">La aguja me picó en la mano.</sentence>
         <morphology/>
         <parsing/>
