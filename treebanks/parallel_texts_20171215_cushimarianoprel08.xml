@@ -7113,6 +7113,7 @@ rovavaetya	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-a][+EP
         <sentence lang="prq" normalizationlevel="none">Ijeeki kitoniro otakipayeki tsiyaroki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Iheeki kitoniro otakipayeki tsiyaroki.</sentence>
         <sentence lang="es">El alacrán vive en la corteza de las palmeras.</sentence>
+        <sentence lang="en"/>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -7123,6 +7124,8 @@ kitoniro	[=kitoniro+m.][NRoot][=scorpion (ES: alacrán)]
 otakipayeki	[=otaki+n.m.+inal@ntsi.][NRoot][=shell (ES: caparazón); peel (ES: cáscara); skin; her.shell][--][-paye][Num][+PL_DIST][--][-ki][Cas][+LOC_LOC.T]
 
 tsiyaroki	[=tsiyaro+n.m.][NRoot][=palm.tree.sp. (ES: shapaja, shebón; sci.nm.: attalea.phalerata.martius.ex.spengel, scheelea)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
