@@ -263,4 +263,17 @@ tayri	[=tairi+n.m.][NRoot][=yellow-flowered.tree.sp. (ES: oropel; sci.nm.: erith
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="">
+        <sentence lang="cpb">Sãkinate 5 owayro (lixo) amashitsirori kipatsi  </sentence>
+        <sentence lang=""/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+amashitsirori	[=amashi][VRoot][=to.wound; to.destroy (ES: malograr)][--][-t][+EP]ts[--][-i][+IRR]i[--][=ro][+3n.m.O][--][=ri][NS][+REL]
+
+
+
+</morphology>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
