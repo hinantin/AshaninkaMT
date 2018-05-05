@@ -53,4 +53,16 @@ O   Õ
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="6">
+        <sentence lang="cpb">Eero akoyitsii niyãkimashiniki ookeniri ashi royari tsimeri ikemita, kiteyriki, shitori, shawo, orishitsii, meyiri eehatsi itsipa-payni owariri.</sentence>
+        <sentence lang="pt">Não fazer coleta dentro da mata para deixar para as caças se alimentarem, por exemplo: o porquinho, a queixada, a cotia, a cotiara, o quatipuru, etc.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="7">
+        <sentence lang="cpb">Akoyiteri okaate 300 osãthate (metros) hiyatxeraki, eehatsii ãtawaitapita okakini anãpi.</sentence>
+        <sentence lang="pt">Coletar até 300 metros a partir da margem dos rios e igarapés, na área de uso da aldeia</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
