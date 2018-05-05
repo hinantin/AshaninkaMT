@@ -167,4 +167,10 @@ O   Õ
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="25">
+        <sentence lang="cpb">Âtakayiri wirakotxa kekitharetsi akamãteri riyotãtxaari tsiika iiteroka ãtari ashenika txamayro, akowakoteri ãtxaari txamayro eehatsi aminero tsiika oseikika aminakotero eero ithõkãta .</sentence>
+        <sentence lang="pt">Localizar nessas áreas os locais onde estão os partidos de txamayro.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
