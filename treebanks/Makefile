@@ -6,6 +6,7 @@ download:
 	@perl /home/richard/Documents/git/02_AshaninkaMorph_GoogleCode/hntAshaninka/morphology/AshaninkaMorph/generated_states_transitions/httpclient.pl -g /db/HNTAshaninka/ParallelCorpus/parallel_texts_20180307_minagrihidrico13.xml > parallel_texts_20180307_minagrihidrico13.xml
 	@perl /home/richard/Documents/git/02_AshaninkaMorph_GoogleCode/hntAshaninka/morphology/AshaninkaMorph/generated_states_transitions/httpclient.pl -g /db/HNTAshaninka/ParallelCorpus/parallel_texts_homapani.xml > parallel_texts_homapani.xml
 	@perl /home/richard/Documents/git/02_AshaninkaMorph_GoogleCode/hntAshaninka/morphology/AshaninkaMorph/generated_states_transitions/httpclient.pl -g /db/HNTAshaninka/ParallelCorpus/parallel_texts_20180428_almonacid2minedu15.xml > parallel_texts_20180428_almonacid2minedu15.xml
+	@perl /home/richard/Documents/git/02_AshaninkaMorph_GoogleCode/hntAshaninka/morphology/AshaninkaMorph/generated_states_transitions/httpclient.pl -g /db/HNTAshaninka/ParallelCorpus/parallel_texts_20180505_mesquitaetnomatematica12.xml > parallel_texts_20180505_mesquitaetnomatematica12.xml
 	@perl /home/richard/Documents/git/02_AshaninkaMorph_GoogleCode/hntAshaninka/morphology/AshaninkaMorph/generated_states_transitions/httpclient.pl -g /db/HNTAshaninka/ParallelCorpus/parallel_texts.xsd > parallel_texts.xsd
 #	@sed -i '1s/^/<?xml version="1.0" encoding="UTF-8"?>\n/' parallel_texts_20171215_cushimarianoprel08.xml
 
