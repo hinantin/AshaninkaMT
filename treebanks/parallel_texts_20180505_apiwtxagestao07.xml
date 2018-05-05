@@ -209,4 +209,10 @@ O   Õ
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="32">
+        <sentence lang="cpb">Iroyaka ãtakiro iroperotãtsi, tee atowairo tsiitama aririka akowi ayero oshi tsiitama ataitaktero henoki.</sentence>
+        <sentence lang="pt">Está sendo feito o manejo da palha do jaci.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
