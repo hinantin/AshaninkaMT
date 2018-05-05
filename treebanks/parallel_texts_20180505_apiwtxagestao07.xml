@@ -221,4 +221,10 @@ O   Õ
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="34">
+        <sentence lang="cpb">9 - Koriyawa:</sentence>
+        <sentence lang="prq">9 - Coco inajá:</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
