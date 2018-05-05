@@ -14,4 +14,10 @@ year={2012},
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="2">
+        <sentence lang="cpb">Hiyetayiri ẽẽtsite </sentence>
+        <sentence lang="pt">Ensinando para os filhos como trabalhar, escolher um local melhor ser rozado para plantar marcareira, banana, etc. </sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
