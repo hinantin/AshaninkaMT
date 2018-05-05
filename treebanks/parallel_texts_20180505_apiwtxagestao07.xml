@@ -203,4 +203,10 @@ O   Õ
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="31">
+        <sentence lang="cpb">8 - Tsiitama:</sentence>
+        <sentence lang="pt">8 - Jaci:</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
