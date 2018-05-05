@@ -245,4 +245,16 @@ O   Õ
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="38">
+        <sentence lang="cpb">Aririka atowakiri athõkeri mawoyni itxato eero rapatãta, iririka yopo ashayero mawoyni otaaki othakãtxaari tsinani-payni kitharetsi.</sentence>
+        <sentence lang="pt">Derrubar e aproveitar bem todos os paus, as cascas e os galhos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39">
+        <sentence lang="cpb">11 - Sãtari-payni:</sentence>
+        <sentence lang="pt">11 - Madeira de lei:</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
