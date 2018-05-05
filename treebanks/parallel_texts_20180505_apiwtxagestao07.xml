@@ -1,0 +1,31 @@
+<!-- 
+
+@article{apiwtxa:gestao:07,
+author={Associa\c{c}\~{a}o, Apiwtxa},
+title={Plano de gest\~{a}o territorial e ambiental da terra ind\'{i}gena Kampa do rio Am\^{o}nia},
+year={2007},
+}
+
+a   ã
+e   ẽ
+i   ĩ
+o   õ
+
+A   Ã
+E   Ẽ
+I   Ĩ
+O   Õ
+
+-->
+<parallel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="parallel_texts.xsd">
+    <text id="0">
+        <sentence lang="cpb">AYAWÕTATSIRO HIYATENE AASHI IPATSITE ASHENIKA AMOYSATSI</sentence>
+        <sentence lang="pt">TERRA INDÍGENA KAMPA DO RIO AMÔNIA</sentence>
+    </text>
+    <text id="">
+        <sentence lang="cpb">ASHE AMINÃTXARI AIPATSITE ASHANINKA EERO ITHÕKATXARI ASHE. AAKA SEYKAYETSIRI ÃTAMIKI EEHATISITA AASHE WIRAKOTXA SEYKAYETSIRI OKOWAKINE AIPATSITE</sentence>
+        <sentence lang="pt">PLANO DE GESTÃO TERRITORIAL E AMBIENTAL DA TERRA INDÍGENA KAMPA DO RIO AMÔNIA</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+</parallel>
