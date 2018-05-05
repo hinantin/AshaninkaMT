@@ -215,4 +215,10 @@ O   Õ
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="33">
+        <sentence lang=""/>
+        <sentence lang="pt">Para a coleta, usamos equipamento de alpinismo em toda a área da aldeia</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
