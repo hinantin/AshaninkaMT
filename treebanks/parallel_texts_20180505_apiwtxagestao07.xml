@@ -173,4 +173,10 @@ O   Õ
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="26">
+        <sentence lang="cpb">7 - itxashi aitsiro awitãtxari mãtsiiyaretsi-payni:</sentence>
+        <sentence lang="pt">7 - Plantas medicinais:</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
