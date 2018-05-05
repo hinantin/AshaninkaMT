@@ -77,4 +77,10 @@ O   Õ
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="10">
+        <sentence lang="cpb">Akoyitãtari okithoki itxato-payni ashi apãkitãtxaari ithomoitaki aipatsiiteki owãtsi-poshiki eehatsii hekokiroki wirakotxaki.</sentence>
+        <sentence lang="pt">um dos objetivos era o plantio e reflorestamento dentro da terra indígena e fora dela.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
