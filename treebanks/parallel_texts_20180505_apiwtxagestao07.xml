@@ -66,8 +66,8 @@ O   Õ
         <parsing format="" analysislevel=""/>
     </text>
     <text id="8">
-        <sentence lang=""/>
-        <sentence lang=""/>
+        <sentence lang="cpb"/>
+        <sentence lang="pt"/>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
