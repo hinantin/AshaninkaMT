@@ -7265,7 +7265,8 @@ onkochapaaki	[=onkochapa][NRoot][=cecropia.sp., tree.sp. (ES: cetico, siteco)][-
         <parsing/>
     </text>
     <text id="284">
-        <sentence lang="prq">Nokobashiriaka tsika onkantapaentya nareetyari ikemeta obametantatsiri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Nokobashiriaka tsika onkantapaentya nareetyari ikemeta obametantatsiri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Nokovashiriaka tsika onkantapaentya nareetyari ikemeta ovametantatsiri.</sentence>
         <sentence lang="es">Deseo llegar a ser profesor algún día.</sentence>
         <morphology/>
         <parsing/>
