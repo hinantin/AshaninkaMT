@@ -191,4 +191,10 @@ O   Õ
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="29">
+        <sentence lang="cpb">Mawoyni ashitawori pãkotsi atsiri raminero itxashi-payni okatsi riyotsiiro seikatsiri itayni ramero ipãkitero okakine inãpiki.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
