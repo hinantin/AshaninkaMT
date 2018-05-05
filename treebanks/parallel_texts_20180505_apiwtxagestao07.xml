@@ -19,10 +19,11 @@ O   Õ
 -->
 <parallel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="parallel_texts.xsd">
     <text id="0">
-        <sentence lang="cpb">AYAWÕTATSIRO HIYATENE AASHI IPATSITE ASHENIKA AMOYSATSI</sentence>
+        <!-- AYAWÕTATSIRO HIYATENE AASHI IPATSITE ASHENIKA AMOYSATSI -->
+        <sentence lang="cpb">AYAWÕTATSIRO HIYATENE AASHI IPATSITE ASHENĨKA AMOYSATSI</sentence>
         <sentence lang="pt">TERRA INDÍGENA KAMPA DO RIO AMÔNIA</sentence>
     </text>
-    <text id="">
+    <text id="1">
         <sentence lang="cpb">ASHE AMINÃTXARI AIPATSITE ASHANINKA EERO ITHÕKATXARI ASHE. AAKA SEYKAYETSIRI ÃTAMIKI EEHATISITA AASHE WIRAKOTXA SEYKAYETSIRI OKOWAKINE AIPATSITE</sentence>
         <sentence lang="pt">PLANO DE GESTÃO TERRITORIAL E AMBIENTAL DA TERRA INDÍGENA KAMPA DO RIO AMÔNIA</sentence>
         <morphology format="" analysislevel=""/>
