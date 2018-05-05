@@ -1,0 +1,17 @@
+<!-- 
+
+@article{mesquita:etnomatematica:12,
+author={Mesquita, Erika},
+title={Alguns conhecimientos de etnomatem\'{a}tica Ashaninka},
+year={2012},
+}
+
+-->
+<parallel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="parallel_texts.xsd">
+    <text id="1">
+        <sentence lang="cpb">Hiyetayiri ẽẽtsite ikatsiawayta ãtamiki.</sentence>
+        <sentence lang="pt">Ensinando o filho como caçar na mata.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+</parallel>
