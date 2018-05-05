@@ -185,4 +185,10 @@ O   Õ
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="28">
+        <sentence lang="">Âtero apaani oshawori owãtsi opãkitãtxaari osheki hiroka-payni itxashi awitawõtsi, hiroka owãtsi aminerine ãtariite yotsiirori eehtsii aminirori mãtsiyari-payni anãpiki.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
