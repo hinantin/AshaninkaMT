@@ -227,4 +227,10 @@ O   Õ
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="35">
+        <sentence lang="cpb">Eero atoware koriyawa aririka ayeri, hame ãpãkite koriyawa haka aipatsiteki tekatsi-pero okakine apatsiiro itayna.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
