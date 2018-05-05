@@ -197,4 +197,10 @@ O   Õ
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="30">
+        <sentence lang="cpb">Akowakotairo yorekãtsi ashi itxashi-payni osãkinatakiro pairani Margarete.</sentence>
+        <sentence lang="pt">Recuperar a pesquisa sobre plantas medicinais feita em colaboração com a pesquisadora Margarete Mendes.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
