@@ -155,4 +155,10 @@ O   Õ
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="23">
+        <sentence lang="cpb">Hirika txaamayro tekatsi haka aipatsiteki ,otsimatxee akekithashiriyeya tsiikarika oseiki ameeri ãpãkite haka anãpiki. Irotaki eehatsii riyoreka rashi ashenika .</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
