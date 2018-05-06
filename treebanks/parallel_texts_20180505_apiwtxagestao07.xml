@@ -257,4 +257,16 @@ O   Õ
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="40">
+        <sentence lang="cpb">Aminero aipatsiteki okaatsii sãtari-payni tsiimatsiri, oyatakoteri eehatsii okatsiika osaretsi rãtaritãtxaari.</sentence>
+        <sentence lang="pt">Fazer uma pesquisa sobre a abundância das espécies de madeira de lei mais usadas e suas taxas de crescimento.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="41">
+        <sentence lang="cpb">Aamawetapitatxari mõkataka raminakoteri sãtari-payni ãtamiki.</sentence>
+        <sentence lang="pt">Os caçadores podem trazer informações e fazer o registro.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
