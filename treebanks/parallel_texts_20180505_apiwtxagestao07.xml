@@ -293,4 +293,16 @@ O   Õ
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="46">
+        <sentence lang="cpb">Aririka akowi ayeri txotxoki eero atoweri. Ateitakoteri henoki eehatsii ateitakotãtxaawo shiwitha.</sentence>
+        <sentence lang="pt">Fazer a coleta evitando a derrubada: trepando na árvore e usando material de alpinismo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="47">
+        <sentence lang="cpb"/>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
