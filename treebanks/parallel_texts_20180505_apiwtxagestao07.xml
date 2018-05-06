@@ -275,4 +275,10 @@ O   Õ
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="43">
+        <sentence lang="cpb">Akekithashiriyeya tsiika akãteroka ayotãtxaari ikatsiika tsiimatsiri asãtarite.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
