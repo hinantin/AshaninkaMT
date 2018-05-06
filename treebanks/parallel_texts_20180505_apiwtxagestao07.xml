@@ -587,4 +587,16 @@ O   Õ
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="95">
+        <sentence lang="cpb">Awisaki kariperotaãtsi haka tee onitaperotsi hiroka pãkiretsi ãpe, oitarika awishimotakiriri kari initaperotãtari kametha.</sentence>
+        <sentence lang="pt">Estamos vivendo um problema com os nossos plantios de algodão, uma praga vem destruindo muito a nossa plantação.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="96">
+        <sentence lang=""/>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
