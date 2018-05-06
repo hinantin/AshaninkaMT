@@ -557,4 +557,10 @@ O   Õ
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="90">
+        <sentence lang="cpb">Quando for necessário colocar na mata bruta, estudar junto com o agente agroflorestal os recursos que existem dentro da área.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
