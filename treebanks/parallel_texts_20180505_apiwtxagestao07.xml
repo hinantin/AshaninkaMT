@@ -269,4 +269,10 @@ O   Õ
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="42">
+        <sentence lang="cpb">Eero atoweri sãtari eehatsii yopo ãtãtxaari pãkotsi.</sentence>
+        <sentence lang="pt">Não usar cedro e aguano para a construção de casas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
