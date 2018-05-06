@@ -335,4 +335,10 @@ O   Õ
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="53">
+        <sentence lang="cpb">1 - otsitsi:</sentence>
+        <sentence lang="pt"/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
