@@ -617,4 +617,10 @@ O   Õ
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="100">
+        <sentence lang=""/>
+        <sentence lang="pt">Mas gostaríamos de fortalecer essa relação de troca para a melhoria e enriquecimento da agricultura tradicional da Terra Indígena do Rio Amônia.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
