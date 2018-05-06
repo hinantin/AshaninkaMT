@@ -431,4 +431,10 @@ O   Õ
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="69">
+        <sentence lang="cpb">aririka aretakiya osaretsi akamaatãtxaari otsiimatxee ãtero ketsiiroyni kekitharetsi, eero athõkiro akamaatsi mawoyni omotxaa.</sentence>
+        <sentence lang="pt">No ano de pesca com bicheiro, combinar com a comunidade quais serão os remansos utilizados para mergulho.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
