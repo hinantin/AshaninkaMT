@@ -413,4 +413,10 @@ O   Õ
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="66">
+        <sentence lang="cpb">Kekithataãtsi ashi wakashi eero opãkitxaa osheki owãtsiki, ãpãkite 3 eerorika 4 opõkitsii.</sentence>
+        <sentence lang="pt">Controlar o plantio de oaca. Sugerimos no máximo quatro pés por roçado.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
