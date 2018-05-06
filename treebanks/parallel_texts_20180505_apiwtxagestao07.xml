@@ -509,4 +509,10 @@ O   Õ
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="82">
+        <sentence lang="cpb">Hirika kipatsi ãtami ashi itsiimãnikitãtxaari tsimeri-payni.</sentence>
+        <sentence lang="pt">É uma área reservada para a reprodução da fauna.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
