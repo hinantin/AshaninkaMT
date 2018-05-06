@@ -360,7 +360,13 @@ O   Õ
         <parsing format="" analysislevel=""/>
     </text>
     <text id="57">
-        <sentence lang="cpb"/>
+        <sentence lang="cpb">2 - amawetaãtsi:</sentence>
+        <sentence lang="pt">2 - Caçada:</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="58">
+        <sentence lang=""/>
         <sentence lang=""/>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
