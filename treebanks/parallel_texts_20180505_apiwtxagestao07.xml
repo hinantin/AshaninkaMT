@@ -563,4 +563,10 @@ O   Õ
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="91">
+        <sentence lang="cpb">Âtero kekitharetsi aminãtxaari kipatsi tsikahãtaka opãkitapitxaa kaniri.</sentence>
+        <sentence lang="pt">Fazer um planejamento junto com a comunidade para delimitar uma área que fique reservada para o plantio de macaxeira.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
