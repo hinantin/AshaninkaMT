@@ -533,4 +533,10 @@ O   Õ
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="86">
+        <sentence lang="cpb">Kashiriki agostoki osaretsi 2004 etaawori kipatsi ãtami itsiimãnikitãtxaari tsimeri rapiitakiro ikiyaki, iroyaka rowikakiro oitarika riyoreka oshawori koyapiu hiyateniki tawayaneki, rowikakiro niyãkithakeniki irohatsii aretaka aatariki ithõka ikamaki osheki ama apite toneladas shima kamãitsiri.</sentence>
+        <sentence lang="pt">Em agosto de 2004, a primeira área foi novamente afetada quando colocaram uma grande quantidade de veneno no rio Amoninha, do meio até a foz, matando aproximadamente duas toneladas de peixe.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
