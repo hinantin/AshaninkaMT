@@ -445,7 +445,13 @@ O   Õ
     </text>
     <text id="71">
         <sentence lang="cpb">Eero apaashikero itxapoki-payni apasakaweite.</sentence>
-        <sentence lang="pt"/>
+        <sentence lang="pt">Não cobrir a pauzada com a tarrafa para fazer bateção.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="72">
+        <sentence lang=""/>
+        <sentence lang=""/>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
