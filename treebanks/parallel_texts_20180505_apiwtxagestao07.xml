@@ -407,4 +407,10 @@ O   Õ
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="65">
+        <sentence lang="cpb">1 - Wakashi:</sentence>
+        <sentence lang="pt">1 - oaca:</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
