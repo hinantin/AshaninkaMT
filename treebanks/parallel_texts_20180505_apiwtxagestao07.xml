@@ -419,4 +419,16 @@ O   Õ
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="67">
+        <sentence lang="cpb">2 - Shimataãtsi akamaatsii:</sentence>
+        <sentence lang="pt">2 - Pesca com bicheiro:</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="68">
+        <sentence lang="cpb">Erro akamaattsii osheki, akamaate apaani osaretsi apite osaretsi eero akamaattsii.</sentence>
+        <sentence lang="pt">Pescar com bicheiro durante um ano e deixar de pescar nos próximos dois anos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
