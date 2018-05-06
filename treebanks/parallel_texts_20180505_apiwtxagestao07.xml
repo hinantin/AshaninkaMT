@@ -599,4 +599,10 @@ O   Õ
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="97">
+        <sentence lang="cpb">Otsiimatxee amineri itsiimika yotsirori hiroka mãtsiyaretsi, ipoki raminero ramitakotay othõkãtxaari.</sentence>
+        <sentence lang="pt">Devemos procurar ajuda de fora para tentar resolver esse problema que estamos enfrentando.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
