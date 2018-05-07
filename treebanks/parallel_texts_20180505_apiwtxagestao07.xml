@@ -707,4 +707,16 @@ O   Õ
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="115">
+        <sentence lang="cpb">Apiratxaari oshiki iroo awãkayeri apawo-payni ipiyeeta eehatsii ãtamiki.</sentence>
+        <sentence lang="pt">Criar arara para fazer o repovoamento da espécie na região.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="116">
+        <sentence lang="cpb">3 - Thamiri:</sentence>
+        <sentence lang="pt">3 - Mutum:</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
