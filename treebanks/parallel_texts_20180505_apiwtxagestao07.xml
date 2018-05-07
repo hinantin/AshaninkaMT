@@ -653,4 +653,10 @@ O   Õ
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="106">
+        <sentence lang="cpb">Pãkiretsi-mashiki otsiimatxee ayotero kametha tsiikarika ãpãkiteroka eehatsii atsiipatairo osheki pãkiretsi-payni.</sentence>
+        <sentence lang="pt">Nos novos plantios, planejar os locais adequados e os consórcios que podem ser feitos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
