@@ -899,4 +899,10 @@ O   Õ   Alt + 0213   LATIN CAPITAL LETTER O WITH TILDE
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="147">
+        <sentence lang="cpb">Otsiimatxee ãtero ahiyatene aapita hiya ashi ireeri, ãtanaki otsipa ashi okiwapiuta mathãtsi eehatsi ashi akawoshitãtxaari.</sentence>
+        <sentence lang="pt">Separar as cacimbas de tomar banho e lavar roupa das cacimbas de beber água.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
