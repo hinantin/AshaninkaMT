@@ -877,6 +877,12 @@ O   Õ   Alt + 0213   LATIN CAPITAL LETTER O WITH TILDE
     </text>
     <text id="143">
         <sentence lang="cpb">4 - ishitametotsi:</sentence>
+        <sentence lang="pt">4 -Privadas:</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="144">
+        <sentence lang="cpb">Mawoyni ashenika ashitawori ipãko otsiimatxee rãtero rashi rishitameto.</sentence>
         <sentence lang=""/>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
