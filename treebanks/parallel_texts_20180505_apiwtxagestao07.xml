@@ -815,4 +815,28 @@ O   Õ   Alt + 0213   LATIN CAPITAL LETTER O WITH TILDE
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="133">
+        <sentence lang="cpb">Iroyaka ãtero apãko ookanetero otsipa ãtxaahayni okãkiteta niyãkini kama ipãkitãtxaari ashenika-payni iwãkiri.</sentence>
+        <sentence lang="pt">construir as casas deixando espaços entre os quintais para fazer os plantios e as casas não ficarem apertada, uma em cima da outra.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="134">
+        <sentence lang="cpb">VIII – KARIPERORI OKAYETSIRI ATSIRI-PAYNE</sentence>
+        <sentence lang="pt">VIII - LIXO E SANEAMENTO BÁSICO – SAÚDE AMBIENTAL</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="135">
+        <sentence lang="cpb">1 - Kariperori:</sentence>
+        <sentence lang="pt">1 -Coleta do lixo:</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="136">
+        <sentence lang="cpb">Haka anãpiki otsiimatxee amineri ookatxari karipero,</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
