@@ -689,4 +689,10 @@ O   Õ
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="112">
+        <sentence lang="cpb">Ayeri iwaaki kametha eero owamayiri itee ishiyakari, aminaperoteri kametha amitakoteri eehatsii ayeeri paata.</sentence>
+        <sentence lang="pt">Fazer a retirada de mel de abelha com os cuidados necessários para não espantar nem matar o enxame. Procurar ajudar a conservar as espécies das abelhas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
