@@ -719,4 +719,16 @@ O   Õ
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="117">
+        <sentence lang="cpb">ayãtxari apiraatxari thamiri,</sentence>
+        <sentence lang="pt">Averiguar a possibilidade de criação de mutum em cativeiro.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="118">
+        <sentence lang="cpb">eehatsita amineri yotsirori kametha.</sentence>
+        <sentence lang="pt">Buscar especialista nessa área para nos dar assessoria e assistência técnica.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
