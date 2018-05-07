@@ -7,13 +7,13 @@ year={2007},
 }
 
 a   ã
-e   ẽ
-i   ĩ
-o   õ
+e   ẽ   Alt + 1EBD
+i   ĩ   Alt + 0129 
+o   õ   
 
 A   Ã
-E   Ẽ
-I   Ĩ
+E   Ẽ   Alt + 1EBC
+I   Ĩ   Alt + 0128
 O   Õ
 
 -->
@@ -782,6 +782,12 @@ O   Õ
     <text id="127">
         <sentence lang="cpb">Konoya –</sentence>
         <sentence lang="pt">- Jabuti:</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="128">
+        <sentence lang="cpb">Hirika konoya riyãtakawo haka ashenika ipiratari.</sentence>
+        <sentence lang=""/>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
