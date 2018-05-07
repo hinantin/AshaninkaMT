@@ -9,12 +9,12 @@ year={2007},
 a   ã   Alt + 0227   LATIN SMALL LETTER A WITH TILDE
 e   ẽ   Alt + 1EBD   LATIN SMALL LETTER E WITH TILDE
 i   ĩ   Alt + 0129   LATIN SMALL LETTER I WITH TILDE
-o   õ   
+o   õ      LATIN CAPITAL LETTER O WITH TILDE
 
 A   Ã   Alt + 0195   LATIN CAPITAL LETTER A WITH TILDE
 E   Ẽ   Alt + 1EBC   LATIN CAPITAL LETTER E WITH TILDE
 I   Ĩ   Alt + 0128   LATIN CAPITAL LETTER I WITH TILDE
-O   Õ
+O   Õ   Alt + 0213   LATIN CAPITAL LETTER O WITH TILDE
 
 -->
 <parallel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="parallel_texts.xsd">
