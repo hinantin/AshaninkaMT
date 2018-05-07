@@ -659,4 +659,28 @@ O   Õ
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="107">
+        <sentence lang="cpb">2 - owãtsi-poshiki:</sentence>
+        <sentence lang="pt">2 - Capoeira:</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="108">
+        <sentence lang="cpb">Aminero ãpãkite owãtsi-poshiki itsiimika akowiri ãpãkite itxato-payni okemita; sãtari-payni, tsiitama, tsiretsi, txorina, kãpona, sheyaki otsipa-payni. Ayãtxawori otsiime eehatsii hiroka itxato-payni owãtsi-poshiki.</sentence>
+        <sentence lang="pt">Enriquecer as capoeiras delimitando uma área para plantar somente espécies nativas de interesse da comunidade, como açaí, bacaba, paxiubão, jaci, madeiras, etc.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="109">
+        <sentence lang="cpb">VI – EERO ITHÕKÃTXARI APIRÃTÃTXARI TSIMERI-PAYNE</sentence>
+        <sentence lang="pt">VI - MANEJO E CRIAÇÃO DE ANIMAIS SILVESTRES</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="110">
+        <sentence lang="cpb">1 - ãyri ãtamiwero:</sentence>
+        <sentence lang="pt">1 - abelha nativa:</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
