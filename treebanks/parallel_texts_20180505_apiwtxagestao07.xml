@@ -935,4 +935,10 @@ O   Õ   Alt + 0213   LATIN CAPITAL LETTER O WITH TILDE
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="153">
+        <sentence lang="cpb">X – AMINÃTXARI AIPATSITE</sentence>
+        <sentence lang="pt">X – VIGILÂNCIA E FISCALIZAÇÃO</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
