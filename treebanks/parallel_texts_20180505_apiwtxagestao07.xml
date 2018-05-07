@@ -893,4 +893,10 @@ O   Õ   Alt + 0213   LATIN CAPITAL LETTER O WITH TILDE
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="146">
+        <sentence lang="cpb">1 - aapita hiya:</sentence>
+        <sentence lang="pt">1 - Fonte de água:</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
