@@ -857,4 +857,10 @@ O   Õ   Alt + 0213   LATIN CAPITAL LETTER O WITH TILDE
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="140">
+        <sentence lang="cpb">Âtero kekitharetsi anãpiki ãkãteri mawoyni ashenika ipiyoteri kariperori riyotero kariperotatsiri ikemita; poteriya, plasticori, iratanaki, materiyamashi eehatsii otsipa-payni. Iroyaka itsiimika iriperotatsiri ataki ookeri itsipaite ithõka ikemita: itaki kaniri, itõki tsimeri, oshiteki eehatsii otsipa-payni.</sentence>
+        <sentence lang="pt">Orientar a comunidade para separar o lixo orgânico (casca, resto de comidas, etc) do lixo não orgânico (latas, plástico, vidro, etc).</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
