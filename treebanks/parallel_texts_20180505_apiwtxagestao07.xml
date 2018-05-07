@@ -756,7 +756,19 @@ O   Õ
         <parsing format="" analysislevel=""/>
     </text>
     <text id="123">
-        <sentence lang="cpb">Kashiriki agostoki osaretsiki 2.004, aaki 31 imoori ithoki. Sawawosatsii ama rowakari 21 imoori ithoki teekirata ayirita ashenika Apiwtxasatsi omorekiteri ipanekiteki.</sentence>
+        <sentence lang="cpb">Kashiriki agostoki osaretsiki 2.004, aaki 31 imoori ithoki.</sentence>
+        <sentence lang="pt">Em agosto de 2004 coletamos 31 covas. O pessoal da aldeia Sawawo tirou pelo menos 21 covas antes da coleta da Apiwtxa, em agosto.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="124">
+        <sentence lang="cpb"/>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="">
+        <sentence lang=""/>
         <sentence lang=""/>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
