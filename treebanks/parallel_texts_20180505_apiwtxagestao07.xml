@@ -9,7 +9,7 @@ year={2007},
 a   ã   Alt + 0227   LATIN SMALL LETTER A WITH TILDE
 e   ẽ   Alt + 1EBD   LATIN SMALL LETTER E WITH TILDE
 i   ĩ   Alt + 0129   LATIN SMALL LETTER I WITH TILDE
-o   õ      LATIN CAPITAL LETTER O WITH TILDE
+o   õ   Alt + 0245   LATIN SMALL LETTER O WITH TILDE
 
 A   Ã   Alt + 0195   LATIN CAPITAL LETTER A WITH TILDE
 E   Ẽ   Alt + 1EBC   LATIN CAPITAL LETTER E WITH TILDE
@@ -787,7 +787,7 @@ O   Õ   Alt + 0213   LATIN CAPITAL LETTER O WITH TILDE
     </text>
     <text id="128">
         <sentence lang="cpb">Hirika konoya riyãtakawo haka ashenika ipiratari.</sentence>
-        <sentence lang=""/>
+        <sentence lang="pt">Estamos fazendo um experimento de criação em cativeiro.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
