@@ -737,4 +737,10 @@ O   Õ
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="120">
+        <sentence lang="cpb">Aminakotakiri shepiri etanakawo 1990 aretakawo 2002 ketsiiroyni apatsiiro ãtakiro eero othõkiri ayiri ithoki mawoyni eehatsii eero oteyanairo ãtari-payni.</sentence>
+        <sentence lang="pt"/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
