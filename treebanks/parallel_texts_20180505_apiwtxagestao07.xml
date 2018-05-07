@@ -625,6 +625,18 @@ O   Õ
     </text>
     <text id="101">
         <sentence lang="cpb">V - PÃKIRETSI-PAYNE</sentence>
+        <sentence lang="pt">V - PLANTIOS AGROFLORESTAIS</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="102">
+        <sentence lang="cpb">1 - owãtsi ashi pãkiretsi:</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="103">
+        <sentence lang="cpb">ketsiroyni tekatsi owãtsi ashi pãkiretsi haka anãpiki.</sentence>
         <sentence lang=""/>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
