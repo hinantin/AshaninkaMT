@@ -683,4 +683,10 @@ O   Õ
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="111">
+        <sentence lang="cpb">Eekiro aminero apiratxaari ayri-payni okakini anãpiki awãkiri-mashiki.</sentence>
+        <sentence lang="pt">Dar continuidade à criação de abelhas nativas (melíponas) na aldeia, em locais próximos às casas das famílias.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
