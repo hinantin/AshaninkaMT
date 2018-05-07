@@ -974,7 +974,13 @@ da FuNAI. Investigar se há recurso para apoiar essa ação.
     -->
     <text id="158">
         <sentence lang="cpb">XI – SEYKATSIRI OKOWAKINI AIPATSITE</sentence>
-        <sentence lang="pt"/>
+        <sentence lang="pt">XI – RELAÇÃO COM O ENTORNO</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="159">
+        <sentence lang=""/>
+        <sentence lang=""/>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
