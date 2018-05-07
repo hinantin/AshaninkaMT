@@ -792,8 +792,14 @@ O   Õ   Alt + 0213   LATIN CAPITAL LETTER O WITH TILDE
         <parsing format="" analysislevel=""/>
     </text>
     <text id="129">
-        <sentence lang="cpb"/>
-        <sentence lang=""/>
+        <sentence lang="cpb">Iroyaka apa tsiimatsi 45 konoya apaniki itãtotakotaka, okaatsii osãthatsii 30 x 30 metoro.</sentence>
+        <sentence lang="">Atualmente, existem 45 animais numa área de 30 x 30 metros. </sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="130">
+        <sentence lang="cpb">Kãtaka haka itãtotakotaka ithkaki.</sentence>
+        <sentence lang="pt">Já houve postura e nascimento em cativeiro.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
