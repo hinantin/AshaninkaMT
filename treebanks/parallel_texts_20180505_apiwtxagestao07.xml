@@ -773,4 +773,10 @@ O   Õ
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="126">
+        <sentence lang="cpb">tsiimatsi kekitharetsi ikãtsii IBAMA aritaki ipakay, apaani osaretsi ripay 1.000 iriyani sawe irohatsiita aretakiya 5 osaretsi ripay.</sentence>
+        <sentence lang="pt">Existe um acordo com o IBAMA para o repovoamento desse animal com a doação, durante cinco anos, de mil filhotes por ano.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
