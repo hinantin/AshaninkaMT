@@ -631,13 +631,25 @@ O   Õ
     </text>
     <text id="102">
         <sentence lang="cpb">1 - owãtsi ashi pãkiretsi:</sentence>
-        <sentence lang=""/>
+        <sentence lang="pt">1 - Sistemas agroflorestais:</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="103">
         <sentence lang="cpb">ketsiroyni tekatsi owãtsi ashi pãkiretsi haka anãpiki.</sentence>
-        <sentence lang=""/>
+        <sentence lang="pt">Antes não havia sistema agroflorestal na terra indígena,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="104">
+        <sentence lang="cpb">Iroyaka mawoyni ashenika ipãkitaki owãtsiki eehatsii okakini inãpiki,</sentence>
+        <sentence lang="pt">mas hoje a maioria das famílias tem plantios nos quintais e roçados.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="105">
+        <sentence lang="cpb">ari ãkãtero eero apakayiro hame ãpãkite eehatsii seikatsiri ãtamiki; txotxoki, sãtari-payni, itxashi awitãtxaari eehatsii otsipa-payni pãkiretsi.</sentence>
+        <sentence lang="pt">Precisamos apenas continuar plantando as espécies da mata (frutas, madeiras, medicinas, etc) e as espécies de fora (exóticas).</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
