@@ -863,4 +863,10 @@ O   Õ   Alt + 0213   LATIN CAPITAL LETTER O WITH TILDE
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="141">
+        <sentence lang="cpb"/>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
