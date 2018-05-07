@@ -803,4 +803,10 @@ O   Õ   Alt + 0213   LATIN CAPITAL LETTER O WITH TILDE
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="131">
+        <sentence lang="cpb">VII - NÃPITSI</sentence>
+        <sentence lang="pt">VII - ALDEIA</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
