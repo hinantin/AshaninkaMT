@@ -1026,4 +1026,10 @@ da FuNAI. Investigar se há recurso para apoiar essa ação.
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="167">
+        <sentence lang="cpb">Âkeymeri prefeito ashi Marechal Thaumaturgo ikemãtxaari eehatsi kekitharetsi tsika akãtsiiroka aminãtxaawori ãtami ashikira aaka ikatsiira município, mawoyni otsiimerika kekitharetsi otsiimatxee ameeri ikemisãtãtxaari eehatsii.</sentence>
+        <sentence lang="pt">Envolver o prefeito e representantes de Marechal Thaumaturgo nas questões relacionadas à gestão ambiental do município. Eventualmente, receber essas personalidades na aldeia</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
