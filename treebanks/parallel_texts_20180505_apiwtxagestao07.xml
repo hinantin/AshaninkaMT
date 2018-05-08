@@ -984,4 +984,10 @@ da FuNAI. Investigar se há recurso para apoiar essa ação.
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="160">
+        <sentence lang=""/>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
