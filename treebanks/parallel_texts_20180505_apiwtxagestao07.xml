@@ -1002,4 +1002,10 @@ da FuNAI. Investigar se há recurso para apoiar essa ação.
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="163">
+        <sentence lang="cpb">Akekithatakayeri atsiri-payni wirakotxa rãtero ashi iriroori rãtaweire akemita aaka, tsimatsi wetsiikawetakawori ikemita; Marito, Antonio Caxexo seikatsiri RESEX irotaki iropero raminakotsiitxaawo ashi irirooro inãpiki.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
