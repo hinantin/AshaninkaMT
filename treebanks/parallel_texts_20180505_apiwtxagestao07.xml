@@ -6,6 +6,8 @@ title={Plano de gest\~{a}o territorial e ambiental da terra ind\'{i}gena Kampa d
 year={2007},
 }
 
+Special characters
+
 a   ã   Alt + 0227   LATIN SMALL LETTER A WITH TILDE
 e   ẽ   Alt + 1EBD   LATIN SMALL LETTER E WITH TILDE
 i   ĩ   Alt + 0129   LATIN SMALL LETTER I WITH TILDE
@@ -20,7 +22,7 @@ O   Õ   Alt + 0213   LATIN CAPITAL LETTER O WITH TILDE
 <parallel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="parallel_texts.xsd">
     <text id="0">
         <!-- AYAWÕTATSIRO HIYATENE AASHI IPATSITE ASHENIKA AMOYSATSI -->
-        <sentence lang="cpb">AYAWÕTATSIRO HIYATENE AASHI IPATSITE ASHENĨKA AMOYSATSI</sentence>
+        <sentence lang="cpb">AYAWÕTATSIRO HĨYATENE AASHI IPATSITE ASHENĨKA AMÕYASATSI</sentence>
         <sentence lang="pt">TERRA INDÍGENA KAMPA DO RIO AMÔNIA</sentence>
     </text>
     <text id="1">
