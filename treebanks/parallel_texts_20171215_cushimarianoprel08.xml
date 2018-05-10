@@ -7278,7 +7278,7 @@ onkochapaaki	[=onkochapa][NRoot][=cecropia.sp., tree.sp. (ES: cetico, siteco)][-
     </text>
     <text id="285">
         <sentence lang="prq" normalizationlevel="none">Noñaake apani piratsi kobeenkari mintsarobakenari.</sentence>
-        <sentence lang="prq" normalizationlevel="none">Nonyaake apani piratsi koveenkari mintsarobakenari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Nonyaake apani piratsi koveenkari mintsarovakenari.</sentence>
         <sentence lang="es">Vi a un animal feo que me asustó.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
@@ -7288,6 +7288,9 @@ nonyaake	[no-][VPers][1SG.S/A+][--][=ny][VRoot][=to.see, to.look.for; to.visit][
 apani	[=apani][NumeralPRQ][=one]
 
 piratsi	[=piratsi+m.][NRoot][=wild.pig.sp.; white-lipped.peccary.sp. (ES: huangana, pecarí.de.labios.blancos; sci.nm.: tayassu.pecari)]
+
+koveenkari	[=koveenka][VRoot][=to.inspire.fear (ES: inspirar.miedo); to.be.dangerous (danger; ES: espantar)][--][-ri+m.][NS][+NMZ]ri
+
 
 </morphology>
         <parsing/>
