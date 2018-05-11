@@ -796,7 +796,7 @@ O   Õ   Alt + 0213   LATIN CAPITAL LETTER O WITH TILDE
     </text>
     <text id="129">
         <sentence lang="cpb">Iroyaka apa tsiimatsi 45 konoya apaniki itãtotakotaka, okaatsii osãthatsii 30 x 30 metoro.</sentence>
-        <sentence lang="">Atualmente, existem 45 animais numa área de 30 x 30 metros. </sentence>
+        <sentence lang="">Atualmente, existem 45 animais numa área de 30 x 30 metros.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
@@ -879,7 +879,7 @@ O   Õ   Alt + 0213   LATIN CAPITAL LETTER O WITH TILDE
         <parsing format="" analysislevel=""/>
     </text>
     <text id="143">
-        <sentence lang="cpb">4 - ishitametotsi:</sentence>
+        <sentence lang="cpb" normalizationlevel="none">4 - ishitametotsi:</sentence>
         <sentence lang="pt">4 -Privadas:</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
