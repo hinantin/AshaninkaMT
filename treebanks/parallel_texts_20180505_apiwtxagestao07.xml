@@ -1040,7 +1040,7 @@ da FuNAI. Investigar se há recurso para apoiar essa ação.
     -->
     <text id="">
         <sentence lang="cpb" normalizationlevel="none">Osãkinataãtsi õyawõtero ouekithare omãpãtsi ashi kemoshiretaãtsi piyaretsipayteki ashi Ashenika amoyasatsi</sentence>
-        <sentence lang="cpb" normalizationlevel="normalized-alphabet">Osãkinataãtsi õyawõtero ouekithare omãpãtsi ashi kemoshiretaãtsi piyarẽtsipayteki ashi Ashenĩka amoyãsatsi</sentence>
+        <sentence lang="cpb" normalizationlevel="normalized-alphabet">Osãkinataãtsi õyawõtero ouekithare omãpãtsi ashi kemoshiretaãtsi piyarẽtsipayteki ashi Ashenĩka amõyasatsi</sentence>
         <sentence lang="pt">Registro artístico de musicalidades do ritual Piyarẽtsi do povo Ashenĩka do rio Amônia</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
@@ -1049,6 +1049,9 @@ piyaretsipayteki	[=piyare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato)][--]
 
 ashi	[=ashi][PrnPoss][+1PL]
 
+ashenĩka	[a-][NPers][1PL.poss+][--][=sheni][VRoot][=to.be.of.the.same.group][--][-nka][NS][+NMZ.QLTY]nka
+
+amõyasatsi	[=amonya?/amõya][NRoot][=Amonia.river (ES: río.Amonia; PT: Rio.Amônia)][--][-satsi+m.][NS:CPB][+CL:provenance][=human.provenance, inhabitant.of.swh.]
 
 
 </morphology>
