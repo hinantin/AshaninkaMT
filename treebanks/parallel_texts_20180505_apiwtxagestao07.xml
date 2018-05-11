@@ -880,6 +880,7 @@ O   Õ   Alt + 0213   LATIN CAPITAL LETTER O WITH TILDE
     </text>
     <text id="143">
         <sentence lang="cpb" normalizationlevel="none">4 - ishitametotsi:</sentence>
+        <sentence lang="cpb" normalizationlevel="normalized-alphabet">4 - ishitamẽtotsi:</sentence>
         <sentence lang="pt">4 -Privadas:</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
@@ -891,7 +892,8 @@ O   Õ   Alt + 0213   LATIN CAPITAL LETTER O WITH TILDE
         <parsing format="" analysislevel=""/>
     </text>
     <text id="145">
-        <sentence lang="cpb">IX - HIYA</sentence>
+        <sentence lang="cpb" normalizationlevel="none">IX - HIYA</sentence>
+        <sentence lang="cpb" normalizationlevel="normalized-alphabet">IX - HĨYA</sentence>
         <sentence lang="pt">IX - RECURSOS HIDRICOS</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
