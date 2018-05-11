@@ -50,6 +50,7 @@ O   Õ   Alt + 0213   LATIN CAPITAL LETTER O WITH TILDE
         <parsing format="" analysislevel=""/>
     </text>
     <text id="5">
+        <!-- Aririka akoyiteri tsiirotsiiki othapiyaki hiyatene, ãtawaki eero athõkiri mawoyni otsiimatxe ookere apawopayni ashi royari tsimeri-payni. -->
         <sentence lang="cpb">Aririka akoyiteri tsiirotsiiki othapiyaki hiyatene, ãtawaki eero athõkiri mawoyni otsiimatxe ookere apawopayni ashi royari tsimeri-payni.</sentence>
         <sentence lang="pt">Quando fizer a coleta nas margens dos rios, procurar deixar sempre alguns murmurus para as caças se alimentarem.</sentence>
         <morphology format="" analysislevel=""/>
@@ -1039,7 +1040,7 @@ da FuNAI. Investigar se há recurso para apoiar essa ação.
     -->
     <text id="">
         <sentence lang="cpb" normalizationlevel="none">Osãkinataãtsi õyawõtero ouekithare omãpãtsi ashi kemoshiretaãtsi piyaretsipayteki ashi Ashenika amoyasatsi</sentence>
-        <sentence lang="cpb" normalizationlevel="none">Osãkinataãtsi õyawõtero ouekithare omãpãtsi ashi kemoshiretaãtsi piyarẽtsipayteki ashi Ashenĩka amoyãsatsi</sentence>
+        <sentence lang="cpb" normalizationlevel="normalized-alphabet">Osãkinataãtsi õyawõtero ouekithare omãpãtsi ashi kemoshiretaãtsi piyarẽtsipayteki ashi Ashenĩka amoyãsatsi</sentence>
         <sentence lang="pt">Registro artístico de musicalidades do ritual Piyarẽtsi do povo Ashenĩka do rio Amônia</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
