@@ -7271,7 +7271,19 @@ onkochapaaki	[=onkochapa][NRoot][=cecropia.sp., tree.sp. (ES: cetico, siteco)][-
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
+nokobashiriaka	[no-][VPers][1SG.S/A+][--][=kovashiri][VRoot][=to.desire (ES: desear)][--][-ak][ASP][+PRF]ak[--][-a][+REAL]a
 
+tsika	[=tsika][WhPrn][=where; what; which]
+
+onkantapaentya	[o-][VPers][3n.m.S/A+][--][N=][IRR+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-apaent][Asp][+SEMEL.F][=PUNCTUAL:once;for.a.while,short-term]apaent[--][-ya][+REAL]ya
+
+nareetyari	[n-][VPers][1SG.S/A+][--][=aree][VRoot][=to.arrive (ES: llegar); to.visit.with.sb.][--][-t][+EP]t[--][-ya][+REAL]ya[--][=ri][NS][+REL]
+
+ikemeta	[i-][VPers][3m.S/A+][--][=keme][VRoot][=to.be.similar, to.seem, to.resemble, to.be.like][--][-t][+EP]t[--][-a][+IRR]a
+
+ovametantatsiri	[o-][VPers][3n.m.S/A+][--][=vame][VRoot][=to.teach (ES: enseñar)][--][-t][+EP]t[--][-ant][+APPL.INST][=reason,instrumentality;in.order.to]ant[--][-atsi][Asp][+STAT.IPRF]atsi[--][=ri][NS][+REL]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
@@ -7292,6 +7304,8 @@ piratsi	[=piratsi+m.][NRoot][=wild.pig.sp.; white-lipped.peccary.sp. (ES: huanga
 koveenkari	[=koveenka][VRoot][=to.inspire.fear (ES: inspirar.miedo); to.be.dangerous (danger; ES: espantar)][--][-ri+m.][NS][+NMZ]ri
 
 mintsarovakenari	[=mintsarov][VRoot][=to.frighten (ES: asustar)][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=na][+1SG.O][--][=ri][NS][+REL]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
