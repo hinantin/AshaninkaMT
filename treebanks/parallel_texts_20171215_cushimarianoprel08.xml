@@ -7268,6 +7268,7 @@ onkochapaaki	[=onkochapa][NRoot][=cecropia.sp., tree.sp. (ES: cetico, siteco)][-
         <sentence lang="prq" normalizationlevel="none">Nokobashiriaka tsika onkantapaentya nareetyari ikemeta obametantatsiri.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Nokovashiriaka tsika onkantapaentya nareetyari ikemeta ovametantatsiri.</sentence>
         <sentence lang="es">Deseo llegar a ser profesor algún día.</sentence>
+        <sentence lang="en">I desire to become a teacher some day.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -7311,7 +7312,8 @@ mintsarovakenari	[=mintsarov][VRoot][=to.frighten (ES: asustar)][--][-ak][ASP][+
         <parsing/>
     </text>
     <text id="286">
-        <sentence lang="prq">Ijeki kobiri nijaki obeni.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ijeki kobiri nijaki obeni.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iheki koviri nihaki oveni.</sentence>
         <sentence lang="es">El sábalo abunda en el río Unini.</sentence>
         <morphology/>
         <parsing/>
