@@ -7361,7 +7361,7 @@ koviti	[=koviti+n.m.+poss@te.][NRoot][=clay.pot (ES: olla.(de.barro), tinaja)]
         <parsing/>
     </text>
     <text id="288">
-        <sentence lang="prq">Otsoyempitati iraeki kojaniri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Otsoyempitati iraeki kojaniri.</sentence>
         <sentence lang="es">Los dientes del lagarto son muy filudos.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
