@@ -7453,7 +7453,8 @@ komarontsi	[=komaro+n.m.+inal@ntsi.][NRoot][=paddle, oar (ES: remo)][--][-ntsi+a
         <parsing/>
     </text>
     <text id="292.1">
-        <sentence lang="prq">Atiri komintsare osheki ikobaaetiri nampitsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Atiri komintsare osheki ikobaaetiri nampitsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Atiri komintsare osheki ikobaaetiri nampitsiki.</sentence>
         <sentence lang="es">El hombre cazador es muy querido en el pueblo.</sentence>
         <morphology/>
         <parsing/>
