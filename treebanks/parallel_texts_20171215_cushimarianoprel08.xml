@@ -7405,7 +7405,12 @@ niha	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
     <text id="290">
         <sentence lang="prq">komatake shintsini abireri ikobi rareetajea intsipaete.</sentence>
         <sentence lang="es">Nawireri rema rápido para llegar temprano a su casa.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="291">
