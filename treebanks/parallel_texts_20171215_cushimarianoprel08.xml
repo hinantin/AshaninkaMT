@@ -7430,7 +7430,12 @@ intsipaete	[=intsipaete][AdvRoot][=quickly (ES: rápido)]
     <text id="291">
         <sentence lang="prq">Ichekake pabachori omenta inchato rantantyari komarontsi.</sentence>
         <sentence lang="es">Mi tío cortó una aleta de árbol para hacer un remo.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="292.1">
