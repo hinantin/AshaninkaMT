@@ -7403,11 +7403,21 @@ niha	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
         <parsing/>
     </text>
     <text id="290">
-        <sentence lang="prq">komatake shintsini abireri ikobi rareetajea intsipaete.</sentence>
+        <sentence lang="prq" normalizationlevel="none">komatake shintsini abireri ikobi rareetajea intsipaete.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">komatake shintsini avireri ikovi rareetajea intsipaete.</sentence>
         <sentence lang="es">Nawireri rema rápido para llegar temprano a su casa.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
+komatake	[=koma][VRoot][=to.row; to.paddle (ES: remar)][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-e][+REAL]e
+
+shintsini	[=shintsini][AdvRoot][=quickly]
+
+avireri	[=avireri][NRoot][=name.of.a_mythical_hero]
+
+ikovi	[i-][VPers][3m.S/A+][--][=kov][VRoot][=to.want][--][-i][+REAL]i
+
+rareetajea	[r-][VPers][3m.S/A+][--][=aree][VRoot][=to.arrive (ES: llegar); to.visit.with.sb.][--][-t][+EP]t[--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-ea][+IRR]ea
 
 
 </morphology>
