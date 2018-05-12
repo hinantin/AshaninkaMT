@@ -7314,9 +7314,14 @@ mintsarovakenari	[=mintsarov][VRoot][=to.frighten (ES: asustar)][--][-ak][ASP][+
     </text>
     <text id="286">
         <sentence lang="prq" normalizationlevel="none">Ijeki kobiri nijaki obeni.</sentence>
-        <sentence lang="prq" normalizationlevel="none">Iheki koviri nihaki oveni.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iheki koviri nihaki oveni.</sentence>
         <sentence lang="es">El sábalo abunda en el río Unini.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="287">
