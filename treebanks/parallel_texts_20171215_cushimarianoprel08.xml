@@ -7454,9 +7454,24 @@ komarontsi	[=komaro+n.m.+inal@ntsi.][NRoot][=paddle, oar (ES: remo)][--][-ntsi+a
     </text>
     <text id="292.1">
         <sentence lang="prq" normalizationlevel="none">Atiri komintsare osheki ikobaaetiri nampitsiki.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">Atiri komintsare osheki ikobaaetiri nampitsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Atiri komintsare osheki ikovaaetiri nampitsiki.</sentence>
         <sentence lang="es">El hombre cazador es muy querido en el pueblo.</sentence>
-        <morphology format="ashaninkamorph" analysislevel="not-fully"/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+atiri	[=atiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]
+
+komintsare	[=komintsa][VRoot][=to.hunt (ES: cazar)][--][-re+m.][NS][+ADJ.NMZ]re
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+ikobaaetiri	[i-][VPers][3m.S/A+][--][=kov][VRoot][=to.want][--][-a][+EP]a[--][-ae][+IMP.P]ae[--][-t][+EP]t[--][-i][+REAL]i[--][=ri][+3m.O]
+
+nampitsiki	[=nampi+n.m.+inal@tsi.][NRoot][=village (ES: aldea; PT: aldeia); place; country; settlement][--][-tsi+alien.][Gen][+nposs]tsi[--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="292.2">
