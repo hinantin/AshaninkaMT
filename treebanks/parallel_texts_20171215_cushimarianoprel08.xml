@@ -7362,12 +7362,18 @@ koviti	[=koviti+n.m.+poss@te.][NRoot][=clay.pot (ES: olla.(de.barro), tinaja)]
     </text>
     <text id="288">
         <sentence lang="prq" normalizationlevel="none">Otsoyempitati iraeki kojaniri.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">Otsoyempitati iraeki kojaniri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Otsoyempitati iraeki kohaniri.</sentence>
         <sentence lang="es">Los dientes del lagarto son muy filudos.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
+otsoyempitati	[o-][VPers][3n.m.S/A+][--][=tsoyempi][VRoot][=to.be.sharp (ES: ser.agudo/filudo)][--][-t][+EP]t[--][-ati][ASP][+PROG]ati
 
+iraeki	[ir-][NPers][3m.poss+][--][=aeki+n.m.+inal@ntsi.][NRoot][=tooth (ES: diente)]
+
+kohaniri	[=kohaniri+m.][NRoot][=crocodile, alligator, (white).lizard (ES: lagarto.blanco; PT: jacaré)]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
