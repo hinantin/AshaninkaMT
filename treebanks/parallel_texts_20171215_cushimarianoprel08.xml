@@ -7383,10 +7383,21 @@ kohaniri	[=kohaniri+m.][NRoot][=crocodile, alligator, (white).lizard (ES: lagart
         <sentence lang="prq" normalizationlevel="none">Inoshikake ani komairi omotyaki nija.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Inoshikake ani komairi omotyaki niha.</sentence>
         <sentence lang="es">Mi cuñado jaló paco en la poza del río.</sentence>
+        <sentence lang="en">Brother-in-law pulled paco-fish from river hole.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
+inoshikake	[i-][VPers][3m.S/A+][--][=noshik][VRoot][=to.pull.sth. (ES: jalar); to.drag.sth. (ES: arrastrar)][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e
 
+ani	[=ani+m.+poss@ri.][NRoot][=brother.in.law (kin.of.a.male)]
+
+komairi	[=komairi+m.+poss@ti.][NRoot][=fish.sp. (ES: paco,, gamitana; sci.nm.: syzlo, chalceus.opalinus,, cichlidae, astronatus.ocellatus)]
+
+omotyaki	[=omo][NRoot][=hole (ES: hueco)][--][-tyaki][+CL:flower][=flower]
+
+niha	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
