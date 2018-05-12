@@ -7382,7 +7382,7 @@ kohaniri	[=kohaniri+m.][NRoot][=crocodile, alligator, (white).lizard (ES: lagart
     <text id="289">
         <sentence lang="prq">Inoshikake ani komairi omotyaki nija.</sentence>
         <sentence lang="es">Mi cuñado jaló paco en la poza del río.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully"/>
         <parsing/>
     </text>
     <text id="290">
