@@ -7316,12 +7316,13 @@ mintsarovakenari	[=mintsarov][VRoot][=to.frighten (ES: asustar)][--][-ak][ASP][+
         <sentence lang="prq" normalizationlevel="none">Ijeki kobiri nijaki obeni.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Iheki koviri nihaki oveni.</sentence>
         <sentence lang="es">El sábalo abunda en el río Unini.</sentence>
+        <sentence lang="en">The sabalo-fish dwells in the Unini river.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 iheki	[i-][VPers][3m.S/A+][--][=hek][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir); to.be][--][-i][+IRR]i
 
-koviri	[=koviri+m.][NRoot][=corvina-fish (ES: corvina; sci.nm.: salminus.sp.,, astianax.sp.)]
+koviri	[=koviri+m.][NRoot][=corvina-fish (ES: corvina,, sábalo; sci.nm.: salminus.sp.,, astianax.sp.)]
 
 nihaki	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)][--][-ki][Cas][+LOC_LOC.T]
 
