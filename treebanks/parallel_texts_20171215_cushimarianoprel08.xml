@@ -7478,7 +7478,7 @@ nampitsiki	[=nampi+n.m.+inal@tsi.][NRoot][=village (ES: aldea; PT: aldeia); plac
     <text id="292.2">
         <sentence lang="prq">Jatake komintsare antamiki ramene poshiniri.</sentence>
         <sentence lang="es">El cazador fue al monte a cazar animales.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully"/>
         <parsing/>
     </text>
     <text id="293">
