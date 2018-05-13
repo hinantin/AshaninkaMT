@@ -7479,7 +7479,22 @@ nampitsiki	[=nampi+n.m.+inal@tsi.][NRoot][=village (ES: aldea; PT: aldeia); plac
         <sentence lang="prq" normalizationlevel="none">Jatake komintsare antamiki ramene poshiniri.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Hatake komintsare antamiki ramene poshiniri.</sentence>
         <sentence lang="es">El cazador fue al monte a cazar animales.</sentence>
-        <morphology format="ashaninkamorph" analysislevel="not-fully"/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+hatake	[=ha][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-e][+REAL]e
+
+komintsare	[=komintsa][VRoot][=to.hunt (ES: cazar)][--][-re+m.][NS][+NMZ]re
+
+antamiki	[=antami][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.forest][--][-ki][Cas][+LOC_LOC.T]
+
+ramene	[r-][VPers][3m.S/A+][--][=amen][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of][--][-e][+IRR]e
+
+poshiniri	[=poshini][VRoot][=to.be.tasty; to.be.delicious][--][-ri+m.][NS][+NMZ]ri
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="293">
