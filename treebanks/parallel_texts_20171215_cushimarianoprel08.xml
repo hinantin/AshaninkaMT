@@ -7511,7 +7511,13 @@ apa	[=apa+m.][NRoot][=father (kin.of.a.fe/male)]
 
 osheki	[=osheki][AdjRoot][=many; much; a.lot]
 
+kompiroshi	[=kompiroshi][NRoot][=leaf.from.yarina-tree (ES: hoja.de.la.yarina)]
 
+ivetsikantyari	[i-][VPers][3m.S/A+][--][=vetsik][VRoot][=to.fix; to.make (ES: preparar.comida/bebida); to.create, to.build][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-ya][+REAL]ya[--][=ri][+3m.O]
+
+apanko	[a-][NPers][1PL.poss+][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
