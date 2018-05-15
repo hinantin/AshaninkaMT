@@ -7524,10 +7524,13 @@ apanko	[a-][NPers][1PL.poss+][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa
         <parsing/>
     </text>
     <text id="294">
-        <sentence lang="prq">kompitaka ñaantsi ipakenari obametantatsiri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">kompitaka ñaantsi ipakenari obametantatsiri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">kompitaka nyaantsi ipakenari ovametantatsiri.</sentence>
         <sentence lang="es">La palabra que me dio el profesor es difícil.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
+
+kompitaka	[=kompi][VRoot][=to.ignore; to.be.difficult (ES: ser.difícil); to.make.a.mistake; to.confuse][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-a][+REAL]a
 
 
 
