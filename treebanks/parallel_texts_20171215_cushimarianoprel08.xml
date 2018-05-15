@@ -7526,7 +7526,12 @@ apanko	[a-][NPers][1PL.poss+][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa
     <text id="294">
         <sentence lang="prq">kompitaka ñaantsi ipakenari obametantatsiri.</sentence>
         <sentence lang="es">La palabra que me dio el profesor es difícil.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="295">
