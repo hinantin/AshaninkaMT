@@ -7499,10 +7499,15 @@ poshiniri	[=poshini][VRoot][=to.be.tasty; to.be.delicious][--][-ri+m.][NS][+NMZ]
         <parsing/>
     </text>
     <text id="293">
-        <sentence lang="prq">Raake apa osheki kompiroshi ibetsikantyari apanko.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Raake apa osheki kompiroshi ibetsikantyari apanko.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Raake apa osheki kompiroshi ivetsikantyari apanko.</sentence>
         <sentence lang="es">Mi papá sacó muchas yarinas para construir nuestra casa.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
+
+raake	[r-][VPers][3m.S/A+][--][=a][VRoot][=to.take (ES: agarrar)][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e
+
+apa	[=apa+m.][NRoot][=father (kin.of.a.fe/male)]
 
 
 
