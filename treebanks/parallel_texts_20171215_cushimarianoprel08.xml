@@ -7532,7 +7532,13 @@ apanko	[a-][NPers][1PL.poss+][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa
 
 kompitaka	[=kompi][VRoot][=to.ignore; to.be.difficult (ES: ser.difícil); to.make.a.mistake; to.confuse][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-a][+REAL]a
 
+nyaantsi	[=nyaa+n.m.+inal@ntsi.+poss@ne.][NRoot][=word (ES: palabra); language][--][-ntsi+alien.][Gen][+nposs]ntsi
 
+ipakenari	[i-][VPers][3m.S/A+][--][=p][VRoot][=to.give (ES: dar)][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=na][+1SG.O][--][=ri][NS][+REL]
+
+ovametantatsiri	[o-][VPers][3n.m.S/A+][--][=vame][VRoot][=to.teach (ES: enseñar)][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-atsi][Asp][+STAT.IPRF]atsi[--][=ri][NS][+REL]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
