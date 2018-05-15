@@ -7545,9 +7545,17 @@ ovametantatsiri	[o-][VPers][3n.m.S/A+][--][=vame][VRoot][=to.teach (ES: enseñar
         <parsing/>
     </text>
     <text id="295">
-        <sentence lang="prq">Itobakaakenabo konki meshiyanto.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Itobakaakenabo konki meshiyanto.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Itovakaakenavo konki meshiyanto.</sentence>
         <sentence lang="es">Mi suegro me hizo tumbar el árbol de capirona.</sentence>
-        <morphology/>
+        <morphology>
+
+
+itovakaakenavo	[i-][VPers][3m.S/A+][--][=tov][VRoot][=to.fell, to.cut.down (a.tree; ES: tumbar.(un.árbol))][--][-aka][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]aka[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=na][+1SG.O][--][=vo][+3n.m.O]
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="296">
