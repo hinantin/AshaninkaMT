@@ -7501,7 +7501,12 @@ poshiniri	[=poshini][VRoot][=to.be.tasty; to.be.delicious][--][-ri+m.][NS][+NMZ]
     <text id="293">
         <sentence lang="prq">Raake apa osheki kompiroshi ibetsikantyari apanko.</sentence>
         <sentence lang="es">Mi papá sacó muchas yarinas para construir nuestra casa.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="294">
