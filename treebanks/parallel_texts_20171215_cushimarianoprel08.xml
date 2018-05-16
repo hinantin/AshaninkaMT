@@ -7587,7 +7587,8 @@ shitovi	[=shitovi+n.m.][NRoot][=orange/purple-colored.edible.mushroom (ES: hongo
         <parsing/>
     </text>
     <text id="297">
-        <sentence lang="prq">Robabo kontsabo pamaki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Robabo kontsabo pamaki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovavo kontsavo pamaki.</sentence>
         <sentence lang="es">La perdiz mediana come la chimicua.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
