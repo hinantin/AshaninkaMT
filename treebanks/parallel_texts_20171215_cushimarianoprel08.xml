@@ -7564,9 +7564,25 @@ meshiyanto	[=meshiyanto+n.m.][NRoot][=capirona-tree, tree.sp.]
         <parsing/>
     </text>
     <text id="296">
-        <sentence lang="prq">Ranashita konoya ineetsikiroeni ramini shitobi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ranashita konoya ineetsikiroeni ramini shitobi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ranashita konoya ineetsikiroeni ramini shitovi.</sentence>
         <sentence lang="es">El motelo camina despacio buscando callampas.</sentence>
-        <morphology/>
+        <morphology>
+
+
+ranashita	[r-][VPers][3m.S/A+][--][=anashi][VRoot][=to.walk.in.some_location (i.e.: the_woods; ES: caminar)][--][-t][+EP]t[--][-a][+REAL]a
+
+konoya	[=konoya+m.][NRoot][=tortoise, turtle, motelo-turtle, land.turtle.sp. (ES: tortuga.de.tierra; PT: jabuti)]
+
+ineetsikiroeni	[=ineetsikiroeni][AdvRoot][=slowly (ES: lentamente)]
+
+ramini	[r-][VPers][3m.S/A+][--][=amin][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of][--][-i][+IRR]i
+
+shitovi	[=shitovi+n.m.][NRoot][=orange/purple-colored.edible.mushroom (ES: hongo.comestible, hongo.callampa); callampa-mushroom]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="297">
