@@ -7652,7 +7652,7 @@ iyanirimashiteki	[i-][NPers][3m.poss+][--][=kaniri+n.m.+voc.][NRoot][=(sweet).ma
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ipakeri ivaatrote koriki rantavaiventari.</sentence>
         <sentence lang="es">Su patrón le dio dinero por su trabajo.</sentence>
         <sentence lang="en">His employer gave him money for its work.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 ivaatrote	[i-][NPers][3m.poss+][--][=patrón/paatro+m.+poss@te.][NRoot][=employer][--][-te][Gen][+aln.poss.]te
