@@ -7648,9 +7648,23 @@ iyanirimashiteki	[i-][NPers][3m.poss+][--][=kaniri+n.m.+voc.][NRoot][=(sweet).ma
         <parsing/>
     </text>
     <text id="300">
-        <sentence lang="prq">Ipakeri ibaatrote koriki rantabaibentari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ipakeri ibaatrote koriki rantabaibentari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ipakeri ivaatrote koriki rantavaiventari.</sentence>
         <sentence lang="es">Su patrón le dio dinero por su trabajo.</sentence>
-        <morphology/>
+        <morphology>
+
+
+ivaatrote	[i-][NPers][3m.poss+][--][=patrón/paatro+m.+poss@te.][NRoot][=employer][--][-te][Gen][+aln.poss.]te
+
+ipakeri	[i-][VPers][3m.S/A+][--][=p][VRoot][=to.give (ES: dar)][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=ri][+3m.O]
+
+koriki	[=koriki+m.][NRoot][=money (ES: dinero)]
+
+rantavaiventari	[r-][VPers][3m.S/A+][--][=antavai][VRoot][=to.work (ES: trabajar)][--][-vent][+APPL.BEN][=action.done.for.sb.else]vent[--][-a][+IRR]a[--][=ri][NS][+REL]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="301.1">
