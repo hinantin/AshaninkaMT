@@ -7670,9 +7670,23 @@ rantavaiventari	[r-][NPers][3m.poss+][--][=antavai][VRoot][=to.work (ES: trabaja
         <parsing/>
     </text>
     <text id="301.1">
-        <sentence lang="prq">Ijeeki korinto omooki otishi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ijeeki korinto omooki otishi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iheeki korinto omooki otishi.</sentence>
         <sentence lang="es">El elefante vive en la cueva de la montaña.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+iheeki	[i-][VPers][3m.S/A+][--][=heek][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir); to.be][--][-i][+IRR]i
+
+korinto	[=korinto][NRoot][=woman-like.human-eater.big.mythological.animal (ES: piedra.que.come.hombres); elephant]
+
+omooki	[=omoo][NRoot][=hole (ES: hueco)][--][-ki][Cas][+LOC_LOC.T]
+
+otishi	[=otishi+n.m.][NRoot][=row; hill (ES: cerro); mountain.pass (ES: abra)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="301.2">
