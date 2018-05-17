@@ -7651,6 +7651,7 @@ iyanirimashiteki	[i-][NPers][3m.poss+][--][=kaniri+n.m.+voc.][NRoot][=(sweet).ma
         <sentence lang="prq" normalizationlevel="none">Ipakeri ibaatrote koriki rantabaibentari.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ipakeri ivaatrote koriki rantavaiventari.</sentence>
         <sentence lang="es">Su patrón le dio dinero por su trabajo.</sentence>
+        <sentence lang="en">His employer gave him money for its work.</sentence>
         <morphology>
 
 
@@ -7660,7 +7661,7 @@ ipakeri	[i-][VPers][3m.S/A+][--][=p][VRoot][=to.give (ES: dar)][--][-ak][ASP][+P
 
 koriki	[=koriki+m.][NRoot][=money (ES: dinero)]
 
-rantavaiventari	[r-][VPers][3m.S/A+][--][=antavai][VRoot][=to.work (ES: trabajar)][--][-vent][+APPL.BEN][=action.done.for.sb.else]vent[--][-a][+IRR]a[--][=ri][NS][+REL]
+rantavaiventari	[r-][NPers][3m.poss+][--][=antavai][VRoot][=to.work (ES: trabajar)][--][-vent][+APPL.BEN][=action.done.for.sb.else]vent[--][-a][+EP]a[--][-ri+m.][NS][+NMZ]ri
 
 .	.[$.]
 
