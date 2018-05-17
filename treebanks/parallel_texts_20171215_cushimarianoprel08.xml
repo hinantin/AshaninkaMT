@@ -7626,7 +7626,7 @@ pochaari	[=pocha][VRoot][=to.be.sweet (ES: ser.dulce)][--][-a][+EP]a[--][-ri+m.]
         <parsing/>
     </text>
     <text id="299">
-        <sentence lang="prq">Robakari koriato yeye iyanirimashiteki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Robakari koriato yeye iyanirimashiteki.</sentence>
         <sentence lang="es">Mi hernano comió gusanos de yuca en su chacra.</sentence>
         <morphology/>
         <parsing/>
