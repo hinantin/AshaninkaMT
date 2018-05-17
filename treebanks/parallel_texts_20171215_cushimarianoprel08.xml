@@ -7606,10 +7606,15 @@ pamaki	[=pamaki][NRoot][=tree.sp. (ES: chimicua, sp.de.árbol)]
         <parsing/>
     </text>
     <text id="298">
-        <sentence lang="prq">Nopakotakeri kooko piarentsi pochaari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Nopakotakeri kooko piarentsi pochaari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Nopakotakeri kooko piarentsi pochaari.</sentence>
         <sentence lang="es">A mi suegro le di masato dulce.</sentence>
         <morphology>
 
+
+nopakotakeri	[no-][VPers][1SG.S/A+][--][=p][VRoot][=to.give (ES: dar)][--][-ako][VS][+APPL.GEN][=GEN: with.reference.to.sth., about.sth.; INDR: action.affects.sth.in.an.indirect.manner]ako[--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ri][NS][+REL]
+
+kooko	[=kooko][NRoot][=father.in.law; uncle (kin.of.a.female, fem.ego)]
 
 
 
