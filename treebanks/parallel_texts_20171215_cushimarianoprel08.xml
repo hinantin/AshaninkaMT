@@ -7608,7 +7608,12 @@ pamaki	[=pamaki][NRoot][=tree.sp. (ES: chimicua, sp.de.árbol)]
     <text id="298">
         <sentence lang="prq">Nopakotakeri kooko piarentsi pochaari.</sentence>
         <sentence lang="es">A mi suegro le di masato dulce.</sentence>
-        <morphology/>
+        <morphology>
+
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="299">
