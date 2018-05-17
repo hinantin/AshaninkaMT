@@ -7631,7 +7631,7 @@ pochaari	[=pocha][VRoot][=to.be.sweet (ES: ser.dulce)][--][-a][+EP]a[--][-ri+m.]
         <sentence lang="es">Mi hermano comió gusanos de yuca en su chacra.</sentence>
         <sentence lang="en">Brother ate manioc worms in the yucca sown field.</sentence>
         <sentence lang="pt">O meu irmão comeu os vermes da macaxeira no seu roçado.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 rovakari	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-ak][ASP][+PRF]ak[--][-a][+REAL]a[--][=ri][+3m.O]
