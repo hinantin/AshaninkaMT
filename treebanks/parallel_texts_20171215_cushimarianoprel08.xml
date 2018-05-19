@@ -7738,6 +7738,8 @@ maaroni	[=maaroni][AdjRoot][=everybody, all, entire]
 ???
 inyaayetiri	[i-][VPers][3m.S/A+][--][=ny][VRoot][=to.see, to.look.for; to.visit][--][-aa][+CL:liquid][=liquid]aa[--][-ye][+DIST]ye[--][-t][+EP]t[--][-i][+REAL]i[--][=ri][NS][+REL]
 
+.	.[$.]
+
 </morphology>
         <parsing/>
     </text>
@@ -7745,7 +7747,20 @@ inyaayetiri	[i-][VPers][3m.S/A+][--][=ny][VRoot][=to.see, to.look.for; to.visit]
         <sentence lang="prq" normalizationlevel="none">Robakabo koshiri chochoki tonkariki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovakavo koshiri chochoki tonkariki.</sentence>
         <sentence lang="es">El mono blanco come huayos en la altura del cerro.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+rovakavo	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-ak][ASP][+PRF]ak[--][-a][+REAL]a[--][=vo][+3n.m.O]
+
+koshiri	[=koshiri+m.+poss@ti.][NRoot][=monkey.sp., white.monkey.sp. (ES: machín.blanco; sci.nm.: cebus.albifrons)]
+
+chochoki	[=chochoki+n.m.][NRoot][=(wild).sweet.fruit (ES: fruta.dulce)]
+
+tonkariki	[=tonkari+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="304">
