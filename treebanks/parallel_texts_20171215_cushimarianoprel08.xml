@@ -7692,15 +7692,34 @@ otishi	[=otishi+n.m.][NRoot][=row; hill (ES: cerro); mountain.pass (ES: abra)]
         <parsing/>
     </text>
     <text id="301.2">
-        <sentence lang="prq">Roeminkiakeri korinto apani atiri antirori iina.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Roeminkiakeri korinto apani atiri antirori iina.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rominkiakeri korinto apani atiri antirori iina.</sentence>
         <sentence lang="es">El teniente gobernador metió al calabozo al hombre que pegaba a su mujer.</sentence>
-        <morphology/>
+        <sentence lang="en"/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+???
+
+korinto	[=korinto][NRoot][=woman-like.human-eater.big.mythological.animal (ES: piedra.que.come.hombres); elephant (ES: elefante; PT: elefante)]
+
+apani	[=apani][NRoot][=one]
+
+atiri	[=atiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]
+
+antirori	[=ant][VRoot][=to.beat, to.hit; to.build, to.do, to.make][--][-i][+REAL]i[--][=ro][+3n.m.O][--][=ri][NS][+REL]
+
+iina	[i-][NPers][3m.poss+][--][=ina+n.m.+inal@tsi.+voc.][NRoot][=mother; wife (kin.of.a.fe/male)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="302">
         <sentence lang="prq">Timatsi koshinti nonampiki aayetirori maaroni iñaayetiri.</sentence>
         <sentence lang="es">En mi comunidad hay un ratero que roba todas las cosas que ve.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully"/>
         <parsing/>
     </text>
     <text id="303">
