@@ -7742,7 +7742,8 @@ inyaayetiri	[i-][VPers][3m.S/A+][--][=ny][VRoot][=to.see, to.look.for; to.visit]
         <parsing/>
     </text>
     <text id="303">
-        <sentence lang="prq">Robakabo koshiri chochoki tonkariki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Robakabo koshiri chochoki tonkariki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Robakabo koshiri chochoki tonkariki.</sentence>
         <sentence lang="es">El mono blanco come huayos en la altura del cerro.</sentence>
         <morphology/>
         <parsing/>
