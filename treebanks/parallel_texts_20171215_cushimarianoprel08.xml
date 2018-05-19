@@ -7717,9 +7717,21 @@ iina	[i-][NPers][3m.poss+][--][=ina+n.m.+inal@tsi.+voc.][NRoot][=mother; wife (k
         <parsing/>
     </text>
     <text id="302">
-        <sentence lang="prq">Timatsi koshinti nonampiki aayetirori maaroni iñaayetiri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Timatsi koshinti nonampiki aayetirori maaroni iñaayetiri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Timatsi koshinti nonampiki aayetirori maaroni iñaayetiri.</sentence>
         <sentence lang="es">En mi comunidad hay un ratero que roba todas las cosas que ve.</sentence>
-        <morphology format="ashaninkamorph" analysislevel="not-fully"/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+timatsi	[=timatsi][VRoot][=EXIST (EN: there.is/are; ES: hay,, haber)]
+
+koshinti	[=koshinti+m.][NRoot][=thief, robber (ES: ratero, ladrón)]
+
+nonampiki	[no-][NPers][1SG.poss+][--][=nampi+n.m.+inal@tsi.][NRoot][=village (ES: aldea; PT: aldeia); place; country; settlement][--][-ki][Cas][+LOC_LOC.T]
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="303">
