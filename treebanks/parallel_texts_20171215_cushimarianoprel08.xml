@@ -7812,7 +7812,7 @@ nihaa	[=nihaa+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
         <sentence lang="prq" normalizationlevel="none">Ipakeri apa kotsiraaniki riyompari ikobantari tiri.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ipakeri apa kotsiraaniki riyompari ikovantari tiri.</sentence>
         <sentence lang="es">Mi papá dio un cuchillo a su amigo a cambio de brea.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 ipakeri	[i-][VPers][3m.S/A+][--][=p][VRoot][=to.give (ES: dar)][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ri][+3m.O]
@@ -7824,6 +7824,10 @@ kotsiraaniki	[=kotsiraaniki+n.m.+poss@te.][NRoot][=machete, knife (ES: cuchillo)
 riyompari	[r-][NPers][3m.poss+][--][=iyompari+m.][NRoot][=friend (ES: amigo); trading.partner]
 
 ikovantari	[i-][VPers][3m.S/A+][--][=kov][VRoot][=to.want][--][-ant][+APPL.INST][=reason,instrumentality;in.order.to]ant[--][-a][+REAL]a[--][=ri][+3m.O]
+
+tiri	[=tiri+m.+poss@ni.][NRoot][=tar (ES: brea)]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
