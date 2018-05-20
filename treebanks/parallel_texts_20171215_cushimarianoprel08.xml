@@ -7834,11 +7834,16 @@ tiri	[=tiri+m.+poss@ni.][NRoot][=tar (ES: brea)]
     </text>
     <text id="307">
         <sentence lang="prq" normalizationlevel="none">Otaakero eentyo ootsironakite onkotsibeta kaniri.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">Otaakero eentyo ootsironakite onkotsibeta kaniri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Otaakero eentyo ootsironakite onkotsiveta kaniri.</sentence>
         <sentence lang="es">Mi hermana quemó la olla cuando cocinaba yuca.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
+otaakero	[o-][VPers][3n.m.S/A+][--][=ta][VRoot][=to.burn (ES: quemar)][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=ro][+3n.m.O]
+
+eentyo	[=eentyo+n.m.][NRoot][=sister (kin.of.a.female, fem.ego.); female.cousin (fem.ego.)]
+
+ootsironakite	[o-][NPers][3n.m.poss+][--][=kotsi][VRoot][=to.cook (ES: cocinar)][--][-ro+n.m.][NS][+NMZ]ro[--][-naki][+CL:round.hollow][=round,hollow;interior.space;vacuous,round][--][-te][Gen][+aln.poss.]te
 
 
 </morphology>
