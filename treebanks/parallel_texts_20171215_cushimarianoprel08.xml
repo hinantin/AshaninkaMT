@@ -7809,9 +7809,17 @@ nihaa	[=nihaa+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
         <parsing/>
     </text>
     <text id="306">
-        <sentence lang="prq">Ipakeri apa kotsiraaniki riyompari ikobantari tiri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ipakeri apa kotsiraaniki riyompari ikobantari tiri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ipakeri apa kotsiraaniki riyompari ikovantari tiri.</sentence>
         <sentence lang="es">Mi papá dio un cuchillo a su amigo a cambio de brea.</sentence>
-        <morphology/>
+        <morphology>
+
+
+ipakeri	[i-][VPers][3m.S/A+][--][=p][VRoot][=to.give (ES: dar)][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="307">
