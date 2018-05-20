@@ -7693,7 +7693,7 @@ otishi	[=otishi+n.m.][NRoot][=row; hill (ES: cerro); mountain.pass (ES: abra)]
     </text>
     <text id="301.2">
         <sentence lang="prq" normalizationlevel="none">Roeminkiakeri korinto apani atiri antirori iina.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rominkiakeri korinto apani atiri antirori iina.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Roeminkiakeri korinto apani atiri antirori iina.</sentence>
         <sentence lang="es">El teniente gobernador metió al calabozo al hombre que pegaba a su mujer.</sentence>
         <sentence lang="en"/>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
