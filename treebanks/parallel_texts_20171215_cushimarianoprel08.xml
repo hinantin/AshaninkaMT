@@ -7786,9 +7786,17 @@ isheeni	[=isheeni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
         <parsing/>
     </text>
     <text id="305">
-        <sentence lang="prq">Ijeeki koshoshiko omotyaaki antaboki nijaa.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ijeeki koshoshiko omotyaaki antaboki nijaa.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iheeki koshoshiko omotyaaki antavoki nihaa.</sentence>
         <sentence lang="es">El bufeo vive en la poza del río grande.</sentence>
-        <morphology/>
+        <morphology>
+
+
+iheeki	[i-][VPers][3m.S/A+][--][=heek][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir); to.be][--][-i][+IRR]i
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="306">
