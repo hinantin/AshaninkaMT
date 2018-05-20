@@ -7833,9 +7833,15 @@ tiri	[=tiri+m.+poss@ni.][NRoot][=tar (ES: brea)]
         <parsing/>
     </text>
     <text id="307">
-        <sentence lang="prq">Otaakero eentyo ootsironakite onkotsibeta kaniri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Otaakero eentyo ootsironakite onkotsibeta kaniri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Otaakero eentyo ootsironakite onkotsibeta kaniri.</sentence>
         <sentence lang="es">Mi hermana quemó la olla cuando cocinaba yuca.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="308">
