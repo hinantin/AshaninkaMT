@@ -7765,9 +7765,15 @@ tonkariki	[=tonkari+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas][+
         <parsing/>
     </text>
     <text id="304">
-        <sentence lang="prq">Ikoshitake tsirarato amperi isheeni.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikoshitake tsirarato amperi isheeni.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikoshitake tsirarato amperi isheeni.</sentence>
         <sentence lang="es">El pájaro shicapa robó el algodón de mi abuela.</sentence>
-        <morphology/>
+        <morphology>
+
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="305">
