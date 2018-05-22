@@ -7876,9 +7876,17 @@ oyanire	[o-][NPers][3n.m.poss+][--][=kanire+n.m.+voc@nposs.][NRoot][=(sweet).man
         <parsing/>
     </text>
     <text id="309">
-        <sentence lang="prq">Riyaatatye konki Jatipoki raanatyeero maboeni ishintopaye.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Riyaatatye konki Jatipoki raanatyeero maboeni ishintopaye.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Riyaatatye konki Hatipoki raanatyeero mavoeni ishintopaye.</sentence>
         <sentence lang="es">Mi suegro va a viajar a Satipo llevando a todas sus hijas.</sentence>
-        <morphology/>
+        <morphology>
+
+
+riyaatatye	[r-][VPers][3m.S/A+][--][=iyaa][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-aty][ASP][+PROG]aty[--][-e][+IRR]e
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="310">
