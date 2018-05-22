@@ -7879,7 +7879,7 @@ oyanire	[o-][NPers][3n.m.poss+][--][=kanire+n.m.+voc@nposs.][NRoot][=(sweet).man
         <sentence lang="prq" normalizationlevel="none">Riyaatatye konki Jatipoki raanatyeero maboeni ishintopaye.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Riyaatatye konki Hatipoki raanatyeero mavoeni ishintopaye.</sentence>
         <sentence lang="es">Mi suegro va a viajar a Satipo llevando a todas sus hijas.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 riyaatatye	[r-][VPers][3m.S/A+][--][=iyaa][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-aty][ASP][+PROG]aty[--][-e][+IRR]e
@@ -7892,6 +7892,9 @@ raanatyeero	[r-][VPers][3m.S/A+][--][=a][VRoot][=to.take (ES: agarrar)][--][-an+
 
 mavoeni	[=mavoeni][AdjRoot][=everybody, all (ES: todos)]
 
+ishintopaye	[i-][NPers][3m.poss+][--][=shinto+n.m.+inal@tsi.][NRoot][=daughter (kin.of.a.fe/male)][--][-paye][Num][+PL_DIST]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
