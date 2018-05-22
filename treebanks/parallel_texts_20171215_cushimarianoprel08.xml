@@ -7701,7 +7701,7 @@ otishi	[=otishi+n.m.][NRoot][=row; hill (ES: cerro); mountain.pass (ES: abra)]
 
 roeminkiakeri	[r-][VPers][3m.S/A+][--][=oeminki][VRoot][=to.put.sth.inside, to.insert.sth., to.bring.sth.in (ES: introducir, meter)][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ri][+3m.O]
 
-korinto	[=korinto][NRoot][=woman-like.human-eater.big.mythological.animal (ES: piedra.que.come.hombres); elephant (ES: elefante; PT: elefante)]
+korinto	[=korinto][NRoot][=woman-like.human-eater.big.mythological/legendary.animal (ES: piedra.que.come.hombres); elephant (ES: elefante; PT: elefante); lieutenant-governor (ES: teniente.governador)]
 
 apani	[=apani][NRoot][=one]
 
@@ -7854,9 +7854,25 @@ kaniri	[=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: y
         <parsing/>
     </text>
     <text id="308">
-        <sentence lang="prq">Okiyakoti isheeni maabo abantyari oyanire.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Okiyakoti isheeni maabo abantyari oyanire.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Okiyakoti isheeni maavo avantyari oyanire.</sentence>
         <sentence lang="es">Mi abuelita cava gusano para comer con su yuca.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+okiyakoti	[o-][VPers][3n.m.S/A+][--][=kiy][VRoot][=to.dig (ES: escarbar)][--][-ako][VS][+APPL.GEN][=GEN: with.reference.to.sth., about.sth.; INDR: action.affects.sth.in.an.indirect.manner]ako[--][-t][+EP]t[--][-i][+IRR]i
+
+isheeni	[=isheeni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
+
+maavo	[=maavo+m.][NRoot][=earthworm.sp. (ES: sp.de.gusano.de.tierra); insect (ES: insecto)]
+
+avantyari	[a-][VPers][1PL.S/A+][--][=v][VRoot][=to.eat (ES: comer)][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-eya][+IRR.RFL]eya[--][=ri][+3m.O]
+
+oyanire	[o-][NPers][3n.m.poss+][--][=kanire+n.m.+voc@nposs.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="309">
