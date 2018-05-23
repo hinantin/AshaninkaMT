@@ -7903,7 +7903,7 @@ ishintopaye	[i-][NPers][3m.poss+][--][=shinto+n.m.+inal@tsi.][NRoot][=daughter (
         <sentence lang="prq" normalizationlevel="none">Robakabo maakookaba roretane nani.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovakavo maakookava roretane nani.</sentence>
         <sentence lang="es">La panguana comió el comedero de mi papá.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 rovakavo	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.save.sth.in.sth. (ES: guardar.algo)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a][+REAL]a[--][=vo][+3n.m.O]
@@ -7920,9 +7920,20 @@ nani	[n-][NPers][1SG.poss+][--][=ani+m.][NRoot][=grandpa, grandfather (kin.of.a.
         <parsing/>
     </text>
     <text id="311">
-        <sentence lang="prq">Te otimi imaamento miriti, imaashita ojaabiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Te otimi imaamento miriti, imaashita ojaabiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Te otimi imaamento miriti, imaashita ohaaviki.</sentence>
         <sentence lang="es">El huérfano no tiene cama, por eso duerme en el suelo.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+te	[=te+future.neg.][Neg][=NEG.REAL]
+
+otimi	[o-][VPers][3n.m.S/A+][--][=tim][VRoot][=POSSESS (EN: to.have; ES: tener); to.give.birth][--][-i][+IRR]i
+
+imaamento	[i-][NPers][3m.poss+][--][=maa][VRoot][=to.sleep (ES: dormir)][--][-mento+n.m.][NS][+NMZ.CONCR]mento
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="312">
