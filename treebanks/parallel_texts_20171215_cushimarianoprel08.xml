@@ -8017,7 +8017,7 @@ manyo	[=manyo+m.][NRoot][=crane.fly.sp. (ES: zancudo; PT: carapanã)]
         <sentence lang="prq" normalizationlevel="none">Ikentakiri yeye maño rantyabori irira.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikentakiri yeye manyo rantyavori irira.</sentence>
         <sentence lang="es">A mi hermano le picó un zancudo para llevar sangre.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 ikentakiri	[i-][VPers][3m.S/A+][--][=kent][VRoot][=to.pierce.with.arrows, to.shoot.arrows; to.sting (ES: picar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-i][+IRR]i[--][=ri][+3m.O]
@@ -8036,9 +8036,23 @@ irira	[ir-][NPers][3m.poss+][--][=ira+n.m.+inal@ntsi.+poss@ni.][NRoot][=blood (E
         <parsing/>
     </text>
     <text id="316">
-        <sentence lang="prq">Maaperotaka Yompiri rokakiro iina.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Maaperotaka Yompiri rokakiro iina.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Maaperotaka Yompiri rokakiro iina.</sentence>
         <sentence lang="es">Es la verdad, Yompiri dejó a su esposa.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+maaperotaka	[=maapero+prop@standalone.][VRoot][=BE.TRUE (EN: it.is.true; ES: verdaderamente, es.verdad, hablar/decir.la.veracidad/verdad)]+vbz.[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a][+REAL]a
+
+yompiri	[=Yompiri][NRoot][=stone.divinity; proper.name]
+
+rokakiro	[r-][VPers][3m.S/A+][--][=ok][VRoot][=to.abandon; to.leave (ES: dejar); to.throw; to.throw.away/out (ES: botar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-i][+REAL]i[--][=ro][+3n.m.O]
+
+iina	[i-][NPers][3m.poss+][--][=iina+n.m.+inal@tsi.][NRoot][=mother; wife (kin.of.a.fe/male)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="317">
