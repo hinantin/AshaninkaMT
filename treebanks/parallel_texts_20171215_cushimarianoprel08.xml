@@ -7900,9 +7900,14 @@ ishintopaye	[i-][NPers][3m.poss+][--][=shinto+n.m.+inal@tsi.][NRoot][=daughter (
         <parsing/>
     </text>
     <text id="310">
-        <sentence lang="prq">Robakabo maakookaba roretane nani.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Robakabo maakookaba roretane nani.</sentence>
         <sentence lang="es">La panguana comió el comedero de mi papá.</sentence>
-        <morphology/>
+        <morphology>
+
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="311">
