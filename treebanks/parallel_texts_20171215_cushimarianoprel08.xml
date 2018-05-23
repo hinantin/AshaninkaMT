@@ -7901,10 +7901,14 @@ ishintopaye	[i-][NPers][3m.poss+][--][=shinto+n.m.+inal@tsi.][NRoot][=daughter (
     </text>
     <text id="310">
         <sentence lang="prq" normalizationlevel="none">Robakabo maakookaba roretane nani.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovakavo maakookava roretane nani.</sentence>
         <sentence lang="es">La panguana comió el comedero de mi papá.</sentence>
         <morphology>
 
 
+rovakavo	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.save.sth.in.sth. (ES: guardar.algo)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a][+REAL]a[--][=vo][+3n.m.O]
+
+maakookava	[=maakookava][NRoot][=partridge.sp. (ES: panguana, perdiz)]
 
 
 </morphology>
