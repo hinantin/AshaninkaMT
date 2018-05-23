@@ -7970,9 +7970,23 @@ ikamankaati	[i-][VPers][3m.S/A+][--][=kamank][VRoot][=to.vomit (ES: vomitar)][--
         <parsing/>
     </text>
     <text id="313">
-        <sentence lang="prq">Noñaakeri maanki rankobiitiri onkiro.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Noñaakeri maanki rankobiitiri onkiro.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Nonyaakeri maanki rankoviitiri onkiro.</sentence>
         <sentence lang="es">Vi a la culebra enroscando al ratón.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+nonyaakeri	[no-][VPers][1SG.S/A+][--][=ny][VRoot][=to.see, to.look.for; to.visit][--][-a][+EP]a[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+maanki	[=maanki+m.][NRoot][=snake, serpent]
+
+rankoviitiri	[r-][VPers][3m.S/A+][--][=ankovii][VRoot][=to.coil.around.sth. (ES: enrollar, enroscar)][--][-t][+EP]t[--][-i][+IRR]i[--][=ri][+3m.O]
+
+onkiro	[=oNkiro+m.][NRoot][=big.mouse (ES: ratón)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="314">
