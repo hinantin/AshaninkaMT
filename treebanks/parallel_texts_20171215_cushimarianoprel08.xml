@@ -8056,9 +8056,25 @@ iina	[i-][NPers][3m.poss+][--][=iina+n.m.+inal@tsi.][NRoot][=mother; wife (kin.o
         <parsing/>
     </text>
     <text id="317">
-        <sentence lang="prq">Itsaatiri maati itarika iñeri pokashitiriri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Itsaatiri maati itarika iñeri pokashitiriri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Itsaatiri maati itarika inyeri pokashitiriri.</sentence>
         <sentence lang="es">El manacaraco grita cuando ve acercarse a alguien.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+itsaatiri	[i-][VPers][3m.S/A+][--][=tsaa][VRoot][=to.bark (ES: ladrar); to.make.an.animal.sound][--][-t][+EP]t[--][-i][+IRR]i[--][=ri][+3m.O]
+
+maati	[=maati][NRoot][=medium-size.speckled.chachalaca (manacaraco, sci.nm.: ortalis.guttata)]
+
+itarika	[=it][VRoot][=to.precede; to.go.ahead, to.be.first; to.begin][--][-a][+IRR]a[--][=rika][MODAL][+COND][=if (expresses.possible.condition); like (comparison)]
+
+inyeri	[i-][VPers][3m.S/A+][--][=ny][VRoot][=to.see, to.look.for; to.visit][--][-e][+REAL]e[--][=ri][+3m.O]
+
+pokashitiriri	[=pok][VRoot][=to.come (ES: venir), to.arrive][--][-ashi][+APPL.INT][=purpose,(with.the).intent]ashi[--][-t][+EP]t[--][-i][+IRR]i[--][=ri][+3m.O][--][=ri][NS][+REL]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="318">
