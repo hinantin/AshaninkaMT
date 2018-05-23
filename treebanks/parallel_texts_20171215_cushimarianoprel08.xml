@@ -7990,9 +7990,27 @@ onkiro	[=oNkiro+m.][NRoot][=big.mouse (ES: ratón)]
         <parsing/>
     </text>
     <text id="314">
-        <sentence lang="prq">Itsatakero Kamañaari imaantare eero ikentantariri maño.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Itsatakero Kamañaari imaantare eero ikentantariri maño.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Itsatakero Kamanyaari imaantare eero ikentantariri manyo.</sentence>
         <sentence lang="es">Kamañari amarró su mosquitero para que no lo piquen los zancudos.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+itsatakero	[i-][VPers][3m.S/A+][--][=tsa][VRoot][=to.tie, to.moor; to.hung.up (ES: colgar); to.hung.from.sth. (ES: colgarse)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e[--][=ro][+3n.m.O]
+
+kamanyaari	[=kamanyaari][NRoot][=NP, person's.name]
+
+imaantare	[i-][NPers][3m.poss+][--][=ma][VRoot][=to.sleep (ES: dormir)][--][-anta][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]anta[--][-re+m.][NS][+NMZ]re
+
+eero	[=eero][Neg][=NEG.IRR]
+
+ikentantariri	[i-][VPers][3m.S/A+][--][=kent][VRoot][=to.pierce.with.arrows, to.shoot.arrows; to.sting (ES: picar)][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-a][+REAL]a[--][=ri][+3m.O][--][=ri][NS][+REL]
+
+manyo	[=manyo+m.][NRoot][=crane.fly.sp. (ES: zancudo; PT: carapanã)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="315">
