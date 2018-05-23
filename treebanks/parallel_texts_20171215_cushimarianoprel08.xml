@@ -7946,9 +7946,20 @@ ohaaviki	[=ohaaviki][NRoot][=floor, first.floor]
         <parsing/>
     </text>
     <text id="312">
-        <sentence lang="prq">Rayi konki maaniri roetantyaariri itomi ikamankaati.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Rayi konki maaniri roetantyaariri itomi ikamankaati.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rayi konki maaniri roetantyaariri itomi ikamankaati.</sentence>
         <sentence lang="es">Mi suegro trae canela negra para preparar un remedio para su hijo que está vomitando.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+rayi	[r-][VPers][3m.S/A+][--][=ay][VRoot][=to.get][--][-i][+IRR]i
+
+konki	[=konki+m.+poss@ri:re.][NRoot][=father; father.in.law; uncle (kin.of.a.male; ES: suegro)]
+
+maaniri	[=maaniri+n.m.][NRoot][=black.cinnamon.sp., medicinal.tree.sp.]
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="313">
