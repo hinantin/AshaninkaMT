@@ -8332,9 +8332,22 @@ antamiki	[=antami][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.for
         <parsing/>
     </text>
     <text id="330">
-        <sentence lang="prq">Inoshikakeri paba antari mamori.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Inoshikakeri paba antari mamori.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Inoshikakeri pava antari mamori.</sentence>
         <sentence lang="es">Mi papá pescó un sábalo grande.</sentence>
-        <morphology/>
+        <morphology>
+
+
+inoshikakeri	[i-][VPers][3m.S/A+][--][=noshik][VRoot][=to.pull.sth. (ES: jalar); to.drag.sth. (ES: arrastrar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e[--][=ri][+3m.O]
+
+pava	[=pava+m.+poss@ni.][NRoot][=solar.deity; god (ES: dios); creator (PT: Deus.solar,, o.demiurgo.ashaninka); dad, father]
+
+antari	[=antari+m.][AdjRoot][=big; mature]
+
+mamori	[=mamori+m.][NRoot][=fish.sp., sabalo (sci.nm.: brycon.sp.)]
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="331.1">
