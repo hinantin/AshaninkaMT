@@ -8233,7 +8233,7 @@ inkaareki	[=inkaare+n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)][--][-ki][
         <sentence lang="prq" normalizationlevel="none">Majabitake choeni antabaeti obaneki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Mahavitake choeni antavaeti ovaneki.</sentence>
         <sentence lang="es">Mi hermana suda mientras trabaja en su chacra.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 mahavitake	[=mahavi][VRoot][=to.sweat (ES: sudar)][--][-t][+EP]t[--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-e][+REAL]e
@@ -8250,9 +8250,21 @@ ovaneki	[o-][NPers][3n.m.poss+][--][=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.
         <parsing/>
     </text>
     <text id="326">
-        <sentence lang="prq">Ijeki majoki inkaareki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ijeki majoki inkaareki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iheki mahoki inkaareki.</sentence>
         <sentence lang="es">El renacuajo de sapo vive en la cocha.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+iheki	[i-][VPers][3m.S/A+][--][=hek][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir); to.be][--][-i][+IRR]i
+
+mahoki	[=mahoki+m.][NRoot][=tadpole.of.a.toad.sp., toad (ES: sp.de.renacuajo, sapo)]
+
+inkaareki	[=inkaare+n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="327">
