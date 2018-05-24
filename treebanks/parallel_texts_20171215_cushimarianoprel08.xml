@@ -8192,7 +8192,7 @@ tsireentsi	[=tsireentsi+n.m.][NRoot][=palm.tree.sp. (ES: huasaí, chonta)]
         <sentence lang="prq" normalizationlevel="none">Maeyakeni shinkirentipaye ikiteejitakotake iraeyeni.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Maeyakeni shinkirentipaye ikiteehitakotake iraeyeni.</sentence>
         <sentence lang="es">Los borrachos duermen de día porque amanecieron tomando.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 ???
@@ -8210,9 +8210,23 @@ iraeyeni	[=ir][VRoot][=to.drink (ES: beber)][--][-aey][+PL]aey[--][-e][+REAL]e[-
         <parsing/>
     </text>
     <text id="324">
-        <sentence lang="prq">Rakachatiri nani mainto inkaareki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Rakachatiri nani mainto inkaareki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rakachatiri nani mainto inkaareki.</sentence>
         <sentence lang="es">Mi cuñado pesca bujurqui en la cocha.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+rakachatiri	[r-][VPers][3m.S/A+][--][=akacha][VRoot][=to.fish.with.a.line.and.a.hook, to.angle (ES: ansolear)][--][-t][+EP]t[--][-i][+REAL]i[--][=ri][+3m.O]
+
+nani	[n-][NPers][1SG.poss+][--][=ani+m.+poss@ri.][NRoot][=brother.in.law (kin.of.a.male)]
+
+mainto	[=mainto+m.][NRoot][=fish.sp. (big.bujurqui-fish; ES: bujurqui.grande, sp.de.pez)]
+
+inkaareki	[=inkaare+n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="325">
