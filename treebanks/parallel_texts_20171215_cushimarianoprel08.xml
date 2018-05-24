@@ -8269,9 +8269,24 @@ inkaareki	[=inkaare+n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)][--][-ki][
         <parsing/>
     </text>
     <text id="327">
-        <sentence lang="prq">Timatsi pabachori itomi majonti.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Timatsi pabachori itomi majonti.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Timatsi pavachori itomi mahonti.</sentence>
         <sentence lang="es">Mi tío tiene un hijo mudo.</sentence>
-        <morphology/>
+        <sentence lang="en">Uncle has a mute son.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+timatsi	[=timatsi][VRoot][=EXIST (EN: there.is/are; ES: hay,, haber)]
+
+pavachori	[=pavachori+m.+poss@ti.][NRoot][=uncle (kin.of.a.male)]
+
+itomi	[i-][NPers][3m.poss+][--][=tomi+m.+inal@tsi.][NRoot][=son (kin.of.a.fe/male)]
+
+mahonti	[=mahonti+m.][NRoot][=mute, fool (ES: mudo)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="328">
