@@ -8078,15 +8078,38 @@ pokashitiriri	[=pok][VRoot][=to.come (ES: venir), to.arrive][--][-ashi][+APPL.IN
         <parsing/>
     </text>
     <text id="318">
-        <sentence lang="prq">Tekatsi imaatsa irika eentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Tekatsi imaatsa irika eentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Tekatsi imaatsa irika eentsi.</sentence>
         <sentence lang="es">Este niño no tiene ropa.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+tekatsi	[=tekatsi][Neg][=NEG.EXIST (EN: there.is.nothing); NOT.POSSESS (ES: no.tener.nada)]
+
+imaatsa	[i-][NPers][3m.poss+][--][=maa][NRoot][=clothes (e.g.: robe)][--][-tsa][+CL:long.flexible.thin][=long,flexible,thin; liana.(like); tree_bark; curvilinear]
+
+irika	[=irika+m.+proximal][PrnDem][=this (ES: este)]
+
+eentsi	[=eentsi+n./m.+poss@te.][NRoot][=child (ES: niño)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="319">
-        <sentence lang="prq">Itonkake Koriobiri maba maniro.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Itonkake Koriobiri maba maniro.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Itonkake Korioviri mava maniro.</sentence>
         <sentence lang="es">Koriowiri mató tres venados.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+itonkake	[i-][VPers][3m.S/A+][--][=tonk][VRoot][=to.shoot (ES: balear); to.burst][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e
+
+korioviri	[=korioviri][NRoot][=person's.name]
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="320">
