@@ -8290,9 +8290,27 @@ mahonti	[=mahonti+m.][NRoot][=mute, fool (ES: mudo)]
         <parsing/>
     </text>
     <text id="328">
-        <sentence lang="prq">Ijekaki makota otamentotsiki royeri shikiri robantyari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ijekaki makota otamentotsiki royeri shikiri robantyari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ihekaki makota otamentotsiki royeri shikiri rovantyari.</sentence>
         <sentence lang="es">La makota vive donde hay luz esperando a las moscas para comer.</sentence>
-        <morphology/>
+        <morphology>
+
+
+ihekaki	[i-][VPers][3m.S/A+][--][=hek][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir); to.be][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-i][+REAL]i
+
+makota	[=makota][NRoot][=reptile.sp., lizard.sp., chameleon.sp. (ES: camaleón)]
+
+otamentotsiki	[=otamentotsi][NRoot][=lighter, kerosene.lamp, paraffin.lamp][--][-ki][Cas][+LOC_LOC.T]
+
+royeri	[r-][VPers][3m.S/A+][--][=oy][VRoot][=to.eat (ES: comer)][--][-e][+IRR]e[--][=ri][+3m.O]
+
+shikiri	[=shikiri][NRoot][=triangular.wings.fly (ES: sp.de.mosca); mosquito.sp.]
+
+rovantyari	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-ya][+REAL]ya[--][=ri][+3m.O]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="329">
