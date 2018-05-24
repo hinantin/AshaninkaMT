@@ -8314,9 +8314,21 @@ rovantyari	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-ant][A
         <parsing/>
     </text>
     <text id="329">
-        <sentence lang="prq">Imampaabaeta mamabo antamiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Imampaabaeta mamabo antamiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Imampaavaeta mamavo antamiki.</sentence>
         <sentence lang="es">El búho canta en el monte.</sentence>
-        <morphology/>
+        <morphology>
+
+
+imampaavaeta	[i-][VPers][3m.S/A+][--][=mamp][VRoot][=to.sing (ES: cantar)][--][-a][+EP]a[--][-a][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]a[--][-vae][ASP][+DUR][=action/state.endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]vae[--][-t][+EP]t[--][-a][+REAL]a
+
+mamavo	[=mamavo+m.][NRoot][=owl, demonic.bird; great.horned.owl (ES: lechuza; sci.nm.: bubo.virginianus)]
+
+antamiki	[=antami][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.forest][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="330">
