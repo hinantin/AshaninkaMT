@@ -8169,9 +8169,23 @@ eniki	[=Eni][NP][=river (Ene.river)][--][-ki][Cas][+LOC_LOC.T]
         <parsing/>
     </text>
     <text id="322">
-        <sentence lang="prq">Robabo maeni obatsa tsireentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Robabo maeni obatsa tsireentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovavo maeni ovatsa tsireentsi.</sentence>
         <sentence lang="es">El oso come cogollos de palmera.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+rovavo	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-a][+REAL]a[--][=vo][+3n.m.O]
+
+maeni	[=maeni+m.][NRoot][=bear.sp. (ES: sp.de.oso, oso.de.anteojos; sci.nm.: tremarctos.ornatus)]
+
+ovatsa	[o-][NPers][3n.m.poss+][--][=vatsa+n./m.+inal@tsi.][NRoot][=meat (ES: carne), mass; flesh, body (ES: cuerpo); inner.part.of.sth. (tender.part, cogollo)]
+
+tsireentsi	[=tsireentsi+n.m.][NRoot][=palm.tree.sp. (ES: huasaí, chonta)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="323">
