@@ -1,19 +1,22 @@
 <parallel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="parallel_texts.xsd">
     <text id="0">
-        <sentence lang="prq">Ñaantsi ashitari Nijasato (Nº 29338)</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ñaantsi ashitari Nijasato (Nº 29338)</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Nyaantsi ashitari Nihasato (Nº 29338)</sentence>
         <sentence lang="es">Ley de Recursos Hídricos (Nº 29338)</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
 
 
-ñaantsi	[=nyaa+n.m.+inal@ntsi.+poss@ne.][NRoot][=word (ES: palabra); language][--][-ntsi+alien.][Gen][+nposs]ntsi
+nyaantsi	[=nyaa+n.m.+inal@ntsi.+poss@ne.][NRoot][=word (ES: palabra); language][--][-ntsi+alien.][Gen][+nposs]ntsi
 
 ashitari	[=ashit][VRoot][=to.have, to.own, to.possess][--][-a][+EP]a[--][-ri+m.][NS][+NMZ]ri
 
-nijasato	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)][--][-sato+n.m.][NS][+CL:human.provenance][=deriving.location.names, human.provenance]
+nihasato	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)][--][-sato+n.m.][NS][+CL:human.provenance][=deriving.location.names, human.provenance]
 
 (	([$.]
 
+???
 
+???
 
 )	)[$.]
 

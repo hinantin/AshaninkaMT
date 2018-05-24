@@ -8118,9 +8118,28 @@ maniro	[=maniro+m.][NRoot][=deer (ES: venado); red.deer (ES: venado.rojo; sci.nm
         <parsing/>
     </text>
     <text id="320">
-        <sentence lang="prq">Ipankitaitiro mabona antaiki kashiri antabotantyaari obatsa.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ipankitaitiro mabona antaiki kashiri antabotantyaari obatsa.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ipankitaitiro mavona antaiki kashiri antavotantyaari ovatsa.</sentence>
         <sentence lang="es">La sachapapa se siembra en luna llena para que tenga buenos tubérculos.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ipankitaitiro	[i-][VPers][3m.S/A+][--][=panki][VRoot][=to.plant, to.sow (ES: sembrar)][--][-t][+EP]t[--][-ai][+IMP.P]ai[--][-t][+EP]t[--][-i][+REAL]i[--][=ro][+3n.m.O]
+
+mavona	[=mavona+n.m.][NRoot][=potato.sp., edible.tuber; yam-vegetable (QU: sach'a.papa; sci.nm.: arachis.hypogaea)]
+
+???
+antaiki	[N=][IRR+][--][=atai][VRoot][=to.go.up (ES: subir); to.climb (ES: trepar)][--][-ki][+CL:S.R.H][=small,round(ed);hard;seed-like]ki
+
+kashiri	[=kashiri+m.][NRoot][=moon (ES: luna); month (ES: mes); lunar.deity]
+
+antavotantyaari	[=antavo+n.m.][AdjRoot][=big; mature]+vbz.[--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-yaa][+IRR]yaa[--][=ri][NS][+REL]
+
+ovatsa	[o-][NPers][3n.m.poss+][--][=vatsa+n./m.+inal@tsi.][NRoot][=meat (ES: carne), mass; flesh, body (ES: cuerpo); inner.part.of.sth. (tender.part, cogollo)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="321">
