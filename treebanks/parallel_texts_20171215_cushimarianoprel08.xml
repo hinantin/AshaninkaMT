@@ -8189,9 +8189,24 @@ tsireentsi	[=tsireentsi+n.m.][NRoot][=palm.tree.sp. (ES: huasaí, chonta)]
         <parsing/>
     </text>
     <text id="323">
-        <sentence lang="prq">Maeyakeni shinkirentipaye ikiteejitakotake iraeyeni.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Maeyakeni shinkirentipaye ikiteejitakotake iraeyeni.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Maeyakeni shinkirentipaye ikiteehitakotake iraeyeni.</sentence>
         <sentence lang="es">Los borrachos duermen de día porque amanecieron tomando.</sentence>
-        <morphology/>
+        <morphology>
+
+
+???
+maeyakeni	[=maey][VRoot][=to.sleep (ES: dormir)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e[--][-ni+circumfixing][+PL]
+
+shinkirentipaye	[=shinki][VRoot][=to.get.drunk; to.intoxicate][--][-renti+m.][NS][+ADJ.CAPABLE]renti[--][-paye][Num][+PL_DIST]
+
+ikiteehitakotake	[i-][VPers][3m.S/A+][--][=kiteehi][VRoot][=to.be.morning; to.dawn; to.get.up.early][--][-t][+EP]t[--][-ako][VS][+APPL.GEN][=GEN: with.reference.to.sth., about.sth.; INDR: action.affects.sth.in.an.indirect.manner]ako[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
+
+iraeyeni	[=ir][VRoot][=to.drink (ES: beber)][--][-aey][+PL]aey[--][-e][+REAL]e[--][-ni+circumfixing][+PL]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="324">
