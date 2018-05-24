@@ -8230,9 +8230,23 @@ inkaareki	[=inkaare+n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)][--][-ki][
         <parsing/>
     </text>
     <text id="325">
-        <sentence lang="prq">Majabitake choeni antabaeti obaneki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Majabitake choeni antabaeti obaneki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Mahavitake choeni antavaeti ovaneki.</sentence>
         <sentence lang="es">Mi hermana suda mientras trabaja en su chacra.</sentence>
-        <morphology/>
+        <morphology>
+
+
+mahavitake	[=mahavi][VRoot][=to.sweat (ES: sudar)][--][-t][+EP]t[--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-e][+REAL]e
+
+choeni	[=choeni+n.m.][NRoot][=sister (kin.of.a.male, male.ego)]
+
+antavaeti	[=ant][VRoot][=to.beat, to.hit; to.build, to.do, to.make][--][-a][+EP]a[--][-vae][ASP][+DUR][=action/state.endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]vae[--][-t][+EP]t[--][-i][+REAL]i
+
+ovaneki	[o-][NPers][3n.m.poss+][--][=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra; PT: roçado)][--][-ne][Gen][+aln.poss.]ne[--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="326">
