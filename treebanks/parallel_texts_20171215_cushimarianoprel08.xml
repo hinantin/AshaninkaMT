@@ -8394,7 +8394,7 @@ yotaantsipanko	[=yot][VRoot][=to.know (ES: conocer, saber)][--][-aantsi][NS][+NM
     </text>
     <text id="332">
         <sentence lang="prq" normalizationlevel="none">Ikobakotiro yeye isheni mampetsa roojotantyaabori ichakopitepaye.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikovakotiro yeye isheni mampetsa roootantyaabori ichakopitepaye.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikovakotiro yeye isheni mampetsa roohotantyaavori ichakopitepaye.</sentence>
         <sentence lang="es">Mi hermano pide puchkay a mi abuela para amarrar sus flechas.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
@@ -8403,7 +8403,13 @@ ikovakotiro	[i-][VPers][3m.S/A+][--][=kov][VRoot][=to.want][--][-ako][VS][+APPL.
 
 yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
 
+isheni	[=isheni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
 
+mampetsa	[=mampetsa+n.m.+poss@te.][NRoot][=thread; cotton.thread (ES: hilo.de.algodón); distaff (ES: huso, rueca; QU: puchka)]
+
+roohotantyaavori	[r-][VPers][3m.S/A+][--][=ooho][VRoot][=to.tie (ES: atar), to.tie.sth.up (ES: amarrar)][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-yaa][+IRR]yaa[--][=vo][+3n.m.O][--][=ri][NS][+REL]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
