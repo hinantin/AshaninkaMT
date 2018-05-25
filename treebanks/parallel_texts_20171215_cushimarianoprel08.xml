@@ -8192,6 +8192,7 @@ tsireentsi	[=tsireentsi+n.m.][NRoot][=palm.tree.sp. (ES: huasaí, chonta)]
         <sentence lang="prq" normalizationlevel="none">Maeyakeni shinkirentipaye ikiteejitakotake iraeyeni.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Maeyakeni shinkirentipaye ikiteehitakotake iraeyeni.</sentence>
         <sentence lang="es">Los borrachos duermen de día porque amanecieron tomando.</sentence>
+        <sentence lang="en">The drunk ones sleep, because they drunk till day came upon them.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -8352,9 +8353,16 @@ mamori	[=mamori+m.][NRoot][=fish.sp., sabalo (sci.nm.: brycon.sp.)]
         <parsing/>
     </text>
     <text id="331.1">
-        <sentence lang="prq">Ijankenaeyakeni mampaantsi iirianipaye.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ijankenaeyakeni mampaantsi iirianipaye.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ihankenaeyakeni mampaantsi iirianipaye.</sentence>
         <sentence lang="es">Los niños escribieron una canción.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ihankenaaeyakeni	[i-][VPers][3m.S/A+][--][=hankena][VRoot][=to.write, to.draw][--][-aey][+PL]aey[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e[--][-ni+circumfixing][+PL]
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="331.2">
