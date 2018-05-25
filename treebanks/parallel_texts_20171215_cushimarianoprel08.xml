@@ -8371,15 +8371,41 @@ iirianipaye	[i-][NPers][3m.poss+][--][=iriani][NRoot][=child (ES: niño)][--][-p
         <parsing/>
     </text>
     <text id="331.2">
-        <sentence lang="prq">Imampaakabo irianipaye mampaantsi ojarentsiteki yotaantsinpanko.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Imampaakabo irianipaye mampaantsi ojarentsiteki yotaantsinpanko.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Imampaakavo irianipaye mampaantsi oharentsiteki yotaantsinpanko.</sentence>
         <sentence lang="es">Los niños cantaron una canción en el aniversario de la escuela.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+imampaakavo	[i-][VPers][3m.S/A+][--][=mamp][VRoot][=to.sing (ES: cantar)][--][-a][+EP]a[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a][+IRR]a[--][=vo][+3n.m.O]
+
+irianipaye	[=iriani][NRoot][=child (ES: niño)][--][-paye][Num][+PL_DIST]
+
+mampaantsi	[=mamp][VRoot][=to.sing (ES: cantar)][--][-aantsi][NS][+NMZ.INF]aantsi
+
+oharentsiteki	[o-][NPers][3n.m.poss+][--][=harentsi+m.][NRoot][=year (ES: año); dry.season/summer (ES: verano)][--][-te][Gen][+aln.poss.]te[--][-ki][Cas][+LOC_LOC.T]
+
+yotaantsipanko	[=yot][VRoot][=to.know (ES: conocer, saber)][--][-aantsi][NS][+NMZ.INF]aantsi[--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="332">
-        <sentence lang="prq">Ikobakotiro yeye isheni mampetsa roojotantyaabori ichakopitepaye.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikobakotiro yeye isheni mampetsa roojotantyaabori ichakopitepaye.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikovakotiro yeye isheni mampetsa roootantyaabori ichakopitepaye.</sentence>
         <sentence lang="es">Mi hermano pide puchkay a mi abuela para amarrar sus flechas.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ikovakotiro	[i-][VPers][3m.S/A+][--][=kov][VRoot][=to.want][--][-ako][VS][+APPL.GEN][=GEN: with.reference.to.sth., about.sth.; INDR: action.affects.sth.in.an.indirect.manner]ako[--][-t][+EP]t[--][-i][+IRR]i[--][=ro][+3n.m.O]
+
+yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="333">
