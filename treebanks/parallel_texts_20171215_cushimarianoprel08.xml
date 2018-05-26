@@ -8415,9 +8415,24 @@ roohotantyaavori	[r-][VPers][3m.S/A+][--][=ooho][VRoot][=to.tie (ES: atar), to.t
         <parsing/>
     </text>
     <text id="333">
-        <sentence lang="prq">Itsonkatakeri notyomi mampiritsi ibatsaki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Itsonkatakeri notyomi mampiritsi ibatsaki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Itsonkatakeri notyomi mampiritsi ivatsaki.</sentence>
         <sentence lang="es">Mi hijo está lleno de isangos en todo el cuerpo.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+???
+itsonkatakeri	[i-][VPers][3m.S/A+][--][=tsonk][VRoot][=to.finish (ES: terminar)][--][-a][+CL:liquid][=liquid]a[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+notyomi	[no-][NPers][1SG.poss+][--][=tyomi+m.+inal@tsi.][NRoot][=son (kin.of.a.male)]
+
+mampiritsi	[=mampiritsi+m.][NRoot][=insect.sp. (ES: isango, sp.de.insecto)]
+
+ivatsaki	[i-][NPers][3m.poss+][--][=vatsa+n./m.+inal@tsi.][NRoot][=meat (ES: carne), mass; flesh, body (ES: cuerpo); inner.part.of.sth. (tender.part, cogollo)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="334">
