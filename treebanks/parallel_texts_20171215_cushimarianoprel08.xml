@@ -8436,9 +8436,23 @@ ivatsaki	[i-][NPers][3m.poss+][--][=vatsa+n./m.+inal@tsi.][NRoot][=meat (ES: car
         <parsing/>
     </text>
     <text id="334">
-        <sentence lang="prq">Ikentakeri apa mani iitiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikentakeri apa mani iitiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikentakeri apa mani iitiki.</sentence>
         <sentence lang="es">La isula picó a papá en el pie.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ikentakeri	[i-][VPers][3m.S/A+][--][=kent][VRoot][=to.pierce.with.arrows, to.shoot.arrows; to.sting (ES: picar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e[--][=ri][+3m.O]
+
+apa	[=apa+m.][NRoot][=father (kin.of.a.fe/male)]
+
+mani	[=mani+m.][NRoot][=bullet.ant.sp. (big-and-venomous.ant.sp.; ES: isula; sci.nm.: paraponea.clavata)]
+
+iitiki	[=iiti+n.m.+inal@ntsi.][NRoot][=foot (ES: pie)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="335">
