@@ -8456,9 +8456,25 @@ iitiki	[=iiti+n.m.+inal@ntsi.][NRoot][=foot (ES: pie)][--][-ki][Cas][+LOC_LOC.T]
         <parsing/>
     </text>
     <text id="335">
-        <sentence lang="prq">Rirati maniro cheetatsiri nija nijaateniki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Rirati maniro cheetatsiri nija nijaateniki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rirati maniro cheetatsiri niha nihaateniki.</sentence>
         <sentence lang="es">El venado con cuernos toma agua en la quebrada.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+rirati	[r-][VPers][3m.S/A+][--][=ir][VRoot][=to.drink (ES: beber)][--][-ati][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]ati
+
+maniro	[=maniro+m.][NRoot][=deer (ES: venado); red.deer (ES: venado.rojo; sci.nm.: mazama.americana); gray.deer (ES: venado.gris; sci.nm.: mazama.gouazoubira)]
+
+cheetatsiri	[=chee+m.+inal@tsi.][NRoot][=horn (crescent.like; ES: cuerno); thorn, spiny.thorn]+vbz.[--][-t][+EP]t[--][-atsi][Asp][+STAT.IPRF]atsi[--][=ri][NS][+REL]
+
+niha	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
+
+nihaateniki	[=nihaateni][NRoot][=brook; creek (ES: quebrada, arroyo)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="336">
