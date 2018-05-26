@@ -8479,9 +8479,17 @@ nihaateniki	[=nihaateni][NRoot][=brook; creek (ES: quebrada, arroyo)][--][-ki][C
         <parsing/>
     </text>
     <text id="336">
-        <sentence lang="prq">Robakari karinari maniti shabo ocheempeki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Robakari karinari maniti shabo ocheempeki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovakari karinari maniti shavo ocheempeki.</sentence>
         <sentence lang="es">El tigre pintado comió al añuje en el cerro.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+rovakari	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a][+REAL]a[--][=ri][+3m.O]
+
+karinari	[=karina][VRoot][=to.paint (ES: pintar, colorar)][--][-ri+m.][NS][+NMZ]ri
+
+</morphology>
         <parsing/>
     </text>
     <text id="337">
