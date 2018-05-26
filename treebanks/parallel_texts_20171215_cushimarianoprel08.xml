@@ -8501,21 +8501,73 @@ ocheempeki	[=ocheempe][NRoot][=hill (ES: cerro)][--][-ki][Cas][+LOC_LOC.T]
         <parsing/>
     </text>
     <text id="337">
-        <sentence lang="prq">Ranti mankareto imoshi otebaki inchatoshiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ranti mankareto imoshi otebaki inchatoshiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ranti mankareto imoshi otevaki inchatoshiki.</sentence>
         <sentence lang="es">La araña teje su tela en las ramas de los arbustos.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ranti	[r-][VPers][3m.S/A+][--][=ant][VRoot][=to.beat, to.hit; to.build, to.do, to.make][--][-i][+IRR]i
+
+mankareto	[=mankareto][NRoot][=spider.sp. (ES: sp.de.araña)]
+
+imoshi	[=imoshi][NRoot][=spider's.web (ES: tela.de.araña)]
+
+otevaki	[=oteva][NRoot][=branch (ES: rama); fork-like.branch (ES: horquilla)][--][-ki][Cas][+LOC_LOC.T]
+
+inchatoshiki	[=incha][NRoot][=plant][--][-to][+CL:tree][=tree,trunk][--][-shi][+CL:L.S.T.F.F][=leaf;small,thin,flexible,flat;leafy.substance][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="338">
-        <sentence lang="prq">Imanonkakeri tijo Shantyoma iñaakeri oshitobake irira.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Imanonkakeri tijo Shantyoma iñaakeri oshitobake irira.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Imanonkakeri tiho Shantyoma inyaakeri oshitovake irira.</sentence>
         <sentence lang="es">El gallinazo bañado de sangre hizo mal agüero a Shantyoma.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+imanonkakeri	[i-][VPers][3m.S/A+][--][=manonk][VRoot][=to.cause.a.bad.omen (ES: hacer.mal.agüero)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+tiho	[=tiho][NRoot][=black.vulture.sp. (ES: gallinazo)]
+
+shantyoma	[=shantyoma][NRoot][=NP, person's.name]
+
+inyaakeri	[i-][VPers][3m.S/A+][--][=ny][VRoot][=to.see, to.look.for; to.visit][--][-a][+EP]a[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e[--][=ri][+3m.O]
+
+oshitovake	[o-][VPers][3n.m.S/A+][--][=shitov][VRoot][=to.leave (ES: salir); to.escape][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e
+
+irira	[ir-][NPers][3m.poss+][--][=ira+n.m.+inal@ntsi.+poss@ni.][NRoot][=blood (ES: sangre)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="339">
-        <sentence lang="prq">Imaye mantana kitejeriki omooki inchato tyaentsiri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Imaye mantana kitejeriki omooki inchato tyaentsiri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Imaye mantana kiteheriki omooki inchato tyaentsiri.</sentence>
         <sentence lang="es">El majás duerme de día en el hueco de un árbol caído.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+imaye	[i-][VPers][3m.S/A+][--][=may][VRoot][=to.sleep (ES: dormir)][--][-e][+IRR]e
+
+mantana	[=mantana][NRoot][=rodent.sp. (ES: majás, majas, majaz)]
+
+kiteheriki	[=kiteheri][NRoot][=day (ES: día)][--][-ki][Cas][+LOC_LOC.T]
+
+omooki	[=omoo][NRoot][=hole (ES: hueco)][--][-ki][Cas][+LOC_LOC.T]
+
+inchato	[=inchato+n.m.][NRoot][=tree (ES: árbol)]
+
+tyaentsiri	[=ty][VRoot][=to.fell, to.cut.down (e.g.: a.tree.; ES: tumbar, hacer.caer)][--][-aentsi][Asp][+STAT.PRF]aentsi[--][=ri][NS][+REL]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="340">
