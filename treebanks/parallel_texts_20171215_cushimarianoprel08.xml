@@ -8719,9 +8719,23 @@ choeni	[=choeni+n.m.][NRoot][=sister (kin.of.a.male, male.ego)]
         <parsing/>
     </text>
     <text id="347">
-        <sentence lang="prq">Imapokakeri amenayetiriri obametantatsiri yotaantsinpankoki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Imapokakeri amenayetiriri obametantatsiri yotaantsinpankoki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Imapokakeri amenayetiriri ovametantatsiri yotaantsinpankoki.</sentence>
         <sentence lang="es">El monitor sorprendió al profesor en la escuela.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+imapokakeri	[i-][VPers][3m.S/A+][--][=mapok][VRoot][=to.surprise (ES: sorprender)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+amenayetiriri	[=amen][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of][--][-a][+EP]a[--][-ye][+DIST]ye[--][-t][+EP]t[--][-i][+IRR]i[--][=ri][+3m.O][--][=ri][NS][+REL]
+
+ovametantatsiri	[=ovame][VRoot][=to.teach (ES: enseñar)][--][-t][+EP]t[--][-ant][+APPL.INST][=reason,instrumentality;in.order.to]ant[--][-atsi][Asp][+STAT.IPRF]atsi[--][=ri][NS][+REL]
+
+yotaantsipankoki	[=yot][VRoot][=to.know (ES: conocer, saber)][--][-aantsi][NS][+NMZ.INF]aantsi[--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="348">
