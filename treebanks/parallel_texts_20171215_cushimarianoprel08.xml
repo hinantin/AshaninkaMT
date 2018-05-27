@@ -8611,9 +8611,19 @@ kamaantsi	[=kamaantsi+n./m.+poss@te.][NRoot][=flu (ES: gripe, constipado); snot 
         <parsing/>
     </text>
     <text id="342">
-        <sentence lang="prq">Maperotaka nana omantsiyare te ariajeniti.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Maperotaka nana omantsiyare te ariajeniti.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Maperotaka nana omantsiyare te ariaheniti.</sentence>
         <sentence lang="es">Mi mamá está grave, parece que no se va a mejorar.</sentence>
-        <morphology/>
+        <morphology>
+
+
+maperotaka	[=mapero][VRoot][=to.get.worse (ES: empeorarse); to.be.seriously.ill (ES: estar.grave); to.be.true][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a][+REAL]a
+
+nana	[=nana+n.m.+voc.+poss@te:ti.][NRoot][=mom, mother (kin.of.a.fe/male; ES: mamá)]
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="343">
