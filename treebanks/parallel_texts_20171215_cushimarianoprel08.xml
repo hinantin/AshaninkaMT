@@ -8621,15 +8621,37 @@ maperotaka	[=mapero][VRoot][=to.get.worse (ES: empeorarse); to.be.seriously.ill 
 
 nana	[=nana+n.m.+voc.+poss@te:ti.][NRoot][=mom, mother (kin.of.a.fe/male; ES: mamá)]
 
+omantsiyare	[o-][NPers][3n.m.poss+][--][=mantsiya][VRoot][=to.be.sick (ES: enfermar(se))][--][-re+m.][NS][+NMZ]re
 
+te	[=te+future.neg.][Neg][=NEG.REAL]
+
+???
+
+.	.[$.]
 
 </morphology>
         <parsing/>
     </text>
     <text id="343">
-        <sentence lang="prq">Rontibatakabo Napo mapi oshetakiriaakeri ishetaki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Rontibatakabo Napo mapi oshetakiriaakeri ishetaki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rontivatakavo Napo mapi oshetakiriaakeri ishetaki.</sentence>
         <sentence lang="es">Napo se tropezó con la piedra hasta sacarse la uña.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+rontivatakavo	[ro-][VPers][3n.m.S/A+][--][N=][IRR+][--][=tiva][VRoot][=to.trip.(over.sth.) (ES: tropezar)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a][+REAL]a[--][=vo][+3n.m.O]
+
+napo	[=napo][NRoot][=person's.name; NP]
+
+mapi	[=mapi+n.m.+poss@ni:ne.][NRoot][=stone; rock]
+
+oshetakiriaakeri	[o-][VPers][3n.m.S/A+][--][=shetaki+n.m.+inal@ntsi.][NRoot][=fingernail (ES: uña); claw (ES: garra)]+vbz.[--][-ri][+REV]ri[--][-a][+EP]a[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+ishetaki	[i-][NPers][3m.poss+][--][=shetaki+n.m.+inal@ntsi.][NRoot][=fingernail (ES: uña); claw (ES: garra)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="344">
