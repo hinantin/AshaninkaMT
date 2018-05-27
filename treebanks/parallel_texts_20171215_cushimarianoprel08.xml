@@ -8591,9 +8591,17 @@ katsirentsi	[=katsi][VRoot][=to.feel.pain; to.be.in.pain; to.cause.pain][--][-re
         <parsing/>
     </text>
     <text id="341">
-        <sentence lang="prq">Omatakeri pabachori mantsiyarentsi kamaantsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Omatakeri pabachori mantsiyarentsi kamaantsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Omatakeri pavachori mantsiyarentsi kamaantsi.</sentence>
         <sentence lang="es">A mi tío lo atacó la enfermedad de la gripe.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+omatakeri	[o-][VPers][3n.m.S/A+][--][=mat][VRoot][=to.manage.(to.do.sth.), to.be.able/possible.(to.do.sth.) (ES: lograr, poder.hacer.algo); to.do.sth. (ES: hacer.algo); to.transmit.a.disease (ES: contagiar); to.become.infected.wth.sth., to.get.a_disease (ES: contagiarse)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="342">
