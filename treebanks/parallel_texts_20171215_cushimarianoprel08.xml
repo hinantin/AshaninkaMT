@@ -8571,9 +8571,23 @@ tyaentsiri	[=ty][VRoot][=to.fell, to.cut.down (e.g.: a.tree.; ES: tumbar, hacer.
         <parsing/>
     </text>
     <text id="340">
-        <sentence lang="prq">Mantsiyatake yeye omatakeri katsirentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Mantsiyatake yeye omatakeri katsirentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Mantsiyatake yeye omatakeri katsirentsi.</sentence>
         <sentence lang="es">Mi hermano se enfermó con paludismo.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+mantsiyatake	[=mantsiy][VRoot][=to.be.sick (ES: enfermar(se))][--][-a][+CL:liquid][=liquid]a[--][-t][+EP]t[--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-e][+IRR]e
+
+yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
+
+omatakeri	[o-][VPers][3n.m.S/A+][--][=mat][VRoot][=to.manage.(to.do.sth.), to.be.able/possible.(to.do.sth.) (ES: lograr, poder.hacer.algo); to.do.sth. (ES: hacer.algo); to.transmit.a.disease (ES: contagiar); to.become.infected.wth.sth., to.get.a_disease (ES: contagiarse)][--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+katsirentsi	[=katsi][VRoot][=to.feel.pain; to.be.in.pain; to.cause.pain][--][-re+m.][NS][+NMZ]re[--][-ntsi+alien.][Gen][+nposs]ntsi
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="341">
