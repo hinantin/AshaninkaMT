@@ -8739,9 +8739,21 @@ yotaantsipankoki	[=yot][VRoot][=to.know (ES: conocer, saber)][--][-aantsi][NS][+
         <parsing/>
     </text>
     <text id="348">
-        <sentence lang="prq">Amakeri nana mapotopaye pankotsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Amakeri nana mapotopaye pankotsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Amakeri nana mapotopaye pankotsiki.</sentence>
         <sentence lang="es">Mi mamá trajo congompes a la casa.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+amakeri	[=am][VRoot][=to.bring (ES: traer)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e[--][=ri][+3m.O]
+
+nana	[=nana+n.m.+voc.+poss@te:ti.][NRoot][=mom, mother (kin.of.a.fe/male; ES: mamá)]
+
+mapotopaye	[=mapoto+m.][NRoot][=edible.medium-size.land.snail (ES: sp.de.caracol.terrestre.comestible, molusco; sci.nm.: megalobulimus.popelairianus)][--][-paye][Num][+PL_DIST]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="349">
