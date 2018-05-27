@@ -8658,13 +8658,42 @@ ishetaki	[i-][NPers][3m.poss+][--][=shetaki+n.m.+inal@ntsi.][NRoot][=fingernail 
         <sentence lang="prq" normalizationlevel="none">Imaabaeti Toropeeti mapipookiki itsariantyariri otiyaarentsi.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Imaavaeti Toropeeti mapipookiki itsariantyariri otiyaarentsi.</sentence>
         <sentence lang="es">Toropetzi duerme en el cascajal para echar red al mijano.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+toropeeti	[=toropeeti][NRoot][=person's.name, NP]
+
+imaavaeti	[i-][VPers][3m.S/A+][--][=maa][VRoot][=to.sleep (ES: dormir)][--][-vae][ASP][+DUR][=action/state.endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]vae[--][-t][+EP]t[--][-i][+REAL]i
+
+mapipookiki	[=mapi+n.m.+poss@ni:ne.][NRoot][=stone; rock][--][-pooki][+CL:quantity][=bunch,group;group.of.tiny.objects][--][-ki][Cas][+LOC_LOC.T]
+
+itsariantyariri	[i-][VPers][3m.S/A+][--][=tsa][VRoot][=to.tie, to.moor; to.hung.up (ES: colgar); to.hung.from.sth. (ES: colgarse)][--][-ry][+REV]ry[--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-t][+EP]t[--][-ya][+IRR]ya[--][=ri][+3m.O][--][=ri][NS][+REL]
+
+otiyaarentsi	[=otiyaarentsi][NRoot][=migratory-fishes (ES: mijano, peces.migratorios, multitud.de.peces.que.nadan.juntos; migraciòn.estacional.de.peces)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="345">
-        <sentence lang="prq">Imampa mapiti tonkaareki riyotiro kitaejeri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Imampa mapiti tonkaareki riyotiro kitaejeri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Imampa mapiti tonkaareki riyotiro kitaeheri.</sentence>
         <sentence lang="es">El pájaro del cerro canta anunciando el amanecer.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+imampa	[i-][VPers][3m.S/A+][--][=mamp][VRoot][=to.sing (ES: cantar)][--][-a][+IRR]a
+
+mapiti	[=mapiti+m.][NRoot][=small.bird.sp. (ES: sp.de.pájaro)]
+
+tonkaareki	[=tonkaare+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas][+LOC_LOC.T]
+
+riyotiro	[ri-][VPers][3m.S/A+][--][=yot][VRoot][=to.know (ES: conocer, saber)][--][-i][+IRR]i[--][=ro][+3n.m.O]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="346">
