@@ -8699,9 +8699,23 @@ riyotiro	[ri-][VPers][3m.S/A+][--][=yot][VRoot][=to.know (ES: conocer, saber)][-
         <parsing/>
     </text>
     <text id="346">
-        <sentence lang="prq">Irakake mapocha obaneki choeni.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Irakake mapocha obaneki choeni.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Irakake mapocha ovaneki choeni.</sentence>
         <sentence lang="es">La papaya se maduró en la chacra de mi hermana.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+irakake	[=irak][VRoot][=to.be.ripe (fruit; ES: madurar), to.ripen][--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-e][+REAL]e
+
+mapocha	[=mapocha+n.m.+poss@ti.][NRoot][=papaya (botany.nm.: carica.papaya)]
+
+ovaneki	[o-][NPers][3n.m.poss+][--][=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra; PT: roçado)][--][-ne][Gen][+aln.poss.]ne[--][-ki][Cas][+LOC_LOC.T]
+
+choeni	[=choeni+n.m.][NRoot][=sister (kin.of.a.male, male.ego)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="347">
