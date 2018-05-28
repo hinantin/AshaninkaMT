@@ -8973,9 +8973,25 @@ hinatsi	[=hina+n.m.+inal@n/tsi.][NRoot][=mother; wife (kin.of.a.fe/male)][--][-t
         <parsing/>
     </text>
     <text id="358">
-        <sentence lang="prq">Ikanti pinkatsari: Meeka atsamaetero abotsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikanti pinkatsari: Meeka atsamaetero abotsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikanti pinkatsari: Meeka atsamaetero avotsi.</sentence>
         <sentence lang="es">El jefe dice: “Ahora limpiaremos el camino”.</sentence>
-        <morphology/>
+        <morphology>
+
+
+ikanti	[i-][VPers][3m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-i][+IRR]i
+
+pinkatsari	[=pinkatsari+m.+voc.+poss@te.][NRoot][=chief (ES: jefe); regional.leader]
+
+:	:[$.]
+
+meeka	[=meeka][AdvRoot][=now; already]
+
+avotsi	[=avo+n.m.+inal@tsi.][NRoot][=road, trail][--][-tsi+alien.][Gen][+nposs]tsi
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="359">
