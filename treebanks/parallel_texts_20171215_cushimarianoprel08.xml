@@ -8951,9 +8951,25 @@ iina	[=iina+n.m.+inal@tsi.][NRoot][=mother; wife (kin.of.a.fe/male)]
         <parsing/>
     </text>
     <text id="357.2">
-        <sentence lang="prq">Irinta mayempiri osheki yookakaantake jinatsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Irinta mayempiri osheki yookakaantake jinatsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Irinta mayempiri osheki yookakaantake hinatsi.</sentence>
         <sentence lang="es">Ese mujeriego destruyó muchos hogares.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+irinta	[=irinta+m.+distal][PrnDem][=~]
+
+mayempiri	[=mayempiri+m.][NRoot][=womanizer (ES: mujeriego)]
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+yookakaantake	[y-][VPers][3m.S/A+][--][=ook][VRoot][=to.abandon; to.leave (ES: dejar); to.throw; to.throw.away/out (ES: botar)][--][-aka][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]aka[--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e
+
+hinatsi	[=hina+n.m.+inal@n/tsi.][NRoot][=mother; wife (kin.of.a.fe/male)][--][-tsi+alien.][Gen][+nposs]tsi
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="358">
