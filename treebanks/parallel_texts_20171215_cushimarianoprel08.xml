@@ -8892,7 +8892,7 @@ payantimashiki	[=payanti+n.m.+poss@te:ti.][NRoot][=plantain (banana-like.fruit.t
         <sentence lang="prq" normalizationlevel="none">Robametakeri charini imatsini icharine.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovametakeri charini imatsini icharine.</sentence>
         <sentence lang="es">Mi abuelo enseñó a su nieto a ser brujo.</sentence>
-        <morphology format="ashaninkamorph">
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 rovametakeri	[r-][VPers][3m.S/A+][--][=ovame][VRoot][=to.teach (ES: enseñar)][--][-t][+EP]t[--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-e][+REAL]e[--][=ri][+3m.O]
@@ -8909,9 +8909,23 @@ icharine	[i-][NPers][3m.poss+][--][=charine+m.][NRoot][=grandpa, grandfather, gr
         <parsing/>
     </text>
     <text id="356">
-        <sentence lang="prq">Robakari matsontsori otyaapate isheeni.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Robakari matsontsori otyaapate isheeni.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovakari matsontsori otyaapate isheeni.</sentence>
         <sentence lang="es">El tigrillo comió la gallina de mi abuela.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+rovakari	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a][+REAL]a[--][=ri][+3m.O]
+
+matsontsori	[=matsontsori][NRoot][=jaguar (ES: tigrillo; sci.nm.: leopardus.pardalis, Leopardus.wiedii)]
+
+otyaapate	[o-][NPers][3n.m.poss+][--][=tyaapa+n.m.+poss@te.][NRoot][=hen (ES: gallina); chicken][--][-te][Gen][+aln.poss.]te
+
+isheeni	[=isheeni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="357.1">
