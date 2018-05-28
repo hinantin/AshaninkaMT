@@ -9061,9 +9061,23 @@ kiteeheri	[=kiteehe][VRoot][=to.be.morning; to.dawn; to.get.up.early][--][-ri+m.
         <parsing/>
     </text>
     <text id="362">
-        <sentence lang="prq">Rakachaatake nani osheki mereto nijaateniki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Rakachaatake nani osheki mereto nijaateniki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rakachaatake nani osheki mereto nihaateniki.</sentence>
         <sentence lang="es">Mi cuñado pescó con anzuelo muchas mojarras en la quebrada.</sentence>
-        <morphology/>
+        <morphology>
+
+
+rakachaatake	[r-][VPers][3m.S/A+][--][=akachaa][VRoot][=to.fish.with.a.line.and.a.hook, to.angle (ES: ansolear)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e
+
+nani	[n-][NPers][1SG.poss+][--][=ani+m.+poss@ri.][NRoot][=brother.in.law (kin.of.a.male)]
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+mereto	[=mereto+m.][NRoot][=fish.sp., mojarra-fish (ES: anchoveta, mojarra; sci.nm.: astyanax.fasciatus)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="363">
