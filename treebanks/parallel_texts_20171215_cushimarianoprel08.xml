@@ -8847,9 +8847,23 @@ ikonaveta	[i-][VPers][3m.S/A+][--][=kona][VRoot][=to.fish.with.barbasco/poison (
         <parsing/>
     </text>
     <text id="353">
-        <sentence lang="prq">Oshekini matsantsi inampiki Kamañari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Oshekini matsantsi inampiki Kamañari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Oshekini matsantsi inampiki Kamanyari.</sentence>
         <sentence lang="es">En la casa de Kamañari hay mucha ropa.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+oshekini	[=osheki][NumeralPRQ][=a.hundred][--][-ni][AS][+ADV]
+
+matsantsi	[=matsa+inal@ntsi.][NRoot][=clothes (ES: ropa)][--][-ntsi+alien.][Gen][+nposs]ntsi
+
+inampiki	[i-][NPers][3m.poss+][--][=nampi+n.m.+inal@tsi.][NRoot][=village (ES: aldea; PT: aldeia); place; country; settlement][--][-ki][Cas][+LOC_LOC.T]
+
+kamanyari	[=kamanyari][NRoot][=NP, person's.name]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="354">
