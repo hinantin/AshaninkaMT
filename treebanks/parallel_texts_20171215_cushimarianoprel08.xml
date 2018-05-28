@@ -8997,9 +8997,23 @@ avotsi	[=avo+n.m.+inal@tsi.][NRoot][=road, trail][--][-tsi+alien.][Gen][+nposs]t
         <parsing/>
     </text>
     <text id="359">
-        <sentence lang="prq">Imenkotake Koriari osheki shima raakeri ipashikaatantari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Imenkotake Koriari osheki shima raakeri ipashikaatantari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Imenkotake Koriari osheki shima raakeri ipashikaatantari.</sentence>
         <sentence lang="es">Koriari ahumó muchos peces que pescó con tarrafa.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+imenkotake	[i-][VPers][3m.S/A+][--][=menko][VRoot][=to.smoke.sth. (e.g.: fish; ES: ahumar)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
+
+koriari	[=koriari][NRoot][=person's.name, NP]
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+shima	[=shima+m.+poss@ni.][NRoot][=fish; fish.sp., boquichico-fish (ES: boquichico, chupadora; sci.nm.: prochilodus.nigricans)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="360">
