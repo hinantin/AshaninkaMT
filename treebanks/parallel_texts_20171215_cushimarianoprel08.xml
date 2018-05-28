@@ -8824,9 +8824,26 @@ nantavaire	[n-][NPers][1SG.poss+][--][=antavai][VRoot][=to.work (ES: trabajar)][
         <parsing/>
     </text>
     <text id="352">
-        <sentence lang="prq">Ratsikakeri materinki yeye irakoki ikonabeta.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ratsikakeri materinki yeye irakoki ikonabeta.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ratsikakeri materinki yeye irakoki ikonaveta.</sentence>
         <sentence lang="es">A mi hermano le picó una nacanaca en la mano mientras pescaba.</sentence>
-        <morphology/>
+        <sentence lang="en">A yellow-colored watersnake bit brother in his hand while he fished with barbasco.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ratsikakeri	[r-][VPers][3m.S/A+][--][=atsik][VRoot][=to.bite (ES: morder.(sujeto.animado))][--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-e][+REAL]e[--][=ri][+3m.O]
+
+materinki	[=materinki][NRoot][=yellow-color.water.snake.sp. (ES: nacanaca, sp.de.culebra)]
+
+yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
+
+irakoki	[ir-][NPers][3m.poss+][--][=ako+n.m.+inal@tsi.][NRoot][=hand (ES: mano)][--][-ki][Cas][+LOC_LOC.T]
+
+ikonaveta	[i-][VPers][3m.S/A+][--][=kona][VRoot][=to.fish.with.barbasco/poison (ES: pescar.con.cubé)][--][-ve][+FRUS][=unsuccessful/interrupted.action/state (EN: in.vain; ES: casi); action.that.didn't.achieve.the.desired.result]ve[--][-t][+EP]t[--][-a][+REAL]a
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="353">
