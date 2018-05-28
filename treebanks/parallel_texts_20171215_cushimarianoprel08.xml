@@ -8889,9 +8889,23 @@ payantimashiki	[=payanti+n.m.+poss@te:ti.][NRoot][=plantain (banana-like.fruit.t
         <parsing/>
     </text>
     <text id="355">
-        <sentence lang="prq">Robametakeri charini imatsini icharine.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Robametakeri charini imatsini icharine.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovametakeri charini imatsini icharine.</sentence>
         <sentence lang="es">Mi abuelo enseñó a su nieto a ser brujo.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph">
+
+
+rovametakeri	[r-][VPers][3m.S/A+][--][=ovame][VRoot][=to.teach (ES: enseñar)][--][-t][+EP]t[--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-e][+REAL]e[--][=ri][+3m.O]
+
+charini	[=charini+m.+poss@te.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male)]
+
+???
+
+icharine	[i-][NPers][3m.poss+][--][=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male); grandson (ES: nieto)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="356">
