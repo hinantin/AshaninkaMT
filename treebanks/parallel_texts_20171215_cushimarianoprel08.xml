@@ -9017,15 +9017,43 @@ shima	[=shima+m.+poss@ni.][NRoot][=fish; fish.sp., boquichico-fish (ES: boquichi
         <parsing/>
     </text>
     <text id="360">
-        <sentence lang="prq">Aririka arakote arakomentotsiki ari añaakero menkori okaakini.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Aririka arakote arakomentotsiki ari añaakero menkori okaakini.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Aririka arakote arakomentotsiki ari anyaakero menkori okaakini.</sentence>
         <sentence lang="es">Si viajamos en avión vemos las nubes muy cerca.</sentence>
-        <morphology/>
+        <morphology>
+
+
+aririka	[=ari][PostPol][=PP][--][=rika][+COND]::[=when (temporal.simultaneity), if (expresses.possible.condition)]
+
+arakote	[=ar][VRoot][=to.fly (ES: volar)][--][-ako][VS][+APPL.GEN][=GEN: with.reference.to.sth., about.sth.; INDR: action.affects.sth.in.an.indirect.manner]ako[--][-t][+EP]t[--][-e][+IRR]e
+
+arakomentotsiki	[=ar][VRoot][=to.fly (ES: volar)][--][-ako][VS][+APPL.GEN][=GEN: with.reference.to.sth., about.sth.; INDR: action.affects.sth.in.an.indirect.manner]ako[--][-mento+n.m.][NS][+NMZ.CONCR]mento[--][-tsi+alien.][Gen][+nposs]tsi[--][-ki][Cas][+LOC_LOC.T]
+
+ari	[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+anyaakero	[a-][VPers][1PL.S/A+][--][=ny][VRoot][=to.see, to.look.for; to.visit][--][-a][+EP]a[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e[--][=ro][+3n.m.O]
+
+menkori	[=menkori+n.m.][NRoot][=cloud (ES: nube)]
+
+okaakini	[=okaakini+sem@loc.][AdvRoot][=in.close.proximity, closeby]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="361">
-        <sentence lang="prq">Menkoriityaake iroka kiteejeri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Menkoriityaake iroka kiteejeri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Menkoriityaake iroka kiteeheri.</sentence>
         <sentence lang="es">El día amaneció nublado.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+???
+
+iroka	[=iroka+n.m.+proximal.b.][PrnDem][=this (ES: esta)]
+
+</morphology>
         <parsing/>
     </text>
     <text id="362">
