@@ -8802,9 +8802,25 @@ pashiitoki	[=pashiitoki][NRoot][=tree.sp. (ES: topa); balsa.stick]
         <parsing/>
     </text>
     <text id="351">
-        <sentence lang="prq">Ikantana yeye: Mataka nantabaire.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikantana yeye: Mataka nantabaire.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikantana yeye: Mataka nantavaire.</sentence>
         <sentence lang="es">Mi hermano me dice: “Ya está mi trabajo”.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ikantana	[i-][VPers][3m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-a][+REAL]a[--][=na][+1SG.O]
+
+yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
+
+:	:[$.]
+
+mataka	[=mataka][InterjPRQ][=INTJ (ES: ya.está)]
+
+nantavaire	[n-][NPers][1SG.poss+][--][=antavai][VRoot][=to.work (ES: trabajar)][--][-re+m.][NS][+NMZ]re
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="352">
