@@ -8929,9 +8929,25 @@ isheeni	[=isheeni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
         <parsing/>
     </text>
     <text id="357.1">
-        <sentence lang="prq">Shirampari mayempiri te okijotimotiri iina.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Shirampari mayempiri te okijotimotiri iina.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Shirampari mayempiri te okihotimotiri iina.</sentence>
         <sentence lang="es">Al hombre mujeriego no le dura la mujer.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+shirampari	[=shirampari+m.][NRoot][=man; male (ES: hombre)]
+
+mayempiri	[=mayempiri+m.][NRoot][=womanizer (ES: mujeriego)]
+
+te	[=te+future.neg.][Neg][=NEG.REAL]
+
+okihotimotiri	[o-][VPers][3n.m.S/A+][--][=kiho][VRoot][=to.be.hard (ES: estar.duro); to.join.tightly-and-rigidly][--][-t][+EP]t[--][-imo+company][VS][+APPL.PRES][=with.other.person, presence]imo[--][-t][+EP]t[--][-i][+IRR]i[--][=ri][+3m.O]
+
+iina	[=iina+n.m.+inal@tsi.][NRoot][=mother; wife (kin.of.a.fe/male)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="357.2">
