@@ -8778,9 +8778,27 @@ yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: h
         <parsing/>
     </text>
     <text id="350">
-        <sentence lang="prq">Riyaati charine rayi mata iyontaachari pashiitoki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Riyaati charine rayi mata iyontaachari pashiitoki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Riyaati charine rayi mata iyontaachari pashiitoki.</sentence>
         <sentence lang="es">Mi abuelo se va a juntar gusanos que viven pegados al tronco de la topa.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+riyaati	[r-][VPers][3m.S/A+][--][=iyaa][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-i][+IRR]i
+
+charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male); grandson (ES: nieto)]
+
+rayi	[r-][VPers][3m.S/A+][--][=ay][VRoot][=to.get][--][-i][+IRR]i
+
+mata	[=mata][NRoot][=worm.sp. (ES: sp.de.gusano)]
+
+???
+
+pashiitoki	[=pashiitoki][NRoot][=tree.sp. (ES: topa); balsa.stick]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="351">
