@@ -8867,9 +8867,25 @@ kamanyari	[=kamanyari][NRoot][=NP, person's.name]
         <parsing/>
     </text>
     <text id="354">
-        <sentence lang="prq">Noñaake matsari iriani ishiyanaka payantimashiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Noñaake matsari iriani ishiyanaka payantimashiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Nonyaake matsari iriani ishiyanaka payantimashiki.</sentence>
         <sentence lang="es">Vi a un niño flaco que corrió al platanal.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+nonyaake	[no-][VPers][1SG.S/A+][--][=ny][VRoot][=to.see, to.look.for; to.visit][--][-aak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]aak[--][-e][+REAL]e
+
+matsari	[=matsari+m.][NRoot][=thin, slender]
+
+iriani	[=iriani][NRoot][=child (ES: niño)]
+
+ishiyanaka	[i-][VPers][3m.S/A+][--][=shiy][VRoot][=to.escape, to.run (ES: escapar)][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a][+REAL]a
+
+payantimashiki	[=payanti+n.m.+poss@te:ti.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)][--][-mashi][+CL:vast.space.with.vegetation][=vast.space.with.vegetation;wide,flat.space][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="355">
