@@ -9087,7 +9087,7 @@ nihaateniki	[=nihaateni][NRoot][=brook; creek (ES: quebrada, arroyo)][--][-ki][C
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Riyati apa ichekakoti meronki antamiki.</sentence>
         <sentence lang="es">Mi papá va al monte a traer chimicua.</sentence>
         <sentence lang="en">Father went to the woods to cut chimicua-tree.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 riyati	[r-][VPers][3m.S/A+][--][=iya][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-i][+IRR]i
@@ -9106,15 +9106,47 @@ antamiki	[=antami][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.for
         <parsing/>
     </text>
     <text id="364">
-        <sentence lang="prq">Aririka omakaatake meshinto kametsarini ayero atsima.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Aririka omakaatake meshinto kametsarini ayero atsima.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Aririka omakaatake meshinto kametsarini ayero atsima.</sentence>
         <sentence lang="es">Cuando la capirona está seca es buena para hacer leña.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+aririka	[=ari][PostPol][=PP][--][=rika][+COND]::[=when (temporal.simultaneity), if (expresses.possible.condition)]
+
+???
+
+meshinto	[=meshinto+n.m.][NRoot][=capirona-tree, tree.sp.]
+
+kametsarini	[=kametsa][VRoot][=to.be.good][--][-ri+m.][NS][+NMZ]ri[--][-ni][AS][+ADV]
+
+ayero	[=ay][VRoot][=to.get][--][-e][+IRR]e[--][=ro][+3n.m.O]
+
+atsima	[a-][NPers][1PL.poss+][--][=tsi+poss@ma.+voc.][NRoot][=firewood (ES: leña)][--][&lt;*-ma][Gen][+aln.poss.]ma
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="365">
-        <sentence lang="prq">Metsotake kaniri onkotsitakeri choeni.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Metsotake kaniri onkotsitakeri choeni.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Metsotake kaniri onkotsitakeri choeni.</sentence>
         <sentence lang="es">La yuca que cocinó mi hermana está suave.</sentence>
-        <morphology/>
+        <morphology>
+
+
+metsotake	[=metso][VRoot][=to.be.soft; to.be.tender][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e
+
+kaniri	[=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]
+
+onkotsitakeri	[o-][VPers][3n.m.S/A+][--][N=][IRR+][--][=kotsi][VRoot][=to.cook (ES: cocinar)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+choeni	[=choeni+n.m.][NRoot][=sister (kin.of.a.male, male.ego)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="366">
