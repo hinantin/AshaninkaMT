@@ -9275,7 +9275,7 @@ onkiro	[=oNkiro+m.][NRoot][=big.mouse (ES: ratón)]
         <sentence lang="prq" normalizationlevel="none">Imitaanaka tsitsiri romintsaakeri tyopiki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Imitaanaka tsitsiri romintsaakeri tyopiki.</sentence>
         <sentence lang="es">El grillo saltó cuando lo asustó el pollito.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 imitaanaka	[i-][VPers][3m.S/A+][--][=mit][VRoot][=to.jump (ES: saltar)][--][-a][+EP]a[--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a][+REAL]a
@@ -9292,9 +9292,27 @@ tyopiki	[=tyoopiki][NRoot][=chick (ES: pollito)]
         <parsing/>
     </text>
     <text id="373">
-        <sentence lang="prq">Tsitsiyake yeye omotyaaki ikobi raajero rakachaare.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Tsitsiyake yeye omotyaaki ikobi raajero rakachaare.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Tsitsiyake yeye omotyaaki ikovi raahero rakachaare.</sentence>
         <sentence lang="es">Mi hermano se sumergió en la poza por sacar su anzuelo.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+tsitsiyake	[=tsitsiy][VRoot][=to.dive (ES: sumergirse)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
+
+yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
+
+omotyaaki	[=omo][NRoot][=hole (ES: hueco)][--][-tyaa][+CL:flower][=flower][--][-ki][Cas][+LOC_LOC.T]
+
+ikovi	[i-][VPers][3m.S/A+][--][=kov][VRoot][=to.want][--][-i][+REAL]i
+
+raahero	[r-][VPers][3m.S/A+][--][=a][VRoot][=to.take (ES: agarrar)][--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-e][+REAL]e[--][=ro][+3n.m.O]
+
+rakachaare	[r-][NPers][3m.poss+][--][=akachaa][VRoot][=to.fish.with.a.line.and.a.hook, to.angle (ES: ansolear)][--][-re+m.][NS][+NMZ]re
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="374">
