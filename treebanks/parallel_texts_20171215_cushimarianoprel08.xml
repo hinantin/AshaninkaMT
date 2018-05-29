@@ -9174,6 +9174,7 @@ tsiyaroki	[=tsiyaro+n.m.][NRoot][=palm.tree.sp. (ES: shapaja, shebón; sci.nm.: 
         <sentence lang="prq" normalizationlevel="none">Imiamiataeyeni eentsipaye ibeshiriaeyani.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Imiamiataeyeni eentsipaye iveshiriaeyani.</sentence>
         <sentence lang="es">Los niños brincan de alegría.</sentence>
+        <sentence lang="en">The children jump up and down, they rejoice.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -9189,9 +9190,23 @@ iveshiriaeyani	[i-][VPers][3m.S/A+][--][=veshiri][VRoot][=to.rejoice, to.get.gla
         <parsing/>
     </text>
     <text id="368">
-        <sentence lang="prq">Miretake apa itobiro inchato.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Miretake apa itobiro inchato.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Miretake apa itoviro inchato.</sentence>
         <sentence lang="es">Mi papá tiene sed porque está tumbando un árbol.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+miretake	[=mire][VRoot][=to.be.thirsty (ES: tener.sed)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
+
+apa	[=apa+m.][NRoot][=father (kin.of.a.fe/male)]
+
+itoviro	[i-][VPers][3m.S/A+][--][=tov][VRoot][=to.fell, to.cut.down (a.tree; ES: tumbar.(un.árbol))][--][-i][+IRR]i[--][=ro][+3n.m.O]
+
+inchato	[=inchato+n.m.][NRoot][=tree (ES: árbol)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="369">
