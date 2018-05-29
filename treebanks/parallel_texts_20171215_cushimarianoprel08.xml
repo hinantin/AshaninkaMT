@@ -9150,9 +9150,24 @@ choeni	[=choeni+n.m.][NRoot][=sister (kin.of.a.male, male.ego)]
         <parsing/>
     </text>
     <text id="366">
-        <sentence lang="prq">Ijaeki meyiri robabaitabo tsiyaroki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ijaeki meyiri robabaitabo tsiyaroki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ihaeki meyiri rovavaitavo tsiyaroki.</sentence>
         <sentence lang="es">La ardilla está sentada comiendo shapaja.</sentence>
-        <morphology/>
+        <sentence lang="en">The big squirrel is seated eating the shapaja-fruit.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ihaeki	[i-][VPers][3m.S/A+][--][=haek][VRoot][=to.be, to.be.at, to.be.in; to.sit; to.live][--][-i][+IRR]i
+
+meyiri	[=meyiri+poss@te.][NRoot][=big.squirrel.sp. (ES: sp.de.ardilla.grande.(roja); sci.nm.: sciurus.pyrrhinus)]
+
+rovavaitavo	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-a][+EP]a[--][-vai][ASP][+DUR][=action/state.endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]vai[--][-t][+EP]t[--][-a][+REAL]a[--][=vo][+3n.m.O]
+
+tsiyaroki	[=tsiyaro+n.m.][NRoot][=palm.tree.sp. (ES: shapaja, shebón; sci.nm.: attalea.phalerata.martius.ex.spengel, scheelea)][--][-ki][+CL:S.R.H][=small,round(ed);hard;seed-like]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="367">
