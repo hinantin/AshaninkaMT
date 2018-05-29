@@ -9272,9 +9272,23 @@ onkiro	[=oNkiro+m.][NRoot][=big.mouse (ES: ratón)]
         <parsing/>
     </text>
     <text id="372">
-        <sentence lang="prq">Imitaanaka tsitsiri romintsaakeri tyopiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Imitaanaka tsitsiri romintsaakeri tyopiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Imitaanaka tsitsiri romintsaakeri tyopiki.</sentence>
         <sentence lang="es">El grillo saltó cuando lo asustó el pollito.</sentence>
-        <morphology/>
+        <morphology>
+
+
+imitaanaka	[i-][VPers][3m.S/A+][--][=mit][VRoot][=to.jump (ES: saltar)][--][-a][+EP]a[--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a][+REAL]a
+
+tsitsiri	[=tsitsiri+m.][NRoot][=cricket (ES: grillo)]
+
+romintsaakeri	[r-][VPers][3m.S/A+][--][=omintsa][VRoot][=to.frighten (ES: hacer.asustar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+tyopiki	[=tyoopiki][NRoot][=chick (ES: pollito)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="373">
