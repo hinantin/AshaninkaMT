@@ -9083,9 +9083,25 @@ nihaateniki	[=nihaateni][NRoot][=brook; creek (ES: quebrada, arroyo)][--][-ki][C
         <parsing/>
     </text>
     <text id="363">
-        <sentence lang="prq">Riyati apa ichekakoti meronki antamiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Riyati apa ichekakoti meronki antamiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Riyati apa ichekakoti meronki antamiki.</sentence>
         <sentence lang="es">Mi papá va al monte a traer chimicua.</sentence>
-        <morphology/>
+        <morphology>
+
+
+riyati	[r-][VPers][3m.S/A+][--][=iya][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-i][+IRR]i
+
+apa	[=apa+m.][NRoot][=father (kin.of.a.fe/male)]
+
+ichekakoti	[i-][VPers][3m.S/A+][--][=chek][VRoot][=to.cut (ES: cortar)][--][-ako][VS][+APPL.GEN][=GEN: with.reference.to.sth., about.sth.; INDR: action.affects.sth.in.an.indirect.manner]ako[--][-t][+EP]t[--][-i][+REAL]i
+
+meronki	[=meronki+n.m.][NRoot][=tree.sp. (chimicua)]
+
+antamiki	[=antami][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.forest][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="364">
