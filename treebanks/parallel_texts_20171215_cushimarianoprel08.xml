@@ -9171,9 +9171,21 @@ tsiyaroki	[=tsiyaro+n.m.][NRoot][=palm.tree.sp. (ES: shapaja, shebón; sci.nm.: 
         <parsing/>
     </text>
     <text id="367">
-        <sentence lang="prq">Imiamiataeyeni eentsipaye ibeshiriaeyani.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Imiamiataeyeni eentsipaye ibeshiriaeyani.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Imiamiataeyeni eentsipaye iveshiriaeyani.</sentence>
         <sentence lang="es">Los niños brincan de alegría.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+imiamiataeyeni	[i-][VPers][3m.S/A+][--][=mi+prop@redup.][VRoot][=to.jump (ES: saltar)]::[=to.jump.up-and-down][--][-t][+EP]t[--][-aey][+PL]aey[--][-e][+REAL]e[--][-ni+circumfixing][+PL]
+
+eentsipaye	[=eentsi+n./m.+poss@te.][NRoot][=child (ES: niño)][--][-paye][Num][+PL_DIST]
+
+iveshiriaeyani	[i-][VPers][3m.S/A+][--][=veshiri][VRoot][=to.rejoice, to.get.glad (ES: alegrarse)][--][-aey][+PL]aey[--][-a][+REAL]a[--][-ni+circumfixing][+PL]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="368">
