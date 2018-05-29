@@ -9211,15 +9211,45 @@ inchato	[=inchato+n.m.][NRoot][=tree (ES: árbol)]
         <parsing/>
     </text>
     <text id="369">
-        <sentence lang="prq">Raanakero charine imire ikenabaetantakari antamiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Raanakero charine imire ikenabaetantakari antamiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Raanakero charine imire ikenavaetantakari antamiki.</sentence>
         <sentence lang="es">Mi abuelo llevó su líquido para la sed cuando fue a cazar en el bosque.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+raanakero	[r-][VPers][3m.S/A+][--][=a][VRoot][=to.take (ES: agarrar)][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e[--][=ro][+3n.m.O]
+
+charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male); grandson (ES: nieto)]
+
+imire	[i-][NPers][3m.poss+][--][=mire+inal@tsi.][NRoot][=liquid.for.thirst (ES: líquido.para.la.sed); thirst (ES: sed)]
+
+ikenavaetantakari	[i-][VPers][3m.S/A+][--][=ken][VRoot][=to.hunt, to.poach, to.prey.on.sb./sth.][--][-a][+EP]a[--][-vae][ASP][+DUR][=action/state.endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]vae[--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a][+REAL]a[--][=ri][NS][+REL]
+
+antamiki	[=antami][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.forest][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="370">
-        <sentence lang="prq">Omishitakeri tsinane oshirontane ratsobootiro.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Omishitakeri tsinane oshirontane ratsobootiro.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Omishitakeri tsinane oshirontane ratsovootiro.</sentence>
         <sentence lang="es">La mujer soñó que su enamorado la besó.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+omishitakeri	[o-][VPers][3n.m.S/A+][--][=mishi][VRoot][=to.dream (ES: soñar)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e[--][=ri][+3m.O]
+
+tsinane	[=tsinane+n.m.][NRoot][=female, woman (ES: mujer); young.girl]
+
+???
+
+???
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="371">
