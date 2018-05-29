@@ -9316,9 +9316,21 @@ rakachaare	[r-][NPers][3m.poss+][--][=akachaa][VRoot][=to.fish.with.a.line.and.a
         <parsing/>
     </text>
     <text id="374">
-        <sentence lang="prq">Patsake imoito enchaniki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Patsake imoito enchaniki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Patsake imoito enchaniki.</sentence>
         <sentence lang="es">El ombligo del bebé tiene herida.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+???
+
+imoito	[i-][NPers][3m.poss+][--][=moito+n.m.+inal@n/tsi.][NRoot][=navel (ES: ombligo); umbilical.cord (ES: cordón.umbilical)]
+
+enchaniki	[=enchaniki][NRoot][=child (ES: bebé)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="375">
