@@ -9534,7 +9534,8 @@ paamareki	[=paamare+n.m.][NRoot][=fire (ES: candela, fuego)][--][-ki][Cas][+LOC_
         <parsing/>
     </text>
     <text id="383">
-        <sentence lang="prq">Iroñaaka namanatakera nairotsa jantsari, nonoshikatye komairipaye.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iroñaaka namanatakera nairotsa jantsari, nonoshikatye komairipaye.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ironyaaka namanatakera nairotsa hantsari, nonoshikatye komairipaye.</sentence>
         <sentence lang="es">Ahora que compré nailon largo, jalaré pacos.</sentence>
         <morphology/>
         <parsing/>
