@@ -9356,9 +9356,27 @@ ivito	[i-][NPers][3m.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe (ES
         <parsing/>
     </text>
     <text id="376.1">
-        <sentence lang="prq">Imonkaatakero yeye ijeetiro nija otsipaki kobiti.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Imonkaatakero yeye ijeetiro nija otsipaki kobiti.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Imonkaatakero yeye iheetiro niha otsipaki koviti.</sentence>
         <sentence lang="es">Mi hermano también llenó (lit. igualó) la otra olla de agua.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+imonkaatakero	[i-][VPers][3m.S/A+][--][=monkaa][VRoot][=to.measure; to.fulfill][--][-t][+EP]t[--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-e][+REAL]e[--][=ro][+3n.m.O]
+
+yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
+
+???
+
+niha	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
+
+otsipaki	[=otsipa+n.m.][NRoot][=other, another][--][-ki][Cas][+LOC_LOC.T]
+
+koviti	[=koviti+n.m.+poss@te.][NRoot][=clay.pot (ES: olla.(de.barro), tinaja)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="376.2">
