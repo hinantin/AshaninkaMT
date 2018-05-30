@@ -9380,9 +9380,19 @@ koviti	[=koviti+n.m.+poss@te.][NRoot][=clay.pot (ES: olla.(de.barro), tinaja)]
         <parsing/>
     </text>
     <text id="376.2">
-        <sentence lang="prq">Okantana naana: Pimonkaatero nontyaare.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Okantana naana: Pimonkaatero nontyaare.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Okantana naana: Pimonkaatero nontyaare.</sentence>
         <sentence lang="es">Mi madre me dice: “Mídeme el tejido”.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+okantana	[o-][VPers][3n.m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-a][+REAL]a[--][=na][+1SG.O]
+
+naana	[=naana+n.m.+voc.+poss@te:ti.][NRoot][=mom, mother (kin.of.a.fe/male; ES: mamá)]
+
+:	:[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="377">
