@@ -9402,21 +9402,69 @@ nontyaare	[n-][NPers][1SG.poss+][--][=ontya][VRoot][=to.weave (ES: tejer)][--][-
         <parsing/>
     </text>
     <text id="377">
-        <sentence lang="prq">Ikantanake pinkatsari: Pomonkeri koshinti tyaapapankoki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikantanake pinkatsari: Pomonkeri koshinti tyaapapankoki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikantanake pinkatsari: Pomonkeri koshinti tyaapapankoki.</sentence>
         <sentence lang="es">El jefe dijo: “Mete al ladrón en el gallinero”.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ikantanake	[i-][VPers][3m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e
+
+pinkatsari	[=pinkatsari+m.+voc.+poss@te.][NRoot][=chief (ES: jefe); regional.leader]
+
+:	:[$.]
+
+???
+
+koshinti	[=koshinti+m.][NRoot][=thief, robber (ES: ratero, ladrón)]
+
+tyaapapankoki	[=tyaapa+n.m.+poss@te.][NRoot][=hen (ES: gallina); chicken][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="378">
-        <sentence lang="prq">Imontyaakero maniro nijaateni.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Imontyaakero maniro nijaateni.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Imontyaakero maniro nihaateni.</sentence>
         <sentence lang="es">El venado vadeó el río.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+imontyaakero	[i-][VPers][3m.S/A+][--][=monty][VRoot][=to.cross.river (by.boat/canoe/a_bridge, ES: vadear, cruzar.el.río.por.bote/canoa/puente)][--][-a][+EP]a[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e[--][=ro][+3n.m.O]
+
+maniro	[=maniro+m.][NRoot][=deer (ES: venado); red.deer (ES: venado.rojo; sci.nm.: mazama.americana); gray.deer (ES: venado.gris; sci.nm.: mazama.gouazoubira)]
+
+nihaateni	[=nihaateni][NRoot][=brook; creek (ES: quebrada, arroyo)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="379">
-        <sentence lang="prq">Morekake paamari ominkiake isheni osheki tsitsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Morekake paamari ominkiake isheni osheki tsitsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Morekake paamari ominkiake isheni osheki tsitsi.</sentence>
         <sentence lang="es">La candela arde bien porque la abuela metió mucha leña.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+morekake	[=morek][VRoot][=to.burn (ES: arder)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
+
+paamari	[=paamari+n.m.][NRoot][=fire (ES: candela, fuego)]
+
+ominkiake	[o-][VPers][3n.m.S/A+][--][=minki][VRoot][=to.put][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e
+
+isheni	[=isheni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+tsitsi	[=tsi+poss@ma.+voc.][NRoot][=firewood (ES: leña)][--][-tsi+alien.][Gen][+nposs]tsi
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="380">
