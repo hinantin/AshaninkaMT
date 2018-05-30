@@ -9468,21 +9468,69 @@ tsitsi	[=tsi+poss@ma.+voc.][NRoot][=firewood (ES: leña)][--][-tsi+alien.][Gen][
         <parsing/>
     </text>
     <text id="380">
-        <sentence lang="prq">Irika eentsi motinti osheki ishitsane.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Irika eentsi motinti osheki ishitsane.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Irika eentsi motinti osheki ishitsane.</sentence>
         <sentence lang="es">Este niño barrigón tiene muchos parásitos.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+irika	[=irika+m.+proximal][PrnDem][=this (ES: este)]
+
+eentsi	[=eentsi+n./m.+poss@te.][NRoot][=child (ES: niño)]
+
+motinti	[=motinti+m.][NRoot][=paunchy]
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+ishitsane	[i-][NPers][3m.poss+][--][=shitsane+m.+inal@ntsi.][NRoot][=pinworm (ES: bicho), intestinal.worm (ES: lombríz.intestinal)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="381">
-        <sentence lang="prq">Iroka kooya motinto anti omarentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iroka kooya motinto anti omarentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iroka kooya motinto anti omarentsi.</sentence>
         <sentence lang="es">Esta mujer embarazada hace collares.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+iroka	[=iroka+n.m.+proximal.b.][PrnDem][=this (ES: esta)]
+
+kooya	[=kooya][NRoot][=woman (from.Quechua.Quya)]
+
+motinto	[=motinto+n.m.][NRoot][=pregnant (ES: embarazada)]
+
+anti	[=ant][VRoot][=to.beat, to.hit; to.build, to.do, to.make][--][-i][+REAL]i
+
+omarentsi	[=omare+n.m.+inal@ntsi.][NRoot][=wristband (ES: pulsera)][--][-ntsi+alien.][Gen][+nposs]ntsi
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="382">
-        <sentence lang="prq">Moyaake onijaate iiñeeni obakotanakeri paamareki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Moyaake onijaate iiñeeni obakotanakeri paamareki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Moyaake onihaate iinyeeni ovakotanakeri paamareki.</sentence>
         <sentence lang="es">Hierve el agua que mi cuñada dejó en la candela.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+moyaake	[=moy][VRoot][=to.boil (ES: hervir)][--][-a][+EP]a[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
+
+onihaate	[o-][NPers][3n.m.poss+][--][=nihaa+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)][--][-te][Gen][+aln.poss.]te
+
+iinyeeni	[=iinyeeni+n.m.][NRoot][=sister.in.law (kin.of.a.male)]
+
+ovakotanakeri	[o-][VPers][3n.m.S/A+][--][=v][VRoot][=to.put, to.place (ES: poner, colocar)][--][-ako][VS][+APPL.GEN][=GEN: with.reference.to.sth., about.sth.; INDR: action.affects.sth.in.an.indirect.manner]ako[--][-t][+EP]t[--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e[--][=ri][NS][+REL]
+
+paamareki	[=paamare+n.m.][NRoot][=fire (ES: candela, fuego)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="383">
