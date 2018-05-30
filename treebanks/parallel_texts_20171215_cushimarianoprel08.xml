@@ -9581,9 +9581,27 @@ nantantyaari	[n-][VPers][1SG.S/A+][--][=ant][VRoot][=to.beat, to.hit; to.build, 
         <parsing/>
     </text>
     <text id="385">
-        <sentence lang="prq">Ipatsaakaanti netsi aitoki eerorika ayitari intsipaite.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ipatsaakaanti netsi aitoki eerorika ayitari intsipaite.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ipatsaakaanti netsi aitoki eerorika ayitari intsipaite.</sentence>
         <sentence lang="es">El piojo produce heridas en la cabeza cuando no lo sacamos rápido.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ipatsaakaanti	[i-][VPers][3m.S/A+][--][=patsa][VRoot][=to.have.a.skin.sore, to.have.a.wound; to.rot; to.have.a.wet.wound.with.pus][--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-a][+EP]a[--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-t][+EP]t[--][-i][+IRR]i
+
+netsi	[=ne+m.+inal@tsi.][NRoot][=louse (ES: piojo)][--][-tsi+alien.][Gen][+nposs]tsi
+
+aitoki	[a-][NPers][1PL.poss+][--][=ito+n.m.+inal@ntsi.][NRoot][=head (ES: cabeza)][--][-ki][Cas][+LOC_LOC.T]
+
+eerorika	[=eero][Neg][=NEG.IRR][--][=rika][+COND]
+
+ayitari	[=a][VRoot][=to.take (ES: agarrar)][--][-yi][+DIST]yi[--][-t][+EP]t[--][-a][+IRR]a[--][=ri][+3m.O]
+
+intsipaite	[=intsipaite][AdvRoot][=quickly (ES: rápido); urgently, with.urgency (ES: urgente)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="386">
