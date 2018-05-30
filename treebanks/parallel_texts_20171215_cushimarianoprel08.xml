@@ -9555,15 +9555,29 @@ nonoshikatye	[no-][VPers][1SG.S/A+][--][=noshik][VRoot][=to.pull.sth. (ES: jalar
 
 komairipaye	[=komairi+m.+poss@ti.][NRoot][=fish.sp. (ES: paco,, gamitana; sci.nm.: syzlo, chalceus.opalinus,, cichlidae, astronatus.ocellatus)][--][-paye][Num][+PL_DIST]
 
-
+.	.[$.]
 
 </morphology>
         <parsing/>
     </text>
     <text id="384">
-        <sentence lang="prq">Namanantake nenkitsiki nantantyaari amarentsipaye.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Namanantake nenkitsiki nantantyaari amarentsipaye.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Namanantake nenkitsiki nantantyaari amarentsipaye.</sentence>
         <sentence lang="es">Compré mullos para hacer brazaletes.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+namanantake	[n-][VPers][1SG.S/A+][--][=amanant][VRoot][=to.buy (ES: comprar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
+
+nenkitsiki	[=nenkitsi][NRoot][=plant.sp. (ES: mullo)][--][-ki][+CL:S.R.H][=small,round(ed);hard;seed-like]
+
+nantantyaari	[n-][VPers][1SG.S/A+][--][=ant][VRoot][=to.beat, to.hit; to.build, to.do, to.make][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-yaa][+REAL]yaa[--][=ri][+3m.O]
+
+???
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="385">
