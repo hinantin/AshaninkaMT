@@ -9534,10 +9534,30 @@ paamareki	[=paamare+n.m.][NRoot][=fire (ES: candela, fuego)][--][-ki][Cas][+LOC_
         <parsing/>
     </text>
     <text id="383">
-        <sentence lang="prq" normalizationlevel="none">Iroñaaka namanatakera nairotsa jantsari, nonoshikatye komairipaye.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ironyaaka namanatakera nairotsa hantsari, nonoshikatye komairipaye.</sentence>
+        <!-- Iroñaaka namanatakera nairotsa jantsari, nonoshikatye komairipaye. -->
+        <sentence lang="prq" normalizationlevel="none">Iroñaaka namanantakera nairotsa jantsari, nonoshikatye komairipaye.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ironyaaka namanantakera nairotsa hantsari, nonoshikatye komairipaye.</sentence>
         <sentence lang="es">Ahora que compré nailon largo, jalaré pacos.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ironyaaka	[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+namanantakera	[n-][VPers][1SG.S/A+][--][=amanant][VRoot][=to.buy (ES: comprar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e[--][=ra][+SUB][=Temporal:when;Location:where(place);Denoting.a.cause/motive/reason:since;Epist.uncertainty:Okay?]
+
+nairotsa	[=nylon/nairo][NRootEs][=nylon][--][-tsa][+CL:long.flexible.thin][=long,flexible,thin; liana.(like); tree_bark; curvilinear]
+
+hantsari	[=hantsa][NRoot][=long (in.length; ES: largo)]+vbz.[--][-ri+m.][NS][+ADJ.NMZ]ri
+
+,	,[$.]
+
+nonoshikatye	[no-][VPers][1SG.S/A+][--][=noshik][VRoot][=to.pull.sth. (ES: jalar); to.drag.sth. (ES: arrastrar)][--][-aty][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]aty[--][-e][+REAL]e
+
+komairipaye	[=komairi+m.+poss@ti.][NRoot][=fish.sp. (ES: paco,, gamitana; sci.nm.: syzlo, chalceus.opalinus,, cichlidae, astronatus.ocellatus)][--][-paye][Num][+PL_DIST]
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="384">
