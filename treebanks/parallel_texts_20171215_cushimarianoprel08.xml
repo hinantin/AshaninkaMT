@@ -9334,9 +9334,25 @@ enchaniki	[=enchaniki][NRoot][=child (ES: bebé)]
         <parsing/>
     </text>
     <text id="375">
-        <sentence lang="prq">Imokaatiro Kamaiteri jantari rantantyaari ibito.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Imokaatiro Kamaiteri jantari rantantyaari ibito.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Imokaatiro Kamaiteri hantari rantantyaari ivito.</sentence>
         <sentence lang="es">Kamaiteri mide la madera para contruir su canoa.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+imonkaatiro	[i-][VPers][3m.S/A+][--][=monkaa][VRoot][=to.measure; to.fulfill][--][-t][+EP]t[--][-i][+IRR]i[--][=ro][+3n.m.O]
+
+kamaiteri	[=kamaiteri][NRoot][=person's.name, NP]
+
+hantari	[=hantari+n.m.][NRoot][=timber.tree.sp. (ES: árbol.(maderable), cedro; PT: madeira.de.lei)]
+
+rantantyaari	[r-][VPers][3m.S/A+][--][=ant][VRoot][=to.beat, to.hit; to.build, to.do, to.make][--][-ant][+APPL.INST][=reason,instrumentality;in.order.to]ant[--][-yaa][+REAL]yaa[--][=ri][+3m.O]
+
+ivito	[i-][NPers][3m.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe (ES: canoa)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="376.1">
