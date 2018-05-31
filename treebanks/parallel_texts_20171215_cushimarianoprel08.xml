@@ -9703,9 +9703,23 @@ charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male);
         <parsing/>
     </text>
     <text id="390">
-        <sentence lang="prq">Noñaakeri Shapopo niyanki obaantsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Noñaakeri Shapopo niyanki obaantsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Nonyaakeri Shapopo niyanki ovaantsiki.</sentence>
         <sentence lang="es">Vi a Shapopo en medio de la chacra.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+nonyaakeri	[no-][VPers][1SG.S/A+][--][=ny][VRoot][=to.see, to.look.for; to.visit][--][-a][+EP]a[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+shapopo	[=shapopo][NRoot][=person's.name, NP]
+
+niyanki	[niyanki+sem@loc.][AdvRoot][=in.the.center.of.sth., in.the.middle.of.sth.; half (ES: mitad)]
+
+ovaantsiki	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra; PT: roçado)][--][-ntsi+alien.][Gen][+nposs]ntsi[--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="391">
