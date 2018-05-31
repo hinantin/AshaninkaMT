@@ -9723,9 +9723,28 @@ ovaantsiki	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.lan
         <parsing/>
     </text>
     <text id="391">
-        <sentence lang="prq">Antari nooki rankobiitakeri maniro raakeri ocheraaki.</sentence>
+        <!-- Antari nooki rankobiitakeri maniro raakeri ocheraaki. -->
+        <sentence lang="prq" normalizationlevel="none">Antari noonki rankobiitakeri maniro raakeri ocheraaki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Antari noonki rankoviitakeri maniro raakeri ocheraaki.</sentence>
         <sentence lang="es">Una boa grande enroscó a un venado que cazó en la orilla.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+antari	[=antari+m.][AdjRoot][=big; mature]
+
+noonki	[=noonki+m.][NRoot][=boa]
+
+rankoviitakeri	[r-][VPers][3m.S/A+][--][=ankovii][VRoot][=to.coil.around.sth. (ES: enrollar, enroscar)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+maniro	[=maniro+m.][NRoot][=deer (ES: venado); red.deer (ES: venado.rojo; sci.nm.: mazama.americana); gray.deer (ES: venado.gris; sci.nm.: mazama.gouazoubira)]
+
+raakeri	[r-][VPers][3m.S/A+][--][=a][VRoot][=to.get][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+ocheraaki	[=ocheraa][NRoot][=shore (ES: orilla)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="392.1">
