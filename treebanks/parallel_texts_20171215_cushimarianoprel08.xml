@@ -9680,9 +9680,26 @@ ipankaki	[i-][NPers][3m.poss+][--][=panka+n.m.+inal@tsi.][NRoot][=forehead (ES: 
         <parsing/>
     </text>
     <text id="389">
-        <sentence lang="prq">Itsaakeri itonki shima iniyametoki charine.</sentence>
+        <!-- Itsaakeri itonki shima iniyametoki charine. -->
+        <sentence lang="prq" normalizationlevel="none">Itsaakeri itonki shima iniyamentoki charine.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Itsaakeri itonki shima iniyamentoki charine.</sentence>
         <sentence lang="es">El hueso de pescado se atoró en la garganta del abuelo.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+itsaakeri	[i-][VPers][3m.S/A+][--][=tsa][VRoot][=to.choke (ES: atorar(se))][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+itonki	[i-][NPers][3m.poss+][--][=tonki+n.m.+inal@tsi.][NRoot][=bone (ES: hueso)]
+
+shima	[=shima+m.+poss@ni.][NRoot][=fish; fish.sp., boquichico-fish (ES: boquichico, chupadora; sci.nm.: prochilodus.nigricans)]
+
+iniyamentoki	[i-][NPers][3m.poss+][--][=niyamento+n.m.+inal@tsi.][NRoot][=throat (ES: garganta, faringe)][--][-ki][Cas][+LOC_LOC.T]
+
+charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male); grandson (ES: nieto)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="390">
