@@ -9629,9 +9629,33 @@ nomire	[n-][VPers][1SG.S/A+][--][om=][AGT.CAUS+][--][=ir][VRoot][=to.drink (ES: 
         <parsing/>
     </text>
     <text id="387">
-        <sentence lang="prq">Ikantakero ebankari tsinane: Nonintakemi osheki, tsame noinantemi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikantakero ebankari tsinane: Nonintakemi osheki, tsame noinantemi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikantakero evankari tsinane: Nonintakemi osheki, tsame noinantemi.</sentence>
         <sentence lang="es">El joven le dijo a la mujer: “Te amo; cásate conmigo”.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ikantakero	[i-][VPers][3m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e[--][=ro][+3n.m.O]
+
+evankari	[=evankari+m.][NRoot][=young.man, adolescent]
+
+tsinane	[=tsinane+n.m.][NRoot][=female, woman (ES: mujer); young.girl]
+
+:	:[$.]
+
+nonintakemi	[no-][VPers][1SG.S/A+][--][=nint][VRoot][=to.want (ES: gustar); to.love][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e[--][=mi][+2SG.O]
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+,	,[$.]
+
+tsame	[=tsame+prop@standalone.][VRoot][=COME.ON, LET'S.GO]
+
+noinantemi	[no-][VPers][1SG.S/A+][--][=ina+n.m.+inal@tsi.][NRoot][=mother; wife (kin.of.a.fe/male)][--][-nt][VS][+POSS.REL]::[=to.have.a.wife/girlfriend; to.take.a.wife, to.marry.sb.][--][-e][+REAL]e[--][=mi][+2SG.O]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="388">
