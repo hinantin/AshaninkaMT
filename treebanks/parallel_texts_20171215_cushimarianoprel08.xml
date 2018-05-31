@@ -9605,9 +9605,27 @@ intsipaite	[=intsipaite][AdvRoot][=quickly (ES: rápido); urgently, with.urgency
         <parsing/>
     </text>
     <text id="386">
-        <sentence lang="prq">Pimpabakena nija nirabake, oshekini nomire.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Pimpabakena nija nirabake, oshekini nomire.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Pimpavakena niha niravake, oshekini nomire.</sentence>
         <sentence lang="es">Dame agua para tomar, tengo mucha sed.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+pimpavakena	[pi-][VPers][2S/A+][--][N=][IRR+][--][=p][VRoot][=to.give (ES: dar)][--][-av+object.oriented][ADV][+DIR][=contrary,opposite; RCVG:object.arriving.at.the.location.of.the.subject]av[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e[--][=na][+1SG.O]
+
+niha	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
+
+niravake	[n-][VPers][1SG.S/A+][--][=ir][VRoot][=to.cry][--][-av+object.oriented][ADV][+DIR][=contrary,opposite; RCVG:object.arriving.at.the.location.of.the.subject]av[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
+
+,	,[$.]
+
+oshekini	[=osheki][AdjRoot][=many; much; a.lot][--][-ni][AS][+ADV]
+
+nomire	[n-][VPers][1SG.S/A+][--][om=][AGT.CAUS+][--][=ir][VRoot][=to.drink (ES: beber)][--][-e][+REAL]e
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="387">
