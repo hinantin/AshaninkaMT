@@ -9766,9 +9766,25 @@ tsinanepaye	[=tsinane+n.m.][NRoot][=female, woman (ES: mujer); young.girl][--][-
         <parsing/>
     </text>
     <text id="392.2">
-        <sentence lang="prq">Inoshikake nani apani charaba nijaaki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Inoshikake nani apani charaba nijaaki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Inoshikake nani apani charava nihaaki.</sentence>
         <sentence lang="es">Mi cuñado jaló un súngaro en el río.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+inoshikake	[i-][VPers][3m.S/A+][--][=noshik][VRoot][=to.pull.sth. (ES: jalar); to.drag.sth. (ES: arrastrar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e
+
+nani	[n-][NPers][1SG.poss+][--][=ani+m.+poss@ri.][NRoot][=brother.in.law (kin.of.a.male)]
+
+apani	[=apani][NumeralPRQ][=one]
+
+charava	[=charava][NRoot][=fish.sp. (ES: súngaro, pez.saltón); gilded.catfish.sp.; zungaro-fish (ES: súngaro)]
+
+nihaaki	[=nihaa+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="392.3">
