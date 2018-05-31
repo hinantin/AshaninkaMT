@@ -9810,9 +9810,25 @@ pankotsiki	[=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)][
         <parsing/>
     </text>
     <text id="393">
-        <sentence lang="prq">Aririka oshaabiityaanake oshekini amampaantsi ñaabaementotsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Aririka oshaabiityaanake oshekini amampaantsi ñaabaementotsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Aririka oshaaviityaanake oshekini amampaantsi nyaavaementotsiki.</sentence>
         <sentence lang="es">Por las tardes emiten música por la radio.</sentence>
-        <morphology/>
+        <morphology>
+
+
+aririka	[=ari][PostPol][=PP][--][=rika][+COND]::[=when (temporal.simultaneity), if (expresses.possible.condition)]
+
+???
+
+oshekini	[=osheki][AdjRoot][=many; much; a.lot][--][-ni][AS][+ADV]
+
+amampaantsi	[=amamp][VRoot][=to.sing (ES: cantar)][--][-aantsi][NS][+NMZ.INF]aantsi
+
+nyaavaementotsiki	[=nyaa][VRoot][=to.speak][--][-vae][ASP][+DUR][=action/state.endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]vae[--][-mento+n.m.][NS][+NMZ.CONCR]mento[--][-tsi+alien.][Gen][+nposs]tsi[--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="394">
