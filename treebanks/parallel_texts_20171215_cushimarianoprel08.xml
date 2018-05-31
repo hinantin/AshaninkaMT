@@ -9748,9 +9748,21 @@ ocheraaki	[=ocheraa][NRoot][=shore (ES: orilla)][--][-ki][Cas][+LOC_LOC.T]
         <parsing/>
     </text>
     <text id="392.1">
-        <sentence lang="prq">Inoshikakero obayeri tsinanepaye.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Inoshikakero obayeri tsinanepaye.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Inoshikakero ovayeri tsinanepaye.</sentence>
         <sentence lang="es">El guerrero raptó a las mujeres.</sentence>
-        <morphology/>
+        <morphology>
+
+
+inoshikakero	[i-][VPers][3m.S/A+][--][=noshik][VRoot][=to.pull.sth. (ES: jalar); to.drag.sth. (ES: arrastrar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e[--][=ro][+3n.m.O]
+
+ovayeri	[=ovayeri+m.][NRoot][=guerrilla; warrior (ES: guerrero); murderer]
+
+tsinanepaye	[=tsinane+n.m.][NRoot][=female, woman (ES: mujer); young.girl][--][-paye][Num][+PL_DIST]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="392.2">
