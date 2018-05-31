@@ -9788,9 +9788,25 @@ nihaaki	[=nihaa+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)][--]
         <parsing/>
     </text>
     <text id="392.3">
-        <sentence lang="prq">Pinoshikanakero pitsiro eerorika okobi opoki pankotsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Pinoshikanakero pitsiro eerorika okobi opoki pankotsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Pinoshikanakero pitsiro eerorika okovi opoki pankotsiki.</sentence>
         <sentence lang="es">Arrastra a tu hermana si no quiere venir a la casa.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+pinoshikanakero	[pi-][VPers][2S/A+][--][=noshik][VRoot][=to.pull.sth. (ES: jalar); to.drag.sth. (ES: arrastrar)][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e[--][=ro][+3n.m.O]
+
+pitsiro	[=pitsiro][NRoot][=grasshopper (ES: saltamonte; sci.nm.: familia.locustidae/acrididae)]
+
+eerorika	[=eero][Neg][=NEG.IRR][--][=rika][+COND]
+
+okovi	[o-][VPers][3n.m.S/A+][--][=kov][VRoot][=to.want][--][-i][+IRR]i
+
+pankotsiki	[=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)][--][-tsi+alien.][Gen][+nposs]tsi[--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="393">
