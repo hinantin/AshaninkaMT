@@ -9659,9 +9659,24 @@ noinantemi	[no-][VPers][1SG.S/A+][--][=ina+n.m.+inal@tsi.][NRoot][=mother; wife 
         <parsing/>
     </text>
     <text id="388">
-        <sentence lang="prq">Impojakeri nironto eentsi ipankaki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Impojakeri nironto eentsi ipankaki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Impohakeri nironto eentsi ipankaki.</sentence>
         <sentence lang="es">La ronsapa golpeó al niño en la frente.</sentence>
-        <morphology/>
+        <sentence lang="en">The ronsapa-bee hit the child in the forehead.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+impohakeri	[i-][VPers][3m.S/A+][--][N=][IRR+][--][=poh][VRoot][=to.hit (ES: golpear)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+nironto	[=nironto+m.+poss@ti.][NRoot][=blowfly (ES: moscón, insecto); bee.sp. (ES: shinguto, shinguito)]
+
+eentsi	[=eentsi+n./m.+poss@te.][NRoot][=child (ES: niño)]
+
+ipankaki	[i-][NPers][3m.poss+][--][=panka+n.m.+inal@tsi.][NRoot][=forehead (ES: frente, frontal); flat.shape (ES: forma.plana)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="389">
