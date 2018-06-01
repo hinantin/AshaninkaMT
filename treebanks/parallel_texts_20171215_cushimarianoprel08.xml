@@ -9813,7 +9813,7 @@ pankotsiki	[=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)][
         <sentence lang="prq" normalizationlevel="none">Aririka oshaabiityaanake oshekini amampaantsi ñaabaementotsiki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Aririka oshaaviityaanake oshekini amampaantsi nyaavaementotsiki.</sentence>
         <sentence lang="es">Por las tardes emiten música por la radio.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 aririka	[=ari][PostPol][=PP][--][=rika][+COND]::[=when (temporal.simultaneity), if (expresses.possible.condition)]
