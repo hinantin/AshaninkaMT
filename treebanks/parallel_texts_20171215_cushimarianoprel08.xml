@@ -9938,9 +9938,25 @@ inampi	[i-][NPers][3m.poss+][--][=nampi+n.m.+inal@tsi.][NRoot][=village (ES: ald
         <parsing/>
     </text>
     <text id="399">
-        <sentence lang="prq">Robaeyakani ñaatsarepaeni shiketsi jataentsiri korintooniki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Robaeyakani ñaatsarepaeni shiketsi jataentsiri korintooniki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovaeyakani nyaatsarepaeni shiketsi hataentsiri korintooniki.</sentence>
         <sentence lang="es">Los jugadores que fueron a Korintoni comieron carachamas.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+rovaeyakani	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-aey][+PL]aey[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a][+REAL]a[--][-ni+circumfixing][+PL]
+
+nyaatsarepaeni	[=nyaatsa][VRoot][=to.play; to.have.sex (euphemism)][--][-re+m.][NS][+NMZ]re[--][-paeni][Num][+PL]
+
+shiketsi	[=shiketsi][NRoot][=armored.catfish.sp. (carachama), fish.sp.]
+
+hataentsiri	[=hat][VRoot][=to.go (ES: ir)][--][-aentsi][Asp][+STAT.PRF]aentsi[--][=ri][NS][+REL]
+
+korintooniki	[=korintooni][NRoot][=place.name][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="400">
