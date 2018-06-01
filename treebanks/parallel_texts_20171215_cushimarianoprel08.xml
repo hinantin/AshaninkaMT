@@ -10202,9 +10202,19 @@ ivaneki	[i-][NPers][3m.poss+][--][=va+n.m.+poss@ni:ne.+voc@1SG.][NRoot][=sown.fi
         <parsing/>
     </text>
     <text id="411">
-        <sentence lang="prq">Obiitakero choeni omachaakite.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Obiitakero choeni omachaakite.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Oviitakero choeni omachaakite.</sentence>
         <sentence lang="es">Mi hermana cosechó sus frijoles.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+oviitakero	[o-][VPers][3n.m.S/A+][--][=vii][VRoot][=to.harvest.sth. (apart.from.yucca; ES: cosechar, hacer.la.cosecha)][--][-t][+EP]t[--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-e][+REAL]e[--][=ro][+3n.m.O]
+
+choeni	[=choeni+n.m.][NRoot][=sister (kin.of.a.male, male.ego)]
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="412">

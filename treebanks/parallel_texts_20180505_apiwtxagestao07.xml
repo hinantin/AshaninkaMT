@@ -21,9 +21,10 @@ O   Õ   Alt + 0213   LATIN CAPITAL LETTER O WITH TILDE
 -->
 <parallel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="parallel_texts.xsd">
     <text id="0">
-        <!-- AYAWÕTATSIRO HIYATENE AASHI IPATSITE ASHENIKA AMOYSATSI -->
-        <sentence lang="cpb">AYAWÕTATSIRO HĨYATENE AASHI IPATSITE ASHENĨKA AMÕYASATSI</sentence>
+        <sentence lang="cpb" normalizationlevel="normalized-alphabet">AYAWÕTATSIRO HIYATENE AASHI IPATSITE ASHENIKA AMOYSATSI</sentence>
+        <sentence lang="cpb" normalizationlevel="normalized-alphabet">AYAWÕTATSIRO HĨYATENE AASHI IPATSITE ASHENĨKA AMÕYASATSI</sentence>
         <sentence lang="pt">TERRA INDÍGENA KAMPA DO RIO AMÔNIA</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully"/>
     </text>
     <text id="1">
         <sentence lang="cpb">ASHE AMINÃTXARI AIPATSITE ASHANINKA EERO ITHÕKATXARI ASHE. AAKA SEYKAYETSIRI ÃTAMIKI EEHATISITA AASHE WIRAKOTXA SEYKAYETSIRI OKOWAKINE AIPATSITE</sentence>
