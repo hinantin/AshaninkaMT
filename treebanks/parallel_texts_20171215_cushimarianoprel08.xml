@@ -9833,9 +9833,21 @@ nyaavaementotsiki	[=nyaa][VRoot][=to.speak][--][-vae][ASP][+DUR][=action/state.e
         <parsing/>
     </text>
     <text id="394">
-        <sentence lang="prq">Ikaemakantaetiri Yompiri ñaamentotsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikaemakantaetiri Yompiri ñaamentotsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikaemakantaetiri Yompiri nyaamentotsiki.</sentence>
         <sentence lang="es">A Yompiri lo hacen llamar por radiofonía.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+???
+
+yompiri	[=Yompiri][NRoot][=stone.divinity; proper.name]
+
+nyaamentotsiki	[=nyaa][VRoot][=to.speak][--][-mento+n.m.][NS][+NMZ.CONCR]mento[--][-tsi+alien.][Gen][+nposs]tsi[--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="395">
