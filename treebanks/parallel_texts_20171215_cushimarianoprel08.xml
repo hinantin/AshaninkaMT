@@ -9960,9 +9960,26 @@ korintooniki	[=korintooni][NRoot][=place.name][--][-ki][Cas][+LOC_LOC.T]
         <parsing/>
     </text>
     <text id="400">
-        <sentence lang="prq">Pibabitero inchaki aretantyabori okitsoki kiri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Pibabitero inchaki aretantyabori okitsoki kiri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Pivavitero inchaki aretantyavori okitsoki kiri.</sentence>
         <sentence lang="es">Pieza el palo para que llegue hasta el fruto del pijuayo.</sentence>
-        <morphology/>
+        <sentence lang="en">Bind the poles so that it reaches the pijuayo-tree fruit.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+pivavitero	[p-][VPers][2S/A+][--][=ivavi][VRoot][=to.bind (ES: ligar, piezar); to.connect (ES: empatar)][--][-t][+EP]t[--][-e][+REAL]e[--][=ro][+3n.m.O]
+
+inchaki	[=inchaki+poss@ri.][NRoot][=pole (ES: palo)]
+
+aretantyavori	[=are][VRoot][=to.arrive (ES: llegar); to.visit.with.sb.][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-eya][+IRR.RFL]eya[--][=vo][+3n.m.O][--][=ri][NS][+REL]
+
+okitsoki	[o-][NPers][3n.m.poss+][--][=kitsoki][NRoot][=egg (huevo); seed (ES: semilla)]
+
+kiri	[=kiri][NRoot][=palm.tree.sp. (ES: pijuayo, pifayo, chonta; sci.nm.: juania.australis)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="401">
