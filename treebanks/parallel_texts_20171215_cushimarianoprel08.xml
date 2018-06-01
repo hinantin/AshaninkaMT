@@ -10103,7 +10103,17 @@ inki	[=inki+n.m.+poss@ne.][NRoot][=peanut, groundnut ([ˈɪn.kɪ]; ES: maní; bo
         <sentence lang="prq" normalizationlevel="none">Oyaati isheeni obantsipooshiki amene shoñaki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Oyaati isheeni ovantsipooshiki amene shonyaki.</sentence>
         <sentence lang="es">La abuela va a la purma a buscar daledale.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+oyaati	[=oyaa][VRoot][=to.go (ES: ir); to.follow][--][-t][+EP]t[--][-i][+REAL]i
+
+isheeni	[=isheeni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
+
+ovantsipooshiki	[=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra; PT: roçado)][--][-ntsi+alien.][Gen][+nposs]ntsi[--][-pooshi][+CL:abandoned][=abandoned][--][-ki][Cas][+LOC_LOC.T]
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="407">
