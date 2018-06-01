@@ -9983,9 +9983,23 @@ kiri	[=kiri][NRoot][=palm.tree.sp. (ES: pijuayo, pifayo, chonta; sci.nm.: juania
         <parsing/>
     </text>
     <text id="401">
-        <sentence lang="prq">Ijeki obae omoki impetaki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ijeki obae omoki impetaki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iheki ovae omoki impetaki.</sentence>
         <sentence lang="es">El gallo de roca vive en el hueco de la roca.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+iheki	[i-][VPers][3m.S/A+][--][=hek][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir); to.be][--][-i][+REAL]i
+
+ovae	[=ovae+m.][NRoot][=Andean.cock-of-the-rock, bird.sp. (ES: gallito.de.las.rocas; QU: tunki, sci.nm.: rupicola.peruviana)]
+
+omoki	[=omo][NRoot][=hole (ES: hueco)][--][-ki][Cas][+LOC_LOC.T]
+
+impetaki	[=iNpeta+n.m.][NRoot][=rock (ES: roca); (rocky).cave (ES: cueva/tunel.rocoso); crag; ravine (ES: barranco)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="402">
