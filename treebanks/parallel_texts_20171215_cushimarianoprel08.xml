@@ -10162,9 +10162,23 @@ kaminirio	[=kaminirio][NRoot][=person's.name, NP]
         <parsing/>
     </text>
     <text id="409">
-        <sentence lang="prq">Osheki obeenikentsi ibitiki otsiti.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Osheki obeenikentsi ibitiki otsiti.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Osheki oveenikentsi ivitiki otsiti.</sentence>
         <sentence lang="es">Hay muchas pulgas en la piel del perro.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+oveenikentsi	[=oveenikentsi][NRoot][=flea (ES: pulga)]
+
+ivitiki	[i-][NPers][3m.poss+][--][=viti+n.m.+inal@tsi.][NRoot][=hair (ES: vello, pelo.del.cuerpo), bristle (ES: cerda); feather (ES: pluma)]+vbz.[--][-ki][+CL:S.R.H][=small,round(ed);hard;seed-like]ki
+
+otsiti	[=otsiti+m.+poss@te.][NRoot][=dog (ES: perro; PT: cachorro.caçador)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="410">
