@@ -9872,15 +9872,49 @@ yotaantsipankoki	[=yot][VRoot][=to.know (ES: conocer, saber)][--][-aantsi][NS][+
         <parsing/>
     </text>
     <text id="396">
-        <sentence lang="prq">Ijaatakero eentsi oñaaro isheeni.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ijaatakero eentsi oñaaro isheeni.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ihaatakero eentsi onyaaro isheeni.</sentence>
         <sentence lang="es">El niño rompió el espejo de la abuela.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+???
+
+eentsi	[=eentsi+n./m.+poss@te.][NRoot][=child (ES: niño)]
+
+onyaaro	[o-][NPers][3n.m.poss+][--][=ny][VRoot][=to.see, to.look.for; to.visit][--][-a][+CL:liquid][=liquid]a[--][-a][+EP]a[--][-ro+n.m.][NS][+NMZ]ro
+
+isheeni	[=isheeni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="397">
-        <sentence lang="prq">Iñaakeri ani maniro obaantsipooshiki robabo oshi kaniri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iñaakeri ani maniro obaantsipooshiki robabo oshi kaniri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Inyaakeri ani maniro ovaantsipooshiki rovavo oshi kaniri.</sentence>
         <sentence lang="es">Mi cuñado vio al venado en la purma comiendo la hoja de yuca.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+inyaakeri	[i-][VPers][3m.S/A+][--][=ny][VRoot][=to.see, to.look.for; to.visit][--][-a][+EP]a[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+ani	[=ani+m.+poss@ri.][NRoot][=brother.in.law (kin.of.a.male)]
+
+maniro	[=maniro+m.][NRoot][=deer (ES: venado); red.deer (ES: venado.rojo; sci.nm.: mazama.americana); gray.deer (ES: venado.gris; sci.nm.: mazama.gouazoubira)]
+
+ovaantsipooshiki	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra; PT: roçado)][--][-ntsi+alien.][Gen][+nposs]ntsi[--][-pooshi][+CL:abandoned][=abandoned][--][-ki][Cas][+LOC_LOC.T]
+
+rovavo	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-a][+REAL]a[--][=vo][+3n.m.O]
+
+oshi	[o-][NPers][3n.m.poss+][--][=oshi+inal@tsi.][NRoot][=leaf]
+
+kaniri	[=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="398">
