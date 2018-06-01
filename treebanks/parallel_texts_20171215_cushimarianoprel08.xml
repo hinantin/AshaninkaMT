@@ -10112,20 +10112,53 @@ isheeni	[=isheeni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
 
 ovantsipooshiki	[=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra; PT: roçado)][--][-ntsi+alien.][Gen][+nposs]ntsi[--][-pooshi][+CL:abandoned][=abandoned][--][-ki][Cas][+LOC_LOC.T]
 
+amene	[=amen][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of][--][-e][+REAL]e
+
+shonyaki	[=shonyaki+n.m.][NRoot][=edible.plant.sp. (ES: dale-dale, daledale; sci.nm.: calatea.allouia)]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
     </text>
     <text id="407">
-        <sentence lang="prq">Ranti ani robashiro ikentantyaariri kontsabopaye.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ranti ani robashiro ikentantyaariri kontsabopaye.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ranti ani rovashiro ikentantyaariri kontsavopaye.</sentence>
         <sentence lang="es">Mi cuñado hace maspute para picar perdices.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ranti	[r-][VPers][3m.S/A+][--][=ant][VRoot][=to.beat, to.hit; to.build, to.do, to.make][--][-i][+REAL]i
+
+ani	[=ani+m.+poss@ri.][NRoot][=brother.in.law (kin.of.a.male)]
+
+rovashiro	[r-][NPers][3m.poss+][--][=ovashi][VRoot][=to.build.a.hunter's.hiding_place (ES: construir.un.maspute)][--][-ro+n.m.][NS][+NMZ]ro
+
+ikentantyaariri	[i-][VPers][3m.S/A+][--][=kent][VRoot][=to.pierce.with.arrows, to.shoot.arrows; to.sting (ES: picar)][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-yaa][+IRR]yaa[--][=ri][+3m.O][--][=ri][NS][+REL]
+
+kontsavopaye	[=kontsavo+m.][NRoot][=ruddy.quail-dove (ES: perdiz.pequeña, paloma.del.monte; sci.nm.: geotrygon.montana,, leptotila.verreauxi,, leptotila.rufaxila)][--][-paye][Num][+PL_DIST]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="408">
-        <sentence lang="prq">Obashiyabakena iina Kaminirio.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Obashiyabakena iina Kaminirio.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ovashiyavakena iina Kaminirio.</sentence>
         <sentence lang="es">La mujer de Kaminirio me hizo broma.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph">
+
+
+???
+
+iina	[=iina+n.m.+inal@tsi.][NRoot][=mother; wife (kin.of.a.fe/male)]
+
+kaminirio	[=kaminirio][NRoot][=person's.name, NP]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="409">
