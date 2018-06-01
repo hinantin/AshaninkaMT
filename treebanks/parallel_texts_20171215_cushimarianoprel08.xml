@@ -9851,9 +9851,24 @@ nyaamentotsiki	[=nyaa][VRoot][=to.speak][--][-mento+n.m.][NS][+NMZ.CONCR]mento[-
         <parsing/>
     </text>
     <text id="395">
-        <sentence lang="prq">Iñaanatiro irianeriki ñaantsi yotaantsinpankoki.</sentence>
+        <!-- Iñaanatiro irianeriki ñaantsi yotaantsinpankoki. -->
+        <sentence lang="prq" normalizationlevel="none">Iñaanatiro irianeriki ñaantsi yotaantsipankoki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Inyaanatiro irianeriki nyaantsi yotaantsipankoki.</sentence>
         <sentence lang="es">Los niños leen palabras en la escuela.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+inyaanatiro	[i-][VPers][3m.S/A+][--][=nyaana][VRoot][=to.read (ES: leer)][--][-t][+EP]t[--][-i][+IRR]i[--][=ro][+3n.m.O]
+
+irianeriki	[=irianeriki+m.][NRoot][=child (ES: niño)]
+
+nyaantsi	[=nyaa][VRoot][=to.speak][--][-ntsi+m.][NS][+ADJ.PARTIC]ntsi
+
+yotaantsipankoki	[=yot][VRoot][=to.know (ES: conocer, saber)][--][-aantsi][NS][+NMZ.INF]aantsi[--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="396">
