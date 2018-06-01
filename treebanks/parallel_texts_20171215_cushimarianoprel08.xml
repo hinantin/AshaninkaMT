@@ -10182,9 +10182,23 @@ otsiti	[=otsiti+m.+poss@te.][NRoot][=dog (ES: perro; PT: cachorro.caçador)]
         <parsing/>
     </text>
     <text id="410">
-        <sentence lang="prq">Robintati charine iyanire ibaneki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Robintati charine iyanire ibaneki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovintati charine iyanire ivaneki.</sentence>
         <sentence lang="es">Mi abuelo siembra yuca en su chacra.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+rovintati	[ro-][VPers][3n.m.S/A+][--][=vint][VRoot][=to.sow.the.cassava.seed (ES: sembrar.con.la.semilla.de.la.yuca)][--][-ati][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]ati
+
+charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male); grandson (ES: nieto)]
+
+iyanire	[i-][NPers][3m.poss+][--][=kanire+n.m.+voc@nposs.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]
+
+ivaneki	[i-][NPers][3m.poss+][--][=va+n.m.+poss@ni:ne.+voc@1SG.][NRoot][=sown.field, sown.plot.of.land (ES: chacra; PT: roçado)][--][-ne][Gen][+aln.poss.]ne[--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="411">
