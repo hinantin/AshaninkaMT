@@ -10003,9 +10003,27 @@ impetaki	[=iNpeta+n.m.][NRoot][=rock (ES: roca); (rocky).cave (ES: cueva/tunel.r
         <parsing/>
     </text>
     <text id="402">
-        <sentence lang="prq">Otimatye obametaeri atomipaye rantabaete ero iperatantari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Otimatye obametaeri atomipaye rantabaete ero iperatantari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Otimatye ovametaeri atomipaye rantavaete ero iperatantari.</sentence>
         <sentence lang="es">Tenemos que enseñar a nuestros hijos a trabajar para que no sean ociosos.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+otimatye	[o-][VPers][3n.m.S/A+][--][=tim][VRoot][=POSSESS (EN: to.have; ES: tener); to.give.birth][--][-aty][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]aty[--][-e][+IRR]e
+
+ovametaeri	[=ovame][VRoot][=to.teach (ES: enseñar)][--][-t][+EP]t[--][=ae][+1INCL.PL.O][=(to).us (ES: (a).nosotros)]ae[--][=ri][NS][+REL]
+
+atomipaye	[a-][NPers][1PL.poss+][--][=tomi+m.+inal@tsi.][NRoot][=son (kin.of.a.fe/male)][--][-paye][Num][+PL_DIST]
+
+rantavaete	[r-][VPers][3m.S/A+][--][=antavae][VRoot][=to.work (ES: trabajar)][--][-t][+EP]t[--][-e][+REAL]e
+
+ero	[=ero][Neg][=NEG.IRR]
+
+iperatantari	[i-][VPers][3m.S/A+][--][=pera][VRoot][=to.be.idle, to.laze.around (ES: estar.con.pereza); to.bum.around (ES: vagar)][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-a][+REAL]a[--][=ri][NS][+REL]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="403">
