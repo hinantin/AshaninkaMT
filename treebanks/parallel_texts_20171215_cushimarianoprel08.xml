@@ -10076,9 +10076,27 @@ yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: h
         <parsing/>
     </text>
     <text id="405">
-        <sentence lang="prq">Nopankiti obantsiki shinki eejati inki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Nopankiti obantsiki shinki eejati inki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Nopankiti ovantsiki shinki eehati inki.</sentence>
         <sentence lang="es">En la chacra siembro maíz y maní.</sentence>
-        <morphology/>
+        <sentence lang="en">In the sown field I plant corn and beans.</sentence>
+        <sentence lang="pt">No roçado eu planto milho e amendoim.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+nopankiti	[no-][VPers][1SG.S/A+][--][=panki][VRoot][=to.plant, to.sow (ES: sembrar)][--][-t][+EP]t[--][-i][+REAL]i
+
+ovantsiki	[=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra; PT: roçado)][--][-ntsi+alien.][Gen][+nposs]ntsi[--][-ki][Cas][+LOC_LOC.T]
+
+shinki	[=shinki+m.+poss@ne.][NRoot][=corn, maize (ES: maíz, botany.nm.: zea.maíz)]
+
+eehati	[=eehati][ConnRoot][=also (ES: también); and (ES: y)]
+
+inki	[=inki+n.m.+poss@ne.][NRoot][=peanut, groundnut ([ˈɪn.kɪ]; ES: maní; botany.nm.: arachis.hipogagea)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="406">
