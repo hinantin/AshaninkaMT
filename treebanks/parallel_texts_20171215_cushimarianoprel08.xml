@@ -10028,15 +10028,51 @@ iperatantari	[i-][VPers][3m.S/A+][--][=pera][VRoot][=to.be.idle, to.laze.around 
         <parsing/>
     </text>
     <text id="403">
-        <sentence lang="prq">Irika obametantatsiri osheki inintaitiri nampitsiki okantakaantiro robametanti kameetsa.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Irika obametantatsiri osheki inintaitiri nampitsiki okantakaantiro robametanti kameetsa.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Irika ovametantatsiri osheki inintaitiri nampitsiki okantakaantiro rovametanti kameetsa.</sentence>
         <sentence lang="es">Este profesor es muy querido en el pueblo porque enseña bien.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+irika	[=irika+m.+proximal][PrnDem][=this (ES: este)]
+
+ovametantatsiri	[=ovame][VRoot][=to.teach (ES: enseñar)][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-atsi][Asp][+STAT.IPRF]atsi[--][=ri][NS][+REL]
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+???
+
+nampitsiki	[=nampi][NRoot][=big.quantity][--][-tsi+alien.][Gen][+nposs]tsi[--][-ki][Cas][+LOC_LOC.T]
+
+okantakaantiro	[o-][VPers][3n.m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-aka][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]aka[--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-t][+EP]t[--][-i][+REAL]i[--][=ro][+3n.m.O]
+
+rovametanti	[r-][VPers][3m.S/A+][--][=ovame][VRoot][=to.teach (ES: enseñar)][--][-t][+EP]t[--][-ant][+APPL.INST][=reason,instrumentality;in.order.to]ant[--][-i][+REAL]i
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="404">
-        <sentence lang="prq">Robankiniri nani payanti itapikiki yeye.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Robankiniri nani payanti itapikiki yeye.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovankiniri nani payanti itapikiki yeye.</sentence>
         <sentence lang="es">Mi cuñado alzó el racimo de plátano a la espalda de mi hermano.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+rovankiniri	[ro-][VPers][3n.m.S/A+][--][=vank][VRoot][=to.lift.sth.up (ES: alzar)][--][-i][+IRR]i[--][=ni][+3SG.O][--][=ri][+3m.O]
+
+nani	[n-][NPers][1SG.poss+][--][=ani+m.+poss@ri.][NRoot][=brother.in.law (kin.of.a.male)]
+
+payanti	[=payanti+n.m.+poss@te:ti.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]
+
+itapikiki	[i-][NPers][3m.poss+][--][=tapi+inal@ntsi.][NRoot][=back (body.part; ES: espalda); bottom; lower.side][--][-ki][+CL:S.R.H][=small,round(ed);hard;seed-like][--][-ki][Cas][+LOC_LOC.T]
+
+yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="405">
