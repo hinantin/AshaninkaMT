@@ -24,7 +24,18 @@ O   Õ   Alt + 0213   LATIN CAPITAL LETTER O WITH TILDE
         <sentence lang="cpb" normalizationlevel="normalized-alphabet">AYAWÕTATSIRO HIYATENE AASHI IPATSITE ASHENIKA AMOYSATSI</sentence>
         <sentence lang="cpb" normalizationlevel="normalized-alphabet">AYAWÕTATSIRO HĨYATENE AASHI IPATSITE ASHENĨKA AMÕYASATSI</sentence>
         <sentence lang="pt">TERRA INDÍGENA KAMPA DO RIO AMÔNIA</sentence>
-        <morphology format="ashaninkamorph" analysislevel="not-fully"/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+
+
+ipatsite	[i-][NPers][3m.poss+][--][=kipatsi+n.m.+poss@te:ti.][NRoot][=ground, earth (ES: tierra); mud; land][--][-te][Gen][+aln.poss.]te
+
+ashenĩka	[a-][NPers][1PL.poss+][--][=sheni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)][--][-nka][NS][+NMZ.QLTY][=abstract.qlty.noun]
+
+amõyasatsi	[=amonya/amõya][NRoot:CPB][=Amonia.river (ES: río.Amonia; PT: Rio.Amônia)][--][-satsi+m.][NS:CPB][+CL:provenance][=human.provenance, inhabitant.of.swh.]
+
+</morphology>
     </text>
     <text id="1">
         <sentence lang="cpb">ASHE AMINÃTXARI AIPATSITE ASHANINKA EERO ITHÕKATXARI ASHE. AAKA SEYKAYETSIRI ÃTAMIKI EEHATISITA AASHE WIRAKOTXA SEYKAYETSIRI OKOWAKINE AIPATSITE</sentence>
