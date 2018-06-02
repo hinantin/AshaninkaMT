@@ -10266,7 +10266,7 @@ ocheempeki	[=ocheempe][NRoot][=hill (ES: cerro)][--][-ki][Cas][+LOC_LOC.T]
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-???
+oitaka	[=oitaka][ORoot][=WH (ES: qué; EN: what)]
 
 ???
 
@@ -10278,9 +10278,25 @@ petakovaetantari	[p-][VPers][2S/A+][--][=etako][VRoot][=to.love (ES: amar, estim
         <parsing/>
     </text>
     <text id="415">
-        <sentence lang="prq">Ojaabiki ijeekaeyeni konoya robabo shitobipaye.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ojaabiki ijeekaeyeni konoya robabo shitobipaye.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ohaaviki iheekaeyeni konoya rovavo shitovipaye.</sentence>
         <sentence lang="es">Las tortugas están abajo comiendo callampas.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ohaaviki	[=ohaaviki][NRoot][=floor, first.floor (ES: suelo)]
+
+iheekaeyeni	[i-][VPers][3m.S/A+][--][=heek][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir); to.be][--][-aey][+PL]aey[--][-e][+REAL]e[--][-ni+circumfixing][+PL]
+
+konoya	[=konoya+m.][NRoot][=tortoise, turtle, motelo-turtle, land.turtle.sp. (ES: tortuga.de.tierra; PT: jabuti)]
+
+rovavo	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-a][+REAL.RFL]a[--][=vo][+3n.m.O]
+
+shitovipaye	[=shitovi+n.m.][NRoot][=orange/purple-colored.edible.mushroom (ES: hongo.comestible, hongo.callampa); callampa-mushroom][--][-paye][Num][+PL_DIST]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="416">
