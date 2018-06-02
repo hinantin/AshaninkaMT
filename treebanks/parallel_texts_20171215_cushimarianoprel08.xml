@@ -10300,9 +10300,21 @@ shitovipaye	[=shitovi+n.m.][NRoot][=orange/purple-colored.edible.mushroom (ES: h
         <parsing/>
     </text>
     <text id="416">
-        <sentence lang="prq">Opiriati ojarentsiki nijapaye.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Opiriati ojarentsiki nijapaye.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Opiriati oharentsiki nihapaye.</sentence>
         <sentence lang="es">En el verano las quebradas se secan.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+opiriati	[o-][VPers][3n.m.S/A+][--][=piria][VRoot][=to.be.dry (ES: estar.seco)][--][-t][+EP]t[--][-i][+REAL]i
+
+oharentsiki	[o-][NPers][3n.m.poss+][--][=harentsi+m.][NRoot][=year (ES: año); dry.season/summer (ES: verano)][--][-ki][Cas][+LOC_LOC.T]
+
+nihapaye	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)][--][-paye][Num][+PL_DIST]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="417">
