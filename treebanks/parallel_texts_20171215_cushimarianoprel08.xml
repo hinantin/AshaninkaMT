@@ -10220,9 +10220,23 @@ omachaakite	[o-][NPers][3n.m.poss+][--][=machaaki+poss@te.][NRoot][=big.bean (ES
         <parsing/>
     </text>
     <text id="412">
-        <sentence lang="prq">Oyaati noena amenero obirentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Oyaati noena amenero obirentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Oyaati noena amenero ovirentsi.</sentence>
         <sentence lang="es">Mi mujer se va a revisar la trampa.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+oyaati	[=oyaa][VRoot][=to.go (ES: ir); to.follow][--][-t][+EP]t[--][-i][+REAL]i
+
+noena	[no-][NPers][1SG.poss+][--][=ena+n.m.+inal@tsi.+voc.][NRoot][=mother; wife (kin.of.a.fe/male)]
+
+amenero	[=amen][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of][--][-e][+REAL]e[--][=ro][+3n.m.O]
+
+ovirentsi	[=ovire+inal@ntsi.][NRoot][=hunting.trap (ES: trampa.de.caza)][--][-ntsi+alien.][Gen][+nposs]ntsi
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="413">
