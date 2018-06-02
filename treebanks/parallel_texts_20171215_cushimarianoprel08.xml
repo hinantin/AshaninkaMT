@@ -10240,9 +10240,23 @@ ovirentsi	[=ovire+inal@ntsi.][NRoot][=hunting.trap (ES: trampa.de.caza)][--][-nt
         <parsing/>
     </text>
     <text id="413">
-        <sentence lang="prq">Ari ijeeki shenontipaye ocheempeki</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ari ijeeki shenontipaye ocheempeki</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ari iheeki shenontipaye ocheempeki</sentence>
         <sentence lang="es">Los coto monos viven en el cerro.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ari	[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+iheeki	[i-][VPers][3m.S/A+][--][=heek][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir); to.be][--][-i][+REAL]i
+
+shenontipaye	[=shenonti][NRoot][=monkey.sp. (ES: mono.coto)][--][-paye][Num][+PL_DIST]
+
+ocheempeki	[=ocheempe][NRoot][=hill (ES: cerro)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="414">
