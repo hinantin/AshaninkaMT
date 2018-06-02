@@ -44,7 +44,28 @@ amõyasatsi	[=amonya/amõya][NRoot:CPB][=Amonia.river (ES: río.Amonia; PT: Rio.
     <text id="1">
         <sentence lang="cpb">ASHE AMINÃTXARI AIPATSITE ASHANINKA EERO ITHÕKATXARI ASHE. AAKA SEYKAYETSIRI ÃTAMIKI EEHATISITA AASHE WIRAKOTXA SEYKAYETSIRI OKOWAKINE AIPATSITE</sentence>
         <sentence lang="pt">PLANO DE GESTÃO TERRITORIAL E AMBIENTAL DA TERRA INDÍGENA KAMPA DO RIO AMÔNIA</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+???
+ashe	[=ashe][PrnPoss][+1PL]
+
+???
+
+aipatsite	[a-][NPers][1PL.poss+][--][=kipatsi+n.m.+poss@te:ti.][NRoot][=ground, earth (ES: tierra); mud; land][--][-te][Gen][+aln.poss.]te
+
+ashaninka	[=ashaninka][NRoot][=indigenous.person.that.lives.in.the.in.the.central.adjoining.Amazonian.regions.between.Peru-and-Brazil]
+
+eero	[=eero][Neg][=NEG.IRR]
+
+ithõkatxari	[i-][VPers][3m.S/A+][--][=tsonk][VRoot][=to.finish (ES: terminar)][--][-atxa][Asp][+STAT.IPRF]atxa[--][=ri][NS][+REL]
+
+???
+ashe	[=ashe][PrnPoss][+1PL]
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="2">

@@ -10260,9 +10260,21 @@ ocheempeki	[=ocheempe][NRoot][=hill (ES: cerro)][--][-ki][Cas][+LOC_LOC.T]
         <parsing/>
     </text>
     <text id="414">
-        <sentence lang="prq">¿Oitaka obakemiri petakobaetantari?</sentence>
+        <sentence lang="prq" normalizationlevel="none">¿Oitaka obakemiri petakobaetantari?</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">¿Oitaka ovakemiri petakovaetantari?</sentence>
         <sentence lang="es">¿Qué te pasa? ¿Por qué estás sufriendo?</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+???
+
+???
+
+petakovaetantari	[p-][VPers][2S/A+][--][=etako][VRoot][=to.love (ES: amar, estimar, favorecer); to.suffer.for.love (ES: sufrir.(de.amor))][--][-vae][ASP][+DUR][=action/state.endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]vae[--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-a][+REAL]a[--][=ri][NS][+REL]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="415">
