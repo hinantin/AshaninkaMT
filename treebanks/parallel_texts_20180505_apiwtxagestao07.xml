@@ -42,7 +42,8 @@ amõyasatsi	[=amonya/amõya][NRoot:CPB][=Amonia.river (ES: río.Amonia; PT: Rio.
 </morphology>
     </text>
     <text id="1">
-        <sentence lang="cpb">ASHE AMINÃTXARI AIPATSITE ASHANINKA EERO ITHÕKATXARI ASHE. AAKA SEYKAYETSIRI ÃTAMIKI EEHATISITA AASHE WIRAKOTXA SEYKAYETSIRI OKOWAKINE AIPATSITE</sentence>
+        <!-- ASHE AMINÃTXARI AIPATSITE ASHANINKA EERO ITHÕKATXARI ASHE. AAKA SEYKAYETSIRI ÃTAMIKI EEHATISITA AASHE WIRAKOTXA SEYKAYETSIRI OKOWAKINE AIPATSITE -->
+        <sentence lang="cpb">ASHE AMINÃTXARI AIPATSITE ASHANINKA EERO ITHÕKATXARI ASHE. AAKA SEYKAYETSIRI ÃTAMIKI EEHATSITA AASHE WIRAKOTXA SEYKAYETSIRI OKOWAKINE AIPATSITE</sentence>
         <sentence lang="pt">PLANO DE GESTÃO TERRITORIAL E AMBIENTAL DA TERRA INDÍGENA KAMPA DO RIO AMÔNIA</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
@@ -63,6 +64,21 @@ ithõkatxari	[i-][VPers][3m.S/A+][--][=tsonk][VRoot][=to.finish (ES: terminar)][
 ???
 ashe	[=ashe][PrnPoss][+1PL]
 
+.	.[$.]
+
+aaka	[=aaka][PrnPers][+1PL.INCL.][=we]
+
+???
+seykayetsiri	seykayetsiri	+?
+
+ãtamiki	[=aNtami/ãtami][NRoot:CPB][=woods, forest (ES: monte, bosque); dense.tropical.forest][--][-ki][Cas][+LOC_LOC.T]
+
+???
+eehatsita	[=eehatsi][ConnRoot][=also; and (PT: e)][--][=ta][MODAL][+OPT_SUBJ][CONTG: actn.that.depends.on.sth.that.may.or.may.not.happen; HYPOTH: actn.that.is.possible.&amp;.imagined.rather.than.real.&amp;.true]
+
+???
+
+wirakotxa	[=virakotxa/wirakotxa][NRoot:CPB][=outsider; white.person (PT: branco)]
 
 
 </morphology>
