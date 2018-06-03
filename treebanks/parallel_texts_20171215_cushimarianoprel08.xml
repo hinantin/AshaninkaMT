@@ -10318,9 +10318,25 @@ nihapaye	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)][--]
         <parsing/>
     </text>
     <text id="417">
-        <sentence lang="prq">Iñampoeretakeri Shebankori maniti okaakini ipankoki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iñampoeretakeri Shebankori maniti okaakini ipankoki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Inyampoeretakeri Shevankori maniti okaakini ipankoki.</sentence>
         <sentence lang="es">Shewankori vio la huella del tigre cerca de su casa.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+???
+
+shevankori	[=shevankori][NRoot][=NP, person's.name]
+
+maniti	[=maniti][NRoot][=tiger (ES: tigre); jaguar (sci.nm.: panthera.onca)]
+
+okaakini	[=okaakini][AdvRoot][=near (ES: cerca)]
+
+ipankoki	[i-][NPers][3m.poss+][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="418">
