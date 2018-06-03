@@ -10406,9 +10406,19 @@ komarontsi	[=komaro+n.m.][NRoot][=plant.sp. (ES: papelillo, sp.de.planta)][--][-
         <parsing/>
     </text>
     <text id="421">
-        <sentence lang="prq">Ero pamaati niyanki onoshikimikari omoetonka.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ero pamaati niyanki onoshikimikari omoetonka.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ero pamaati niyanki onoshikimikari omoetonka.</sentence>
         <sentence lang="es">No nades en medio del río; cuidado que te arrastre el pongo.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ero	[=ero][Neg][=NEG.IRR]
+
+pamaati	[p-][VPers][2S/A+][--][=amaa][VRoot][=to.swim][--][-t][+EP]t[--][-i][+REAL]i
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="422">
