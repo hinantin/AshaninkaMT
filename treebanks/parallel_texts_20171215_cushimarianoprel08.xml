@@ -10428,9 +10428,23 @@ omoetonka	[o-][NPers][3n.m.poss+][--][=moetonka+poss@re.][NRoot][=whirlpool (ES:
         <parsing/>
     </text>
     <text id="422">
-        <sentence lang="prq">Kiake etini omoonaki inchato.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Kiake etini omoonaki inchato.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Kiake etini omoonaki inchato.</sentence>
         <sentence lang="es">La carachupa entró al hueco del palo.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+kiake	[=ki][VRoot][=to.enter (ES: ingresar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
+
+etini	[=etini][NRoot][=armadillo (ES: carachupa; sci.nm.: dasypus.novemcintus, dasypus.kappleri)]
+
+omoonaki	[=omoona][NRoot][=hole][--][-ki][Cas][+LOC_LOC.T]
+
+inchato	[=inchato+n.m.][NRoot][=tree (ES: árbol)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="423">
