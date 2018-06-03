@@ -10416,7 +10416,13 @@ ero	[=ero][Neg][=NEG.IRR]
 
 pamaati	[p-][VPers][2S/A+][--][=amaa][VRoot][=to.swim][--][-t][+EP]t[--][-i][+REAL]i
 
+niyanki	[niyanki+sem@loc.][AdvRoot][=in.the.center.of.sth., in.the.middle.of.sth.; half (ES: mitad)]
 
+onoshikimikari	[o-][VPers][3n.m.S/A+][--][=noshik][VRoot][=to.pull.sth. (ES: jalar); to.drag.sth. (ES: arrastrar)][--][-i][+IRR]i[--][=mi][+2SG.O][--][-kari][MODAL][+APPR][=lest (in.order.to.prevent; ES: ¡cuidado!)]
+
+omoetonka	[o-][NPers][3n.m.poss+][--][=moetonka+poss@re.][NRoot][=whirlpool (ES: remolino); wave (ES: ola)]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
