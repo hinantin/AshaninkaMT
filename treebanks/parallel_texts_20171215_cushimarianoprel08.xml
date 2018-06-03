@@ -10360,9 +10360,27 @@ nihaki	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)][--][-
         <parsing/>
     </text>
     <text id="419">
-        <sentence lang="prq">Raati Maaniri okitsoki intsipa ipankiteri robaneki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Raati Maaniri okitsoki intsipa ipankiteri robaneki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Raati Maaniri okitsoki intsipa ipankiteri rovaneki.</sentence>
         <sentence lang="es">Maaniri junta semillas de guaba para sembrar en su chacra.</sentence>
-        <morphology/>
+        <morphology>
+
+
+raati	[r-][VPers][3m.S/A+][--][=a][VRoot][=to.get][--][-ati][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]ati
+
+maaniri	[=maaniri][NRoot][=person's.name, NP]
+
+okitsoki	[o-][NPers][3n.m.poss+][--][=okitsoki][NRoot][=seed]
+
+intsipa	[=intsipa][NRoot][=ice-cream.bean.tree (ES: guaba, pacae, pacay, shimbillo, judía.delem.helado; QU: paqay; botany.nm.: inga.sp., inga.fullei)]
+
+ipankiteri	[i-][VPers][3m.S/A+][--][=panki][VRoot][=to.plant, to.sow (ES: sembrar)][--][-t][+EP]t[--][-e][+REAL]e[--][=ri][+3m.O]
+
+rovaneki	[r-][NPers][3m.poss+][--][=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra; PT: roçado)][--][-ne][Gen][+aln.poss.]ne[--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="420">
