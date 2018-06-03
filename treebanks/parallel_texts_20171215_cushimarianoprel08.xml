@@ -10340,9 +10340,23 @@ ipankoki	[i-][NPers][3m.poss+][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: cas
         <parsing/>
     </text>
     <text id="418">
-        <sentence lang="prq">Ookakiro choeni kaarashi nijaki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ookakiro choeni kaarashi nijaki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ookakiro choeni kaarashi nihaki.</sentence>
         <sentence lang="es">Mi hermana bota la basura al río.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ookakiro	[=ook][VRoot][=to.abandon; to.leave (ES: dejar); to.throw; to.throw.away/out (ES: botar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-i][+REAL]i[--][=ro][+3n.m.O]
+
+choeni	[=choeni+n.m.][NRoot][=sister (kin.of.a.male, male.ego)]
+
+kaarashi	[=kaarashi+n.m.][NRoot][=trash, garbage (ES: basura); fallen/dead.leaves (ES: hojarasca)]
+
+nihaki	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="419">
