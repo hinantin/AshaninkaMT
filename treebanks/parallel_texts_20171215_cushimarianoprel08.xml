@@ -10448,9 +10448,25 @@ inchato	[=inchato+n.m.][NRoot][=tree (ES: árbol)]
         <parsing/>
     </text>
     <text id="423">
-        <sentence lang="prq">Antabo omoti Shakiñi itimatye entsite.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Antabo omoti Shakiñi itimatye entsite.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Antavo omoti Shakinyi itimatye entsite.</sentence>
         <sentence lang="es">La barriga de Shakiñi es grande, ya va a dar a luz.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+antavo	[=antavo+n.m.][AdjRoot][=big; mature]
+
+omoti	[o-][NPers][3n.m.poss+][--][=moti+inal@tsi.][NRoot][=stomach, belly]
+
+shakinyi	[=shakinyi][NRoot][=person's.name, NP]
+
+itimatye	[i-][VPers][3m.S/A+][--][=tim][VRoot][=POSSESS (EN: to.have; ES: tener); to.give.birth][--][-aty][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]aty[--][-e][+REAL]e
+
+entsite	[=entsi+n./m.+poss@te.][NRoot][=child (ES: niño)][--][-i^te][DEGR][+AUG]te
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="424">
