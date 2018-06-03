@@ -10384,9 +10384,25 @@ rovaneki	[r-][NPers][3m.poss+][--][=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.f
         <parsing/>
     </text>
     <text id="420">
-        <sentence lang="prq">Raetiro omenta inchato antantyabori komarontsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Raetiro omenta inchato antantyabori komarontsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Raetiro omenta inchato antantyavori komarontsi.</sentence>
         <sentence lang="es">El remo se hace de la aleta del árbol.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+???
+
+omenta	[o-][NPers][3n.m.poss+][--][=menta+n.m.+inal@tsi.][NRoot][=fin.of.tree (ES: aleta.de.árbol); wedge, buttress.root.of.a.tree]
+
+inchato	[=inchato+n.m.][NRoot][=tree (ES: árbol)]
+
+antantyavori	[=ant][VRoot][=to.beat, to.hit; to.build, to.do, to.make][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-eya][+IRR.RFL]eya[--][=vo][+3n.m.O][--][=ri][NS][+REL]
+
+komarontsi	[=komaro+n.m.][NRoot][=plant.sp. (ES: papelillo, sp.de.planta)][--][-ntsi+alien.][Gen][+nposs]ntsi
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="421">
