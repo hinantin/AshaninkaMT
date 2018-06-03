@@ -10495,20 +10495,27 @@ tyaapa	[=tyaapa+n.m.+poss@te.][NRoot][=hen (ES: gallina); chicken]
     </text>
     <text id="425">
         <sentence lang="prq" normalizationlevel="none">Onampinaki pankotsi ojeeki shibitsa.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">Onampinaki pankotsi oheeki shibitsa.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Onampinaki pankotsi oheeki shivitsa.</sentence>
         <sentence lang="es">La soga está al costado de la casa.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 onampinaki	[o-][NPers][3n.m.poss+][--][=nampina+inal@n/tsi.][NRoot][=side (ES: lado, costado); corner (ES: esquina)][--][-ki][Cas][+LOC_LOC.T]
 
+pankotsi	[=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)][--][-tsi+alien.][Gen][+nposs]tsi
 
+oheeki	[o-][VPers][3n.m.S/A+][--][=heek][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir); to.be][--][-i][+REAL]i
+
+shivitsa	[=shivitsa+poss@ti.][NRoot][=(wild).rope; liana.fiber (ES: fibra.de.bejuco); vine.species]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
     </text>
     <text id="426">
-        <sentence lang="prq">Rapeyakero onkiro okirikakeri isheni.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Rapeyakero onkiro okirikakeri isheni.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rapeyakero onkiro okirikakeri isheni.</sentence>
         <sentence lang="es">El ratón mordió el hilo de la abuela.</sentence>
         <morphology/>
         <parsing/>
