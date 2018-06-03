@@ -10470,12 +10470,17 @@ entsite	[=entsi+n./m.+poss@te.][NRoot][=child (ES: niño)][--][-i^te][DEGR][+AUG
         <parsing/>
     </text>
     <text id="424">
-        <sentence lang="prq">Omotyaki nija ari ikemaetiri ramampae tyaapa.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Omotyaki nija ari ikemaetiri ramampae tyaapa.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Omotyaki niha ari ikemaetiri ramampae tyaapa.</sentence>
         <sentence lang="es">En la poza escuchan cantar al gallo.</sentence>
         <morphology>
 
 
+niha	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
+
 ramampae	[r-][VPers][3m.S/A+][--][=amamp][VRoot][=to.sing (ES: cantar)][--][=ae][+1INCL.PL.O][=(to).us (ES: (a).nosotros)]ae
+
+ari	[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
 
 
 
