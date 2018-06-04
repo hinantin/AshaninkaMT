@@ -10763,9 +10763,23 @@ tonkaareki	[=tonkaare+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas]
         <parsing/>
     </text>
     <text id="436">
-        <sentence lang="prq">Paamabentya pikiikari opiyaataki omitsitsiyimikari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Paamabentya pikiikari opiyaataki omitsitsiyimikari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Paamaventya pikiikari opiyaataki omitsitsiyimikari.</sentence>
         <sentence lang="es">Cuidado cuando entres en el remolino; te puedes hundir.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+paamaventya	[p-][VPers][2S/A+][--][=aam][VRoot][=to.watch.out.for.sth/sb., to.beware.of.sth/sb. (ES: tener.cuidado)][--][-a][+EP]a[--][-vent][+APPL.BEN][=action.done.for.sb.else]vent[--][-ya][+REAL]ya
+
+pikiikari	[pi-][VPers][2S/A+][--][=ki][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)][--][-i][+REAL]i[--][-kari][MODAL][+APPR][=lest (in.order.to.prevent; ES: ¡cuidado!)]
+
+opiyaataki	[=opiyaata][NRoot][=whirl (ES: remolino)][--][-ki][Cas][+LOC_LOC.T]
+
+omitsitsiyimikari	[o-][VPers][3n.m.S/A+][--][mi=][M.CAUS+][--][=tsitsiy][VRoot][=to.dive (ES: sumergirse)][--][-i][+IRR]i[--][=mi][+2SG.O][--][-kari][MODAL][+APPR][=lest (in.order.to.prevent; ES: ¡cuidado!)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="437">
