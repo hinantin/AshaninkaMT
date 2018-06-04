@@ -10517,25 +10517,79 @@ shivitsa	[=shivitsa+poss@ti.][NRoot][=(wild).rope; liana.fiber (ES: fibra.de.bej
         <sentence lang="prq" normalizationlevel="none">Rapeyakero onkiro okirikakeri isheni.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Rapeyakero onkiro okirikakeri isheni.</sentence>
         <sentence lang="es">El ratón mordió el hilo de la abuela.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph">
+
+
+???
+
+onkiro	[=oNkiro+m.][NRoot][=big.mouse (ES: ratón)]
+
+???
+okirikakeri	[o-][VPers][3n.m.S/A+][--][=kirik][VRoot][=to.weave; to.spin.(thread) (ES: hilar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e[--][=ri][NS][+REL]
+
+isheni	[=isheni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="427">
-        <sentence lang="prq">Osheki oneeki onkona.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Osheki oneeki onkona.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Osheki oneeki onkona.</sentence>
         <sentence lang="es">El cetico tiene muchos gusanos.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+???
+
+onkona	[=oNkona][NRoot][=cecropia.sp., tree.sp. (ES: cetico, siteco)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="428">
-        <sentence lang="prq">Oontsotakero iñeeni paamari akishitantyaari kaniri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Oontsotakero iñeeni paamari akishitantyaari kaniri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Oontsotakero inyeeni paamari akishitantyaari kaniri.</sentence>
         <sentence lang="es">Mi tía atizó la candela para asar la yuca.</sentence>
-        <morphology/>
+        <morphology>
+
+
+oontsotakero	[o-][VPers][3n.m.S/A+][--][=ontso][VRoot][=to.start.fire, to.make.fire; to.poke.fire  (ES: atizar)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e[--][=ro][+3n.m.O]
+
+inyeeni	[=inyeeni+n.m.][NRoot][=sister.in.law (kin.of.a.male) (PT: cunhada)]
+
+paamari	[=paamari+n.m.][NRoot][=fire (ES: candela, fuego)]
+
+akishitantyaari	[=akishi][VRoot][=to.roast (ES: asar)][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-yaa][+REAL]yaa[--][=ri][+3m.O]
+
+kaniri	[=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="429">
-        <sentence lang="prq">Ontyiro ina kitsarentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ontyiro ina kitsarentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ontyiro ina kitsarentsi.</sentence>
         <sentence lang="es">Mi mamá teje una cushma.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ontyiro	[=onty][VRoot][=to.weave (ES: tejer)][--][-i][+REAL]i[--][=ro][+3n.m.O]
+
+ina	[=ina+n.m.+inal@tsi.+voc.][NRoot][=mother; wife (kin.of.a.fe/male)]
+
+kitsarentsi	[=kitsare+m.+inal@ntsi.][NRoot][=dress, cushma, cloth][--][-ntsi+alien.][Gen][+nposs]ntsi
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="430">
