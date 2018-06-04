@@ -10897,9 +10897,26 @@ osheto	[=osheto+m.][NRoot][=monkey.sp. (ES: maquisapa, mono.choro; QU: makisapa;
         <parsing/>
     </text>
     <text id="443">
-        <sentence lang="prq">Ramanantake obametantatsiri oshiyakaantsi roshiyakantantyariri robameri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ramanantake obametantatsiri oshiyakaantsi roshiyakantantyariri robameri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ramanantake ovametantatsiri oshiyakaantsi roshiyakantantyariri rovameri.</sentence>
         <sentence lang="es">El profesor compró una cámara para tomar fotos a sus alumnos.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ramanantake	[r-][VPers][3m.S/A+][--][=amanant][VRoot][=to.buy (ES: comprar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e
+
+ovametantatsiri	[=ovame][VRoot][=to.teach (ES: enseñar)][--][-t][+EP]t[--][-ant][+APPL.INST][=reason,instrumentality;in.order.to]ant[--][-atsi][Asp][+STAT.IPRF]atsi[--][=ri][NS][+REL]
+
+???
+oshiyakaantsi	[o-][NPers][3n.m.poss+][--][=shiyak][VRoot][=to.take.a.picture (ES: tomar.una.foto)][--][-aantsi][NS][+NMZ.INF]aantsi
+
+roshiyakantantyariri	[r-][VPers][3m.S/A+][--][o=][AGT.CAUS+][--][=shiyak][VRoot][=to.take.a.picture (ES: tomar.una.foto)][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-t][+EP]t[--][-ya][+REAL]ya[--][=ri][+3m.O][--][=ri][NS][+REL]
+
+rovameri	[r-][NPers][3m.poss+][--][=ovame][VRoot][=to.teach (ES: enseñar)][--][-ri+m.][NS][+NMZ]ri
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="444">
