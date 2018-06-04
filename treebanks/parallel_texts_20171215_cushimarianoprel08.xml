@@ -10861,15 +10861,39 @@ ovanavontsi	[=ovanavo+n.m.+inal@ntsi.][NRoot][=staple.food, necessity.good; food
         <parsing/>
     </text>
     <text id="441">
-        <sentence lang="prq">Robantabo rampate oshero.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Robantabo rampate oshero.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovantavo rampate oshero.</sentence>
         <sentence lang="es">El cangrejo come con la pinza izquierda.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+rovantavo	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-ant][+APPL.INST][=reason,instrumentality;in.order.to]ant[--][-a][+REAL]a[--][=vo][+3n.m.O]
+
+rampate	[r-][NPers][3m.poss+][--][=ampate+inal@ntsi.][NRoot][=left.hand, left.side (ES: mano.izquierda; lado.izquierdo)]
+
+oshero	[=oshero+m.][NRoot][=crab.sp. (ES: cangrejo)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="442">
-        <sentence lang="prq">Osheki rantyabaeshiti osheto.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Osheki rantyabaeshiti osheto.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Osheki rantyavaeshiti osheto.</sentence>
         <sentence lang="es">El maquisapa es muy travieso.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+???
+
+osheto	[=osheto+m.][NRoot][=monkey.sp. (ES: maquisapa, mono.choro; QU: makisapa; PT: macaco.barrigudo; sci.nm.: ateles.paniscus)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="443">
