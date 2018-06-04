@@ -10783,9 +10783,23 @@ omitsitsiyimikari	[o-][VPers][3n.m.S/A+][--][mi=][M.CAUS+][--][=tsitsiy][VRoot][
         <parsing/>
     </text>
     <text id="437">
-        <sentence lang="prq">Roretiri apa ijamanite kanirimashiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Roretiri apa ijamanite kanirimashiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Roretiri apa ihamanite kanirimashiki.</sentence>
         <sentence lang="es">Mi papá da comedero al majás en el yucal.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+roretiri	[r-][VPers][3m.S/A+][--][=ore][VRoot][=to.put.food.for.an.animal.in.the.feeding_trough (ES: dar/echar.la.comida.de.animales.en.un.comedero)][--][-t][+EP]t[--][-i][+IRR]i[--][=ri][+3m.O]
+
+apa	[=apa+m.][NRoot][=father (kin.of.a.fe/male)]
+
+ihamanite	[i-][NPers][3m.poss+][--][=hamani+m.][NRoot][=rodent.sp., paca (ES: picuro, majás, majas, majaz, zamaño; sci.nm.: coelogenus.paca)][--][-i^te][+CL:anim.PL][=animate,plural]te
+
+kanirimashiki	[=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)][--][-mashi][+CL:vast.space.with.vegetation][=vast.space.with.vegetation;wide,flat.space][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="438">
