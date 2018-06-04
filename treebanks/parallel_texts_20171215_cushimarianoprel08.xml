@@ -10823,9 +10823,21 @@ oria	[=oria+m.][NRoot][=sun (ES: sol)]
         <parsing/>
     </text>
     <text id="439">
-        <sentence lang="prq">Oshekitatsi machaaki obantsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Oshekitatsi machaaki obantsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Oshekitatsi machaaki ovantsiki.</sentence>
         <sentence lang="es">Aún hay muchos frejoles en la chacra.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+oshekitatsi	[=osheki][VRoot][=to.be.much; to.be.abundant][--][-t][+EP]t[--][-atsi][Asp][+STAT.IPRF]atsi
+
+machaaki	[=machaaki+poss@te.][NRoot][=big.bean (ES: frijol.grande, botany.id.: canavalia.sp.; PT: feijão.peruano)]
+
+ovantsiki	[=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra; PT: roçado)][--][-ntsi+alien.][Gen][+nposs]ntsi[--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="440">
