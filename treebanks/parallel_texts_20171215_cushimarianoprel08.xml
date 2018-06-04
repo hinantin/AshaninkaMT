@@ -10841,9 +10841,23 @@ ovantsiki	[=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land 
         <parsing/>
     </text>
     <text id="440">
-        <sentence lang="prq">Oshekipero okatyokakero choeni obanabontsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Oshekipero okatyokakero choeni obanabontsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Oshekipero okatyokakero choeni ovanavontsi.</sentence>
         <sentence lang="es">Mi hermana echó demasiada sal a la comida.</sentence>
-        <morphology/>
+        <morphology>
+
+
+oshekipero	[=osheki][AdjRoot][=many; much; a.lot][--][-pero][DEGR][+AUG]
+
+okatyokakero	[o-][VPers][3n.m.S/A+][--][=katyok][VRoot][=to.salt.meat; to.be.salted][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e[--][=ro][+3n.m.O]
+
+choeni	[=choeni+n.m.][NRoot][=sister (kin.of.a.male, male.ego)]
+
+ovanavontsi	[=ovanavo+n.m.+inal@ntsi.][NRoot][=staple.food, necessity.good; food (ES: comida)][--][-ntsi+alien.][Gen][+nposs]ntsi
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="441">
