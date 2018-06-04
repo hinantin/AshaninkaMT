@@ -10920,9 +10920,27 @@ rovameri	[r-][NPers][3m.poss+][--][=ovame][VRoot][=to.teach (ES: enseñar)][--][
         <parsing/>
     </text>
     <text id="444">
-        <sentence lang="prq">Ookiro choeni otaki kaniri nijaaki robantyaabori mamori.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ookiro choeni otaki kaniri nijaaki robantyaabori mamori.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ookiro choeni otaki kaniri nihaaki rovantyaavori mamori.</sentence>
         <sentence lang="es">Mi hermana bota las cáscaras en la quebrada para que las coman los sábalos.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ookiro	[=ook][VRoot][=to.abandon; to.leave (ES: dejar); to.throw; to.throw.away/out (ES: botar)][--][-i][+REAL]i[--][=ro][+3n.m.O]
+
+choeni	[=choeni+n.m.][NRoot][=sister (kin.of.a.male, male.ego)]
+
+otaki	[o-][NPers][3n.m.poss+][--][=taki+n.m.+inal@tsi.][NRoot][=shell (ES: caparazón); peel (ES: cáscara); skin]
+
+kaniri	[=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]
+
+nihaaki	[=nihaa+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)][--][-ki][Cas][+LOC_LOC.T]
+
+rovantyaavori	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-yaa][+REAL]yaa[--][=vo][+3n.m.O][--][=ri][NS][+REL]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="445">
