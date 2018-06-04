@@ -10723,9 +10723,23 @@ atoonkiro	[a-][VPers][1PL.S/A+][--][=toonk][VRoot][=to.grind.sth. (ES: moler); t
         <parsing/>
     </text>
     <text id="434">
-        <sentence lang="prq">Enitatsi osheki oparetsa komo.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Enitatsi osheki oparetsa komo.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Enitatsi osheki oparetsa komo.</sentence>
         <sentence lang="es">El barbasco aún tiene muchas raíces.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+enitatsi	[=enitatsi][VRoot][=EXIST (ES: hay); POSSESS; CONT.POSS (ES: aún.tiene)]
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+oparetsa	[o-][NPers][3n.m.poss+][--][=paretsa+n.m.+inal@ntsi.][NRoot][=tree.root (ES: raíz)]
+
+komo	[=komo][NRoot][=cubé, venomous.root.sp. (ES: cube, barbasco, sp.de.raíz.venenosa; sci.nm.: lonchocarpus.nicou); poison.for.fishing]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="435">
