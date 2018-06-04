@@ -10593,9 +10593,23 @@ kitsarentsi	[=kitsare+m.+inal@ntsi.][NRoot][=dress, cushma, cloth][--][-ntsi+ali
         <parsing/>
     </text>
     <text id="430">
-        <sentence lang="prq">Roñaakakeri icharine inchashi maankibenki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Roñaakakeri icharine inchashi maankibenki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ronyaakakeri icharine inchashi maankivenki.</sentence>
         <sentence lang="es">El abuelito mostró a su nieto la planta que es remedio para la mordedura de culebra.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ronyaakakeri	[r-][VPers][3m.S/A+][--][o=][AGT.CAUS+][--][=ny][VRoot][=to.see, to.look.for; to.visit][--][-a][+EP]a[--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e[--][=ri][+3m.O]
+
+icharine	[i-][NPers][3m.poss+][--][=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male); grandson (ES: nieto)]
+
+inchashi	[=inchashi+n.m.][NRoot][=herb (ES: hierba); shrubs; weeds; medicinal.plant (ES: planta.curativa)]
+
+maankivenki	[=maanki+m.][NRoot][=snake (ES: sp.de.culebra), serpent][--][-i^venki+n.m.][+CL:magic.plant][=magic.plant,piripiri]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="431.1">
