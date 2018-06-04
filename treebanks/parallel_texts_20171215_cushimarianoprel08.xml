@@ -10743,9 +10743,23 @@ komo	[=komo][NRoot][=cubé, venomous.root.sp. (ES: cube, barbasco, sp.de.raíz.v
         <parsing/>
     </text>
     <text id="435">
-        <sentence lang="prq">Imampaabaeta opempe etakota tonkaareki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Imampaabaeta opempe etakota tonkaareki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Imampaavaeta opempe etakota tonkaareki.</sentence>
         <sentence lang="es">El tucán canta en el cerro cuando está triste.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+imampaavaeta	[i-][VPers][3m.S/A+][--][=mamp][VRoot][=to.sing (ES: cantar)][--][-a][+EP]a[--][-a][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]a[--][-vae][ASP][+DUR][=action/state.endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]vae[--][-t][+EP]t[--][-a][+REAL]a
+
+opempe	[=opempe+m.+poss@ti.][NRoot][=toucan.sp.; couvier's.toucan (sci.nm.: ramphastos.cuvieri)]
+
+etakota	[=etako][VRoot][=to.love (ES: amar, estimar, favorecer); to.suffer.for.love (ES: sufrir.(de.amor))][--][-t][+EP]t[--][-a][+REAL]a
+
+tonkaareki	[=tonkaare+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="436">
