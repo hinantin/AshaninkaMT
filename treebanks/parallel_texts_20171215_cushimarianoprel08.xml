@@ -10803,9 +10803,23 @@ kanirimashiki	[=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]
         <parsing/>
     </text>
     <text id="438">
-        <sentence lang="prq">Itaakero opooki eentsi oria.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Itaakero opooki eentsi oria.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Itaakero opooki eentsi oria.</sentence>
         <sentence lang="es">A la niña la quemó el sol en la cara.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+itaakero	[i-][VPers][3m.S/A+][--][=ta][VRoot][=to.burn (ES: quemar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e[--][=ro][+3n.m.O]
+
+opooki	[o-][NPers][3n.m.poss+][--][=poo+n.m.+inal@tsi.][NRoot][=face (ES: cara, rostro)][--][-ki][Cas][+LOC_LOC.T]
+
+eentsi	[=eentsi+n./m.+poss@te.][NRoot][=child (ES: niño)]
+
+oria	[=oria+m.][NRoot][=sun (ES: sol)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="439">
