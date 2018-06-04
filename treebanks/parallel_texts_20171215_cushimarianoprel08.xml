@@ -10681,9 +10681,23 @@ rovaka	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-ak][ASP][+
         <parsing/>
     </text>
     <text id="432">
-        <sentence lang="prq">Iñaamatari shikiri imoreki ootamentotsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iñaamatari shikiri imoreki ootamentotsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Inyaamatari shikiri imoreki ootamentotsi.</sentence>
         <sentence lang="es">A los insectos les gusta la luz del mechero.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+inyaamatari	[i-][VPers][3m.S/A+][--][=nyaama][VRoot][=to.covet.sth. (ES: codiciar); to.like.sth. (ES: gustar)][--][-t][+EP]t[--][-a][+REAL]a[--][=ri][+3m.O]
+
+shikiri	[=shikiri][NRoot][=triangular.wings.fly (ES: sp.de.mosca); mosquito.sp.]
+
+imoreki	[i-][VPers][3m.S/A+][--][=morek][VRoot][=to.burn (ES: arder)][--][-i][+REAL]i
+
+ootamentotsi	[=ootamentotsi][NRoot][=lighter (ES: mechero), kerosene.lamp, paraffin.lamp]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="433">
