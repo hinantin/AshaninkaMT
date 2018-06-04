@@ -10944,9 +10944,31 @@ rovantyaavori	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-ant
         <parsing/>
     </text>
     <text id="445">
-        <sentence lang="prq">Ikobeme inkie chompita otapinaki shitamenkotsiki, robabakari tyaapa.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikobeme inkie chompita otapinaki shitamenkotsiki, robabakari tyaapa.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikoveme inkie chompita otapinaki shitamenkotsiki, rovavakari tyaapa.</sentence>
         <sentence lang="es">La gallina se comió a la cucaracha cuando estaba entrando debajo de la tarima.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ikoveme	[i-][VPers][3m.S/A+][--][=kov][VRoot][=to.want][--][-e][+IRR]e[--][=me][MODAL][+SUBJ][=not.to.achieve/realize.an.action/idea (ES: para.bien/mal.las.acciones/ideas.expresadas.no.se.realizaron)]
+
+???
+
+chompita	[=chompita+m.][NRoot][=cockroach.sp. (ES: sp.de.cucaracha)]
+
+otapinaki	[o-][NPers][3n.m.poss+][--][=tapi+inal@ntsi.][NRoot][=back (body.part; ES: espalda); bottom; lower.side][--][-na][+CL:long.hollow][=long,hollow (ES: alongado,ahuecado); round,hollow][--][-ki][Cas][+LOC_LOC.T]
+
+shitamenkotsiki	[=shitamenko+n.m.+inal@tsi.][NRoot][=dais, wooden_platform (ES: tarima.(hecha.de.pona))][--][-tsi+alien.][Gen][+nposs]tsi[--][-ki][Cas][+LOC_LOC.T]
+
+,	,[$.]
+
+rovavakari	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-av][+RCP]av[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a][+REAL.RFL]a[--][=ri][+3m.O]
+
+tyaapa	[=tyaapa+n.m.+poss@te.][NRoot][=hen (ES: gallina); chicken]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="446">
