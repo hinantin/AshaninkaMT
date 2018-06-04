@@ -10659,9 +10659,25 @@ nihaatenipaye	[=nihaa+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio
         <parsing/>
     </text>
     <text id="431.3">
-        <sentence lang="prq">Oonkaka imoti eentsi osheki robaka.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Oonkaka imoti eentsi osheki robaka.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Oonkaka imoti eentsi osheki rovaka.</sentence>
         <sentence lang="es">La barriga del niño se hinchó por comer demasiado.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+???
+
+imoti	[i-][NPers][3m.poss+][--][=moti+inal@tsi.][NRoot][=stomach, belly]
+
+eentsi	[=eentsi+n./m.+poss@te.][NRoot][=child (ES: niño)]
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+rovaka	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a][+REAL]a
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="432">
