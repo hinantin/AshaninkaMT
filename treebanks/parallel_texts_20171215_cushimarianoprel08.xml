@@ -10613,15 +10613,43 @@ maankivenki	[=maanki+m.][NRoot][=snake (ES: sp.de.culebra), serpent][--][-i^venk
         <parsing/>
     </text>
     <text id="431.1">
-        <sentence lang="prq">Roonkake apa tonkaareki irotaentsi rareetajea.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Roonkake apa tonkaareki irotaentsi rareetajea.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Roonkake apa tonkaareki irotaentsi rareetahea.</sentence>
         <sentence lang="es">Papá puqueó en la loma; ya está por llegar.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+roonkake	[r-][VPers][3m.S/A+][--][=oonk][VRoot][=to.produce_sounds/whistle.by.covering.the.mouth.with.half-joint.hands (ES: puquear, puquiar; QU: phukuy)][--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-e][+REAL]e
+
+apa	[=apa+m.][NRoot][=father (kin.of.a.fe/male)]
+
+tonkaareki	[=tonkaare+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas][+LOC_LOC.T]
+
+irotaentsi	[=irotaentsi][ConnRoot][=CONN (EN: soon.(still.far); ES: casi.(lejos.todavía))]
+
+rareetahea	[r-][VPers][3m.S/A+][--][=a][VRoot][=to.get][--][-ree][+REV]ree[--][-t][+EP]t[--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-ea][+IRR]ea
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="431.2">
-        <sentence lang="prq">Amaanitake enini, irojatsi oonkantanakari nijaatenipaye.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Amaanitake enini, irojatsi oonkantanakari nijaatenipaye.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Amaanitake enini, irohatsi oonkantanakari nihaatenipaye.</sentence>
         <sentence lang="es">El río creció, por eso se represó la quebrada.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+amaanitake	[=amaani+n.m.][NRoot][=increase (ES: creciente)]::[=to.increase (ES: crecer)]+vbz.[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e
+
+enini	[=Eni][NP][=river (Ene.river)][--][-ni+place][+CL:watercourse][=watercourse, running.water.feature]
+
+,	,[$.]
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="431.3">
