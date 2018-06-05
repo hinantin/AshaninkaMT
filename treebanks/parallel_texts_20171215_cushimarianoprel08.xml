@@ -11236,15 +11236,43 @@ tsitsi	[=tsitsi+n.m.+voc.][NRoot][=firewood (ES: leña)]
         <parsing/>
     </text>
     <text id="458.1">
-        <sentence lang="prq">Oyiitakero isheni obaniri pojare.</sentence>
+        <!-- Oyiitakero isheni obaniri pojare. -->
+        <sentence lang="prq" normalizationlevel="none">Oyiitakero isheni oyaniri pojare.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Oyiitakero isheni oyaniri pohare.</sentence>
         <sentence lang="es">Mi abuela baja su yuca cocinada.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+oyiitakero	[o-][VPers][3n.m.S/A+][--][=yiit][VRoot][=to.serve (e.g.: liquid, food; ES: servir.(comida))][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e[--][=ro][+3n.m.O]
+
+isheni	[=isheni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
+
+???
+oyaniri	[o-][NPers][3n.m.poss+][--][=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]
+
+pohare	[=poha][VRoot][=to.be.cooked (ES: estar.cocinado), to.be.ready.(food) (ES: estar.lista.(la.comida)); to.roast][--][-re+m.][NS][+ADJ.NMZ]re
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="458.2">
-        <sentence lang="prq">Ayitapaki aakomentotsiki obametantatsiri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ayitapaki aakomentotsiki obametantatsiri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ayitapaki aakomentotsiki ovametantatsiri.</sentence>
         <sentence lang="es">El profesor se bajó de la avioneta.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ayitapaki	[=ayi][VRoot][=to.go.down][--][-t][+EP]t[--][-ap+goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-i][+REAL]i
+
+arakomentotsiki	[=ar][VRoot][=to.fly (ES: volar)][--][-ako][VS][+APPL.GEN][=GEN: with.reference.to.sth., about.sth.; INDR: action.affects.sth.in.an.indirect.manner]ako[--][-mento+n.m.][NS][+NMZ.CONCR]mento[--][-tsi+alien.][Gen][+nposs]tsi[--][-ki][+CL:human.populated][=place.populated.by.humans]
+
+ovametantatsiri	[=ovame][VRoot][=to.teach (ES: enseñar)][--][-t][+EP]t[--][-ant][+APPL.INST][=reason,instrumentality;in.order.to]ant[--][-atsi][Asp][+STAT.IPRF]atsi[--][=ri][NS][+REL]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="459">
