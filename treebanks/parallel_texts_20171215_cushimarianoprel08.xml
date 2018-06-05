@@ -11128,9 +11128,23 @@ niha	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
         <parsing/>
     </text>
     <text id="453">
-        <sentence lang="prq">Ikaimati yeye otsapiki obantsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikaimati yeye otsapiki obantsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikaimati yeye otsapiki ovantsi.</sentence>
         <sentence lang="es">Mi hermano está gritando al canto de la chacra.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ikaimati	[i-][VPers][3m.S/A+][--][=kaim][VRoot][=to.scream (ES: gritar); to.call (ES: llamar)][--][-ati][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]ati
+
+yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
+
+otsapiki	[o-][NPers][3n.m.poss+][--][=tsapi+n.m.+inal@tsi.][NRoot][=edge, side, end.edge.of.some.plane (ES: canto)][--][-ki][Cas][+LOC_LOC.T]
+
+ovantsi	[=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra; PT: roçado)][--][-ntsi+alien.][Gen][+nposs]ntsi
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="454">
