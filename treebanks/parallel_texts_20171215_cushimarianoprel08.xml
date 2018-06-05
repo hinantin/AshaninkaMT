@@ -10994,9 +10994,26 @@ itapinomaki	[i-][NPers][3m.poss+][--][=tapi+inal@ntsi.][NRoot][=back (body.part;
         <parsing/>
     </text>
     <text id="447">
-        <sentence lang="prq">Rotatsinkakeri nani apani atiri te iñaakota okantakantiro ishinkiro.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Rotatsinkakeri nani apani atiri te iñaakota okantakantiro ishinkiro.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rotatsinkakeri nani apani atiri te inyaakota okantakantiro ishinkiro.</sentence>
         <sentence lang="es">Mi cuñado empujó a una persona a causa de la borrachera.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+rotatsinkakeri	[ro-][VPers][3n.m.S/A+][--][=tatsink][VRoot][=to.push.sth. (ES: empujar)][--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-e][+REAL]e[--][=ri][+3m.O]
+
+nani	[n-][NPers][1SG.poss+][--][=ani+m.+poss@ri.][NRoot][=brother.in.law (kin.of.a.male)]
+
+apani	[=apani][NumeralPRQ][=one]
+
+te	[=te+future.neg.][Neg][=NEG.REAL]
+
+???
+
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="448">
