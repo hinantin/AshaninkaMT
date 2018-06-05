@@ -11169,19 +11169,50 @@ otsiti	[=otsiti+m.+poss@te.][NRoot][=dog (ES: perro; PT: cachorro.caçador)]
         <parsing/>
     </text>
     <text id="455">
-        <sentence lang="prq">Ipakeri apa yeeye otsipa ichenko.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ipakeri apa yeeye otsipa ichenko.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ipakeri apa yeeye otsipa ichenko.</sentence>
         <sentence lang="es">Mi papá le dio otro pantalón a mi hermano.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ipakeri	[i-][VPers][3m.S/A+][--][=p][VRoot][=to.give (ES: dar)][--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-e][+REAL]e[--][=ri][+3m.O]
+
+apa	[=apa+m.][NRoot][=father (kin.of.a.fe/male)]
+
+yeeye	[=yeeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
+
+otsipa	[=otsipa+n.m.][NRoot][=other, another]
+
+ichenko	[i-][NPers][3m.poss+][--][=chenko+n.m.+inal@tsi.][NRoot][=trousers, pants (ES: pantalón)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="456">
-        <sentence lang="prq">Iritake otsiti itsipamintsare atiri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iritake otsiti itsipamintsare atiri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iritake otsiti itsipamintsare atiri.</sentence>
         <sentence lang="es">El perro es el amigo fiel del hombre.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+iritake	[=iritake+cntr.exh.l.+foc.][PrnPers][+3SG.m.][=that's.why; he.is (ES: él.es); he.is.the.one.(who)]
+
+otsiti	[=otsiti+m.+poss@te.][NRoot][=dog (ES: perro; PT: cachorro.caçador)]
+
+itsipamintsare	[i-][NPers][3m.poss+][--][=tsipamintsare][NRoot][=friend (ES: amigo)]
+
+atiri	[=atiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="457">
-        <sentence lang="prq">Otyaankakeri nana yeye obantsiki raye tsistsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Otyaankakeri nana yeye obantsiki raye tsistsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Otyaankakeri nana yeye ovantsiki raye tsistsi.</sentence>
         <sentence lang="es">Mi mamá mandó a mi hermano a la chacra a traer leña.</sentence>
         <morphology/>
         <parsing/>
