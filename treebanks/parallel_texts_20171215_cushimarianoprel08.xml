@@ -11108,9 +11108,23 @@ inchapookiki	[=incha][NRoot][=plant][--][-pooki][+CL:quantity][=bunch,group;grou
         <parsing/>
     </text>
     <text id="452">
-        <sentence lang="prq">Ijeeki charaba otsapiaki nija.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ijeeki charaba otsapiaki nija.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iheeki charava otsapiaki niha.</sentence>
         <sentence lang="es">El súngaro está en la orilla del río.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+iheeki	[i-][VPers][3m.S/A+][--][=heek][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir); to.be][--][-i][+REAL]i
+
+charava	[=charava][NRoot][=fish.sp. (ES: súngaro, pez.saltón); gilded.catfish.sp.; zungaro-fish (ES: súngaro)]
+
+otsapiaki	[o-][NPers][3n.m.poss+][--][=tsapya][NRoot][=river.bank, side.of.river (ES: orilla)][--][-ki][Cas][+LOC_LOC.T]
+
+niha	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="453">
