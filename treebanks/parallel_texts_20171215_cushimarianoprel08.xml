@@ -11276,9 +11276,25 @@ ovametantatsiri	[=ovame][VRoot][=to.teach (ES: enseñar)][--][-t][+EP]t[--][-ant
         <parsing/>
     </text>
     <text id="459">
-        <sentence lang="prq">Otaabakero noena paamari akishibeta kaniri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Otaabakero noena paamari akishibeta kaniri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Otaavakero noena paamari akishiveta kaniri.</sentence>
         <sentence lang="es">Mi mujer se quemó con el fuego mientras asaba la yuca.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+otaavakero	[o-][VPers][3n.m.S/A+][--][=ta][VRoot][=to.burn (ES: quemar)][--][-av+object.oriented][ADV][+DIR][=contrary,opposite; RCVG:object.arriving.at.the.location.of.the.subject]av[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e[--][=ro][+3n.m.O]
+
+noena	[no-][NPers][1SG.poss+][--][=ena+n.m.+inal@tsi.+voc.][NRoot][=mother; wife (kin.of.a.fe/male)]
+
+paamari	[=paamari+n.m.][NRoot][=fire (ES: candela, fuego)]
+
+akishiveta	[a-][VPers][1PL.S/A+][--][=kishi][VRoot][=to.comb.sth., to.pull.comb.through.sb's.hair][--][-ve][+FRUS][=unsuccessful/interrupted.action/state (EN: in.vain; ES: casi); action.that.didn't.achieve.the.desired.result]ve[--][-t][+EP]t[--][-a][+REAL]a
+
+kaniri	[=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="460">
