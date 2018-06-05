@@ -11298,9 +11298,25 @@ kaniri	[=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: y
         <parsing/>
     </text>
     <text id="460">
-        <sentence lang="prq">Opakero choeni isheni apani tibana.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Opakero choeni isheni apani tibana.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Opakero choeni isheni apani tivana.</sentence>
         <sentence lang="es">Mi hermana dio una piña a mi abuela.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+opakero	[o-][VPers][3n.m.S/A+][--][=p][VRoot][=to.give (ES: dar)][--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-e][+REAL]e[--][=ro][+3n.m.O]
+
+choeni	[=choeni+n.m.][NRoot][=sister (kin.of.a.male, male.ego)]
+
+isheni	[=isheni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
+
+apani	[=apani][NumeralPRQ][=one]
+
+tivana	[=tivana+n.m.+poss@ti.][NRoot][=pineapple (ES: piña; botany.nm.: ananas.comosus)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="461">
