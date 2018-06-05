@@ -11088,9 +11088,20 @@ kantiriki	[=kantiri+n.m.][NRoot][=basket (ES: canasta)][--][-ki][Cas][+LOC_LOC.T
         <parsing/>
     </text>
     <text id="451">
-        <sentence lang="prq">Otitakotapaka charine ishintipare inchapookiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Otitakotapaka charine ishintipare inchapookiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Otitakotapaka charine ishintipare inchapookiki.</sentence>
         <sentence lang="es">La balsa del abuelo se atravesó en la palizada.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+otitakotapaka	[=oti][VRoot][=to.take.sth., to.catch.sth. (ES: agarrar); to.insert (ES: meter.(en.un.envase)); to.get.in; to.board][--][-t][+EP]t[--][-ako][VS][+APPL.GEN][=GEN: with.reference.to.sth., about.sth.; INDR: action.affects.sth.in.an.indirect.manner]ako[--][-t][+EP]t[--][-ap+goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a][+REAL]a
+
+charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male); grandson (ES: nieto)]
+
+ishintipare	[i-][NPers][3m.poss+][--][=shintipa+n.m.+poss@re.][NRoot][=raft, balsa][--][-re][Gen][+aln.poss.]re
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="452">
