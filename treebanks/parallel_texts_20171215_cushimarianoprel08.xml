@@ -11020,15 +11020,45 @@ ishinkiro	[i-][NPers][3m.poss+][--][=shinki][VRoot][=to.get.drunk; to.intoxicate
         <parsing/>
     </text>
     <text id="448">
-        <sentence lang="prq">Otebaki inchato iñatsaeyani koshiripaye.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Otebaki inchato iñatsaeyani koshiripaye.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Otevaki inchato inyatsaeyani koshiripaye.</sentence>
         <sentence lang="es">Los monos juegan en las ramas del árbol.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+otevaki	[=oteva][NRoot][=branch (ES: rama); fork-like.branch (ES: horquilla)][--][-ki][Cas][+LOC_LOC.T]
+
+inchato	[=inchato+n.m.][NRoot][=tree (ES: árbol)]
+
+inyatsaeyani	[i-][VPers][3m.S/A+][--][=nyatsa][VRoot][=to.play; to.have.sex (euphemism)][--][-ey][+PL]ey[--][-a][+REAL]a[--][-ni+circumfixing][+PL]
+
+koshiripaye	[=koshiri+m.+poss@ti.][NRoot][=monkey.sp., white.monkey.sp. (ES: machín.blanco; sci.nm.: cebus.albifrons)][--][-paye][Num][+PL_DIST]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="449">
-        <sentence lang="prq">Otetaka charine otenkanaki pojapaka iito.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Otetaka charine otenkanaki pojapaka iito.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Otetaka charine otenkanaki pohapaka iito.</sentence>
         <sentence lang="es">Mi abuelito se metió en la zanja y se golpeó la cabeza.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+otetaka	[=ote][VRoot][=to.take.sth., to.catch.sth. (ES: agarrar); to.insert (ES: meter.(en.un.envase)); to.get.in; to.board][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a][+REAL]a
+
+charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male); grandson (ES: nieto)]
+
+otenkanaki	[o-][NPers][3n.m.poss+][--][=tenkana][NRoot][=interior; trench (ES: zanja); large-scale.concave.feature (e.g.: ravine, valley, interstices); small-scale.concave.feature (e.g.: hallway, space.inside.a.walled.house, dug-out.ditch.along.the.road)][--][-ki][Cas][+LOC_LOC.T]
+
+pohapaka	[=poh][VRoot][=to.hit (ES: golpear)][--][-ap+goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a][+REAL]a
+
+iito	[i-][NPers][3m.poss+][--][=ito+n.m.+inal@ntsi.][NRoot][=head (ES: cabeza)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="450">
