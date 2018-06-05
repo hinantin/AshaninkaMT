@@ -10972,9 +10972,25 @@ tyaapa	[=tyaapa+n.m.+poss@te.][NRoot][=hen (ES: gallina); chicken]
         <parsing/>
     </text>
     <text id="446">
-        <sentence lang="prq">Oshoki Shariba osheki ishipatona itapinomaki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Oshoki Shariba osheki ishipatona itapinomaki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Oshoki Shariva osheki ishipatona itapinomaki.</sentence>
         <sentence lang="es">A Shariba le crece mucha barba en la quijada.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+oshoki	[o-][VPers][3n.m.S/A+][--][=shok][VRoot][=to.grow (ES: crecer)][--][-i][+REAL]i
+
+shariva	[=shariva][NRoot][=person's.name]
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+ishipatona	[i-][NPers][3m.poss+][--][=shipatona+n.m.+inal@ntsi.][NRoot][=beard, moustache (ES: barba, bigote)]
+
+itapinomaki	[i-][NPers][3m.poss+][--][=tapi+inal@ntsi.][NRoot][=back (body.part; ES: espalda); bottom; lower.side][--][=noma][NRoot][=jaw (ES: mandíbula, quijada)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="447">
