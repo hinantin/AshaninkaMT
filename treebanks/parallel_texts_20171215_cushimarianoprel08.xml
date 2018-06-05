@@ -11062,9 +11062,21 @@ iito	[i-][NPers][3m.poss+][--][=ito+n.m.+inal@ntsi.][NRoot][=head (ES: cabeza)]
         <parsing/>
     </text>
     <text id="450">
-        <sentence lang="prq">Okanti nana: Pitetajero machaki kantiriki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Okanti nana: Pitetajero machaki kantiriki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Okanti nana: Pitetahero machaki kantiriki.</sentence>
         <sentence lang="es">Mi mamá dice: “Mete el frijol en la canasta”.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+okanti	[o-][VPers][3n.m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-i][+REAL]i
+
+nana	[=nana+n.m.+voc.+poss@te:ti.][NRoot][=mom, mother (kin.of.a.fe/male; ES: mamá)]
+
+:	:[$.]
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="451">
