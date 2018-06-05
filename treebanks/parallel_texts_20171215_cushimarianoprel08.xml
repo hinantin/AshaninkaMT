@@ -11148,9 +11148,24 @@ ovantsi	[=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (E
         <parsing/>
     </text>
     <text id="454">
-        <sentence lang="prq">Ratsikabetakari otsimapookiri iitiki otsiti.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ratsikabetakari otsimapookiri iitiki otsiti.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ratsikavetakari otsimapookiri iitiki otsiti.</sentence>
         <sentence lang="es">El jergón casi mordió la pata del perro.</sentence>
-        <morphology/>
+        <morphology>
+
+
+ratsikavetakari	[r-][VPers][3m.S/A+][--][=atsik][VRoot][=to.bite (ES: morder.(sujeto.animado))][--][-a][+EP]a[--][-ve][+FRUS][=unsuccessful/interrupted.action/state (EN: in.vain; ES: casi); action.that.didn't.achieve.the.desired.result]ve[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a][+REAL]a[--][=ri][+3m.O]
+
+???
+otsimapookiri	[o-][NPers][3n.m.poss+][--][=tsima][NRoot][=wood][--][-pooki][+CL:quantity][=bunch,group;group.of.tiny.objects][--][-ri][Gen][+aln.poss.]ri
+
+iitiki	[i-][NPers][3m.poss+][--][=iti+n.m.+inal@ntsi.][NRoot][=foot (ES: pie)][--][-ki][Cas][+LOC_LOC.T]
+
+otsiti	[=otsiti+m.+poss@te.][NRoot][=dog (ES: perro; PT: cachorro.caçador)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="455">
