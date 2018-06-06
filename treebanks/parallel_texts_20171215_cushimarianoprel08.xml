@@ -11404,9 +11404,23 @@ ivachakateki	[i-][NPers][3m.poss+][--][=pachaka+poss@te.][NRoot][=container (ES:
         <parsing/>
     </text>
     <text id="465">
-        <sentence lang="prq">Itotati pajo Chabari rirantyari ibiare</sentence>
+        <sentence lang="prq" normalizationlevel="none">Itotati pajo Chabari rirantyari ibiare</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Itotati paho Chavari rirantyari iviare</sentence>
         <sentence lang="es">Chabari corta pate para tomar masato.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+itotati	[i-][VPers][3m.S/A+][--][=to][VRoot][=to.cut (ES: cortar)][--][-t][+EP]t[--][-ati][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]ati
+
+paho	[=paho+n.m.][NRoot][=recipient/container.type (ES: recipiente, pate); bowl.type]
+
+rirantyari	[r-][VPers][3m.S/A+][--][=ir][VRoot][=to.drink (ES: beber)][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-iya][+IRR.RFL]iya[--][=ri][+3m.O]
+
+iviare	[i-][NPers][3m.poss+][--][=piare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma.brava/forte)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="466">
