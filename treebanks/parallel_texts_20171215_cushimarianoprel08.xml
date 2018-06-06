@@ -11320,9 +11320,23 @@ tivana	[=tivana+n.m.+poss@ti.][NRoot][=pineapple (ES: piña; botany.nm.: ananas.
         <parsing/>
     </text>
     <text id="461">
-        <sentence lang="prq">Ikentake pabachori tsamiri robashiroki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikentake pabachori tsamiri robashiroki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikentake pavachori tsamiri rovashiroki.</sentence>
         <sentence lang="es">Mi tío picó al paujil desde su maspute.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ikentake	[i-][VPers][3m.S/A+][--][=kent][VRoot][=to.pierce.with.arrows, to.shoot.arrows; to.sting (ES: picar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e
+
+pavachori	[=pavachori+m.+poss@ti.][NRoot][=uncle (kin.of.a.male)]
+
+tsamiri	[=tsamiri+m.][NRoot][=curassow.sp. (ES: paujil); razor-billed.curassow (ES: curaçao.de.pico.filudo; sci.nm.: crax.mitu, mitu.mitu)]
+
+rovashiroki	[r-][NPers][3m.poss+][--][=ovashi][VRoot][=to.build.a.hunter's.hiding_place (ES: construir.un.maspute)][--][-ro+n.m.][NS][+ADJ.NMZ]ro[--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="462">
