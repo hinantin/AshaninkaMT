@@ -11424,9 +11424,25 @@ iviare	[i-][NPers][3m.poss+][--][=piare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES
         <parsing/>
     </text>
     <text id="466">
-        <sentence lang="prq">Okantanake isheeni: Paajonki Paba.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Okantanake isheeni: Paajonki Paba.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Okantanake isheeni: Paahonki Pava.</sentence>
         <sentence lang="es">La abuela dijo: “Gracias, Dios”.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+okantanake	[o-][VPers][3n.m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
+
+isheeni	[=isheeni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
+
+:	:[$.]
+
+paahonki	[=paahonki][Interj][=thanks (ES: gracias)]
+
+pava	[=pava+m.+poss@ni.][NRoot][=solar.deity; god (ES: dios); creator (PT: Deus.solar,, o.demiurgo.ashaninka); dad, father]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="467">
