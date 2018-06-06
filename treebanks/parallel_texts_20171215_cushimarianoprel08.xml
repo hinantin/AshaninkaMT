@@ -11553,7 +11553,8 @@ antavaeti	[=antavae][VRoot][=to.work (ES: trabajar)][--][-t][+EP]t[--][-i][+IRR]
         <parsing/>
     </text>
     <text id="472">
-        <sentence lang="prq">Iroka otaki pankirentsi kametsari ashi shibaerontsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iroka otaki pankirentsi kametsari ashi shibaerontsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iroka otaki pankirentsi kametsari ashi shivaerontsi.</sentence>
         <sentence lang="es">La corteza de esta planta es buena para la diarrea.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
@@ -11566,7 +11567,11 @@ pankirentsi	[=pankire+m.+inal@ntsi.][NRoot][=plant (ES: planta)][--][-ntsi+alien
 
 kametsari	[=kametsa][VRoot][=to.be.good][--][-ri+m.][NS][+NMZ]ri
 
+ashi	[=ashi][PrnPoss][+1PL]
 
+shivaerontsi	[=shi][VRoot][=to.defecate.on.sth. (ES: defecar)][--][-vae][ASP][+DUR][=action/state.endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]vae[--][-ro+n.m.][NS][+NMZ]ro[--][-ntsi+alien.][Gen][+nposs]ntsi
+
+.	.[$.]
 
 </morphology>
         <parsing/>
