@@ -11531,7 +11531,7 @@ kemariariki	[=kemariari][NRoot][=place.name][--][-ki][Cas][+LOC_LOC.T]
         <sentence lang="prq" normalizationlevel="none">Iroka ebankabo pankibaerento te omakoneti antabaeti.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Iroka evankavo pankivaerento te omakoneti antavaeti.</sentence>
         <sentence lang="es">Esta joven sembradora no se cansa de trabajar.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 iroka	[=iroka+n.m.+proximal.b.][PrnDem][=this (ES: esta)]
@@ -11555,7 +11555,7 @@ antavaeti	[=antavae][VRoot][=to.work (ES: trabajar)][--][-t][+EP]t[--][-i][+IRR]
     <text id="472">
         <sentence lang="prq">Iroka otaki pankirentsi kametsari ashi shibaerontsi.</sentence>
         <sentence lang="es">La corteza de esta planta es buena para la diarrea.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph"/>
         <parsing/>
     </text>
     <text id="473">
