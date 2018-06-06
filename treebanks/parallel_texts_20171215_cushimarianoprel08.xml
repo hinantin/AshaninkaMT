@@ -11486,9 +11486,25 @@ nishintyo	[n-][NPers][1SG.poss+][--][=ishintyo+n.m.][NRoot][=daughter (kin.of.a.
         <parsing/>
     </text>
     <text id="469">
-        <sentence lang="prq">Ichekakotake pabachori pamaki iraka tonkareki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ichekakotake pabachori pamaki iraka tonkareki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ichekakotake pavachori pamaki iraka tonkareki.</sentence>
         <sentence lang="es">En el cerro, mi tío cortó una chimicua que tenía frutos maduros.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ichekakotake	[i-][VPers][3m.S/A+][--][=chek][VRoot][=to.cut (ES: cortar)][--][-ako][VS][+APPL.GEN][=GEN: with.reference.to.sth., about.sth.; INDR: action.affects.sth.in.an.indirect.manner]ako[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
+
+pavachori	[=pavachori+m.+poss@ti.][NRoot][=uncle (kin.of.a.male)]
+
+pamaki	[=pamaki][NRoot][=tree.sp. (ES: chimicua, sp.de.árbol)]
+
+iraka	[=iraka][NRoot][=ripe (ES: maduro)]
+
+tonkareki	[=tonkare+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="470">
