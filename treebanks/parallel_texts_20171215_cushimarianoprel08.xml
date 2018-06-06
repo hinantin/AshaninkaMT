@@ -11520,15 +11520,35 @@ pampiamentotsi	[=pampia][VRoot][=to.cross.river (by.boat/canoe/a_bridge)][--][-m
 
 heekatsiri	[=heek][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir); to.be][--][-atsi][Asp][+STAT.IPRF]atsi[--][=ri][NS][+REL]
 
+kemariariki	[=kemariari][NRoot][=place.name][--][-ki][Cas][+LOC_LOC.T]
 
+.	.[$.]
 
 </morphology>
         <parsing/>
     </text>
     <text id="471">
-        <sentence lang="prq">Iroka ebankabo pankibaerento te omakoneti antabaeti.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iroka ebankabo pankibaerento te omakoneti antabaeti.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iroka evankavo pankivaerento te omakoneti antavaeti.</sentence>
         <sentence lang="es">Esta joven sembradora no se cansa de trabajar.</sentence>
-        <morphology/>
+        <morphology>
+
+
+iroka	[=iroka+n.m.+proximal.b.][PrnDem][=this (ES: esta)]
+
+evankavo	[=evankavo+n.m.][NRoot][=young.woman, adolescent]
+
+???
+
+te	[=te+future.neg.][Neg][=NEG.REAL]
+
+???
+
+antavaeti	[=antavae][VRoot][=to.work (ES: trabajar)][--][-t][+EP]t[--][-i][+IRR]i
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="472">
