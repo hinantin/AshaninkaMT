@@ -11364,9 +11364,15 @@ pankotsiki	[=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)][
         <parsing/>
     </text>
     <text id="463">
-        <sentence lang="prq">Nantake pabitsi nataetakotantyaabori kiri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Nantake pabitsi nataetakotantyaabori kiri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Nantake pavitsi nataetakotantyaavori kiri.</sentence>
         <sentence lang="es">Hice una escalera para subir al pijuayo.</sentence>
-        <morphology/>
+        <morphology>
+
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="464">
