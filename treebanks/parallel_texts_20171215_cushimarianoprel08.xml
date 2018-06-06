@@ -11508,9 +11508,21 @@ tonkareki	[=tonkare+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas][+
         <parsing/>
     </text>
     <text id="470">
-        <sentence lang="prq">Makaatake pampiamentotsi jeekatsiri Kemariariki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Makaatake pampiamentotsi jeekatsiri Kemariariki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Makaatake pampiamentotsi heekatsiri Kemariariki.</sentence>
         <sentence lang="es">El puente de la quebrada Kemariari está por caerse.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+???
+
+pampiamentotsi	[=pampia][VRoot][=to.cross.river (by.boat/canoe/a_bridge)][--][-mento+n.m.][NS][+NMZ.CONCR]mento[--][-tsi+alien.][Gen][+nposs]tsi
+
+heekatsiri	[=heek][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir); to.be][--][-atsi][Asp][+STAT.IPRF]atsi[--][=ri][NS][+REL]
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="471">
