@@ -11446,9 +11446,23 @@ pava	[=pava+m.+poss@ni.][NRoot][=solar.deity; god (ES: dios); creator (PT: Deus.
         <parsing/>
     </text>
     <text id="467">
-        <sentence lang="prq">Robabo shabo pajotiki tonkariki</sentence>
+        <sentence lang="prq" normalizationlevel="none">Robabo shabo pajotiki tonkariki</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovavo shavo pahotiki tonkariki</sentence>
         <sentence lang="es">El añuje come almendras en el cerro.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+rovavo	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-a][+REAL]a[--][=vo][+3n.m.O]
+
+shavo	[=shavo+m.][NRoot][=rodent.sp. (añuje, agutí, agouti, cutpe; sci.nm.: dasyprocta.variegata)]
+
+pahotiki	[=pahotiki+n.m.][NRoot][=wild.edible.fruit.sp. (ES: almendra, castaña); almond-like.fruit.sp.]
+
+tonkariki	[=tonkari+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="468">
