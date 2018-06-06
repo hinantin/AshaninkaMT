@@ -11384,9 +11384,21 @@ kiri	[=kiri][NRoot][=palm.tree.sp. (ES: pijuayo, pifayo, chonta; sci.nm.: juania
         <parsing/>
     </text>
     <text id="464">
-        <sentence lang="prq">Ijaakero Tyonkishori piarentsi ibachakateki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ijaakero Tyonkishori piarentsi ibachakateki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ihaakero Tyonkishori piarentsi ivachakateki.</sentence>
         <sentence lang="es">Tyonkishori llenó masato en su porongo.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph">
+
+
+ihaakero	[i-][VPers][3m.S/A+][--][=ha][VRoot][=to.fill.sth.][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e[--][=ro][+3n.m.O]
+
+tyonkishori	[=tyonkishori][NRoot][=person's.name, NP]
+
+piarentsi	[=pyare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma.brava/forte)][--][-ntsi+alien.][Gen][+nposs]ntsi
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="465">
