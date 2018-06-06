@@ -11455,7 +11455,7 @@ pava	[=pava+m.+poss@ni.][NRoot][=solar.deity; god (ES: dios); creator (PT: Deus.
 rovavo	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-a][+REAL]a[--][=vo][+3n.m.O]
 
 shavo	[=shavo+m.][NRoot][=rodent.sp. (añuje, agutí, agouti, cutpe; sci.nm.: dasyprocta.variegata)]
-
+ 
 pahotiki	[=pahotiki+n.m.][NRoot][=wild.edible.fruit.sp. (ES: almendra, castaña); almond-like.fruit.sp.]
 
 tonkariki	[=tonkari+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas][+LOC_LOC.T]
@@ -11466,9 +11466,23 @@ tonkariki	[=tonkari+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas][+
         <parsing/>
     </text>
     <text id="468">
-        <sentence lang="prq">Raanakeri pakitsa otyaapanikite nishintyo.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Raanakeri pakitsa otyaapanikite nishintyo.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Raanakeri pakitsa otyaapanikite nishintyo.</sentence>
         <sentence lang="es">El gavilán llevó al pollito de mi hija.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+raanakeri	[r-][VPers][3m.S/A+][--][=a][VRoot][=to.take (ES: agarrar)][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e[--][=ri][+3m.O]
+
+pakitsa	[=pakitsa+m.][NRoot][=hawk.sp., sparrow.hawk.sp.]
+
+otyaapanikite	[o-][NPers][3n.m.poss+][--][=tyaapa+n.m.+poss@te.][NRoot][=hen (ES: gallina); chicken][--][-niki][+DIM][--][-te][Gen][+aln.poss.]te
+
+nishintyo	[n-][NPers][1SG.poss+][--][=ishintyo+n.m.][NRoot][=daughter (kin.of.a.fe/male)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="469">
