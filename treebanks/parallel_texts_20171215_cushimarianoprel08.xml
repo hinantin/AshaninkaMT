@@ -11555,7 +11555,20 @@ antavaeti	[=antavae][VRoot][=to.work (ES: trabajar)][--][-t][+EP]t[--][-i][+IRR]
     <text id="472">
         <sentence lang="prq">Iroka otaki pankirentsi kametsari ashi shibaerontsi.</sentence>
         <sentence lang="es">La corteza de esta planta es buena para la diarrea.</sentence>
-        <morphology format="ashaninkamorph"/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+iroka	[=iroka+n.m.+proximal.b.][PrnDem][=this (ES: esta)]
+
+otaki	[o-][NPers][3n.m.poss+][--][=taki+n.m.+inal@tsi.][NRoot][=shell (ES: caparazón); peel (ES: cáscara); skin]
+
+pankirentsi	[=pankire+m.+inal@ntsi.][NRoot][=plant (ES: planta)][--][-ntsi+alien.][Gen][+nposs]ntsi
+
+kametsari	[=kametsa][VRoot][=to.be.good][--][-ri+m.][NS][+NMZ]ri
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="473">
