@@ -11340,9 +11340,27 @@ rovashiroki	[r-][NPers][3m.poss+][--][=ovashi][VRoot][=to.build.a.hunter's.hidin
         <parsing/>
     </text>
     <text id="462">
-        <sentence lang="prq">Okantakena nishintyo: Areetaka pabaeni pankotsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Okantakena nishintyo: Areetaka pabaeni pankotsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Okantakena nishintyo: Areetaka pavaeni pankotsiki.</sentence>
         <sentence lang="es">Mi hija me dijo: “Mi tío llegó a la casa”.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+okantakena	[o-][VPers][3n.m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e[--][=na][+1SG.O]
+
+nishintyo	[n-][NPers][1SG.poss+][--][=ishintyo+n.m.][NRoot][=daughter (kin.of.a.fe/male)]
+
+:	:[$.]
+
+areetaka	[=aree][VRoot][=to.arrive (ES: llegar); to.visit.with.sb.][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a][+REAL]a
+
+pavaeni	[=pavaeni+m.][NRoot][=uncle (ES: tío)]
+
+pankotsiki	[=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)][--][-tsi+alien.][Gen][+nposs]tsi[--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="463">
