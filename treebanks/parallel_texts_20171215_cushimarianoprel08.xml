@@ -11618,9 +11618,21 @@ charava	[=charava][NRoot][=fish.sp. (ES: súngaro, pez.saltón); gilded.catfish.
         <parsing/>
     </text>
     <text id="475">
-        <sentence lang="prq">Amaatake pantyo inkaareki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Amaatake pantyo inkaareki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Amaatake pantyo inkaareki.</sentence>
         <sentence lang="es">El pato nada en la cocha.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+amaatake	[=ama][VRoot][=to.swim][--][-a][+REP][=again.and.again]a[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
+
+pantyo	[=pantyo+m.][NRoot][=wild.duck.sp. (ES: pato); least.grebe (sci.nm.: podiceps.dominicus)]
+
+inkaareki	[=inkaare+n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="476">
