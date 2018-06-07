@@ -11577,10 +11577,24 @@ shivaerontsi	[=shi][VRoot][=to.defecate.on.sth. (ES: defecar)][--][-vae][ASP][+D
         <parsing/>
     </text>
     <text id="473">
-        <sentence lang="prq">Robetsikaeyeni Obenijati pankotsi imaantyaari areetinkari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Robetsikaeyeni Obenijati pankotsi imaantyaari areetinkari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovetsikaeyeni Ovenihati pankotsi imaantyaari areetinkari.</sentence>
         <sentence lang="es">Los comuneros de Unini construyen una casa para alojar a los visitantes.</sentence>
         <!-- los habitantes de Unini construyen una casa para que los visitantes duerman. -->
-        <morphology/>
+        <morphology>
+
+
+rovetsikaeyeni	[ro-][VPers][3n.m.S/A+][--][=vetsik][VRoot][=to.fix; to.make (ES: preparar.comida/bebida); to.create, to.build][--][-aey][+PL]aey[--][-e][+REAL]e[--][-ni+circumfixing][+PL]
+
+ovenihati	[=oveni][NRoot][=Unini.river (ES: río.Unini)][--][-hati+m.][NS][+CL:provenance][=human.provenance, inhabitant.of.swh.]
+
+pankotsi	[=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)][--][-tsi+alien.][Gen][+nposs]tsi
+
+imaantyaari	[i-][VPers][3m.S/A+][--][=ma][VRoot][=to.sleep (ES: dormir)][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-yaa][+IRR]yaa[--][=ri][NS][+REL]
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="474">
