@@ -11847,9 +11847,25 @@ ochempeki	[=ochempe][NRoot][=hill (ES: cerro)][--][-ki][Cas][+LOC_LOC.T]
         <parsing/>
     </text>
     <text id="486">
-        <sentence lang="prq">Otimi osheki ipatsabo iitoki eentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Otimi osheki ipatsabo iitoki eentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Otimi osheki ipatsavo iitoki eentsi.</sentence>
         <sentence lang="es">El niño tiene muchas heridas en la cabeza.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+otimi	[o-][VPers][3n.m.S/A+][--][=tim][VRoot][=POSSESS (EN: to.have; ES: tener); to.give.birth][--][-i][+REAL]i
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+ipatsavo	[i-][NPers][3m.poss+][--][=patsa][VRoot][=to.have.a.skin.sore, to.have.a.wound; to.rot; to.have.a.wet.wound.with.pus][--][-vo+n.m.][NS][+NMZ]vo
+
+iitoki	[i-][NPers][3m.poss+][--][=ito+n.m.+inal@ntsi.][NRoot][=head (ES: cabeza)][--][-ki][Cas][+LOC_LOC.T]
+
+eentsi	[=eentsi+n./m.+poss@te.][NRoot][=child (ES: niño)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="487">
