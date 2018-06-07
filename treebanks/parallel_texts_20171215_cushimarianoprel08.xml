@@ -11809,15 +11809,41 @@ kametsa	[=kametsa][NRoot][=well (ES: bien), good]
         <parsing/>
     </text>
     <text id="484">
-        <sentence lang="prq">Robanabo pashiti iraantsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Robanabo pashiti iraantsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovanavo pashiti iraantsi.</sentence>
         <sentence lang="es">La garrapata se alimenta de sangre.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+rovanavo	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-a][+REAL]a[--][=vo][+3n.m.O]
+
+pashiti	[=pashiti][NRoot][=tick.sp. (ES: garrapata)]
+
+iraantsi	[=iraa+n.m.+inal@ntsi.+poss@ni.][NRoot][=blood (ES: sangre)][--][-ntsi+alien.][Gen][+nposs]ntsi
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="485">
-        <sentence lang="prq">Robakabo tsobero patintoki ochempeki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Robakabo tsobero patintoki ochempeki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovakavo tsovero patintoki ochempeki.</sentence>
         <sentence lang="es">El maquisapa comió zapote en el cerro.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+rovakavo	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a][+REAL]a[--][=vo][+3n.m.O]
+
+tsovero	[=tsovero+m.][NRoot][=spider.monkey.sp. (ES: maquisapa, QU: makisapa; sci.nm.: ateles.paniscus, lagothrrix.lagothricha)]
+
+patintoki	[=patintoki+n.m.][NRoot][=zapote-like.tree.sp. (ES: zapote)]
+
+ochempeki	[=ochempe][NRoot][=hill (ES: cerro)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="486">
