@@ -11869,9 +11869,27 @@ eentsi	[=eentsi+n./m.+poss@te.][NRoot][=child (ES: niño)]
         <parsing/>
     </text>
     <text id="487">
-        <sentence lang="prq">Iyati nanaeni inkaareki ayi patsiri oyaari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iyati nanaeni inkaareki ayi patsiri oyaari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iyati nanaeni inkaareki ayi patsiri oyaari.</sentence>
         <sentence lang="es">Mi tía se va a la cocha a juntar ranas para comer.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+iyati	[=iya][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-i][+REAL]i
+
+nanaeni	[=nanaeni+n.m.+voc.+poss@te.][NRoot][=aunt (kin.of.a.female)]
+
+inkaareki	[=inkaare+n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)][--][-ki][Cas][+LOC_LOC.T]
+
+ayi	[=ay][VRoot][=to.get][--][-i][+REAL]i
+
+patsiri	[=patsiri][NRoot][=partridge.sp. (sp.de.perdiz; sci.nm.: crypturellus.tataupa); little.river-toad.sp. (ES: sp.de.sapito.de.río)]
+
+oyaari	[=oy][VRoot][=to.eat (ES: comer)][--][-a][+EP]a[--][-a][+REAL]a[--][=ri][NS][+REL]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="488">
