@@ -11656,9 +11656,23 @@ shiketi	[=shiketi][NRoot][=(small).armored.catfish.sp. (ES: carachama.pequeña),
         <parsing/>
     </text>
     <text id="477">
-        <sentence lang="prq">Robabo pareto ishinkine Koriobiri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Robabo pareto ishinkine Koriobiri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovavo pareto ishinkine Korioviri.</sentence>
         <sentence lang="es">El pareto come el maíz de Koriowiri.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+rovavo	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-a][+REAL]a[--][=vo][+3n.m.O]
+
+pareto	[=pareto+m.][NRoot][=small.parrot.sp. (ES: sp.de.lorito, loro.choclero; sci.nm.: bolborhynchus.orbignesius, bolborhynchus.lineola)]
+
+ishinkine	[i-][NPers][3m.poss+][--][=shinki+m.+poss@ne:ni.][NRoot][=corn, maize (ES: maíz, botany.nm.: zea.maíz)][--][-ne][Gen][+aln.poss.]ne
+
+korioviri	[=korioviri][NRoot][=person's.name]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="478">
