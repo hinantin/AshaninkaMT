@@ -11676,9 +11676,23 @@ korioviri	[=korioviri][NRoot][=person's.name]
         <parsing/>
     </text>
     <text id="478">
-        <sentence lang="prq">Opariaki nana jenoki opankoki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Opariaki nana jenoki opankoki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Opariaki nana henoki opankoki.</sentence>
         <sentence lang="es">Mi mamá se cayó desde lo alto de su casa al suelo.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+opariaki	[o-][VPers][3n.m.S/A+][--][=pari][VRoot][=to.fall (ES: caer)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-i][+REAL]i
+
+nana	[=nana+n.m.+voc.+poss@te:ti.][NRoot][=mom, mother (kin.of.a.fe/male; ES: mamá)]
+
+henoki	[=henoki][NRoot][=top (ES: arriba, alto); sky]
+
+opankoki	[o-][NPers][3n.m.poss+][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="479">
