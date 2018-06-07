@@ -11742,21 +11742,70 @@ mapi	[=mapi+n.m.+poss@ni:ne.][NRoot][=stone; rock]
         <parsing/>
     </text>
     <text id="481">
-        <sentence lang="prq">Ichekati ani pashiitoki rantantyari ishintipare</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ichekati ani pashiitoki rantantyari ishintipare</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ichekati ani pashiitoki rantantyari ishintipare</sentence>
         <sentence lang="es">Mi cuñado corta varias topas para construir una balsa.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ichekati	[i-][VPers][3m.S/A+][--][=chek][VRoot][=to.cut (ES: cortar)][--][-ati][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]ati
+
+ani	[=ani+m.+poss@ri.][NRoot][=brother.in.law (kin.of.a.male)]
+
+pashiitoki	[=pashiitoki][NRoot][=tree.sp. (ES: topa); balsa.stick]
+
+rantantyari	[r-][VPers][3m.S/A+][--][=ant][VRoot][=to.beat, to.hit; to.build, to.do, to.make][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-ya][+IRR]ya[--][=ri][+3m.O]
+
+ishintipare	[i-][NPers][3m.poss+][--][=shintipa+n.m.+poss@re.][NRoot][=raft, balsa][--][-re][Gen][+aln.poss.]re
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="482">
-        <sentence lang="prq">Raanakero yeye pashikaamentotsi ipashikantyaari shima.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Raanakero yeye pashikaamentotsi ipashikantyaari shima.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Raanakero yeye pashikaamentotsi ipashikantyaari shima.</sentence>
         <sentence lang="es">Mi hermano llevó la tarrafa para tarrafear peces.</sentence>
-        <morphology/>
+        <morphology>
+
+
+raanakero	[r-][VPers][3m.S/A+][--][=a][VRoot][=to.take (ES: agarrar)][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e[--][=ro][+3n.m.O]
+
+yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
+
+pashikaamentotsi	[=pashika][VRoot][=to.cover (ES: cubrir, tapar)][--][-a][+EP]a[--][-mento+n.m.][NS][+NMZ.CONCR]mento[--][-tsi+alien.][Gen][+nposs]tsi
+
+ipashikantyaari	[i-][VPers][3m.S/A+][--][=pashik][VRoot][=to.cover (ES: cubrir, tapar)][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-yaa][+IRR]yaa[--][=ri][+3m.O]
+
+shima	[=shima+m.+poss@ni.][NRoot][=fish; fish.sp., boquichico-fish (ES: boquichico, chupadora; sci.nm.: prochilodus.nigricans)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="483">
-        <sentence lang="prq">Iroka pashikabontsi obakerari ojaabati kametsa.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iroka pashikabontsi obakerari ojaabati kametsa.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iroka pashikavontsi ovakerari ohaavati kametsa.</sentence>
         <sentence lang="es">Esta colcha nueva calienta muy bien.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+iroka	[=iroka+n.m.+proximal.b.][PrnDem][=this (ES: esta)]
+
+pashikavontsi	[=pashikavo+n.m.+inal@ntsi.][NRoot][=blanket (ES: colcha, cobija)][--][-ntsi+alien.][Gen][+nposs]ntsi
+
+???
+ovakerari	[=ovakerari][NRoot][=new, recent]
+
+ohaavati	[o-][VPers][3n.m.S/A+][--][=haava][VRoot][=to.heat (ES: hacer.hervir); to.incubate (ES: incubar)][--][-t][+EP]t[--][-i][+REAL]i
+
+kametsa	[=kametsa][NRoot][=well (ES: bien), good]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="484">
