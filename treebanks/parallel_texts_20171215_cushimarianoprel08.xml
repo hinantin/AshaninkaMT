@@ -11720,9 +11720,25 @@ kitsarentsi	[=kitsare+m.+inal@ntsi.][NRoot][=dress, cushma, cloth][--][-ntsi+ali
         <parsing/>
     </text>
     <text id="480">
-        <sentence lang="prq">Pashibentaka ebankari tema rantibatakaro mapi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Pashibentaka ebankari tema rantibatakaro mapi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Pashiventaka evankari tema rantivatakaro mapi.</sentence>
         <sentence lang="es">El joven tuvo vergüenza porque se tropezó con la piedra.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+pashiventaka	[p-][VPers][2S/A+][--][=ashi][VRoot][=to.have; to.own, to.possess][--][-vent][+APPL.BEN][=action.done.for.sb.else]vent[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a][+REAL]a
+
+evankari	[=evankari+m.][NRoot][=young.man, adolescent]
+
+tema	[=tema][OtherRoot][=because (ES: porque); maybe (ES: como, ya.que, puesto.que)]
+
+rantivatakaro	[r-][VPers][3m.S/A+][--][=antiva][VRoot][=to.trip.(over.sth.) (ES: tropezar)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a][+REAL]a[--][=ro][+3n.m.O]
+
+mapi	[=mapi+n.m.+poss@ni:ne.][NRoot][=stone; rock]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="481">
