@@ -11696,9 +11696,27 @@ opankoki	[o-][NPers][3n.m.poss+][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: c
         <parsing/>
     </text>
     <text id="479">
-        <sentence lang="prq">Okantana nana: Pashi iroka kitsarentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Okantana nana: Pashi iroka kitsarentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Okantana nana: Pashi iroka kitsarentsi.</sentence>
         <sentence lang="es">Mi mamá me dice: “La ropa es tuya”.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+okantana	[o-][VPers][3n.m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-a][+REAL]a[--][=na][+1SG.O]
+
+nana	[=nana+n.m.+voc.+poss@te:ti.][NRoot][=mom, mother (kin.of.a.fe/male; ES: mamá)]
+
+:	:[$.]
+
+pashi	[=pashi][PrnPoss][+2SG][=yours (ES: tuyo)]
+
+iroka	[=iroka+n.m.+proximal.b.][PrnDem][=this (ES: esta)]
+
+kitsarentsi	[=kitsare+m.+inal@ntsi.][NRoot][=dress, cushma, cloth][--][-ntsi+alien.][Gen][+nposs]ntsi
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="480">
