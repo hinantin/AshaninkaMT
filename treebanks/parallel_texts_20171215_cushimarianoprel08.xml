@@ -11600,9 +11600,21 @@ areetinkari	[=aree][VRoot][=to.arrive (ES: llegar); to.visit.with.sb.][--][-tink
         <parsing/>
     </text>
     <text id="474">
-        <sentence lang="prq">Antabo ipante charaba.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Antabo ipante charaba.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Antavo ipante charava.</sentence>
         <sentence lang="es">La boca del súngaro es grande.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+antavo	[=antavo+n.m.][AdjRoot][=big; mature]
+
+ipante	[i-][NPers][3m.poss+][--][=pante+n.m.+inal@ntsi.][NRoot][=mouth (ES: boca)]
+
+charava	[=charava][NRoot][=fish.sp. (ES: súngaro, pez.saltón); gilded.catfish.sp.; zungaro-fish (ES: súngaro)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="475">
