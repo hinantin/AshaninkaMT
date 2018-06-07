@@ -11636,9 +11636,23 @@ inkaareki	[=inkaare+n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)][--][-ki][
         <parsing/>
     </text>
     <text id="476">
-        <sentence lang="prq">Noñakeri parari robari shiketi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Noñakeri parari robari shiketi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Nonyakeri parari rovari shiketi.</sentence>
         <sentence lang="es">Vi al lobo marino comiendo carachamas.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+nonyakeri	[no-][VPers][1SG.S/A+][--][=ny][VRoot][=to.see, to.look.for; to.visit][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+parari	[=parari+m.][NRoot][=otter.sp., big.otter.sp. (ES: nutria; sci.nm.: mustela.africana); river.otter.sp. (ES: nutria)]
+
+rovari	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-a][+REAL]a[--][=ri][+3m.O]
+
+shiketi	[=shiketi][NRoot][=(small).armored.catfish.sp. (ES: carachama.pequeña), fish.sp.]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="477">
