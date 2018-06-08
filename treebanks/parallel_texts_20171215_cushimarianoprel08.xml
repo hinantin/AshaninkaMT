@@ -11893,7 +11893,8 @@ oyaari	[=oy][VRoot][=to.eat (ES: comer)][--][-a][+EP]a[--][-a][+REAL]a[--][=ri][
         <parsing/>
     </text>
     <text id="488">
-        <sentence lang="prq">Natantakaari payanti batsatsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Natantakaari payanti batsatsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Natantakaari payanti vatsatsi.</sentence>
         <sentence lang="es">Comí el plátano con la carne.</sentence>
         <morphology/>
         <parsing/>
