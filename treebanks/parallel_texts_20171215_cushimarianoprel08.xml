@@ -12011,9 +12011,23 @@ chomenta	[=chomenta+m.][NRoot][=freshwater.fish.sp. (ES: palometa; sci.nm.: mylo
         <parsing/>
     </text>
     <text id="494">
-        <sentence lang="prq">Okantakaantiro perantaantsi tekatsi oyaari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Okantakaantiro perantaantsi tekatsi oyaari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Okantakaantiro perantaantsi tekatsi oyaari.</sentence>
         <sentence lang="es">Por culpa de la ociosidad no hay nada que comer.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+okantakaantiro	[o-][VPers][3n.m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-aka][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]aka[--][-ant][+APPL.INST][=reason,instrumentality;in.order.to]ant[--][-i][+IRR]i[--][=ro][+3n.m.O]
+
+perantaantsi	[=per][VRoot][=to.be.idle, to.laze.around (ES: estar.con.pereza); to.bum.around (ES: vagar)][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-aantsi][NS][+NMZ.INF]aantsi
+
+tekatsi	[=tekatsi][Neg][=NEG.EXIST (EN: there.is.nothing); NOT.POSSESS (ES: no.tener.nada)]
+
+oyaari	[=oy][VRoot][=to.eat (ES: comer)][--][-a][+EP]a[--][-a][+REAL]a[--][=ri][NS][+REL]
+
+,	,[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="495">
