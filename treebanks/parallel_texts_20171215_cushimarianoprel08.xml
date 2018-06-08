@@ -11973,9 +11973,23 @@ ovaantsi	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land 
         <parsing/>
     </text>
     <text id="492">
-        <sentence lang="prq">Ratsimiyakeri penta irira yeye.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ratsimiyakeri penta irira yeye.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ratsimiyakeri penta irira yeye.</sentence>
         <sentence lang="es">El chupasangre le chupó sangre a mi hermano.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ratsimiyakeri	[r-][VPers][3m.S/A+][--][=atsimiy][VRoot][=to.suck (ES: chupar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+penta	[=penta][NRoot][=aquatic.bloodsucker.bug (ES: bicho.chupasangre.acuático); planaria.sp. (ES: sp.planaria; sci.nm.: orden.tremátode)]
+
+irira	[=irira+m.+medial][PrnDem][=~]
+
+yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
+
+,	,[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="493">
