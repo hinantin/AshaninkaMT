@@ -11993,9 +11993,21 @@ yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: h
         <parsing/>
     </text>
     <text id="493">
-        <sentence lang="prq">Orianeeriki ipentaki chomenta</sentence>
+        <sentence lang="prq" normalizationlevel="none">Orianeeriki ipentaki chomenta</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Orianeeriki ipentaki chomenta</sentence>
         <sentence lang="es">Las escamas de la palometa son muy pequeñas.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+orianeeriki	[=orianeeriki+n.m.][NRoot][=small (ES: pequeño)]
+
+ipentaki	[i-][NPers][3m.poss+][--][=pentaki+n.m.+inal@ntsi.][NRoot][=fish.scale (ES: escama.de.pez)]
+
+chomenta	[=chomenta+m.][NRoot][=freshwater.fish.sp. (ES: palometa; sci.nm.: mylossoma.sp.)]
+
+,	,[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="494">
