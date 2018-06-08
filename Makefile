@@ -16,6 +16,7 @@ compile:
 	@echo "to_hunt" | lt-proc en-cni.bin
 	@echo "but" | lt-proc en-cni.bin
 	@lt-comp lr prq.monodix prq-monodix.bin
+	@cp /usr/local/share/freeling/pt/locucions.dat freeling/pt
 
 
 
