@@ -12053,9 +12053,25 @@ ivane	[i-][NPers][3m.poss+][--][=va+n.m.+poss@ni:ne.+voc@1SG.][NRoot][=sown.fiel
         <parsing/>
     </text>
     <text id="496">
-        <sentence lang="prq">Rapeyakero periki shinki nopankiterime ojarentsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Rapeyakero periki shinki nopankiterime ojarentsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rapeyakero periki shinki nopankiterime oharentsiki.</sentence>
         <sentence lang="es">La polilla se comió el maíz que guardaba para sembrar en el verano</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+???
+
+periki	[=periki][NRoot][=moth.sp. (ES: sp.de.polilla)]
+
+shinki	[=shinki+m.+poss@ne:ni.][NRoot][=corn, maize (ES: maíz, botany.nm.: zea.maíz)]
+
+nopankiterime	[no-][VPers][1SG.S/A+][--][=panki][VRoot][=to.plant, to.sow (ES: sembrar)][--][-t][+EP]t[--][-e][+REAL]e[--][=ri][+3m.O][--][=me][MODAL][+CNT.F][=if-clause.expressing.an.idea/assumption/argument.contrary.to.fact]
+
+oharentsiki	[o-][NPers][3n.m.poss+][--][=harentsi+m.][NRoot][=year (ES: año); dry.season/summer (ES: verano)][--][-ki][Cas][+LOC_LOC.T]
+
+,	,[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="497">
