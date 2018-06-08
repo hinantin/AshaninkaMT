@@ -12078,7 +12078,24 @@ oharentsiki	[o-][NPers][3n.m.poss+][--][=harentsi+m.][NRoot][=year (ES: año); d
         <sentence lang="prq" normalizationlevel="none">Ipankitaetiro opeshi tibana eejati parianti obaantsiki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ipankitaetiro opeshi tivana eehati parianti ovaantsiki.</sentence>
         <sentence lang="es">Los retoños de la piña y del plátano se siembran en la chacra.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ipankitaetiro	[i-][VPers][3m.S/A+][--][=panki][VRoot][=to.plant, to.sow (ES: sembrar)][--][-t][+EP]t[--][-ae][+IMP.P]ae[--][-t][+EP]t[--][-i][+REAL]i[--][=ro][+3n.m.O]
+
+opeshi	[o-][NPers][3n.m.poss+][--][=peshi+n.m.+inal@tsi.][NRoot][=shoot (ES: retoño)]
+
+tivana	[=tivana+n.m.+poss@ti.][NRoot][=pineapple (ES: piña; botany.nm.: ananas.comosus)]
+
+eehati	[=eehati][ConnRoot][=also (ES: también); and (ES: y)]
+
+parianti	[=parianti+n.m.+poss@te:ti.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]
+
+ovaantsiki	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra; PT: roçado)][--][-ntsi+alien.][Gen][+nposs]ntsi[--][-ki][Cas][+LOC_LOC.T]
+
+,	,[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="498">
