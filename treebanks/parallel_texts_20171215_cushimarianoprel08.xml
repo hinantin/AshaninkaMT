@@ -12031,9 +12031,25 @@ oyaari	[=oy][VRoot][=to.eat (ES: comer)][--][-a][+EP]a[--][-a][+REAL]a[--][=ri][
         <parsing/>
     </text>
     <text id="495">
-        <sentence lang="prq">Atiri peranti te otime ibane.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Atiri peranti te otime ibane.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Atiri peranti te otime ivane.</sentence>
         <sentence lang="es">El hombre ocioso no tiene chacra.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+atiri	[=atiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]
+
+peranti	[=pera][VRoot][=to.be.idle, to.laze.around (ES: estar.con.pereza); to.bum.around (ES: vagar)][--][-nti+m.][NS][+ADJ.PARTIC]nti
+
+te	[=te+future.neg.][Neg][=NEG.REAL]
+
+otime	[o-][VPers][3n.m.S/A+][--][=tim][VRoot][=POSSESS (EN: to.have; ES: tener); to.give.birth][--][-e][+REAL]e
+
+ivane	[i-][NPers][3m.poss+][--][=va+n.m.+poss@ni:ne.+voc@1SG.][NRoot][=sown.field, sown.plot.of.land (ES: chacra; PT: roçado)][--][-ne][Gen][+aln.poss.]ne
+
+,	,[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="496">
