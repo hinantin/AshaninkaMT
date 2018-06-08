@@ -11935,7 +11935,7 @@ novaneki	[n-][NPers][1SG.poss+][--][=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ayi isheeni payantishi opashikakotantyaavori opiare.</sentence>
         <sentence lang="es">La abuela trae hojas de plátano para tapar el masato.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
-
+aaa|AAAAAAAA
 
 ayi	[=ay][VRoot][=to.get][--][-i][+REAL]i
 
@@ -11953,9 +11953,21 @@ opiare	[o-][NPers][3n.m.poss+][--][=piare+n.m.+inal@ntsi.][NRoot][=manioc.beer (
         <parsing/>
     </text>
     <text id="491">
-        <sentence lang="prq">Ipejatiro atiripaeni antami, rantantyabori obaantsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ipejatiro atiripaeni antami, rantantyabori obaantsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ipehatiro atiripaeni antami, rantantyavori ovaantsi.</sentence>
         <sentence lang="es">La gente roza el monte para hacer chacras.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ipehatiro	[i-][VPers][3m.S/A+][--][=peh][VRoot][=to.clear.land.in.order.to.be.cultivated (ES: rozar, limpiar.un.terreno.de.bosque.para.ser.cultivado; PT: roçar)][--][-ati][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]ati[--][=ro][+3n.m.O]
+
+atiripaeni	[=atiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)][--][-paeni][Num][+PL]
+
+antami	[=antami][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.forest]
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="492">
