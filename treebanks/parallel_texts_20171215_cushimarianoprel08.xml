@@ -12075,7 +12075,8 @@ oharentsiki	[o-][NPers][3n.m.poss+][--][=harentsi+m.][NRoot][=year (ES: año); d
         <parsing/>
     </text>
     <text id="497">
-        <sentence lang="prq">Ipankitaetiro opeshi tibana eejati parianti obaantsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ipankitaetiro opeshi tibana eejati parianti obaantsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ipankitaetiro opeshi tivana eehati parianti ovaantsiki.</sentence>
         <sentence lang="es">Los retoños de la piña y del plátano se siembran en la chacra.</sentence>
         <morphology/>
         <parsing/>
