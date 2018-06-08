@@ -11896,19 +11896,60 @@ oyaari	[=oy][VRoot][=to.eat (ES: comer)][--][-a][+EP]a[--][-a][+REAL]a[--][=ri][
         <sentence lang="prq" normalizationlevel="none">Natantakaari payanti batsatsi.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Natantakaari payanti vatsatsi.</sentence>
         <sentence lang="es">Comí el plátano con la carne.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+natantakaari	[n-][VPers][1SG.S/A+][--][=a][VRoot][=to.take (ES: agarrar)][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a][+EP]a[--][-a][+REAL]a[--][=ri][+3m.O]
+
+payanti	[=payanti+n.m.+poss@te:ti.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)]
+
+vatsatsi	[=vatsa+n./m.+inal@tsi.][NRoot][=meat (ES: carne), mass; flesh, body (ES: cuerpo); inner.part.of.sth. (tender.part, cogollo)][--][-tsi+alien.][Gen][+nposs]tsi
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="489">
-        <sentence lang="prq">Naati payantipeshi nopankiteri nobaneki. </sentence>
+        <sentence lang="prq" normalizationlevel="none">Naati payantipeshi nopankiteri nobaneki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Naati payantipeshi nopankiteri novaneki.</sentence>
         <sentence lang="es">Estoy sacando el machiki del plátano para sembrarlo en mi chacra.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+naati	[n-][VPers][1SG.S/A+][--][=a][VRoot][=to.take (ES: agarrar)][--][-ati][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]ati
+
+payantipeshi	[=payanti+n.m.+poss@te:ti.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)][--][=peshi+n.m.+inal@tsi.][NRoot][=shoot (ES: retoño)]
+
+nopankiteri	[no-][VPers][1SG.S/A+][--][=panki][VRoot][=to.plant, to.sow (ES: sembrar)][--][-t][+EP]t[--][-e][+IRR]e[--][=ri][+3m.O]
+
+novaneki	[n-][NPers][1SG.poss+][--][=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra; PT: roçado)][--][-ne][Gen][+aln.poss.]ne[--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="490">
-        <sentence lang="prq">Ayi isheeni payantishi opashikakotantyaabori opiare.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ayi isheeni payantishi opashikakotantyaabori opiare.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ayi isheeni payantishi opashikakotantyaavori opiare.</sentence>
         <sentence lang="es">La abuela trae hojas de plátano para tapar el masato.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ayi	[=ay][VRoot][=to.get][--][-i][+REAL]i
+
+isheeni	[=isheeni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
+
+payantishi	[=payanti+n.m.+poss@te:ti.][NRoot][=plantain (banana-like.fruit.that.needs.cooking, sci.nm.: musa.sp.); banana (fruit)][--][-shi][+CL:L.S.T.F.F][=leaf;small,thin,flexible,flat;leafy.substance]
+
+opashikakotantyaavori	[o-][VPers][3n.m.S/A+][--][=pashik][VRoot][=to.cover (ES: cubrir, tapar)][--][-ako][VS][+APPL.GEN][=GEN: with.reference.to.sth., about.sth.; INDR: action.affects.sth.in.an.indirect.manner]ako[--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-yaa][+IRR]yaa[--][=vo][+3n.m.O][--][=ri][NS][+REL]
+
+opiare	[o-][NPers][3n.m.poss+][--][=piare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma.brava/forte)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="491">
