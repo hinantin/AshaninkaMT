@@ -12164,9 +12164,27 @@ tyoviri	[=Tyoviri][NRoot][=proper.name]
         <parsing/>
     </text>
     <text id="501.1">
-        <sentence lang="prq">Piyate pimpichero iroka kamantaantsi ipankoki pinkatsari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Piyate pimpichero iroka kamantaantsi ipankoki pinkatsari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Piyate pimpichero iroka kamantaantsi ipankoki pinkatsari.</sentence>
         <sentence lang="es">Ve a pegar el aviso en la casa del jefe.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+piyate	[p-][VPers][2S/A+][--][=iya][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-e][+IRR]e
+
+pimpichero	[pi-][VPers][2S/A+][--][N=][IRR+][--][=pich][VRoot][=to.grind.sth., to.get.softer, to.crush.sth.][--][-e][+REAL]e[--][=ro][+3n.m.O]
+
+iroka	[=iroka+n.m.+proximal.b.][PrnDem][=this (ES: esta)]
+
+kamantaantsi	[=kamant][VRoot][=to.inform; to.advise][--][-aantsi][NS][+NMZ.INF]aantsi
+
+ipankoki	[i-][NPers][3m.poss+][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)][--][-ki][Cas][+LOC_LOC.T]
+
+pinkatsari	[=pinkatsari+m.+voc.+poss@te.][NRoot][=chief (ES: jefe); regional.leader]
+
+,	,[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="501.2">
