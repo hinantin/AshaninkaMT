@@ -12318,6 +12318,9 @@ iro	[=iro][ConnRoot][=but (ES: pero)]
 
 kantaenchari	[=kantaenchari][ConnRoot][=but (ES: pero)]
 
+piriintaha	[=piriin][VRoot][=to.lift.sth., to.pick.sth.up; to.get.up][--][-t][+EP]t[--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-a][+REAL]a
+
+.	.[$.]
 
 </morphology>
         <parsing/>
@@ -12325,7 +12328,7 @@ kantaenchari	[=kantaenchari][ConnRoot][=but (ES: pero)]
     <text id="507">
         <sentence lang="prq">Ikaemiro pirinto inkani ikanti: Joo joo joo...</sentence>
         <sentence lang="es">El hualo llama a la lluvia diciendo: “Joo, joo. joo...”.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 ikaemiro	[i-][VPers][3m.S/A+][--][=kaem][VRoot][=to.scream, to.call.sb. (to.inform.of.sth.)][--][-i][+REAL]i[--][=ro][+3n.m.O]
@@ -12350,15 +12353,43 @@ joo	[=hoo+s.redup.word][IdeoPRQ][=sound.made.by.a.hualo.frog.when.calling.the.ra
         <parsing/>
     </text>
     <text id="508">
-        <sentence lang="prq">Pishimentotsi aririka obakerate opishiti kametsa.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Pishimentotsi obakerate opishiti kametsa.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Pishimentotsi ovakerate opishiti kametsa.</sentence>
         <sentence lang="es">La escoba, cuando es nueva, barre bien.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+pishimentotsi	[=pishi][VRoot][=to.sweep][--][-mento+n.m.][NS][+NMZ.CONCR]mento[--][-tsi+alien.][Gen][+nposs]tsi
+
+ovakerate	[=ovakerate][NRoot][=new (ES: nuevo)]
+
+opishiti	[o-][VPers][3n.m.S/A+][--][=pishi][VRoot][=to.sweep][--][-t][+EP]t[--][-i][+IRR]i
+
+kametsa	[=kametsa][NRoot][=well (ES: bien), good]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="509">
-        <sentence lang="prq">Robakabo pishiti mapocha obantsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Robakabo pishiti mapocha obantsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Rovakavo pishiti mapocha ovantsiki.</sentence>
         <sentence lang="es">La pinsha comió papaya en la chacra.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+rovakavo	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a][+REAL.RFL]a[--][=vo][+3n.m.O]
+
+pishiti	[=pishiti+m.][NRoot][=small.toucan.sp. (ES: choquimbo, pinsha); brown-mandibled.aracari (sci.nm.: pteroglossus.mariac)]
+
+mapocha	[=mapocha+n.m.+poss@ti.][NRoot][=papaya (botany.nm.: carica.papaya)]
+
+ovantsiki	[=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra; PT: roçado)][--][-ntsi+alien.][Gen][+nposs]ntsi[--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="510">
