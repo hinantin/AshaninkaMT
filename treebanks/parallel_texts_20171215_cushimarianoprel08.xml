@@ -12121,7 +12121,8 @@ imantsiyatantanakari	[i-][VPers][3m.S/A+][--][=mantsiya][VRoot][=to.be.sick (ES:
         <parsing/>
     </text>
     <text id="499">
-        <sentence lang="prq">Naake kirikotake nantantyaari nobiamene. </sentence>
+        <sentence lang="prq" normalizationlevel="none">Naake kirikotake nantantyaari nobiamene.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Naake kirikotake nantantyaari noviamene.</sentence>
         <sentence lang="es">Saqué un tallo de pijuayo para hacer mi balista.</sentence>
         <morphology/>
         <parsing/>
