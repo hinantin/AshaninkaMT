@@ -12142,9 +12142,25 @@ noviamene	[no-][NPers][1SG.poss+][--][=piamene+n.m.][NRoot][=bow, weapon.for.sho
         <parsing/>
     </text>
     <text id="500">
-        <sentence lang="prq">Riraeyeni atiri piarentsi ipankoki Tyobiri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Riraeyeni atiri piarentsi ipankoki Tyobiri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Riraeyeni atiri piarentsi ipankoki Tyoviri.</sentence>
         <sentence lang="es">La gente toma masato en la casa de Tyobiri.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+riraeyeni	[r-][VPers][3m.S/A+][--][=ir][VRoot][=to.drink (ES: beber)][--][-aey][+PL]aey[--][-e][+REAL]e[--][-ni+circumfixing][+PL]
+
+atiri	[=atiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]
+
+piarentsi	[=piare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma.brava/forte)][--][-ntsi+alien.][Gen][+nposs]ntsi
+
+ipankoki	[i-][NPers][3m.poss+][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)][--][-ki][Cas][+LOC_LOC.T]
+
+tyoviri	[=Tyoviri][NRoot][=proper.name]
+
+,	,[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="501.1">
