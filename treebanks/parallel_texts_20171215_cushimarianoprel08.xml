@@ -12188,9 +12188,23 @@ pinkatsari	[=pinkatsari+m.+voc.+poss@te.][NRoot][=chief (ES: jefe); regional.lea
         <parsing/>
     </text>
     <text id="501.2">
-        <sentence lang="prq">Pipoke pimpichenkero ojankenamento apatorentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Pipoke pimpichenkero ojankenamento apatorentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Pipoke pimpichenkero ohankenamento apatorentsi.</sentence>
         <sentence lang="es">Ven a poner tu huella digital en el acta.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+pipoke	[pi-][VPers][2S/A+][--][=pok][VRoot][=to.come (ES: venir), to.arrive][--][-e][+IRR]e
+
+???
+
+ohankenamento	[o-][NPers][3n.m.poss+][--][=hankena][VRoot][=to.write, to.draw][--][-mento+n.m.][NS][+NMZ.CONCR]mento
+
+apatorentsi	[=apato][VRoot][=to.gather (ES: juntar), to.meet, to.get.together][--][-re+m.][NS][+NMZ]re[--][-ntsi+alien.][Gen][+nposs]ntsi
+
+,	,[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="502">
