@@ -12284,9 +12284,23 @@ navihavaketa	[n-][VPers][1SG.S/A+][--][=avih][VRoot][=to.pass, to.move.past/to_t
         <parsing/>
     </text>
     <text id="506.1">
-        <sentence lang="prq">Pimpiriintajeri pirenti ipariantakabo ishinkiro.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Pimpiriintajeri pirenti ipariantakabo ishinkiro.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Pimpiriintaheri pirenti ipariantakavo ishinkiro.</sentence>
         <sentence lang="es">Levanta a tu hermano; se cayó de borracho.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+pimpiriintaheri	[pi-][VPers][2S/A+][--][N=][IRR+][--][=piriin][VRoot][=to.lift.sth., to.pick.sth.up; to.get.up][--][-t][+EP]t[--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-e][+REAL]e[--][=ri][+3m.O]
+
+pirenti	[pi-][NPers][2poss+][--][=irenti+m.][NRoot][=brother (kin.of.a.male)]
+
+ipariantakavo	[i-][VPers][3m.S/A+][--][=pari][VRoot][=to.fall (ES: caer)][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a][+REAL.RFL]a[--][=vo][+3n.m.O]
+
+ishinkiro	[i-][NPers][3m.poss+][--][=shinki][VRoot][=to.get.drunk; to.intoxicate][--][-ro+n.m.][NS][+NMZ]ro
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="506.2">
