@@ -12208,9 +12208,23 @@ apatorentsi	[=apato][VRoot][=to.gather (ES: juntar), to.meet, to.get.together][-
         <parsing/>
     </text>
     <text id="502">
-        <sentence lang="prq">Ipichakatiro konki omoo pitotsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ipichakatiro konki omoo pitotsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ipichakatiro konki omoo pitotsi.</sentence>
         <sentence lang="es">Mi suegro parcha el hueco de la canoa.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ipichakatiro	[i-][VPers][3m.S/A+][--][=pichak][VRoot][=to.patch.sth. (ES: parchar.algo)][--][-ati][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]ati[--][=ro][+3n.m.O]
+
+konki	[=konki+m.+poss@ri:re.][NRoot][=father; father.in.law; uncle (kin.of.a.male; ES: suegro)]
+
+omoo	[=omoo][NRoot][=hole (ES: hueco)]
+
+pitotsi	[=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe (ES: canoa)][--][-tsi+alien.][Gen][+nposs]tsi
+
+,	,[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="503">
