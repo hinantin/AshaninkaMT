@@ -12228,9 +12228,23 @@ pitotsi	[=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe (ES: canoa)][--][-tsi+alie
         <parsing/>
     </text>
     <text id="503">
-        <sentence lang="prq">Pinabontsini obarabontsi ipimantayetiri atiri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Pinabontsini obarabontsi ipimantayetiri atiri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Pinavontsini ovaravontsi ipimantayetiri atiri.</sentence>
         <sentence lang="es">Las cosas que trae esta persona son muy costosas.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+pinavontsini	[=pina][VRoot][=to.pay, to.pay.off (a_debt), to.be.free.of.debt; to.cost (ES: costar, valer); to.give][--][-vo+n.m.][NS][+NMZ]vo[--][-ntsi+alien.][Gen][+nposs]ntsi[--][-ni][DEGR][+AUG_INTNS]
+
+???
+
+ipimantayetiri	[i-][VPers][3m.S/A+][--][=pimanta][VRoot][=to.sell][--][-ye][+DIST][=in.addition]ye[--][-t][+EP]t[--][-i][+REAL]i[--][=ri][NS][+REL]
+
+atiri	[=atiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]
+
+,	,[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="504">
