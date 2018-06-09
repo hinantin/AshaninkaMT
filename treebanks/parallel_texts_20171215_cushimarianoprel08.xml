@@ -12099,9 +12099,25 @@ ovaantsiki	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.lan
         <parsing/>
     </text>
     <text id="498">
-        <sentence lang="prq">Iñakeri eentsi peyari irojati imantsiyatantanakari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iñakeri eentsi peyari irojati imantsiyatantanakari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Inyakeri eentsi peyari irohati imantsiyatantanakari.</sentence>
         <sentence lang="es">El niño vio al díablo y por eso se enfermó.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+inyakeri	[i-][VPers][3m.S/A+][--][=ny][VRoot][=to.see, to.look.for; to.visit][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e[--][=ri][+3m.O]
+
+eentsi	[=eentsi+n./m.+poss@te.][NRoot][=child (ES: niño)]
+
+peyari	[=peyari+m.][NRoot][=ghost; demon; deer-like.demonic.creature.with.an.enlarged.penis.who.seeks.males.to.satisfy.his.sexual.desire; mythical.creature]
+
+irohati	[=irohati+rflx.intsf.][PrnPers][+3SG.n.m.][=she.too; herself (ES: esa.misma)]
+
+imantsiyatantanakari	[i-][VPers][3m.S/A+][--][=mantsiya][VRoot][=to.be.sick (ES: enfermar(se))][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a][+REAL.RFL]a[--][=ri][+3m.O]
+
+,	,[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="499">
