@@ -12393,9 +12393,21 @@ ovantsiki	[=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land 
         <parsing/>
     </text>
     <text id="510">
-        <sentence lang="prq">Robabo tsipanashi pitiro.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Robabo tsipanashi pitiro.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovavo tsipanashi pitiro.</sentence>
         <sentence lang="es">El grillo come hojas de bijao.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+rovavo	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-a][+REAL]a[--][=vo][+3n.m.O]
+
+tsipanashi	[=tsipana+n.m.][NRoot][=plant.sp. (ES: bijao); bijao.leaf (used.to.wrap.food)][--][-shi][+CL:L.S.T.F.F][=leaf;small,thin,flexible,flat;leafy.substance]
+
+pitiro	[=pitiro+m.][NRoot][=house.beetle.sp. (commonly.found.around.human.dwellings)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="511">
