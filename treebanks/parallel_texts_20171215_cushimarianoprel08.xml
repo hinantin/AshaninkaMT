@@ -12266,9 +12266,21 @@ ampatotya	[N=][IRR+][--][=apato][VRoot][=to.gather, to.meet, to.get.together][--
         <parsing/>
     </text>
     <text id="505">
-        <sentence lang="prq">Piñaabakena, nabijabaketa.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Piñaabakena, nabijabaketa.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Pinyaavakena, navihavaketa.</sentence>
         <sentence lang="es">Con su permiso, voy a pasar.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+pinyaavakena	[pi-][VPers][2S/A+][--][=ny][VRoot][=to.see, to.look.for; to.visit][--][-a][+EP]a[--][-av][+RCP]av[--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-e][+IRR]e[--][=na][+1SG.O]
+
+,	,[$.]
+
+navihavaketa	[n-][VPers][1SG.S/A+][--][=avih][VRoot][=to.pass, to.move.past/to_the_other_side_of.sb/sth. (ES: pasar); to.happen (ES: ocurrir)][--][-av+object.oriented][ADV][+DIR][=contrary,opposite; RCVG:object.arriving.at.the.location.of.the.subject]av[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e[--][=ta][MODAL][+OPT_SUBJ][CONTG: actn.that.depends.on.sth.that.may.or.may.not.happen; HYPOTH: actn.that.is.possible.&amp;.imagined.rather.than.real.&amp;.true]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="506.1">
