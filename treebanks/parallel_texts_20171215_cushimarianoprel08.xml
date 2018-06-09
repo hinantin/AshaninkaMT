@@ -12304,9 +12304,22 @@ ishinkiro	[i-][NPers][3m.poss+][--][=shinki][VRoot][=to.get.drunk; to.intoxicate
         <parsing/>
     </text>
     <text id="506.2">
-        <sentence lang="prq">Kamabetaka charine iro kantaenchari piriintaja.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Kamabetaka charine iro kantaenchari piriintaja.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Kamavetaka charine iro kantaenchari piriintaha.</sentence>
         <sentence lang="es">Mi abuelo había fallecido, sin embargo resucitó luego.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+kamavetaka	[=kam][VRoot][=to.die][--][-a][+EP]a[--][-ve][+FRUS][=unsuccessful/interrupted.action/state (EN: in.vain; ES: casi); action.that.didn't.achieve.the.desired.result]ve[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a][+REAL.RFL]a
+
+charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male); grandson (ES: nieto)]
+
+iro	[=iro][ConnRoot][=but (ES: pero)]
+
+kantaenchari	[=kantaenchari][ConnRoot][=but (ES: pero)]
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="507">
