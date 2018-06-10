@@ -12453,9 +12453,27 @@ antamiki	[=antami][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.for
         <parsing/>
     </text>
     <text id="513">
-        <sentence lang="prq">Pitsitake ichenko nani okantakaantiro iñaatsatabo jampobatsa.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Pitsitake ichenko nani okantakaantiro iñaatsatabo jampobatsa.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Pitsitake ichenko nani okantakaantiro inyaatsatavo hampovatsa.</sentence>
         <sentence lang="es">El pantalón de mi cuñado está sucia porque estaba jugando en el barro.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+pitsitake	[=pitsi][VRoot][=to.be.dirty (ES: ensuciar)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
+
+ichenko	[i-][NPers][3m.poss+][--][=chenko+n.m.+inal@tsi.][NRoot][=trousers, pants (ES: pantalón)]
+
+nani	[n-][NPers][1SG.poss+][--][=ani+m.+poss@ri.][NRoot][=brother.in.law (kin.of.a.male)]
+
+okantakaantiro	[o-][VPers][3n.m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-aka][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]aka[--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-t][+EP]t[--][-i][+REAL]i[--][=ro][+3n.m.O]
+
+inyaatsatavo	[i-][VPers][3m.S/A+][--][=nyaatsa][VRoot][=to.play; to.have.sex (euphemism)][--][-t][+EP]t[--][-a][+REAL.RFL]a[--][=vo][+3n.m.O]
+
+hampovatsa	[=hampovatsa+n.m.+poss@te.][NRoot][=mud (ES: barro); clay; swamp-like, muddy soil]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="514">
