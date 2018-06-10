@@ -12496,9 +12496,22 @@ oitsare	[o-][NPers][3n.m.poss+][--][=kitsare+m.+inal@ntsi.][NRoot][=dress, cushm
         <parsing/>
     </text>
     <text id="515">
-        <sentence lang="prq">Opiyiro isheni aabintabontsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Opiyiro isheni aabintabontsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Opiyiro isheni aavintavontsi.</sentence>
         <sentence lang="es">Los remedios le dan náuseas a mi abuela.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+???
+opiyiro	[o-][VPers][3n.m.S/A+][--][=piy][VRoot][=to.poison (ES: envenenar)][--][-i][+IRR]i[--][=ro][+3n.m.O]
+
+isheni	[=isheni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
+
+aavintavontsi	[=aavint][VRoot][=to.cure (ES: curar)][--][-a][+EP]a[--][-vo+n.m.][NS][+NMZ]vo[--][-ntsi+alien.][Gen][+nposs]ntsi
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="516">
