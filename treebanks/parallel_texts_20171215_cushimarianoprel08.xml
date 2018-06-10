@@ -12583,9 +12583,23 @@ ishimata	[i-][VPers][3m.S/A+][--][=shima][VRoot][=to.fish; to.catch.fish][--][-t
         <parsing/>
     </text>
     <text id="519">
-        <sentence lang="prq">Poematanake mampaamentotsi ipankoki Kocheri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Poematanake mampaamentotsi ipankoki Kocheri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Poematanake mampaamentotsi ipankoki Kocheri.</sentence>
         <sentence lang="es">El radio sonó en la casa de Kocheri.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+poematanake	[=poema][VRoot][=to.sound (ES: sonar)][--][-t][+EP]t[--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e
+
+mampaamentotsi	[=mamp][VRoot][=to.sing (ES: cantar)][--][-aa][+CL:liquid][=liquid]aa[--][-mento+n.m.][NS][+NMZ.CONCR]mento[--][-tsi+alien.][Gen][+nposs]tsi
+
+ipankoki	[i-][NPers][3m.poss+][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)][--][-ki][Cas][+LOC_LOC.T]
+
+kocheri	[=kocheri][NRoot][=tree.sp.; person's.name, NP]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="520">
