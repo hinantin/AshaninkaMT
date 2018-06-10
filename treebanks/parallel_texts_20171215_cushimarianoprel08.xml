@@ -12411,9 +12411,25 @@ pitiro	[=pitiro+m.][NRoot][=house.beetle.sp. (commonly.found.around.human.dwelli
         <parsing/>
     </text>
     <text id="511">
-        <sentence lang="prq">Iroka pitotsi ramanantakero apa amontyantyabori eniki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iroka pitotsi ramanantakero apa amontyantyabori eniki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iroka pitotsi ramanantakero apa amontyantyavori eniki.</sentence>
         <sentence lang="es">Papá compró esta canoa para cruzar el río.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+iroka	[=iroka+n.m.+proximal.b.][PrnDem][=this (ES: esta)]
+
+pitotsi	[=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe (ES: canoa)][--][-tsi+alien.][Gen][+nposs]tsi
+
+ramanantakero	[r-][VPers][3m.S/A+][--][=amanant][VRoot][=to.buy (ES: comprar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e[--][=ro][+3n.m.O]
+
+apa	[=apa+m.][NRoot][=father (kin.of.a.fe/male)]
+
+amontyantyavori	[a-][VPers][1PL.S/A+][--][=monty][VRoot][=to.cross.river (by.boat/canoe/a_bridge, ES: vadear, cruzar.el.río.por.bote/canoa/puente)][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-eya][+IRR.RFL]eya[--][=vo][+3n.m.O][--][=ri][NS][+REL]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="512">
