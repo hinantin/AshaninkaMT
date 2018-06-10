@@ -12557,9 +12557,29 @@ osheki	[=osheki][AdjRoot][=many; much; a.lot]
         <parsing/>
     </text>
     <text id="518">
-        <sentence lang="prq">Pochokitake konki te imaye tsireniriki iyaati ishimata.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Pochokitake konki te imaye tsireniriki iyaati ishimata.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Pochokitake konki te imaye tsireniriki iyaati ishimata.</sentence>
         <sentence lang="es">Mi suegro tiene mucho sueño porque anoche fue a pescar.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+pochokitake	[=pochoki][VRoot][=to.dream (ES: tener.sueño)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
+
+konki	[=konki+m.+poss@ri:re.][NRoot][=father; father.in.law; uncle (kin.of.a.male; ES: suegro)]
+
+te	[=te+future.neg.][Neg][=NEG.REAL]
+
+imaye	[i-][VPers][3m.S/A+][--][=may][VRoot][=to.sleep (ES: dormir)][--][-e][+REAL]e
+
+tsireniriki	[=tsireniri][NRoot][=night (ES: noche)][--][-ki][Cas][+LOC_LOC.T]
+
+iyaati	[=iyaa][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-i][+REAL]i
+
+ishimata	[i-][VPers][3m.S/A+][--][=shima][VRoot][=to.fish; to.catch.fish][--][-t][+EP]t[--][-a][+REAL]a
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="519">
