@@ -12515,15 +12515,45 @@ aavintavontsi	[=aavint][VRoot][=to.cure (ES: curar)][--][-a][+EP]a[--][-vo+n.m.]
         <parsing/>
     </text>
     <text id="516">
-        <sentence lang="prq">Pochari tibana ari irakakerika.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Pochari tibana ari irakakerika.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Pochari tivana ari irakakerika.</sentence>
         <sentence lang="es">La piña es dulce cuando está madura.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+pochari	[=pochari][AdjRoot][=sweet (ES: dulce)]
+
+tivana	[=tivana+n.m.+poss@ti.][NRoot][=pineapple (ES: piña; botany.nm.: ananas.comosus)]
+
+ari	[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+irakakerika	[=irak][VRoot][=to.be.ripe (fruit; ES: madurar), to.ripen][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e[--][=rika][MODAL][+COND][=if (expresses.possible.condition); like (comparison)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="517">
-        <sentence lang="prq">Aririka otampatikatapake ari nopochokiti osheki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Aririka otampatikatapake ari nopochokiti osheki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Aririka otampatikatapake ari nopochokiti osheki.</sentence>
         <sentence lang="es">Al llegar el mediodía tengo mucho sueño.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+aririka	[=ari][PostPol][=PP][--][=rika][+COND]::[=when (temporal.simultaneity), if (expresses.possible.condition)]
+
+otampatikatapake	[o-][VPers][3n.m.S/A+][--][=tampatika][NRoot][=straight (ES: derecho, recto); noon (ES: mediodía)]+vbz.[--][-t][+EP]t[--][-ap+goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
+
+ari	[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+nopochokiti	[no-][VPers][1SG.S/A+][--][=pochoki][VRoot][=to.dream (ES: tener.sueño)][--][-t][+EP]t[--][-i][+REAL]i
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="518">
