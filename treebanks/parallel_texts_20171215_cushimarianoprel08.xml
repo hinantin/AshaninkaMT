@@ -12433,9 +12433,23 @@ amontyantyavori	[a-][VPers][1PL.S/A+][--][=monty][VRoot][=to.cross.river (by.boa
         <parsing/>
     </text>
     <text id="512">
-        <sentence lang="prq">Nirake pitsi niyaatantakari antamiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Nirake pitsi niyaatantakari antamiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Nirake pitsi niyaatantakari antamiki.</sentence>
         <sentence lang="es">Comí miel cuando fui al monte.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+nirake	[n-][VPers][1SG.S/A+][--][=ir][VRoot][=to.cry][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
+
+pitsi	[=pitsi+m.][NRoot][=beehive; honey (ES: miel)]
+
+niyaatantakari	[n-][VPers][1SG.S/A+][--][=iyaa][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a][+REAL.RFL]a[--][=ri][+3m.O]
+
+antamiki	[=antami][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.forest][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="513">
