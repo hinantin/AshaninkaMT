@@ -12477,9 +12477,22 @@ hampovatsa	[=hampovatsa+n.m.+poss@te.][NRoot][=mud (ES: barro); clay; swamp-like
         <parsing/>
     </text>
     <text id="514">
-        <sentence lang="prq">Opitsitsayetiro isheni oitsare.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Opitsitsayetiro isheni oitsare.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Opitsitsayetiro isheni oitsare.</sentence>
         <sentence lang="es">Mi abuela tiñe la cushma con barro negro.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+???
+opitsitsayetiro	[o-][VPers][3n.m.S/A+][--][=pitsi][VRoot][=to.be.dirty (ES: ensuciar)][--][-tsa][+CL:long.flexible.thin][=long,flexible,thin; liana.(like); tree_bark; curvilinear]tsa[--][-ye][+DIST][=in.addition]ye[--][-t][+EP]t[--][-i][+REAL]i[--][=ro][+3n.m.O]
+
+isheni	[=isheni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
+
+oitsare	[o-][NPers][3n.m.poss+][--][=kitsare+m.+inal@ntsi.][NRoot][=dress, cushma, cloth]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="515">
