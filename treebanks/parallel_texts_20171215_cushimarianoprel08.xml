@@ -12718,9 +12718,23 @@ eeroka	[=eeroka+cont.d.top.][PrnPers][+2SG][=you (ES: tú, usted)]
         <parsing/>
     </text>
     <text id="525">
-        <sentence lang="prq">Ikentake Tyobiri robashiroki poobonto.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikentake Tyobiri robashiroki poobonto.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikentake Tyoviri rovashiroki poovonto.</sentence>
         <sentence lang="es">Tyobiri picó una panguana desde su maspute.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ikentake	[i-][VPers][3m.S/A+][--][=kent][VRoot][=to.pierce.with.arrows, to.shoot.arrows; to.sting (ES: picar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
+
+tyoviri	[=Tyoviri][NRoot][=proper.name]
+
+rovashiroki	[r-][NPers][3m.poss+][--][=ovashi][VRoot][=to.ensnare, to.entrap][--][-ro+n.m.][NS][+NMZ]ro[--][-ki][Cas][+LOC_LOC.T]
+
+poovonto	[=poovonto+m.][NRoot][=pink-color.runner.bird.sp.with.designs.on.the.wings (ES: porotuango, porotohuango, panguana, sp.de.perdiz); rufous-breasted.wood-quail (sci.nm.: odonthophorus.speciosus)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="526">
