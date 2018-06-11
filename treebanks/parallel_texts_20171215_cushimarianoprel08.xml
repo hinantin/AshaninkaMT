@@ -12738,15 +12738,45 @@ poovonto	[=poovonto+m.][NRoot][=pink-color.runner.bird.sp.with.designs.on.the.wi
         <parsing/>
     </text>
     <text id="526">
-        <sentence lang="prq">Raati nani poonkito iponkatyari itomi piyatsari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Raati nani poonkito iponkatyari itomi piyatsari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Raati nani poonkito iponkatyari itomi piyatsari.</sentence>
         <sentence lang="es">Mi cuñado fue a traer ishanga para disciplinar a su hijo desobediente.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+raati	[r-][VPers][3m.S/A+][--][=a][VRoot][=to.take (ES: agarrar)][--][-ati][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]ati
+
+nani	[n-][NPers][1SG.poss+][--][=ani+m.+poss@ri.][NRoot][=brother.in.law (kin.of.a.male)]
+
+poonkito	[=poonkito+n.m.][NRoot][=nettle.sp.with.small.thorns (ishanga, ES: sp.de.ortiga)]
+
+iponkatyari	[i-][VPers][3m.S/A+][--][=ponk][VRoot][=to.shoot.down.pona-palm.tree (ES: derribar/batir.la.pona)][--][-ati][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]ati[--][-ya][+IRR]ya[--][=ri][+3m.O]
+
+itomi	[i-][NPers][3m.poss+][--][=tomi+m.+inal@tsi.][NRoot][=son (kin.of.a.fe/male)]
+
+piyatsari	[=piyatsa][VRoot][=to.disobey; to.disobey.authority][--][-ri+m.][NS][+ADJ.NMZ]ri
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="527">
-        <sentence lang="prq">Kiake porenti nopankoki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Kiake porenti nopankoki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Kiake porenti nopankoki.</sentence>
         <sentence lang="es">La luciérnaga entró a mi casa.</sentence>
-        <morphology/>
+        <morphology>
+
+
+kiake	[=ki][VRoot][=to.enter (ES: ingresar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
+
+porenti	[=porenti][NRoot][=firefly (ES: luciernaga)]
+
+nopankoki	[no-][NPers][1SG.poss+][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="528">
