@@ -12821,9 +12821,23 @@ vatsatsi	[=vatsa+n./m.+inal@tsi.][NRoot][=meat (ES: carne), mass; flesh, body (E
         <parsing/>
     </text>
     <text id="530">
-        <sentence lang="prq">Iroka potsomentotsi irashi pirenti.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iroka potsomentotsi irashi pirenti.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iroka potsomentotsi irashi pirenti.</sentence>
         <sentence lang="es">Este color es de tu hermano.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+iroka	[=iroka+n.m.+proximal.b.][PrnDem][=this (ES: esta)]
+
+potsomentotsi	[=potso][VRoot][=to.dye; to.paint (ES: colorear); to.rub.annatto][--][-mento+n.m.][NS][+NMZ.CONCR]mento[--][-tsi+alien.][Gen][+nposs]tsi
+
+irashi	[=irashi][PrnPoss][+3SG.m.][=his, its (ES: suyo.(de.hombre))]
+
+pirenti	[p-][NPers][2poss+][--][=irenti+m.][NRoot][=brother (kin.of.a.male)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="531">
