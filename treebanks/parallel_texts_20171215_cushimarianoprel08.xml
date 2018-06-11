@@ -12649,7 +12649,7 @@ nana	[=nana+n.m.+voc.+poss@te:ti.][NRoot][=mom, mother (kin.of.a.fe/male; ES: ma
         <sentence lang="prq" normalizationlevel="none">Raakero apa inaki pomporo ityootantyari.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Raakero apa inaki pomporo ityootantyari.</sentence>
         <sentence lang="es">Mi papá sacó el caparazón del caracol para su bocina.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 raakero	[r-][VPers][3m.S/A+][--][=a][VRoot][=to.take (ES: agarrar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e[--][=ro][+3n.m.O]
@@ -12668,15 +12668,53 @@ ityootantyari	[i-][VPers][3m.S/A+][--][=tyoo][VRoot][=to.honk][--][-t][+EP]t[--]
         <parsing/>
     </text>
     <text id="523">
-        <sentence lang="prq">Ponatake ipori nani raatikaitakeri iñaatsabaebeta.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ponatake ipori nani raatikaitakeri iñaatsabaebeta.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ponatake ipori nani raatikaitakeri inyaatsavaeveta.</sentence>
         <sentence lang="es">Las piernas de mi cuñado están renegridas porque lo patearon en el juego.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ponatake	[=pona][VRoot][=to.be.bruised; to.have.purple.bruises (ES: moretear)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
+
+ipori	[i-][NPers][3m.poss+][--][=pori+n.m.+inal@tsi.][NRoot][=leg (ES: pierna); thigh]
+
+nani	[n-][NPers][1SG.poss+][--][=ani+m.][NRoot][=grandpa, grandfather (kin.of.a.male)]
+
+raatikaitakeri	[r-][VPers][3m.S/A+][--][=aatik][VRoot][=to.step, to.foot (ES: pisar)][--][-a][+EP]a[--][-it][Asp][+ANT][=past/non-past.action:before]it[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+inyaatsavaeveta	[i-][VPers][3m.S/A+][--][=nyaatsa][VRoot][=to.play; to.have.sex (euphemism)][--][-vae][ASP][+DUR][=action/state.endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]vae[--][-ve][+FRUS][=unsuccessful/interrupted.action/state (EN: in.vain; ES: casi); action.that.didn't.achieve.the.desired.result]ve[--][-t][+EP]t[--][-a][+REAL]a
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="524">
-        <sentence lang="prq">Nokantiri atiri aretapaenchari: ¿Pipoñari eeroka?.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Nokantiri atiri aretapaenchari: ¿Pipoñari eeroka?.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Nokantiri atiri aretapaenchari: ¿Piponyari eeroka?.</sentence>
         <sentence lang="es">Le dije a la persona que llegó: “¿Cuál es tu lugar de origen?”</sentence>
-        <morphology/>
+        <morphology>
+
+
+nokantiri	[no-][VPers][1SG.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-i][+IRR]i[--][=ri][+3m.O]
+
+atiri	[=atiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]
+
+aretapaenchari	[=are][VRoot][=to.arrive (ES: llegar); to.visit.with.sb. (ES: visitar.a.algn.)][--][-t][+EP]t[--][-ap+goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-aencha][Asp][+STAT.PRF]aencha[--][=ri][NS][+REL]
+
+:	:[$.]
+
+¿	¿[$.]
+
+piponyari	[pi-][NPers][2poss+][--][=pony][VRoot][=to.come.from.(some_place) (ES: venir.de.algún_lugar)][--][-a][+EP]a[--][-ri+m.][NS][+ADJ.NMZ]ri
+
+eeroka	[=eeroka+cont.d.top.][PrnPers][+2SG][=you (ES: tú, usted)]
+
+?	?[$.]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="525">
