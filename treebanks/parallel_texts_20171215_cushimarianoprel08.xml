@@ -12801,9 +12801,23 @@ eentsi	[=eentsi+n./m.+poss@te.][NRoot][=child (ES: niño)]
         <parsing/>
     </text>
     <text id="529">
-        <sentence lang="prq">Robaka Shamoko poshiniri batsatsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Robaka Shamoko poshiniri batsatsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovaka Shamoko poshiniri vatsatsi.</sentence>
         <sentence lang="es">Shamoco comió carne sabrosa.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+rovaka	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.save.sth.in.sth. (ES: guardar.algo)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a][+REAL]a
+
+shamoko	[=shamoko][NRoot][=Samuel]
+
+poshiniri	[=poshini][VRoot][=to.be.tasty; to.be.delicious][--][-ri+m.][NS][+ADJ.NMZ]ri
+
+vatsatsi	[=vatsa+n./m.+inal@tsi.][NRoot][=meat (ES: carne), mass; flesh, body (ES: cuerpo); inner.part.of.sth. (tender.part, cogollo)][--][-tsi+alien.][Gen][+nposs]tsi
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="530">
