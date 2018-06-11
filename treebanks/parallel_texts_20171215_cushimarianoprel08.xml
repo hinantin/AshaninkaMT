@@ -12636,7 +12636,7 @@ intakeronta	[=intakeronta][NRoot][=the.other.side.of.the.brook/river (ES: el.otr
 
 nihaateni	[=nihaateni][NRoot][=brook; creek (ES: quebrada, arroyo)]
 
-aretavo	[=are][VRoot][=to.arrive (ES: llegar); to.visit.with.sb.][--][-t][+EP]t[--][-a][+REAL]a[--][=vo][+3n.m.O]
+aretavo	[=are][VRoot][=to.arrive (ES: llegar); to.visit.with.sb. (ES: visitar.a.algn.)][--][-t][+EP]t[--][-a][+REAL]a[--][=vo][+3n.m.O]
 
 nana	[=nana+n.m.+voc.+poss@te:ti.][NRoot][=mom, mother (kin.of.a.fe/male; ES: mamá)]
 
@@ -12646,9 +12646,25 @@ nana	[=nana+n.m.+voc.+poss@te:ti.][NRoot][=mom, mother (kin.of.a.fe/male; ES: ma
         <parsing/>
     </text>
     <text id="522">
-        <sentence lang="prq">Raakero apa inaki pomporo ityootantyari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Raakero apa inaki pomporo ityootantyari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Raakero apa inaki pomporo ityootantyari.</sentence>
         <sentence lang="es">Mi papá sacó el caparazón del caracol para su bocina.</sentence>
-        <morphology/>
+        <morphology>
+
+
+raakero	[r-][VPers][3m.S/A+][--][=a][VRoot][=to.take (ES: agarrar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e[--][=ro][+3n.m.O]
+
+apa	[=apa+m.][NRoot][=father (kin.of.a.fe/male)]
+
+inaki	[i-][NPers][3m.poss+][--][=naki][NRoot][=interior.space (ES: espacio.interior, hueco)]
+
+pomporo	[=pomporo+m.][NRoot][=big-size.snail]
+
+ityootantyari	[i-][VPers][3m.S/A+][--][=tyoo][VRoot][=to.honk][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-ya][+REAL]ya[--][=ri][NS][+REL]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="523">
