@@ -12603,15 +12603,46 @@ kocheri	[=kocheri][NRoot][=tree.sp.; person's.name, NP]
         <parsing/>
     </text>
     <text id="520">
-        <sentence lang="prq">Ompojakeri Kepityoki Ashisho.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ompojakeri Kepityoki Ashisho.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ompohakeri Kepityoki Ashisho.</sentence>
         <sentence lang="es">Kepityoki golpeó a Ashisho.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ompohakeri	[o-][VPers][3n.m.S/A+][--][N=][IRR+][--][=poh][VRoot][=to.hit (ES: golpear)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+kepityoki	[=kepityoki][NRoot][=person's.name; NP]
+
+ashisho	[=ashisho][NRoot][=person's.name; NP]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="521">
-        <sentence lang="prq">Opokake toto intakeronta nijaateni aretabo nana.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Opokake toto intakeronta nijaateni aretabo nana.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Opokake toto intakeronta nihaateni aretavo nana.</sentence>
         <sentence lang="es">Mi hermana viene del otro lado de la quebrada a visitar a mi mamá.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+opokake	[o-][VPers][3n.m.S/A+][--][=pok][VRoot][=to.come (ES: venir), to.arrive][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
+
+???
+natoto?
+
+intakeronta	[=intakeronta][NRoot][=the.other.side.of.the.brook/river (ES: el.otro.lado.de.la.quebrada/río)]
+
+nihaateni	[=nihaateni][NRoot][=brook; creek (ES: quebrada, arroyo)]
+
+aretavo	[=are][VRoot][=to.arrive (ES: llegar); to.visit.with.sb.][--][-t][+EP]t[--][-a][+REAL]a[--][=vo][+3n.m.O]
+
+nana	[=nana+n.m.+voc.+poss@te:ti.][NRoot][=mom, mother (kin.of.a.fe/male; ES: mamá)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="522">
