@@ -12780,9 +12780,24 @@ nopankoki	[no-][NPers][1SG.poss+][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: 
         <parsing/>
     </text>
     <text id="528">
-        <sentence lang="prq">Shitobake ojompo oporiki eentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Shitobake ojompo oporiki eentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Shitovake ohompo oporiki eentsi.</sentence>
         <sentence lang="es">A la niña le salió pus de la pierna.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+shitovake	[=shitov][VRoot][=to.leave (ES: salir); to.escape][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
+
+???
+ohompo	[o-][NPers][3n.m.poss+][--][=hompo+inal@tsi.][NRoot][=tumor; boil (ES: tumor, chupo)]
+
+oporiki	[o-][NPers][3n.m.poss+][--][=pori+n.m.+inal@tsi.][NRoot][=leg (ES: pierna); thigh][--][-ki][Cas][+LOC_LOC.T]
+
+eentsi	[=eentsi+n./m.+poss@te.][NRoot][=child (ES: niño)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="529">
