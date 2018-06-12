@@ -13129,9 +13129,27 @@ rakachatantyari	[r-][VPers][3m.S/A+][--][=akacha][VRoot][=to.fish.with.a.line.an
         <parsing/>
     </text>
     <text id="544">
-        <sentence lang="prq">Rabitsakitanakeri itomi shintsini ishempaki eero iparianta.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Rabitsakitanakeri itomi shintsini ishempaki eero iparianta.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ravitsakitanakeri itomi shintsini ishempaki eero iparianta.</sentence>
         <sentence lang="es">Su hijo lo abrazó fuerte en los hombros para no caerse.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+???
+
+itomi	[i-][NPers][3m.poss+][--][=tomi+m.+inal@tsi.][NRoot][=son (kin.of.a.fe/male)]
+
+shintsini	[=shintsini][AdvRoot][=quickly; strongly (ES: con.fuerza)]
+
+ishempaki	[i-][NPers][3m.poss+][--][=shempa+n.m.+inal@tsi.][NRoot][=shoulder (ES: hombro)][--][-ki][Cas][+LOC_LOC.T]
+
+eero	[=eero][Neg][=NEG.IRR]
+
+iparianta	[i-][VPers][3m.S/A+][--][=pari][VRoot][=to.fall (ES: caer)][--][-ant][+APPL.INST][=reason,instrumentality;in.order.to]ant[--][-a][+REAL]a
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="545">
