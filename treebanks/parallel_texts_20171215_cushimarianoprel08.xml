@@ -12841,15 +12841,51 @@ pirenti	[p-][NPers][2poss+][--][=irenti+m.][NRoot][=brother (kin.of.a.male)]
         <parsing/>
     </text>
     <text id="531">
-        <sentence lang="prq">Ipotsotabo potsotsi charine eero itantari oria.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ipotsotabo potsotsi charine eero itantari oria.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ipotsotavo potsotsi charine eero itantari oria.</sentence>
         <sentence lang="es">Mi papá se pinta la cara para que el sol no lo queme.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ipotsotavo	[i-][VPers][3m.S/A+][--][=potso][VRoot][=to.dye; to.paint (ES: colorear); to.rub.annatto][--][-t][+EP]t[--][-a][+REAL]a[--][=vo][+3n.m.O]
+
+potsotsi	[=potsotsi+n.m.][NRoot][=annatto (ES: achiote; botany.id.: bixa.orellana)]
+
+charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male); grandson (ES: nieto)]
+
+eero	[=eero][Neg][=NEG.IRR]
+
+itaantari	[i-][VPers][3m.S/A+][--][=ta][VRoot][=to.burn (ES: quemar)][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-a][+REAL]a[--][=ri][+3m.O]
+
+oria	[=oria+m.][NRoot][=sun (ES: sol)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="532">
-        <sentence lang="prq">Oyaati isheni aaye potsoti opotsotyari opooki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Oyaati isheni aaye potsoti opotsotyari opooki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Oyaati isheni aaye potsoti opotsotyari opooki.</sentence>
         <sentence lang="es">Mi abuelita fue a traer achiote para pintarse la cara.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+oyaati	[=oyaa][VRoot][=to.go (ES: ir); to.follow][--][-t][+EP]t[--][-i][+REAL]i
+
+isheni	[=isheni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
+
+aaye	[=a][VRoot][=to.get][--][-a][+EP]a[--][-ye][+IRR]ye
+
+potsoti	[=potsoti+n.m.][NRoot][=annatto (ES: achiote; botany.id.: bixa.orellana)]
+
+opotsotyari	[o-][VPers][3n.m.S/A+][--][=potso][VRoot][=to.dye; to.paint (ES: colorear); to.rub.annatto][--][-t][+EP]t[--][-ya][+REAL]ya[--][=ri][+3m.O]
+
+opooki	[o-][NPers][3n.m.poss+][--][=poo+n.m.+inal@tsi.][NRoot][=face (ES: cara, rostro)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="533">
