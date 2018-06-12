@@ -13021,9 +13021,25 @@ kantiri	[=kantiri+n.m.][NRoot][=basket (ES: canasta)]
         <parsing/>
     </text>
     <text id="539">
-        <sentence lang="prq">Ishabaetashita Koñoriki otsapiaki itsarobi ramate.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ishabaetashita Koñoriki otsapiaki itsarobi ramate.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ishavaetashita Konyoriki otsapiaki itsarovi ramate.</sentence>
         <sentence lang="es">Koñori sólo camina en la orilla del río porque tiene miedo nadar.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+???
+
+???
+
+otsapiaki	[o-][NPers][3n.m.poss+][--][=tsapya][NRoot][=river.bank, side.of.river (ES: orilla)][--][-ki][Cas][+LOC_LOC.T]
+
+itsarovi	[i-][VPers][3m.S/A+][--][=tsarov][VRoot][=to.fear. to.be.afraid (ES: tener.miedo)][--][-i][+REAL]i
+
+ramate	[r-][VPers][3m.S/A+][--][=ama][VRoot][=to.swim][--][-t][+EP]t[--][-e][+REAL]e
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="540">
