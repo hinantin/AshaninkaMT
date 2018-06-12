@@ -12982,6 +12982,7 @@ osheki	[=osheki][AdjRoot][=many; much; a.lot]
 
 ikaemi	[i-][VPers][3m.S/A+][--][=kaem][VRoot][=to.scream (ES: gritar); to.call.sb. (to.inform.of.sth.; ES: llamar)][--][-i][+REAL]i
 
+???
 shaa	[=shaa+poss@ni.][NRoot][=anteater (ES: piampía)]
 
 aririka	[=ari][PostPol][=PP][--][=rika][+COND]::[=when (temporal.simultaneity), if (expresses.possible.condition)]
@@ -12994,9 +12995,29 @@ inyee	[i-][VPers][3m.S/A+][--][=ny][VRoot][=to.see, to.look.for; to.visit][--][-
         <parsing/>
     </text>
     <text id="538">
-        <sentence lang="prq">Oshaake nana oshibitsate paato antantyaabori otsaato kantiri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Oshaake nana oshibitsate paato antantyaabori otsaato kantiri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Oshaake nana oshivitsate paato antantyaavori otsaato kantiri.</sentence>
         <sentence lang="es">Mi mamá peló la corteza del palo de balsa para amarrar su canasta.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+oshaake	[o-][VPers][3n.m.S/A+][--][=sha][VRoot][=to.erase (ES: borrar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
+
+nana	[=nana+n.m.+voc.+poss@te:ti.][NRoot][=mom, mother (kin.of.a.fe/male; ES: mamá)]
+
+oshivitsate	[o-][NPers][3n.m.poss+][--][=shivitsa+n.m.+poss@te:ti.][NRoot][=(wild).rope; liana.fiber (ES: fibra.de.bejuco); vine.species][--][-te][Gen][+aln.poss.]te
+
+paato	[=paato+n.m.][NRoot][=tree.sp. (ES: topa)]
+
+antantyaavori	[=ant][VRoot][=to.beat, to.hit; to.build, to.do, to.make][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-yaa][+REAL]yaa[--][=vo][+3n.m.O][--][=ri][NS][+REL]
+
+???
+
+kantiri	[=kantiri+n.m.][NRoot][=basket (ES: canasta)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="539">
