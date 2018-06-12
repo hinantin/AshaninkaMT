@@ -13043,9 +13043,23 @@ ramate	[r-][VPers][3m.S/A+][--][=ama][VRoot][=to.swim][--][-t][+EP]t[--][-e][+RE
         <parsing/>
     </text>
     <text id="540">
-        <sentence lang="prq">Ikentake ani shabo kanirimashiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikentake ani shabo kanirimashiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikentake ani shavo kanirimashiki.</sentence>
         <sentence lang="es">Mi cuñado picó un añuje en el yucal.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ikentake	[i-][VPers][3m.S/A+][--][=kent][VRoot][=to.pierce.with.arrows, to.shoot.arrows; to.sting (ES: picar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
+
+ani	[=ani+m.+poss@ri.][NRoot][=brother.in.law (kin.of.a.male)]
+
+shavo	[=shavo+m.][NRoot][=rodent.sp. (añuje, agutí, agouti, cutpe; sci.nm.: dasyprocta.variegata)]
+
+kanirimashiki	[=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)][--][-mashi][+CL:vast.space.with.vegetation][=vast.space.with.vegetation;wide,flat.space][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="541">
