@@ -13107,9 +13107,25 @@ novaneki	[no-][NPers][1SG.poss+][--][=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown
         <parsing/>
     </text>
     <text id="543">
-        <sentence lang="prq">Raanakero Mishako isheeto tyaapa rakachatantyari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Raanakero Mishako isheeto tyaapa rakachatantyari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Raanakero Mishako isheeto tyaapa rakachatantyari.</sentence>
         <sentence lang="es">Mishaco llevó la tripa de la gallina para cebo de su anzuelo.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+raanakero	[r-][VPers][3m.S/A+][--][=a][VRoot][=to.take (ES: agarrar)][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e[--][=ro][+3n.m.O]
+
+mishako	[=mishako][NRoot][=person's.name, NP]
+
+???
+
+tyaapa	[=tyaapa+n.m.+poss@te.][NRoot][=hen (ES: gallina); chicken]
+
+rakachatantyari	[r-][VPers][3m.S/A+][--][=akacha][VRoot][=to.fish.with.a.line.and.a.hook, to.angle (ES: ansolear)][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-ya][+REAL]ya[--][=ri][+3m.O]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="544">
