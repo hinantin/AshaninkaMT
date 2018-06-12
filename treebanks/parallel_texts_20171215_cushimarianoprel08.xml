@@ -13085,9 +13085,25 @@ ashavokiite	[a-][VPers][1PL.S/A+][--][=shavoki][VRoot][=to.dance (ES: bailar)][-
         <parsing/>
     </text>
     <text id="542">
-        <sentence lang="prq">Timatsi osheki pochari shebantoki nobaneki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Timatsi osheki pochari shebantoki nobaneki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Timatsi osheki pochari shevantoki novaneki.</sentence>
         <sentence lang="es">Hay muchas uvillas dulces en mi chacra.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+timatsi	[=tim][VRoot][=POSSESS (EN: to.have; ES: tener); to.give.birth][--][-atsi][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]atsi
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+pochari	[=pochari][AdjRoot][=sweet (ES: dulce)]
+
+shevantoki	[=shevantoki+n.m.][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ES: uvilla.silvestre)]
+
+novaneki	[no-][NPers][1SG.poss+][--][=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra; PT: roçado)][--][-ne][Gen][+aln.poss.]ne[--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="543">
