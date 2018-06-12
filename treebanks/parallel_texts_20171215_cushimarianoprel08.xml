@@ -12951,15 +12951,46 @@ konki	[=konki+m.+poss@ri:re.][NRoot][=father; father.in.law; uncle (kin.of.a.mal
         <parsing/>
     </text>
     <text id="536">
-        <sentence lang="prq">Rootaki antakerori entyo oshinkitantakari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Rootaki antakerori entyo oshinkitantakari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rootaki antakerori entyo oshinkitantakari.</sentence>
         <sentence lang="es">Ella es quien la pegó a mi hermana cuando estaba ebria.</sentence>
-        <morphology/>
+        <sentence lang="en">Dhe is the one who hit the sister who got drunk for some reason.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+rootaki	[=rootaki+cntr.exh.l.+foc.][PrnPers][+3SG.n.m.][=that's.why; she.is (ES: ella.es); she.is.the.one.(who) (ES: ella.es.quien)]
+
+antakerori	[=ant][VRoot][=to.beat, to.hit; to.build, to.do, to.make][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e[--][=ro][+3n.m.O][--][=ri][NS][+REL]
+
+entyo	[=entyo+n.m.][NRoot][=sister (kin.of.a.female, fem.ego.); female.cousin (fem.ego.)]
+
+oshinkitantakari	[o-][VPers][3n.m.S/A+][--][=shinki][VRoot][=to.get.drunk; to.intoxicate][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a][+REAL.RFL]a[--][=ri][+3m.O]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="537">
-        <sentence lang="prq">Osheki ikaemi shaa aririka iñee pokatsiri. </sentence>
+        <sentence lang="prq" normalizationlevel="none">Osheki ikaemi shaa aririka iñee pokatsiri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Osheki ikaemi shaa aririka inyee pokatsiri.</sentence>
         <sentence lang="es">El piampía grita cuando ve que alguien se acerca.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+ikaemi	[i-][VPers][3m.S/A+][--][=kaem][VRoot][=to.scream (ES: gritar); to.call.sb. (to.inform.of.sth.; ES: llamar)][--][-i][+REAL]i
+
+shaa	[=shaa+poss@ni.][NRoot][=anteater (ES: piampía)]
+
+aririka	[=ari][PostPol][=PP][--][=rika][+COND]::[=when (temporal.simultaneity), if (expresses.possible.condition)]
+
+inyee	[i-][VPers][3m.S/A+][--][=ny][VRoot][=to.see, to.look.for; to.visit][--][-ee][+REAL]ee
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="538">
