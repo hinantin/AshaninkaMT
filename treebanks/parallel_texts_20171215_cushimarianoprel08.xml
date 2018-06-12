@@ -13234,15 +13234,43 @@ mantsiyarepaye	[=mantsiy][VRoot][=to.be.sick (ES: enfermar(se))][--][-a][+EP]a[-
         <parsing/>
     </text>
     <text id="549">
-        <sentence lang="prq">Inampitabo shesheti inkaareki ijeekantabo jabooki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Inampitabo shesheti inkaareki ijeekantabo jabooki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Inampitavo shesheti inkaareki iheekantavo havooki.</sentence>
         <sentence lang="es">El shansho vive en las cañabravas de la cocha.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+inampitavo	[i-][VPers][3m.S/A+][--][=nampi+n.m.+inal@tsi.][NRoot][=village (ES: aldea; PT: aldeia); place; country; settlement]::[= (ES: vivir)]+vbz.[--][-t][+EP]t[--][-a][+REAL.RFL]a[--][=vo][+3n.m.O]
+
+shesheti	[=shesheti][NRoot][=heron.sp. (shansho)]
+
+inkaareki	[=inkaare+n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)][--][-ki][Cas][+LOC_LOC.T]
+
+iheekantavo	[i-][VPers][3m.S/A+][--][=heek][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir); to.be][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-a][+REAL]a[--][=vo][+3n.m.O]
+
+havooki	[=havoo+n.m.][NRoot][=(wild).giant.cane (ES: caña.brava)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="550.1">
-        <sentence lang="prq">Opotsotiro oshetaki Shimashiri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Opotsotiro oshetaki Shimashiri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Opotsotiro oshetaki Shimashiri.</sentence>
         <sentence lang="es">Shimashiri se pinta las uñas.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+opotsotiro	[o-][VPers][3n.m.S/A+][--][=potso][VRoot][=to.dye; to.paint (ES: colorear); to.rub.annatto][--][-t][+EP]t[--][-i][+REAL]i[--][=ro][+3n.m.O]
+
+oshetaki	[o-][NPers][3n.m.poss+][--][=shetaki+n.m.+inal@ntsi.][NRoot][=fingernail (ES: uña); claw (ES: garra)]
+
+shimashiri	[=shimashiri+n.m.][NRoot][=flowering.tree.sp., plant.sp. (ES: Pino.chuncho, flor.de.mayo; sci.nm.: schizolobium.amazoni.cum); person's.name, NP]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="550.2">
