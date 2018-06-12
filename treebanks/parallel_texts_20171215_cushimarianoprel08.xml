@@ -13153,27 +13153,84 @@ iparianta	[i-][VPers][3m.S/A+][--][=pari][VRoot][=to.fall (ES: caer)][--][-ant][
         <parsing/>
     </text>
     <text id="545">
-        <sentence lang="prq">Tonkake shempiri iitsokantyari impanekiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Tonkake shempiri iitsokantyari impanekiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Tonkake shempiri iitsokantyari impanekiki.</sentence>
         <sentence lang="es">La charapa subió a la playa para poner sus huevos.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+tonkake	[=tonk][VRoot][=to.shoot (ES: balear); to.burst][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
+
+shempiri	[=shempiri][NRoot][=charapa.turtle, terrapin.sp. (ES: motelo, tortuga.de.tierra, taricaya)]
+
+iitsokantyari	[i-][VPers][3m.S/A+][--][=itsok][VRoot][=to.lay.eggs][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-ya][+REAL]ya[--][=ri][NS][+REL]
+
+impanekiki	[=iNpaneki+n.m.][NRoot][=fine.sand, sand.made.of.very.small.grains (ES: arena); sandy.area (ES: arenal, playa)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="546">
-        <sentence lang="prq">Ranashita shenonti itsipatabo osheki iina.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ranashita shenonti itsipatabo osheki iina.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ranashita shenonti itsipatavo osheki iina.</sentence>
         <sentence lang="es">El coto anda acompañado por varias hembras.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ranashita	[r-][VPers][3m.S/A+][--][=anashi][VRoot][=to.walk.in.some_location (i.e.: the_woods; ES: caminar)][--][-t][+EP]t[--][-a][+REAL]a
+
+shenonti	[=shenonti][NRoot][=monkey.sp. (ES: mono.coto)]
+
+itsipatavo	[i-][VPers][3m.S/A+][--][=tsipat][VRoot][=to.accompany; to.join; to.combine (ES: combinar)][--][-a][+REAL]a[--][=vo][+3n.m.O]
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+iina	[i-][NPers][3m.poss+][--][=ina+n.m.+inal@tsi.+voc.][NRoot][=mother; wife (kin.of.a.fe/male)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="547">
-        <sentence lang="prq">Ipankitiro sheripiari sheri ipankori.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ipankitiro sheripiari sheri ipankori.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ipankitiro sheripiari sheri ipankori.</sentence>
         <sentence lang="es">El curandero siembra tabaco en el patio de su casa.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ipankitiro	[i-][VPers][3m.S/A+][--][=panki][VRoot][=to.plant, to.sow (ES: sembrar)][--][-t][+EP]t[--][-i][+REAL]i[--][=ro][+3n.m.O]
+
+sheripiari	[=sheripiari+m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero; PT: pajé)]
+
+sheri	[=sheri+n.m.+poss@ni.][NRoot][=tobacco.leaf; tobacco ([ˈʃɛ.ɾɪ];ES: tabaco; sci.nm.: nicotiana.tabacum); psychoactive.drug; tobacco.paste]
+
+???
+ipankori	[i-][NPers][3m.poss+][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)][--][-ri+m.][NS][+NMZ]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="548">
-        <sentence lang="prq">Itapobiri sheripiari mantsiyarepaye.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Itapobiri sheripiari mantsiyarepaye.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Itapoviri sheripiari mantsiyarepaye.</sentence>
         <sentence lang="es">El curandero cura a los enfermos.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+???
+
+sheripiari	[=sheripiari+m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero; PT: pajé)]
+
+mantsiyarepaye	[=mantsiy][VRoot][=to.be.sick (ES: enfermar(se))][--][-a][+EP]a[--][-re+m.][NS][+NMZ]re[--][-paye][Num][+PL_DIST]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="549">
