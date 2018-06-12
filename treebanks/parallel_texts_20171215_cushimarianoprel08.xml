@@ -13063,9 +13063,25 @@ kanirimashiki	[=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]
         <parsing/>
     </text>
     <text id="541">
-        <sentence lang="prq">Okantakena isheeni: Thame ashabokiite.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Okantakena isheeni: Thame ashabokiite.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Okantakena isheeni: Tsame ashavokiite.</sentence>
         <sentence lang="es">Mi abuela me dijo: “Vamos a bailar”.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+okantakena	[o-][VPers][3n.m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e[--][=na][+1SG.O]
+
+isheeni	[=isheeni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
+
+:	:[$.]
+
+tsame	[=tsame+prop@standalone.][VRoot][=COME.ON, LET'S.GO]
+
+ashavokiite	[a-][VPers][1PL.S/A+][--][=shavoki][VRoot][=to.dance (ES: bailar)][--][-it][Asp][+ANT][=past/non-past.action:before]it[--][-e][+IRR]e
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="542">
