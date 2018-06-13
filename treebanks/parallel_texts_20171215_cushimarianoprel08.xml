@@ -13386,9 +13386,25 @@ iraka	[i-][NPers][3m.poss+][--][=iraka][NRoot][=ripe (ES: maduro)]
         <parsing/>
     </text>
     <text id="554">
-        <sentence lang="prq">Shookake chokiyo ishibanki irotaintsi irare.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Shookake chokiyo ishibanki irotaintsi irare.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Shookake chokiyo ishivanki irotaintsi irare.</sentence>
         <sentence lang="es">Ya crecieron las plumas del pihuicho; está listo para volar.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+shookake	[=shook][VRoot][=to.grow (ES: crecer)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
+
+chokiyo	[=chokiyo+m.][NRoot][=small.parrot.sp. (ES: perico/loro.pequeño, pihuicho; sci.nm.: forpus.xanthopterygius)]
+
+ishivanki	[i-][NPers][3m.poss+][--][=shivaNki+n.m.+inal@n/tsi.][NRoot][=feather (ES: pluma); wing]
+
+irotaintsi	[=irotaintsi][ConnRoot][=CONN (EN: soon.(still.far); ES: casi.(lejos.todavía))]
+
+irare	[ir-][VPers][3m.S/A.IRR+][--][=ar][VRoot][=to.fly (ES: volar)][--][-e][+REAL]e
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="555">
