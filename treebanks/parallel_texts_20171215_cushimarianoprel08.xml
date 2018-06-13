@@ -13475,9 +13475,27 @@ shima	[=shima+m.+poss@ni.][NRoot][=fish; fish.sp., boquichico-fish (ES: boquichi
         <parsing/>
     </text>
     <text id="558.1">
-        <sentence lang="prq">Aririka oteyakitanake shimashiri ari iyeenkati koshiripaye.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Aririka oteyakitanake shimashiri ari iyeenkati koshiripaye.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Aririka oteyakitanake shimashiri ari iyeenkati koshiripaye.</sentence>
         <sentence lang="es">Cuando florea el árbol flor de mayo es cuando los monos se engordan.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+aririka	[=ari][PostPol][=PP][--][=rika][+COND]::[=when (temporal.simultaneity), if (expresses.possible.condition)]
+
+oteyakitanake	[o-][VPers][3n.m.S/A+][--][=teyaki][VRoot][=to.blossom (ES: florecer)][--][-t][+EP]t[--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
+
+shimashiri	[=shimashiri+n.m.][NRoot][=flowering.tree.sp., plant.sp. (ES: Pino.chuncho, flor.de.mayo; sci.nm.: schizolobium.amazoni.cum); person's.name, NP]
+
+ari	[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+iyeenkati	[i-][VPers][3m.S/A+][--][=yeenka][VRoot][=to.grease.sb's,body/hair; to.get.fat (applied.to.animals, ES: engordar)][--][-t][+EP]t[--][-i][+REAL]i
+
+koshiripaye	[=koshiri+m.+poss@ti.][NRoot][=monkey.sp., white.monkey.sp. (ES: machín.blanco; sci.nm.: cebus.albifrons)][--][-paye][Num][+PL_DIST]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="558.2">
