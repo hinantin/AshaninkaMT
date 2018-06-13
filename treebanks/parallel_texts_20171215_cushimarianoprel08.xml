@@ -13586,15 +13586,41 @@ tsimiki	[=tsimi+n.m.+poss@ne.][NRoot][=macaw-and-parrot.clay.lick (QU: qullpa, E
         <parsing/>
     </text>
     <text id="562">
-        <sentence lang="prq">Raati Kompiyoki shina ipimanteri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Raati Kompiyoki shina ipimanteri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Raati Kompiyoki shina ipimanteri.</sentence>
         <sentence lang="es">Kompiyoshi saca lopuna para vender.</sentence>
-        <morphology/>
+        <morphology>
+
+
+raati	[r-][VPers][3m.S/A+][--][=a][VRoot][=to.take (ES: agarrar)][--][-ati][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]ati
+
+kompiyoki	[=kompiyoki][NRoot][=person's.name, NP]
+
+shina	[=shina][NRoot][=kapok/lupuna.tree (timber.tree; its.wood.is.used.for.making.dugout.canoes; ES: lupuna; PT: madeira.de.lei)]
+
+ipimanteri	[i-][VPers][3m.S/A+][--][=pimant][VRoot][=to.sell][--][-e][+IRR]e[--][=ri][+3m.O]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="563">
-        <sentence lang="prq">Ibakabo tyaapa shinki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ibakabo tyaapa shinki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ivakavo tyaapa shinki.</sentence>
         <sentence lang="es">La gallina se comió el maíz.</sentence>
-        <morphology/>
+        <morphology>
+
+
+ivakavo	[i-][VPers][3m.S/A+][--][=v][VRoot][=to.eat (ES: comer)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a][+REAL]a[--][=vo][+3n.m.O]
+
+tyaapa	[=tyaapa+n.m.+poss@te.][NRoot][=hen (ES: gallina); chicken]
+
+shinki	[=shinki+m.+poss@ne:ni.][NRoot][=corn, maize (ES: maíz, botany.nm.: zea.maíz)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="564">
