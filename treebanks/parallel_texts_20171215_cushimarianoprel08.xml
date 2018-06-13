@@ -13428,9 +13428,15 @@ koshiri	[=koshiri+m.+poss@ti.][NRoot][=monkey.sp., white.monkey.sp. (ES: machín
         <parsing/>
     </text>
     <text id="556">
-        <sentence lang="prq">Shitobanake osheki shiketi ikonataentakabori ocheba.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Shitobanake osheki shiketi ikonataentakabori ocheba.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Shitovanake osheki shiketi ikonataentakavori ocheva.</sentence>
         <sentence lang="es">Muchas carachamas pequeñas salieron cuando echaro barbasco en el defluente.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="557">
