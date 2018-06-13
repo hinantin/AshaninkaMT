@@ -13568,9 +13568,21 @@ shimapaye	[=shima+m.+poss@ni.][NRoot][=fish; fish.sp., boquichico-fish (ES: boqu
         <parsing/>
     </text>
     <text id="561">
-        <sentence lang="prq">Oshekini shimpoki tsimiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Oshekini shimpoki tsimiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Oshekini shimpoki tsimiki.</sentence>
         <sentence lang="es">Los tábanos abundan en la colpa.</sentence>
-        <morphology/>
+        <morphology>
+
+
+oshekini	[=osheki][AdjRoot][=many; much; a.lot][--][-ni][AS][+ADV]
+
+shimpoki	[=shimpoki][NRoot][=horsefly (ES: tábano)]
+
+tsimiki	[=tsimi+n.m.+poss@ne.][NRoot][=macaw-and-parrot.clay.lick (QU: qullpa, ES: colpa); clean.water.well.where.animals.go.to.drink, water.hole][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="562">
