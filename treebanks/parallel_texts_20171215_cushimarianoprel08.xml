@@ -13274,27 +13274,94 @@ shimashiri	[=shimashiri+n.m.][NRoot][=flowering.tree.sp., plant.sp. (ES: Pino.ch
         <parsing/>
     </text>
     <text id="550.2">
-        <sentence lang="prq">Antabo ishetaki maniti rateetantabori inchato.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Antabo ishetaki maniti rateetantabori inchato.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Antavo ishetaki maniti rateetantavori inchato.</sentence>
         <sentence lang="es">La garra grande del tigre le permite subir al árbol.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+antavo	[=antavo+n.m.][AdjRoot][=big; mature]
+
+ishetaki	[i-][NPers][3m.poss+][--][=shetaki+n.m.+inal@ntsi.][NRoot][=fingernail (ES: uña); claw (ES: garra)]
+
+maniti	[=maniti][NRoot][=tiger (ES: tigre); jaguar (sci.nm.: panthera.onca)]
+
+rateetantavori	[r-][VPers][3m.S/A+][--][=atee][VRoot][=to.go.up (ES: subir); to.climb (ES: trepar)][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-a][+REAL.RFL]a[--][=vo][+3n.m.O][--][=ri][NS][+REL]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="550.3">
-        <sentence lang="prq">Onkotsitantyari ina iiti maniro ototakeri ishetaki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Onkotsitantyari ina iiti maniro ototakeri ishetaki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Onkotsitantyari ina iiti maniro ototakeri ishetaki.</sentence>
         <sentence lang="es">Mi madre corta la pezuña de la pata del venado para cocinarla.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+onkotsitantyari	[o-][VPers][3n.m.S/A+][--][N=][IRR+][--][=kotsi][VRoot][=to.cook (ES: cocinar)][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-ya][+REAL]ya[--][=ri][+3m.O]
+
+ina	[i-][NPers][3m.poss+][--][=ina+n.m.+inal@tsi.+voc.][NRoot][=mother; wife (kin.of.a.fe/male)]
+
+iiti	[i-][NPers][3m.poss+][--][=iti+n.m.+inal@ntsi.][NRoot][=foot (ES: pie)]
+
+maniro	[=maniro+m.][NRoot][=deer (ES: venado); red.deer (ES: venado.rojo; sci.nm.: mazama.americana); gray.deer (ES: venado.gris; sci.nm.: mazama.gouazoubira)]
+
+ototakeri	[o-][VPers][3n.m.S/A+][--][=tot][VRoot][=to.cut (ES: cortar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e[--][=ri][+3m.O]
+
+ishetaki	[i-][NPers][3m.poss+][--][=shetaki+n.m.+inal@ntsi.][NRoot][=fingernail (ES: uña); claw (ES: garra)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="551">
         <sentence lang="prq">Irika atiri sheteri te ramene kametsa aririka raniti.</sentence>
         <sentence lang="es">Este hombre tuerto no mira bien por donde camina.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+irika	[=irika+m.+proximal][PrnDem][=this (ES: este)]
+
+atiri	[=atiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]
+
+sheteri	[=sheteri+m.][NRoot][=one-eyed, blind.in.one.eye (ES: tuerto)]
+
+te	[=te+future.neg.][Neg][=NEG.REAL]
+
+ramene	[r-][VPers][3m.S/A+][--][=amen][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of][--][-e][+REAL]e
+
+kametsa	[=kametsa][NRoot][=well (ES: bien), good]
+
+aririka	[=ari][PostPol][=PP][--][=rika][+COND]::[=when (temporal.simultaneity), if (expresses.possible.condition)]
+
+raniti	[r-][VPers][3m.S/A+][--][=ani][VRoot][=to.go; to.walk (ES: caminar); to.go.down][--][-t][+EP]t[--][-i][+REAL]i
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="552">
-        <sentence lang="prq">Itobakotake konki sheyaki antamiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Itobakotake konki sheyaki antamiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Itovakotake konki sheyaki antamiki.</sentence>
         <sentence lang="es">Mi suegro tumbó ungurahui en el monte.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+itovakotake	[i-][VPers][3m.S/A+][--][=tov][VRoot][=to.fell, to.cut.down (a.tree; ES: tumbar.(un.árbol))][--][-ako][VS][+APPL.GEN][=GEN: with.reference.to.sth., about.sth.; INDR: action.affects.sth.in.an.indirect.manner]ako[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
+
+konki	[=konki+m.+poss@ri:re.][NRoot][=father; father.in.law; uncle (kin.of.a.male; ES: suegro)]
+
+sheyaki	[=sheya+n.m.+poss@ni][NRoot][=palm.tree.sp. (ungurahui, unguravi)][--][-ki][+CL:S.R.H][=small,round(ed);hard;seed-like]
+
+antamiki	[=antami][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.forest][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="553">
