@@ -13499,9 +13499,26 @@ koshiripaye	[=koshiri+m.+poss@ti.][NRoot][=monkey.sp., white.monkey.sp. (ES: mac
         <parsing/>
     </text>
     <text id="558.2">
+        <sentence lang="prq" normalizationlevel="none">Amake Shimashiri osheki kemi onkotsiteri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Amake Shimashiri osheki kemi onkotsiteri.</sentence>
         <sentence lang="prq">Amake Shimashiri osheki kemi onkotsiteri.</sentence>
         <sentence lang="es">Shimashiri trajo muchos zapallos para cocinar.</sentence>
-        <morphology/>
+        <morphology>
+
+
+amake	[=am][VRoot][=to.bring (ES: traer)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e
+
+shimashiri	[=shimashiri+n.m.][NRoot][=flowering.tree.sp., plant.sp. (ES: Pino.chuncho, flor.de.mayo; sci.nm.: schizolobium.amazoni.cum); person's.name, NP]
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+kemi	[=kemi+n.m.+poss@ne.][NRoot][=pumpkin.sp. (ES: zapallo, calabaza; botany.nm.: cucurbita.sp.); squash]
+
+onkotsiteri	[o-][VPers][3n.m.S/A+][--][N=][IRR+][--][=kotsi][VRoot][=to.cook (ES: cocinar)][--][-t][+EP]t[--][-e][+REAL]e[--][=ri][+3m.O]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="559">
