@@ -13408,9 +13408,23 @@ irare	[ir-][VPers][3m.S/A.IRR+][--][=ar][VRoot][=to.fly (ES: volar)][--][-e][+RE
         <parsing/>
     </text>
     <text id="555">
-        <sentence lang="prq">Ikentakeri jani ishibiki koshiri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikentakeri jani ishibiki koshiri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikentakeri hani ishiviki koshiri.</sentence>
         <sentence lang="es">La avispa picó al mono en el pene.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ikentakeri	[i-][VPers][3m.S/A+][--][=kent][VRoot][=to.pierce.with.arrows, to.shoot.arrows; to.sting (ES: picar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e[--][=ri][+3m.O]
+
+hani	[=hani+m.][NRoot][=wasp (ES: avispa)]
+
+ishiviki	[i-][NPers][3m.poss+][--][=shivi+n.m.+inal@tsi.][NRoot][=penis (ES: pene)][--][-ki][Cas][+LOC_LOC.T]
+
+koshiri	[=koshiri+m.+poss@ti.][NRoot][=monkey.sp., white.monkey.sp. (ES: machín.blanco; sci.nm.: cebus.albifrons)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="556">
