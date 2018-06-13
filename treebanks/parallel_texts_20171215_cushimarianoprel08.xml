@@ -13428,13 +13428,24 @@ koshiri	[=koshiri+m.+poss@ti.][NRoot][=monkey.sp., white.monkey.sp. (ES: machín
         <parsing/>
     </text>
     <text id="556">
-        <sentence lang="prq" normalizationlevel="none">Shitobanake osheki shiketi ikonataentakabori ocheba.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">Shitovanake osheki shiketi ikonataentakavori ocheva.</sentence>
+        <!-- Shitobanake osheki shiketi ikonataentakabori ocheba. -->
+        <sentence lang="prq" normalizationlevel="none">Shitobanake osheki shiketi ikonatantakabori ocheba.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Shitovanake osheki shiketi ikonatantakavori ocheva.</sentence>
         <sentence lang="es">Muchas carachamas pequeñas salieron cuando echaro barbasco en el defluente.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
+shitovanake	[=shitov][VRoot][=to.leave (ES: salir); to.escape][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
 
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+shiketi	[=shiketi][NRoot][=(small).armored.catfish.sp. (ES: carachama.pequeña), fish.sp.]
+
+ikonatantakavori	[i-][VPers][3m.S/A+][--][=kona][VRoot][=to.fish.with.barbasco/poison (ES: pescar.con.cubé)][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a][+REAL.RFL]a[--][=vo][+3n.m.O][--][=ri][NS][+REL]
+
+ocheva	[o-][NPers][3n.m.poss+][--][=cheva][NRoot][=(river's).branch, distributary (ES: brazo.de.río, defluente)]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
