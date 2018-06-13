@@ -13522,9 +13522,27 @@ onkotsiteri	[o-][VPers][3n.m.S/A+][--][N=][IRR+][--][=kotsi][VRoot][=to.cook (ES
         <parsing/>
     </text>
     <text id="559">
-        <sentence lang="prq">Aririka amanite nija amake osheki oshimore.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Aririka amanite nija amake osheki oshimore.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Aririka amanite niha amake osheki oshimore.</sentence>
         <sentence lang="es">Cuando el río crece, trae mucha espuma.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+aririka	[=ari][PostPol][=PP][--][=rika][+COND]::[=when (temporal.simultaneity), if (expresses.possible.condition)]
+
+amanite	[=amani+n.m.][NRoot][=increase (ES: creciente)]::[=to.increase (ES: crecer)]+vbz.[--][-t][+EP]t[--][-e][+REAL]e
+
+niha	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
+
+amake	[=am][VRoot][=to.bring (ES: traer)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+oshimore	[o-][NPers][3n.m.poss+][--][=shimore+n.m.+inal@ntsi.][NRoot][=saliva, spit(tle) (ES: saliva); foam (ES: espuma)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="560">
