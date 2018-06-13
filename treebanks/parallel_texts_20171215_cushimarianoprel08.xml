@@ -13624,9 +13624,27 @@ shinki	[=shinki+m.+poss@ne:ni.][NRoot][=corn, maize (ES: maíz, botany.nm.: zea.
         <parsing/>
     </text>
     <text id="564">
-        <sentence lang="prq">Irika shirampari shinkirenti iro inkame aakeri itashe.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Irika shirampari shinkirenti iro inkame aakeri itashe.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Irika shirampari shinkirenti iro inkame aakeri itashe.</sentence>
         <sentence lang="es">Este hombre borracho ya se muere de hambre.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+irika	[=irika+m.+proximal][PrnDem][=this (ES: este)]
+
+shirampari	[=shirampari+m.][NRoot][=man; male (ES: hombre)]
+
+shinkirenti	[=shinki][VRoot][=to.get.drunk; to.intoxicate][--][-renti+m.][NS][+ADJ.CAPABLE]renti
+
+iro	[=iro+cont.d.top.][PrnPers][+3SG.n.m.][=she, it; that's why (ES: por.eso)]
+
+inkame	[i-][VPers][3m.S/A+][--][N=][IRR+][--][=kam][VRoot][=to.die][--][-e][+REAL]e
+
+itashe	[i-][VPers][3m.S/A+][--][=tash][VRoot][=to.be.hungry (ES: tener.hambre)][--][-e][+REAL]e
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="565">
