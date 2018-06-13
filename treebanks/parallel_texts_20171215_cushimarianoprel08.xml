@@ -13503,7 +13503,7 @@ koshiripaye	[=koshiri+m.+poss@ti.][NRoot][=monkey.sp., white.monkey.sp. (ES: mac
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Amake Shimashiri osheki kemi onkotsiteri.</sentence>
         <sentence lang="prq">Amake Shimashiri osheki kemi onkotsiteri.</sentence>
         <sentence lang="es">Shimashiri trajo muchos zapallos para cocinar.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 amake	[=am][VRoot][=to.bring (ES: traer)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e
