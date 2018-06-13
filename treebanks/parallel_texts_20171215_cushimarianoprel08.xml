@@ -13365,9 +13365,24 @@ antamiki	[=antami][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.for
         <parsing/>
     </text>
     <text id="553">
-        <sentence lang="prq">Ishibaitatya eentsi robajempiakabo iraka.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ishibaitatya eentsi robajempiakabo iraka.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ishivaitatya eentsi rovahempiakavo iraka.</sentence>
         <sentence lang="es">Al niño le dio diarrea cuando comió el maduro.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ishivaitatya	[i-][VPers][3m.S/A+][--][=shi][VRoot][=to.defecate.on.sth. (ES: defecar)][--][-vai][ASP][+DUR][=action/state.endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]vai[--][-t][+EP]t[--][-aty][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]aty[--][-a][+REAL]a
+
+eentsi	[=eentsi+n./m.+poss@te.][NRoot][=child (ES: niño)]
+
+???
+rovahempiakavo	[r-][VPers][3m.S/A+][--][o=][AGT.CAUS+][--][=v][VRoot][=to.eat (ES: comer)][--][-ahempi][+UNK1][=when]ahempi[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a][+REAL.RFL]a[--][=vo][+3n.m.O]
+
+iraka	[i-][NPers][3m.poss+][--][=iraka][NRoot][=ripe (ES: maduro)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="554">
