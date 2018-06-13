@@ -13546,9 +13546,25 @@ oshimore	[o-][NPers][3n.m.poss+][--][=shimore+n.m.+inal@ntsi.][NRoot][=saliva, s
         <parsing/>
     </text>
     <text id="560">
-        <sentence lang="prq">Robetsikake shimperi charine oteyantyaariri shimapaye.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Robetsikake shimperi charine oteyantyaariri shimapaye.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovetsikake shimperi charine oteyantyaariri shimapaye.</sentence>
         <sentence lang="es">El abuelo preparó la naza para atrapar a los peces.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+rovetsikake	[ro-][VPers][3n.m.S/A+][--][=vetsik][VRoot][=to.fix; to.make (ES: preparar.comida/bebida); to.create, to.build][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
+
+shimperi	[=shimperi+n.m.+inal@ntsi.][NRoot][=fish.trap (ES: nasa, sp.de.trampa/cepo.para.los.peces), fishing.trap]
+
+charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male); grandson (ES: nieto)]
+
+oteyantyaariri	[=otey][VRoot][=to.take.sth., to.catch.sth. (ES: agarrar)][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-yaa][+REAL]yaa[--][=ri][+3m.O][--][=ri][NS][+REL]
+
+shimapaye	[=shima+m.+poss@ni.][NRoot][=fish; fish.sp., boquichico-fish (ES: boquichico, chupadora; sci.nm.: prochilodus.nigricans)][--][-paye][Num][+PL_DIST]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="561">
