@@ -14076,9 +14076,18 @@ paamari	[=paamari+n.m.][NRoot][=fire (ES: candela, fuego)]
         <parsing/>
     </text>
     <text id="582.1">
-        <sentence lang="prq">Shitobake jamaani maabetachari omoonaki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Shitobake jamaani maabetachari omoonaki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Shitovake hamaani maavetachari omoonaki.</sentence>
         <sentence lang="es">El majás que dormía en el hueco salió.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+shitovake	[=shitov][VRoot][=to.leave (ES: salir); to.escape][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
+
+hamaani	[=hamaani+m.][NRoot][=rodent.sp., paca (ES: picuro, majás, majas, majaz, zamaño; sci.nm.: coelogenus.paca)]
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="582.2">
