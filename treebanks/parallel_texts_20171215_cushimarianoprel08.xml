@@ -14114,9 +14114,23 @@ nampitsi	[=nampi+n.m.+inal@tsi.][NRoot][=village (ES: aldea; PT: aldeia); place;
         <parsing/>
     </text>
     <text id="583">
-        <sentence lang="prq">Iro robanabo konoya shitobi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iro robanabo konoya shitobi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iro rovanavo konoya shitovi.</sentence>
         <sentence lang="es">El alimento del motelo es la callampa.</sentence>
-        <morphology/>
+        <morphology>
+
+
+iro	[=iro+cont.d.top.][PrnPers][+3SG.n.m.][=she, it; that's why (ES: por.eso)]
+
+rovanavo	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-a][+REAL]a[--][=vo][+3n.m.O]
+
+konoya	[=konoya+m.][NRoot][=tortoise, turtle, motelo-turtle, land.turtle.sp. (ES: tortuga.de.tierra; PT: jabuti)]
+
+shitovi	[=shitovi+n.m.][NRoot][=orange/purple-colored.edible.mushroom (ES: hongo.comestible, hongo.callampa); callampa-mushroom]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="584">
