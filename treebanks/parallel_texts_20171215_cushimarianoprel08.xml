@@ -14194,33 +14194,107 @@ kiteeheriki	[=kiteehe][VRoot][=to.be.morning; to.dawn; to.get.up.early][--][-ri+
         <parsing/>
     </text>
     <text id="586.2">
-        <sentence lang="prq">Ishiyakakabo ebankari ishirontane.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ishiyakakabo evankari ishirontane.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ishiyakakavo evankari ishirontane.</sentence>
         <sentence lang="es">El joven hizo escapar a su enamorada.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ishiyakakavo	[i-][VPers][3m.S/A+][--][=shiy][VRoot][=to.escape, to.run (ES: escapar)][--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a][+REAL]a[--][=vo][+3n.m.O]
+
+evankari	[=evankari+m.][NRoot][=young.man, adolescent]
+
+???
+ishirontane	[i-][VPers][3m.S/A+][--][=shiron][VRoot][=to.laugh.at.sb.][--][-t][+EP]t[--][-a][+REAL.RFL]a[--][=ne][NS][+REL.IRR]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="587">
-        <sentence lang="prq">Raminiro pabachori shiyakaantsipaye.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Raminiro pabachori shiyakaantsipaye.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Raminiro pavachori shiyakaantsipaye.</sentence>
         <sentence lang="es">Mi tío mira las fotos.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+raminiro	[r-][VPers][3m.S/A+][--][=amin][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of][--][-i][+IRR]i[--][=ro][+3n.m.O]
+
+pavachori	[=pavachori+m.+poss@ti.][NRoot][=uncle (kin.of.a.male)]
+
+shiyakaantsipaye	[=shiyak][VRoot][=to.take.a.picture (ES: tomar.una.foto)][--][-aantsi][NS][+NMZ.INF]aantsi[--][-paye][Num][+PL_DIST]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="588.1">
-        <sentence lang="prq">Osheki shiyakomentotsi antaboki nampitsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Osheki shiyakomentotsi antaboki nampitsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Osheki shiyakomentotsi antavoki nampitsiki.</sentence>
         <sentence lang="es">Hay muchos carros en las ciudades grandes.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+shiyakomentotsi	[=shiy][VRoot][=to.escape, to.run (ES: escapar)][--][-ako][VS][+APPL.GEN][=GEN: with.reference.to.sth., about.sth.; INDR: action.affects.sth.in.an.indirect.manner]ako[--][-mento+n.m.][NS][+NMZ.CONCR]mento[--][-tsi+alien.][Gen][+nposs]tsi
+
+???
+antavoki	[a-][NPers][1PL.poss+][--][=n][VRoot][=to.be][--][-t][+EP]t[--][-a][+CL:liquid][=liquid]a[--][-vo+n.m.][NS][+NMZ]vo[--][-ki][+CL:human.populated][=place.populated.by.humans]
+
+nampitsiki	[=nampi+n.m.+inal@tsi.][NRoot][=village (ES: aldea; PT: aldeia); place; country; settlement][--][-tsi+alien.][Gen][+nposs]tsi[--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="588.2">
-        <sentence lang="prq">Ramanantake obaeyirori iñaane Paba ishiyakomento iyaatantyari Tampoki. </sentence>
+        <sentence lang="prq" normalizationlevel="none">Ramanantake obaeyirori iñaane Paba ishiyakomento iyaatantyari Tampoki. </sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ramanantake ovaeyirori inyaane Pava ishiyakomento iyaatantyari Tampoki. </sentence>
         <sentence lang="es">El pastor compró un bote a motor para viajar en el río Tambo.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ramanantake	[r-][VPers][3m.S/A+][--][=amanant][VRoot][=to.buy (ES: comprar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
+
+ovaeyirori	[=ov][VRoot][=to.save.sth.in.sth. (ES: guardar.algo)][--][-aey][+PL]aey[--][-i][+REAL]i[--][=ro][+3n.m.O][--][=ri][NS][+REL]
+
+inyaane	[i-][NPers][3m.poss+][--][=nyaa+n.m.+inal@ntsi.+poss@ne.][NRoot][=word (ES: palabra); language][--][-ne][Gen][+aln.poss.]ne
+
+pava	[=pava+m.+poss@ni.][NRoot][=solar.deity; god (ES: dios); creator (PT: Deus.solar,, o.demiurgo.ashaninka); dad, father]
+
+ishiyakomento	[i-][NPers][3m.poss+][--][=shiy][VRoot][=to.be.like, to.be.similar, to.resemble][--][-ako][VS][+APPL.GEN][=GEN: with.reference.to.sth., about.sth.; INDR: action.affects.sth.in.an.indirect.manner]ako[--][-mento+n.m.][NS][+NMZ.CONCR]mento
+
+iyaatantyari	[=iyaa][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-ya][+IRR]ya[--][=ri][+3m.O]
+
+tampoki	[=tampo+poss@ne.][NRoot][=main.river, Tambo.river][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="589">
-        <sentence lang="prq">Iyotiro konki rantiro shobirentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iyotiro konki rantiro shobirentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iyotiro konki rantiro shovirentsi.</sentence>
         <sentence lang="es">Mi suegro es experto en hacer quenas.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+iyotiro	[=iyot][VRoot][=to.know (ES: saber); to.understand (ES: entender)][--][-i][+REAL]i[--][=ro][+3n.m.O]
+
+konki	[=konki+m.+poss@ri:re.][NRoot][=father; father.in.law; uncle (kin.of.a.male; ES: suegro)]
+
+rantiro	[r-][VPers][3m.S/A+][--][=ant][VRoot][=to.beat, to.hit; to.build, to.do, to.make][--][-i][+IRR]i[--][=ro][+3n.m.O]
+
+shovirentsi	[=shovire+n.m.+inal@ntsi.][NRoot][=(single-flute).flute (ES: quena), kapiro-bamboo/reed.flute (used.in.Andean.music)][--][-ntsi+alien.][Gen][+nposs]ntsi
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="590">
