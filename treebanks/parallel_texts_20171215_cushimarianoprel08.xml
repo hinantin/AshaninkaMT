@@ -14054,9 +14054,25 @@ mantsiyarentsi	[=mantsiy][VRoot][=to.be.sick (ES: enfermar(se))][--][-a][+EP]a[-
         <parsing/>
     </text>
     <text id="581">
-        <sentence lang="prq">Ijeekantabo apa shitashintsi rakitsitabo paamari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ijeekantabo apa shitashintsi rakitsitabo paamari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iheekantavo apa shitashintsi rakitsitavo paamari.</sentence>
         <sentence lang="es">Mi papá está sentado sobre la estera cerca de la candela.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+iheekantavo	[i-][VPers][3m.S/A+][--][=heek][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir); to.be][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-a][+REAL.RFL]a[--][=vo][+3n.m.O]
+
+apa	[=apa+m.][NRoot][=father (kin.of.a.fe/male)]
+
+shitashintsi	[=shitashi+n.m.+inal@ntsi.][NRoot][=mat (ES: estera; PT: esteira)][--][-ntsi+alien.][Gen][+nposs]ntsi
+
+rakitsitavo	[r-][VPers][3m.S/A+][--][=akitsi][VRoot][=to.get.warm (ES: calentarse)][--][-t][+EP]t[--][-a][+REAL]a[--][=vo][+3n.m.O]
+
+paamari	[=paamari+n.m.][NRoot][=fire (ES: candela, fuego)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="582.1">
