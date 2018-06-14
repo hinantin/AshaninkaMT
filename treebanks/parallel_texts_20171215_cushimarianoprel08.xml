@@ -13670,9 +13670,29 @@ shinkiririti	[=shinkiririti][NRoot][=whirlwind, wind.swirl (ES: remolino.de.vien
         <parsing/>
     </text>
     <text id="566">
-        <sentence lang="prq">Ramaatakoti ayompari ishintipaareki riyatantyari aatariki obeni. </sentence>
+        <sentence lang="prq" normalizationlevel="none">Ramaatakoti ayompari ishintipaareki riyatantyari aatariki obeni. </sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ramaatakoti ayompari ishintipaareki riyatantyari aatariki oveni. </sentence>
         <sentence lang="es">Los amigos bajan en la balsa hasta la boca del río Unini.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+???
+ramaatakoti	[r-][VPers][3m.S/A+][--][=amaa][VRoot][=to.swim][--][-t][+EP]t[--][-ako][VS][+APPL.GEN][=GEN: with.reference.to.sth., about.sth.; INDR: action.affects.sth.in.an.indirect.manner]ako[--][-t][+EP]t[--][-i][+REAL]i
+
+ayompari	[=ayompari][NRoot][=trading.partner (ES: compañero.de.trueque); friend (ES: amigo); short-distance.bartering.made.by.males (ES: trueque.de.corta.distancia)]
+
+ishintipaareki	[i-][NPers][3m.poss+][--][=shintipa+n.m.+poss@re.][NRoot][=raft, balsa][--][-a][+CL:liquid][=liquid][--][-re][Gen][+aln.poss.]re[--][-ki][Cas][+LOC_LOC.T]
+
+riyatantyari	[r-][VPers][3m.S/A+][--][=iya][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-ya][+REAL]ya[--][=ri][+3m.O]
+
+???
+aatariki	[=aa][VRoot][=to.perch; to.land, to.disembark; to.dock (ES: atracar)][--][-t][+EP]t[--][-a][+CL:liquid][=liquid]a[--][-ri+m.][NS][+ADJ.NMZ]ri[--][-ki][Cas][+LOC_LOC.T]
+
+oveni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="567">
