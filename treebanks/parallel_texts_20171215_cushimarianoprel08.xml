@@ -13804,7 +13804,20 @@ namampaatyeri	[n-][VPers][1SG.S/A+][--][=amamp][VRoot][=to.sing (ES: cantar)][--
     <text id="571">
         <sentence lang="prq">Ontimatye oya otimantyari ashintsinka.</sentence>
         <sentence lang="es">Tenemos que comer para tener fuerza.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ontimatye	[o-][VPers][3n.m.S/A+][--][N=][IRR+][--][=tim][VRoot][=POSSESS (EN: to.have; ES: tener); to.give.birth][--][-aty][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]aty[--][-e][+IRR]e
+
+oya	[=oy][VRoot][=to.eat (ES: comer)][--][-a][+REAL]a
+
+otimantyari	[o-][VPers][3n.m.S/A+][--][=tim][VRoot][=POSSESS (EN: to.have; ES: tener); to.give.birth][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-ya][+REAL]ya[--][=ri][+3m.O]
+
+ashintsinka	[a-][NPers][1PL.poss+][--][=shintsi][VRoot][=to.be.strong][--][-nka][NS][+NMZ.QLTY]nka
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="572">
