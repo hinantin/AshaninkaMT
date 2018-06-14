@@ -13738,9 +13738,21 @@ oime	[o-][NPers][3n.m.poss+][--][=ime+m.+voc.][NRoot][=husband (kin.of.a.female;
         <parsing/>
     </text>
     <text id="569">
-        <sentence lang="prq">Ishintsaerikakeri obametantatsiri irianikipaye.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ishintsaerikakeri obametantatsiri irianikipaye.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ishintsaerikakeri ovametantatsiri irianikipaye.</sentence>
         <sentence lang="es">El profesor puso en fila a los niños.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+???
+ishintsaerikakeri	ishintsaerikakeri	+?
+
+ovametantatsiri	[=ovame][VRoot][=to.teach (ES: enseñar)][--][-t][+EP]t[--][-ant][+APPL.INST][=reason,instrumentality;in.order.to]ant[--][-atsi][Asp][+STAT.IPRF]atsi[--][=ri][NS][+REL]
+
+???
+irianikipaye	[=iriani][NRoot][=child (ES: niño)][--][-ki][+CL:S.R.H][=small,round(ed);hard;seed-like][--][-paye][Num][+PL_DIST]
+
+</morphology>
         <parsing/>
     </text>
     <text id="570.1">
