@@ -13821,14 +13821,31 @@ ashintsinka	[a-][NPers][1PL.poss+][--][=shintsi][VRoot][=to.be.strong][--][-nka]
         <parsing/>
     </text>
     <text id="572">
-        <sentence lang="prq">Shipetare atiri eero raabiro rataetero otishi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Shipetare atiri eero raabiro rataetero otishi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Shipetare atiri eero raaviro rataetero otishi.</sentence>
         <sentence lang="es">La persona débil no puede subir al cerro.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+shipetare	[=shipeta][VRoot][=to.weaken, to.become.weak (ES: debilitarse)][--][-re+m.][NS][+NMZ]re
+
+atiri	[=atiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]
+
+eero	[=eero][Neg][=NEG.IRR]
+
+???
+
+rataetero	[r-][VPers][3m.S/A+][--][=atae][VRoot][=to.go.up (ES: subir); to.climb (ES: trepar)][--][-t][+EP]t[--][-e][+REAL]e[--][=ro][+3n.m.O]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="573">
         <!-- Shipetatantsi kkari ñaatsabaerontsi ari obamaake. -->
-        <sentence lang="prq">Shipetatantsi kari ñaatsabaerontsi ari obamaake.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Shipetatantsi kari ñaatsabaerontsi ari obamaake.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Shipetatantsi kari nyaatsavaerontsi ari obamaake.</sentence>
         <sentence lang="es">La debilidad no es una broma; nos puede causar la muerte.</sentence>
         <morphology/>
         <parsing/>
