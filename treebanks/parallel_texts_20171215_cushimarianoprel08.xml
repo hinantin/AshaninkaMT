@@ -13904,15 +13904,40 @@ mantsiyare	[=mantsiy][VRoot][=to.be.sick (ES: enfermar(se))][--][-a][+EP]a[--][-
         <parsing/>
     </text>
     <text id="575.2">
-        <sentence lang="prq">Añaabakajea shiretsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Añaabakajea shiretsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Anyaavakahea shiretsiki.</sentence>
         <sentence lang="es">Nos veremos en el futuro próximo.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+anyaavakahea	[a-][VPers][1PL.S/A+][--][=ny][VRoot][=to.see, to.look.for; to.visit][--][-a][+EP]a[--][-av][+RCP]av[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-ea][+IRR]ea
+
+???
+shiretsiki	[=shire+n.m.+inal@tsi.][NRoot][=(human).spirit, soul; spirit.of.a.dead.person][--][-tsi+alien.][Gen][+nposs]tsi[--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="576.1">
-        <sentence lang="prq">Oshirikiro isheni ichenko charine.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Oshirikiro isheni ichenko charine.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Oshirikiro isheni ichenko charine.</sentence>
         <sentence lang="es">Mi abuela cose el pantalón de mi abuelo.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+oshirikiro	[o-][VPers][3n.m.S/A+][--][=shirik][VRoot][=to.sew.sth (ES: tejer; coser), to.tie.sth.][--][-i][+REAL]i[--][=ro][+3n.m.O]
+
+isheni	[=isheni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
+
+ichenko	[i-][NPers][3m.poss+][--][=chenko+n.m.+inal@tsi.][NRoot][=trousers, pants (ES: pantalón)]
+
+charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male); grandson (ES: nieto)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="576.2">
