@@ -14028,9 +14028,29 @@ makotake	[=mako][VRoot][=to.tire; to.rest; to.get.tired (ES: cansarse)][--][-t][
         <parsing/>
     </text>
     <text id="580">
-        <sentence lang="prq">Rantakaantake ameniriri mantsiyare shitamentotsi eero añantabo mantsiyarentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Rantakaantake ameniriri mantsiyare shitamentotsi eero añantabo mantsiyarentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rantakaantake ameniriri mantsiyare shitamentotsi eero anyantavo mantsiyarentsi.</sentence>
         <sentence lang="es">El enfermero hizo construir letrinas para prevenir enfermendades.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+rantakaantake	[r-][VPers][3m.S/A+][--][=ant][VRoot][=to.beat, to.hit; to.build, to.do, to.make][--][-aka][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]aka[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
+
+ameniriri	[=amen][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of][--][-i][+REAL]i[--][=ri][+3m.O][--][=ri][NS][+REL]
+
+mantsiyare	[=mantsiy][VRoot][=to.be.sick (ES: enfermar(se))][--][-a][+EP]a[--][-re+m.][NS][+NMZ]re
+
+shitamentotsi	[=shit][VRoot][=to.defecate.on.sth. (ES: defecar)][--][-a][+EP]a[--][-mento+n.m.][NS][+NMZ.CONCR]mento[--][-tsi+alien.][Gen][+nposs]tsi
+
+eero	[=eero][Neg][=NEG.IRR]
+
+???
+
+mantsiyarentsi	[=mantsiy][VRoot][=to.be.sick (ES: enfermar(se))][--][-a][+EP]a[--][-re+m.][NS][+NMZ]re[--][-ntsi+alien.][Gen][+nposs]ntsi
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="581">
