@@ -13985,9 +13985,23 @@ kipatsiki	[=kipatsi+n.m.+poss@te:ti.][NRoot][=ground, earth (ES: tierra); mud; l
         <parsing/>
     </text>
     <text id="578">
-        <sentence lang="prq">Oshirontaka tsinane osheki oshinkitantari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Oshirontaka tsinane osheki oshinkitantari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Oshirontaka tsinane osheki oshinkitantari.</sentence>
         <sentence lang="es">La mujer se rió demasiado cuando se emborrachó.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+oshirontaka	[o-][VPers][3n.m.S/A+][--][=shiron][VRoot][=to.laugh.at.sb.][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a][+REAL]a
+
+tsinane	[=tsinane+n.m.][NRoot][=female, woman (ES: mujer); young.girl]
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+oshinkitantari	[o-][VPers][3n.m.S/A+][--][=shinki][VRoot][=to.get.drunk; to.intoxicate][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-a][+REAL.RFL]a[--][=ri][NS][+REL]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="579">
