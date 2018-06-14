@@ -13648,9 +13648,25 @@ itashe	[i-][VPers][3m.S/A+][--][=tash][VRoot][=to.be.hungry (ES: tener.hambre)][
         <parsing/>
     </text>
     <text id="565">
-        <sentence lang="prq">Pishiyakaeri pitomi, ataerikari shinkiririti.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Pishiyakaeri pitomi, ataerikari shinkiririti.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Pishiyakaeri pitomi, ataerikari shinkiririti.</sentence>
         <sentence lang="es">Haz correr a tu hijo; cuidado que lo agarre el remolino.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+pishiyakaeri	[pi-][VPers][2S/A+][--][=shiy][VRoot][=to.escape, to.run (ES: escapar)][--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-a][+EP]a[--][-e][+REAL]e[--][=ri][+3m.O]
+
+pitomi	[pi-][NPers][2poss+][--][=tomi+m.+inal@tsi.][NRoot][=son (kin.of.a.fe/male)]
+
+,	,[$.]
+
+ataerikari	[=a][VRoot][=to.get][--][-t][+EP]t[--][=ae][+1INCL.PL.O][=(to).us (ES: (a).nosotros)]ae[--][=ri][+3m.O][--][-kari][MODAL][+APPR][=lest (in.order.to.prevent; ES: ¡cuidado!)]
+
+shinkiririti	[=shinkiririti][NRoot][=whirlwind, wind.swirl (ES: remolino.de.viento)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="566">
