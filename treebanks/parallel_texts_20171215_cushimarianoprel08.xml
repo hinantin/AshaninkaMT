@@ -13718,9 +13718,23 @@ tsimiki	[=tsimi+n.m.+poss@ne.][NRoot][=macaw-and-parrot.clay.lick (QU: qullpa, E
         <parsing/>
     </text>
     <text id="568">
-        <sentence lang="prq">Ishinto niyompari aake oime.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ishinto niyompari aake oime.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ishinto niyompari aake oime.</sentence>
         <sentence lang="es">La hija de mi amigo se casó.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ishinto	[i-][NPers][3m.poss+][--][=shinto+n.m.+inal@tsi.][NRoot][=daughter (kin.of.a.fe/male)]
+
+niyompari	[n-][NPers][1SG.poss+][--][=iyompari+m.][NRoot][=friend (ES: amigo); trading.partner]
+
+aake	[=a][VRoot][=to.get][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
+
+oime	[o-][NPers][3n.m.poss+][--][=ime+m.+voc.][NRoot][=husband (kin.of.a.female; ES: esposo)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="569">
