@@ -14005,9 +14005,26 @@ oshinkitantari	[o-][VPers][3n.m.S/A+][--][=shinki][VRoot][=to.get.drunk; to.into
         <parsing/>
     </text>
     <text id="579">
-        <sentence lang="prq">Mariapake charine shitamentotsiki makotake.</sentence>
+        <!-- The translation doesn't align shitamentotsiki -> shitamenkotsiki -> en la tarima 
+            Mariapake charine shitamentotsiki makotake. -->
+        <sentence lang="prq" normalizationlevel="none">Mariapake charine shitamenkotsiki makotake.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Mariapake charine shitamenkotsiki makotake.</sentence>
         <sentence lang="es">El abuelo se echó en la tarima para descansar.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+???
+mariapake	[=ma][VRoot][=to.sleep (ES: dormir)][--][-ri][+REV]ri[--][-ap+goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
+
+charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male); grandson (ES: nieto)]
+
+shitamenkotsiki	[=shitamenko+n.m.+inal@tsi.][NRoot][=dais, wooden_platform (ES: tarima.(hecha.de.pona))][--][-tsi+alien.][Gen][+nposs]tsi[--][-ki][Cas][+LOC_LOC.T]
+
+makotake	[=mako][VRoot][=to.tire; to.rest; to.get.tired (ES: cansarse)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="580">
