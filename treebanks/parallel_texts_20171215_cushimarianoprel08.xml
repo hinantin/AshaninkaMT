@@ -13845,9 +13845,24 @@ rataetero	[r-][VPers][3m.S/A+][--][=atae][VRoot][=to.go.up (ES: subir); to.climb
     <text id="573">
         <!-- Shipetatantsi kkari ñaatsabaerontsi ari obamaake. -->
         <sentence lang="prq" normalizationlevel="none">Shipetatantsi kari ñaatsabaerontsi ari obamaake.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">Shipetatantsi kari nyaatsavaerontsi ari obamaake.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Shipetatantsi kari nyaatsavaerontsi ari ovamaake.</sentence>
         <sentence lang="es">La debilidad no es una broma; nos puede causar la muerte.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+shipetatantsi	[=shipeta][VRoot][=to.weaken, to.become.weak (ES: debilitarse)][--][-t][+EP]t[--][-antsi][NS][+NMZ.INF]antsi
+
+kari	[=kari][Neg][=NEG.COP (EN: not.be, this.is.not.so; ES: no.es,, ¿por.qué.no?,, ¿no.es?)]
+
+nyaatsavaerontsi	[=nyaatsa][VRoot][=to.play; to.have.sex (euphemism)][--][-vae][ASP][+DUR][=action/state.endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]vae[--][-ro+n.m.][NS][+NMZ]ro[--][-ntsi+alien.][Gen][+nposs]ntsi
+
+ari	[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+ovamaake	[o-][VPers][3n.m.S/A+][--][=vam][VRoot][=to.cause.death, to.make.sb/sth.die][--][-a][+EP]a[--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-e][+IRR]e
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="574">
