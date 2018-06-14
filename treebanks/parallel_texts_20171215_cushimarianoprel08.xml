@@ -14134,9 +14134,25 @@ shitovi	[=shitovi+n.m.][NRoot][=orange/purple-colored.edible.mushroom (ES: hongo
         <parsing/>
     </text>
     <text id="584">
-        <sentence lang="prq">Ikiyakoti ani ishitsa rakachatantyari nijateniki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikiyakoti ani ishitsa rakachatantyari nijateniki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikiyakoti ani ishitsa rakachatantyari nihateniki.</sentence>
         <sentence lang="es">Mi cuñado saca lombrices para ir a pescar en la quebrada.</sentence>
-        <morphology/>
+        <morphology>
+
+
+ikiyakoti	[i-][VPers][3m.S/A+][--][=kiy][VRoot][=to.dig (ES: escarbar)][--][-ako][VS][+APPL.GEN][=GEN: with.reference.to.sth., about.sth.; INDR: action.affects.sth.in.an.indirect.manner]ako[--][-t][+EP]t[--][-i][+REAL]i
+
+ani	[=ani+m.+poss@ri.][NRoot][=brother.in.law (kin.of.a.male)]
+
+ishitsa	[i-][NPers][3m.poss+][--][=shitsa][NRoot][=vine; string.like; worm.sp., intestinal.worm (ES: sp.de.lombriz.de.tierra/instestinal)]
+
+rakachatantyari	[r-][VPers][3m.S/A+][--][=akacha][VRoot][=to.fish.with.a.line.and.a.hook, to.angle (ES: ansolear)][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-ya][+IRR]ya[--][=ri][+3m.O]
+
+nihateniki	[=nihateni][NRoot][=brook; creek (ES: quebrada, arroyo)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="585">
