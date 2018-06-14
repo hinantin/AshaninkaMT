@@ -13866,15 +13866,41 @@ ovamaake	[o-][VPers][3n.m.S/A+][--][=vam][VRoot][=to.cause.death, to.make.sb/sth
         <parsing/>
     </text>
     <text id="574">
-        <sentence lang="prq">Ishiyakaakabo shirampari tsinane.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ishiyakaakabo shirampari tsinane.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ishiyakaakavo shirampari tsinane.</sentence>
         <sentence lang="es">El hombre hizo escapar a la mujer.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ishiyakaakavo	[i-][VPers][3m.S/A+][--][=shiy][VRoot][=to.escape, to.run (ES: escapar)][--][-aka][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]aka[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a][+REAL.RFL]a[--][=vo][+3n.m.O]
+
+shirampari	[=shirampari+m.][NRoot][=man; male (ES: hombre)]
+
+tsinane	[=tsinane+n.m.][NRoot][=female, woman (ES: mujer); young.girl]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="575.1">
-        <sentence lang="prq">Ramaero sheripiari ishire mantsiyare iro rantsiinkantanakari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ramaero sheripiari ishire mantsiyare iro rantsiinkantanakari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ramaero sheripiari ishire mantsiyare iro rantsiinkantanakari.</sentence>
         <sentence lang="es">El curandero hizo volver al espíritu del enfermo, por eso estornudó.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ramaero	[r-][VPers][3m.S/A+][--][=am][VRoot][=to.bring (ES: traer)][--][-a][+EP]a[--][-e][+IRR]e[--][=ro][+3n.m.O]
+
+sheripiari	[=sheripiari+m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero; PT: pajé)]
+
+ishire	[i-][NPers][3m.poss+][--][=shire+n.m.+inal@tsi.][NRoot][=(human).spirit, soul; spirit.of.a.dead.person]
+
+mantsiyare	[=mantsiy][VRoot][=to.be.sick (ES: enfermar(se))][--][-a][+EP]a[--][-re+m.][NS][+NMZ]re
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="575.2">
