@@ -14094,9 +14094,23 @@ maavetachari	[=ma][VRoot][=to.sleep (ES: dormir)][--][-a][+EP]a[--][-ve][+FRUS][
         <parsing/>
     </text>
     <text id="582.2">
-        <sentence lang="prq">Shitobaje pinkatsari jebatirori nampitsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Shitobaje pinkatsari jebatirori nampitsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Shitovahe pinkatsari hevatirori nampitsi.</sentence>
         <sentence lang="es">El jefe de la comunidad salió del cargo.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+shitovahe	[=shitov][VRoot][=to.leave (ES: salir); to.escape][--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-e][+REAL]e
+
+pinkatsari	[=pinkatsari+m.+voc.+poss@te.][NRoot][=chief (ES: jefe); regional.leader]
+
+hevatirori	[=heva][VRoot][=to.lead][--][-t][+EP]t[--][-i][+IRR]i[--][=ro][+3n.m.O][--][=ri][NS][+REL]
+
+nampitsi	[=nampi+n.m.+inal@tsi.][NRoot][=village (ES: aldea; PT: aldeia); place; country; settlement][--][-tsi+alien.][Gen][+nposs]tsi
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="583">
