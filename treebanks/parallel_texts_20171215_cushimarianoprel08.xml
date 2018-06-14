@@ -13780,9 +13780,25 @@ ini	[i-][VPers][3m.S/A+][--][=n][VRoot][=to.be][--][-i][+REAL]i
         <parsing/>
     </text>
     <text id="570.2">
-        <sentence lang="prq">Pimpabakena shintsiri nokobati nirabake namampaatyeri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Pimpabakena shintsiri nokobati nirabake namampaatyeri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Pimpavakena shintsiri nokovati niravake namampaatyeri.</sentence>
         <sentence lang="es">Dame tu bebida (lit. tu fuerte); quiero tomar para cantar.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+pimpavakena	[pi-][VPers][2S/A+][--][N=][IRR+][--][=p][VRoot][=to.give (ES: dar)][--][-av+object.oriented][ADV][+DIR][=contrary,opposite; RCVG:object.arriving.at.the.location.of.the.subject]av[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e[--][=na][+1SG.O]
+
+shintsiri	[=shintsi][VRoot][=to.be.strong][--][-ri+m.][NS][+NMZ]ri
+
+nokovati	[no-][VPers][1SG.S/A+][--][=kov][VRoot][=to.want][--][-ati][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]ati
+
+niravake	[n-][VPers][1SG.S/A+][--][=ir][VRoot][=to.drink (ES: beber)][--][-av+object.oriented][ADV][+DIR][=contrary,opposite; RCVG:object.arriving.at.the.location.of.the.subject]av[--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-e][+REAL]e
+
+namampaatyeri	[n-][VPers][1SG.S/A+][--][=amamp][VRoot][=to.sing (ES: cantar)][--][-a][+EP]a[--][-aty][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]aty[--][-e][+IRR]e[--][=ri][+3m.O]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="571">
