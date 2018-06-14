@@ -14156,9 +14156,23 @@ nihateniki	[=nihateni][NRoot][=brook; creek (ES: quebrada, arroyo)][--][-ki][Cas
         <parsing/>
     </text>
     <text id="585">
-        <sentence lang="prq">Osheki oshitsapaereki inchatopaye aakobentirori.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Osheki oshitsapaereki inchatopaye aakobentirori.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Osheki oshitsapaereki inchatopaye aakoventirori.</sentence>
         <sentence lang="es">El árbol tiene muchas raíces que lo sostienen.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+oshitsapaereki	[o-][NPers][3n.m.poss+][--][=shi][VRoot][=to.defecate.on.sth. (ES: defecar)][--][-tsa][+CL:long.flexible.thin][=long,flexible,thin; liana.(like); tree_bark; curvilinear]tsa[--][-paere][+CL:root][=root][--][-ki][Cas][+LOC_LOC.T]
+
+inchatopaye	[=inchato+n.m.][NRoot][=tree (ES: árbol)][--][-paye][Num][+PL_DIST]
+
+aakoventirori	[=a][VRoot][=to.get][--][-ako][VS][+APPL.GEN][=GEN: with.reference.to.sth., about.sth.; INDR: action.affects.sth.in.an.indirect.manner]ako[--][-vent][+APPL.BEN][=action.done.for.sb.else]vent[--][-i][+IRR]i[--][=ro][+3n.m.O][--][=ri][NS][+REL]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="586.1">
