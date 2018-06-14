@@ -13941,9 +13941,24 @@ charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male);
         <parsing/>
     </text>
     <text id="576.2">
-        <sentence lang="prq">Ishirikakeri Obityo rotsitsite katsimari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ishirikakeri Obityo rotsitsite katsimari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ishirikakeri Ovityo rotsitsite katsimari.</sentence>
         <sentence lang="es">Obityo amarró a su perro bravo.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ishirikakeri	[i-][VPers][3m.S/A+][--][=shirik][VRoot][=to.sew.sth (ES: tejer; coser); to.tie.sth. (ES: amarrar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e[--][=ri][+3m.O]
+
+ovityo	[=ovityo][NRoot][=person's.name, NP]
+
+rotsitsite	[r-][NPers][3m.poss+][--][=otsitsi+m.+poss@te.][NRoot][=dog (ES: perro; PT: cachorro.caçador)][--][-te][Gen][+aln.poss.]te
+
+katsimari	[=katsimari][AdjRoot][=bad (ES: malo); fierce, rabid (ES: bravo, rabioso)]
+katsimari	[=katsima][VRoot][=to.get.angry, to.be.wild, to.be.savage; to.hate; to.feel.pain][--][-ri+m.][NS][+ADJ.NMZ]ri
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="577">
