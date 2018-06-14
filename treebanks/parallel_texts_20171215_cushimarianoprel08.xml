@@ -14176,9 +14176,21 @@ aakoventirori	[=a][VRoot][=to.get][--][-ako][VS][+APPL.GEN][=GEN: with.reference
         <parsing/>
     </text>
     <text id="586.1">
-        <sentence lang="prq">Ishiyaeyeni soraro kiteejeriki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ishiyaeyeni soraro kiteejeriki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ishiyaeyeni soraro kiteeheriki.</sentence>
         <sentence lang="es">Los soldados corren todos los días.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ishiyaeyeni	[i-][VPers][3m.S/A+][--][=shiy][VRoot][=to.escape, to.run (ES: escapar)][--][-aey][+PL]aey[--][-e][+IRR]e[--][-ni+circumfixing][+PL]
+
+soraro	[=soldado/soraro][NRoot][=police (ES: soldado)]
+
+kiteeheriki	[=kiteehe][VRoot][=to.be.morning; to.dawn; to.get.up.early][--][-ri+m.][NS][+NMZ]ri[--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="586.2">
