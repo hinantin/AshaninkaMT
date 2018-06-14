@@ -13752,13 +13752,31 @@ ovametantatsiri	[=ovame][VRoot][=to.teach (ES: enseñar)][--][-t][+EP]t[--][-ant
 ???
 irianikipaye	[=iriani][NRoot][=child (ES: niño)][--][-ki][+CL:S.R.H][=small,round(ed);hard;seed-like][--][-paye][Num][+PL_DIST]
 
+.	.[$.]
+
 </morphology>
         <parsing/>
     </text>
     <text id="570.1">
-        <sentence lang="prq">Ashitakantabori antami shiramparijaniki shintsiri ini.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ashitakantabori antami shiramparijaniki shintsiri ini.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ashitakantavori antami shiramparihaniki shintsiri ini.</sentence>
         <sentence lang="es">El dueño del bosque es un hombrecito fuerte.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ashitakantavori	[=ashi][VRoot][=to.have; to.own, to.possess][--][-t][+EP]t[--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-a][+REAL.RFL]a[--][=vo][+3n.m.O][--][=ri][NS][+REL]
+
+antami	[=antami][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.forest]
+
+shiramparihaniki	[=shirampari+m.][NRoot][=man; male (ES: hombre)][--][-haniki][+DIM]
+
+shintsiri	[=shintsi][VRoot][=to.be.strong][--][-ri+m.][NS][+ADJ.NMZ]ri
+
+ini	[i-][VPers][3m.S/A+][--][=n][VRoot][=to.be][--][-i][+REAL]i
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="570.2">
