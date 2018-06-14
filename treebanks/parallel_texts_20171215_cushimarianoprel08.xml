@@ -13696,9 +13696,19 @@ oveni	[=oveni][NRoot][=Unini.river (ES: río.Unini)]
         <parsing/>
     </text>
     <text id="567">
-        <sentence lang="prq">Noñaabetakari shintori ikaabeata tsimiki.</sentence>
+        <!-- TODO: consider adding nya as a verbal root, this was found several times prior to this example.
+            Noñaabetakari shintori ikaabeata tsimiki. -->
+        <sentence lang="prq" normalizationlevel="none">Noñabetakari shintori ikaabeata tsimiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Nonyavetakari shintori ikaaveata tsimiki.</sentence>
         <sentence lang="es">Había visto a la huangana bañándose en la colpa.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+nonyavetakari	[no-][VPers][1SG.S/A+][--][=ny][VRoot][=to.see, to.look.for; to.visit][--][-a][+EP]a[--][-ve][+FRUS][=unsuccessful/interrupted.action/state (EN: in.vain; ES: casi); action.that.didn't.achieve.the.desired.result]ve[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a][+REAL]a[--][=ri][+3m.O]
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="568">
