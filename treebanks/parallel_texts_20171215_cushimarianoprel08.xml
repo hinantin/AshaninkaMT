@@ -14298,15 +14298,39 @@ shovirentsi	[=shovire+n.m.+inal@ntsi.][NRoot][=(single-flute).flute (ES: quena),
         <parsing/>
     </text>
     <text id="590">
-        <sentence lang="prq">Ijeeki shompoti inkaareki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ijeeki shompoti inkaareki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iheeki shompoti inkaareki.</sentence>
         <sentence lang="es">El bujurqui vive en la cocha.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+iheeki	[i-][VPers][3m.S/A+][--][=heek][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir); to.be][--][-i][+REAL]i
+
+shompoti	[=shompoti][NRoot][=fish.sp. (bujurqui-fish)]
+
+inkaareki	[=inkaare+n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="591">
-        <sentence lang="prq">Motake shonkiri tonkareki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Motake shonkiri tonkareki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Motake shonkiri tonkareki.</sentence>
         <sentence lang="es">La perdiz cantó en la loma.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph">
+
+
+???
+
+shonkiri	[=shonkiri+poss@ti.][NRoot][=big.partridge.sp. (ES: perdiz); large.quail]
+
+tonkareki	[=tonkare+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="592">
