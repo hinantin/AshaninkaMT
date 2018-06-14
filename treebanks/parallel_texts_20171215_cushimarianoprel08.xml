@@ -13962,9 +13962,26 @@ katsimari	[=katsima][VRoot][=to.get.angry, to.be.wild, to.be.savage; to.hate; to
         <parsing/>
     </text>
     <text id="577">
-        <sentence lang="prq">Oshirinkaare nija obakero noshintipaare kipatsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Oshirinkaare nija obakero noshintipaare kipatsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Oshirinkaare niha ovakero noshintipaare kipatsiki.</sentence>
         <sentence lang="es">La merma del río varó mi balsa.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+oshirinkaare	[o-][NPers][3n.m.poss+][--][=shirinka][VRoot][=to.grow][--][-a][+EP]a[--][-re+m.][NS][+NMZ]re
+
+niha	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
+
+???
+obakero	[o-][VPers][3n.m.S/A+][--][=v][VRoot][=to.put, to.place (ES: poner, colocar)][--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-e][+REAL]e[--][=ro][+3n.m.O]
+
+noshintipaare	[no-][NPers][1SG.poss+][--][=shintipaa+n.m.+poss@re.][NRoot][=raft, balsa][--][-re][Gen][+aln.poss.]re
+
+kipatsiki	[=kipatsi+n.m.+poss@te:ti.][NRoot][=ground, earth (ES: tierra); mud; land][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="578">
