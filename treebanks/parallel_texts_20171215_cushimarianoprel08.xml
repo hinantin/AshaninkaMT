@@ -15090,9 +15090,21 @@ mapi	[=mapi+n.m.+poss@ni:ne.][NRoot][=stone; rock]
         <parsing/>
     </text>
     <text id="677">
-        <sentence lang="prq">Oitsokake tyaapa antamiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Oitsokake tyaapa antamiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Oitsokake tyaapa antamiki.</sentence>
         <sentence lang="es">La gallina puso un huevo en el monte.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+oitsokake	[=oitsok][VRoot][=to.lay.eggs][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e
+
+tyaapa	[=tyaapa+n.m.+poss@te.][NRoot][=hen (ES: gallina); chicken]
+
+antamiki	[=antami][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.forest][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="678">
