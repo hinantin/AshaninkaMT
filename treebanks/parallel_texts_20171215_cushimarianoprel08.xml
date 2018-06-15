@@ -15120,9 +15120,25 @@ mapi	[=mapi+n.m.+poss@ni:ne.][NRoot][=stone; rock]
         <parsing/>
     </text>
     <text id="682">
-        <sentence lang="prq">Antabo iyempita otsiti ikemantari intaena.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Antabo iyempita otsiti ikemantari intaena.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Antavo iyempita otsiti ikemantari intaena.</sentence>
         <sentence lang="es">Las orejas del perro son grandes, por eso oye muy lejos.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+antavo	[=antavo+n.m.][AdjRoot][=big; mature]
+
+iyempita	[i-][NPers][3m.poss+][--][=kempita+n.m.+inal@ntsi.][NRoot][=ear (ES: oreja, oído)]
+
+otsiti	[=otsiti+m.+poss@te.][NRoot][=dog (ES: perro; PT: cachorro.caçador)]
+
+ikemantari	[i-][VPers][3m.S/A+][--][=kem][VRoot][=to.hear, to.listen; to.sense (ES: sentir)][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-a+n.fut.][+REAL.RFL]a[--][=ri][+3m.O]
+
+intaena	[=intaena+sem@loc.][AdvRoot][=far.away (ES: muy.lejos)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="683">
