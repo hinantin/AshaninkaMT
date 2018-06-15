@@ -15059,9 +15059,25 @@ novito	[no-][NPers][1SG.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe 
         <parsing/>
     </text>
     <text id="674">
-        <sentence lang="prq">Ipashikaatake Marinkama antari tsopiro oshirantaaki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ipashikaatake Marinkama antari tsopiro oshirantaaki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ipashikaatake Marinkama antari tsopiro oshirantaaki.</sentence>
         <sentence lang="es">Marinkama tarrafeó carachama grande en la laja.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ipashikaatake	[i-][VPers][3m.S/A+][--][=pashikaa][VRoot][=to.cover (ES: cubrir, tapar)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e
+
+marinkama	[=marinkama][NRoot][=cultural.hero; person's.name, NP]
+
+antari	[=antari+m.][AdjRoot][=big; mature]
+
+tsopiro	[=tsopiro+m.][NRoot][=big.armored.catfish.sp. (ES: carachama.grande/alargada)]
+
+???
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="675">
