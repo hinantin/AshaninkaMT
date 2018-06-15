@@ -15068,7 +15068,7 @@ novito	[no-][NPers][1SG.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe 
         <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
         <sentence lang="en">The boquichico-fish sucks the mud from the stones.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 ratsotiro	[r-][VPers][3m.A+][--][=atso][VRoot][=to.suck (prbly.cacao)][--][-t][+EP]t[--][-i][+REAL]i[--][=ro][+3n.m.O]
@@ -15084,9 +15084,23 @@ mapi	[=mapi+n.m.+poss@ni:ne.][NRoot][=stone; rock]
 </morphology>
     </text>
     <text id="676">
-        <sentence lang="prq">Ityaakero yeye antabo inchato.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ityaakero yeye antabo inchato.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ityaakero yeye antavo inchato.</sentence>
         <sentence lang="es">Mi hermano tumbó el palo grueso.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ityaakero	[i-][VPers][3m.S/A+][--][=ty][VRoot][=to.fell, to.cut.down (e.g.: a.tree.; ES: tumbar, hacer.caer)][--][-a][+EP]a[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e[--][=ro][+3n.m.O]
+
+yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
+
+antavo	[=antavo+n.m.][AdjRoot][=big; mature]
+
+inchato	[=inchato+n.m.][NRoot][=tree (ES: árbol)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="677">
