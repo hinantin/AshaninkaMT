@@ -15096,9 +15096,26 @@ mapi	[=mapi+n.m.+poss@ni:ne.][NRoot][=stone; rock]
         <parsing/>
     </text>
     <text id="678">
-        <sentence lang="prq">Tajakotake iitsoki tyaapa shitobanake tyaapaniki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Tajakotake iitsoki tyaapa shitobanake tyaapaniki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Tahakotake iitsoki tyaapa shitovanake tyaapaniki.</sentence>
         <sentence lang="es">Los huevos se reventaron y salieron los pollitos.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+???
+tahakotake	[=tahako][VRoot][=to.hatch (ES: eclosionar; reventar, hacer.pedazos)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e
+
+iitsoki	[i-][NPers][3m.poss+][--][=kitsoki][NRoot][=egg (huevo); seed (ES: semilla)]
+
+tyaapa	[=tyaapa+n.m.+poss@te.][NRoot][=hen (ES: gallina); chicken]
+
+shitovanake	[=shitov][VRoot][=to.leave (ES: salir); to.escape][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e
+
+tyaapaniki	[=tyaapa+n.m.+poss@te.][NRoot][=hen (ES: gallina); chicken][--][-niki][+DIM]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="679">
