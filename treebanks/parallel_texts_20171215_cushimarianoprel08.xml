@@ -15144,9 +15144,24 @@ mapi	[=mapi+n.m.+poss@ni:ne.][NRoot][=stone; rock]
         <parsing/>
     </text>
     <text id="686">
-        <sentence lang="prq">Osheki yoosara aririka ojarentsite</sentence>
+        <sentence lang="prq" normalizationlevel="none">Osheki yoosara aririka ojarentsite</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Osheki yoosara aririka oharentsite</sentence>
         <sentence lang="es">La mantablanca abunda en tiempo de verano.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+yoosara	[=yoosara+m.][NRoot][=fly.sp. (ES: manta.blanca)]
+
+aririka	[=ari][PostPol][=PP][--][=rika][+COND]::[=when (temporal.simultaneity), if (expresses.possible.condition)]
+
+???
+oharentsite	[o-][NPers][3n.m.poss+][--][=harentsi+m.][NRoot][=year (ES: año); dry.season/summer (ES: verano)][--][-i^te][DEGR][+AUG]te
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="687.1">
