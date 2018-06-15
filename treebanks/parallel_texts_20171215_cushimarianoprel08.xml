@@ -14567,15 +14567,55 @@ areetinkari	[=aree][VRoot][=to.arrive (ES: llegar); to.visit.with.sb. (ES: visit
         <parsing/>
     </text>
     <text id="604">
-        <sentence lang="prq">Otashitakeri ina jetari ipajakaatakeri pabachori.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Otashitakeri ina jetari ipajakaatakeri pabachori.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Otashitakeri ina hetari ipahakaatakeri pavachori.</sentence>
         <sentence lang="es">Mi mamá asó la carachama que mi papá pescó.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+otashitakeri	[o-][VPers][3n.m.S/A+][--][=tashi][VRoot][=to.roast.with.coal (ES: asar)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e[--][=ri][+3m.O]
+
+ina	[=ina+n.m.+inal@tsi.+voc.][NRoot][=mother; wife (kin.of.a.fe/male)]
+
+hetari	[=hetari+m.][NRoot][=small.suckermouth.armored.catfish.sp. (ES: carachama; sci.nm.: aphanotorulus.unicolor)]
+
+???
+
+pavachori	[=pavachori+m.+poss@ti.][NRoot][=uncle (kin.of.a.male)]
+pavachori	[=pava+m.+poss@ni.][NRoot][=solar.deity; god (ES: dios); creator (PT: Deus.solar,, o.demiurgo.ashaninka); dad, father][--][-chori][+CL:distant/surrogate.kin][=distant/surrogate.kin]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="605">
-        <sentence lang="prq">Ikantake entsi piyatsare: Tee niyaate naye tsitsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikantake entsi piyatsare: Tee niyaate naye tsitsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikantake entsi piyatsare: Tee niyaate naye tsitsi.</sentence>
         <sentence lang="es">El niño ocioso dijo: “No fui a traer leña”.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ikantake	[i-][VPers][3m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e
+
+entsi	[=entsi+n./m.+poss@te.][NRoot][=child (ES: niño)]
+
+piyatsare	[=piyatsa][VRoot][=to.disobey; to.disobey.authority][--][-re+m.][NS][+ADJ.NMZ]re
+
+:	:[$.]
+
+tee	[=tee+future.neg.][Neg][=NEG.REAL]
+
+niyaate	[n-][VPers][1SG.S/A+][--][=iyaa][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-e+n.fut.][+REAL]e
+
+naye	[n-][VPers][1SG.S/A+][--][=ay][VRoot][=to.get][--][-e+n.fut.][+REAL]e
+
+tsitsi	[=tsi+poss@ma.+voc.][NRoot][=firewood (ES: leña)][--][-tsi+alien.][Gen][+nposs]tsi
+tsitsi	[=tsitsi+n.m.+voc.][NRoot][=firewood (ES: leña)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="606">
