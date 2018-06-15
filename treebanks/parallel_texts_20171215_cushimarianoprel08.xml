@@ -14619,9 +14619,23 @@ tsitsi	[=tsitsi+n.m.+voc.][NRoot][=firewood (ES: leña)]
         <parsing/>
     </text>
     <text id="606">
-        <sentence lang="prq">Tekirata nontsonkero nante nobito.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Tekirata nontsonkero nante nobito.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Tekirata nontsonkero nante novito.</sentence>
         <sentence lang="es">Todavía no termino de hacer mi canoa.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+tekirata	[=tekira][ConnRoot][=before][--][=ta][MODAL][+OPT_SUBJ][CONTG: actn.that.depends.on.sth.that.may.or.may.not.happen; HYPOTH: actn.that.is.possible.&amp;.imagined.rather.than.real.&amp;.true]
+
+nontsonkero	[no-][VPers][1SG.S/A+][--][N=][IRR+][--][=tsonk][VRoot][=to.finish (ES: terminar)][--][-e+n.fut.][+REAL]e[--][=ro][+3n.m.O]
+
+nante	[n-][VPers][1SG.S/A+][--][=ant][VRoot][=to.beat, to.hit; to.build, to.do, to.make][--][-e+n.fut.][+REAL]e
+
+novito	[no-][NPers][1SG.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe (ES: canoa)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="607">
