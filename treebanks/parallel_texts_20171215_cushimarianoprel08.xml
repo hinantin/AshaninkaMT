@@ -15041,15 +15041,45 @@ novito	[no-][NPers][1SG.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe 
         <parsing/>
     </text>
     <text id="671">
-        <sentence lang="prq">Ayiro tsinanepaye tsoopirontsi okiantyariri otomipaye.</sentence>
+        <!-- Ayiro tsinanepaye tsoopirontsi okiantyariri otomipaye. -->
+        <sentence lang="prq" normalizationlevel="none">Ayiro tsinanepaye tsoompirontsi okiantyariri otomipaye.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ayiro tsinanepaye tsoompirontsi okiantyariri otomipaye.</sentence>
         <sentence lang="es">Las mujeres llevan la aparina para cargar a sus hijos.</sentence>
-        <morphology/>
+        <morphology>
+
+
+ayiro	[=ay][VRoot][=to.take][--][-i+n.fut.][+REAL]i[--][=ro][+3n.m.O]
+
+tsinanepaye	[=tsinane+n.m.][NRoot][=female, woman (ES: mujer); young.girl][--][-paye][Num][+PL_DIST]
+
+tsoompirontsi	[=tsoompiro+n.m.+inal@ntsi.][NRoot][=fabric.to.carry.a.baby (ES: faja.para.cargar.bebes; QU: aparina); sling (ES: cabestrillo)][--][-ntsi+alien.][Gen][+nposs]ntsi
+tsoompirontsi	[=tsoompi][VRoot][=to.carry.in.the.arms][--][-ro+n.m.][NS][+NMZ]ro[--][-ntsi+alien.][Gen][+nposs]ntsi
+
+okiantyariri	[o-][VPers][3n.m.S/A+][--][=ki][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)][--][-ant][+APPL.INST][=reason,instrumentality;in.order.to]ant[--][-ya+fut.][+IRR]ya[--][=ri][+3m.O][--][=ri][NS][+REL]
+
+otomipaye	[o-][NPers][3n.m.poss+][--][=tomi+m.+inal@tsi.][NRoot][=son (kin.of.a.fe/male)][--][-paye][Num][+PL_DIST]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="672">
-        <sentence lang="prq">Robakabo tsoori mapocha.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Robakabo tsoori mapocha.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovakavo tsoori mapocha.</sentence>
         <sentence lang="es">El paucar comió la papaya.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+rovakavo	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.save.sth.in.sth. (ES: guardar.algo)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a+n.fut.][+REAL.RFL]a[--][=vo][+3n.m.O]
+
+tsoori	[=tsoori][NRoot][=bird.sp. (ES: pájaro.paucar, oropéndola; QU: pawkar; sci.nm.: psarocolius.decumanus, psarocolius.angustifrons); catfish.sp. (ES: súngaro)]
+
+mapocha	[=mapocha+n.m.+poss@ti.][NRoot][=papaya (botany.nm.: carica.papaya)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="673">
