@@ -14461,15 +14461,46 @@ piarentsi	[=piare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma
         <parsing/>
     </text>
     <text id="598">
-        <sentence lang="prq">Aririka otampiate osheki eero opare inkani.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Aririka otampiate osheki eero opare inkani.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Aririka otampiate osheki eero opare inkani.</sentence>
         <sentence lang="es">Si hace mucho viento es porque no va a llover.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+aririka	[=ari][PostPol][=PP][--][=rika][+COND]::[=when (temporal.simultaneity), if (expresses.possible.condition)]
+
+otampiate	[o-][VPers][3n.m.S/A+][--][=tampia+n.m.][NRoot][=wind (ES: viento)]::[=to.be.windy (ES: hacer.viento)]+vbz.[--][-t][+EP]t[--][-e+fut.][+IRR]e
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+eero	[=eero][Neg][=NEG.IRR]
+
+???
+oparee	[o-][VPers][3n.m.S/A+][--][=pare][VRoot][=to.fall (ES: caer)][--][-e+fut.][+IRR]e
+
+inkani	[=inkani+n.m.][NRoot][=rain (ES: lluvia)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="599">
-        <sentence lang="prq">Tampootake charine ishinkitantari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Tampootake charine ishinkitantari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Tampootake charine ishinkitantari.</sentence>
         <sentence lang="es">El abuelo tocó el tambor en la fiesta.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+tampootake	[=tambor+m.][NRoot][=drum]::[=to.drum (ES: tocar.el.tambor)]+vbz.[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e
+
+charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male); grandson (ES: nieto)]
+
+ishinkitantari	[i-][VPers][3m.S/A+][--][=shi][VRoot][=to.defecate.on.sth. (ES: defecar)][--][-nki][+CL:snake][=snake.sp.]nki[--][-t][+EP]t[--][-ant][+APPL.INST][=reason,instrumentality;in.order.to]ant[--][-a+n.fut.][+REAL.RFL]a[--][=ri][NS][+REL]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="600">
