@@ -15126,9 +15126,25 @@ mapi	[=mapi+n.m.+poss@ni:ne.][NRoot][=stone; rock]
         <parsing/>
     </text>
     <text id="683">
-        <sentence lang="prq">Katsitake iyereto charine okantakaantiro ityerobi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Katsitake iyereto charine okantakaantiro ityerobi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Katsitake iyereto charine okantakaantiro ityerovi.</sentence>
         <sentence lang="es">A mi abuelo le duele la cabeza por estar de rodillas.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+katsitake	[=katsit][VRoot][=to.be.in.pain, to.feel.pain (ES: doler)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e
+
+iyereto	[i-][NPers][3m.poss+][--][=yereto+n.m.+inal@tsi.][NRoot][=knee (ES: rodilla)]
+
+charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male); grandson (ES: nieto)]
+
+okantakaantiro	[o-][VPers][3n.m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-aka][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]aka[--][-ant][+APPL.INST][=reason,instrumentality;in.order.to]ant[--][-i+n.fut.][+REAL]i[--][=ro][+3n.m.O]
+
+ityerovi	[i-][VPers][3m.S/A+][--][=tyerov][VRoot][=to.kneel.down (ES: arrodillarse)][--][-i+n.fut.][+REAL]i
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="684">
