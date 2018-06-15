@@ -14398,9 +14398,23 @@ ovantsiki	[=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land 
         <parsing/>
     </text>
     <text id="595">
-        <sentence lang="prq">Itaakero ani robane tonkaareki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Itaakero ani robane tonkaareki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Itaakero ani rovane tonkaareki.</sentence>
         <sentence lang="es">Mi cuñado quemó la chacra en la loma.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+itaakero	[i-][VPers][3m.S/A+][--][=ta][VRoot][=to.burn (ES: quemar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+fut.][+IRR]e[--][=ro][+3n.m.O]
+
+ani	[=ani+m.][NRoot][=grandpa, grandfather (kin.of.a.male)]
+
+rovane	[r-][NPers][3m.poss+][--][=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra; PT: roçado)][--][-ne][Gen][+aln.poss.]ne
+
+tonkaareki	[=tonkaare+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="596">
