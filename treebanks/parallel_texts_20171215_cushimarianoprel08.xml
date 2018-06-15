@@ -14356,9 +14356,23 @@ ikentantyaariri	[i-][VPers][3m.S/A+][--][=kent][VRoot][=to.pierce.with.arrows, t
         <parsing/>
     </text>
     <text id="593">
-        <sentence lang="prq">Opankitake noshabo shoñaki obaantsiki obakerari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Opankitake noshabo shoñaki obaantsiki obakerari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Opankitake noshavo shonyaki ovaantsiki ovakerari.</sentence>
         <sentence lang="es">Mi nieta sembró daledale en la chacra nueva.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+opankitake	[o-][VPers][3n.m.S/A+][--][=panki][VRoot][=to.plant, to.sow (ES: sembrar)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e
+
+noshavo	[no-][NPers][1SG.poss+][--][=shavo+m.][NRoot][=rodent.sp. (añuje, agutí, agouti, cutpe; sci.nm.: dasyprocta.variegata)]
+
+shonyaki	[=shonyaki+n.m.][NRoot][=edible.plant.sp. (ES: dale-dale, daledale; sci.nm.: calatea.allouia)]
+
+ovaantsiki	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra; PT: roçado)][--][-ntsi+alien.][Gen][+nposs]ntsi[--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="594">
