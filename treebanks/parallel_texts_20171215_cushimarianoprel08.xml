@@ -14523,9 +14523,25 @@ itanto	[i-][NPers][3m.poss+][--][=tanto+n.m.+inal@tsi.][NRoot][=wall (ES: pared)
         <parsing/>
     </text>
     <text id="601">
-        <sentence lang="prq">Ipoonkake nani kampona itantotantyaabori ityaapapankote.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ipoonkake nani kampona itantotantyaabori ityaapapankote.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ipoonkake nani kampona itantotantyaavori ityaapapankote.</sentence>
         <sentence lang="es">Mi cuñado batió la pona para cercar el gallinero.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ipoonkake	[i-][VPers][3m.S/A+][--][=poonk][VRoot][=to.shoot.down.pona-palm.tree (ES: derribar/batir.la.pona)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e
+
+nani	[n-][NPers][1SG.poss+][--][=ani+m.+poss@ri.][NRoot][=brother.in.law (kin.of.a.male)]
+
+kampona	[=kampona+n.m.+poss@te.][NRoot][=palm.tree.sp. (ES: pona, sp.de.palmera)]
+
+itantotantyaavori	[i-][VPers][3m.S/A+][--][=tanto][VRoot][=to.fence.in (ES: cercar, quinchar; QU: qinchay)][--][-t][+EP]t[--][-ant][+APPL.INST][=reason,instrumentality;in.order.to]ant[--][-yaa+fut.][+IRR]yaa[--][=vo][+3n.m.O][--][=ri][NS][+REL]
+
+ityaapapankote	[i-][NPers][3m.poss+][--][=tyaapa+n.m.+poss@te.][NRoot][=hen (ES: gallina); chicken][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)][--][-te][Gen][+aln.poss.]te
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="603">
