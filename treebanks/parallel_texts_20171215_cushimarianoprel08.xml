@@ -15053,9 +15053,27 @@ novito	[no-][NPers][1SG.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe 
         <parsing/>
     </text>
     <text id="673">
-        <sentence lang="prq">Itsopaakero Apeti iraiki te ramabetapajero iyatsinka.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Itsopaakero Apeti iraiki te ramabetapajero iyatsinka.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Itsopaakero Apeti iraiki te ramavetapahero iyatsinka.</sentence>
         <sentence lang="es">Apeti sacó su muela porque ya no soportó el dolor.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+itsopaakero	[i-][VPers][3m.S/A+][--][=tsop][VRoot][=to.pull.sth.out (ES: sacar.(de.un.lugar.estrecho)); to.detach (ES: desprender)][--][-a][+EP]a[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e[--][=ro][+3n.m.O]
+
+apeti	[=apeti][NRoot][=person's.name, NP]
+
+iraiki	[ir-][NPers][3m.poss+][--][=aiki+n.m.+inal@ntsi.][NRoot][=tooth (ES: diente)]
+
+te	[=te+future.neg.][Neg][=NEG.REAL]
+
+???
+
+iyatsinka	[i-][NPers][3m.poss+][--][=katsi][VRoot][=to.feel.pain; to.be.in.pain; to.cause.pain][--][-nka][NS][+NMZ.QLTY]nka
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="674">
