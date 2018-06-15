@@ -14334,9 +14334,25 @@ tonkareki	[=tonkare+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas][+
         <parsing/>
     </text>
     <text id="592">
-        <sentence lang="prq">Ipatimatiri eentsi shonkoro ikentantyaariri. </sentence>
+        <sentence lang="prq" normalizationlevel="none">Ipatimatiri eentsi shonkoro ikentantyaariri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ipatimatiri eentsi shonkoro ikentantyaariri.</sentence>
         <sentence lang="es">Los niños persiguen lagartijas para picarlas.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+???
+
+eentsi	[=eentsi+n./m.+poss@te.][NRoot][=child (ES: niño)]
+
+shonkoro	[=shonkoro][NRoot][=small.lizard.sp. (ES: lagartija)]
+
+ikentantyaariri	[i-][VPers][3m.S/A+][--][=kent][VRoot][=to.pierce.with.arrows, to.shoot.arrows; to.sting (ES: picar)][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-yaa+fut.][+IRR]yaa[--][=ri][+3m.O][--][=ri][NS][+REL]
+
+ikentantyaariri	[i-][VPers][3m.S/A+][--][=kent][VRoot][=to.pierce.with.arrows, to.shoot.arrows; to.sting (ES: picar)][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-yaa+n.fut.][+REAL]yaa[--][=ri][+3m.O][--][=ri][NS][+REL]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="593">
