@@ -15138,9 +15138,25 @@ mapi	[=mapi+n.m.+poss@ni:ne.][NRoot][=stone; rock]
         <parsing/>
     </text>
     <text id="685">
-        <sentence lang="prq">Rayiro pinkatsare yomaarentsi riyomatantyabori jantari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Rayiro pinkatsare yomaarentsi riyomatantyabori jantari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rayiro pinkatsare yomaarentsi riyomatantyavori hantari.</sentence>
         <sentence lang="es">El jefe lleva la regla para medir la madera.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+rayiro	[r-][VPers][3m.S/A+][--][=ay][VRoot][=to.take][--][-i+n.fut.][+REAL]i[--][=ro][+3n.m.O]
+
+pinkatsare	[=pinkatsare+m.+voc.+poss@te.][NRoot][=chief (ES: jefe); regional.leader]
+
+yomaarentsi	[=yomaa][VRoot][=to.measure (ES: medir)][--][-re+m.][NS][+NMZ]re[--][-ntsi+alien.][Gen][+nposs]ntsi
+
+riyomatantyavori	[ri-][VPers][3m.S/A+][--][=yoma][VRoot][=to.measure (ES: medir)][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-ya+fut.][+IRR]ya[--][=vo][+3n.m.O][--][=ri][NS][+REL]
+
+hantari	[=hantari+n.m.][NRoot][=timber.tree.sp. (ES: árbol.(maderable), cedro; PT: madeira.de.lei)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="686">
