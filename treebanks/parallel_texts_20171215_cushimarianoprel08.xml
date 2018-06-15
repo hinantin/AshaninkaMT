@@ -15156,9 +15156,23 @@ mapi	[=mapi+n.m.+poss@ni:ne.][NRoot][=stone; rock]
         <parsing/>
     </text>
     <text id="687.2">
-        <sentence lang="prq">Otimatye piyote pijankenate pibaero.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Otimatye piyote pijankenate pibaero.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Otimatye piyote pihankenate pivaero.</sentence>
         <sentence lang="es">Tienes que saber escribir tu nombre.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+otimatye	[o-][VPers][3n.m.S/A+][--][=tim][VRoot][=POSSESS (EN: to.have; ES: tener); to.give.birth][--][-aty][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]aty[--][-e+fut.][+IRR]e
+
+piyote	[p-][VPers][2S/A+][--][=iyot][VRoot][=to.know (ES: saber); to.understand (ES: entender)][--][-e+fut.][+IRR]e
+
+pihankenate	[pi-][VPers][2S/A+][--][=hankena][VRoot][=to.write, to.draw][--][-t][+EP]t[--][-e+fut.][+IRR]e
+
+pivaero	[pi-][NPers][2poss+][--][=vaero+n.m.+inal@ntsi.][NRoot][=name (ES: nombre)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="687.3">
