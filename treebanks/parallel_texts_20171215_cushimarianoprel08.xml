@@ -14418,9 +14418,24 @@ tonkaareki	[=tonkaare+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas]
         <parsing/>
     </text>
     <text id="596">
-        <sentence lang="prq">Itanjonkakero peyari komatire otantoki.</sentence>
+        <!-- Itanjonkakero peyari komatire otantoki. -->
+        <sentence lang="prq" normalizationlevel="none">Itajonkakero peyari komatire otantoki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Itahonkakero peyari komatire otantoki.</sentence>
         <sentence lang="es">El díablo sopló a mi comadre en su cuarto.</sentence>s
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+itahonkakero	[i-][VPers][3m.S/A+][--][=tahonk][VRoot][=to.blow (ES: soplar); to.fan][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e[--][=ro][+3n.m.O]
+
+peyari	[=peyari+m.][NRoot][=ghost; demon; deer-like.demonic.creature.with.an.enlarged.penis.who.seeks.males.to.satisfy.his.sexual.desire; mythical.creature]
+
+komatire	[=comadre/komatire][NRootEs][=godmother.of.one's.child]
+
+otantoki	[o-][NPers][3n.m.poss+][--][=tanto+n.m.+inal@tsi.][NRoot][=wall (ES: pared); room (ES: cuarto)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="597">
