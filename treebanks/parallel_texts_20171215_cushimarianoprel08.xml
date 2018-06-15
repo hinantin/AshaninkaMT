@@ -15150,9 +15150,25 @@ mapi	[=mapi+n.m.+poss@ni:ne.][NRoot][=stone; rock]
         <parsing/>
     </text>
     <text id="687.1">
-        <sentence lang="prq">Noyometaemi panteri aririka piyaatake jantariki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Noyometaemi panteri aririka piyaatake jantariki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Noyometaemi panteri aririka piyaatake hantariki.</sentence>
         <sentence lang="es">Te voy a instruir qué hacer cuando vayas a sacar madera.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+noyometaemi	[no-][VPers][1SG.S/A+][--][=yome][VRoot][=to.teach][--][-t][+EP]t[--][-a][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]a[--][-e+fut.][+IRR]e[--][=mi][+2SG.O]
+
+panteri	[p-][VPers][2S/A+][--][=ant][VRoot][=to.beat, to.hit; to.build, to.do, to.make][--][-e+fut.][+IRR]e[--][=ri][NS][+REL]
+
+aririka	[=ari][PostPol][=PP][--][=rika][+COND]::[=when (temporal.simultaneity), if (expresses.possible.condition)]
+
+piyaatake	[p-][VPers][2S/A+][--][=iyaa][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+fut.][+IRR]e
+
+hantariki	[=hantari+n.m.][NRoot][=timber.tree.sp. (ES: árbol.(maderable), cedro; PT: madeira.de.lei)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="687.2">
