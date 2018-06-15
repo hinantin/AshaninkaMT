@@ -14439,9 +14439,25 @@ otantoki	[o-][NPers][3n.m.poss+][--][=tanto+n.m.+inal@tsi.][NRoot][=wall (ES: pa
         <parsing/>
     </text>
     <text id="597">
-        <sentence lang="prq">Otakiriati iñeni kaniri antantyari piarentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Otakiriati iñeni kaniri antantyari piarentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Otakiriati inyeni kaniri antantyari piarentsi.</sentence>
         <sentence lang="es">Mi cuñada está pelando yuca para preparar masato.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+otakiriati	[o-][VPers][3n.m.S/A+][--][=taki+n.m.+inal@tsi.][NRoot][=shell (ES: caparazón); peel (ES: cáscara); skin]+vbz.[--][-ri][+REV]ri[--][-ati][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]ati
+
+inyeni	[=inyeni+n.m.][NRoot][=sister.in.law (kin.of.a.male) (PT: cunhada)]
+
+kaniri	[=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]
+
+antantyari	[=ant][VRoot][=to.beat, to.hit; to.build, to.do, to.make][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-ya+fut.][+IRR]ya[--][=ri][+3m.O]
+
+piarentsi	[=piare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma.brava/forte)][--][-ntsi+alien.][Gen][+nposs]ntsi
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="598">
