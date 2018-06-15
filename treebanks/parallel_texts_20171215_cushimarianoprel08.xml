@@ -14545,9 +14545,25 @@ ityaapapankote	[i-][NPers][3m.poss+][--][=tyaapa+n.m.+poss@te.][NRoot][=hen (ES:
         <parsing/>
     </text>
     <text id="603">
-        <sentence lang="prq">Pamakeri shima tashirentsi robabakia areetinkari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Pamakeri shima tashirentsi robabakia areetinkari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Pamakeri shima tashirentsi rovavakia areetinkari.</sentence>
         <sentence lang="es">Trae el pescado asado para invitar a comer al visitante.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+pamakeri	[p-][VPers][2S/A+][--][=am][VRoot][=to.bring (ES: traer)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+fut.][+IRR]e[--][=ri][+3m.O]
+
+shima	[=shima+m.+poss@ni.][NRoot][=fish; fish.sp., boquichico-fish (ES: boquichico, chupadora; sci.nm.: prochilodus.nigricans)]
+
+tashirentsi	[=tashire+n./m.+inal.][AdjRoot][=roasted (i.e.: kaniri/manioc, shima/fish, kemi/pumpkin)][--][-ntsi+alien.][Gen][+nposs]ntsi
+
+rovavakia	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-av+object.oriented][ADV][+DIR][=contrary,opposite; RCVG:object.arriving.at.the.location.of.the.subject]av[--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-ia+fut.][+IRR]ia
+
+areetinkari	[=aree][VRoot][=to.arrive (ES: llegar); to.visit.with.sb. (ES: visitar.a.algn.)][--][-tinkari+m.][NS][+ADJ.NMZ]tinkari
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="604">
