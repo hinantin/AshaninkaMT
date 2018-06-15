@@ -14504,9 +14504,22 @@ ishinkitantari	[i-][VPers][3m.S/A+][--][=shinki][VRoot][=to.get.drunk; to.intoxi
         <parsing/>
     </text>
     <text id="600">
-        <sentence lang="prq">Itantoriaakero pabachori itanto.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Itantoriaakero pabachori itanto.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Itantoriaakero pavachori itanto.</sentence>
         <sentence lang="es">Mi tío desarmó el cerco.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph">
+
+
+itantoriaakero	[i-][VPers][3m.S/A+][--][=tanto][VRoot][=to.fence.in (ES: cercar, quinchar; QU: qinchay)][--][-ri][+REV]ri[--][-a][+EP]a[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e[--][=ro][+3n.m.O]
+
+pavachori	[=pavachori+m.+poss@ti.][NRoot][=uncle (kin.of.a.male)]
+pavachori	[=pava+m.+poss@ni.][NRoot][=solar.deity; god (ES: dios); creator (PT: Deus.solar,, o.demiurgo.ashaninka); dad, father][--][-chori][+CL:distant/surrogate.kin][=distant/surrogate.kin]
+
+itanto	[i-][NPers][3m.poss+][--][=tanto+n.m.+inal@tsi.][NRoot][=wall (ES: pared); room (ES: cuarto)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="601">
