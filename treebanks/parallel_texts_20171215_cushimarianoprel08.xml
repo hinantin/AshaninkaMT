@@ -14879,21 +14879,56 @@ novito	[no-][NPers][1SG.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe 
         <parsing/>
     </text>
     <text id="645">
-        <sentence lang="prq">Otsibakakero tampia ootamentotsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Otsibakakero tampia ootamentotsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Otsivakakero tampia ootamentotsi.</sentence>
         <sentence lang="es">El viento apagó el mechero.</sentence>
         <morphology/>
         <parsing/>
     </text>
     <text id="646">
-        <sentence lang="prq">Ikentakeri tsibeta nani ikaaboshibeta nijaaki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikentakeri tsibeta nani ikaaboshibeta nijaaki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikentakeri tsiveta nani ikaavoshiveta nihaaki.</sentence>
         <sentence lang="es">A mi cuñado lo picó la raya mientras se bañaba en el río.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ikentakeri	[i-][VPers][3m.S/A+][--][=kent][VRoot][=to.pierce.with.arrows, to.shoot.arrows; to.sting (ES: picar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e[--][=ri][+3m.O]
+
+tsiveta	[=tsiveta+m.][NRoot][=ray.fish.sp., rajiform.fish.sp., stingray.sp. (ES: pez.raya)]
+
+nani	[n-][NPers][1SG.poss+][--][=ani+m.+poss@ri.][NRoot][=brother.in.law (kin.of.a.male)]
+
+ikaavoshiveta	[i-][VPers][3m.S/A+][--][=kaavoshi][VRoot][=to.bathe (ES: bañar)][--][-ve][+FRUS][=unsuccessful/interrupted.action/state (EN: in.vain; ES: casi); action.that.didn't.achieve.the.desired.result]ve[--][-t][+EP]t[--][-a+n.fut.][+REAL]a
+
+nihaaki	[=nihaa+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="647">
-        <sentence lang="prq">Itsonkatakeri Tyobiri tsiito iboriki rantabaetantari robaneki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Itsonkatakeri Tyobiri tsiito iboriki rantabaetantari robaneki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Itsonkatakeri Tyoviri tsiito ivoriki rantavaetantari rovaneki.</sentence>
         <sentence lang="es">Los mosquitos chuparon sangre de las piernas de Tyobiri mientras trabajaba en su chacra.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+itsonkatakeri	[i-][VPers][3m.S/A+][--][=tsonk][VRoot][=to.finish (ES: terminar)][--][-a][+REP][=again.and.again]a[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e[--][=ri][+3m.O]
+
+tyoviri	[=Tyoviri][NRoot][=proper.name]
+
+tsiito	[=tsiito+m.][NRoot][=mosquito.sp. (ES: sp.de.mosquito, manta.blanca)]
+
+ivoriki	[i-][NPers][3m.poss+][--][=pori+n.m.+inal@tsi.][NRoot][=leg (ES: pierna); thigh][--][-ki][Cas][+LOC_LOC.T]
+
+rantavaetantari	[r-][VPers][3m.S/A+][--][=antavae][VRoot][=to.work (ES: trabajar)][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-a+n.fut.][+REAL]a[--][=ri][+3m.O]
+
+rovaneki	[r-][NPers][3m.poss+][--][=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra; PT: roçado)][--][-ne][Gen][+aln.poss.]ne[--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="648">
