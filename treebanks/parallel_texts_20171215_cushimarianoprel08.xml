@@ -14999,15 +14999,47 @@ novito	[no-][NPers][1SG.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe 
         <parsing/>
     </text>
     <text id="664">
-        <sentence lang="prq">Antabo ishetaki tsobo roteyantyaariri chompita.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Antabo ishetaki tsobo roteyantyaariri chompita.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Antavo ishetaki tsovo roteyantyaariri chompita.</sentence>
         <sentence lang="es">La lechuza tiene garras largas para atrapar a las cucarachas.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+antavo	[=antavo+n.m.][AdjRoot][=big; mature]
+
+ishetaki	[i-][NPers][3m.poss+][--][=shetaki+n.m.+inal@ntsi.][NRoot][=fingernail (ES: uña); claw (ES: garra)]
+
+tsovo	[=tsovo][NRoot][=owl.sp. (ES: urcututo, lechuza)]
+
+roteyantyaariri	[r-][VPers][3m.S/A+][--][=otey][VRoot][=to.take.sth., to.catch.sth. (ES: agarrar)][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-yaa+fut.][+IRR]yaa[--][=ri][+3m.O][--][=ri][NS][+REL]
+
+chompita	[=chompita+m.][NRoot][=cockroach.sp. (ES: sp.de.cucaracha)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="665">
-        <sentence lang="prq">Oyaati choeni otsoki kaniri tonkareki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Oyaati choeni otsoki kaniri tonkareki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Oyaati choeni otsoki kaniri tonkareki.</sentence>
         <sentence lang="es">Mi hermana va a la loma a sacar yuca.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+oyaati	[=oyaa][VRoot][=to.go (ES: ir); to.follow][--][-t][+EP]t[--][-i+n.fut.][+REAL]i
+
+choeni	[=choeni+n.m.][NRoot][=sister (kin.of.a.male, male.ego)]
+
+otsoki	[o-][VPers][3n.m.S/A+][--][=tsok][VRoot][=to.pull.out (ES: desyerbar/desherbar/deshierbar; cosechar.yuca/mavona)][--][-i+fut.][+IRR]i
+
+kaniri	[=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]
+
+tonkareki	[=tonkare+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="666">
