@@ -14921,12 +14921,23 @@ novito	[no-][NPers][1SG.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe 
         <parsing/>
     </text>
     <text id="652">
-        <sentence lang="prq">Itaati Tyobiri meshiyanto rantantyari tsimenkito.</sentence>
-        <sentence lang="es">Itaati Tyobiri meshiyanto rantantyari tsimenkito.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Itaati Tyobiri meshiyanto rantantyari tsimenkito.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Itaati Tyoviri meshiyanto rantantyari tsimenkito.</sentence>
+        <sentence lang="es">Tyoviri quema capirona para sacar carbón.</sentence>
         <morphology>
 
 
+itaati	[i-][VPers][3m.S/A+][--][=ta][VRoot][=to.burn (ES: quemar)][--][-ati][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]ati
 
+tyoviri	[=Tyoviri][NRoot][=proper.name]
+
+meshiyanto	[=meshiyanto+n.m.][NRoot][=capirona-tree, tree.sp.]
+
+rantantyari	[r-][VPers][3m.S/A+][--][=ant][VRoot][=to.beat, to.hit; to.build, to.do, to.make][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-ya+fut.][+IRR]ya[--][=ri][+3m.O]
+
+tsimenkito	[=tsimenkito+m.+poss@te.][NRoot][=carbon (ES: carbón)]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
@@ -14946,7 +14957,7 @@ rookaitakeri	[r-][VPers][3m.S/A+][--][=ooka][VRoot][=to.abandon; to.leave (ES: d
 
 ohaviki	[=ohaviki][NRoot][=floor, first.floor]
 
-:	:[$.]
+.	.[$.]
 
 </morphology>
         <parsing/>
@@ -14966,7 +14977,7 @@ iinatsori	[i-][NPers][3m.poss+][--][=ina+n.m.+inal@tsi.+voc.][NRoot][=mother; wi
 
 ikantiro	[i-][VPers][3m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-i+n.fut.][+REAL]i[--][=ro][+3n.m.O]
 
-:	:[$.]
+.	.[$.]
 
 </morphology>
         <parsing/>
