@@ -14923,25 +14923,74 @@ novito	[no-][NPers][1SG.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe 
     <text id="652">
         <sentence lang="prq">Itaati Tyobiri meshiyanto rantantyari tsimenkito.</sentence>
         <sentence lang="es">Itaati Tyobiri meshiyanto rantantyari tsimenkito.</sentence>
-        <morphology/>
+        <morphology>
+
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="653.1">
-        <sentence lang="prq">Itsinampaitakeri Kishokiri rookaitakeri ojabiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Itsinampaitakeri Kishokiri rookaitakeri ojabiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Itsinampaitakeri Kishokiri rookaitakeri ohaviki.</sentence>
         <sentence lang="es">A Kishokiri lo vencieron derribándolo al suelo.</sentence>
-        <morphology/>
+        <morphology>
+
+
+itsinampaitakeri	[i-][VPers][3m.S/A+][--][=tsinampa][VRoot][=to.joke (ES: bromear)][--][-it][Asp][+ANT][=past/non-past.action:before]it[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e[--][=ri][NS][+REL]
+
+kishokiri	[=kishokiri][NRoot][=NP, person's.name]
+
+rookaitakeri	[r-][VPers][3m.S/A+][--][=ooka][VRoot][=to.abandon; to.leave (ES: dejar); to.throw; to.throw.away/out (ES: botar)][--][-it][Asp][+ANT][=past/non-past.action:before]it[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e[--][=ri][NS][+REL]
+
+ohaviki	[=ohaviki][NRoot][=floor, first.floor]
+
+:	:[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="653.2">
-        <sentence lang="prq">Itsinampaakero Pabachori iinatsori ikantiro: Tsame nokentatakaemi shima.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Itsinampaakero Pabachori iinatsori ikantiro: Tsame nokentatakaemi shima.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Itsinampaakero Pavachori iinatsori ikantiro: Tsame nokentatakaemi shima.</sentence>
         <sentence lang="es">Mi tío bromeó a su cuñada diciendo: “Vamos a picar pescado”.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+itsinampaakero	[i-][VPers][3m.S/A+][--][=tsinampa][VRoot][=to.joke (ES: bromear)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e[--][=ro][+3n.m.O]
+
+pavachori	[=pavachori+m.+poss@ti.][NRoot][=uncle (kin.of.a.male)]
+
+iinatsori	[i-][NPers][3m.poss+][--][=ina+n.m.+inal@tsi.+voc.][NRoot][=mother; wife (kin.of.a.fe/male)][--][-tsori][+CL:distant/surrogate.kin][=distant/surrogate.kin]
+
+ikantiro	[i-][VPers][3m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-i+n.fut.][+REAL]i[--][=ro][+3n.m.O]
+
+:	:[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="654">
-        <sentence lang="prq">Roojati itsintiro ichenko yeye irijaniki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Roojati itsintiro ichenko yeye irijaniki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Roohati itsintiro ichenko yeye irihaniki.</sentence>
         <sentence lang="es">Mi hermanito aún se orina en su pantalón.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+roohati	[=roohati][ConnRoot][=also (ES: también)]
+
+itsintiro	[i-][VPers][3m.S/A+][--][=tsint][VRoot][=to.urinate (ES: orinar)][--][-i+n.fut.][+REAL]i[--][=ro][+3n.m.O]
+
+ichenko	[i-][NPers][3m.poss+][--][=chenko+n.m.+inal@tsi.][NRoot][=trousers, pants (ES: pantalón)]
+
+yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
+
+irihaniki	[=irihani+m.][AdjRoot][=small][--][-ki][+CL:S.R.H][=small,round(ed);hard;seed-like]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="655">
