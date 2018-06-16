@@ -14953,16 +14953,42 @@ novito	[no-][NPers][1SG.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe 
     <text id="656">
         <sentence lang="prq">Raetiro oyeenka tsireentsi okarentsatantyari aishi.</sentence>
         <sentence lang="es">La grasa del huasaí se saca para suavizar el cabello.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+raetiro	raetiro	+?
+
+oyeenka	[o-][NPers][3n.m.poss+][--][=yeenka+n.m.+inal@ntsi.][NRoot][=fat, lard, grease (ES: manteca, grasa, cebo); body.fat]
+
+tsireentsi	[=tsireentsi+n.m.][NRoot][=palm.tree.sp. (ES: huasaí, chonta)]
+
+okarentsatantyari	[o-][VPers][3n.m.S/A+][--][=karentsa][VRoot][=to.be.phlegmy (ES: estar.flemoso); to.be.viscous (ES: estar.viscoso); to.be.slippery (ES: estar.resbaloso)][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-ya+fut.][+IRR]ya[--][=ri][+3m.O]
+
+aishi	[a-][NPers][1PL.poss+][--][=kishi+n.m.+inal@tsi.][NRoot][=hair (ES: cabello, pelo)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="657">
-        <sentence lang="prq">Ramanantake Yompiri tsirentsitonki raanajeniro iina.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ramanantake Yompiri tsirentsitonki raanajeniro iina.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ramanantake Yompiri tsirentsitonki raanaheniro iina.</sentence>
         <sentence lang="es">Yompiri compró fideos para llevar a su mujer.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
+ramanantake	[r-][VPers][3m.S/A+][--][=amanant][VRoot][=to.buy (ES: comprar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e
 
+yompiri	[=Yompiri][NRoot][=stone.divinity; proper.name]
+
+tsirentsitonki	[=tsire][NRoot][=clay-like.substance][--][-ntsi+alien.][Gen][+nposs]ntsi[--][-tonki][+CL:long.tree.segment][=long.tree.segment; thin (ES: delgado)]
+
+raanaheniro	[r-][VPers][3m.S/A+][--][=a][VRoot][=to.take (ES: agarrar)][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-e+fut.][+IRR]e[--][=ni][+3SG.O][--][=ro][+3n.m.O]
+
+iina	[i-][NPers][3m.poss+][--][=ina+n.m.+inal@tsi.+voc.][NRoot][=mother; wife (kin.of.a.fe/male)]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
