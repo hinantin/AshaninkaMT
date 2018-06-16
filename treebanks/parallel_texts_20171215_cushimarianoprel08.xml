@@ -15017,21 +15017,69 @@ novito	[no-][NPers][1SG.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe 
         <parsing/>
     </text>
     <text id="667">
-        <sentence lang="prq">Ikentabaeti tsompari ishimane otsapiaki nija.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikentabaeti tsompari ishimane otsapiaki nija.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikentavaeti tsompari ishimane otsapiaki niha.</sentence>
         <sentence lang="es">La garza pesca peces en la orilla del río.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ikentavaeti	[i-][VPers][3m.S/A+][--][=kent][VRoot][=to.pierce.with.arrows, to.shoot.arrows; to.sting (ES: picar)][--][-a][+EP]a[--][-vae][ASP][+DUR][=action/state.endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]vae[--][-t][+EP]t[--][-i+n.fut.][+REAL]i
+
+tsompari	[=tsompari+m.][NRoot][=heron.sp., crane (ES: sp.de.garza); great.egret (sci.nm.: egretta.alba)]
+
+ishimane	[i-][NPers][3m.poss+][--][=shima+m.+poss@ni.][NRoot][=fish; fish.sp., boquichico-fish (ES: boquichico, chupadora; sci.nm.: prochilodus.nigricans)][--][-ne][Gen][+aln.poss.]ne
+
+otsapiaki	[o-][NPers][3n.m.poss+][--][=tsapya][NRoot][=river.bank, side.of.river (ES: orilla)][--][-ki][Cas][+LOC_LOC.T]
+
+niha	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="668">
-        <sentence lang="prq">Otsonkakero tsinanepaye otakiriro kaniri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Otsonkakero tsinanepaye otakiriro kaniri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Otsonkakero tsinanepaye otakiriro kaniri.</sentence>
         <sentence lang="es">Las mujeres terminaron de pelar la yuca.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+otsonkakero	[o-][VPers][3n.m.S/A+][--][=tsonk][VRoot][=to.finish (ES: terminar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e[--][=ro][+3n.m.O]
+
+tsinanepaye	[=tsinane+n.m.][NRoot][=female, woman (ES: mujer); young.girl][--][-paye][Num][+PL_DIST]
+
+otakiriro	[o-][NPers][3n.m.poss+][--][=taki+n.m.+inal@tsi.][NRoot][=shell (ES: caparazón); peel (ES: cáscara); skin]+vbz.[--][-ri][+REV]ri[--][-ro+n.m.][NS][+NMZ]ro
+
+kaniri	[=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="669">
-        <sentence lang="prq">Osheki iñaamatabo tsonkiri ratsotiro obocharite inchateyaki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Osheki iñaamatabo tsonkiri ratsotiro obocharite inchateyaki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Osheki inyaamatavo tsonkiri ratsotiro ovocharite inchateyaki.</sentence>
         <sentence lang="es">Al picaflor le encanta chupar el néctar de las flores.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+inyaamatavo	[i-][VPers][3m.S/A+][--][=nyaama][VRoot][=to.covet.sth. (ES: codiciar); to.like.sth. (ES: gustar)][--][-t][+EP]t[--][-a+n.fut.][+REAL]a[--][=vo][+3n.m.O]
+
+tsonkiri	[=tsonkiri+poss@ti.][NRoot][=hummingbird.sp.; blue-fronted.lancebill (sci.nm.: doryfera.johannae)]
+
+ratsotiro	[r-][VPers][3m.S/A+][--][=atso][VRoot][=to.suck (prbly.cacao/kemito,tobacco/sheri; ES: chupar)][--][-t][+EP]t[--][-i+n.fut.][+REAL]i[--][=ro][+3n.m.O]
+
+ovocharite	[o-][NPers][3n.m.poss+][--][=pochari][AdjRoot][=sweet (ES: dulce)][--][-te][Gen][+aln.poss.]te
+
+inchateyaki	[=incha][NRoot][=plant][--][-teyaki][+CL:flower][=flower]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="670">
