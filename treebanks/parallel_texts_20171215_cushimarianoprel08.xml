@@ -14987,9 +14987,23 @@ novito	[no-][NPers][1SG.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe 
         <parsing/>
     </text>
     <text id="662">
-        <sentence lang="prq">Robabo meyiri oitsoki tsiyaroki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Robabo meyiri oitsoki tsiyaroki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovavo meyiri oitsoki tsiyaroki.</sentence>
         <sentence lang="es">La ardilla come semillas de shapaja.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+rovavo	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-a+n.fut.][+REAL]a[--][=vo][+3n.m.O]
+
+meyiri	[=meyiri+poss@te.][NRoot][=big.squirrel.sp. (ES: sp.de.ardilla.grande.(roja); sci.nm.: sciurus.pyrrhinus)]
+
+oitsoki	[o-][NPers][3n.m.poss+][--][=kitsoki][NRoot][=egg (huevo); seed (ES: semilla)]
+
+tsiyaroki	[=tsiyaro+n.m.][NRoot][=palm.tree.sp. (ES: shapaja, shebón; sci.nm.: attalea.phalerata.martius.ex.spengel, scheelea)][--][-ki][+CL:S.R.H][=small,round(ed);hard;seed-like]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="663">
