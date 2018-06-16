@@ -14903,9 +14903,20 @@ novito	[no-][NPers][1SG.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe 
         <parsing/>
     </text>
     <text id="649">
-        <sentence lang="prq">Raati yeye tsikontoche riraashiterori ishinkana.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Raati yeye tsikontoche riraashiterori ishinkana.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Raati yeye tsikontoche riraashiterori ishinkana.</sentence>
         <sentence lang="es">Mi hermano trajo uña de gato para curarse los riñones.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+raati	[r-][VPers][3m.S/A+][--][=a][VRoot][=to.get][--][-ati][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]ati
+
+yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
+
+tsikontoche	[=tsikontoche][NRoot][=cat's.claw (ES: uña.de.gato)]
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="650">
