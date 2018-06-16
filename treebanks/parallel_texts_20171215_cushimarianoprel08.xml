@@ -15035,9 +15035,28 @@ novito	[no-][NPers][1SG.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe 
         <parsing/>
     </text>
     <text id="670">
-        <sentence lang="prq">Osheki noñaamatabo nobabo tsonkitiroki tema opochatati.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Osheki noñaamatabo nobabo tsonkitiroki tema opochatati.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Osheki nonyaamatavo novavo tsonkitiroki tema opochatati.</sentence>
         <sentence lang="es">Me gusta mucho comer el moquichi porque es dulce.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+nonyaamatavo	[no-][VPers][1SG.S/A+][--][=nyaama][VRoot][=to.covet.sth. (ES: codiciar); to.like.sth. (ES: gustar)][--][-t][+EP]t[--][-a+n.fut.][+REAL.RFL]a[--][=vo][+3n.m.O]
+
+novavo	[n-][VPers][1SG.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-a+n.fut.][+REAL]a[--][=vo][+3n.m.O]
+
+???
+tsonkitiroki	[=tsonkitiroki][NRoot][=plantain.sp. (ES: moquichi, plátano.(bizcocho))]
+
+tema	[=tema][OtherRoot][=because (ES: porque); maybe (ES: como, ya.que, puesto.que)]
+
+opochatati	[o-][VPers][3n.m.S/A+][--][=pocha][VRoot][=to.be.sweet (ES: ser.dulce)][--][-t][+EP]t[--][-ati][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]ati
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="671">
