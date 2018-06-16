@@ -14981,9 +14981,23 @@ novito	[no-][NPers][1SG.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe 
         <parsing/>
     </text>
     <text id="661">
-        <sentence lang="prq">Osheki robari tsiya chapitsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Osheki robari tsiya chapitsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Osheki rovari tsiya chapitsi.</sentence>
         <sentence lang="es">La chicua se alimenta de gusanos.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+rovari	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-a+n.fut.][+REAL]a[--][=ri][+3m.O]
+
+tsiya	[=tsiya+m.][NRoot][=bird.sp. (ES: chicua); black-bellied.cuckoo (sci.nm.: piaya.melanogaster)]
+
+chapitsi	[=chapitsi][NRoot][=worm.sp. (ES: especie.de.gusano)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="662">
