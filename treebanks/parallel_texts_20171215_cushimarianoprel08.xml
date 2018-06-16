@@ -14882,7 +14882,18 @@ novito	[no-][NPers][1SG.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe 
         <sentence lang="prq" normalizationlevel="none">Otsibakakero tampia ootamentotsi.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Otsivakakero tampia ootamentotsi.</sentence>
         <sentence lang="es">El viento apagó el mechero.</sentence>
-        <morphology/>
+        <morphology>
+
+
+otsivakakero	[o-][VPers][3n.m.S/A+][--][=tsivak][VRoot][=to.put.out, to.extinguish (ES: apagar (luz, cigarrillo, fuego))][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e[--][=ro][+3n.m.O]
+
+tampia	[=tampia+n.m.][NRoot][=wind (ES: viento)]
+
+ootamentotsi	[=oot][VRoot][=to.light (ES: alumbrar, encender)][--][-a][+CL:liquid][=liquid]a[--][-mento+n.m.][NS][+NMZ.CONCR]mento[--][-tsi+alien.][Gen][+nposs]tsi
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="646">
