@@ -14959,7 +14959,12 @@ novito	[no-][NPers][1SG.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe 
     <text id="657">
         <sentence lang="prq">Ramanantake Yompiri tsirentsitonki raanajeniro iina.</sentence>
         <sentence lang="es">Yompiri compró fideos para llevar a su mujer.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="658">
