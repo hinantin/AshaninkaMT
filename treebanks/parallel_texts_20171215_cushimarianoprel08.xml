@@ -15011,9 +15011,29 @@ novito	[no-][NPers][1SG.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe 
         <parsing/>
     </text>
     <text id="666">
-        <sentence lang="prq">Raakero Abentyari okashi tsomanto raabintantyariri ipatsaabo itomi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Raakero Abentyari okashi tsomanto raabintantyariri ipatsaabo itomi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Raakero Aventyari okashi tsomanto raavintantyariri ipatsaavo itomi.</sentence>
         <sentence lang="es">Aventyari sacó resina de cumala para curar la herida de su hijo.</sentence>
-        <morphology/>
+        <morphology>
+
+
+raakero	[r-][VPers][3m.S/A+][--][=a][VRoot][=to.take (ES: agarrar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e[--][=ro][+3n.m.O]
+
+aventyari	[=aventyari+m.][NRoot][=cry.baby (ES: llorón); person's.name, NP]
+
+okashi	[o-][NPers][3n.m.poss+][--][=kashi][NRoot][=resin (ES: savia, resina); white.milky.sap (ES: savia.lechosa.del.árbol), sap]
+
+tsomanto	[=tsomanto+n.m.][NRoot][=tree.sp. (ES: cumala, sp.de.árbol)]
+
+raavintantyariri	[r-][VPers][3m.S/A+][--][=aavint][VRoot][=to.cure (ES: curar)][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-ya+fut.][+IRR]ya[--][=ri][+3m.O][--][=ri][NS][+REL]
+
+ipatsaavo	[i-][NPers][3m.poss+][--][=patsaa][VRoot][=to.have.a.skin.sore, to.have.a.wound; to.rot; to.have.a.wet.wound.with.pus][--][-vo+n.m.][NS][+NMZ]vo
+
+itomi	[i-][NPers][3m.poss+][--][=tomi+m.+inal@tsi.][NRoot][=son (kin.of.a.fe/male)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="667">
