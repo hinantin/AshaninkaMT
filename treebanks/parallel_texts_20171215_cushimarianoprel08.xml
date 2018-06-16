@@ -14873,9 +14873,31 @@ novito	[no-][NPers][1SG.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe 
         <parsing/>
     </text>
     <text id="644">
-        <sentence lang="prq">Itseeyaka obametantatsiri Camaiteri ikantanakeri ashitaaniyetatsiri: Inkaamani nompiyaje.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Itseeyaka obametantatsiri Camaiteri ikantanakeri ashitaaniyetatsiri: Inkaamani nompiyaje.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Itseeyaka ovametantatsiri Kamaiteri ikantanakeri ashitaaniyetatsiri: Inkaamani nompiyahe.</sentence>
         <sentence lang="es">El profesor Camaiteri mintió a los padres diciendo: “Mañana regreso”.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+itseeyaka	[i-][VPers][3m.S/A+][--][=tseey][VRoot][=to.lie (ES: mentir)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a+n.fut.][+REAL]a
+
+ovametantatsiri	[=ovame][VRoot][=to.teach (ES: enseñar)][--][-t][+EP]t[--][-ant][+APPL.INST][=reason,instrumentality;in.order.to]ant[--][-atsi][Asp][+STAT.IPRF]atsi[--][=ri][NS][+REL]
+
+kamaiteri	[=kamaiteri][NRoot][=person's.name, NP]
+
+ikantanakeri	[i-][VPers][3m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e[--][=ri][+3m.O]
+
+ashitaaniyetatsiri	[=ashitaaniyetatsiri][NRoot][=parent, householder (ES: padre.de.familia)]
+
+:	:[$.]
+
+inkaamani	[=inkaamani][NRoot][=early.morning (ES: mañana); dawning (ES: al.amanecer)]
+
+nompiyahe	[no-][VPers][1SG.S/A+][--][N=][IRR+][--][=piy][VRoot][=to.return, to.come.back (ES: volver, regresar)][--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-e+fut.][+IRR]e
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="645">
