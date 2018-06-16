@@ -14915,9 +14915,23 @@ novito	[no-][NPers][1SG.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe 
         <parsing/>
     </text>
     <text id="651">
-        <sentence lang="prq">Omakoriati isheni inchatoki otsimankitye.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Omakoriati isheni inchatoki otsimankitye.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Omakoriati isheni inchatoki otsimankitye.</sentence>
         <sentence lang="es">La abuela descansa en la sombra del árbol.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+omakoriati	[o-][VPers][3n.m.S/A+][--][=makori][VRoot][=to.tire; to.rest (ES: descansar)][--][-ati][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]ati
+
+isheni	[=isheni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
+
+inchatoki	[=inchato+n.m.][NRoot][=tree (ES: árbol)][--][-ki][Cas][+LOC_LOC.T]
+
+otsimankitye	[o-][VPers][3n.m.S/A+][--][=tsimank][VRoot][=to.cast.a.shadow (ES: ensombrecer)][--][-it][Asp][+ANT][=past/non-past.action:before]it[--][-ye+fut.][+IRR]ye
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="652">
