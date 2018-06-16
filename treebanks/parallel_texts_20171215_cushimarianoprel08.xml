@@ -14867,9 +14867,25 @@ novito	[no-][NPers][1SG.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe 
         <parsing/>
     </text>
     <text id="643">
-        <sentence lang="prq">Rantakeri eentsi tseeri irotake itseyantari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Rantakeri eentsi tseeri irotake itseyantari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rantakeri eentsi tseeri irotake itseyantari.</sentence>
         <sentence lang="es">El niño tocó al caracol y por eso es mentiroso.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+rantakeri	[r-][VPers][3m.S/A+][--][=ant][VRoot][=to.beat, to.hit; to.build, to.do, to.make][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e[--][=ri][+3m.O]
+
+eentsi	[=eentsi+n./m.+poss@te.][NRoot][=child (ES: niño)]
+
+tseeri	[=tseeri][NRoot][=small.snail.sp. (ES: sp.de.caracol.pequeño)]
+
+irotake	[=irotake+cntr.exh.l.+foc.][PrnPers][+3SG.n.m.][=that's.why; she, she.is.the.one.(who), it.is.the.one.(that)]
+
+itseyantari	[i-][VPers][3m.S/A+][--][=tsey][VRoot][=to.lie (ES: mentir)][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-a+n.fut.][+REAL]a[--][=ri][NS][+REL]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="644">
