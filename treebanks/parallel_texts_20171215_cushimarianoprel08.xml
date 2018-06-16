@@ -14909,9 +14909,23 @@ novito	[no-][NPers][1SG.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe 
         <parsing/>
     </text>
     <text id="650">
-        <sentence lang="prq">Itsikotiro yeye kiri irakaentsiri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Itsikotiro yeye kiri irakaentsiri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Itsikotiro yeye kiri irakaentsiri.</sentence>
         <sentence lang="es">Mi hermano coge el pijuayo que está maduro.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+itsikotiro	[i-][VPers][3m.S/A+][--][=tsiko][VRoot][=to.hook, to.take.hold][--][-t][+EP]t[--][-i+n.fut.][+REAL]i[--][=ro][+3n.m.O]
+
+yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
+
+kiri	[=kiri][NRoot][=palm.tree.sp. (ES: pijuayo, pifayo, chonta; sci.nm.: juania.australis)]
+
+irakaentsiri	[=irak][VRoot][=to.be.ripe (fruit; ES: madurar), to.ripen][--][-aentsi][Asp][+STAT.PRF]aentsi[--][=ri][NS][+REL]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="651">
