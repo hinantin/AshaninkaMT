@@ -14963,21 +14963,68 @@ novito	[no-][NPers][1SG.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe 
         <parsing/>
     </text>
     <text id="658">
-        <sentence lang="prq">Ipayeetiri kayetsi tsirikana ikomintsatantyaari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ipayeetiri kayetsi tsirikana ikomintsatantyaari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ipayeetiri kayetsi tsirikana ikomintsatantyaari.</sentence>
         <sentence lang="wa">Al afasi se le da ají para que sea cazador.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ipayeetiri	[i-][VPers][3m.S/A+][--][=p][VRoot][=to.give (ES: dar)][--][-a][+EP]a[--][-yee][+DIST][=in.addition]yee[--][-t][+EP]t[--][-i+fut.][+IRR]i[--][=ri][NS][+REL]
+
+kayetsi	[=kayetsi][NRoot][=bad.hunter (ES: afasi, que.no.sabe.cazar, mal.cazador)]
+
+tsirikana	[=tsirikana+n.m.][NRoot][=chili.pepper, pepper (ES: ají; sci.nm.: capsicum.sp.)]
+
+ikomintsatantyaari	[i-][VPers][3m.S/A+][--][=komintsa][VRoot][=to.hunt (ES: cazar)][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-yaa+fut.][+IRR]yaa[--][=ri][NS][+REL]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="659">
-        <sentence lang="prq">Iroka tsitsi piriaperotake iro omorekantari kametsa.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iroka tsitsi piriaperotake iro omorekantari kametsa.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iroka tsitsi piriaperotake iro omorekantari kametsa.</sentence>
         <sentence lang="es">Esta leña esta muy seca, por eso arde demasiado.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+iroka	[=iroka+n.m.+proximal.b.][PrnDem][=this (ES: esta)]
+
+tsitsi	[=tsi+poss@ma.+voc.][NRoot][=firewood (ES: leña)][--][-tsi+alien.][Gen][+nposs]tsi
+tsitsi	[=tsitsi+n.m.+voc.][NRoot][=firewood (ES: leña)]
+
+piriaperotake	[=piri][VRoot][=to.be.dry (ES: estar.seco)][--][-a][+EP]a[--][-pero][DEGR][+AUG][=VERITY:indeed, truly]pero[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e
+
+iro	[=iro+cont.d.top.][PrnPers][+3SG.n.m.][=she, it; that's why (ES: por.eso)]
+
+omorekantari	[o-][VPers][3n.m.S/A+][--][=morek][VRoot][=to.burn (ES: arder)][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-a+n.fut.][+REAL.RFL]a[--][=ri][NS][+REL]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="660">
-        <sentence lang="prq">Naake osheki tsitsiri nakachatantyari mamori.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Naake osheki tsitsiri nakachatantyari mamori.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Naake osheki tsitsiri nakachatantyari mamori.</sentence>
         <sentence lang="es">Agarré muchos grillos para anzuelear sábalos.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+naake	[n-][VPers][1SG.S/A+][--][=a][VRoot][=to.take (ES: agarrar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+tsitsiri	[=tsitsiri+m.][NRoot][=cricket (ES: grillo)]
+
+nakachatantyari	[n-][VPers][1SG.S/A+][--][=akacha][VRoot][=to.fish.with.a.line.and.a.hook, to.angle (ES: ansolear, anzuelear)][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-ya+fut.][+IRR]ya[--][=ri][+3m.O]
+
+mamori	[=mamori+m.][NRoot][=fish.sp., sabalo (ES: sábalo; sci.nm.: brycon.sp.)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="661">
