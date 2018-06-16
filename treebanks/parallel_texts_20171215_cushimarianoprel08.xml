@@ -14945,13 +14945,30 @@ novito	[no-][NPers][1SG.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe 
         <parsing/>
     </text>
     <text id="655">
-        <sentence lang="prq">Raitiro oshi tsipana akipatantyaari shima.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Raitiro oshi tsipana akipatantyaari shima.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Raitiro oshi tsipana akipatantyaari shima.</sentence>
         <sentence lang="es">Se sacan las hojas de bijao para hacer patarashacas de pescado.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+raitiro	[r-][VPers][3m.S/A+][--][=a][VRoot][=to.take (ES: agarrar)][--][-it][Asp][+ANT][=past/non-past.action:before]it[--][-i+n.fut.][+REAL]i[--][=ro][+3n.m.O]
+
+oshi	[o-][NPers][3n.m.poss+][--][=shi][NRoot][=leaf]
+
+tsipana	[=tsipana+n.m.][NRoot][=plant.sp. (ES: bijao); bijao.leaf (used.to.wrap.food)]
+
+akipatantyaari	[=akipa][VRoot][=to.wrap.sth.with.leaves (e.g. food; ES: envolver.algo.con.hojas)][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-yaa+fut.][+IRR]yaa[--][=ri][+3m.O]
+
+shima	[=shima+m.+poss@ni.][NRoot][=fish; fish.sp., boquichico-fish (ES: boquichico, chupadora; sci.nm.: prochilodus.nigricans)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="656">
-        <sentence lang="prq">Raetiro oyeenka tsireentsi okarentsatantyari aishi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Raetiro oyeenka tsireentsi okarentsatantyari aishi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Raetiro oyeenka tsireentsi okarentsatantyari aishi.</sentence>
         <sentence lang="es">La grasa del huasaí se saca para suavizar el cabello.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
