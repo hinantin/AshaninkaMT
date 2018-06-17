@@ -14930,9 +14930,21 @@ inchaki	[=inchaki+poss@ri.][NRoot][=pole (ES: palo)]
         <parsing/>
     </text>
     <text id="622">
-        <sentence lang="prq">Robabo shintori tiroti.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Robabo shintori tiroti.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovavo shintori tiroti.</sentence>
         <sentence lang="es">La hunagana come huicungo.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+rovavo	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-a+n.fut.][+REAL]a[--][=vo][+3n.m.O]
+
+shintori	[=shintori+m.][NRoot][=collared.peccary (ES: sajino, saíno, huangana; sci.nm.: tayassu.tajacu)]
+
+tiroti	[=tiroti+n.m.][NRoot][=palm.tree.sp.with.black.thorns (ES: huicungo; sci.nm.: astrocaryum.murumuru)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="623">
