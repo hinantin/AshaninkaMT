@@ -14855,15 +14855,49 @@ novito	[no-][NPers][1SG.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe 
         <parsing/>
     </text>
     <text id="642.1">
-        <sentence lang="prq">Tsataka koshiri otebaki inchato.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Tsataka koshiri otebaki inchato.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Tsataka koshiri otevaki inchato.</sentence>
         <sentence lang="es">El mono se cuelga en la rama del árbol.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+tsataka	[=tsa][VRoot][=to.tie, to.moor; to.hung.up (ES: colgar); to.hung.from.sth. (ES: colgarse)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a+n.fut.][+REAL]a
+
+koshiri	[=koshiri+m.+poss@ti.][NRoot][=monkey.sp., white.monkey.sp. (ES: machín.blanco; sci.nm.: cebus.albifrons)]
+
+otevaki	[=oteva][NRoot][=branch (ES: rama); fork-like.branch (ES: horquilla)][--][-ki][Cas][+LOC_LOC.T]
+
+inchato	[=inchato+n.m.][NRoot][=tree (ES: árbol)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="642.2">
-        <sentence lang="prq">Itsati otsiti tsireniriki, aririka iñayetiri abijatsiri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Itsati otsiti tsireniriki, aririka iñayetiri abijatsiri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Itsati otsiti tsireniriki, aririka inyayetiri avihatsiri.</sentence>
         <sentence lang="es">El perro ladra en la noche cuando alguien pasa cerca.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+itsati	[i-][VPers][3m.S/A+][--][=tsa][VRoot][=to.bark (ES: ladrar); to.make.an.animal.sound][--][-t][+EP]t[--][-i+n.fut.][+REAL]i
+
+otsiti	[=otsiti+m.+poss@te.][NRoot][=dog (ES: perro; PT: cachorro.caçador)]
+
+tsireniriki	[=tsireniri][NRoot][=night (ES: noche)][--][-ki][Cas][+LOC_LOC.T]
+
+,	,[$.]
+
+aririka	[=ari][PostPol][=PP][--][=rika][+COND]::[=when (temporal.simultaneity), if (expresses.possible.condition)]
+
+inyayetiri	[i-][VPers][3m.S/A+][--][=ny][VRoot][=to.see, to.look.for; to.visit][--][-a][+EP]a[--][-ye][+DIST][=in.addition]ye[--][-t][+EP]t[--][-i+n.fut.][+REAL]i[--][=ri][NS][+REL]
+
+avihatsiri	[=avih][VRoot][=to.pass, to.move.past/to_the_other_side_of.sb/sth. (ES: pasar); to.happen (ES: ocurrir)][--][-atsi][Asp][+STAT.IPRF]atsi[--][=ri][NS][+REL]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="643">
