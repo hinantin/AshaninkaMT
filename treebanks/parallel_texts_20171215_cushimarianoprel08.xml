@@ -928,7 +928,8 @@ cheenkari	[=cheenkari+sem@color.][NRoot][=obscure; black (ES: negro)]
         <parsing/>
     </text>
     <text id="28">
-        <sentence lang="prq">Ramatabitakero Kocheri iina ikantiro notonkake maniro, kaari maeta.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ramatabitakero Kocheri iina ikantiro notonkake maniro, kaari maeta.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ramatavitakero Kocheri iina ikantiro notonkake maniro, kaari maeta.</sentence>
         <sentence lang="es">Kocheri engañó a su mujer diciendo que había cazado un venado cuando no era cierto.</sentence>
         <sentence lang="en">Kocheri misled his wife saying that he had hunted a deer when it wasn't true.</sentence>
         <morphology>
@@ -995,6 +996,7 @@ oriani	[=oriani+n.m.][AdjRoot][=small]
 :	:[$.]
 
 ???
+nareetakitakabo	[n-][VPers][1SG.S/A+][--][=aree][VRoot][=to.arrive (ES: llegar); to.visit.with.sb. (ES: visitar.a.algn.)][--][-t][+EP]t[--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-it][Asp][+ANT][=past/non-past.action:before]it[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a+n.fut.][+REAL]a[--][=vo][+3n.m.O]
 
 ameeni	[=ameeni+n.m.+poss@ti.][NRoot][=grandmother (fem.ego); granddaughter (fem.ego)]
 
