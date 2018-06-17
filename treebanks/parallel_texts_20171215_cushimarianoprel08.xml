@@ -14777,9 +14777,23 @@ novito	[no-][NPers][1SG.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe 
         <parsing/>
     </text>
     <text id="629">
-        <sentence lang="prq">Imanatakeri yeye shonkiri tonkamentotsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Imanatakeri yeye shonkiri tonkamentotsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Imanatakeri yeye shonkiri tonkamentotsiki.</sentence>
         <sentence lang="es">Mi hermano dirparó a la perdiz con la escopeta.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+imanatakeri	[i-][VPers][3m.S/A+][--][=mana][VRoot][=to.shoot (tipically.with.arrow(s); ES: disparar); to.fish.with.a.bow-and-arrow][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e[--][=ri][+3m.O]
+
+yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
+
+shonkiri	[=shonkiri+poss@ti.][NRoot][=big.partridge.sp. (ES: perdiz); large.quail]
+
+tonkamentotsiki	[=tonk][VRoot][=to.shoot (ES: balear); to.burst][--][-a][+EP]a[--][-mento+n.m.][NS][+NMZ.CONCR]mento[--][-tsi+alien.][Gen][+nposs]tsi[--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="630">
@@ -14797,7 +14811,7 @@ honkoki	[=honkoki][NRoot][=master-owner.of.white_corn (ES: dueño.del.maíz.blan
 
 antantyaari	[=ant][VRoot][=to.beat, to.hit; to.build, to.do, to.make][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-yaa+fut.][+IRR]yaa[--][=ri][+3m.O]
 
-shinkia	[=shinkia+n.m.][NRoot][=alcoholic.drink.made.out.of.corn]
+shinkia	[=shinkia+n.m.][NRoot][=alcoholic.drink.made.out.of.corn (ES: chicha.de.maíz; PT: bebida.fermentada.a.base.de.milho)]
 shinkia	[=shinki+m.+poss@ne:ni.][NRoot][=corn, maize (ES: maíz, botany.nm.: zea.maíz)][--][-a][+CL:liquid][=liquid]
 
 .	.[$.]
