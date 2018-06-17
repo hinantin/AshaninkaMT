@@ -14831,9 +14831,27 @@ novito	[no-][NPers][1SG.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe 
         <parsing/>
     </text>
     <text id="638">
-        <sentence lang="prq">Niyotabakeri iritake tsamiri okityonkati imentaina. </sentence>
+        <sentence lang="prq" normalizationlevel="none">Niyotabakeri iritake tsamiri okityonkati imentaina. </sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Niyotavakeri iritake tsamiri okityonkati imentaina. </sentence>
         <sentence lang="es">Al paujil lo reconocí por el color rojo de su cresta.</sentence>
-        <morphology/>
+        <sentence lang="en">I knew it, he is the one who </sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+niyotavakeri	[n-][VPers][1SG.S/A+][--][=iyot][VRoot][=to.know (ES: saber); to.understand (ES: entender)][--][-av+object.oriented][ADV][+DIR][=contrary,opposite; RCVG:object.arriving.at.the.location.of.the.subject]av[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e[--][=ri][NS][+REL]
+
+iritake	[=iritake+cntr.exh.l.+foc.][PrnPers][+3SG.m.][=that's.why; he.is (ES: él.es); he.is.the.one.(who)]
+
+tsamiri	[=tsamiri+m.][NRoot][=curassow.sp. (ES: paujil); razor-billed.curassow (ES: curaçao.de.pico.filudo; sci.nm.: crax.mitu, mitu.mitu)]
+
+okityonkati	[o-][VPers][3n.m.S/A+][--][=kityonka][VRoot][=to.be.red][--][-t][+EP]t[--][-i+n.fut.][+REAL]i
+
+???
+imentaina	[i-][NPers][3m.poss+][--][=menta+n.m.+inal@tsi.][NRoot][=fin.of.tree (ES: aleta.de.árbol); wedge, buttress.root.of.a.tree][--][=ina][NRoot][=sphere; spherical]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="639">
