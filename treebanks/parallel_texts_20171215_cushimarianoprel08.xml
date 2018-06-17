@@ -14825,9 +14825,25 @@ novito	[no-][NPers][1SG.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe 
         <parsing/>
     </text>
     <text id="637">
-        <sentence lang="prq">Itsamaetiro Mishari robane shookake inchashipaye.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Itsamaetiro Mishari robane shookake inchashipaye.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Itsamaetiro Mishari rovane shookake inchashipaye.</sentence>
         <sentence lang="es">Mishari cultiva su chacra porque ya creció la maleza.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+itsamaetiro	[i-][VPers][3m.S/A+][--][=tsamae][VRoot][=to.cut.grass, to.clean.a.sown_field/road.with.a.shovel][--][-t][+EP]t[--][-i+n.fut.][+REAL]i[--][=ro][+3n.m.O]
+
+mishari	[=mishari][NRoot][=person's.name, NP]
+
+rovane	[r-][NPers][3m.poss+][--][=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra; PT: roçado)][--][-ne][Gen][+aln.poss.]ne
+
+shookake	[=shook][VRoot][=to.grow (ES: crecer)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e
+
+inchashipaye	[i-][NPers][3m.poss+][--][=inchashi+n.m.][NRoot][=herb (ES: hierba); shrubs; weeds (ES: maleza); medicinal.plant (ES: planta.curativa)][--][-paye][Num][+PL_DIST]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="638">
