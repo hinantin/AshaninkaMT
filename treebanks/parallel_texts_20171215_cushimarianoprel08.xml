@@ -14849,9 +14849,21 @@ novito	[no-][NPers][1SG.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe 
         <parsing/>
     </text>
     <text id="641">
-        <sentence lang="prq">Tsataka koshiri otebaki inchato.</sentence>
-        <sentence lang="es">El mono se cuelga en la rama del árbol.</sentence>
-        <morphology/>
+        <sentence lang="prq" normalizationlevel="none">Jantsare itsano tsompari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Hantsare itsano tsompari.</sentence>
+        <sentence lang="es">La garza tiene el cuello largo.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+hantsare	[=hantsa][NRoot][=long (in.length; ES: largo)]+vbz.[--][-re+m.][NS][+NMZ]re
+
+itsano	[i-][NPers][3m.poss+][--][=tsano+inal@tsi.][NRoot][=neck (ES: cuello)]
+
+tsompari	[=tsompari+m.][NRoot][=heron.sp., crane (ES: sp.de.garza); great.egret (sci.nm.: egretta.alba)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="642.1">
