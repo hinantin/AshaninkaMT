@@ -14936,16 +14936,28 @@ inchaki	[=inchaki+poss@ri.][NRoot][=pole (ES: palo)]
         <parsing/>
     </text>
     <text id="623">
-        <sentence lang="prq">Tiyaatanaja obametantatsiri eniki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Tiyaatanaja obametantatsiri eniki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Tiyaatanaha ovametantatsiri eniki.</sentence>
         <sentence lang="es">Los profesores surcan el río.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+tiyaatanaha	[=tiyaat][VRoot][=to.ply (ES: surcar); to.go.upstream (ES: ir.río.arriba)][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-a+n.fut.][+REAL]a
+
+ovametantatsiri	[=ovame][VRoot][=to.teach (ES: enseñar)][--][-t][+EP]t[--][-ant][+APPL.INST][=reason,instrumentality;in.order.to]ant[--][-atsi][Asp][+STAT.IPRF]atsi[--][=ri][NS][+REL]
+
+eniki	[=Eni][NP][=river (Ene.river)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="624">
         <sentence lang="prq" normalizationlevel="none">Okantiro ina choeni: Pookero itiya piyaariri.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Okantiro ina choeni: Pookero itiya piyaariri.</sentence>
         <sentence lang="es">Mi mamá le dice a mi hermana: “Bota el excemento de tu hermano”.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 okantiro	[o-][VPers][3n.m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-i+n.fut.][+REAL]i[--][=ro][+3n.m.O]
