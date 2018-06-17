@@ -14682,20 +14682,44 @@ impaneki	[=iNpaneki+n.m.][NRoot][=fine.sand, sand.made.of.very.small.grains (ES:
     </text>
     <text id="609">
         <sentence lang="prq" normalizationlevel="none">Ipankitake Koshanti tibana ibaneki.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ipankitake Koshanti tibana ibaneki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ipankitake Koshanti tivana ivaneki.</sentence>
         <sentence lang="es">Koshantzi sembró piñas en su chacra.</sentence>
         <morphology>
 
 
+ipankitake	[i-][VPers][3m.S/A+][--][=panki][VRoot][=to.plant, to.sow (ES: sembrar)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e
 
+koshanti	[=koshanti][NRoot][=person's.name, NP]
+
+tivana	[=tivana+n.m.+poss@ti.][NRoot][=pineapple (ES: piña; botany.nm.: ananas.comosus)]
+
+ivaneki	[i-][NPers][3m.poss+][--][=va+n.m.+poss@ni:ne.+voc@1SG.][NRoot][=sown.field, sown.plot.of.land (ES: chacra; PT: roçado)][--][-ne][Gen][+aln.poss.]ne[--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
     </text>
     <text id="610">
-        <sentence lang="prq">Atiri riyati rayi tibi ochempeki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Atiri riyati rayi tibi ochempeki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Atiri riyati rayi tivi ochempeki.</sentence>
         <sentence lang="es">La gente va al cerro a traer sal de piedra.</sentence>
-        <morphology/>
+        <morphology>
+
+
+atiri	[=atiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]
+
+riyati	[r-][VPers][3m.S/A+][--][=iya][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-i+n.fut.][+REAL]i
+
+rayi	[r-][VPers][3m.S/A+][--][=ay][VRoot][=to.get][--][-i+fut.][+IRR]i
+
+tivi	[=tivi+n.m.+poss@ni:ne.][NRoot][=salt (ES: sal)]
+
+ochempeki	[=ochempe][NRoot][=hill (ES: cerro)][--][-ki][+CL:human.populated][=place.populated.by.humans]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="611">
