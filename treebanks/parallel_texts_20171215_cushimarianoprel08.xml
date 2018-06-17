@@ -14744,9 +14744,23 @@ iyomoneerote	[i-][NPers][3m.poss+][--][=comunero/komoneero+poss@te.][NRootEs][=v
         <parsing/>
     </text>
     <text id="612">
-        <sentence lang="prq">Otijaabakeri kitoche iitsare Shoshokiri. </sentence>
+        <sentence lang="prq" normalizationlevel="none">Otijaabakeri kitoche iitsare Shoshokiri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Otihaavakeri kitoche iitsare Shoshokiri.</sentence>
         <sentence lang="es">La espina rompió la ropa de Shoshokiri.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+otihaavakeri	[o-][VPers][3n.m.S/A+][--][=tih][VRoot][=to.weave (ES: tejer)][--][-a][+EP]a[--][-av+object.oriented][ADV][+DIR][=contrary,opposite; RCVG:object.arriving.at.the.location.of.the.subject]av[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e[--][=ri][+3m.O]
+
+kitoche	[=kitoche+n.m.][NRoot][=thorn (ES: espina)]
+
+iitsare	[i-][NPers][3m.poss+][--][=kitsare+m.+inal@ntsi.][NRoot][=dress, cushma, cloth]
+
+shoshokiri	[=shoshokiri][NRoot][=NP, person's.name]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="613">
