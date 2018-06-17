@@ -14942,15 +14942,47 @@ inchaki	[=inchaki+poss@ri.][NRoot][=pole (ES: palo)]
         <parsing/>
     </text>
     <text id="624">
-        <sentence lang="prq">Okantiro ina choeni: Pookero itiya piyaariri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Okantiro ina choeni: Pookero itiya piyaariri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Okantiro ina choeni: Pookero itiya piyaariri.</sentence>
         <sentence lang="es">Mi mamá le dice a mi hermana: “Bota el excemento de tu hermano”.</sentence>
-        <morphology/>
+        <morphology>
+
+
+okantiro	[o-][VPers][3n.m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-i+n.fut.][+REAL]i[--][=ro][+3n.m.O]
+
+ina	[=ina+n.m.+inal@tsi.+voc.][NRoot][=mother; wife (kin.of.a.fe/male)]
+
+choeni	[=choeni+n.m.][NRoot][=sister (kin.of.a.male, male.ego)]
+
+:	:[$.]
+
+pookero	[p-][VPers][2S/A+][--][=ook][VRoot][=to.abandon; to.leave (ES: dejar); to.throw; to.throw.away/out (ES: botar)][--][-e+fut.][+IRR]e[--][=ro][+3n.m.O]
+
+itiya	[i-][NPers][3m.poss+][--][=tiya+n.m.+inal@tsi.][NRoot][=excrement (ES: excremento), feces (ES: heces)]
+
+piyaariri	[pi-][NPers][2poss+][--][=yaari+m.+poss@ri.][NRoot][=brother (kin.of.a.female)][--][-ri][Gen][+aln.poss.]ri
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="625">
-        <sentence lang="prq">Itobakero yeye inchato.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Itobakero yeye inchato.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Itovakero yeye inchato.</sentence>
         <sentence lang="es">Mi hermano tumbó el árbol.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph">
+
+
+itovakero	[i-][VPers][3m.S/A+][--][=tov][VRoot][=to.fell, to.cut.down (a.tree; ES: tumbar.(un.árbol))][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e[--][=ro][+3n.m.O]
+
+yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
+
+inchato	[=inchato+n.m.][NRoot][=tree (ES: árbol)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="626">
