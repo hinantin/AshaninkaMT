@@ -14659,9 +14659,25 @@ iteni	[i-][NPers][3m.poss+][--][=teni+n.m.+inal@tsi.][NRoot][=breast, bosom (ES:
         <parsing/>
     </text>
     <text id="608">
-        <sentence lang="prq">Ijeeki iitsoki teparo intsomoeki impaneki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ijeeki iitsoki teparo intsomoeki impaneki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iheeki iitsoki teparo intsomoeki impaneki.</sentence>
         <sentence lang="es">Los huevos de la taricaya están dentro de la arena.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+iheeki	[i-][VPers][3m.S/A+][--][=heek][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir); to.be][--][-i+n.fut.][+REAL]i
+
+iitsoki	[i-][NPers][3m.poss+][--][=kitsoki][NRoot][=egg (huevo); seed (ES: semilla)]
+
+teparo	[=teparo][NRoot][=turtle.sp.; aquatic.turtle.sp. (taricaya)]
+
+intsomoeki	[=intsomoeki][AdvRoot][=towards.the.inside (ES: hacia.adentro)]
+
+impaneki	[=iNpaneki+n.m.][NRoot][=fine.sand, sand.made.of.very.small.grains (ES: arena); sandy.area (ES: arenal, playa)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="609">
