@@ -14807,9 +14807,20 @@ novito	[no-][NPers][1SG.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe 
         <parsing/>
     </text>
     <text id="634">
-        <sentence lang="prq">Aririka piñeri tsaampi inkie pipankoki raretatyea atiri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Aririka piñeri tsaampi inkie pipankoki raretatyea atiri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Aririka pinyeri tsaampi inkie pipankoki raretatyea atiri.</sentence>
         <sentence lang="es">Si ves entrar una mariposa a tu casa, tendrás una visita.</sentence>
-        <morphology/>
+        <sentence lang="es">Dice la gente que cuando una mariposa entra a la casa, pronto llegará un visitante.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+aririka	[=ari][PostPol][=PP][--][=rika][+COND]::[=when (temporal.simultaneity), if (expresses.possible.condition)]
+
+pinyeri	[pi-][VPers][2S/A+][--][=ny][VRoot][=to.see, to.look.for; to.visit][--][-e+fut.][+IRR]e[--][=ri][+3m.O]
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="635">
