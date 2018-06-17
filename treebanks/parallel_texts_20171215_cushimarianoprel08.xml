@@ -14922,7 +14922,22 @@ inchaki	[=inchaki+poss@ri.][NRoot][=pole (ES: palo)]
         <sentence lang="prq" normalizationlevel="none">Raatsi Kobashito tiri robatsikantyabori ichakopite.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Raatsi Kovashito tiri rovatsikantyavori ichakopite.</sentence>
         <sentence lang="es">Kowashito fue a traer brea para embrear su flecha.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+raatsi	[r-][VPers][3m.S/A+][--][=a][VRoot][=to.get][--][-atsi][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]atsi
+
+kovashito	[=kovashito][NRoot][=person's.name, NP]
+
+tiri	[=tiri+m.+poss@ni.][NRoot][=tar (ES: brea)]
+
+???
+
+ichakopite	[i-][NPers][3m.poss+][--][=chakopi+n.m.+poss@te:ti.][NRoot][=arrow (ES: flecha); small.cane (ES: cañabrava.pequeña)][--][-te][Gen][+aln.poss.]te
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="621">
