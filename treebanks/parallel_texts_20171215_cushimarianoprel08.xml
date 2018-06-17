@@ -14639,9 +14639,23 @@ novito	[no-][NPers][1SG.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe 
         <parsing/>
     </text>
     <text id="607">
-        <sentence lang="prq">Iraaka iriani iraakotabo iteni.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iraaka iriani iraakotabo iteni.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iraaka iriani iraakotavo iteni.</sentence>
         <sentence lang="es">El niño llora por su teta.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+iraaka	[=ira][VRoot][=to.cry][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a+n.fut.][+REAL]a
+
+iriani	[=iriani][NRoot][=child (ES: niño)]
+
+iraakotavo	[=ira][VRoot][=to.cry][--][-ako][+CL:vessel][=vessel; recipient; cavity; hand]ako[--][-t][+EP]t[--][-a+n.fut.][+REAL]a[--][=vo][+3n.m.O]
+
+iteni	[i-][NPers][3m.poss+][--][=teni+n.m.+inal@tsi.][NRoot][=breast, bosom (ES: teta, seno)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="608">
