@@ -14892,9 +14892,23 @@ antyashipavotaki	[=antyashipavo+n.m.][NRoot][=elderly.woman, old.woman][--][-tak
         <parsing/>
     </text>
     <text id="618">
-        <sentence lang="prq">Eero pamiro inchaki tipiro.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Eero pamiro inchaki tipiro.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Eero pamiro inchaki tipiro.</sentence>
         <sentence lang="es">No traigas un palo torcido.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+eero	[=eero][Neg][=NEG.IRR]
+
+pamiro	[p-][VPers][2S/A+][--][=am][VRoot][=to.bring (ES: traer)][--][-i+fut.][+IRR]i[--][=ro][+3n.m.O]
+
+inchaki	[=inchaki+poss@ri.][NRoot][=pole (ES: palo)]
+
+???
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="619">
