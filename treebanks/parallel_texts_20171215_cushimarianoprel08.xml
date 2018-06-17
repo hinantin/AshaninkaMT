@@ -14837,9 +14837,15 @@ novito	[no-][NPers][1SG.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe 
         <parsing/>
     </text>
     <text id="639">
-        <sentence lang="prq">Otashitake ameeni tsanabo operiri charine.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Otashitake ameeni tsanabo operiri charine.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Otashitake ameeni tsanavo operiri charine.</sentence>
         <sentence lang="es">Mi abuela asó pituca para mi abuelo.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="640">
