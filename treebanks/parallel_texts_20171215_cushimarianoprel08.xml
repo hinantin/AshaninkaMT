@@ -14925,9 +14925,25 @@ antamiki	[=antami][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.for
         <parsing/>
     </text>
     <text id="628">
-        <sentence lang="prq">Makotakena nanitiro tonkaare naantabori kepaye.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Makotakena nanitiro tonkaare naantabori kepaye.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Makotakena nanitiro tonkaare naantavori kepaye.</sentence>
         <sentence lang="es">Me cansé subiendo la loma para traer palos para armar mi casa.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+makotakena	[=mako][VRoot][=to.tire; to.rest; to.get.tired (ES: cansarse)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e[--][=na][+1SG.O]
+
+nanitiro	[n-][VPers][1SG.S/A+][--][=ani][VRoot][=to.go; to.walk (ES: caminar); to.go.down][--][-t][+EP]t[--][-i+n.fut.][+REAL]i[--][=ro][+3n.m.O]
+
+tonkaare	[=tonkaare+sem@loc.][NRoot][=hill.top,above (ES: loma)]
+
+naantavori	[n-][VPers][1SG.S/A+][--][=a][VRoot][=to.get][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-a+fut.][+IRR]a[--][=vo][+3n.m.O][--][=ri][NS][+REL]
+
+kepaye	[=kepaye+n.m.][NRoot][=very_hard/thick.wood.sp. (ES: horcón, poste,, shungu, corazón.de.árbol, árbol.duro; PT: espécie.de.madeira.bem.dura)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="629">
