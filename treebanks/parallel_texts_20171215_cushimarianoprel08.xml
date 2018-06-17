@@ -14912,21 +14912,41 @@ inchaki	[=inchaki+poss@ri.][NRoot][=pole (ES: palo)]
         <parsing/>
     </text>
     <text id="619">
-        <sentence lang="prq">Itipiati pabachori kompiroshi rantantyari ipanko.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Itipiati pabachori kompiroshi rantantyari ipanko.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Itipiati pavachori kompiroshi rantantyari ipanko.</sentence>
         <sentence lang="es">Mi tío está doblando hojas de yarina para el techo de su casa</sentence>
         <morphology/>
         <parsing/>
     </text>
     <text id="620">
-        <sentence lang="prq">Raatsi Kobashito tiri robatsikantyabori ichakopite.</sentence>
-        <sentence lang="es">Raatsi konki tirokitsa raabintantyari itinkaabo itomi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Raatsi Kobashito tiri robatsikantyabori ichakopite.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Raatsi Kovashito tiri rovatsikantyavori ichakopite.</sentence>
+        <sentence lang="es">Kowashito fue a traer brea para embrear su flecha.</sentence>
         <morphology/>
         <parsing/>
     </text>
     <text id="621">
-        <sentence lang="prq">Raatsi konki tirokitsa raabintantyari itinkaabo itomi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Raatsi konki tirokitsa raabintantyari itinkaabo itomi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Raatsi konki tirokitsa raavintantyari itinkaavo itomi.</sentence>
         <sentence lang="es">Mi suegro fue a traer renaco para curar la fractura de su hijo.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+raatsi	[r-][VPers][3m.S/A+][--][=a][VRoot][=to.get][--][-atsi][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]atsi
+
+konki	[=konki+m.+poss@ri:re.][NRoot][=father; father.in.law; uncle (kin.of.a.male; ES: suegro)]
+
+tirokitsa	[=tiroki][VRoot][=medicinal.vine/liana (ES: renaco, bejuco.medicinal)][--][-tsa][+CL:long.flexible.thin][=long,flexible,thin; liana.(like); tree_bark; curvilinear]tsa
+
+raavintantyari	[r-][VPers][3m.S/A+][--][=aavint][VRoot][=to.cure (ES: curar)][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-ya+fut.][+IRR]ya[--][=ri][+3m.O]
+
+???
+
+itomi	[i-][NPers][3m.poss+][--][=tomi+m.+inal@tsi.][NRoot][=son (kin.of.a.fe/male)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="622">
@@ -15756,7 +15776,7 @@ iina	[i-][NPers][3m.poss+][--][=ina+n.m.+inal@tsi.+voc.][NRoot][=mother; wife (k
     <text id="658">
         <sentence lang="prq" normalizationlevel="none">Ipayeetiri kayetsi tsirikana ikomintsatantyaari.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ipayeetiri kayetsi tsirikana ikomintsatantyaari.</sentence>
-        <sentence lang="wa">Al afasi se le da ají para que sea cazador.</sentence>
+        <sentence lang="es">Al afasi se le da ají para que sea cazador.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
