@@ -14843,9 +14843,26 @@ novito	[no-][NPers][1SG.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe 
         <parsing/>
     </text>
     <text id="640">
-        <sentence lang="prq">Ineeki tsonkiri kemetaka tsanoerentsi iporeriaati.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ineeki tsonkiri kemetaka tsanoerentsi iporeriaati.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ineeki tsonkiri kemetaka tsanoerentsi iporeriaati.</sentence>
         <sentence lang="es">El pecho del picaflor se parece a un collar porque brilla.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+???
+ineeki	[i-][NPers][3m.poss+][--][=nee][NRoot][=chest (ES: pecho)][--][-ki][Cas][+LOC_LOC.T]
+
+tsonkiri	[=tsonkiri+poss@ti.][NRoot][=hummingbird.sp.; blue-fronted.lancebill (sci.nm.: doryfera.johannae)]
+
+kemetaka	[=keme][VRoot][=to.be.similar, to.seem, to.resemble, to.be.like][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a+n.fut.][+REAL]a
+
+???
+
+iporeriaati	[i-][VPers][3m.S/A+][--][=porery][VRoot][=to.shine (ES: brillar)][--][-a][+EP]a[--][-ati][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]ati
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="641">
