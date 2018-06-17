@@ -14913,15 +14913,35 @@ antamiki	[=antami][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.for
         <parsing/>
     </text>
     <text id="626">
-        <sentence lang="prq">Oshoki toniro inkaareki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Oshoki toniro inkaareki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Oshoki toniro inkaareki.</sentence>
         <sentence lang="es">El aguaje crece en las cochas.</sentence>
         <morphology/>
         <parsing/>
     </text>
     <text id="627">
-        <sentence lang="prq">Itonkake Shoshokiri shabo rababeta kaniri obantsipooshiki.</sentence>
+        <!-- Itonkake Shoshokiri shabo rababeta kaniri obantsipooshiki. -->
+        <sentence lang="prq" normalizationlevel="none">Itonkake Shoshokiri shabo robabeta kaniri obantsipooshiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Itonkake Shoshokiri shavo rovaveta kaniri ovantsipooshiki.</sentence>
         <sentence lang="es">Shoshokiri baleó un añuje que comía yuca en la purma.</sentence>
-        <morphology/>
+        <morphology>
+
+
+itonkake	[i-][VPers][3m.S/A+][--][=tonk][VRoot][=to.shoot (ES: balear); to.burst][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e
+
+shoshokiri	[=shoshokiri][NRoot][=NP, person's.name]
+
+shavo	[=shavo+m.][NRoot][=rodent.sp. (añuje, agutí, agouti, cutpe; sci.nm.: dasyprocta.variegata)]
+
+rovaveta	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-a][+EP]a[--][-ve][+FRUS][=unsuccessful/interrupted.action/state (EN: in.vain; ES: casi); action.that.didn't.achieve.the.desired.result]ve[--][-t][+EP]t[--][-a+n.fut.][+REAL]a
+
+kaniri	[=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]
+
+ovantsipooshiki	[=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (ES: chacra; PT: roçado)][--][-ntsi+alien.][Gen][+nposs]ntsi[--][-pooshi][+CL:abandoned][=abandoned][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="628">
