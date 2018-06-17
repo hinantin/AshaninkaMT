@@ -14817,7 +14817,8 @@ kapichoki	[=kapichoki][AdvRoot][=a.little (ES: poco)]
 
 ???
 
-???
+timpinare	[=timpinare][NRoot][=swallow.sp. (ES: sp.de.golondrina)]
+
 
 opariatye	[o-][VPers][3n.m.S/A+][--][=pary][VRoot][=to.fall (ES: caer)][--][-aty][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]aty[--][-e+fut.][+IRR]e
 
@@ -14853,15 +14854,41 @@ antamiki	[=antami][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.for
         <parsing/>
     </text>
     <text id="616">
-        <sentence lang="prq">Itinaeri ani charaba rotetantyaariri ibitoki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Itinaeri ani charaba rotetantyaariri ibitoki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Itinaeri ani charava rotetantyaariri ivitoki.</sentence>
         <sentence lang="es">Mi cuñado levanta el súngaro para meterlo en la canoa.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+itinaeri	[i-][VPers][3m.S/A+][--][=tina][VRoot][=to.lift (ES: levantar); to.get.up][--][-e+n.fut.][+REAL]e[--][=ri][NS][+REL]
+
+ani	[=ani+m.+poss@ri.][NRoot][=brother.in.law (kin.of.a.male)]
+
+charava	[=charava][NRoot][=fish.sp. (ES: súngaro, pez.saltón); gilded.catfish.sp.; zungaro-fish (ES: súngaro)]
+
+rotetantyaariri	[r-][VPers][3m.S/A+][--][=ote][VRoot][=to.take.sth., to.catch.sth. (ES: agarrar); to.insert (ES: meter.(en.un.envase)); to.get.in; to.board][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-yaa+fut.][+IRR]yaa[--][=ri][+3m.O][--][=ri][NS][+REL]
+
+ivitoki	[i-][NPers][3m.poss+][--][= +n.m.+inal@tsi.+poss@ni.][NRoot][=canoe (ES: canoa)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="617">
-        <sentence lang="prq">Antyashipabotaki notinabo.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Antyashipabotaki notinabo.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Antyashipavotaki notinavo.</sentence>
         <sentence lang="es">Mi almohada está vieja.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+antyashipavotaki	[=antyashipavo+n.m.][NRoot][=elderly.woman, old.woman][--][-taki][DEGR][+SUPERL]
+
+???
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="618">
@@ -14916,7 +14943,18 @@ antamiki	[=antami][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.for
         <sentence lang="prq" normalizationlevel="none">Oshoki toniro inkaareki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Oshoki toniro inkaareki.</sentence>
         <sentence lang="es">El aguaje crece en las cochas.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+oshoki	[o-][VPers][3n.m.S/A+][--][=shok][VRoot][=to.grow (ES: crecer)][--][-i+n.fut.][+REAL]i
+
+toniro	[=toniro+n.m.+poss@ti:te.][NRoot][=palm.tree.sp. (ES: aguaje; sci.nm.: mauritia.flexuosa)]
+
+inkaareki	[=inkaare+n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="627">
