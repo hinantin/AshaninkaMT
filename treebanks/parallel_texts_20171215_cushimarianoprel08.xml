@@ -14829,9 +14829,27 @@ inkani	[=inkani+n.m.][NRoot][=rain (ES: lluvia)]
         <parsing/>
     </text>
     <text id="615.2">
-        <sentence lang="prq">Iñaakeri Shebankori timpinare ijeeki irabaeta antamiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iñaakeri Shebankori timpinare ijeeki irabaeta antamiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Inyaakeri Shevankori timpinare iheeki iravaeta antamiki.</sentence>
         <sentence lang="es">Shebankori vio al extraviado llorando en el monte.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+inyaakeri	[i-][VPers][3m.S/A+][--][=ny][VRoot][=to.see, to.look.for; to.visit][--][-a][+EP]a[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e[--][=ri][+3m.O]
+
+shevankori	[=shevankori][NRoot][=NP, person's.name]
+
+timpinare	[=timpin][VRoot][=to.get.lost][--][-a][+EP]a[--][-re+m.][NS][+NMZ]re
+
+iheeki	[i-][VPers][3m.S/A+][--][=heek][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir); to.be][--][-i+n.fut.][+REAL]i
+
+iravaeta	[=ir][VRoot][=to.cry][--][-a][+EP]a[--][-vae][ASP][+DUR][=action/state.endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]vae[--][-t][+EP]t[--][-a+n.fut.][+REAL]a
+
+antamiki	[=antami][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.forest][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="616">
