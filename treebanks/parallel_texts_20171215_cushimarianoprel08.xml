@@ -14819,9 +14819,23 @@ novito	[no-][NPers][1SG.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe 
         <parsing/>
     </text>
     <text id="636">
-        <sentence lang="prq">Rayiro sheripiare iyokane itsaatoki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Rayiro sheripiare iyokane itsaatoki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rayiro sheripiare iyokane itsaatoki.</sentence>
         <sentence lang="es">El chamán lleva su coca en su morral.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+rayiro	[r-][VPers][3m.S/A+][--][=ay][VRoot][=to.take][--][-i+n.fut.][+REAL]i[--][=ro][+3n.m.O]
+
+sheripiare	[=sheripiare+m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero; PT: pajé)]
+
+iyokane	[i-][NPers][3m.poss+][--][=koka+n.m.+poss@ne:ni.][NRoot][=coca (QUZ: kuka; sci.nm.: erythroxylon.sp., erythroxylon.coca)][--][-ne][Gen][+aln.poss.]ne
+
+itsaatoki	[i-][NPers][3m.poss+][--][=tsaato+n.m.][NRoot][=bag, backpack (ES: mochila); knapsack (ES: morral)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="637">
