@@ -14783,9 +14783,26 @@ novito	[no-][NPers][1SG.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe 
         <parsing/>
     </text>
     <text id="630">
-        <sentence lang="prq">Atoonkatyeero shinki jonkoki antantyaari shinkia.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Atoonkatyeero shinki jonkoki antantyaari shinkia.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Atoonkatyeero shinki honkoki antantyaari shinkia.</sentence>
         <sentence lang="es">Tenemos que moler el maíz para hacer chicha.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+atoonkatyeero	[a-][VPers][1PL.S/A+][--][=toonk][VRoot][=to.grind.sth. (ES: moler); to.husk.grains.in.a.mortar (ES: pilar, descascarar.los.granos.en.el.pilón)][--][-aty][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]aty[--][-ee+fut.][+IRR]ee[--][=ro][+3n.m.O]
+
+shinki	[=shinki+m.+poss@ne:ni.][NRoot][=corn, maize (ES: maíz, botany.nm.: zea.maíz)]
+
+honkoki	[=honkoki][NRoot][=master-owner.of.white_corn (ES: dueño.del.maíz.blanco)]
+
+antantyaari	[=ant][VRoot][=to.beat, to.hit; to.build, to.do, to.make][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-yaa+fut.][+IRR]yaa[--][=ri][+3m.O]
+
+shinkia	[=shinkia+n.m.][NRoot][=alcoholic.drink.made.out.of.corn]
+shinkia	[=shinki+m.+poss@ne:ni.][NRoot][=corn, maize (ES: maíz, botany.nm.: zea.maíz)][--][-a][+CL:liquid][=liquid]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="631">
