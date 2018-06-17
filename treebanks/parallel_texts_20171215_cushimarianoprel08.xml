@@ -14810,12 +14810,20 @@ kapichoki	[=kapichoki][AdvRoot][=a.little (ES: poco)]
     </text>
     <text id="615.1">
         <sentence lang="prq" normalizationlevel="none">Tyoentaka timpinare opariatye inkani.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">Las golondrinas están haciendo circulos; parece que va a llover.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Tyoentaka timpinare opariatye inkani.</sentence>
         <sentence lang="es">Las golondrinas están haciendo circulos; parece que va a llover.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
+???
 
+???
+
+opariatye	[o-][VPers][3n.m.S/A+][--][=pary][VRoot][=to.fall (ES: caer)][--][-aty][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]aty[--][-e+fut.][+IRR]e
+
+inkani	[=inkani+n.m.][NRoot][=rain (ES: lluvia)]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
