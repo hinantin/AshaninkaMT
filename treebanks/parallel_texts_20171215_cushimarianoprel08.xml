@@ -14789,9 +14789,25 @@ novito	[no-][NPers][1SG.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe 
         <parsing/>
     </text>
     <text id="631">
-        <sentence lang="prq">Ipashikaatakeri yeye antari tooso oshinchaakiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ipashikaatakeri yeye antari tooso oshinchaakiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ipashikaatakeri yeye antari tooso oshinchaakiki.</sentence>
         <sentence lang="es">Mi hermano tarrafeó un turushuqui grande en la correntada.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ipashikaatakeri	[i-][VPers][3m.S/A+][--][=pashikaa][VRoot][=to.cover (ES: cubrir, tapar)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e[--][=ri][+3m.O]
+
+yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
+
+antari	[=antari+m.][AdjRoot][=big; mature]
+
+tooso	[=tooso][NRoot][=fish.sp. (ES: turushuqui, sp.de.súngaro; pez.motosierra)]
+
+oshinchaaki	[o-][NPers][3n.m.poss+][--][=shincha+n.m.][NRoot][=(river).current (ES: corriente.(del.río))][--][-a][+CL:liquid][=liquid][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="632">
