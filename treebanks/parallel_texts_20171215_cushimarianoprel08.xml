@@ -14723,9 +14723,24 @@ ochempeki	[=ochempe][NRoot][=hill (ES: cerro)][--][-ki][+CL:human.populated][=pl
         <parsing/>
     </text>
     <text id="611">
-        <sentence lang="prq">Tibotake pinkatsari ikaemantariri iyomoneerote.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Tibotake pinkatsari ikaemantariri iyomoneerote.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Tivotake pinkatsari ikaemantariri iyomoneerote.</sentence>
         <sentence lang="es">El jefe de la comunidad toca la bocina para llamar a los comuneros.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+???
+tivotake	[=tivo][VRoot][=to.blow.the.horn (ES: tocar.la.bocina.hecha.de.cuerno_de_vaca/caparazón_de_caracol_grande)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e
+
+pinkatsari	[=pinkatsari+m.+voc.+poss@te.][NRoot][=chief (ES: jefe); regional.leader]
+
+ikaemantariri	[i-][VPers][3m.S/A+][--][=kaem][VRoot][=to.scream (ES: gritar); to.call.sb. (to.inform.of.sth.; ES: llamar)][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-a+n.fut.][+REAL.RFL]a[--][=ri][+3m.O][--][=ri][NS][+REL]
+
+iyomoneerote	[i-][NPers][3m.poss+][--][=comunero/komoneero+poss@te.][NRootEs][=villager][--][-te][Gen][+aln.poss.]te
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="612">
