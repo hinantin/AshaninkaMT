@@ -14795,9 +14795,23 @@ novito	[no-][NPers][1SG.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe 
         <parsing/>
     </text>
     <text id="632">
-        <sentence lang="prq">Itotanakeri itaki totiroki rantibatantanakari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Itotanakeri itaki totiroki rantibatantanakari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Itotanakeri itaki totiroki rantivatantanakari.</sentence>
         <sentence lang="es">Se cortó con el caparazón de caracol cuando se tropezó.</sentence>
-        <morphology/>
+        <morphology>
+
+
+itotanakeri	[i-][VPers][3m.S/A+][--][=tot][VRoot][=to.cut (ES: cortar)][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e[--][=ri][+3m.O]
+
+itaki	[i-][NPers][3m.poss+][--][=taki+n.m.+inal@tsi.][NRoot][=shell (ES: caparazón); peel (ES: cáscara); skin]
+
+totiroki	[=totiroki][NRoot][=aquatic.snail.sp. (ES: caracol.acuático, caracol.churo)]
+
+rantivatantanakari	[r-][VPers][3m.S/A+][--][=antiva][VRoot][=to.trip.(over.sth.) (ES: tropezar)][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a+n.fut.][+REAL.RFL]a[--][=ri][+3m.O]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="633">
