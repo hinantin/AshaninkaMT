@@ -14801,9 +14801,29 @@ novito	[no-][NPers][1SG.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe 
         <parsing/>
     </text>
     <text id="633">
-        <sentence lang="prq">Ijeeki inkaareki osheki totiroki rootake robanabo koteri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ijeeki inkaareki osheki totiroki rootake robanabo koteri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iheeki inkaareki osheki totiroki rootake rovanavo koteri.</sentence>
         <sentence lang="es">En la cocha viven muchos caracoles y son el alimento de la unchala.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+iheeki	[i-][VPers][3m.S/A+][--][=heek][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir); to.be][--][-i+n.fut.][+REAL]i
+
+inkaareki	[=inkaare+n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)][--][-ki][Cas][+LOC_LOC.T]
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+totiroki	[=totiroki][NRoot][=aquatic.snail.sp. (ES: caracol.acuático, caracol.churo)]
+
+rootake	[=rootake+cntr.exh.l.+foc.][PrnPers][+3SG.n.m.][=that's.why, she; she.is (ES: ella.es)]
+
+rovanavo	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-a+n.fut.][+REAL]a[--][=na][+1SG.O][--][=vo][+3n.m.O]
+
+koteri	[=koteri][NRoot][=bird.sp. (ES: unchala)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="634">
