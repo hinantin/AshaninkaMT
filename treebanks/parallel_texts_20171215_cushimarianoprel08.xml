@@ -14915,7 +14915,22 @@ inchaki	[=inchaki+poss@ri.][NRoot][=pole (ES: palo)]
         <sentence lang="prq" normalizationlevel="none">Itipiati pabachori kompiroshi rantantyari ipanko.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Itipiati pavachori kompiroshi rantantyari ipanko.</sentence>
         <sentence lang="es">Mi tío está doblando hojas de yarina para el techo de su casa</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+???
+
+pavachori	[=pavachori+m.+poss@ti.][NRoot][=uncle (kin.of.a.male)]
+
+kompiroshi	[=kompiroshi][NRoot][=leaf.from.yarina-tree (ES: hoja.de.la.yarina)]
+
+rantantyari	[r-][VPers][3m.S/A+][--][=ant][VRoot][=to.beat, to.hit; to.build, to.do, to.make][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-ya+fut.][+IRR]ya[--][=ri][+3m.O]
+
+ipanko	[i-][NPers][3m.poss+][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="620">
