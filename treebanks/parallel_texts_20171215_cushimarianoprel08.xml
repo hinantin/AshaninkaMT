@@ -14764,21 +14764,60 @@ shoshokiri	[=shoshokiri][NRoot][=NP, person's.name]
         <parsing/>
     </text>
     <text id="613">
-        <sentence lang="prq">Ijeki tijo inchapookiki ramenayeti iita royaari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ijeki tijo inchapookiki ramenayeti iita royaari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iheki tiho inchapookiki ramenayeti iita royaari.</sentence>
         <sentence lang="es">El gallinazo está en la palizada buscando qué comer.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+iheki	[i-][VPers][3m.S/A+][--][=hek][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir); to.be][--][-i+n.fut.][+REAL]i
+
+tiho	[=tiho+m.][NRoot][=black.vulture.sp. (ES: gallinazo)]
+
+inchapookiki	[=incha][NRoot][=plant][--][-pooki][+CL:quantity][=bunch,group;group.of.tiny.objects][--][-ki][Cas][+LOC_LOC.T]
+
+ramenayeti	[r-][VPers][3m.S/A+][--][=amen][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of][--][-a][+EP]a[--][-ye][+DIST][=in.addition]ye[--][-t][+EP]t[--][-i+n.fut.][+REAL]i
+
+???
+iita	[=ii][VRoot][=to.call, to.be.called, to.be.named][--][-t][+EP]t[--][-a+n.fut.][+REAL]a
+
+royaari	[r-][VPers][3m.S/A+][--][=oy][VRoot][=to.eat (ES: comer)][--][-a][+EP]a[--][-a+n.fut.][+REAL]a[--][=ri][+3m.O]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="614">
-        <sentence lang="prq">Timatsi pibiari pipabakena kapichoki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Timatsi pibiari pipabakena kapichoki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Timatsi piviari pipavakena kapichoki.</sentence>
         <sentence lang="es">Tienes masato; dame un poco.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+timatsi	[=timatsi][VRoot][=EXIST (EN: there.is/are; ES: hay,, haber)]
+
+piviari	[pi-][NPers][2poss+][--][=piari+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma.brava/forte)]
+
+pipavakena	[pi-][VPers][2S/A+][--][=p][VRoot][=to.give (ES: dar)][--][-av+object.oriented][ADV][+DIR][=contrary,opposite; RCVG:object.arriving.at.the.location.of.the.subject]av[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+fut.][+IRR]e[--][=na][+1SG.O]
+
+kapichoki	[=kapichoki][AdvRoot][=a.little (ES: poco)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="615.1">
-        <sentence lang="prq">Tyoentaka timpinare opariatye inkani.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Tyoentaka timpinare opariatye inkani.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Las golondrinas están haciendo circulos; parece que va a llover.</sentence>
         <sentence lang="es">Las golondrinas están haciendo circulos; parece que va a llover.</sentence>
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="615.2">
