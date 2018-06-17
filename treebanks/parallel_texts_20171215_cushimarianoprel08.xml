@@ -14681,9 +14681,15 @@ impaneki	[=iNpaneki+n.m.][NRoot][=fine.sand, sand.made.of.very.small.grains (ES:
         <parsing/>
     </text>
     <text id="609">
-        <sentence lang="prq">Ipankitake Koshanti tibana ibaneki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ipankitake Koshanti tibana ibaneki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ipankitake Koshanti tibana ibaneki.</sentence>
         <sentence lang="es">Koshantzi sembró piñas en su chacra.</sentence>
-        <morphology/>
+        <morphology>
+
+
+
+
+</morphology>
         <parsing/>
     </text>
     <text id="610">
