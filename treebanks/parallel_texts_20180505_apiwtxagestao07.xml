@@ -85,7 +85,8 @@ wirakotxa	[=virakotxa/wirakotxa][NRoot:CPB][=outsider; white.person (PT: branco)
         <parsing format="" analysislevel=""/>
     </text>
     <text id="2">
-        <sentence lang="cpb">I –SEYKAYETSIRI ÃTAMIKI</sentence>
+        <sentence lang="cpb" normalizationlevel="none">I –SEYKAYETSIRI ÃTAMIKI</sentence>
+        <sentence lang="cpb" normalizationlevel="normalized-alphabet">I –SEYKAYETSIRI ÃTAMIKI</sentence>
         <sentence lang="pt">I – RECURSOS FLORESTAIS E FLORÍSTICOS</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
