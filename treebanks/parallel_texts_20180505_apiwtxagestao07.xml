@@ -21,7 +21,7 @@ O   Õ   Alt + 0213   LATIN CAPITAL LETTER O WITH TILDE
 -->
 <parallel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="parallel_texts.xsd">
     <text id="0">
-        <sentence lang="cpb" normalizationlevel="normalized-alphabet">AYAWÕTATSIRO HIYATENE AASHI IPATSITE ASHENIKA AMOYSATSI</sentence>
+        <sentence lang="cpb" normalizationlevel="none">AYAWÕTATSIRO HIYATENE AASHI IPATSITE ASHENIKA AMOYSATSI</sentence>
         <sentence lang="cpb" normalizationlevel="normalized-alphabet">AYAWÕTATSIRO HĨYATENE AASHI IPATSITE ASHENĨKA AMÕYASATSI</sentence>
         <sentence lang="pt">TERRA INDÍGENA KAMPA DO RIO AMÔNIA</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -42,8 +42,8 @@ amõyasatsi	[=amonya/amõya][NRoot:CPB][=Amonia.river (ES: río.Amonia; PT: Rio.
 </morphology>
     </text>
     <text id="1">
-        <!-- ASHE AMINÃTXARI AIPATSITE ASHANINKA EERO ITHÕKATXARI ASHE. AAKA SEYKAYETSIRI ÃTAMIKI EEHATISITA AASHE WIRAKOTXA SEYKAYETSIRI OKOWAKINE AIPATSITE -->
-        <sentence lang="cpb">ASHE AMINÃTXARI AIPATSITE ASHANINKA EERO ITHÕKATXARI ASHE. AAKA SEYKAYETSIRI ÃTAMIKI EEHATSITA AASHE WIRAKOTXA SEYKAYETSIRI OKOWAKINE AIPATSITE</sentence>
+        <sentence lang="cpb" normalizationlevel="none">ASHE AMINÃTXARI AIPATSITE ASHANINKA EERO ITHÕKATXARI ASHE. AAKA SEYKAYETSIRI ÃTAMIKI EEHATISITA AASHE WIRAKOTXA SEYKAYETSIRI OKOWAKINE AIPATSITE</sentence>
+        <sentence lang="cpb" normalizationlevel="normalized-alphabet">ASHE AMINÃTXARI AIPATSITE ASHANINKA EERO ITHÕKATXARI ASHE. AAKA SEYKAYETSIRI ÃTAMIKI EEHATSITA AASHE WIRAKOTXA SEYKAYETSIRI OKOWAKINE AIPATSITE</sentence>
         <sentence lang="pt">PLANO DE GESTÃO TERRITORIAL E AMBIENTAL DA TERRA INDÍGENA KAMPA DO RIO AMÔNIA</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
