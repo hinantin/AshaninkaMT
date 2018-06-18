@@ -115,7 +115,8 @@ wirakotxa	[=virakotxa/wirakotxa][NRoot:CPB][=outsider; white.person (PT: branco)
         <parsing format="" analysislevel=""/>
     </text>
     <text id="4">
-        <sentence lang="cpb">Akoyiteri tsiirotsiiki ashi opimãtxaa: apaa akoyiteri seikatsiri othapiyaki hiyatene eehatsii ãtawa, okakini anãpi awotsiki.</sentence>
+        <sentence lang="cpb" normalizationlevel="none">Akoyiteri tsiirotsiiki ashi opimãtxaa: apaa akoyiteri seikatsiri othapiyaki hiyatene eehatsii ãtawa, okakini anãpi awotsiki.</sentence>
+        <sentence lang="cpb" normalizationlevel="normalized-alphabet">Akoyiteri tsiirotsiiki ashi opimãtxaa: apaa akoyiteri seikatsiri othapiyaki hĩyatene eehatsii ãtawa, okakini anãpi awotsiki.</sentence>
         <sentence lang="pt">A coleta para a venda deve usar os indivíduos localizados nas margens dos rios e nos caminhos próximos das casas de moradias.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
