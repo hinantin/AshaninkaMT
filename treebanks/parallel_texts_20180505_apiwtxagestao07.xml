@@ -108,7 +108,8 @@ wirakotxa	[=virakotxa/wirakotxa][NRoot:CPB][=outsider; white.person (PT: branco)
 * sabonete de murmuru
 
         -->
-        <sentence lang="cpb">1 - Tsiirotsiiki:</sentence>
+        <sentence lang="cpb" normalizationlevel="none">1 - Tsiirotsiiki:</sentence>
+        <sentence lang="cpb" normalizationlevel="normalized-alphabet">1 - Tsiirotsiiki:</sentence>
         <sentence lang="pt">1 - Murmuru:</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
