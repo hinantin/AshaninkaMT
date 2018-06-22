@@ -1922,7 +1922,7 @@ maniro	[=maniro+m.][NRoot][=deer (ES: venado)]
         <morphology>
 
 
-beshiriayetakani	[=veshiri][VRoot][=to.rejoice, to.get.glad (ES: alegrarse)][--][-a][+EP]a[--][-ye][+DIST]ye[--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-a][+REAL]a[--][=ni][NS][+REL.IRR]
+beshiriayetakani	[=veshiri][VRoot][=to.rejoice, to.get.glad (ES: alegrarse)][--][-a][+EP]a[--][-ye][+DIST][=PL.S/A+.who.are.separated.into.groups.in.≠.locations]ye[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a+n.fut.][+REAL.RFL]a[--][=ni][+3SG.O]
 
 atiripaye	[=atiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)][--][-paye][Num][+PL]
 
@@ -15812,7 +15812,7 @@ iina	[i-][NPers][3m.poss+][--][=ina+n.m.+inal@tsi.+voc.][NRoot][=mother; wife (k
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-ipayeetiri	[i-][VPers][3m.S/A+][--][=p][VRoot][=to.give (ES: dar)][--][-a][+EP]a[--][-yee][+DIST][=in.addition]yee[--][-t][+EP]t[--][-i+fut.][+IRR]i[--][=ri][NS][+REL]
+ipayeetiri	[i-][VPers][3m.S/A+][--][=p][VRoot][=to.give (ES: dar)][--][-a][+EP]a[--][-yee][+DIST][=PL.S/A+.who.are.separated.into.groups.in.≠.locations]yee[--][-t][+EP]t[--][-i+fut.][+IRR]i[--][=ri][NS][+REL]
 
 kayetsi	[=kayetsi][NRoot][=bad.hunter (ES: afasi, que.no.sabe.cazar, mal.cazador)]
 
