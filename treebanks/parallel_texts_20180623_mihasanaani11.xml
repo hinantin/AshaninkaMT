@@ -152,9 +152,25 @@ yantavaitakantyaariri	[y-][VPers][3m.S/A+][--][=antavai][VRoot][=to.work (ES: tr
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.7">
-        <sentence lang="prq">Ari okantavitaka kameetsa, yantavaitakakiri, ipankitakakiri ishinkini, imachakite, iyaniri, ivaryantzitepaye, iyokani, irinkini.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ari okantavitaka kameetsa, yantavaitakakiri, ipankitakakiri ishinkini, imachakite, iyaniri, ivaryantzitepaye, iyokani, irinkini.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ari okantavitaka kameetsa, yantavaitakakiri, ipankitakakiri ishinkini, imachakite, iyaniri, ivaryantzitepaye, iyokani, irinkini.</sentence>
         <sentence lang="es">Hasta aquí estaba muy bien, los hizo trabajar, les hizo sembrar su maiz, sus frijoles, sus yucas, sus plátanos, sus cocos, sis maníes.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ari	[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+okantavitaka	[o-][VPers][3n.m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-a][+EP]a[--][-vit][+FRUS][=unsuccessful/interrupted.action/state (EN: in.vain; ES: casi); action.that.didn't.achieve.the.desired.result]vit[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a+fut.][+IRR]a
+
+kameetsa	[=kameetsa][NRoot][=well (ES: bien)]
+
+,	,[$.]
+
+yantavaitakakiri	[y-][VPers][3m.S/A+][--][=ant][VRoot][=to.beat, to.hit; to.build, to.do, to.make][--][-a][+EP]a[--][-vai][ASP][+DUR][=action/state.endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]vai[--][-t][+EP]t[--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-i+n.fut.][+REAL]i[--][=ri][+3m.O]
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.8">
