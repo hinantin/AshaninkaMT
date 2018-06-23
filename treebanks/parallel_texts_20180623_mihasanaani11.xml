@@ -212,4 +212,16 @@ ipankitakakiri	[i-][VPers][3m.S/A+][--][=panki][VRoot][=to.plant, to.sow (ES: se
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.14">
+        <sentence lang="prq">Aniyantyaariri ninkarika iñaakotakai aavatsatatsini, tzimatsi isorarotepaye katziyavintariri aminatsiri.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.15">
+        <sentence lang="prq">Kantzimanintakiriri o pinkatsaryanintakiriri irotaki yaiteri imposaiteri, inchekaiteri intsatsinkakeri irora ikentsi.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
