@@ -224,4 +224,22 @@ ipankitakakiri	[i-][VPers][3m.S/A+][--][=panki][VRoot][=to.plant, to.sow (ES: se
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.16">
+        <sentence lang="prq">Maatsi osheki ashaninka aisatzi, osheki aisatzi ivaki.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.17">
+        <sentence lang="prq">Ashaninkapatsaini tera iyotatye ivavaitya yaavatsavaitapaki, kantanaki aminakovintziri.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.18">
+        <sentence lang="prq">Maatsi aka aparoni irora, piyatsatakamiri yamaitakari, maatsi itotamento ivisamento ivakiri ikintsiki itsatsinkaryakeri.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
