@@ -56,9 +56,25 @@ apiinka	[=apiinka][NRoot][=person's.name; Apu/Seer.Inca; Inca.person/people]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.3">
-        <sentence lang="prq">Saikaintsirika aka anampikika paitachari Metaroki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Saikaintsirika aka anampikika paitachari Metaroki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Saikaintsirika aka anampikika paitachari Metaroki.</sentence>
         <sentence lang="es">Quién ha estado aquí por este lugar llamado Metaro.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+saikaintsirika	[=saik][VRoot][=to.be, to.be.at, to.be.in; to.sit; to.live][--][-aintsi][Asp][+STAT.PRF]aintsi[--][=ri][NS][+REL][--][-ka+proximal.loc.][+ADV]ka
+
+aka	[=aka+proximal.b.][PrnDem][=here, close.to.the.speaker]
+
+anampikika	[a-][NPers][1PL.poss+][--][=nampi][NRoot][=big.quantity][--][-ki][Cas][+LOC_LOC.T][--][-ka+proximal.b.][Adv][+DEM][=here, close.to.the.speaker]
+
+paitachari	[=pai][VRoot][=to.be.called; to.call, to.name (ES: nombrar); to.get.white.hair][--][-t][+EP]t[--][-acha][Asp][+STAT.IPRF]acha[--][=ri][NS][+REL]
+
+metaroki	[=Metaro][NRoot][=village's.name; flat, rounded.slightly.curved.area (ES: plato.de.barro)][--][-ki][Cas][+LOC_LOC.T]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.4">
