@@ -338,4 +338,22 @@ ipankitakakiri	[i-][VPers][3m.S/A+][--][=panki][VRoot][=to.plant, to.sow (ES: se
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.35">
+        <sentence lang="prq">Iroñaaka iyoka apiteroite kishiisatzika avisanaki, tzimatsi ichakopite, ivyamini.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.36">
+        <sentence lang="prq">Ivyamini antarove-e!</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.37">
+        <sentence lang="prq">Ikantzi: “Tsika isaikika?” Ikantzi: “Jiri isaikinta.”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
