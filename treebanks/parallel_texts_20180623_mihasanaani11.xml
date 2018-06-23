@@ -320,4 +320,22 @@ ipankitakakiri	[i-][VPers][3m.S/A+][--][=panki][VRoot][=to.plant, to.sow (ES: se
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.32">
+        <sentence lang="prq">“Intsitya nojateta.”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.33">
+        <sentence lang="prq">Yakanakiri: “Je, pijate, piñaapanteri.”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.34">
+        <sentence lang="prq">Te inkanterikya: “Tekira pariitzimotyaarita, ari irorave, pijataki, ontzimatye pintyerovashitapakyaari onkantya impantyaamiri iyokanira.”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
