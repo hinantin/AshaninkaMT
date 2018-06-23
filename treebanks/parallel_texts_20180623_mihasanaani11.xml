@@ -6,13 +6,13 @@
     </text>
     <text id="1.1">
         <sentence lang="prq">Sheeteni akarajetaiyeni maaroni nosaikajetzika.</sentence>
-        <sentence lang=""/>
+        <sentence lang="es">Buenas tardes a todos los que nos encontramos en este lugar.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.2">
         <sentence lang="prq">Iroñaaka sheetenika nonkinkitsatakoteri aparoni ashaninka ikantaitziri Apiinka.</sentence>
-        <sentence lang=""/>
+        <sentence lang="es">Ahora en esta tarde, voy a contarles sobre una persona llamada Apiinka.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
