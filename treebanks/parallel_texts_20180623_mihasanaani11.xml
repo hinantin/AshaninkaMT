@@ -30,9 +30,29 @@ nosaikahetzika	[no-][VPers][1SG.S/A+][--][=saik][VRoot][=to.be, to.be.at, to.be.
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.2">
-        <sentence lang="prq">Iroñaaka sheetenika nonkinkitsatakoteri aparoni ashaninka ikantaitziri Apiinka.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iroñaaka sheetenika nonkinkitsatakoteri aparoni ashaninka ikantaitziri Apiinka.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ironyaaka sheetenika nonkinkitsatakoteri aparoni ashaninka ikantaitziri Apiinka.</sentence>
         <sentence lang="es">Ahora en esta tarde, voy a contarles sobre una persona llamada Apiinka.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ironyaaka	[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+sheetenika	[=sheeteni][NRoot][=day][--][-ka+proximal.b.][Adv][+DEM][=here, close.to.the.speaker]
+
+nonkinkitsatakoteri	[no-][VPers][1SG.S/A+][--][N=][IRR+][--][=kinkitsa][VRoot][=to.talk, to.tell (ES: contar, hablar, predicar)][--][-t][+EP]t[--][-ako][VS][+APPL.GEN][=GEN: with.reference.to.sth., about.sth.; INDR: action.affects.sth.in.an.indirect.manner]ako[--][-t][+EP]t[--][-e+n.fut.][+REAL]e[--][=ri][+3m.O]
+
+aparoni	[=aparoni][NumeralPRQ][=one]
+
+ashaninka	[=ashaninka][NRoot][=indigenous.person.that.lives.in.the.in.the.central.adjoining.Amazonian.regions.between.Peru-and-Brazil]
+
+ikantaitziri	[i-][VPers][3m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-ai][+IMP.P][=3(PL)m.S/A+.is.unknown/unspecified-and-focus.on.+O]ai[--][-tz][+EP]tz[--][-i+n.fut.][+REAL]i[--][=ri][+3m.O]
+
+apiinka	[=apiinka][NRoot][=person's.name; Apu/Seer.Inca; Inca.person/people]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.3">
