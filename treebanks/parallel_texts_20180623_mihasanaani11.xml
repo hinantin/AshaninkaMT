@@ -34,4 +34,10 @@
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.6">
+        <sentence lang="prq">Yapototakiri, yapotojetakiri maaroni okanta yantavaitakantyaariri.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
