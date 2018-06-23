@@ -78,9 +78,23 @@ metaroki	[=Metaro][NRoot][=village's.name; flat, rounded.slightly.curved.area (E
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.4">
-        <sentence lang="prq">Iroñaaka ikantajiro virakocha Metraro.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iroñaaka ikantajiro virakocha Metraro.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ironyaaka ikantahiro virakocha Metraro.</sentence>
         <sentence lang="es">Ahora la gente de afuera lo denomino Metraro.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ironyaaka	[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+ikantahiro	[i-][VPers][3m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-i+n.fut.][+REAL]i[--][=ro][+3n.m.O]
+
+virakocha	[=virakocha][NRoot][=outsider; white.person (PT: branco)]
+
+metraro	[=Metraro][NRoot][=village's.name; rounded.slightly.curved.area (ES: plato.de.barro)]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.5">
