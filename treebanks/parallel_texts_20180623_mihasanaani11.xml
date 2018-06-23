@@ -242,4 +242,34 @@ ipankitakakiri	[i-][VPers][3m.S/A+][--][=panki][VRoot][=to.plant, to.sow (ES: se
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.19">
+        <sentence lang="prq">Yaaitanakiri inkitaiteri, ari ikanta ashaninkapaye.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.20">
+        <sentence lang="prq">Iroñaaka maaroni tsarovajetaki, inkimavakeri inkaime maaroni jatajetanakive!</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.21">
+        <sentence lang="prq">Ari okantatya itsaronkakini ikantajetaki.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.22">
+        <sentence lang="prq">Tsika akanterika? Tekatsi ankanteri.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.23">
+        <sentence lang="prq">Arika inkimake ninkarika kantzimanintakiriri, irotaki intsatsinkatakeri.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
