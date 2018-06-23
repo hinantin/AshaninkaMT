@@ -128,7 +128,8 @@ atzirive	[=atziri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)][--
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.6">
-        <sentence lang="prq">Yapototakiri, yapotojetakiri maaroni okanta yantavaitakantyaariri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Yapototakiri, yapotojetakiri maaroni okanta yantavaitakantyaariri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Yapototakiri, yapotohetakiri maaroni okanta yantavaitakantyaariri.</sentence>
         <sentence lang="es">Los juntó, reunió a todo, para que les haga trabajar.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
