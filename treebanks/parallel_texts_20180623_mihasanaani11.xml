@@ -98,9 +98,17 @@ metraro	[=Metraro][NRoot][=village's.name; rounded.slightly.curved.area (ES: pla
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.5">
-        <sentence lang="prq">Yoka ashaninka osheki yaaki atziri, osheki yaaki atzirive.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Yoka ashaninka osheki yaaki atziri, osheki yaaki atzirive.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Yoka ashaninka osheki yaaki atziri, osheki yaaki atzirive.</sentence>
         <sentence lang="es">Este paisano juntó a muchas personas, ¡a muchas personas juntó!</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+yoka	[=yoka+m.+proximal][PrnDem][=this (ES: él.aquí, ellos.aquí)]
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.6">
