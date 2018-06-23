@@ -1,0 +1,7 @@
+<parallel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="parallel_texts.xsd">
+    <text id="1.0">
+        <sentence lang="prq">APIINKA</sentence>
+        <sentence lang="es">EL SUCESOR DE INCA</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully"/>
+    </text>
+</parallel>
