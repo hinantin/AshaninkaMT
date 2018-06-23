@@ -2,7 +2,12 @@
     <text id="1.0">
         <sentence lang="prq">APIINKA</sentence>
         <sentence lang="es">EL SUCESOR DE INCA</sentence>
-        <morphology format="ashaninkamorph" analysislevel="not-fully"/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+apiinka	[=apiinka][NRoot][=person's.name; Apu/Seer.Inca; Inca.person/people]
+
+</morphology>
     </text>
     <text id="1.1">
         <sentence lang="prq">Sheeteni akarajetaiyeni maaroni nosaikajetzika.</sentence>
