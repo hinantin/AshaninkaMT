@@ -200,4 +200,10 @@ ipankitakakiri	[i-][VPers][3m.S/A+][--][=panki][VRoot][=to.plant, to.sow (ES: se
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.12">
+        <sentence lang="prq">Iroñaaka Apiinkaka katsimaritaji, te ininte aavatsate kapicheeni, aavatsate intaani avya kapicheeni.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
