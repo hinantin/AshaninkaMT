@@ -40,4 +40,22 @@
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.7">
+        <sentence lang="prq">Ari okantavitaka kameetsa, yantavaitakakiri, ipankitakakiri ishinkini, imachakite, iyaniri, ivaryantzitepaye, iyokani, irinkini.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.8">
+        <sentence lang="prq">Osheki ipankitakajetakiri atziripaye arika yante ovantsi.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.9">
+        <sentence lang="prq">Ityaankiri aparopaye: “Aviroka antatsini ovantsi, aviroka jatatsini antamiki, pamini vatsatsi avyari.”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
