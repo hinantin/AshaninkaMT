@@ -4,4 +4,34 @@
         <sentence lang="es">EL SUCESOR DE INCA</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully"/>
     </text>
+    <text id="1.1">
+        <sentence lang="prq">Sheeteni akarajetaiyeni maaroni nosaikajetzika.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.2">
+        <sentence lang="prq">Iroñaaka sheetenika nonkinkitsatakoteri aparoni ashaninka ikantaitziri Apiinka.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.3">
+        <sentence lang="prq">Saikaintsirika aka anampikika paitachari Metaroki.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.4">
+        <sentence lang="prq">Iroñaaka ikantajiro virakocha Metraro.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.5">
+        <sentence lang="prq">Yoka ashaninka osheki yaaki atziri, osheki yaaki atzirive.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
