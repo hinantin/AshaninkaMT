@@ -272,4 +272,16 @@ ipankitakakiri	[i-][VPers][3m.S/A+][--][=panki][VRoot][=to.plant, to.sow (ES: se
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.24">
+        <sentence lang="prq">Iroñaaka iyoka Apiinkaka maatsi ivanko, isaikashita apaniroini, itsatamento isaikantari, ari isaiki anta.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.25">
+        <sentence lang="prq">Ontzimatye irora amontyaanake, maatsi aparoni tsatainchari, apite inchato, aitaki ankinanakeri, ampampyaatanakiro, ampampyaatantyarori ariitantyaari ivankoki.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
