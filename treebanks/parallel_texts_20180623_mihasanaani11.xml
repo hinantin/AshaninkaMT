@@ -10,9 +10,23 @@ apiinka	[=apiinka][NRoot][=person's.name; Apu/Seer.Inca; Inca.person/people]
 </morphology>
     </text>
     <text id="1.1">
-        <sentence lang="prq">Sheeteni akarajetaiyeni maaroni nosaikajetzika.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Sheeteni akarajetaiyeni maaroni nosaikajetzika.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Sheeteni akarahetaiyeni maaroni nosaikahetzika.</sentence>
         <sentence lang="es">Buenas tardes a todos los que nos encontramos en este lugar.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+sheeteni	[=sheeteni][AdvRoot][=in.the.afternoon]
+
+akarahetaiyeni	[a-][VPers][1PL.S/A+][--][=kara][VRoot][=COP.CAP (EN: the.amount,, to.be.Nº/#.in.number/quantity_of_sth.)][--][-he][NUM][+PL][=PL.S/A+; INTR: PL.S/A+; TR: PL.S/A+.or.+PL.O]he[--][-t][+EP]t[--][-aiy][+PL]aiy[--][-e+n.fut.][+REAL]e[--][-ni+circumfixing][+PL]
+
+maaroni	[=maaroni][IndfPrn][=all, everyone]
+
+nosaikahetzika	[no-][VPers][1SG.S/A+][--][=saik][VRoot][=to.be, to.be.at, to.be.in; to.sit; to.live][--][-a][+EP]a[--][-he][NUM][+PL][=PL.S/A+; INTR: PL.S/A+; TR: PL.S/A+.or.+PL.O]he[--][-tz][+EP]tz[--][-i+n.fut.][+REAL]i[--][-ka+proximal.loc.][+ADV]ka
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.2">
