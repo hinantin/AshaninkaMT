@@ -380,4 +380,76 @@ ipankitakakiri	[i-][VPers][3m.S/A+][--][=panki][VRoot][=to.plant, to.sow (ES: se
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.42">
+        <sentence lang="prq">kantziri: “Pinkatsari, nonintaitatzi piyokani.”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.43">
+        <sentence lang="prq">Isaikatzira Apiinkara iñaavakiri, te intyerovimotapakyaari, kisanaka.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.44">
+        <sentence lang="prq"> “Ah, pinintatzi irora koka?”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.45">
+        <sentence lang="prq">Yaanakiro yashirotsate, irora itotamento.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.46">
+        <sentence lang="prq">“Iroka pinintziri?”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.47">
+        <sentence lang="prq">Yairikakotavakeri, tsinik.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.48">
+        <sentence lang="prq">“Tsikama opaitaka pinintziri?”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.49">
+        <sentence lang="prq">Yairikajetakiri, katziyanaka, yairikajetakirira.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.50">
+        <sentence lang="prq">Iroñaaka iposakirira iminkyantanakaniri pyamini itziyamoroki.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.51">
+        <sentence lang="prq">Ari imisaikanakiri, yaaitanakiniri, yaanaki osheki irora iyokani.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.52">
+        <sentence lang="prq">Jataji, iro iviraja pankotsiki ikantapaji: “Piyajanave!”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.53">
+        <sentence lang="prq">Ikantziri: “Iroñaaka atzirira kantavakeriri inkaranki, tzimatsi iyokani.”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
