@@ -693,7 +693,13 @@ ipankitakakiri	[i-][VPers][3m.S/A+][--][=panki][VRoot][=to.plant, to.sow (ES: se
         <parsing format="" analysislevel=""/>
     </text>
     <text id="2.18">
-        <sentence lang="prq"/>
+        <sentence lang="prq">Irotaki ityaakovetakarira, ityaantyaariri maaroni, ikaimanaki pava Apiinka: “Pivitamoryaakotaina, uj!”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="2.19">
+        <sentence lang="prq">Ikiyajevetaja, chek, chek, chek, chek, ikiyajeveta, chek, chek.</sentence>
         <sentence lang=""/>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
