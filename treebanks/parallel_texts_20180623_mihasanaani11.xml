@@ -632,4 +632,22 @@ ipankitakakiri	[i-][VPers][3m.S/A+][--][=panki][VRoot][=to.plant, to.sow (ES: se
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="2.8">
+        <sentence lang="prq">Ipavetajari, ookantapajari jaka iniyorinteki.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="2.9">
+        <sentence lang="prq">Yamonkarira ishiko, yaaki, ityaavantetakaro, ari okantanakiri, ikamarankanaki ajak, ajak, eje, eje.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="2.10">
+        <sentence lang="prq">Ikantzi: “Pamakina irora iroka kitamarori, noshityari aka.”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
