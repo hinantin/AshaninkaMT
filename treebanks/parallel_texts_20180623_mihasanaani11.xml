@@ -542,4 +542,28 @@ ipankitakakiri	[i-][VPers][3m.S/A+][--][=panki][VRoot][=to.plant, to.sow (ES: se
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.69">
+        <sentence lang="prq">Isoratotepaye piyavintapintariri, shiyajetanaka irirori.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.70">
+        <sentence lang="prq">Ikovi itzinanajemi pashini, te inkantaji, jatzi, itsonka atziri, ijataji.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.71">
+        <sentence lang="prq">Kimoshiritanaji atziripaye, osheki ivaki itomipatsaini, eentsitepatsaini.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.72">
+        <sentence lang="prq">Iroñaaka atziripaye ikinashijetanaja pashini kirinka, pashini katonko, pashini ikinashijetanajya.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
