@@ -452,4 +452,34 @@ ipankitakakiri	[i-][VPers][3m.S/A+][--][=panki][VRoot][=to.plant, to.sow (ES: se
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.54">
+        <sentence lang="prq">“Piñaapaintziri?”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.55">
+        <sentence lang="prq">“Je, noñaapaintziri, irotaki nompiyaje.”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.56">
+        <sentence lang="prq">Jatzi atziri, tera ayotatyeri, jataji.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.57">
+        <sentence lang="prq">Ikanta iñaavitari, avisanaki aparoni kitaiteri, irojatzi apitetanaki kitaiteri isaiki.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.58">
+        <sentence lang="prq">Mavatapaintziri iñaatziri amemporipaye irora ishonka, ishonkataka.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
