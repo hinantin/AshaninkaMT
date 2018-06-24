@@ -668,4 +668,22 @@ ipankitakakiri	[i-][VPers][3m.S/A+][--][=panki][VRoot][=to.plant, to.sow (ES: se
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="2.14">
+        <sentence lang="prq">Jaitetaki, aaj, koraketaintsi pashini jevatakantzirori.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="2.15">
+        <sentence lang="prq">Ikitatya atziripaye, ikantzirija: “Kamaki yoka, tsame akitateri, shitzitaki.”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="2.16">
+        <sentence lang="prq">Arika ishitzitanakirika, airo akantaji ankitatajiri intsompainta.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
