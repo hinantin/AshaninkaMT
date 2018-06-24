@@ -704,4 +704,34 @@ ipankitakakiri	[i-][VPers][3m.S/A+][--][=panki][VRoot][=to.plant, to.sow (ES: se
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="2.20">
+        <sentence lang="prq">Iro iviravetaja inijantapajyaari, iro yaminajetantapajyaari, se quedó seco, ari ikamanaji pava Apiinka, piyanaja piyanaja ikamanaji.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="2.21">
+        <sentence lang="prq">Pero (kantzimaitacha) te ikamaperote, ijajatzi, jataji jenoki.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="2.22">
+        <sentence lang="prq">Ikantanaki: “Ari pinkantaitatyeya, pintyaavakaya avirori.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="2.23">
+        <sentence lang="prq">Pikamakirika, pikitatavakaya intsompainta.”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="2.24">
+        <sentence lang="prq">Ari okantari, ikantanaki ashitairi, okanta iroñaaka.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
