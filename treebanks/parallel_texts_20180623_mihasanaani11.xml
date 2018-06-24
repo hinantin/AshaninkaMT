@@ -177,9 +177,22 @@ ipankitakakiri	[i-][VPers][3m.S/A+][--][=panki][VRoot][=to.plant, to.sow (ES: se
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.8">
-        <sentence lang="prq">Osheki ipankitakajetakiri atziripaye arika yante ovantsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Osheki ipankitakajetakiri atziripaye arika yante ovantsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Osheki ipankitakahetakiri atziripaye arika yante ovantsi.</sentence>
         <sentence lang="es">Los hizo sembrar mucho cuando abrían una chacra.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+osheki	[=osheki][AdjRoot][=many; much; a.lot]
+
+ipankitakahetakiri	[i-][VPers][3m.S/A+][--][=panki][VRoot][=to.plant, to.sow (ES: sembrar)][--][-t][+EP]t[--][-aka][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]aka[--][-he][NUM][+PL][=PL.S/A+; INTR: PL.S/A+; TR: PL.S/A+.or.+PL.O]he[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-i+n.fut.][+REAL]i[--][=ri][+3m.O]
+
+atziripaye	[=atziri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)][--][-paye][Num][+PL_DIST]
+
+arika	[=ari][PostPol][=PP][--][=ka+shortened][+COND]::[=when (temporal.simultaneity), if (expresses.possible.condition)]
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.9">
