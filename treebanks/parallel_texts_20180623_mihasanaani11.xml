@@ -686,4 +686,10 @@ ipankitakakiri	[i-][VPers][3m.S/A+][--][=panki][VRoot][=to.plant, to.sow (ES: se
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="2.17">
+        <sentence lang="prq">Poña ikitaitakeri pava Apiinka intsompainta.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
