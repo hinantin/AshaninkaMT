@@ -656,4 +656,16 @@ ipankitakakiri	[i-][VPers][3m.S/A+][--][=panki][VRoot][=to.plant, to.sow (ES: se
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="2.12">
+        <sentence lang="prq">Kamakiraja ikantzi: “Naaka te nokame, airo nokamapirotzi, nojatatye, nojate jenoki, naye irora pañaantajyari avirori.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="2.13">
+        <sentence lang="prq">Airo pikinkivaritanta, nojatatye.”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
