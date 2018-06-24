@@ -584,4 +584,52 @@ ipankitakakiri	[i-][VPers][3m.S/A+][--][=panki][VRoot][=to.plant, to.sow (ES: se
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="2.0">
+        <sentence lang="prq">PAVA APIINKA</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="2.1">
+        <sentence lang="prq">Nonkinkitsatakoteri pava Apiinka ikanta pairani ipokanaki pava Apiinka, isaikaveta aka.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="2.2">
+        <sentence lang="prq">Isaiki, iyomitakantanakiro okaratzi avarika, avari, amonkotzi, okaratzi antzirika iroñaaka, maaroni.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="2.3">
+        <sentence lang="prq">Poñaaka ikinavaitzi, iyomitantakiro maaroni okaratzika aka kipatsi.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="2.4">
+        <sentence lang="prq">Iro ariitzimotapakiri inkamantyaari, iñaakiri pava ikantaitziri Apontsiki, iyaanini atziri ikaratzini aka.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="2.5">
+        <sentence lang="prq">Iyoka ikantaitziri pava Apontsiki, matsi inatzi, matsi, itsikatakari pava Apiinka, ipiratakari.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="2.6">
+        <sentence lang="prq">Yamonkotzi, yamonkotzi, yamonkotzi, isamapakari.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="2.7">
+        <sentence lang="prq">Ipoñaaka isamapakarija, isamavetapakari pava Apiinkaja, yamonkatajiniri kapichiini.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
