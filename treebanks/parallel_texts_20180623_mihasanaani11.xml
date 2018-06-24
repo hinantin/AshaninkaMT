@@ -586,49 +586,49 @@ ipankitakakiri	[i-][VPers][3m.S/A+][--][=panki][VRoot][=to.plant, to.sow (ES: se
     </text>
     <text id="2.0">
         <sentence lang="prq">PAVA APIINKA</sentence>
-        <sentence lang=""/>
+        <sentence lang="es">EL DIOS APIINKA</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="2.1">
         <sentence lang="prq">Nonkinkitsatakoteri pava Apiinka ikanta pairani ipokanaki pava Apiinka, isaikaveta aka.</sentence>
-        <sentence lang=""/>
+        <sentence lang="es">Voy a contarles sobre el dios Apiinka cómo era antes vino el dios Apiinka, estaba aquí.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="2.2">
         <sentence lang="prq">Isaiki, iyomitakantanakiro okaratzi avarika, avari, amonkotzi, okaratzi antzirika iroñaaka, maaroni.</sentence>
-        <sentence lang=""/>
+        <sentence lang="es">Vivía, enseñó todo lo que comemos, chaccar coca, todo lo que hacemos hoy en día, todo.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="2.3">
         <sentence lang="prq">Poñaaka ikinavaitzi, iyomitantakiro maaroni okaratzika aka kipatsi.</sentence>
-        <sentence lang=""/>
+        <sentence lang="es">Después que enseñó todo lo que hay en esta tierra, estaba andando.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="2.4">
         <sentence lang="prq">Iro ariitzimotapakiri inkamantyaari, iñaakiri pava ikantaitziri Apontsiki, iyaanini atziri ikaratzini aka.</sentence>
-        <sentence lang=""/>
+        <sentence lang="es">Después llegó un momento en que iba a morir, vio el dios que se llama Apontsiki, una pequeña persona de pequeña estatura.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="2.5">
         <sentence lang="prq">Iyoka ikantaitziri pava Apontsiki, matsi inatzi, matsi, itsikatakari pava Apiinka, ipiratakari.</sentence>
-        <sentence lang=""/>
+        <sentence lang="es">Este que se llama pava Apontsiki era un brujo, un brujo era, fue el criado del dios Apiinka, lo crió.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="2.6">
         <sentence lang="prq">Yamonkotzi, yamonkotzi, yamonkotzi, isamapakari.</sentence>
-        <sentence lang=""/>
+        <sentence lang="es">El dios Apiinka chaccaba, chaccaba, chaccaba hasta que se aburrió.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="2.7">
         <sentence lang="prq">Ipoñaaka isamapakarija, isamavetapakari pava Apiinkaja, yamonkatajiniri kapichiini.</sentence>
-        <sentence lang=""/>
+        <sentence lang="es">Después de que se había aburrido, se aburrió el dios Apiinka, nuevamente lo chaccó un poco.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
@@ -730,6 +730,36 @@ ipankitakakiri	[i-][VPers][3m.S/A+][--][=panki][VRoot][=to.plant, to.sow (ES: se
     </text>
     <text id="2.24">
         <sentence lang="prq">Ari okantari, ikantanaki ashitairi, okanta iroñaaka.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="2.25">
+        <sentence lang="prq">Akamakirika, arori akitatavakakai intsompainta.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="2.26">
+        <sentence lang="prq">Iro yookanakiri ashitairi, iñaani.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="2.27">
+        <sentence lang="prq">Iroñaaka akantzi: “Ookashityaari jenkarini shitzirini, ishitzinka.”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="2.28">
+        <sentence lang="prq">Airo ashintziri, ari okantari, arika ashitzitanaki, airo okantaji akitatavakajya.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="2.29">
+        <sentence lang="prq">Aritapaki.</sentence>
         <sentence lang=""/>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
