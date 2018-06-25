@@ -5,4 +5,10 @@
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.1">
+        <sentence lang="prq">Iroñaaka  itsimantakari iyora naviriri, tsimatsi aparoni shirampari pairani.</sentence>
+        <sentence lang="es">Ahora,  para que acontezca el nacimiento del transformador  o convertidor de personas, había un hombre paisano antes.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
