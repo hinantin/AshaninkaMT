@@ -1,3 +1,8 @@
+<!-- 
+
+
+
+-->
 <parallel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="parallel_texts.xsd">
     <text id="1.0">
         <sentence lang="prq">IKANTAKOTA  ITSIMANTAKARI  NAVIRIRI</sentence>
@@ -68,6 +73,12 @@
     <text id="1.11">
         <sentence lang="prq">Itsikotakiro, ikarakotakiro, poñaa ikarakiro okaratsira inchatyaki</sentence>
         <sentence lang="es">Lo  cogió con gancho, lo rompió, después lo rompió hasta donde estaba la flor</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.12">
+        <sentence lang="prq">ipakiro  ikantsiro niiroka chooki, iroñaka ari nanakiro, maatsi ochanpiro aanakiro</sentence>
+        <sentence lang="es">Le dio a la hermana diciéndole aquí esta hermana,  ahora voy ha llevarlo,  dijo la hermana. Tenía una banda</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
