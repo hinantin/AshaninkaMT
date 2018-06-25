@@ -166,4 +166,16 @@
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.27">
+        <sentence lang="prq">Aparonitaki kashiri, iroñaaka kooyara motyaataki, okanta, okanta, poñaa okantsiri oyariri</sentence>
+        <sentence lang="es">Ya pasaron un mes, ahora la chica estaba gestando, así pasaba, así pasaba, le dijo a su hermano</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.28">
+        <sentence lang="prq">Yaya paitaratya antakinarika nomotyaakika, ikantsiro tsikapikantakakia, akanakiri tan.</sentence>
+        <sentence lang="es">Hermano  que es lo que me habrá pasado en mi estomago, le dijo que es lo que te paso pues ella le contesto no se</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
