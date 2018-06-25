@@ -196,4 +196,10 @@
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.32">
+        <sentence lang="prq">ipasatakiro irori, poñaa okantsiri irii apaa, tetya noñiri yantaventsavaitena yaaya, pashininta aisatsi pashininta te noñiiri yantaventsavaitena.</sentence>
+        <sentence lang="es">Le castigó a ella también, luego le dijo papá, nunca lo he visto a mi hermano fastidiarme así como el, ni el otro nunca me han fastidiado.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
