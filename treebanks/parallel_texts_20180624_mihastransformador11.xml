@@ -41,4 +41,10 @@
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.7">
+        <sentence lang="prq">iroñaaka nivintaka kooyara iritsirora,   ojataki antamiki ipankoshitakaiyaro.</sentence>
+        <sentence lang="es">Ahora como esta lista para ser madre esa  mujer la hermana,  se fue al monte a preparar su choza.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
