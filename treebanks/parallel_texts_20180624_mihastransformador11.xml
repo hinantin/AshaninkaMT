@@ -94,4 +94,16 @@
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.15">
+        <sentence lang="prq">Iñaapakiro pooriki ikantsiro, ari ampankoshityari jaka chooki</sentence>
+        <sentence lang="es">Vio  un árbol de jaboncillo le dijo, aquí vamos hacer nuestra choza Hermana.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.16">
+        <sentence lang="prq">Ichekapaaki kompiroshi, ichekavaitsi, cheki, cheki, ipankoshitaka itsonkakiro</sentence>
+        <sentence lang="es">Corto hojas de humiro, cortaba, cortaba (cheki, sonido del corte) hizo su choza y lo termino</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
