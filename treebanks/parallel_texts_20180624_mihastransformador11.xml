@@ -106,4 +106,22 @@
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.17">
+        <sentence lang="prq">ipankoshitaka kiaki iroñaaka ivankoshikira.Poñaa okantsiri yayaa</sentence>
+        <sentence lang="es">Hizo su choza ingresó en su choza,luego le dijo su Hermana ,hermano.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.18">
+        <sentence lang="prq">novariataijro inchatyakiranki te añaajiro,- ikantsi arima kari pikinpoyantaro</sentence>
+        <sentence lang="es">Yo lo hice caer esa flor, ya no hay – le dijo es cierto como no lo conservaste</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.19">
+        <sentence lang="prq">Tetya ari nosantakiro nochampirokika,tetya nonkimiro tsika okanta opariantanakari</sentence>
+        <sentence lang="es">No, se aquí yo lo había metido en mi banda, pero no he sentido como habrá caído</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
