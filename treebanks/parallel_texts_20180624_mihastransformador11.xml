@@ -220,4 +220,16 @@
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.36">
+        <sentence lang="prq">okanta okanta, opoñaa okantsiri  iroñaaka oimi, aritaki aritaki pipasatakiro ashinto,</sentence>
+        <sentence lang="es">Así paso, así paso, luego le dijo  a su esposo</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.37">
+        <sentence lang="prq">tema okantsi iroñaaka te yantavintsatero oyariri, aisatsi pashininta, pashininta</sentence>
+        <sentence lang="es">No ves dice que no le ha fastidiado su hermano él otro y el otro</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
