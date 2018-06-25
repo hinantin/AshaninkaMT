@@ -148,4 +148,16 @@
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.24">
+        <sentence lang="prq">tetya kaari añiiro  iroñaakakia, aritaja iniroki, iriki, okantsiri apaa, nonkotsitavakiita tsimiri</sentence>
+        <sentence lang="es">Como no lo vemos ahora, llegaron donde su mamá y papá, ella le dijo  a su papá voy a cocinar pajarito</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.25">
+        <sentence lang="prq">okotsitapaajiri tsimiripaye okaratsi ikintakakirori oyariri.</sentence>
+        <sentence lang="es">Cocino  los pajaritos que le hizo picar su hermano</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
