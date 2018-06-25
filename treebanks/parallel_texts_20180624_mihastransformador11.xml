@@ -178,4 +178,22 @@
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.29">
+        <sentence lang="prq">iroñaaka okamantakiro iniro okantsiro inaa paitaratya antakinarika nomotyaakika.</sentence>
+        <sentence lang="es">-Ahora ella lo aviso a su mamá, le dijo mamá, no se que es lo que tendré  en mi estomago.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.30">
+        <sentence lang="prq">okantsiro iniro pimotyaatatsi iroñaaka, yantavintsavaitatsimi piyariri</sentence>
+        <sentence lang="es">Le dijo su madre estarás gestando ahora, te ha fastidiado tu hermano</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.31">
+        <sentence lang="prq">okamantakiri irii iroñaaka inirora, poñaa ikisanaka irira ipasatakiri itomi</sentence>
+        <sentence lang="es">Le aviso ahora al padre la mamá, después el padre se enojo castigo a sus hijos</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
