@@ -53,4 +53,16 @@
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.9">
+        <sentence lang="prq">Ikantsiro te okantyaata, okantsiri te nonintakiro payiiro.</sentence>
+        <sentence lang="es">Le dijo  no así nomas lo, ella le dijo no yo lo quiero cójalo</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.10">
+        <sentence lang="prq">Iroñaaka yaminakiro itsinkavitaro ikantsiro, poñaa yaminaki inchaki</sentence>
+        <sentence lang="es">Ahora  lo miro, lo había hincado lo intentaba, después busco un palo</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
