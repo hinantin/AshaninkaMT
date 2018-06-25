@@ -124,4 +124,10 @@
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.20">
+        <sentence lang="prq">Poñaa ikantsiro okantaikata, ari aminanajiro, arika ajatanaji.</sentence>
+        <sentence lang="es">Después le dijo así nomas déjalo  vamos a buscarlo cuando ya nos vamos</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
