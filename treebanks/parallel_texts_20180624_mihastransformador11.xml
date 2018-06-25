@@ -47,4 +47,10 @@
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.8">
+        <sentence lang="prq">Iñaapakiro impiritaki inchatyaaki okantakota otsataka, okantsiri oyariri, yayaa payinaro inchatyakira kameetsakiitaki</sentence>
+        <sentence lang="es">Vio en una roca una flor que estaba colgada, le dijo a su hermano, hermano cójamelo a esa flor que está bien hermosa.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
