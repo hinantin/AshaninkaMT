@@ -17,4 +17,10 @@
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.3">
+        <sentence lang="prq">Tsimayetaki otsomi, akantsiri añaaniki nivintaka, otsipàtari oyariri isaikashitakairo</sentence>
+        <sentence lang="es">Ya tenia senos, lo que decimos en nuestro idioma, ya está lista para ser madre, acompañado de su hermano</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
