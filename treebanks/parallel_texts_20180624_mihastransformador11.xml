@@ -202,4 +202,16 @@
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.33">
+        <sentence lang="prq">ikantsiro, ninka iroñaaka ashitakakamiri  itsimantakari peentsite, okantsiri te noyoteri.</sentence>
+        <sentence lang="es">Le dijo, quien es ahora, el padre para que tengas tu bebe, ella dijo  no lo conozco.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.34">
+        <sentence lang="prq">pipasavaishitakari noyariri, te, te noñiri yantaventsavaitena.</sentence>
+        <sentence lang="es">En vano castigaste a mi hermano, nunca lo he visto que me fastidie.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
