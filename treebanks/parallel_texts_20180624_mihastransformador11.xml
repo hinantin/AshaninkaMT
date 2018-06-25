@@ -35,4 +35,10 @@
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.6">
+        <sentence lang="prq">Iroñaaka kooyara nivintaka, oyariri  apiteroiteni  irori apaniroini  ari okantatya</sentence>
+        <sentence lang="es">Ahora la mujer estaba lista para ser madre, su hermano los dos ella solita así era</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
