@@ -130,4 +130,22 @@
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.21">
+        <sentence lang="prq">Ari isaiki iñaatsiri ikinapaaki shirintsi, kintsori, ikentayetavakiri, poña yaminakiri ooriatsiri</sentence>
+        <sentence lang="es">Ahí estaba sentado, luego vio venir una perdiz, una pava todito lo pico con su flecha. Luego miro al sol</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.22">
+        <sentence lang="prq">sheetyaki, ikantsiro tsame atai chooki, aminanajirota tsika pivariakiro inchatyaakiranki</sentence>
+        <sentence lang="es">Ya era tarde, le dijo a su hermana, vámonos ya hermana, para buscar la flor donde lo hiciste caer.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.23">
+        <sentence lang="prq">Jataji iroñaaka mavaroiteni, yaminavitanaro te añajiro inchatyaakiranki, ikantsiro iritsiro</sentence>
+        <sentence lang="es">Se fueron los tres ahora, lo buscaron y no lo encontró la flor, le dijo a su hermana</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
