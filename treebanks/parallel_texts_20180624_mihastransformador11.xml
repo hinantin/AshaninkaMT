@@ -29,4 +29,10 @@
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.5">
+        <sentence lang="prq">Ari ijatsi inkiashitakairo, ari okantatya otsipatyari oyariri, apite shirampari aparoni kooya.</sentence>
+        <sentence lang="es">Así era cuando él lo llevaba  se metían a la choza, así iba acompañado de su hermano dos hombres  y una mujer.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
