@@ -82,4 +82,16 @@
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.13">
+        <sentence lang="prq">Osatetakaro jaka inchatyakira, okaratsi apite inchatyaaki</sentence>
+        <sentence lang="es">Lo lleno aquí debajo las axilas esa flor, eran dos flores</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.14">
+        <sentence lang="prq">Otetanakiro jaka ochampiroki oneekika, jaitetsi iroñaka</sentence>
+        <sentence lang="es">Lo lleno aquí cerca a las axilas en su banda, en su pecho, se fue ahora</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
