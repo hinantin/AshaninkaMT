@@ -11,4 +11,10 @@
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.2">
+        <sentence lang="prq">Ikaratsi apite irishinto apite itomi, iroñaaka maatsi irishinto jevatatsiri, kimotataki,</sentence>
+        <sentence lang="es">Tenía  dos hijas  y dos  hijos, ahora  tenia  una hija que era la mayor ya era grandecita</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
