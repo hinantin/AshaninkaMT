@@ -23,4 +23,10 @@
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.4">
+        <sentence lang="prq">ikiashitakairo ikintakayetsiro tsimiri, ari okantatya, irojatsi  oyanitapaakini, irojatsita antarotantaka</sentence>
+        <sentence lang="es">Entraban  en la choza, le hacía picar pajaritos, así era, desde que era niña hasta que fue señorita o grande.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
