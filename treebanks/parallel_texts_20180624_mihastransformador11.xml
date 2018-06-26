@@ -440,4 +440,16 @@ year={2011},
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.72">
+        <sentence lang="prq">yaminaki  iroñaaka yora, jainaitera, tera iyotero  yamaate  ishiyashitnaka otsapiaki oparaiki parinini.</sentence>
+        <sentence lang="es">Miro ahora el hombre que comía carne humana, como no sabía nadar, solamente se fue corriendo por la playa del rio.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.73">
+        <sentence lang="prq">Ishiyavitaka,  pashini  yamaki inchaki, inintsi intsikotavairomi, itsikovitaka, tsikoo, tsikoo, iroo,    intsikotantavaijiarorimi, te onkante.</sentence>
+        <sentence lang="es">Corrió otro trayendo un palo quería engancharlo, intentaba engancharlo tsiko, tsiko, ya estaba  para engancharlo  no pudo enganchar.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
