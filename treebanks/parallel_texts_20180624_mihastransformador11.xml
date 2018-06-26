@@ -866,4 +866,22 @@ year={2011},
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.143">
+        <sentence lang="prq">Osamani ikimaiyaatsiri iroñaaka ikaimaiyapaajini, ¡ooooo!, ¡aauuu!, ¡oooouuu!, ¡eeeee! Ikaimapaajiro iriniro.</sentence>
+        <sentence lang="es">Después de largo rato escucharon ahora que gritaban sus hijos llamaron ¡ooooo1, ¡aauuuuu!, ¡oooouuu!, ¡eeeee! Llamaron a su mamá.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.144">
+        <sentence lang="prq">¡inaaaa!, ikimatsiro akanaki ¡joooo!, aritajeetapaaja, yaminapaji ikantsiri iririntsi, iyee paminitya.</sentence>
+        <sentence lang="es">¡Mamá!, escucharon contestarle ¡joooo!, ya llegaron, miró le dijo a su hermano, hermano mira pues.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.145">
+        <sentence lang="prq">Paita okotsitsiri inaa, yaminaki iririntsi ikantssi, shoo paita kamintsakiro, ityarinkakiro, iñaatsi, oitsipatsaini, oporianikipatsaini, ovirayetaka aka.</sentence>
+        <sentence lang="es">Qué cosa esta cocinando mamá, su hermano miró y dijo que rico que cosa que sorpresa nos dio mamá lo movió la olla ahí vio piecitos, muslitos que eran pequeños.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
