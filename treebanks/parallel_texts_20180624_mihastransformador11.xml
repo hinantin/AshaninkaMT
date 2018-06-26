@@ -710,4 +710,10 @@ year={2011},
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.117">
+        <sentence lang="prq">okantsiri – ari pipoki noshari, Yakanikiro Ikantsi jee ari nopoki – okantsiri tsika pijatika. – ikantsiro nojatye iroñaaka katonko.</sentence>
+        <sentence lang="es">Ella le dijo – has  venido nieto – le contesto diciendo sí, yo he venido – ella le dijo dónde vas a ir – le contesto yo voy a ir ahora hacia la altura.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
