@@ -352,4 +352,10 @@
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.58">
+        <sentence lang="prq">Maatsi oyovitsite antaroite, ari omoyakotsi onijate. Okantsiro iroñaaka noshayo paakitenaro ironta, noshinkini  jenokira</sentence>
+        <sentence lang="es">Tenía una olla bien grande,  ahí hacia hervir su agua. Le  dijo ahora nieta anda tráigamelo mi maíz que esta allá arriba</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
