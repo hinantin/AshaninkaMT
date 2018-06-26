@@ -274,4 +274,16 @@
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.45">
+        <sentence lang="prq">Aritaka iroñaaka sheeteni, okantapaakiro – Naaka  ishaa,- aviró  noshayo,- tsika  pipoñaaka iroñaaka Noshayo,- nopoña kirinka,- Tsika pijateka iroññaka,- nojatatye katonko</sentence>
+        <sentence lang="es">Ahora llego en la tarde, le dijo a la abuela – yo soy abuela,- ella le contesto eres tu mi nieta.- de dónde vienes ahora nieta,- yo vengo de adentro,- donde vas a ir ahora ,- voy a irme hacia  la altura  o afuera</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.46">
+        <sentence lang="prq">Okantsiro ,airo okantsi pavishiro iroñaaka ,ari katyonkoininta ,Totsirakira ,ari isaikiri jainaite,ari  ivavakiami , airo pañaaji ,airo pijatsi noshayo,ari pisaiki jaka,  oimavakiro iroñaaka.</sentence>
+        <sentence lang="es">Ella le dijo, ahora no vas a poder pasar ,alla arribita, en Toterani ,ahí vive un hombre que come carne humana,te va a comer ,ya no vas a vivir nieta,no vas a ir aquí vas a quedarte ,ahora ella lo hizo dormir.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
