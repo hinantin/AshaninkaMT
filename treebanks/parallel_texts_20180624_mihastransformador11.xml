@@ -316,4 +316,22 @@
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.52">
+        <sentence lang="prq">Poñaa pashiniki kitaiteri, te añiiro tsika okinanaki ashoshira. Te oshinitero ashoshi avishi kooyara</sentence>
+        <sentence lang="es">Después  otro día, no estaba donde se habrá ido la armadillo. No le dejaba la armadillo para a la chica.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.53">
+        <sentence lang="prq">okantsi tsikaratya okinanakika ishaaranki  ojateta.pianaka iroñaaka.</sentence>
+        <sentence lang="es">Dijo la chica, dónde se habrá ido la abuela, que se vaya, desapareció  ahora</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.54">
+        <sentence lang="prq">Okatsiyanaka irori, jatsi.. Okanta, okanta  oñapatsiro  iroñaaka iriniro jainaite, irojatsi ishaa.</sentence>
+        <sentence lang="es">Ella se levanto, se fue, se fue, se fue  y luego vio a la mamá del hombre que come carne humana, ella también era abuela</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
