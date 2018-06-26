@@ -728,4 +728,28 @@ year={2011},
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.120">
+        <sentence lang="prq">Yakanikiro ikantsiro airo. Noyotakiro iroñaaka tsika nonkantiri.</sentence>
+        <sentence lang="es">Él le respondió diciendo. Ya se ahora como hacerlo. (La venganza)</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.121">
+        <sentence lang="prq">Ari imaapaki, okitaitamanaki jatsi iroñaaka,  iñapakiro ivanko  jainaite.</sentence>
+        <sentence lang="es">Ahí se quedo a dormir esa noche, al día siguiente se fue ahora, ahí vio la casa del hombre que camia la carne humana.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.122">
+        <sentence lang="prq">Te otsaiki, ojatatsi otsamaivaitsi oyananirimashiki;  pona Ikantsi tsame ankaimakotero iroñaaka.</sentence>
+        <sentence lang="es">Ella no estaba, se fue a lampear su yucal; después dijo vamos a llamarlo ahora.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.123">
+        <sentence lang="prq">Ikaimaki iroñaaka, ishaa naakave, ishaa naakave - ikimatsiro akaki – joo…….aviroo  tsika pitsimika.</sentence>
+        <sentence lang="es">Ahora le llamó, abuelaaaa… yo sooooy, abuelaaaa, yo sooooy – luego escucharon contestar – joooo – eres tú, quien eres.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
