@@ -482,4 +482,34 @@ year={2011},
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.79">
+        <sentence lang="prq">Okantsi  tsikaratya okinataiki nishintoranki, okinkishiriavaita irori.</sentence>
+        <sentence lang="es">Decía por donde se habrá mi hija, estaba pensando ella.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.80">
+        <sentence lang="prq">Poñaa ijataki iroñaaka oimira pariniki,iñaatsiri apite eentsi  iñaatsavaitaiyani impanikiki.</sentence>
+        <sentence lang="es">Después  ahora el esposo se fue al rio ahí vio a dos niños que estaban jugando en la arena.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.81">
+        <sentence lang="prq">Ari iñaatsavaitaiyani apiteroite, Ikantsi ikinkishiriaka, tsikaratya ipaitaka, ninkaratya ashitariri eentsira saikatsirira ,iñatsavaitaiyani.</sentence>
+        <sentence lang="es">Ahí estaban jugando los dos, pensando dijo -que será, o de quien será el dueño  de esos dos niños quienes están jugando ahí.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.82">
+        <sentence lang="prq">Tsame airikiri, ijataki iroñaaka isaikinta impananikiki, iñatsavaitaiyaninta apiteroite itsipatavaka.</sentence>
+        <sentence lang="es">Vamos agarrarle, se fue ahora donde estaban jugando en la arena donde estaban jugando los dos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.83">
+        <sentence lang="prq">Yaminaki entsipayera iñatsiri  atziri,shintsini  ishiyajeetanaka ,tok, tok ,pinkapaaki nijaakira.</sentence>
+        <sentence lang="es">Miraron ahora los niños  y vieron una persona, los dos corrieron toc, toc se hundieron en el agua.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
