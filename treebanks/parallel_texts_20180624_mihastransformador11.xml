@@ -758,4 +758,22 @@ year={2011},
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.125">
+        <sentence lang="prq">Okantakiri iroñaaka okimitakiro iriniro pairani okantsiri paakotaitenaro ninkini.</sentence>
+        <sentence lang="es">Ahora le dijo como le dijo a su mamá antes, le dijo  tráigamelo mi maní.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.126">
+        <sentence lang="prq">tsimatsi oyantsiri antaro jaikini inkini okantsi noshari pakotaitenaro ninkini osaiki jenokinta.</sentence>
+        <sentence lang="es">Tenía una canasta bien grande estaba bien lleno de su maní. Nieto tráigamelo mi maní que esta arriba.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.127">
+        <sentence lang="prq">Poña imavita yantaitemi te inkante yantaite.</sentence>
+        <sentence lang="es">Después intentaba subir no podía subir.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
