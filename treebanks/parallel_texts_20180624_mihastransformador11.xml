@@ -692,4 +692,16 @@ year={2011},
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.114">
+        <sentence lang="prq">ikantsiri icharini airo pijatsi  aani ari ivavakiami jainaite, osheki ivanta – Ikantsi  airo Ivana.</sentence>
+        <sentence lang="es">Su abuelo le dijo no vas a ir nieto, te va a comer, el hombre que come carne humana, le gusta comer –él le respondió no me va a comer.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.115">
+        <sentence lang="prq">irotaki nojatantyari  iroñaaka, nompiyakovintajiaro  inaa.</sentence>
+        <sentence lang="es">Por eso voy a ir ahora, voy vengarme de mi mama</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
