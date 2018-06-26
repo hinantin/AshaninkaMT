@@ -824,4 +824,46 @@ year={2011},
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.136">
+        <sentence lang="prq">Poña ikantsiro iritsiro paanakiniro omatsaraka anta inchaponkitsikinta, iroñaaka osatekapaintsiro oyanirimashikinta  ari osatekapaintsiro.</sentence>
+        <sentence lang="es">Después le dijo a su hermana llévatelo su cushma allá en ese tronco  lo llevó y lo colocó donde estaba el tronco en su yucal ahí lo colgó.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.137">
+        <sentence lang="prq">yaminaki poña Ikantsi ¡oh! Osheki oyanirimashi Iroñaaka tsame ankaimakotero, ikaimakotakiro ¡ishaa ikimatsiro akanaki ¡joo! Poña Ikantsi  arive kameetsataki</sentence>
+        <sentence lang="es">Miró y luego dijo oh! Tiene bastante yucal. Ahora vamos a llamarlo, lo llamo ¡abueeelaa! Luego escucho contestarle, ¡joo! Después dijo muy bien esta bueno.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.138">
+        <sentence lang="prq">kameetsataki iroñaaka aritaki yakakakiro inchapontsora: poña ikantsi tsame amaña iroñaaka.</sentence>
+        <sentence lang="es">Está bien ahora, ya lo hizo hablar al tronco; después dijo vamos escondernos ahora</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.139">
+        <sentence lang="prq">ataitanaki iroñaaka shiramparira shero, shero ivankopashikira irojatsi otavantokinta ari isantapaakari, poña ikantsiro iritsiro</sentence>
+        <sentence lang="es">Se subió ahora el hombre shero, shero, en las hojas de su casa hasta la cumbrera ahí se metió; después le dijo a su hermana.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.140">
+        <sentence lang="prq">intya paminina iroñaaka, arika piñaakina, iritsirora ataitanaki aminiri, okantakovitari sherori, sherori, sherori, okimashitari inaavaitsi anta.</sentence>
+        <sentence lang="es">Haber ahora búscame haber si me vas a encontrar la hermana se subió para buscarle buscaba y buscaba por todo lado solamente escuchaba lo que hablaba.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.141">
+        <sentence lang="prq">okantakovitari, sherori, sherori, te oñiri, shitovashitanaja iroñaaka okante te, te añiri.</sentence>
+        <sentence lang="es">Levantaba otras cosas no le veía se salió se canso de buscarle ahora le dijo no le he visto.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.142">
+        <sentence lang="prq">poña ikantsiro intsitya avirori, iroñaaka ataitanaki irori iritsirora; aijatsi irori ijavitaka yaminiro te iñiro, poña ikantsi kameetsataki iroñaaka  aritaki amatakiri jainaite.</sentence>
+        <sentence lang="es">Después le dijo haber tu ahora, subió la hermana igualito también ella aunque ha ido a buscarla no le vio luego dijo ahora si está bien, ahora vamos terminarle al hombre que come carne humana.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
