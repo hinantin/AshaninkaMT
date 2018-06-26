@@ -380,4 +380,34 @@ year={2011},
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.62">
+        <sentence lang="prq">iroñaakaja ,ari okatsiyaitani,okantsiro , ishaa apaniro pisaikavaitsikia ,akanakiro ,te apaniro    nosaikavaite notsipayetari  notomipatsaini,korakitatsi taima iroñaaka.</sentence>
+        <sentence lang="es">Ahora pues, ahí estaba parada, luego le dijo, abuela solita vives aquí, ella le contesto, no  yo no vivo solita estoy acompañado de mis hijitos, ya van a llegar ahora.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.63">
+        <sentence lang="prq">opoñaa okimajatsiri ikaimayapaajini,tonkarikinta,okantsiro korakitaji iroñaaka notyomi ,ari pisaiki jaka noshayo</sentence>
+        <sentence lang="es">Luego escucho que  gritaban  allá arriba, le dijo ya van a venir ahora a mí, aquí vas a sentarte.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.64">
+        <sentence lang="prq">Poñaa ipokajetapaajira otomipayera, ikantapaajiro inaa te vee, tekatsi  noñii.</sentence>
+        <sentence lang="es">Después  llegaron  sus hijos, le dijo a su mamá  no hay nada, no he visto nada</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.65">
+        <sentence lang="prq">tekatsi yoyaa, tekatsite, tekatsi kamintsainani iroñaaka iyora ayovintsani ayaari.</sentence>
+        <sentence lang="es">No hay nada que come,no hay nada,no he encontrado nada ahora ,este nuetra presa para comer.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.66">
+        <sentence lang="prq">okantsiri iroñaaka, notyomi aka noñaaki aparoni, yakanakiro  Ikantsi tsika iroñaakakia,okantsiri nironta.</sentence>
+        <sentence lang="es">Ella le dijo ahora, hijito aquí yo he visto uno, y él le contesto, donde está  ahora, ella le dijo allá esta.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
