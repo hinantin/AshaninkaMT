@@ -334,4 +334,16 @@
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.55">
+        <sentence lang="prq">Oñaapatsiro iroñaaka okantapaakiro,- Naaka  ishaa,- aviró noshayo  - tsika  pipoñaaka – nopoñaa kirinka – tsika pijateka-nojate katonko parinini.</sentence>
+        <sentence lang="es">Lo vio ahora y le dijo,- Yo soy abuela – eres tú nieta – de dónde vienes – vengo de adentro – donde  vas a ir-  voy hacia la cabecera del rio.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.56">
+        <sentence lang="prq">ari okaakitapaakiini irotaintsi parityaro ,okatonkotsi parinini.</sentence>
+        <sentence lang="es">Ya es cerca ya vas a llegar, la cabecera del rio o donde nace el rio.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
