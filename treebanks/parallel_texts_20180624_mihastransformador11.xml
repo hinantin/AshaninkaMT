@@ -364,4 +364,10 @@
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.60">
+        <sentence lang="prq">Ompariamaintapakia kooyara omoyakira nijaa onintsi ovinkiro</sentence>
+        <sentence lang="es">La chica caia  donde esta  herviendo el agua  quería hacerlo hundir.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
