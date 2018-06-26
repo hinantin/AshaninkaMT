@@ -410,4 +410,22 @@ year={2011},
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.67">
+        <sentence lang="prq">Yaminakaki iñaatsiro, yaanakiro iroñaaka, ikantsiro tsame ankate,ari ivakiro iroñaaka kooyara.</sentence>
+        <sentence lang="es">Miro y lo vio, se lo llevo ahora, le dijo vamos bañarnos, ahí lo mato ahora a la chica.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.68">
+        <sentence lang="prq">Ivakiro iroñaaka iposainatakiro  teee. Otsomontetatsira Ivakiro iroñaaka otsapiaki parinini.</sentence>
+        <sentence lang="es">Lo mato ahora, lo golpeo en su cabeza teee, como ella estaba gestando lo mato    lo llevo  y lo puso cerca a la orilla del rio.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.69">
+        <sentence lang="prq">Ari ivakirori, ari itsimavintsirori itoyetsiro  ovatsara  ari okantatapita,ari taima ikantakaarori ariajaini ,atziri  ashitakiarini eentsira.</sentence>
+        <sentence lang="es">Ahí lo puso, ahí se estaba demorando cortando la carne de la chica era una laja inclinada así habrá sido el destino acaso el dueño del bebe es una persona.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
