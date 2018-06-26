@@ -428,4 +428,16 @@ year={2011},
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.70">
+        <sentence lang="prq">Okantapaaka  iroñaaka oshinki, aanakiro parinini kooyara ivaitakirira iroñaaka, aanakiro</sentence>
+        <sentence lang="es">Vino ahora una olada, se lo llevo el rio a esa mujer lo que han matado, ahora se lo llevo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.71">
+        <sentence lang="prq">Amatanaki, amatakotanaki  kooyara   motyaanto  aisatsi entsitera, amatakotanaki iroñaaka.</sentence>
+        <sentence lang="es">Se fue flotando (el cuerpo) de la mujer gestante, también de su bebe, se  fue flotando ahora.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
