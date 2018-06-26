@@ -794,4 +794,34 @@ year={2011},
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.131">
+        <sentence lang="prq">Okantsi nakatya ataitatsini naavakita inki pivapaakiari.</sentence>
+        <sentence lang="es">- Dijo mejor yo voy a subir se subió voy a sacar maní para que comas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.132">
+        <sentence lang="prq">Okantya okovi ompavakiri inkinira ivapakiata iyenkatanakityiri anintaiyari oyari.</sentence>
+        <sentence lang="es">Ella quería darle de comer su mani para que se engorde y tenga grasa y así comerlo más sabroso.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.133">
+        <sentence lang="prq">Iroñaaka ataitanaki ishara iroo oviravitanaka jeñokini itsinkakotsimaintaro antaimintokira tsinik okantanaka piinkapaki omoyakira nijaa ishara, pinkapaki iroñaaka.</sentence>
+        <sentence lang="es">Ahora cuando subió la abuela ya estaba a media altura lo empujó de su escalera tsinik se ladeo y se cayó donde estaba hirviendo el agua la abuela se hundió ahora.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.134">
+        <sentence lang="prq">Poña ipiayetakiro oporianikipatsaini, akopatsaini iyanipatsaini moyakotaki iroñaaka.</sentence>
+        <sentence lang="es">Después le convirtió en muslitos, manitos pequeños hirvió ahora (el cuerpo de la abuela).</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.135">
+        <sentence lang="prq">ikantsiro iroñaaka iritsiro amatakiro iriniro korakitaintsi otomipaye.</sentence>
+        <sentence lang="es">Le dijo ahora a su hermana ya lo hemos conseguido con su mamá ahora vienen sus hijos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
