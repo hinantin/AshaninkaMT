@@ -554,4 +554,28 @@ year={2011},
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.91">
+        <sentence lang="prq">Eentsira iroñaaka inintsi yayiromi inchatyakira, ivarankakiro irako irotaki yairikantyarorimi</sentence>
+        <sentence lang="es">Esos niños ahora, quería  sacarlo a esa flor, estiro su mano ya estaba para cogerlo</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.92">
+        <sentence lang="prq">Itsinpatapitsaitsiri  anta, ari okanta itsinpatapitsaitsiri, poñaa, yapitajiro irotaintsimi yairikiromi ¡eh!</sentence>
+        <sentence lang="es">Como lo estaban jalando ahí  así siempre lo jalaba. Después  nuevamente volvió jalaroya estaba para cogerlo ¡eh!.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.93">
+        <sentence lang="prq">Ishiyapaaka  maniro tema yantaritatsira,iro yairikantavakiarimi,shintsi ishiyanaka  pinkapaji  nijakira</sentence>
+        <sentence lang="es">Corrió el venado como era grande, casi lo agarra, rápido corrió se hundió  en el agua.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.94">
+        <sentence lang="prq">Te yayiri katsi saikantyarini, Ikantsi iroñaaka sankatsi  Naaka  aritaki nairikakiri.</sentence>
+        <sentence lang="es">No lo cogió no había nada en su interior, ahora dijo la pucacunga  yo si lo puedo coger.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
