@@ -464,4 +464,22 @@ year={2011},
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.76">
+        <sentence lang="prq">Poñaa aminakiri, okantakotakiri  oñaatsiri apite okanta, aparoni shirampari, aparoni kooya.</sentence>
+        <sentence lang="es">Después el remolino  lo reviso y encontró que eran dos seres un hombre y una mujer.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.77">
+        <sentence lang="prq">Naviriritatsirira iroñaaka, paytatyari naviriri, aakiri iroñaaka aitaki isaikinta icharini ikaatapintanta. Aritaki aavajiri irisaroo.</sentence>
+        <sentence lang="es">El quién sería el transformador ahora, el que se llama naviriri  lo cogió ahora, ahí donde vive su abuelo, donde siempre se baña.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.78">
+        <sentence lang="prq">Iroñaaka, iinara irisarora naviriri inirora kooya, ari ovashirivaitaka irori, ovashitakotaro  oshinto, otomipaye imishiyakiri oimira ipasavaijetakiroranki.</sentence>
+        <sentence lang="es">Ahora la esposa (del abuelo) la abuela del transformador la mama de la chica estaba muy apenado  y  recordaba  a su  hija y de sus hijos  lo que hizo huir su esposo  castigándoles en vano.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
