@@ -304,4 +304,16 @@
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.50">
+        <sentence lang="prq">Airo pavishi, ari katyonkoinira, ari isaiki jainaite, ari intsonkavakimi iyaami, poñaa ari osaikavaitsi,</sentence>
+        <sentence lang="es">No vas a pasar, ahí arribita, ahí vive el hombre que come carne humana,te va acabar de comer ,después  ahí  se había quedado.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.51">
+        <sentence lang="prq">Osaiki, osaiki, poñaa okantsi .Te airo okantsi nosaiki ishaa aritaki nokantaki navhsi ,nopintsata nojate katonko parinini.</sentence>
+        <sentence lang="es">Ahí, Estaba, ahí estaba, Después dijo .No  yo no me voy a quedarme aquí abuela yo voy ha poder pasar yo pienso ir hacia  la cabecera del rio.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
