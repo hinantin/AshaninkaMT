@@ -5834,10 +5834,11 @@ pitivine	[pi-][NPers][2poss+][--][=tivi+n.m.+poss@ni:ne.][NRoot][=salt (ES: sal)
         <sentence lang="prq" normalizationlevel="none">Pincheke kapiro nakijeekakotantyari jetari.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Pincheke kapiro nakiheekakotantyari hetari.</sentence>
         <sentence lang="es">Corta paca para cocinar la carachama.</sentence>
+        <sentence lang="en">???</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-pincheke	[pi-][VPers][2S/A+][--][N=][IRR+][--][=chek][VRoot][=to.cut (ES: cortar)][--][-e][+REAL]e
+pincheke	[pi-][VPers][2S/A+][--][N=][IRR+][--][=chek][VRoot][=to.cut (ES: cortar)][--][-e][+IRR]e
 
 kapiro	[=kapiro][NRoot][=bamboo.sp. (ES: paca, especie.de.bambú)]
 
