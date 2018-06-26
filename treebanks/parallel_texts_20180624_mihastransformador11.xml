@@ -548,4 +548,10 @@ year={2011},
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.90">
+        <sentence lang="prq">Ipokaiyapaajeni  eentsipayera iñaapatsiro otsatakota inchatyaaki, ikantsiro iritsiro ¡eh! Chooki Paminitya inchatyakira,tsame ayiro.</sentence>
+        <sentence lang="es">Cuando vinieron los niños vieron colgado una flor –le dijo a su hermana  eh hermana mira pues a esa flor  vamos sacarlo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
