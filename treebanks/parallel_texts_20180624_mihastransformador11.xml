@@ -614,4 +614,16 @@ year={2011},
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.101">
+        <sentence lang="prq">iroñaaka eentsira iyotakiri icharini, icharinira inatsi ikantsiri .Naaka picharini nonatsi</sentence>
+        <sentence lang="es">Ahora ese niño lo reconoció a su abuelo, como era su abuelo le dijo – yo soy tu nieto.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.102">
+        <sentence lang="prq">pipasavaishitakaro pairani inaa, kokipaye pipasavaishitakari Ikantsi arima.</sentence>
+        <sentence lang="es">En vano has castigado antes a mi mama y a mis tíos en vano –dijo así.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
