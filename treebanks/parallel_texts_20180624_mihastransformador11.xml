@@ -286,4 +286,10 @@
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.47">
+        <sentence lang="prq">Poñaa okantsiro pisaiki  noshayo,nojatapainteta naminapainte kaniri.</sentence>
+        <sentence lang="es">Después  le dijo quédate nieta, voy a buscar yuca.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
