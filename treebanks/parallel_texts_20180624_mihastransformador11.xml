@@ -452,4 +452,16 @@ year={2011},
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.74">
+        <sentence lang="prq">ijatashita ishiritata, ijatsi, ijatsi  irojatsi  otsonkatapakanta  oparai, te yavajiro  jaitetsi.</sentence>
+        <sentence lang="es">Solamente caminaba por la rivera del rio iba, iba, hasta donde termina  la playa no lo cogió.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.75">
+        <sentence lang="prq">Amatanaki iroñaaka, amaatsi, amaatasi  ari tsikarika anta, kirinkanta,ari aavakiri omotonkani</sentence>
+        <sentence lang="es">Se fue flotando por el rio ahora flotaba, y flotaba hasta  allá, no se sabe donde  por adentro, ahí lo cogió un remolino.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
