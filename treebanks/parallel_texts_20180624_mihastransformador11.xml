@@ -776,4 +776,22 @@ year={2011},
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.128">
+        <sentence lang="prq">kaantsimaintatya moyatsi nija oyovitsiteki antaroite akantsiri pairani ayovitsite.</sentence>
+        <sentence lang="es">Sin embargo estaba hirviendo su agua con una olla grande, lo que decimos nosotros antes nuestra olla.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.129">
+        <sentence lang="prq">Moyatsi nijaa onkantya arika intsirianaki eentsira pinkapaki nijaakira.</sentence>
+        <sentence lang="es">Hervía el agua para que cuando se caiga ese niño se meta directamente donde está el agua.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.130">
+        <sentence lang="prq">Imavita yantaite te inkante yantaite tema naviririra inatsi iroñaaka tsikarika okantsimotakaro iroñaaka ishara ataitanake iroñaaka.</sentence>
+        <sentence lang="es">Intentaba subir no podía subir como era transformador ahora que le habrá pasado a la abuela ahora ella se subió.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
