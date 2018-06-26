@@ -370,4 +370,10 @@
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.61">
+        <sentence lang="prq">poñaa omavita, te okante atetiro kooyara omavita te .Poñaa okantsi, tsikama okantatyarika.</sentence>
+        <sentence lang="es">Luego intentaba,  no podía  subir la chica intentaba nada, luego dijo como es esto.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
