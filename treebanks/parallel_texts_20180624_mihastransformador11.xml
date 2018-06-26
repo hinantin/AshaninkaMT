@@ -602,4 +602,16 @@ year={2011},
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.99">
+        <sentence lang="prq">irootaki  anitantanakiarimi, iritsirora, yairikapaakiro iroñaaka, yairikaitakiri irirori.</sentence>
+        <sentence lang="es">Cuando ya iba a  bajar su hermana  lo agarraron ahora, lo agarraron a el también.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.100">
+        <sentence lang="prq">yaanakiri, pona ikantakiri- tsika piponaaka- tsika paita pantavaitsiri impanikikira</sentence>
+        <sentence lang="es">Se lo llevo, luego le dijo – de donde eres – que cosa haces en la arena.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
