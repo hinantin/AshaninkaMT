@@ -626,4 +626,34 @@ year={2011},
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.103">
+        <sentence lang="prq">iroñaaka aanakina inaa katonko, ivaitakaro inaa ivakaro jainaite Ikantsi arima.</sentence>
+        <sentence lang="es">Ahora me llevo mama a la altura, ahí lo comieron a mama’ lo comió el hombre que come carne humana. Le respondió  así.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.104">
+        <sentence lang="prq">yamajiri iroñaaka ikantsiri avirokama, pona yamajirira iinaki ikantapaajiro, acharini inatsira iyoka.</sentence>
+        <sentence lang="es">Le trajo ahora diciéndole a ya eres tú, después que lo ha traído: le dijo a su esposa aquel es nuestro nieto ¡eh!</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.105">
+        <sentence lang="prq">ari opona ikisavakaka iroñaaka – okantsiri iina naakiro, pipasavaishitakaro  ashinto tema ocantsi</sentence>
+        <sentence lang="es">Ahí se inicio la rina entre ellos ahora – le dijo la esposa ya vez  en vano has castigado a nuestra hija si ella decía.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.106">
+        <sentence lang="prq">te oniri yantavintsatero oyariri, ikanta, pona ikantsiri, aritaki nosaikimotakimi pivankoki.</sentence>
+        <sentence lang="es">No lo ha visto fastidiar su hermano, después dijo el nieto si me voy a quedarme en tu casa</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.107">
+        <sentence lang="prq">paajana iroñaaka aritaki nosaikimotakimi, ari isaiki iroñaaka .pona icharini iroñaaka jaitetsi  isaikashivaitsi.</sentence>
+        <sentence lang="es">Tú me has acogido ahora, si voy a quedarme a vivir contigo: ahora ahí se quedo a vivir, después el abuelo ahora se fuea poner trampas a los animales.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
