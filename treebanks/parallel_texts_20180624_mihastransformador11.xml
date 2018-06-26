@@ -752,4 +752,10 @@ year={2011},
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.124">
+        <sentence lang="prq">Naaka, opokapaki iroñaaka irisarora, irinirora jainaiti oñapakiri okantsiri ¡Oh! Ari pipoki pisaikavaitapajityami.</sentence>
+        <sentence lang="es">Yo soy, ahora vino su abuela, la mamá del hombre que come carne humana, ella le vio y le dijo ¡oh! Has venido tome asiento.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
