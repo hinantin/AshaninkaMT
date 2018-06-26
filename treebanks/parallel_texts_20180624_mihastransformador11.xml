@@ -232,4 +232,34 @@
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.38">
+        <sentence lang="prq">Ikantsi iroñaaka iriro, ari taima, iroñaaka te nonkovaji osakaji ashinto jaka, ojateta tsika  onintakaro Ojate</sentence>
+        <sentence lang="es">Ahora dijo el papá, así será .Ahora yo no quiero que nuestra hija esté mas aquí, que se vaya donde quiera ir ella.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.39">
+        <sentence lang="prq">Poñaa, okinkishiriaka, kooyara okantsi iroñaaka taima  nojatatye katonko.</sentence>
+        <sentence lang="es">Después, la chica pensó, dijo ahora mejor me voy hacia la altura o hacia afuera.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.40">
+        <sentence lang="prq">opokaki iroñaaka, motyataki irotaki intsimi, te ayotero  tsika ikarataki oyashirite, apavakoronerika  te ayote.</sentence>
+        <sentence lang="es">Vino ahora, pero estaba gestando ya esta próximo a nacer, no sabemos cuantos meses tendría  cinco no se sabe.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.41">
+        <sentence lang="prq">Irotaki intsimi eentsitera, opokaki, opoki, opoki, omanaki niyanki avotsi, irojatsi opoki, opoki</sentence>
+        <sentence lang="es">Ya va a nacer su bebe, vino hacia aquí, vino, vino, durmió en medio camino, seguía viniendo venia.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.42">
+        <sentence lang="prq">Apanirionira iroñaaka opoki, oyarirepayeranki, imishiyakiri irira ipasavaitakirinaki.</sentence>
+        <sentence lang="es">Como solita venia, sus  hermanos, los hizo huir, cuando su padre al castigarles.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
