@@ -578,4 +578,28 @@ year={2011},
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.95">
+        <sentence lang="prq">Ijajeetaki pashiniki  kitaiteri, Ikantsi arika piñavajiri inintsi yairikiro pishirinkapitsateri  shivitsara,     shiri, shiri</sentence>
+        <sentence lang="es">Se fueron ahora  se fueron ahora al otro día- dijo cuando lo ven intentando agarrarlo arrímalo la pita shiri, shiri</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.96">
+        <sentence lang="prq">Iñaatsiri, irotaintsimi yairikiromi ishirinkapitsatsiri,shiririri. poñaa ikantsiro iritsiro,chooki pantaitena jaka, pairikirota iroñaaka aviroka inchatyakira.</sentence>
+        <sentence lang="es">Lo ha visto  que casi lo agarra, como lo estaba arrimando shiriri, después le dijo: a su hermana, hermana agame subir aquí, para que tú lo agarras a  esa flor</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.97">
+        <sentence lang="prq">ari painkitakitakiaro aviroka,  ivantaitakiro ironaka,  iritsirora ,  iro arikinomi  inchatyakira tema osirnkirotyara inchatyakira.</sentence>
+        <sentence lang="es">Tu vas agarrarlo, lo hizo subir ahora a su hermana, ya iba agárralo a la flor, pero Como lo estaban arrimando  la pita..</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.98">
+        <sentence lang="prq">tema oshirinkatyara inchatyakira, iroo airicantyaromi, shiyapaaka shintsini sankatsi.</sentence>
+        <sentence lang="es">Como se esta moviendo esa flor, ya estaba  para agarrarlo corrió rápidamente la pucacunga</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
