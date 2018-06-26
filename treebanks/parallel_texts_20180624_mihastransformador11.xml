@@ -292,4 +292,16 @@
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.48">
+        <sentence lang="prq">jaitetsi irotaki osamanitaki piyaja aminapintsi apaintsi kaniri, amapaakiro, okotsitapaakiro.</sentence>
+        <sentence lang="es">Se fue, se demoro un poco  luego regreso, busco y saco yuca, lo trajo y lo cocino.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.49">
+        <sentence lang="prq">Okantsiro piyaa noshayo ,ovaaka kooyara .Poñaa  okantsiro,airo okantsi pishiritaro parityaro  katonko,</sentence>
+        <sentence lang="es">Le dijo come nieta, comió la chica. Despues  la abuela le dijo ,no vayas ha pensar llegar a la altura</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
