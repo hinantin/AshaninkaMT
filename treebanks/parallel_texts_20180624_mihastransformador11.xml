@@ -716,4 +716,16 @@ year={2011},
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.118">
+        <sentence lang="prq">okantsiri airo pijatsi noshari, airo parita, ari katyonkoinira ari isaiki jainaite, ari ivavakiami.</sentence>
+        <sentence lang="es">Ella le dijo no vas a ir nieto, no vas a llegar, ahí arribita ahí vive un hombre que come cerne humana, te va a comer.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.119">
+        <sentence lang="prq">ah, irotaki nojatantyari, nonintsi nompiyavintajiaro inaa. Tsika pinkini pimpiyakovintero inaa, oshekiteni ikanta ari intsonkatavakimi.</sentence>
+        <sentence lang="es">Si, por eso voy a ir, quiero vengarme de mi madre. Como quieres vengarte de tu madre, si ellos son bastante te va acabar.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
