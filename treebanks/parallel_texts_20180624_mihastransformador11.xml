@@ -512,4 +512,22 @@ year={2011},
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.84">
+        <sentence lang="prq">Ijataki pashiniki kitaiteri, yaminapaji, iñaapatsiri, iñavajiri atziri shiyajeetanaja,pinkapaji nijaaki.</sentence>
+        <sentence lang="es">Se fue al otro día, nuevamente  miro, ahí los vio  que estaban jugando nuevamente se fueron corriendo otra vez se hundieron en el agua.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.85">
+        <sentence lang="prq">Ikantsi icharini, tsika ankanterika  airikantyariri antyariri eentsipayera.</sentence>
+        <sentence lang="es">Dijo el abuelo – como lo hacemos – para agarrarles a esos niños.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.86">
+        <sentence lang="prq">Poñaa ikantavitaka pashini, irojatsi yatzirivitani  sankatsi, Ikantsi ari naajeri Naaka.</sentence>
+        <sentence lang="es">Luego había dicho otra persona,  cuando todavía era un ser humano la pucacunga-dijo yo lo voy a cogerlo yo</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
