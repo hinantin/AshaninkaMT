@@ -656,4 +656,40 @@ year={2011},
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.108">
+        <sentence lang="prq">ikintsi sharoo, samani, ikintsi kintsori, sankatsi, tsamiri  maaroni ikaratsi pairani tsimiriyetatsiri.</sentence>
+        <sentence lang="es">Picaba (con flechas)cutpes, samano, picaba  pucacunga,paujil y todo los animales que existían antes.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.109">
+        <sentence lang="prq">irootaki ivakariri icharini, ponaaka  arika onparianaji  inkani  osheki inintsi ijate yookatero nija .</sentence>
+        <sentence lang="es">Eso lo hacía comer a su nieto, después el nieto cuando llovía  mucho le gustaba ir a votar el agua de la lluvia.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.110">
+        <sentence lang="prq">icharini tsimatsi ivintani iyanirimashi: Ikantsi ari ashirivatakiaro kaniri nijaa.irotaki yookatakotsi.</sentence>
+        <sentence lang="es">Su abuelo tenia sembrado su yucal; dijo se va ahogar la yuca con el agua, por eso lo que bota el agua.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.111">
+        <sentence lang="prq">yookatsiro, yookatsiro, pona ikanta, ikanta kimotataki iroñaaka viranaka jaka  te ishinte eentsirakia.</sentence>
+        <sentence lang="es">Botaba el agua, botaba Después de un tiempo ya había crecido ahora ya era de este tamaño no duro en crecer ese niño.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.112">
+        <sentence lang="prq">kimotatakira, iroñaaka ikantakiro iritsiro tsame iroñaaka ampiyavintajiaro inaa.</sentence>
+        <sentence lang="es">Como ya era grandecito, ahora le dijo a su hermana, vamos ahora a vengarnos de nuestra madre</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.113">
+        <sentence lang="prq">ikantsiri icharini aani iroñaaka nojatatye katonko, tsika ivaitakaro inaa. Ontsimatye Nompiyavintajiaro.</sentence>
+        <sentence lang="es">Le dijo a su abuelo, abuelo ahora voy a irme hacia la altura, donde se lo comieron a mi mama. Tengo  que vengarme de ella.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
