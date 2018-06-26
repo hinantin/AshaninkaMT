@@ -346,4 +346,10 @@
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.57">
+        <sentence lang="prq">Poñaa iroñaaka okantsi,ishara.</sentence>
+        <sentence lang="es">Después ahora dijo la abuela</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
