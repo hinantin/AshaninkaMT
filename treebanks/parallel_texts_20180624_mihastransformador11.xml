@@ -920,4 +920,40 @@ year={2011},
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.152">
+        <sentence lang="prq">¿Paita ipiakari?- ipiaakari pitsiro, poña ikantsi shiri, shiri, shiri, ivajaro irinironta.ikantsi pinkimitya Ikantsika ivajaro iriniro.</sentence>
+        <sentence lang="es">¿En que se convirtió? – se convirtió en grillo, después dijo se comió a su mamá, dijo escuchen pues dice este que comió a su mamá.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.153">
+        <sentence lang="prq">ikantsiri iririntsi intsitya iyee pintyarinkirotya,  yaaki inchaki ityarinkakiro, iñaatsiro oito menkotsi iriniro.</sentence>
+        <sentence lang="es">Le dijo a su hermano haber hermano remueve la olla cogió un palo y lo removió ahí vieron la cabezota de su madre.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.154">
+        <sentence lang="prq">ikantanaki  ñaamitsa iyee ivakajairo inaa iroñaaka. Tsikaratya ipaitaka iroñaaka, shintsitanaki yaminiri iroñaaka.</sentence>
+        <sentence lang="es">Ahí dijeron que barbaridad hermano nos ha hecho comer a nuestra madre ahora. Quien será este ahora rápidamente comenzaron a buscar ahora.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.155">
+        <sentence lang="prq">ikantakovitari, shikiri, shikiri, te, te iñiri yapitakovitari shikiri, shikiri, shikiri, manapirotaka eentsi- payera.</sentence>
+        <sentence lang="es">Buscaron removían todas las cosas, no; no le han visto por más que volvieron a buscarlo nada, estaban bien escondidos esos niños.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.156">
+        <sentence lang="prq">Poña ikantanaki tsame antaakoteri, yaaki paamari itsirikakiro itakotakiri morikanaki, teek teek.</sentence>
+        <sentence lang="es">Después dijo vamos quemarlo saco fuego, prendió la casa se quemó, ardió la candela.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.157">
+        <sentence lang="prq">iñaatsiri yaranaki iroñaaka pitsirorakia, irotaki impasaikitavakirimi, irotaki  impasatavakirimi, motyaanaka intatsikironta.</sentence>
+        <sentence lang="es">Luego vieron volar grillo ya iban golpearlo, iban golpearlo, logro bandearse al otro lado.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
