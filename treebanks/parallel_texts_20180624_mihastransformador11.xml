@@ -262,4 +262,16 @@
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.43">
+        <sentence lang="prq">Te isaikanaji ivankoki  irirorite, iroñaaka opokakira, opoki, opoki, aritakaro ovanko aparoni ishaa ashoshi.</sentence>
+        <sentence lang="es">Ya no estaban en su casa ellos también, ahora como ella vino hacia aquí venia, venia, llego a la casa de una abuela, armadillo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.44">
+        <sentence lang="prq">Ashoshi onatsi ishara, tsika oviraka aka akantsiro totsirani, aritaima, totsirani kirinkaininta, ari osaikiri ovanko ashoshira.</sentence>
+        <sentence lang="es">La abuela era armadillo, donde habrá estado aquí lo que decimos Toterani, tal vez   la casa de la abuela  se encuentra un poco abajito de Toterani.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
