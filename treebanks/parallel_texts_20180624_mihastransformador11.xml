@@ -530,4 +530,22 @@ year={2011},
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.87">
+        <sentence lang="prq">Ikantsi pashini, te airo okantsi  airikiri, Ikantsi iroñaaka pamatavitatyeri, pintsateniri inchatyaaki, vitsikatyariranki.</sentence>
+        <sentence lang="es">Otra persona dijo – no  no vamos a poder agarrarlo (otro) dijo ahora  tienes que engañarle, cuélgale una flor fabricada.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.88">
+        <sentence lang="prq">Yamashitakiniri iroñaaka inchatyaaki vitsikatyariranki, itsatakiro shivitsaki  antaro manpitsa.</sentence>
+        <sentence lang="es">Trajeron ahora  una flor que es fabricado, lo colgaron con una pita  grande era el ovillo</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.89">
+        <sentence lang="prq">poña iroñaaka imonkaratakiro, Ikaratsi ikatsiya eentsira,itsatakiro ovira aka.</sentence>
+        <sentence lang="es">Después ahora lo midió el tamaño de estatura de estar parado el niño, lo colgó de este tamaño</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
