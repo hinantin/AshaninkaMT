@@ -1022,4 +1022,16 @@ year={2011},
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.169">
+        <sentence lang="prq">Poña ikantakiro iroñaaka iritsiro amatakiri iroñaaka. Tsame ajate katonko. Pokaki iroñaaka jaka aritaka jaka  antaritanaki antaritaki. Iroñaaka.</sentence>
+        <sentence lang="es">Después le dijo a su hermana ahora ya hemos terminado ahora vamos a la parte alta vinieron ahora hasta aquí llegaron aquí ya creció ya es grande ahora.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.170">
+        <sentence lang="prq">Tsimaatsi aparoni ikantsiri icharini ipaita poiyotsi, iritaki itsipaantari. Ari intanakari iroñaaka ipiantayetanaki  arika iñaapaki tsika paitarika inkantaki Afuu, ichaponkitsi pinpiya.</sentence>
+        <sentence lang="es">Tenía una persona a quien le decía que era su nieto se llamaba cabeza blanca él era su compañero ahí comenzó ahora a transformar a otras personas cuando iba a otros sitios y veía cualquier cosa decía así sea tronco de un árbol conviértete.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
