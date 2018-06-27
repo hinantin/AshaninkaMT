@@ -1118,4 +1118,16 @@ year={2011},
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.185">
+        <sentence lang="prq">Maatsi iroñaaka iraniri, iraniri iroñaaka iritaki ikantaitsiri kintero iroñaaka ipiatsiri iraniri.</sentence>
+        <sentence lang="es">Hay ahora su cuñado, su cunado ahora él es lo que le dicen panteonero ahora él lo transformo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.186">
+        <sentence lang="prq">jaitetaki kirinka ikiyi ikiyaki chek chek, ikantanakiro iina Arika nompiakia mava kashiri piyajana, oyotaki iroñaaka iinara iyovantapajiari kashiri, pashini kashiri.</sentence>
+        <sentence lang="es">Se fue adentro a escarbar, le dijo a su esposa cuando me demoro tres meses ya he estaré de vuelta, ya sabía ahora su esposa cuando iba a salir la luna, otra luna.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
