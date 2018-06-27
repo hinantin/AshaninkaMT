@@ -1142,4 +1142,34 @@ year={2011},
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.189">
+        <sentence lang="prq">Poña, ovishiriakaakari, ovishiriakaakari, aikiro opakotatsiri, pashini opakotsiri, opakotsiri irotaki onkitaitsimate, shinkitaka iroñaaka.</sentence>
+        <sentence lang="es">Después lo hizo danzar, lo hizo danzar, le seguía dando otro y más otro le seguía dando ya iba amanecer estaba embriagado ahora.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.190">
+        <sentence lang="prq">Aitari ovishiriakari oyariri oyotaki irotaki kapichini omorontya ikiyakiro oimi otyankakiri omoronakiki, tsirik okantanaka teeereeee kipatsi, jaitetsi iroñaaka intsonpaikinta kianaki.</sentence>
+        <sentence lang="es">Luego lo hizo danzar a su hermano, ella sabía que faltaban poco para que se haga hueco donde su esposo escarbó y lo empujó en el hueco se derrumbó la tierra se fue ahora al fondo se sumergió.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.191">
+        <sentence lang="prq">Iroñaaka iranirira pokaji janta, imontsavajari, ikantanakiri Afuu, kintero pinii ipianajiri iraniri.</sentence>
+        <sentence lang="es">Ahora su cuñado ya estaba viniendo, se encontraron en medio camino ahí le dijo Afuu panteonero serás le convirtió a su cuñado.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.192">
+        <sentence lang="prq">Ari pinkantaitatyeyani pinkiyiro kipatsi. Avirokataki kiyarontakina.</sentence>
+        <sentence lang="es">Asi siempre vas a ser escarbando la tierra. Eres tu quien has escarbado para mí.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.193">
+        <sentence lang="prq">Oñashitajari iina ishitovapaaji tsovaki, tsovaki, okantanaki iroñaaka irori kamaaritaki aari ipianajiri iraniri, ari okaratapaki kinkitsarentsi</sentence>
+        <sentence lang="es">Luego su esposa lo vi salir con hocico, con hocico .y ella dijo ahora, es un diablo mi hermano en su muerte le convirtió a su cuñado. Así termina este cuento.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
