@@ -16480,9 +16480,10 @@ pivaero	[pi-][NPers][2poss+][--][=vaero+n.m.+inal@ntsi.][NRoot][=name (ES: nombr
         <parsing/>
     </text>
     <text id="687.3">
-        <sentence lang="prq">Otimatye piyotero inchashi aabintantatsiri pamitakotantyaariri mantsiyare.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Otimatye piyotero inchashi aabintantatsiri pamitakotantyaariri mantsiyare.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Otimatye piyotero inchashi aavintantatsiri pamitakotantyaariri mantsiyare.</sentence>
         <sentence lang="es">Tienes que conocer las plantas curativas para ayudar a los enfermos.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 otimatye	[o-][VPers][3n.m.S/A+][--][=tim][VRoot][=to.have (ES: tener); to.give.birth][--][-aty][ASP][+PROG]aty[--][-e][+IRR]e
