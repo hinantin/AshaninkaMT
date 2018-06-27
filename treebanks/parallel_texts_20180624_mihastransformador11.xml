@@ -1106,4 +1106,16 @@ year={2011},
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.183">
+        <sentence lang="prq">Pipiayetantariri neentsite, ari intanakari iroñaaka okisanintanakiri, okantsi tsika ankanterika iroñaaka.</sentence>
+        <sentence lang="es">Le transformaste a mi hijo, ahí comenzó ahora tenerle odio ella dijo que le hacemos ahora.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.184">
+        <sentence lang="prq">iroñaaka jataki ikantaitsirinta kishtarikinta mapiniki, ikantaitsirinta mapiniki, jataki iroñaaka, ikantajeetsi pashinipaye, tsika ankanterika.</sentence>
+        <sentence lang="es">Ahora se fue lo que dicen Mariscal Cáceres en la piedrecita, lo que dicen piedrecita se fue ahora, decían otras personas que le hacemos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
