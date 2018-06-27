@@ -16507,7 +16507,7 @@ mantsiyare	[=mantsiya][VRoot][=to.be.sick (ES: enfermar(se))][--][-re+m.][NS][+N
         <sentence lang="prq" normalizationlevel="none">Iyataeyeni irianipaye yotaantsipankoki riyotantyaari.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Iyataeyeni irianipaye yotaantsipankoki riyotantyaari.</sentence>
         <sentence lang="es">Los alumnos se van a la escuela para aprender.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 iyataeyeni	[=iya][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-aey][+PL]aey[--][-e][+IRR]e[--][-ni+circumfixing][+PL]
