@@ -16558,11 +16558,19 @@ antamimashiki	[=antami][NRoot][=dense.tropical.forest][--][-mashi][+CL:vast.spac
         <parsing/>
     </text>
     <text id="EOS3">
-        <sentence lang="prq">jominthaawakeri kashekari</sentence>
+        <sentence lang="prq" normalizationlevel="none">jominthaawakeri kashekari</sentence>
+        <sentence lang="prq" normalizationlevel="none">homintsaavakeri kashekari</sentence>
         <sentence lang="en">the jaguar frightened him</sentence>
         <!-- lit.: the jaguar made him scared -->
         <!-- e.g.: the jaguar was pusuing him or jumped at him -->
-        <morphology/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+homintsaavakeri	[h-][VPers][3m.S/A+][--][omin=][AGT.CAUS+][--][=tsaav][VRoot][=to.fear. to.be.afraid (ES: tener.miedo)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e[--][=ri][+3m.O]
+
+kashekari	[=kashekari+m.][NRoot][=jaguar (phon.tat.: [ka.ˈʃɛ.ka.ɾɪ]; a.manitzi.that.has.devoured.a.human; ES: jaguar); tiger (ES: tigre)]
+
+</morphology>
         <parsing/>
     </text>
     <text id="EOS4">
