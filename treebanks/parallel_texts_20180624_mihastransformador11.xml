@@ -1046,4 +1046,22 @@ year={2011},
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.173">
+        <sentence lang="prq">ikantajeetsi pashinipaye, tsika ankanterika: antaitavitanaka jeñokini apaata asatekavitakia añashitakia yaminaki.</sentence>
+        <sentence lang="es">Decían otras personas que le hacemos algunos se subían arriba esperaban colgados ahí lo veían mirándoles.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.174">
+        <sentence lang="prq">Tsimaatsi  aparoni akantakiri poiyotsi, iritaki aminavaitatsi. Ikiiri itapiiki, yaminayetsi jaka, impitsokaki jaka.</sentence>
+        <sentence lang="es">Había uno lo que decimos cabeza blanca él era quien miraba lo cargaba miraba acá volteaba allá.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.175">
+        <sentence lang="prq">ikantaitsiri poiyotsitatsirira, arika aminakiri, aritaki ampaitanaki. Iritaki ñaakiro kitamarori iito iritaki. Aka tsimatsi arika añiri kantsimaintatya te añapiroteri.</sentence>
+        <sentence lang="es">Lo que le dicen cabeza blanca cuando lo miramos, nos convertimos en canosos. El es ya ves su cabeza es blanco él es aquí hay cuando le vemos sin embargo no lo vemos constantemente.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
