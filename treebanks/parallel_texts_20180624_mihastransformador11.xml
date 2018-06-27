@@ -968,4 +968,28 @@ year={2011},
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.160">
+        <sentence lang="prq">Poña ikantsiro iritsiro ñaakiro Chooki amatakiri iroñaaka avakaajari  iriniro; iroñaaka  apiraateri</sentence>
+        <sentence lang="es">Luego le dijo a su hermana, has visto hermana ya lo vencimos ahora, hicimos comer a su mamá ahora vamos acabarlos con todos</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.161">
+        <sentence lang="prq">Iroñaaka itsokaki ishimpityoki pona ikantaki! Afuu!  Iñaatsiro atsatanaka antaro pampiamentotsi, irojatsi intatsikironta.</sentence>
+        <sentence lang="es">Ahora jaló su pestaña después dijo así sea luego vio colgado un gran puente hasta el otro lado.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.162">
+        <sentence lang="prq">ikantsiro iritsiro ñaakiro Chooki iroñaaka apiraateri ovakarori  inaa.</sentence>
+        <sentence lang="es">Le dijo a su hermana has visto hermana ahora hemos acabado con los que han comido a mamá.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.163">
+        <sentence lang="prq">iñaakiro iroñaaka otsatakotanaka pampiamentotsi antaro inchato montyajeetaka jainaite, inintsimi iviari.</sentence>
+        <sentence lang="es">Han visto ahora colgado algo para caminar que era grande palo (puente) comenzaron a bandearse los hombres que comían carne humana quería comérselo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
