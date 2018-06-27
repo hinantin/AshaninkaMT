@@ -1076,4 +1076,34 @@ year={2011},
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.178">
+        <sentence lang="prq">Arika yaminaki inkantaki aani paminitya paita saikatsirinta, inkantanaki afuu, ari pimpiaitya pianakami ipiakimi.</sentence>
+        <sentence lang="es">Cuando miraba decía abuelo mira pues que es lo que está sentado ahí decía así sea, así conviértete te convertías ya te convirtió.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.179">
+        <sentence lang="prq">Ari ikantatya, irotaki osheki ipiaaki atziri, iroñaaka iritsirora, Misha, Savori okantajeetsi tsika ankanterika iroñaaka yaaya.</sentence>
+        <sentence lang="es">Así era, ya era mucho que ha transformado, Ahora su hermana la lopuna y la espina decían que hacemos ahora con nuestro hermano.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.180">
+        <sentence lang="prq">okantakonintavitakari Shimashiro, irotaki oyariri okaakini, kantsimaintatya ipiitakiniro eentsite.</sentence>
+        <sentence lang="es">Se había opuesto la hoja de pescado, ella era la hermana legítima sin embargo le transformó a su hijo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.181">
+        <sentence lang="prq">ookanakiniri eentsite okantanakiri, paminavakiri yaaya pitsiniri naakiteta kaniri, jaitetaki iroñaaka.</sentence>
+        <sentence lang="es">Le dejó a su hijo diciéndole cuídamelo hermano a tu sobrino voy a ir a traer yuca se fue ahora.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.182">
+        <sentence lang="prq">Imavitatya ipirintanaka ikanta iraataita  guaii, guaii, guaii iposhenkavitari, te inkimi isamakari, ikantsi.  Afuu, mapi pimpiataitya, Pianaka mapi. Opokapaji irinirora okantsiri tsikama pikantatyaka yaaya.</sentence>
+        <sentence lang="es">Estaba durmiendo, cuando despertó comenzó a llorar, le hacía callar no le hacía caso se aburrió de él (del bebe) dijo así sea piedra serás y se transformo en piedra. Cuando su hermana vino le dijo como eres así hermano.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
