@@ -1167,9 +1167,21 @@ year={2011},
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.193">
-        <sentence lang="prq">Oñashitajari iina ishitovapaaji tsovaki, tsovaki, okantanaki iroñaaka irori kamaaritaki aari ipianajiri iraniri, ari okaratapaki kinkitsarentsi</sentence>
+        <sentence lang="prq" normalizationlevel="none">Oñashitajari iina ishitovapaaji tsovaki, tsovaki, okantanaki iroñaaka irori kamaaritaki aari ipianajiri iraniri, ari okaratapaki kinkitsarentsi</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Onyashitahari iina ishitovapaahi tsovaki, tsovaki, okantanaki ironyaaka irori kamaaritaki aari ipianahiri iraniri, ari okaratapaki kinkitsarentsi</sentence>
         <sentence lang="es">Luego su esposa lo vi salir con hocico, con hocico .y ella dijo ahora, es un diablo mi hermano en su muerte le convirtió a su cuñado. Así termina este cuento.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+tsovaki	[=tsovaki][NRoot][=thin-and-elongated (ES: delgado-y-alargado); snout (ES: hocico)]
+
+,	,[$.]
+
+tsovaki	[=tsovaki][NRoot][=thin-and-elongated (ES: delgado-y-alargado); snout (ES: hocico)]
+
+,	,[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
 </parallel>
