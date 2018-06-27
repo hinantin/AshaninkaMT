@@ -16528,7 +16528,8 @@ Examples from other sources
 ****************************************************
 ************************************************ -->
     <text id="EOS1">
-        <sentence lang="prq">Ashi Añane</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ashi Añane</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ashi Anyane</sentence>
         <sentence lang="es">Nuestra voz</sentence>
         <sentence lang="en">Our voice</sentence>
         <morphology>
