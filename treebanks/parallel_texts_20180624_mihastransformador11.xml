@@ -1010,4 +1010,16 @@ year={2011},
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.167">
+        <sentence lang="prq">Iroñaaka iritsiro shimashiri  irotaki iritsiro okaakini irotaki itsipatakari pairani. Tsimaatsi okaratsi mava iritsiro naviri iroñaaka.</sentence>
+        <sentence lang="es">Ahora su hermana Hoja de pescado es la hermana cercana con quien se acompaño antes. Tenía tres hermanas el hombre transformador.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.168">
+        <sentence lang="prq">Shimashiri, oka misha poña, sabori ari okaratsi mava.  Iritsiropiro okakinipiro irotaki  shimashiri, okaratsi otsomontetakiri iriniro.</sentence>
+        <sentence lang="es">Hoja de pescado, lopuna y la espina eso eran los tres la más cercana era Hoja de pescado con lo que estuvieron en el vientre de su madre.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
