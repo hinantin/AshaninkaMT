@@ -956,4 +956,16 @@ year={2011},
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.158">
+        <sentence lang="prq">iñaatsiro pashini iroñaaka iritsiro, irotaki impasatavakiromi, irotaki  impasatavakiromi, aataki irori intatsikironta irori.</sentence>
+        <sentence lang="es">Vio a la otra ahora era la hermana, casi lo golpean, casi lo golpean; llego a cruzar a la otra banda del rio ella también.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.159">
+        <sentence lang="prq">okantaranki jaranki totsiraakinta,  ari   aatakiri intatsikironta. Ari isaikapaaki iroñaaka naviriritatsirira.</sentence>
+        <sentence lang="es">Como es por allá en Toterani,  allí llego a bandearse al otro lado  ahí se quedo ahora el que iba ser el transformador</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
