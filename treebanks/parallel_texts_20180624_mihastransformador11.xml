@@ -1064,4 +1064,16 @@ year={2011},
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.176">
+        <sentence lang="prq">Arika añiri añiri isaiki inchapontsoki, maaroni ipotsitatsi, intani ikitamarotsi iitokika , iyanini inatsi, ishiyari chompiranki.</sentence>
+        <sentence lang="es">Cuando lo vemos, lo vemos sentado en un tronco, todo su cuerpo es negro, solamente es blanco en su cabeza, es pequeño como el guindillo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.177">
+        <sentence lang="prq">Iroo okantapintsiri inaayeni airo paminiri pipaitanakikari, ¡omapiro! aka,aka, kitamarotyonkini.</sentence>
+        <sentence lang="es">Eso lo que decía mi difunta madre no le vas a mirar te vas a convertir en canoso ¡es verdad! Aquí, aquí es blanquito.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
