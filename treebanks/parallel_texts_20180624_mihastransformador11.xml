@@ -1004,4 +1004,10 @@ year={2011},
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.166">
+        <sentence lang="prq">Poña ikantsiro iroñaaka iritsiro ñaakiro Chooki amatakiri iroñaaka, atsonkatakiri apiraatakiri.</sentence>
+        <sentence lang="es">Luego le dijo ahora a su hermana has visto hermana hemos logrado terminar lo terminamos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
