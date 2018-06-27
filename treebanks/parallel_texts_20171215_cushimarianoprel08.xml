@@ -16504,7 +16504,8 @@ mantsiyare	[=mantsiya][VRoot][=to.be.sick (ES: enfermar(se))][--][-re+m.][NS][+N
     </text>
     <text id="688">
         <!-- Iyataeyeni irianipaye yotaantsinpankoki riyotantyaari. -->
-        <sentence lang="prq">Iyataeyeni irianipaye yotaantsipankoki riyotantyaari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iyataeyeni irianipaye yotaantsipankoki riyotantyaari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iyataeyeni irianipaye yotaantsipankoki riyotantyaari.</sentence>
         <sentence lang="es">Los alumnos se van a la escuela para aprender.</sentence>
         <morphology>
 
