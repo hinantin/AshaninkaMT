@@ -16532,7 +16532,7 @@ Examples from other sources
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ashi Anyane</sentence>
         <sentence lang="es">Nuestra voz</sentence>
         <sentence lang="en">Our voice</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 ashi	[=ashi][PrnPoss][+1PL]
 
@@ -16540,9 +16540,10 @@ añane	[a-][NPers][1PL.poss+][--][=nya+n.m.+inal@ntsi.+poss@ne.][NRoot][=word (E
 </morphology>
     </text>
     <text id="EOS2">
-        <sentence lang="prq">Apinka yareeta antamimashiki</sentence>
+        <sentence lang="prq" normalizationlevel="none">Apinka yareeta antamimashiki</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Apinka yareeta antamimashiki</sentence>
         <sentence lang="es">Los incas llegan a la selva</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
 apinka	[=apinka][NRoot][=Inca.person/people]
