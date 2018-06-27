@@ -992,4 +992,16 @@ year={2011},
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="1.164">
+        <sentence lang="prq">iroo iviravitaka niyanki ankante iroo  yaatsimatantyari  ikantakotsimaintari tarook itsonkakiri ivinkakiri.</sentence>
+        <sentence lang="es">Cuando ya estaban por el medio digamos que ya van a llegar a la otra banda volteó al puente tarook acabó de hacerles ahogar a todos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.165">
+        <sentence lang="prq">Maatsi aparoni kooya motyaanto  jainaite irotaki avisakotaatsiri.  Aataji oyotsiro amaatsi, pashinipaye tsonkataka ikamaki.</sentence>
+        <sentence lang="es">Había una mujer embarazada del hombre que come carne humana, ella es la que se salvó, logró llegar a la orilla nadando. Ella sabía nadar los demás se acabaron de morir.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
