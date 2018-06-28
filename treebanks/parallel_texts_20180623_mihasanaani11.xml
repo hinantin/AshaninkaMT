@@ -923,4 +923,28 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="4.9">
+        <sentence lang="prq">Opoñaaka aparoni kitaiteri aminakotero nampitsi opaita Villa Progreso.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="4.10">
+        <sentence lang="prq">Ari otzimi otzishi.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="4.11">
+        <sentence lang="prq">Iroñaaka tzimatsi aparoni atziri ipaita Naviriri.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="4.12">
+        <sentence lang="prq">Irotaki intetzimatya kashiri, ikantakiri Naviriri iraniri [Tsiyarato].</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
