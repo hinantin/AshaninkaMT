@@ -899,4 +899,22 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="4.5">
+        <sentence lang="prq">Ari antarotanaki parenini paitanajachari Pirinini.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="4.6">
+        <sentence lang="prq">Pairani ovakera ivitsikanakiro Pava kipatsi.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="4.7">
+        <sentence lang="prq"> Ipyaa tzimiri atziryaaniki.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
