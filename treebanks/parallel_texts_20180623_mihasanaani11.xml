@@ -871,31 +871,31 @@ SAV0608737
     </text>
     <text id="4.0">
         <sentence lang="prq">PARENINI</sentence>
-        <sentence lang=""/>
+        <sentence lang="es">EL RÍO PARENINI</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="4.1">
         <sentence lang="prq">Iroñaaka tsame kapicheeni ayotavakero okaratzi pikovakotanari.</sentence>
-        <sentence lang=""/>
+        <sentence lang="es">Hoy vamos un poco aprender de lo que me pides.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="4.2">
         <sentence lang="prq">Pisankinatakotero okaratzi.</sentence>
-        <sentence lang=""/>
+        <sentence lang="es">Escríbelo todo.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="4.3">
         <sentence lang="prq">Nosaikajetzi aka, tzimatsi parenini akantziri shintajairi okaakini.</sentence>
-        <sentence lang=""/>
+        <sentence lang="es">Vivimos aquí, hay el río lo que decimos que está cerca de nosotros.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="4.4">
         <sentence lang="prq">Opoñaanaka otzimantanakari aatatapakara nijaa Tzivyaarini, aajatzi Santsa.</sentence>
-        <sentence lang=""/>
+        <sentence lang="es">Después hay otro que desemboca, el río de Sal (Paucartambo) y Chanchamayo.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
@@ -1021,6 +1021,12 @@ SAV0608737
     </text>
     <text id="4.25">
         <sentence lang="prq">Iroñaaka yaminavaitzi paita ivyaari.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="4.26">
+        <sentence lang="prq">Aririka pinintzi piñeero, ari pishiyakantapaintero, piñaantyaarori otzishi omontero pueblo (nampitsi) opaita Villa Progreso.</sentence>
         <sentence lang=""/>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
