@@ -804,13 +804,19 @@ SAV0608737
         <parsing format="" analysislevel=""/>
     </text>
     <text id="3.3">
-        <sentence lang="prq">3Ari ipokiri antaripaye meanto, yaapiro osheki otyaaki.</sentence>
+        <sentence lang="prq">Ari ipokiri antaripaye meanto, yaapiro osheki otyaaki.</sentence>
         <sentence lang=""/>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="3.4">
         <sentence lang="prq">Ikantarika ijatzi ikintziri, inintakotziri ishivanki, yayeri aparoni ishimpo, aajatzi itsanoiriki.</sentence>
+        <sentence lang="es"/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.5">
+        <sentence lang="prq">Okantarika aparoni kitaiteri isamakari, ivakiri aparoni, irirotaima iriri, pashini ikantashita.</sentence>
         <sentence lang=""/>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
