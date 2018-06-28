@@ -887,4 +887,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="4.3">
+        <sentence lang="prq">Nosaikajetzi aka, tzimatsi parenini akantziri shintajairi okaakini.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="4.4">
+        <sentence lang="prq">Opoñaanaka otzimantanakari aatatapakara nijaa Tzivyaarini, aajatzi Santsa.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
