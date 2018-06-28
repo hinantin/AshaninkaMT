@@ -787,25 +787,25 @@ SAV0608737
     </text>
     <text id="3.0">
         <sentence lang="prq">MEANTARINI</sentence>
-        <sentence lang=""/>
+        <sentence lang="es">EL RÍO MEANTARINI</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="3.1">
         <sentence lang="prq">Pairani nochariniteni ipaitziro nijaa Meantarini.</sentence>
-        <sentence lang=""/>
+        <sentence lang="es">Antiguamente mis abuelos pusieron un nombre río Meantarini. </sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="3.2">
         <sentence lang="prq">Opaita Meantari okimita iroñaaka osarentsinkatanaji ari otyaakitziri kavana inchato antaropaye.</sentence>
-        <sentence lang=""/>
+        <sentence lang="es">Se llama Meantari porque cuando empieza el verano, la flor de catahua empieza a florear.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="3.3">
         <sentence lang="prq">Ari ipokiri antaripaye meanto, yaapiro osheki otyaaki.</sentence>
-        <sentence lang=""/>
+        <sentence lang="es">Luego llegan papagayos, les gusta comer las flores mucho.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
@@ -835,6 +835,36 @@ SAV0608737
     </text>
     <text id="3.8">
         <sentence lang="prq">Ikantakiri: “Aani, novaki aparoni, te ishiyari pashinipaye.”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.9">
+        <sentence lang="prq">“Ari piyoterori iroñaaka.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.10">
+        <sentence lang="prq">Iroñaaka ari nokantavitakami, airo pipiyapiyatashitari, isamakami.”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.11">
+        <sentence lang="prq">Nijaa apaitero Meantarini, tzimatsi pashinipaye nijaa anta opoñaanaka.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.12">
+        <sentence lang="prq">Otzimanaki paitachari Kamonashiki, Jañari.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.13">
+        <sentence lang="prq">Noyotziro kapicheeni, nokimavajiro inani, apaini, aanini, kamajatzirini.</sentence>
         <sentence lang=""/>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
