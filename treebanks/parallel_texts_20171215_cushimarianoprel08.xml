@@ -16420,6 +16420,7 @@ hantari	[=hantari+n.m.][NRoot][=timber.tree.sp. (ES: árbol.(maderable), cedro; 
         <sentence lang="prq" normalizationlevel="none">Osheki yoosara aririka ojarentsite</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Osheki yoosara aririka oharentsite</sentence>
         <sentence lang="es">La mantablanca abunda en tiempo de verano.</sentence>
+        <sentence lang="en">The mantablanca-fly is abundant when it is summer.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -16429,8 +16430,7 @@ yoosara	[=yoosara+m.][NRoot][=fly.sp. (ES: manta.blanca)]
 
 aririka	[=ari][PostPol][=PP][--][=rika][+COND]::[=when (temporal.simultaneity), if (expresses.possible.condition)]
 
-???
-oharentsite	[o-][NPers][3n.m.poss+][--][=harentsi+m.][NRoot][=year (ES: año); dry.season/summer (ES: verano)][--][-i^te][DEGR][+AUG]te
+oharentsite	[o-][VPers][3n.m.S/A+][--][=harentsi+m.][NRoot][=year (ES: año); dry.season/summer (ES: verano)]::[=to.be.summer]+vbz.[--][-t][+EP]t[--][-e+fut.][+IRR]e
 
 .	.[$.]
 
@@ -16441,6 +16441,7 @@ oharentsite	[o-][NPers][3n.m.poss+][--][=harentsi+m.][NRoot][=year (ES: año); d
         <sentence lang="prq" normalizationlevel="none">Noyometaemi panteri aririka piyaatake jantariki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Noyometaemi panteri aririka piyaatake hantariki.</sentence>
         <sentence lang="es">Te voy a instruir qué hacer cuando vayas a sacar madera.</sentence>
+        <sentence lang="en">I will teach you what to do when you go to hantari-timber-trees.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -16463,6 +16464,7 @@ hantariki	[=hantari+n.m.][NRoot][=timber.tree.sp. (ES: árbol.(maderable), cedro
         <sentence lang="prq" normalizationlevel="none">Otimatye piyote pijankenate pibaero.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Otimatye piyote pihankenate pivaero.</sentence>
         <sentence lang="es">Tienes que saber escribir tu nombre.</sentence>
+        <sentence lang="en">You have to know how to write your name.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -16483,6 +16485,7 @@ pivaero	[pi-][NPers][2poss+][--][=vaero+n.m.+inal@ntsi.][NRoot][=name (ES: nombr
         <sentence lang="prq" normalizationlevel="none">Otimatye piyotero inchashi aabintantatsiri pamitakotantyaariri mantsiyare.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Otimatye piyotero inchashi aavintantatsiri pamitakotantyaariri mantsiyare.</sentence>
         <sentence lang="es">Tienes que conocer las plantas curativas para ayudar a los enfermos.</sentence>
+        <sentence lang="en">You have to know the medicinal plants in order for you to help the sick.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
