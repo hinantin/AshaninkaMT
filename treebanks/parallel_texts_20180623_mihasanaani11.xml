@@ -912,7 +912,13 @@ SAV0608737
         <parsing format="" analysislevel=""/>
     </text>
     <text id="4.7">
-        <sentence lang="prq"> Ipyaa tzimiri atziryaaniki.</sentence>
+        <sentence lang="prq">Ipyaa tzimiri atziryaaniki.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="4.8">
+        <sentence lang="prq">Aparoni atziri ipaita Naviriri osheki ipyaantzi tsikapaita inintakari, airorika ikimisantaitziri.</sentence>
         <sentence lang=""/>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
