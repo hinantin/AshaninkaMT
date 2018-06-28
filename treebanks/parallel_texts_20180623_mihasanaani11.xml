@@ -785,4 +785,34 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="3.0">
+        <sentence lang="prq">MEANTARINI</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.1">
+        <sentence lang="prq">Pairani nochariniteni ipaitziro nijaa Meantarini.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.2">
+        <sentence lang="prq">Opaita Meantari okimita iroñaaka osarentsinkatanaji ari otyaakitziri kavana inchato antaropaye.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.3">
+        <sentence lang="prq">3Ari ipokiri antaripaye meanto, yaapiro osheki otyaaki.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.4">
+        <sentence lang="prq">Ikantarika ijatzi ikintziri, inintakotziri ishivanki, yayeri aparoni ishimpo, aajatzi itsanoiriki.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
