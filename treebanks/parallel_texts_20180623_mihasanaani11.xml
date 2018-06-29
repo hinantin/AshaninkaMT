@@ -1091,4 +1091,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="5.10">
+        <sentence lang="prq">Onkisotanakerika ovira, osaikajete onkisotanakerika, irotaki ivavanitari yamaniri.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.11">
+        <sentence lang="prq">Ari ikanta pairani noshaninkapaye ivavanitari irosatzita ovirapaka, irosatzi ipokantaka aparoni amakerori ñaantsi.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
