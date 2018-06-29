@@ -1229,4 +1229,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.33">
+        <sentence lang="prq">Tekatsi iriyote, ari okanta ovakerani, ikyaantapaka como isaiki, aajatzi, irora, tsika okantaitziroka, niri intanakarori, naari.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.34">
+        <sentence lang="prq">Como osaikatzika compañia te ishinitero ante avanipaye intatzikero, te ishinitero  ante avaani ampankite parentsi, kaniri avantyari, itsañaakaro.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
