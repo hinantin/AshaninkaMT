@@ -925,37 +925,37 @@ SAV0608737
     </text>
     <text id="4.9">
         <sentence lang="prq">Opoñaaka aparoni kitaiteri aminakotero nampitsi opaita Villa Progreso.</sentence>
-        <sentence lang=""/>
+        <sentence lang="es"/>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="4.10">
         <sentence lang="prq">Ari otzimi otzishi.</sentence>
-        <sentence lang=""/>
+        <sentence lang="es">Hay un cerro.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="4.11">
         <sentence lang="prq">Iroñaaka tzimatsi aparoni atziri ipaita Naviriri.</sentence>
-        <sentence lang=""/>
+        <sentence lang="es">Hay una persona llamada Naviriri.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="4.12">
         <sentence lang="prq">Irotaki intetzimatya kashiri, ikantakiri Naviriri iraniri [Tsiyarato].</sentence>
-        <sentence lang=""/>
+        <sentence lang="es">Cuando la luna estaba por llenarse, le dijo a su cuñado [Tsiyarato].</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="4.13">
         <sentence lang="prq">“Tsame aipitsokatero parenini, okinanajita Chuchuraski.”</sentence>
-        <sentence lang=""/>
+        <sentence lang="es">“Vamos a desviar el río Parenini para que vaya a Chuchuras.”</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="4.14">
         <sentence lang="prq">Yaajetaki antaro mapi.</sentence>
-        <sentence lang=""/>
+        <sentence lang="es">Escogieron piedras largas.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
