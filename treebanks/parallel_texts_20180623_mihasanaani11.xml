@@ -1193,4 +1193,28 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.27">
+        <sentence lang="prq">Noshaninkapaye ipoñaashitanaka yaminakiro, tekatsi nijaa, tsame ajataje aka, ankaavaitapajyata kimita pareniki.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.28">
+        <sentence lang="prq">Oirinkajetaka, ari osaikapakiri misión intatzikeronta, ikantaitziro Kemariani.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.29">
+        <sentence lang="prq">Ari osaikakiri misión, ari ipoñaanakari iyotantajari noshaninkapaye kapicheeni, ari okantari ovakerani intanakarori aka, ipokakira pishaninka amakirori ñaantsi.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.30">
+        <sentence lang="prq">Amakirori ñaantsi, ikanta iyotantajari, noshaninkapaye ovakerani te iyote iñaanate, te iriyotero isankinate.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
