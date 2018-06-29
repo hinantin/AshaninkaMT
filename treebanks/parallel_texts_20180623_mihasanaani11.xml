@@ -1445,4 +1445,28 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.69">
+        <sentence lang="prq">Tekatsite saikatsini.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.70">
+        <sentence lang="prq">Opokajetapaki, tzimatsi aparoni sheripyari.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.71">
+        <sentence lang="prq">Ikantzi paitaranki, imaaki imishitakiri, iñaakiri aka, ari isaikiri tzimatsi iriniro maranki, iriniro manitzi, iriniro kamaari.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.72">
+        <sentence lang="prq">“Tsame averi!”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
