@@ -1319,4 +1319,22 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.48">
+        <sentence lang="prq">Akitsari aroka akirikajetatsini antajetzi noshaninkapaye, nuestra abuela (nosaro) ovametakero eentsipaye okirikairo, antzi kitsaarentsi.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.49">
+        <sentence lang="prq">Irotaki okitsajetari, te oninte okitsatyaariri irashi virakochapaye kitamarantzi.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.50">
+        <sentence lang="prq">Ari okantari ovakerani aka.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
