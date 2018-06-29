@@ -1061,4 +1061,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="5.5">
+        <sentence lang="prq">Tzimatsi iyotziri ivavani yoimoshirinkiri, yamaniri ikimoshirivintziri, iritaki ovavisakojetziriri, iritaki opairi avaari.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
