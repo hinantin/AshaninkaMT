@@ -1361,4 +1361,52 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.55">
+        <sentence lang="prq">Ari ivetsikirori pairani pankinkaripaye, ari isaikiri aka.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.56">
+        <sentence lang="prq">Ari okantari ovakerani aka, osaikantakari irojatzi impokantakya pastor.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.57">
+        <sentence lang="prq">Ari yookanakiro yantavaitzi como iñaavakeri virakochapaye.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.58">
+        <sentence lang="prq">Iyotanakiro yantavaijetzi ipankitapakira compañia, okyaapakira compañia.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.59">
+        <sentence lang="prq">Opankitakantaki café osheki, aritaki ijatzi yantavaitzi noshaninkapae como esclavos.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.60">
+        <sentence lang="prq">Ari ikantari hasta okyaantapakya compañia.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.61">
+        <sentence lang="prq">Ari otsonkapakari.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.62">
+        <sentence lang="prq">Tekatsi ya cada uno antavaitanaki ivanikipaye irirori.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
