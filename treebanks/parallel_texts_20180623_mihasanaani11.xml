@@ -1409,4 +1409,34 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.63">
+        <sentence lang="prq">Ari okantari ovakerani asaiki aka.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.64">
+        <sentence lang="prq">Noshaninkapaye te ayoteri virakocha.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.65">
+        <sentence lang="prq">Ivavanitari nokantakemiri inkaranki mapi, paamari, irotaki ivavanitari.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.66">
+        <sentence lang="prq">Te ayote añaanate, te ayote asankinate.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.67">
+        <sentence lang="prq">Ari okantari ovakerani aka ikyaantapakari ovakerani aka Marankiaroki.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
