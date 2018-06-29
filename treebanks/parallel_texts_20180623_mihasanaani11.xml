@@ -1181,4 +1181,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.25">
+        <sentence lang="prq">Cuando okaratzi ashaninka pokaintsiri, yaminakero, isaikajetapaki Metaroki.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.26">
+        <sentence lang="prq">Ari osaikakeri misión yantakantakiri pastor.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
