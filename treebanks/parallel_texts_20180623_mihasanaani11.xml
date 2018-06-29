@@ -1217,4 +1217,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.31">
+        <sentence lang="prq">Te iyote iñaavaite castellano, te inkimeri virakocha iñaavaite, añaanatziri añaaniki.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
