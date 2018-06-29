@@ -1127,4 +1127,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.16">
+        <sentence lang="prq">Ipokaki, ikemakovintakiri: “Ariitaka Pava.”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.17">
+        <sentence lang="prq">Iritaki amakirori aparoni kitamarantzipaye pishaninkapaye ipaita pastor Fernando Estar.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
