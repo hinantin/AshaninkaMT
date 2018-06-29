@@ -1079,4 +1079,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="5.8">
+        <sentence lang="prq">Pokatsi osheki ivankaripaye, ivankaropaye, ari okantari ovakerani aka.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="5.9">
+        <sentence lang="prq">Aajatzi ivavanitari paamari, yaakerorika paamanto tsitsi, yshiyakakoventakerorika samampo.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
