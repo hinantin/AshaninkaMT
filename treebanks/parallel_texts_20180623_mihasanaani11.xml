@@ -1139,4 +1139,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.18">
+        <sentence lang="prq">Amakirori ñaantsi, aka osaikantakari okanta, ayotantajari kapichiini añaanavaitzi.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.19">
+        <sentence lang="prq">Imapokapakiri, ipokakira osheki ashaninka, ahora ipokapaki ikinkitsakapakiri, yaminapakiri oshekini ashaninka.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
