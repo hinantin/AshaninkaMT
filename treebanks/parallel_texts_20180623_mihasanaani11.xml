@@ -1337,4 +1337,28 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.51">
+        <sentence lang="prq">Ari ipiyotari yantavaijetzi aka, ikantziri noñaaniki „ipankyajeta‟.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.52">
+        <sentence lang="prq">Pankinkaripaye evankaripaye yantavajetzi, te iriñeero kooya, te iyotero imayempitero kooya.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.53">
+        <sentence lang="prq">Evankaropaye te oñeeri shiramparipaye.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.54">
+        <sentence lang="prq">Irotaki antavaijetatzi, ipoña aka ikantaitziro Ashiropanko.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
