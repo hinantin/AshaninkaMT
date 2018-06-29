@@ -996,38 +996,38 @@ SAV0608737
         <parsing format="" analysislevel=""/>
     </text>
     <text id="4.21">
-        <sentence lang="prq"> “Añaakero iroñaaka.”</sentence>
-        <sentence lang=""/>
+        <sentence lang="prq">“Añaakero iroñaaka.”</sentence>
+        <sentence lang="es">[Dijo:]“Hemos visto ahora.”</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="4.22">
         <sentence lang="prq">Ookanakiro otzishi.</sentence>
-        <sentence lang=""/>
+        <sentence lang="es">Dejó el cerro.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="4.23">
         <sentence lang="prq">Iroñaaka Pava kisanaka osheki.</sentence>
-        <sentence lang=""/>
+        <sentence lang="es">El Dios se molestó mucho.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="4.24">
         <sentence lang="prq">Ipyaanakiri maniro Naviriri, ipyaanakiri Tsiyarato tsimiri.</sentence>
-        <sentence lang=""/>
+        <sentence lang="es">Convirtió a Naviriri en venado y a Tsiyarato en pajarito.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="4.25">
         <sentence lang="prq">Iroñaaka yaminavaitzi paita ivyaari.</sentence>
-        <sentence lang=""/>
+        <sentence lang="es">Ahora están buscando algo de comer.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="4.26">
         <sentence lang="prq">Aririka pinintzi piñeero, ari pishiyakantapaintero, piñaantyaarori otzishi omontero pueblo (nampitsi) opaita Villa Progreso.</sentence>
-        <sentence lang=""/>
+        <sentence lang="es">Si quieres verlo, vas a tomar una foto; conózcalo el cerro al frente del pueblo llamado Villa Progreso.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
