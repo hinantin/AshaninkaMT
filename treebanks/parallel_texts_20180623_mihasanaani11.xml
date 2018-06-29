@@ -1109,4 +1109,22 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.13">
+        <sentence lang="prq">Ikimakovintakiro ariitapaka kinkitsarentsi irirori ikantajetziri: “Pava inatzi.”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.14">
+        <sentence lang="prq">Ariitaka, iritaki amanapintziri, iroñaaka koñaataki Pava, yamakiro tasorinkantsi, yamakiro iritaki ovavisakotajaini.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.15">
+        <sentence lang="prq">Ikaimanakiri maaroni ishaninkapaye, kirinka pokayetaintsiri, irotaki ishekitantari atziri pairani aka.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
