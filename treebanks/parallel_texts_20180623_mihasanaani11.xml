@@ -1031,4 +1031,34 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="5.0">
+        <sentence lang="prq">ASANKINATAKOTERI NOKANTA NOSAIKANTAKARI MARANKIAROKI</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="5.1">
+        <sentence lang="prq">Naaka nonkinkitsatemi nokanta ovakera nosaikantapaka.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="5.2">
+        <sentence lang="prq">Noshaninkapayeka opoñaantanakari nosaikantakari aka okanta añaantakaroni, ovakerani asaikantajari noshaninkapaye te iyote iñaanate, te iyote isankinate.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="5.3">
+        <sentence lang="prq">Tzimatsi aparoni yoimoshirinkaitziri, irotaki te iyoteri pava, ivavanitari tzimatsi irora paitachari mapi, iritaki ivavanitari, iritaki yamaneri ipaita Yompiri.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="5.4">
+        <sentence lang="prq">Yamaniri noshaninkapaye, ovakerani isaiki aka, ikantziri, te iyote iñaanajete, isankinate.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
