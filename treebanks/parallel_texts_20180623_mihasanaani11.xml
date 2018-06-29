@@ -1439,4 +1439,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.68">
+        <sentence lang="prq">Tekatsi atziri porque aka inampi maranki, inampi kamaari, inampi manitzi.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
