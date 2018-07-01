@@ -13,5 +13,5 @@ $ echo "grass" | lt-proc en-cni.bin
 ### Installing Freeling 
 
 ```
-$ 
+$ git clone 
 ```
