@@ -14,5 +14,6 @@ $ echo "grass" | lt-proc en-cni.bin
 
 ```
 $ git clone https://github.com/TALP-UPC/FreeLing
+$ cd Freeling 
 
 ```
