@@ -21,6 +21,15 @@ $ echo "grass" | lt-proc en-cni.bin
 ^grass/*grass$
 ```
 
+#### Installing MATXIN
+
+```
+$ wget https://github.com/hinantin/squoia/blob/master/MT_systems/matxin-lex/squoia_xfer_lex.cc
+$ g++ -std=gnu++0x -c -o squoia_xfer_lex.o squoia_xfer_lex.cc -I/usr/local/include/lttoolbox-3.3 -I/usr/local/lib/lttoolbox-3.3/include -I/usr/include/libxml2
+$ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib
+$ g++ -O3 -Wall -o squoia_xfer_lex squoia_xfer_lex.o -L/usr/local/lib -llttoolbox3 -lxml2 -lpcre
+```
+
 #### Installing Freeling 
 
 ```
