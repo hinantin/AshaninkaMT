@@ -6,6 +6,7 @@ https://sourceforge.net/projects/apertium/files/lttoolbox/
 
 
 ```
+$ wget https://razaoinfo.dl.sourceforge.net/project/apertium/lttoolbox/3.3/lttoolbox-3.3.3.tar.gz
 $ lt-comp lr en-cni.dix en-cni.bin
 $ echo "grass" | lt-proc en-cni.bin
 ^grass/*grass$
