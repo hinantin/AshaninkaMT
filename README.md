@@ -76,4 +76,5 @@ Running the service
 $ sudo cp tcpServerAnalyze /etc/init.d
 $ sudo chmod +x /etc/init.d/tcpServerAnalyze
 $ sudo update-rc.d tcpServerAnalyze defaults
+$ sudo etc/init.d/tcpServerAnalyze start 
 ```
