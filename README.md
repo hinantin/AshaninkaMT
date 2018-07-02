@@ -41,3 +41,29 @@ $ sudo apt-get install libboost-iostreams-dev
 $ cd Freeling 
 
 ```
+
+### Parsing 
+
+```
+$ export FREELINGSHARE=/usr/local/share/freeling
+$ analyzer -f /usr/local/share/freeling/config/en.cfg --server --port 50005
+SERVER: Analyzers loaded.
+
+Launched server 1915 at port 50005
+
+You can now analyze text with the following command:
+  - From this computer: 
+      analyzer_client 50005 <input.txt >output.txt
+      analyzer_client localhost:50005 <input.txt >output.txt
+  - From any other computer: 
+      analyzer_client ip-172-31-10-215:50005 <input.txt >output.txt
+
+Stop the server with: 
+      analyze stop 1915
+
+SERVER.DISPATCHER: Waiting for a free worker slot
+SERVER.DISPATCHER: Waiting connections
+SERVER.DISPATCHER: Connection established. Forked worker 1967.
+SERVER.DISPATCHER: Waiting for a free worker slot
+
+```
