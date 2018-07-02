@@ -20,7 +20,7 @@ printf "$1" > $INPUT
 
 # cat $OUTPUT
 
-perl conll2xml.pm $OUTPUT | /home/richard/Documents/squoia/MT_systems/bin/squoia-xfer-lex en-cni.bin
+perl conll2xml.pm $OUTPUT | /home/richard/Documents/squoia/MT_systems/bin/squoia_xfer_lex en-cni.bin
 
 
 

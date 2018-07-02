@@ -20,7 +20,7 @@ user="root"
 cmd="analyze -f $CONFIG/en.cfg --server --port 50005"
 
 #name=`basename $0`
-name="tcpserverspellcheck"
+name="tcpserServerAnalyze"
 pid_file="/var/run/$name.pid"
 stdout_log="/var/log/$name.log"
 stderr_log="/var/log/$name.err"
