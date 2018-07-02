@@ -78,3 +78,10 @@ $ sudo chmod +x /etc/init.d/tcpServerAnalyze
 $ sudo update-rc.d tcpServerAnalyze defaults
 $ sudo etc/init.d/tcpServerAnalyze start 
 ```
+
+XML support
+
+```
+$  sudo apt-get install libxml-libxml-perl 
+```
+
