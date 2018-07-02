@@ -44,6 +44,8 @@ $ cd Freeling
 
 ### Parsing 
 
+Testing
+
 ```
 $ export FREELINGSHARE=/usr/local/share/freeling
 $ analyzer -f /usr/local/share/freeling/config/en.cfg --server --port 50005
@@ -66,4 +68,12 @@ SERVER.DISPATCHER: Waiting connections
 SERVER.DISPATCHER: Connection established. Forked worker 1967.
 SERVER.DISPATCHER: Waiting for a free worker slot
 
+```
+
+Running the service
+
+```
+$ sudo cp tcpServerAnalyze /etc/init.d
+$ sudo chmod +x /etc/init.d/tcpServerAnalyze
+$ sudo update-rc.d tcpServerAnalyze defaults
 ```
