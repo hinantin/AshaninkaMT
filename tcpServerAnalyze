@@ -17,7 +17,7 @@ dir="/usr/local/bin"
 dictPath="/usr/share/squoia/"
 user="root"
 
-cmd="analyze -f $CONFIG/en.cfg --server --port 50005 --outlv dep --output conll"
+cmd="analyze -f $CONFIG/en.cfg --server --port 50005"
 
 #name=`basename $0`
 name="tcpserverspellcheck"
