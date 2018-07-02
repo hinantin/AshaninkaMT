@@ -14,7 +14,7 @@ rm -f $INPUT $OUTPUT
 
 printf "$1" > $INPUT
 
-/usr/local/bin/analyzer -f $CONFIG/en.cfg --outlv dep --output conll <$INPUT >$OUTPUT
+/usr/local/bin/analyzer_client localhost:50005 <$INPUT >$OUTPUT
 
 #/usr/local/bin/analyzer_client
 
