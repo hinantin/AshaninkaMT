@@ -66,6 +66,18 @@ ikaratsi	[i-][VPers][3m.S/A+][--][=kara][VRoot][=COP.CAP (EN: the.amount,, to.be
 
 apite	[=apite][NumeralPRQ][=two]
 
+irishinto	[ir-][NPers][3m.poss+][--][=ishinto+n.m.][NRoot][=daughter (kin.of.a.fe/male)]
+
+apite	[=apite][NumeralPRQ][=two]
+
+itomi	[i-][NPers][3m.poss+][--][=tomi+m.+inal@tsi.][NRoot][=son (kin.of.a.fe/male)]
+
+,	,[$.]
+
+ironyaaka	[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+maatsi	[=maatsi][VRoot][=EXIST (EN: there.is/are); POSSESS (EN: has)]
+
 
 </morphology>
         <parsing format="" analysislevel=""/>
