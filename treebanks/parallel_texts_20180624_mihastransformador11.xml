@@ -57,7 +57,7 @@ pairani	[=pairani][AdvRoot][=since; before; long.ago]
     </text>
     <text id="1.2">
         <sentence lang="prq" normalizationlevel="none">Ikaratsi apite irishinto apite itomi, iroñaaka maatsi irishinto jevatatsiri, kimotataki,</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikaratsi apite irishinto apite itomi, ironyaaka maatsi irishinto hevatatsiri, kimotataki,</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikaratsi apite irishinto apite itomi, ironyaaka maatsi irishinto hevatatsiri, r,</sentence>
         <sentence lang="es">Tenía  dos hijas  y dos  hijos, ahora  tenia  una hija que era la mayor ya era grandecita</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
@@ -78,14 +78,29 @@ ironyaaka	[=ironyaaka][AdvRoot][=now (ES: ahora)]
 
 maatsi	[=maatsi][VRoot][=EXIST (EN: there.is/are); POSSESS (EN: has)]
 
+irishinto	[ir-][NPers][3m.poss+][--][=ishinto+n.m.][NRoot][=daughter (kin.of.a.fe/male)]
+
+hevatatsiri	[=heva][VRoot][=to.lead][--][-t][+EP]t[--][-atsi][Asp][+STAT.IPRF]atsi[--][=ri][NS][+REL]
+
+,	,[$.]
+
+kimotataki	[=kimota][VRoot][=to.grow.in.size/volume (ES: crecer)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-i+n.fut.][+REAL]i
+
+,	,[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.3">
-        <sentence lang="prq">Tsimayetaki otsomi, akantsiri añaaniki nivintaka, otsipàtari oyariri isaikashitakairo</sentence>
+        <sentence lang="prq" normalizationlevel="none">Tsimayetaki otsomi, akantsiri añaaniki nivintaka, otsipàtari oyariri isaikashitakairo</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Tsimayetaki otsomi, akantsiri añaaniki nivintaka, otsipàtari oyariri isaikashitakairo</sentence>
         <sentence lang="es">Ya tenia senos, lo que decimos en nuestro idioma, ya está lista para ser madre, acompañado de su hermano</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.4">
