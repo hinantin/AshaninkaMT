@@ -11,7 +11,16 @@ year={2011},
     <text id="1.0">
         <sentence lang="prq">IKANTAKOTA  ITSIMANTAKARI  NAVIRIRI</sentence>
         <sentence lang="es">HISTORIA  NACIMIENTO DEL HOMBRE TRANSFORMADOR</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ikantakota	[i-][VPers][3m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-ako][VS][+APPL.GEN][=GEN: with.reference.to.sth., about.sth.; INDR: action.affects.sth.in.an.indirect.manner]ako[--][-t][+EP]t[--][-a+n.fut.][+REAL]a
+
+itsimantakari	[i-][VPers][3m.S/A+][--][=tsim][VRoot][=POSSESS (EN: to.have; ES: tener)][--][-ant][+APPL.INST][=reason,instrumentality;in.order.to]ant[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a+n.fut.][+REAL]a[--][=ri][+3m.O]
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.1">
