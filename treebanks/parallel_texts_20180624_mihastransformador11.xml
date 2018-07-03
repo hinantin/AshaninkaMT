@@ -56,9 +56,18 @@ pairani	[=pairani][AdvRoot][=since; before; long.ago]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.2">
-        <sentence lang="prq">Ikaratsi apite irishinto apite itomi, iroñaaka maatsi irishinto jevatatsiri, kimotataki,</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikaratsi apite irishinto apite itomi, iroñaaka maatsi irishinto jevatatsiri, kimotataki,</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikaratsi apite irishinto apite itomi, ironyaaka maatsi irishinto hevatatsiri, kimotataki,</sentence>
         <sentence lang="es">Tenía  dos hijas  y dos  hijos, ahora  tenia  una hija que era la mayor ya era grandecita</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ikaratsi	[i-][VPers][3m.S/A+][--][=kara][VRoot][=COP.CAP (EN: the.amount,, to.be.Nº/#.in.number/quantity_of_sth.)][--][-ts][+EP]ts[--][-i+n.fut.][+REAL]i
+
+apite	[=apite][NumeralPRQ][=two]
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.3">
