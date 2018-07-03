@@ -9,7 +9,8 @@ year={2011},
 -->
 <parallel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="parallel_texts.xsd">
     <text id="1.0">
-        <sentence lang="prq">IKANTAKOTA  ITSIMANTAKARI  NAVIRIRI</sentence>
+        <sentence lang="prq" normalizationlevel="none">IKANTAKOTA  ITSIMANTAKARI  NAVIRIRI</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">IKANTAKOTA  ITSIMANTAKARI  NAVIRIRI</sentence>
         <sentence lang="es">HISTORIA  NACIMIENTO DEL HOMBRE TRANSFORMADOR</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
@@ -25,9 +26,33 @@ naviriri	[=naviriri][NRoot][=person's.name (ES: el.hombre.transformador)]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.1">
-        <sentence lang="prq">Iroñaaka  itsimantakari iyora naviriri, tsimatsi aparoni shirampari pairani.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iroñaaka  itsimantakari iyora naviriri, tsimatsi aparoni shirampari pairani.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ironyaaka  itsimantakari iyora naviriri, tsimatsi aparoni shirampari pairani.</sentence>
         <sentence lang="es">Ahora,  para que acontezca el nacimiento del transformador  o convertidor de personas, había un hombre paisano antes.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ironyaaka	[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+itsimantakari	[i-][VPers][3m.S/A+][--][=tsim][VRoot][=POSSESS (EN: to.have; ES: tener); EXIST (EN: to.be.born, to.exist; ES: nacer)][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a+n.fut.][+REAL.RFL]a[--][=ri][NS][+REL]
+
+iyora	[=iyora+m.+medial][PrnDem][=that]
+
+naviriri	[=naviriri][NRoot][=person's.name (ES: el.hombre.transformador)]
+
+,	,[$.]
+
+tsimatsi	[=tsimatsi][VRoot][=EXIST (EN: there.is/are; ES: hay,, haber); POSSESS]
+
+aparoni	[=aparoni][NumeralPRQ][=one]
+
+shirampari	[=shirampari+m.][NRoot][=man; male (ES: hombre)]
+
+pairani	[=pairani][AdvRoot][=since; before; long.ago]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.2">
