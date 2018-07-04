@@ -1619,4 +1619,22 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="5.98">
+        <sentence lang="prq">Nokantakiri inkaranki, opokakira amakirori ñaantsi, añaantajarori apototaja, tzimanaki anampitsite, saikajetakai aka.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="5.99">
+        <sentence lang="prq">Ari okaratzi.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="6.0">
+        <sentence lang=""/>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
