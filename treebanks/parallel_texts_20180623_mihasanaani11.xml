@@ -1607,4 +1607,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="5.96">
+        <sentence lang="prq">Ari okantari ovakerani aka inampi manitzi, anta otzishinta, ari okantziro imorenkari manitzi.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="5.97">
+        <sentence lang="prq">Morenkaitoni opaita otzishi, ari isaikiri manitzi ipiyotari.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
