@@ -1547,4 +1547,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="5.86">
+        <sentence lang="prq">Iritaki vetsikajiro sheripyaripaye, añaantajarori asaikaji Marankiaroki.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
