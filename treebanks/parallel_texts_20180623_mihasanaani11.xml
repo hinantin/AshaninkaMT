@@ -1553,4 +1553,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="5.87">
+        <sentence lang="prq">Ovakerani osheki maranki, irotaki opaitantari Marankiaro, inampi maranki, antaripaye maranki.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
