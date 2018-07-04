@@ -1529,4 +1529,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="5.83">
+        <sentence lang="prq">Ovakerani arika ijate antamiki atziri, ari impeyari.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="5.84">
+        <sentence lang="prq">Yovakari maranki, yovakari manitzi, yayiri kamaari.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
