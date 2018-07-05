@@ -1638,7 +1638,13 @@ SAV0608737
         <parsing format="" analysislevel=""/>
     </text>
     <text id="6.0">
+        <sentence lang="prq">TZIVI</sentence>
         <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="6.1">
+        <sentence lang="prq">Naaka nonkinkitsatakotero aparoni tzivi pairani ikantanaki nocharine otzimantakari iroñaaka tzivi.</sentence>
         <sentence lang=""/>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
