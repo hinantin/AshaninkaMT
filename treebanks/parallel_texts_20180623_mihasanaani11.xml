@@ -1661,4 +1661,40 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="6.4">
+        <sentence lang="prq">Potonto te oshivaitanitya.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="6.5">
+        <sentence lang="prq">Tzimatsi iroñaaka oyaariri, ikantavitaro: “Chooki, pishivaityatyami, pishitero piyamantsite.”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="6.6">
+        <sentence lang="prq">Oshitavitajya kapicheeni, aajatzi opokapaji.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="6.7">
+        <sentence lang="prq">Poña iri ipashiventakotakaro.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="6.8">
+        <sentence lang="prq">Ikantakiro iroña: “Te piyotero pishivaitya, te nonkovi pisaikimotajena.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="6.9">
+        <sentence lang="prq">Iro kovachari pijate tsika pinintakaro.”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
