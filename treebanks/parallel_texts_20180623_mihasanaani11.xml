@@ -1715,4 +1715,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="6.13">
+        <sentence lang="prq">Omaaki, avisaki, iroñaaka avisakiro opoña amini tsika osaiki anta.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
