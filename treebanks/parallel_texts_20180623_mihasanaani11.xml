@@ -1781,4 +1781,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="6.24">
+        <sentence lang="prq">Katonkonta osaikinta pashininta nijaa Nijaateni, anta oñaapakiro, ari onimotapakirori.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
