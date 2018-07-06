@@ -1843,6 +1843,18 @@ SAV0608737
     </text>
     <text id="7.0">
         <sentence lang="prq">NAVIRIRI PYAANTZINKARI</sentence>
+        <sentence lang="es">NAVIRIRI ÉL QUE TRANSFORMA</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="7.1">
+        <sentence lang="prq">Pairani tzimatsi paitachari Naviriri itsipatari icharini.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="7.2">
+        <sentence lang="prq">Osheki inintziri; tsikarika ijate ikyaanajeri.</sentence>
         <sentence lang=""/>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
