@@ -1639,37 +1639,37 @@ SAV0608737
     </text>
     <text id="6.0">
         <sentence lang="prq">TZIVI</sentence>
-        <sentence lang=""/>
+        <sentence lang="es">LA SAL</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="6.1">
         <sentence lang="prq">Naaka nonkinkitsatakotero aparoni tzivi pairani ikantanaki nocharine otzimantakari iroñaaka tzivi.</sentence>
-        <sentence lang=""/>
+        <sentence lang="es">Yo voy a contarles sobre la sal, antes dijo mi abuelo para que tengamos la sal ahora.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="6.2">
         <sentence lang="prq">Ikantzi tzimatsi aparoni ashaninka, isaiki kirinka apaniroini, isaiki itsipataro iina, irishinto.</sentence>
-        <sentence lang=""/>
+        <sentence lang="es">Dice que había un paisano que vivía adentro solito acompañado de su esposa y su hija.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="6.3">
         <sentence lang="prq">Irora irishinto osheki antziro patsaarontsi.</sentence>
-        <sentence lang=""/>
+        <sentence lang="es">Su hija muchos heridos tenía.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="6.4">
         <sentence lang="prq">Potonto te oshivaitanitya.</sentence>
-        <sentence lang=""/>
+        <sentence lang="es">Le salía moco por la nariz, nunca le gustaba limpiarse.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="6.5">
         <sentence lang="prq">Tzimatsi iroñaaka oyaariri, ikantavitaro: “Chooki, pishivaityatyami, pishitero piyamantsite.”</sentence>
-        <sentence lang=""/>
+        <sentence lang="es">Tenía un hermano, él le decía: “Hermana, límpiate, límpialo tu moco.”</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
@@ -1825,6 +1825,18 @@ SAV0608737
     </text>
     <text id="6.31">
         <sentence lang="prq">Ivankitakiniro oitoki iñiiro, iñiiro, pyaanaka mapi.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="6.32">
+        <sentence lang="prq">Iroñaaka tzivinta irojatzi osaiki panitsa, panitsaki.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="6.33">
+        <sentence lang="prq">Iroña ari okaratapaki oyenkitsari irokave okantakota tzivi.</sentence>
         <sentence lang=""/>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
