@@ -1763,4 +1763,22 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="6.21">
+        <sentence lang="prq">Iñaashirinkakiro yorave yora shimpokipaye, tsitsiriranki, te onimotero osaiki.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="6.22">
+        <sentence lang="prq">Avisanaki iroñaaka irojatzi osaikinta.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="6.23">
+        <sentence lang="prq">Osaiki, osaikera orave ikantaitzironta tzivi.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
