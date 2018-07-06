@@ -1745,4 +1745,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="6.18">
+        <sentence lang="prq">Opampitsatapaintziro maaroni nijaateni, tekatsi.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
