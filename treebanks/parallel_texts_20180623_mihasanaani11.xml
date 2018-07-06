@@ -1849,13 +1849,43 @@ SAV0608737
     </text>
     <text id="7.1">
         <sentence lang="prq">Pairani tzimatsi paitachari Naviriri itsipatari icharini.</sentence>
-        <sentence lang=""/>
+        <sentence lang="es">Hace muchos años había un hombre, llamado Naviriri, con su nieto.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="7.2">
         <sentence lang="prq">Osheki inintziri; tsikarika ijate ikyaanajeri.</sentence>
-        <sentence lang=""/>
+        <sentence lang="es">Quería a su nieto mucho; donde iba, lo cargó.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="7.3">
+        <sentence lang="prq">Ikantziri: “Aani, tsika ipaitaka tsatakotachari inchatoki?‟</sentence>
+        <sentence lang="es">Le pregunta: “Abuelo, ¿cómo se llama lo que está colgando en ese árbol?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="7.4">
+        <sentence lang="prq">Ikantziri: “Koshiri inatzi, piñaapakiri atziri ipyaajetaka.”</sentence>
+        <sentence lang="es">Le dice: “Esos son monos que los vio, que eran personas.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="7.5">
+        <sentence lang="prq">Ikantziri: “Aani, tsika ipaitaka yonta?”</sentence>
+        <sentence lang="es">Le pregunta: “¿Qué cosa es allí?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="7.6">
+        <sentence lang="prq">Ikantziri: “Choori inatzi.”</sentence>
+        <sentence lang="es">Dice: “Ellos son serranos.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="7.7">
+        <sentence lang="prq">Ari ikantaitatyani, ipyaatziri mapi.</sentence>
+        <sentence lang="es">Así eran hombres; los transformó Naviriri en las piedras.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
