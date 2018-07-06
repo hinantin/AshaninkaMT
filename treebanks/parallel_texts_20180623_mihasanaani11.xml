@@ -1751,4 +1751,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="6.19">
+        <sentence lang="prq">Oñii tsika okameetsatzi osaike, avisanaki poña oyaatanakiro irokave nijaaka ikantaitziri Paukartambo, ari okinanakiri.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="6.20">
+        <sentence lang="prq">Ari oponkityaki panitsi katyonkari kapichiini, ari osaikavitapakari, osaikavitapaka kapichiini.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
