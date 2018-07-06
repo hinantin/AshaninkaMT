@@ -1721,4 +1721,28 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="6.14">
+        <sentence lang="prq">Poña ojatapaintzi Nasaratiki, te onimotero.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="6.15">
+        <sentence lang="prq">Piyaka, okinapaki Sotsiki, ojatapajiro parinini, ari iroñaaka Puchariniki, ari otsintapaintari.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="6.16">
+        <sentence lang="prq">Otzimantari iroñaaka kapichiini pochari, katyori.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="6.17">
+        <sentence lang="prq">Avisaki iroñaaka okantapakaro avisakiro ojatapaintzi San Ramonki, Taarimaki.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
