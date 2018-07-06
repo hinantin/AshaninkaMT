@@ -1704,7 +1704,13 @@ SAV0608737
         <parsing format="" analysislevel=""/>
     </text>
     <text id="6.11">
-        <sentence lang="prq"/>
+        <sentence lang="prq">Pokaki, oshitovanaki iroñaaka ivankoki, iri otsipakari oyaariri.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="6.12">
+        <sentence lang="prq">Opokaki oyaatakiro parinini opoñaaka kirinka.</sentence>
         <sentence lang=""/>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
