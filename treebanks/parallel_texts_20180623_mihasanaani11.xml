@@ -1799,4 +1799,34 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="6.27">
+        <sentence lang="prq">Iroñaaka intovantyaari antaro inchato, tekatsite.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="6.28">
+        <sentence lang="prq">Poñaashitaka ikantziro: “Chooki, tekatsite antovantyaaro.”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="6.29">
+        <sentence lang="prq">Okantzirija: “Aitakitaima iroñaaka nompiirori nañaantari.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="6.30">
+        <sentence lang="prq">Pamine mapi kantamirontakitatyaari, pivankitenaro noitoki.”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="6.31">
+        <sentence lang="prq">Ivankitakiniro oitoki iñiiro, iñiiro, pyaanaka mapi.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
