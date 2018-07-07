@@ -2783,4 +2783,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.149">
+        <sentence lang="prq">Chooki, paminatya inchatyaakira, tsame ayiro.”</sentence>
+        <sentence lang="es">Hermana, mira esta flor, vamos a sacarla.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.150">
+        <sentence lang="prq">El niño quería sacar esa flor, estiró su mano, ya estaba para cogerla.</sentence>
+        <sentence lang="es">La estaban jalando ahí, así siempre la jalaban de distancia del niño.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
