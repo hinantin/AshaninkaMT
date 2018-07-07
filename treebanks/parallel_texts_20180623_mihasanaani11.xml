@@ -2255,4 +2255,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="3.61">
+        <sentence lang="prq">Poñaaka iroñaaka okinkitsashiryaka kooyara.</sentence>
+        <sentence lang="es">Después la chica pensó.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
