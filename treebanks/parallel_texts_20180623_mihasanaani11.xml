@@ -2489,4 +2489,40 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="3.100">
+        <sentence lang="prq">Poña iroñaaka okantzi ishara (maatsi irora oyovitzite antaroite, omoyakotzi onijaate.)</sentence>
+        <sentence lang="es">Después dijo la abuela (tenía una olla grande, ahí hacía hervir su agua).</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.101">
+        <sentence lang="prq">Okantziro iroñaaka: “Nosharo, paakotenaro ironta, noshinkini jenokira.”</sentence>
+        <sentence lang="es">Le dijo la abuela: “Nieta, anda tráigame mi maíz que está allá arriba.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.102">
+        <sentence lang="prq">Onintzi, arika ataitanaki kooyara ontsiryaakotakero ataitamentokira, onkantakotero, tsirik.</sentence>
+        <sentence lang="es">Cuando sube la chica, quería hacerla caer de la escalera, moviéndolo, track.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.103">
+        <sentence lang="prq">Omparyaamaintapakya kooyara omoyakira nijaa, onintzi ovinkiro.</sentence>
+        <sentence lang="es">La chica se caería en la olla donde estaba herviendo la agua, quería hacerla hundir.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.104">
+        <sentence lang="prq">Poña omavita, te okante ataitero kooyara, omavita, te.</sentence>
+        <sentence lang="es">Trató la chica, no pudo subir, trató, pero no</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.105">
+        <sentence lang="prq">Poña okantzi: “Tsikama okantatyarika?”</sentence>
+        <sentence lang="es">Dijo: “¿Cómo es esto?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
