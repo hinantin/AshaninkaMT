@@ -2171,4 +2171,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="3.47">
+        <sentence lang="prq">Okanta, okanta, okantakiri iyaariri: “Yaya, paitakatya antakinarika nomotyaki?”</sentence>
+        <sentence lang="es">Así pasaba, le dijo a su hermano: “Hermano, ¿qué es lo que me habrá pasado en mi estomago?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.48">
+        <sentence lang="prq">Le dijo: “¿Qué es lo que te pasó?”</sentence>
+        <sentence lang="es">“Tsika pikantakaka?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
