@@ -2579,4 +2579,28 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.115">
+        <sentence lang="prq">Yaminakiki, iñaatziro, yaanakiro iroñaaka, ikantziro: “Tsame ankaate.”</sentence>
+        <sentence lang="es">Miró y la vio, se la llevó, le dijo: “ Vamos a bañarnos.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.116">
+        <sentence lang="prq">Ari ivakiro iroñaaka kooyara.</sentence>
+        <sentence lang="es">Ahí la mató a la chica.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.117">
+        <sentence lang="prq">Ivakiro iroñaaka, iposainatakiro teee!</sentence>
+        <sentence lang="es">La mató, la golpeó en la cabeza teee!</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.118">
+        <sentence lang="prq">Otsomontetatzira, ivakiro iroñaaka tsapyaaki parenini.</sentence>
+        <sentence lang="es">Cuando estaba gestando, la mató, [la llevo, la puso] cerca a la orilla del río.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
