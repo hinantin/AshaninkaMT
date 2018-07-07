@@ -2748,8 +2748,38 @@ SAV0608737
         <parsing format="" analysislevel=""/>
     </text>
     <text id="8.143">
-        <sentence lang="prq">Dijo: “Voy a cogerlos.” 144Otra persona dijo: “ No, no vamos a poder agarrarlos.”</sentence>
+        <sentence lang="prq">Ikantzi: “Ari naajeri naaka.”</sentence>
+        <sentence lang="es">Dijo: “Voy a cogerlos.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.144">
+        <sentence lang="prq">Ikantzi pashini: “Te, airo okantzi airikiri.”</sentence>
+        <sentence lang="es">Otra persona dijo: “ No, no vamos a poder agarrarlos.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.145">
+        <sentence lang="prq">Ikantzi iroñaaka: “Pamatavitatyeri, pintsateniri inchatyaaki vitsikatyariranki.”</sentence>
         <sentence lang="es">Otro dijo: “ Tienes que engañarlos, cuélgale una flor fabricada.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.146">
+        <sentence lang="prq">Yamashitakiniri iroñaaka inchatyaaki vitsikatyaariranki, itsatakiro shivitsaki antaro mampitsa.</sentence>
+        <sentence lang="es">Trajeron una flor que es fabricada, la colgaron con una pita grande, era el ovillo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.147">
+        <sentence lang="prq">Poña iroñaaka imonkaratakiro ikaratzi ikatziya eentsira, itsatakiro ovira aka.</sentence>
+        <sentence lang="es">Lo midió el tamaño de estatura del niño que está parado, lo colgó de este tamaño.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.148">
+        <sentence lang="prq">Ipokaiyapajeni eentsipayera, iñaapatziro otsatakota inchatyaaki, ikantziro iritsiro: “Eh!</sentence>
+        <sentence lang="es">Cuando vinieron los niños, vieron colgado una flor, le dijo a su hermana: “¡Eh!</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
