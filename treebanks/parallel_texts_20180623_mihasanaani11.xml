@@ -2003,4 +2003,28 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.19">
+        <sentence lang="prq">Poña yaaki inchakii, itsikotakiro, ikarakotakiro, ikarakiro okaratzira inchatyaaki.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.20">
+        <sentence lang="prq">Ipakiro, ikantziro: “Niroka, chooki.”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.21">
+        <sentence lang="prq">“Ari naanakiro.”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.22">
+        <sentence lang="prq">Iroñaaka maatsi otsompiro (otsampiro), aanakiro, osatetakaro inchatyaakira, osatetakaro.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
