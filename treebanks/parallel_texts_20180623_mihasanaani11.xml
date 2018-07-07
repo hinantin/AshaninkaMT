@@ -2801,4 +2801,40 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.152">
+        <sentence lang="prq">Poña yapiitajiro, irotaintsimi yairikeromi, eh!</sentence>
+        <sentence lang="es">Lo repitió el niño, ya estaba para cogerla.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.153">
+        <sentence lang="prq">Ishiyapaka Maniro, tema yantaritatzira, iro yairikantavakyaarimi, shintsi ishiyanaka, piinkapaji nijaakira.</sentence>
+        <sentence lang="es">Corrió el Venado, como era grande, casí los agarraron, rápidamente corrió ― se hundieron en el río.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.154">
+        <sentence lang="prq">Te yayiri, katzi saikantyarini.</sentence>
+        <sentence lang="es">No los agarraron, no hay nada en el interior del Venado [no hay mucha fuerza].</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.155">
+        <sentence lang="prq">Ikantzi iroñaaka Sankatzi: “Naaka aritaki nairikakeri.”</sentence>
+        <sentence lang="es">Dijo la Pucacunga: “Yo puedo agarrarlos.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.156">
+        <sentence lang="prq">Ijajetaki pashiniki kitaiteri, ikantzi: “Arika piñaavajeri (inintzi yairikero), pishirinkapitsateri shivitsara, shiri, shiri.”</sentence>
+        <sentence lang="es">Se fueron al otro día, dijo: “Cuando lo ven tratando de agarrar esa flor, arrima la pita.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.157">
+        <sentence lang="prq">Iñaatziri, irotaintsimi yairikiromi, ishirinkapitsatziri shiriri.</sentence>
+        <sentence lang="es">Ha visto al niño como estaba arrimando la pita.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
