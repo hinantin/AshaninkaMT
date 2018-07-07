@@ -2351,4 +2351,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="3.77">
+        <sentence lang="prq">“Voy a irme hacia la altura.‟</sentence>
+        <sentence lang="es">Okantziro: “Nojatatye katonko.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
