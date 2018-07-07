@@ -2243,4 +2243,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="3.59">
+        <sentence lang="prq">Ikantzi iroñaaka iriro: “Te, aritaima iroñaaka.</sentence>
+        <sentence lang="es">Dijo el padre: “Así será.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.60">
+        <sentence lang="prq">Te noninte osaikaje aka, ojateta tsika onintakaro ojate.”</sentence>
+        <sentence lang="es">No quiero que nuestra hija esté más aquí, quiero que se vaya donde quiere ir ella.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
