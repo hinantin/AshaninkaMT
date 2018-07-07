@@ -2291,4 +2291,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="3.67">
+        <sentence lang="prq">Te isaikanaji ivankokira irirorite iroñaaka.</sentence>
+        <sentence lang="es">Ya no estaban en su casa tampoco.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.68">
+        <sentence lang="prq">Iroñaaka iroori opoki, opoki, ariitakaro ovanko aparoni isha ashoshi.</sentence>
+        <sentence lang="es">Ella venía, venía, llegó a la casa de una abuela armadillo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
