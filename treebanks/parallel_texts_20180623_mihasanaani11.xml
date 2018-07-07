@@ -2183,4 +2183,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="3.49">
+        <sentence lang="prq">“No sé.”</sentence>
+        <sentence lang="es">“Taantya.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.50">
+        <sentence lang="prq">Luego le avisó a su mamá, le dijo: “Mamá, no sé que es lo que tendré en mi estomago.”</sentence>
+        <sentence lang="es">Ikanta iroñaaka okamantakiro iniro, okantziro: “Ina, paitarotya antakinari ironaaka?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
