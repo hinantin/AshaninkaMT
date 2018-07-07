@@ -2129,4 +2129,28 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="3.40">
+        <sentence lang="prq">“Shetyaki,” ikantziro, “tsame aatai, chooki, aminanajirota tsika pivaryaakiro inchatyaakiranki.”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.41">
+        <sentence lang="prq">Jataji iroñaaka mavaroiteni.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.42">
+        <sentence lang="prq">Te oñaajiro, te oñaajiro inchatyaaki, aminavitanajaro.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.43">
+        <sentence lang="prq">Ikantzi: “Tetya, kaari añiiro iroñaakaja.”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
