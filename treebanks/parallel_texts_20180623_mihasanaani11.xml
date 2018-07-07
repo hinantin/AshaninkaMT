@@ -1973,4 +1973,22 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.14">
+        <sentence lang="prq">Okantziri oyaariri: “Yaya, payinaro inchatyaakira.”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.15">
+        <sentence lang="prq">Ikantziro: “Te onkantyata.”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.16">
+        <sentence lang="prq">Okantziri: “Te, nonintakiro irora, payiro.”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
