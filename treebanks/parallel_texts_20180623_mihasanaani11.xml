@@ -1955,4 +1955,22 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.11">
+        <sentence lang="prq">Iroñaaka nivintaka kooyara iritsirora, ojataki antamiki impankoshitakaiyaro.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.12">
+        <sentence lang="prq">Iñaapakiro impiritaki, iñaapakiro inchatyaaki.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.13">
+        <sentence lang="prq">Aparoni irora inchatyaaki okantakota otsataka.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
