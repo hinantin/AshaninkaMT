@@ -2465,4 +2465,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="3.96">
+        <sentence lang="prq">Okantziro: “Nopoña kirinka.”</sentence>
+        <sentence lang="es">“Vengo de adentro.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
