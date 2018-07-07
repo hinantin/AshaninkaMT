@@ -2075,4 +2075,58 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.31">
+        <sentence lang="prq">Ikyaaki iroñaaka.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.32">
+        <sentence lang="prq">Okantziri: “Yaya, novaryaatajiro inchatyaakiranki, te añaajiro.”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.33">
+        <sentence lang="prq">Ikantzi: “Arima, kaari pikimpoyantaro.”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.34">
+        <sentence lang="prq">“Tetya, ari nosantakiro notsampiroki, tetya nokimiro tsika okanta oparyaantanakari.”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.35">
+        <sentence lang="prq">Poñaaka okantzi: “Okantaikata.”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.36">
+        <sentence lang="prq">Ikantziro: “Ari aminanajiro, arika ajatanaji.”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.37">
+        <sentence lang="prq">Ari isaiki, osamani ikintaki.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.38">
+        <sentence lang="prq">Ikinapaki iroñaaka shirentsi, kintsori, ikintayetavaki.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.39">
+        <sentence lang="prq">Ikintakiri, ikintaki; iviraka ooryaatsiri.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
