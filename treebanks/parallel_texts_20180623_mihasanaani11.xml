@@ -2657,4 +2657,22 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.128">
+        <sentence lang="prq">Poña aminakiri okantakotakiri, oñaatziri apite okanta, aparoni shirampari, aparoni kooya.</sentence>
+        <sentence lang="es">Después, el remolino la revisó y encontró que eran dos seres, un hombre y una mujer.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.129">
+        <sentence lang="prq">Naviriritatsirira iroñaaka paitachari Naviriri, aakiri iroñaaka, aitaki isaikinta icharini, ikaatapintanta.</sentence>
+        <sentence lang="es">Cogió a él que sería el Transformador, que se llama Naviriri; lo cogió en el lugar donde vive su abuelo, donde siempre se baña.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.130">
+        <sentence lang="prq">Iritaki aavajiri irisaro.</sentence>
+        <sentence lang="es">Lo cogió, a su nieto.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
