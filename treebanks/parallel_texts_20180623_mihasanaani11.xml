@@ -2237,4 +2237,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="3.58">
+        <sentence lang="prq">Okanta, okanta, opoña okantziri iroñaaka ina: “Iroñaaka pipasatakero ashinto, tema okantzi: “Iroñaakaja te yantamintsatero oyaariri, aisatzi pashininta, pashininta.”</sentence>
+        <sentence lang="es">Así pasó, luego le dijo [a su esposo]: “Castigaste a nuestra hija, pero dijo, que no le ha fastidiado su hermano, tampoco el otro hermano.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
