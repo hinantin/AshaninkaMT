@@ -2381,4 +2381,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="3.82">
+        <sentence lang="prq">Poñaaka, okantziro: “Nosharo, ari pisaiki, nojatapainteta naminapainte kaniri.”</sentence>
+        <sentence lang="es">Luego le dijo: “Quédate, nieta, voy a buscar yuca.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.83">
+        <sentence lang="prq">Jaitetzi, osamanitaki piyaja, aminapaintzi, aapaintzi kaniri, amapakiro iroñaka kaniri, okotsitapakiro, okantziro: “Piya, nosaro.”</sentence>
+        <sentence lang="es">Se fue, luego regresó, buscó y sacó la yuca, la trajo y la cocinó, le dijo: “Come, nieta.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
