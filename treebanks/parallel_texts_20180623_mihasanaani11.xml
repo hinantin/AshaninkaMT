@@ -2393,4 +2393,28 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="3.84">
+        <sentence lang="prq">Ovaka kooyara.</sentence>
+        <sentence lang="es">La comió la chica.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.85">
+        <sentence lang="prq">Iroñaaka okantziro: “Airo pishiritaro pijate katonko, airo pavishi, ari katyonkoinira, ari isaiki jainaite.</sentence>
+        <sentence lang="es">La abuela le dijo: “No vayas a pensar de llegar a la altura, no vas a pasar, ahí arriba vive el hombre que come carne humana.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.86">
+        <sentence lang="prq">Te va a acabar de comer.”</sentence>
+        <sentence lang="es">Ari itsonkavakimi iyami.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.87">
+        <sentence lang="prq">Poña ari osaikavaitzi, osaiki, osaiki, poña okantzi: “Airo,” okantzi, “nosaiki, isha, aritaki onkantaki nojate katonko, ari noshiritarori.”</sentence>
+        <sentence lang="es">Ahí estaba la chica por un tiempo, luego dijo: “No, no me voy a quedarme aquí, abuela, voy a poder pasar, lo que yo pienso.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
