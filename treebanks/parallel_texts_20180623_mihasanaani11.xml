@@ -2417,4 +2417,52 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="3.88">
+        <sentence lang="prq">Poñaaka, poñaaka pashiniki kitaiteri, te ayotero [te añiiro] tsika okinanaki ashoshira.</sentence>
+        <sentence lang="es">Después otro día, no la vio donde se habrá la armadillo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.89">
+        <sentence lang="prq">Te oshinitero iroñaaka ashoshi avishi kooyara.</sentence>
+        <sentence lang="es">Ella no permitió a la chica a ir.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.90">
+        <sentence lang="prq">Okantzi iroñaaka: “Tsikaratya okinanakika isharanki?</sentence>
+        <sentence lang="es">“¿Adónde se vaya la abuela?</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.91">
+        <sentence lang="prq">Se fue, desapareció.”</sentence>
+        <sentence lang="es">Ojateta, opyaanaka iroñaaka.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.92">
+        <sentence lang="prq">Okatziyanaka iroori, ojatzi, ojatzi.</sentence>
+        <sentence lang="es">Se levantó, se fue, se fue.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.93">
+        <sentence lang="prq">Okanta, okanta oñaapatziro iroñaaka iriniro jainate, aajatzita isha.</sentence>
+        <sentence lang="es">Luego vio a la madre del hombre que come carne humana, era abuela también.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.94">
+        <sentence lang="prq">Oñaapatziro, okantapakiro: “Naakave, isha.”</sentence>
+        <sentence lang="es">La vio y le dijo: “Yo soy, abuela.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.95">
+        <sentence lang="prq">“Aviro, nosharo, tsika pipoñaaka?”</sentence>
+        <sentence lang="es">“Eres tú, nieta. ¿De dónde vienes?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
