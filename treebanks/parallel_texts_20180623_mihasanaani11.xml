@@ -1891,7 +1891,7 @@ SAV0608737
     </text>
     <text id="8.0">
         <sentence lang="prq">ITZIMANTAKARI NAVIRIRI</sentence>
-        <sentence lang=""/>
+        <sentence lang="es">PARA QUE NAZCA EL TRANSFORMADOR</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
@@ -2161,6 +2161,12 @@ SAV0608737
     </text>
     <text id="3.45">
         <sentence lang="prq">Okotsitapajiri tsimiripaye okaratzi ikintakirori oyaariri.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.46">
+        <sentence lang="prq"/>
         <sentence lang=""/>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
