@@ -2231,4 +2231,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="3.57">
+        <sentence lang="prq">Notsipatari kameetsa, kantzimaintacha, te noñiiri yantamintsavaitena, tsikarika janta inkantavaitena, kameetsa notsipatari okanta.”</sentence>
+        <sentence lang="es">Acompañé a mis hermanos bien, no he visto que me fastidiaron en ningún lugar o me hicireron cualquier cosa, acompañé a mis hermanos bien.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
