@@ -2543,4 +2543,40 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.109">
+        <sentence lang="prq">Okantziro: “Korakitaji iroñaaka notyomi, ari pisaiki aka, nosaro.”</sentence>
+        <sentence lang="es">Le dijo: “ Ya van a venir ahora, aquí vas a sentarte, nieta.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.110">
+        <sentence lang="prq">Ipokajetapajira otomipayera, ikantapajiro ina: “Teve, tekatsi noñii.</sentence>
+        <sentence lang="es">Después llegaron sus hijos, le dijeron a su madre: “No hay nada, no hemos visto.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.111">
+        <sentence lang="prq">Tekatsi noyari, tekatsite, tekatsi kamintsainani, iroñaaka iyora ayovintsani ayari.”</sentence>
+        <sentence lang="es">No hay nada que comer, no hay nada, no hay presa, ahora está presa para comer.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.112">
+        <sentence lang="prq">Okantziri iroñaaka: “Notyomi, aka noñaaki aparoni.”</sentence>
+        <sentence lang="es">Ella le dijo: “Hijito, aquí he visto una.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.113">
+        <sentence lang="prq">Yakanakiro, ikantzi: “Tsika iroñaakakya?”</sentence>
+        <sentence lang="es">Le contestó: “ ¿Dónde está?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.114">
+        <sentence lang="prq">Okantziro: “Nironta.”</sentence>
+        <sentence lang="es">Ella le dijo: “ Allí está.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
