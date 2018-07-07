@@ -2633,4 +2633,28 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.124">
+        <sentence lang="prq">Tera iyotero yamaate, ishiyashitanaka otsapyaaki oparaiki parenini.</sentence>
+        <sentence lang="es">No sabía nadar, se fue corriendo por la playa del río.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.125">
+        <sentence lang="prq">Corrió otro [su hermano], trajo un palo, trató de engancharla, ya estaba para engancharla, no pudo.</sentence>
+        <sentence lang="es">Ishiyavitaka, pashini yamaki inchakii, inintzi intsikotavairomi. Itsikovitaka, tsiko, tsiko, iro intsikotantavaijyaarorimi, te onkante.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.126">
+        <sentence lang="prq">Ijatashita ishiritata, ijatzi, ijatzi irojatzi otsonkatapakanta oparai, te yaavajero.</sentence>
+        <sentence lang="es">Solamente caminaba por la rivera del río; iba, iba hasta donde termina la playa, no la cogió.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.127">
+        <sentence lang="prq">Amaatanaki iroñaaka, amaatzi, amaatzi, ari tsikarika anta kirinkanta, ari aavakiri omotonkani.</sentence>
+        <sentence lang="es">Se fue flotando el cuerpo; flotaba, flotaba hasta allá, no sabemos por donde adentro; allí la cogió un remolino.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
