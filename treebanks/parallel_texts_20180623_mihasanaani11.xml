@@ -2027,4 +2027,34 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.23">
+        <sentence lang="prq">Okaratzi apite inchatyaaki, otetakiro jaka, otetanakiro jaka otsompiroki oneeki.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.24">
+        <sentence lang="prq">Jaitetzi iroñaaka.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.25">
+        <sentence lang="prq">Oñaapakiro iroñaaka pooriki.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.26">
+        <sentence lang="prq">Ikantziro: “Ari apankoshityaari aka, chooki.”</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.27">
+        <sentence lang="prq">Ari ichekavaitziri.</sentence>
+        <sentence lang=""/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
