@@ -2790,7 +2790,13 @@ SAV0608737
         <parsing format="" analysislevel=""/>
     </text>
     <text id="8.150">
-        <sentence lang="prq">El niño quería sacar esa flor, estiró su mano, ya estaba para cogerla.</sentence>
+        <sentence lang="prq">Eentsira iroñaaka inintzi yayiromi inchatyaakira, ivarankakiro irako, irotaki yairikantyaarorimi.</sentence>
+        <sentence lang="es">El niño quería sacar esa flor, estiró su mano, ya estaba para cogerla.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.151">
+        <sentence lang="prq">Itzimpatapitsaitziri anta, ari okanta itzimpatapitsaitziri.</sentence>
         <sentence lang="es">La estaban jalando ahí, así siempre la jalaban de distancia del niño.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
