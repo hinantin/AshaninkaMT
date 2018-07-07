@@ -2303,4 +2303,22 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="3.69">
+        <sentence lang="prq">Irora ishara onatzi ashoshi.</sentence>
+        <sentence lang="es">La abuela era un armadillo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.70">
+        <sentence lang="prq">Tsika oviraka aka akantziro Totzirani, aritaima Totzirani kirinkaininta.</sentence>
+        <sentence lang="es">Donde habrá estado aquí, en el lugar, lo que decimos Toterani, tal vez abajito.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.71">
+        <sentence lang="prq">Aritaki osaikiri ovanko ashoshira.</sentence>
+        <sentence lang="es">Donde había la casa de la abuela.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
