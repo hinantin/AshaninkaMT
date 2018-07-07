@@ -2285,4 +2285,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="3.66">
+        <sentence lang="prq">Iroñaaka oyaariripayera imishiyakiri irira ipasavaitakirira.</sentence>
+        <sentence lang="es">Sus hermanos, los hizo huir cuando su padre los castigó.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
