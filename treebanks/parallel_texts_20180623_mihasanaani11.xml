@@ -2195,4 +2195,34 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="3.51">
+        <sentence lang="prq">Le dijo su madre: “Estarás gestando ahora, te ha fastidiado tu hermano.”</sentence>
+        <sentence lang="es">Okantziro iniro: “Pimotyatatzi iroñaaka. Iroñaaka yantamintsatatzimi piyaariri.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.52">
+        <sentence lang="prq">Okamantakiri iroñaaka iri, ikisanaka iroñaaka irira, ipasatakiri itomi, ipasatakiri, ipasatakiro iroori.</sentence>
+        <sentence lang="es">Le avisó al padre, el padre se enojó, castigó a sus hijos, castigó a ella.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.53">
+        <sentence lang="prq">Okantziri iri: “Apa, tetya noñiiri yantamintsitena yaya; pashinika, pashinika te noñiiri yantamintsatena.”</sentence>
+        <sentence lang="es">Le dijo: “Papá, nunca he visto que mi hermano me fastidió; tampoco otro hermano, no me fastidió.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.54">
+        <sentence lang="prq">Kantzimaintacha ikantziro: “Ninka ashitakakamiri iroñaaka pimotyatakirira?”</sentence>
+        <sentence lang="es">Le dijo: “¿Quién es el padre para que tengas tu bebé?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.55">
+        <sentence lang="prq">“Taan, te noyoteri,</sentence>
+        <sentence lang="es">“No sé, no lo conozco.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
