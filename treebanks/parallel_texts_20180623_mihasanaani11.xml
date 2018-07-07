@@ -2675,4 +2675,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.131">
+        <sentence lang="prq">Su esposa, la abuela del Transformador, la madre de la chica estaba muy triste y recordaba a su hija y sus hijos los aquellos hizo huir su esposo cuando los castigó en vano.</sentence>
+        <sentence lang="es">Iroñaaka inara, irisarora Naviriri, inirora kooya ari ovashirivaitaka iroori, ovashitakotaro oshinto, otomipaye, imishiyakiri oimera ipasavaijetakiroranki.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.132">
+        <sentence lang="prq">Okantzi: “Tsikaratya okinanaki noshintoranki?” okikishiryavaita iroori.</sentence>
+        <sentence lang="es">Dijo: “¿Dónde se habrá mi hija?”-estaba pensando ella.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
