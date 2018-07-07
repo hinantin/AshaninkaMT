@@ -2705,4 +2705,52 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.136">
+        <sentence lang="prq">Tsame airikiri.”</sentence>
+        <sentence lang="es">Vamos a agarrarlos.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.137">
+        <sentence lang="prq">Ijataka iroñaaka isaikinta impanekiki iñaatsavaitaiyaninta apiteroite, itsipatavaka.</sentence>
+        <sentence lang="es">Se fue donde estaban jugando en la arena, donde estaban jugando los dos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.138">
+        <sentence lang="prq">Yaminaki eentsipayera, iñaatziri atziri, shintsini ishiyajetanaka, tok, tok, piinkapaki nijaakira.</sentence>
+        <sentence lang="es">Miraron los niños y vieron a una persona, corrieron rápidamente, se hundieron en el río.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.139">
+        <sentence lang="prq">Ijataki pashiniki kitaiteri, yaminapaji, iñaapatziri.</sentence>
+        <sentence lang="es">Se fue al otro día, miró nuevamente, los vio.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.140">
+        <sentence lang="prq">Iñaavajiri atziri, shiyajetanaja, piinkapaji nijaaki.</sentence>
+        <sentence lang="es">Lo vieron los niños, se fueron corriendo otra vez, se hundieron en el río.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.141">
+        <sentence lang="prq">Ikantzi icharine: “Tsika ankanterika airikantyaariri eentsipayera?”</sentence>
+        <sentence lang="es">Dijo el abuelo: “¿Cómo lo hacemos para agarrar a esos niños?</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.142">
+        <sentence lang="prq">Poña ikantavitaka pashini, irojatzi yatzirivetani Sankatzi.</sentence>
+        <sentence lang="es">Luego había dicho otra persona, cuando era ser humano, la Pucacunga.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.143">
+        <sentence lang="prq">Dijo: “Voy a cogerlos.” 144Otra persona dijo: “ No, no vamos a poder agarrarlos.”</sentence>
+        <sentence lang="es">Otro dijo: “ Tienes que engañarlos, cuélgale una flor fabricada.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
