@@ -2279,4 +2279,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="3.65">
+        <sentence lang="prq">Vino, vino, durmió en medio del camino, venía, seguía caminando solita.</sentence>
+        <sentence lang="es">Opakaki, opoki, opoki, omaanaki niyanki avotsi, irojatzi opoki, opoki apaniroinira.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
