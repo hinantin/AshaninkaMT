@@ -2603,4 +2603,34 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.119">
+        <sentence lang="prq">Ari ivakirori, ari itzimavintzirori, itoyetziro ovatsara. </sentence>
+        <sentence lang="es">Ahí la puso, la estaba preparando, cortando la carne de la chica. </sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.120">
+        <sentence lang="prq">Ari okantatapita, aritaima ikantakarori aryaajaini atziri ashitakyaarini eentsira.</sentence>
+        <sentence lang="es">Era una laja inclinada, así habrá sido el destino acaso el dueño del bebé es una persona.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.121">
+        <sentence lang="prq">Okantapaka iroñaaka oshinki, aanakiro parenini kooyara ivaitakirira iroñaaka, aanakiro.</sentence>
+        <sentence lang="es">Vino una oleada, se la llevó al río, a esa mujer que han matado, se la llevó.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.122">
+        <sentence lang="prq">Se fue flotando el cuerpo de la mujer gestante, también su bebé se fue flotando.</sentence>
+        <sentence lang="es">Amaatanaki, amaatakotanaki kooyara motyanto aisatzi eentsitera, amaatakotanaki iroñaaka.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.123">
+        <sentence lang="prq">Yaminaki iroñaaka yora jainaitera.</sentence>
+        <sentence lang="es">La vio el hombre que comía carne humana.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
