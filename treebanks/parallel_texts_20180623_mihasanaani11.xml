@@ -2471,4 +2471,22 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="3.97">
+        <sentence lang="prq">“Tsika pijateka?”</sentence>
+        <sentence lang="es">“¿Adónde vas a ir?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.98">
+        <sentence lang="prq">Okantzi: “Nojatatye katonko, katonko parinini.”</sentence>
+        <sentence lang="es">“Voy hacia la cabecera del río.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.99">
+        <sentence lang="prq">“Ari okaakitapaakini, irotaintsi pariityaro, okatonkotzi parinini.”</sentence>
+        <sentence lang="es">“Ya es cerca, ya vas a llegar, la cabecera del río.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
