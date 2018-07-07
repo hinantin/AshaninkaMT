@@ -2261,4 +2261,22 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="3.62">
+        <sentence lang="prq">Okantzi: “Iroñaakataima nojatatye katonko.”</sentence>
+        <sentence lang="es">Dijo: “Quizás yo vaya hacia la altura.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.63">
+        <sentence lang="prq">Opokaki iroñaaka motyataki, tsikataima ikarataki oyashirite aparokoronirika, te ayotero.</sentence>
+        <sentence lang="es">Vino, pero estaba gestando, ya esta a punto de dar a luz, no sabemos cuántos meses tendría, cinco, no sabemos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="3.64">
+        <sentence lang="prq">Irotaki intzimi iroñaaka eentsite.</sentence>
+        <sentence lang="es">Ya va a nacer su bebé.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
