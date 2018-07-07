@@ -2687,4 +2687,22 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.133">
+        <sentence lang="prq">Poña ijatataki iroñaaka oimira pareniki, iñaatziri apite eentsi iñaatsavaitaiyani impanikiki.</sentence>
+        <sentence lang="es">Después, el esposo se fue al río, vio a dos niños que estaban jugando en la arena.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.134">
+        <sentence lang="prq">Ari iñaatsavaitaiyani apiteroite.</sentence>
+        <sentence lang="es">Ahí estaban jugando los dos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.135">
+        <sentence lang="prq">Ikantzi ikinkishiryaka: “Tsikaratya ipaitaka, ninkaratya ashitariri eentsira saikatsirira iñaatsavaitaiyani?</sentence>
+        <sentence lang="es">Pensaba: “ ¿Qué será, ¿quién será el dueño de esos dos niños que están jugando?</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
