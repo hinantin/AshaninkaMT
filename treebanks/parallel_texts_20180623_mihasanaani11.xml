@@ -2225,4 +2225,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="3.56">
+        <sentence lang="prq">pipasavaishitakari iroñaaka noyaaririka, te, te noñiiri yantamintsatena.</sentence>
+        <sentence lang="es">En vano castigaste a mis hermanos, no he visto que me fastidiaron.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
