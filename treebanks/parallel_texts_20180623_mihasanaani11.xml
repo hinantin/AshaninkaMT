@@ -2891,4 +2891,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.167">
+        <sentence lang="prq">Ikantzi: “Arima.”</sentence>
+        <sentence lang="es">Dijo: “Así es.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
