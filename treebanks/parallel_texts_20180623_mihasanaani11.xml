@@ -3185,4 +3185,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.216">
+        <sentence lang="prq">Imavita yantaite, te onkante yantaite, tema Naviririra inatzi.</sentence>
+        <sentence lang="es">Trató de subir la escalera, no pudo porque el Transformador es.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.217">
+        <sentence lang="prq">Iroñaaka tsikarika okantzimotakiro, iroñaaka ishara ataitanaki iroñaaka.</sentence>
+        <sentence lang="es">Cualquier cosa le habrá pasado a la abuela, ella se subió.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
