@@ -2867,4 +2867,28 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.163">
+        <sentence lang="prq">Yaanakiri, poña ikantakiri: “Tsika pipoñaaka?</sentence>
+        <sentence lang="es">Se lo llevó, luego le dijeron: “¿De dónde eres?</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.164">
+        <sentence lang="prq">Tsika paita pantavaitziri impanekikira?”</sentence>
+        <sentence lang="es">¿Qué cosa haces en la arena?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.165">
+        <sentence lang="prq">Iroñaaka eentsira iyotakiri icharini, icharinira inatzi, ikantziri: “Naaka picharini nonatzi.</sentence>
+        <sentence lang="es">Ese niño reconoció a su abuelo, como era su abuelo, le dijo: “Yo soy tu nieto.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.166">
+        <sentence lang="prq">Pipasavaishitakaro pairani ina, kokipaye pipasavaishitakari.”</sentence>
+        <sentence lang="es">En vano castigaste antes a mi madre y mis tíos, en vano los castigaste.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
