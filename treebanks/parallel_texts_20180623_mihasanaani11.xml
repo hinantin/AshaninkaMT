@@ -2975,4 +2975,22 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.181">
+        <sentence lang="prq">Ikantzi: “Ari ashirivatakyaaro kaniri nijaa,” irotaki yookatakotzi.</sentence>
+        <sentence lang="es">Dijo: “Se va a ahogar la yuca con el agua,” por eso él botó el agua.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.182">
+        <sentence lang="prq">Yookatziro, yookatziro.</sentence>
+        <sentence lang="es">Botaba el agua, botaba.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.183">
+        <sentence lang="prq">Poña ikanta, ikanta kimotataki iroñaaka viranaka jaka, te ishinte eentsirakya.</sentence>
+        <sentence lang="es">Después ya había crecido, ya era de este tamaño, no duro en crecer ese niño.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
