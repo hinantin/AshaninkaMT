@@ -3107,4 +3107,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.203">
+        <sentence lang="prq">Te osaiki, ojatatzi otsamavaitzi oyanirimashiki.</sentence>
+        <sentence lang="es">No estaba el hombre, se fue a limpiar su yucal.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
