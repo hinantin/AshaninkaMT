@@ -2957,4 +2957,22 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.178">
+        <sentence lang="prq">Irotaki ivakariri icharini.</sentence>
+        <sentence lang="es">Eso lo hacía comer a su nieto.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.179">
+        <sentence lang="prq">Arika omparyaanaje inkani, osheki inintzi ijate yookatero nijaa.</sentence>
+        <sentence lang="es">Cuando llovía mucho, le gustaba a su nieto ir a botar la agua de la lluvia.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.180">
+        <sentence lang="prq">Icharini tzimatsi ivintani iyanirimashi.</sentence>
+        <sentence lang="es">Cuando llovía mucho, le gustaba a su nieto ir a botar la agua de la lluvia.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
