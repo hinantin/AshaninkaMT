@@ -3173,4 +3173,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.214">
+        <sentence lang="prq">Kantzimaintacha moyatzi nijaa oyovitziteki antaroite, akantziri pairani ayovitzite.</sentence>
+        <sentence lang="es">Sin embargo, estaba hirviendo el agua en una olla grande, lo que decimos nosotros antes „nuestra olla.‟</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.215">
+        <sentence lang="prq">Moyatzi nijaa onkantya arika intsiryaanake eentsira piinkapaki nijaakira.</sentence>
+        <sentence lang="es">Hervía el agua para que cuando se caiga ese niño, se meta directamente donde está el agua.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
