@@ -3041,4 +3041,28 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.192">
+        <sentence lang="prq">Okantziri: “Ari pipoki noshari.”</sentence>
+        <sentence lang="es">Le dijo: “Has venido, nieto.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.193">
+        <sentence lang="prq">Yakanakiro ikantzi: “Jee, ari nopoki.”</sentence>
+        <sentence lang="es">Le contestó: “Sí, he venido.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.194">
+        <sentence lang="prq">Okantziri: “Tsika pijateka?”</sentence>
+        <sentence lang="es">Le contestó: “Sí, he venido.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.195">
+        <sentence lang="prq">Ikantziro: “Nojatatye iroñaaka katonko.”</sentence>
+        <sentence lang="es">Le respondió: “Voy a ir hacia la altura.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
