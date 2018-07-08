@@ -3161,4 +3161,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.212">
+        <sentence lang="prq">Okantzi: “Noshari, paakotaitenaro ninkini, osaiki jenokinta.”</sentence>
+        <sentence lang="es">Dijo: “ Nieto, tráigamelo, mi maní, que está arriba.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.213">
+        <sentence lang="prq">Poña imavita yantaitemi, te onkante yantaite.</sentence>
+        <sentence lang="es">Trató de subir la escalera, no pudo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
