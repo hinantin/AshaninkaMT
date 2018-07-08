@@ -3113,4 +3113,46 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.204">
+        <sentence lang="prq">Poña ikantzi: “Tsame ankaimakotero iroñaaka.”</sentence>
+        <sentence lang="es">Dijo: “ Vamos a llamar [a la madre del hombre].”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.205">
+        <sentence lang="prq">Ikaimaki iroñaaka: “Ishaaa naakaveee, ishaaa naakaveee.”</sentence>
+        <sentence lang="es">Le llamó: “¡Abuelaaa! Yo soy!”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.206">
+        <sentence lang="prq">Ikimatziro akaki: “Jooo, avirooo.</sentence>
+        <sentence lang="es">Le escuchó contestar: “¡Jooo, eres tú!</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.207">
+        <sentence lang="prq">Tsika pitzimika?”</sentence>
+        <sentence lang="es">¿Quién eres?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.208">
+        <sentence lang="prq">“Naaka.”</sentence>
+        <sentence lang="es">“Yo soy.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.209">
+        <sentence lang="prq">Opokaki iroñaaka irisarora, irinirora janaite, oñaapakiri, okantziri: “Ah, ari pipoki, pisaikavaitapajetyami.”</sentence>
+        <sentence lang="es">Vino la abuela, la madre del hombre que come carne humana, lo vio, le dijo: “ Oh, has venido, tome asiento.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.210">
+        <sentence lang="prq">Okantakiri iroñaaka okimitakiro iriniro pairani okantziri: “Paakotaitenaro ninkini.”</sentence>
+        <sentence lang="es">Le dijo como le había dicho a su mamá antes: “ Tráigamelo, mi maní.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
