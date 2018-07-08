@@ -3197,4 +3197,28 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.218">
+        <sentence lang="prq">Okantzi: “Naakatya ataitatsini, naavakita inki pivapakyaari.”</sentence>
+        <sentence lang="es">Dijo: “ Me voy a subir, voy a sacar mi maní para que tú comas.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.219">
+        <sentence lang="prq">Okantya okovi ompavakiri inkinira ivapakyata, iyenkatanakityeri.</sentence>
+        <sentence lang="es">Quería darle de comer su maní para que se engorde y tenga grasa.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.220">
+        <sentence lang="prq">Iroñaaka ataitanaki ishara, iroo oviravitanaka jeñokini, itsinkakotzimaintaro antaimintokira, tsinik.</sentence>
+        <sentence lang="es">Cuando subió, estaba a media altura, la empujó de la escalera.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.221">
+        <sentence lang="prq">Okantaka piinkapaki omoyakira nijaa ishara, piinkapaki iroñaaka.</sentence>
+        <sentence lang="es">[Se ladeó] y se cayó donde estaba hirviendo el agua, se hundió.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
