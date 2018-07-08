@@ -3077,4 +3077,34 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.198">
+        <sentence lang="prq">“Tsika pinkini pimpiyavintero ina?</sentence>
+        <sentence lang="es">“¿Cómo quieres vengar a su madre?</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.199">
+        <sentence lang="prq">Oshekiteni ikanta, ari intsonkatavakemi.”</sentence>
+        <sentence lang="es">Hay muchos [que comen la gente], te van a acabar.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.200">
+        <sentence lang="prq">Yakanakiro, ikantziro: “Airo.</sentence>
+        <sentence lang="es">Le respondió: “No.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.201">
+        <sentence lang="prq">Ya sé como hacerlo.”</sentence>
+        <sentence lang="es">Noyotakiro iroñaaka tsika nonkanteri.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.202">
+        <sentence lang="prq">Ari imaapaki, okitaitamanaki jatzi iroñaaka, iñaapakiro ivanko jainaite.</sentence>
+        <sentence lang="es">Se quedó a dormir esa noche, al día siguiente se fue, y vio la casa del hombre que come la carne humana.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
