@@ -3353,4 +3353,58 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.244">
+        <sentence lang="prq">Osamani ikimaiyatziri iroñaaka ikaimaiyapajini: “Oooo, aaaa, oooo, eeee!”</sentence>
+        <sentence lang="es">Después escucharon que gritaban sus hijos, llamaron: “¡Oooo, aaaa, ooo, eee!”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.245">
+        <sentence lang="prq">Ikaimapajiro iriniro: “Inaaa!”</sentence>
+        <sentence lang="es">Llamaron a su mamá: “Mamá!”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.246">
+        <sentence lang="prq">Ikimatziro akanaki: “Jooo!”</sentence>
+        <sentence lang="es">Escucharon contestarles: “ ¡Jooo!”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.247">
+        <sentence lang="prq">Ariitajetapaja.</sentence>
+        <sentence lang="es">Ya llegaron.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.248">
+        <sentence lang="prq">Yaminapaji, ikantziri iririntzi: “Iyee, paminatya.</sentence>
+        <sentence lang="es">Uno miró y le dijo a su hermano: “ Hermano, ¡mira!</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.249">
+        <sentence lang="prq">Paita okotsitziri ina?”</sentence>
+        <sentence lang="es">¿Qué cosa está cocinando mamá?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.250">
+        <sentence lang="prq">Yaminaki, iririntzi ikantzi: “Shoo, paita komintsakiro?”</sentence>
+        <sentence lang="es">Su hermano miró y dijo: “Rico, ¿qué cosa nos dió?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.251">
+        <sentence lang="prq">Ityaarinkakiro, iñaatzi oitzipatsaini, oporyaanikipatsaini, ovirayetaka aka.</sentence>
+        <sentence lang="es">Removió la olla, ahí vieron piecitos, muslitos que eran pequeños.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.252">
+        <sentence lang="prq">Ishiyakavintakiri eentsipatsaini oporyaanikipatsaini.</sentence>
+        <sentence lang="es">Se asimilaron a niños, los muslitos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
