@@ -2861,4 +2861,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.162">
+        <sentence lang="prq">Irotaki aniitantakyaarimi iritsirora, yairikapakiro iroñaaka, yairikaitakiri irirori.</sentence>
+        <sentence lang="es">Cuando ya iba a bajar la hermana, la captaron, captaron a él tambien.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
