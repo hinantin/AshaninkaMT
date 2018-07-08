@@ -2855,4 +2855,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.161">
+        <sentence lang="prq">Iro airikiromi inchatyaakira tema oshirinkirotyara inchatyaakira, iro airikantyaaromi, shiyapaka shintsini Sankatzi.</sentence>
+        <sentence lang="es">Ya iba a agarrar la flor, pero como están arrimando la pita, se está moviendo la flor; ya estaba para agarrarla, corrió rápidamente la Pucacunga.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
