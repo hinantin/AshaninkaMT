@@ -2837,4 +2837,22 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.158">
+        <sentence lang="prq">Poña ikantziro iritsiro: “Chooki, pantaitena jaka, pairikerota iroñaaka aviroka inchatyaakira.</sentence>
+        <sentence lang="es">Le dijo a su hermana: “Hágamelo, suba aquí, tú agarrás esa flor.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.159">
+        <sentence lang="prq">Painkitakyaaro aviroka.”</sentence>
+        <sentence lang="es">Vas a agarrarla.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.160">
+        <sentence lang="prq">Ivantaitakiro iroñaaka iritsirora.</sentence>
+        <sentence lang="es">Hizo subir a su hermana.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
