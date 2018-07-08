@@ -3311,4 +3311,46 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.237">
+        <sentence lang="prq">Iritsirora ataitanaki, aminiri, okantavitari, sherori, sherori, sherori, okimashitari iñaavaitzi anta.</sentence>
+        <sentence lang="es">La hermana subió, lo buscó, solamente escuchó lo que hablaba.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.238">
+        <sentence lang="prq">Okantakovitari, sherori, sherori, sherori, te oñiiri.</sentence>
+        <sentence lang="es">Levantó otras cosas, no lo vió.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.239">
+        <sentence lang="prq">Shitovashitanaja iroñaaka, okante te, te oñiiri.</sentence>
+        <sentence lang="es">Se salió, no lo ha visto.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.240">
+        <sentence lang="prq">Ikantziro: “Intsitya avirori.”</sentence>
+        <sentence lang="es">Le dijo: “A ver, tú ahora.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.241">
+        <sentence lang="prq">Iroñaaka ataitanaki iroori iritsirora aajatzi iroori.</sentence>
+        <sentence lang="es">Subió ella, su hermana.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.242">
+        <sentence lang="prq">Ha ido a buscarla, igualito no la vio.</sentence>
+        <sentence lang="es">Ijavitaka yaminiro, te iñiiro.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.243">
+        <sentence lang="prq">Ikantzi: “Kameetsataki, iroñaaka, aritaki amatakiri jainaite.”</sentence>
+        <sentence lang="es">Dijo: “Está bien, vamos a terminar al hombre que come carne humana.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
