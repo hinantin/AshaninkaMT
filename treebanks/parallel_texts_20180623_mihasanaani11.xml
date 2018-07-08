@@ -3407,4 +3407,88 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.253">
+        <sentence lang="prq">“Arive,” ikantzi.</sentence>
+        <sentence lang="es">“Muy bien,” dijo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.254">
+        <sentence lang="prq"> “Intsitya tsame ankaimero ina.”</sentence>
+        <sentence lang="es">“A ver, vamos a llamar a mamá.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.255">
+        <sentence lang="prq">Llamó: “ ¡Mamá!”</sentence>
+        <sentence lang="es">Ikaimakotakiro: “Inaaa!”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="5.256">
+        <sentence lang="prq">Ikimatziro akanaki, okantzi: “Oooo!”</sentence>
+        <sentence lang="es">La escucharon decir: “¡Ooo!”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="5.257">
+        <sentence lang="prq">“Otsamaitatziro oyanirimashi.”</sentence>
+        <sentence lang="es">“Está limpiando su yucal.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="5.258">
+        <sentence lang="prq">Ikantziri iririntsi: “Pinkaimakotero avavakyata.”</sentence>
+        <sentence lang="es">Dijo a su hermano: “ Llámala para comer.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="5.259">
+        <sentence lang="prq">Ikaimakovetaro, te akanake.</sentence>
+        <sentence lang="es">La llamaba, no contestó.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="5.260">
+        <sentence lang="prq">Ikimatziro okantzi: “Piya jara, irotaki nontsampishiriro notsamairika.”</sentence>
+        <sentence lang="es">Luego le escucharon decir: “Coman ahí, ya voy a terminar mi trabajo.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="5.261">
+        <sentence lang="prq">Poña ikantzi: “Otsonkatanakityero otsamairi.”</sentence>
+        <sentence lang="es">Dijo: “Va a terminar su trabajo.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="5.262">
+        <sentence lang="prq">Iroñaaka ikantzi: “Tsametya ayete avavakyata.”</sentence>
+        <sentence lang="es">Dijo: “Vamos a servir para comer.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="5.263">
+        <sentence lang="prq">Iyetaki opori, oshempa.</sentence>
+        <sentence lang="es">Sirvieron su muslo, su brazo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="5.264">
+        <sentence lang="prq">Ikimashitaka jenokinta: “Sherik, sherik, ivakaro irinironta.”</sentence>
+        <sentence lang="es">Escucharon a alguien diciendo arriba: “Ya comieron a su mamá.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="5.265">
+        <sentence lang="prq">Yaminakovitaki, manajetaka eentsipayenta jenokinta.</sentence>
+        <sentence lang="es">Miraban pero estaban bien escondidos los niños encima del techo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="5.266">
+        <sentence lang="prq">Poña yapiitajiro, ikantzi: “Shire, shire, shire, ivajaro irinironta.”</sentence>
+        <sentence lang="es">Repitió de nuevo: “Ya comieron a su mamá.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
