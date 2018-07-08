@@ -2993,4 +2993,52 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.184">
+        <sentence lang="prq">Kimototakira, iroñaaka ikantakiro iritsiro: “Tsame ampiyavintajyaaro ina.”</sentence>
+        <sentence lang="es">Como ya era grandecito, le dijo a su hermana: “Vamos a vengar a nuestra madre.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.185">
+        <sentence lang="prq">Ikantziri icharini: “Aani, iroñaaka nojatatye katonko tsika ivaitakaro ina.</sentence>
+        <sentence lang="es">Le dijo a su abuelo: “Abuelo, voy a irme hacia las alturas donde se la comieron a mi mamá.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.186">
+        <sentence lang="prq">Ontzimatye nompiyavintajyaaro.”</sentence>
+        <sentence lang="es">Es necesario que yo venge a mi mamá.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.187">
+        <sentence lang="prq">Su abuelo le dijo: “No vas a ir, nieto.</sentence>
+        <sentence lang="es">Ikantziri icharini: “Airo pijatzi, aani.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.188">
+        <sentence lang="prq">Ari ivavakyami jainaite, osheki ivanta.”</sentence>
+        <sentence lang="es">Te va a comer el hombre que come carne humana, mucho come la carne.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.189">
+        <sentence lang="prq">Ikantzi: “Airo ivana.</sentence>
+        <sentence lang="es">Dijo: “No me va a comer.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.190">
+        <sentence lang="prq">Irotaki nojatantyaari iroñaaka, nompiyavintajyaaaro ina.”</sentence>
+        <sentence lang="es">Por eso voy a ir, voy a vengar a mi mamá.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.191">
+        <sentence lang="prq">Iroñaaka jataki itsipatanakaro iritsiro, ikinapaki, yariitajaro ovanko ashoshi.</sentence>
+        <sentence lang="es">Se fue con su hermana, vino por aquí, llegó a la casa de la armadillo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
