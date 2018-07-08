@@ -3491,4 +3491,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="5.267">
+        <sentence lang="prq">Ari ishirontajetaiyani otomipaye.</sentence>
+        <sentence lang="es">Ya comenzaron a reírse los hijos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="5.268">
+        <sentence lang="prq">Poña ikimavaki pashini, ikantzi: “Paita, tsika ikantzika yoka?”</sentence>
+        <sentence lang="es">Después, otro escuchó, dijo: “¿Qué cosa dice esta persona?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
