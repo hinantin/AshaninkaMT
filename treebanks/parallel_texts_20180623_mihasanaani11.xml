@@ -3275,4 +3275,40 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.231">
+        <sentence lang="prq">Ikantzi: “Arive, kameetsataki.”</sentence>
+        <sentence lang="es">Dijo: “ Muy bien, está bueno.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.232">
+        <sentence lang="prq">Aritaki yakakiro inchaponkitzira.</sentence>
+        <sentence lang="es">Ya lo hizo hablar el tronco.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.233">
+        <sentence lang="prq">Ikantzi: “Tsame amanya iroñaaka.”</sentence>
+        <sentence lang="es">Dijo: “Vamos a escondernos ahora.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.234">
+        <sentence lang="prq">Ataitanaki iroñaaka shiramparira, shero, shero, ivankopashikira irojatzi otavantokinta.</sentence>
+        <sentence lang="es">Se subió ese hombre, escondió en las hojas de la casa hasta la cumbrera.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.235">
+        <sentence lang="prq">Ari isaantapakari.</sentence>
+        <sentence lang="es">Ahí se metió.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.236">
+        <sentence lang="prq">Poña ikantziro iritsiro: “Intsitya paminina iroñaaka, arika piñaakina.”</sentence>
+        <sentence lang="es">Le dijo a su hermana: “A ver, búscame, si me vas a encontrar.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
