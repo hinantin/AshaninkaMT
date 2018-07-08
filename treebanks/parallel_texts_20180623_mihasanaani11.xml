@@ -3155,4 +3155,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.211">
+        <sentence lang="prq">Tzimatsi oyantziri antaro jaikini inkini.</sentence>
+        <sentence lang="es">Tenía una canasta grande, estaba llena de su maní.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
