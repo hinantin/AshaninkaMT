@@ -2939,4 +2939,22 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.175">
+        <sentence lang="prq">Ari isaiki iroñaaka.</sentence>
+        <sentence lang="es">Se quedó a vivir.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.176">
+        <sentence lang="prq">Poña icharini iroñaaka jaitetzi isaikashivaitzi.</sentence>
+        <sentence lang="es">El abuelo se fue a poner trampas para los animales.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.177">
+        <sentence lang="prq">Ikintzi sharo, samani, ikintzi kintsori, sankatzi, tsamiri, maaroni ikaratzi pairani tsimiriyetatsiri.</sentence>
+        <sentence lang="es">Picaba con las flechas cutpe, samaño, pucacunga, paujil, todos los aves que existían antes.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
