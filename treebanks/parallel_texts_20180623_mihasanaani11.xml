@@ -3221,4 +3221,58 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.222">
+        <sentence lang="prq">Poña ipyaayetakiro oporyaanikipatsaini, akopatsaini iyaanipatsaini.</sentence>
+        <sentence lang="es">Después la convirtió en muslitos, manitos pequeños.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.223">
+        <sentence lang="prq">Los hirvió.</sentence>
+        <sentence lang="es">Moyakotaki iroñaaka.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.224">
+        <sentence lang="prq">Ikantziro iroñaaka iritsiro: “Amatakiro iriniro.</sentence>
+        <sentence lang="es">Dijo a su hermana: “Ya lo hemos conseguido con su mamá.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.225">
+        <sentence lang="prq">Korakitaintsi otomipaye.”</sentence>
+        <sentence lang="es">Ahora vienen sus hijos.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.226">
+        <sentence lang="prq">Ikantziro iritsiro: “Paanakinaro omaatsaraka anta inchaponkitzikinta.”</sentence>
+        <sentence lang="es">Le dijo a su hermana: “Ponla su cushma allá, en ese tronco.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.227">
+        <sentence lang="prq">Iroñaaka osatekapaintziro oyanirimashikinta, ari osatekapaintziro.</sentence>
+        <sentence lang="es">La llevó y la colocó donde estaba el tronco en su yucal, ahí la colocó.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.228">
+        <sentence lang="prq">Yaminaki, ikantzi: “Oh, osheki oyanirimashi iroñaaka, tsame ankaimakotero.”</sentence>
+        <sentence lang="es">Miró y dijo: “Oh, tiene bastante yuca, vamos a llamarla.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.229">
+        <sentence lang="prq">Ikaimakotakiro: “Ishaaa!”</sentence>
+        <sentence lang="es">La llamo: “¡Abuelaaa!</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.230">
+        <sentence lang="prq">Ikimatziro akanaki: “Jooo!”</sentence>
+        <sentence lang="es">Escuchó contestarle: “ Joo!”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
