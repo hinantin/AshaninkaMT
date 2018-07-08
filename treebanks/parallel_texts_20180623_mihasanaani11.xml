@@ -3065,4 +3065,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.196">
+        <sentence lang="prq">Okantziri: “Airo pijatzi, noshari, airo pariita, ari katyonkoinira, ari isaiki jainaite, ari ivavakyami.”</sentence>
+        <sentence lang="es">Le dijo: “No vas a ir, nieto, no vas a llegar, ahí arribita vive un hombre que come carne humana, te va a comer.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
