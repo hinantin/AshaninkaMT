@@ -2903,4 +2903,40 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.169">
+        <sentence lang="prq">Ikantzi: “Arima.”</sentence>
+        <sentence lang="es">Dijo: “Así es.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.170">
+        <sentence lang="prq">Yamajiri iroñaaka, ikantziri: “Avirokama.”</sentence>
+        <sentence lang="es">Lo trajo, le dijo: “Ya eres tú.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.171">
+        <sentence lang="prq">Poña yamajirira iinaki, ikantapajiro: “Acharini inatzira iyoka.”</sentence>
+        <sentence lang="es">Luego lo trajo a su esposa, le dijo: “Aquel es nuestro nieto.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.172">
+        <sentence lang="prq">Ari opoña ikisavakaka iroñaaka, okantziri iina: “Ñaakiro pipasavaishitakaro ashinto, tema okantzi, te oñiiri yantamintsatero oyaariri.”</sentence>
+        <sentence lang="es">Se inició la riña entre ellos, le dijo su esposa: “ Ya ves, en vano has castigado a nuestra hija pero ella decía que no había visto su hermano fastidiar a ella.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.173">
+        <sentence lang="prq">Ikanta, poña ikantziri: “Aritaki nosaikimotakimi pivankoki.</sentence>
+        <sentence lang="es">Después le dijo el nieto: “Me voy a quedarme en tu casa.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.174">
+        <sentence lang="prq">Paajana iroñaaka, aritaki nosaikimotakimi.”</sentence>
+        <sentence lang="es">Me has acogido, voy a quedarme a vivir contigo.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
