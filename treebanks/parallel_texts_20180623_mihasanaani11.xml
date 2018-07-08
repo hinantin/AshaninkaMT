@@ -2897,4 +2897,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.168">
+        <sentence lang="prq">“Iroñaaka aanakina ina katonko, ivaitakaro ina, ivakaro jainaite.”</sentence>
+        <sentence lang="es">“Me llevó mamá a la altura, ahí la comieron, la comió el hombre que come carne humana.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
