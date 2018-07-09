@@ -3635,4 +3635,34 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.291">
+        <sentence lang="prq">Poña ikantziro iritsiro: “Ñaakiro, chooki, amatakiri iroñaaka; avakajiri iriniro.</sentence>
+        <sentence lang="es">Luego le dijo a su hermana: “Has visto, hermana, ya lo vencimos, hicimos comer a su mamá.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.292">
+        <sentence lang="prq">Iroñaaka apirateri [antsonkateri].”</sentence>
+        <sentence lang="es">Vamos a terminar con todos.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.293">
+        <sentence lang="prq">Iroñaaka itsokaki ishimityoki, ikantaki: “Afuu!”</sentence>
+        <sentence lang="es">Jaló su pestaña, dijo: “Así sea.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.294">
+        <sentence lang="prq">Iñaatziro otsanaka antaro pampyaamentotsi irojatzi intatzikironta.</sentence>
+        <sentence lang="es">Vio colgado un gran puente hasta el otro lado.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.295">
+        <sentence lang="prq">Ikantzi iritsiro: “Chooki, iroñaaka apirateri ovakarori ina.”</sentence>
+        <sentence lang="es">Le dijo a su hermana: “Hermana, vamos a terminar con los que han comido a mamá.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
