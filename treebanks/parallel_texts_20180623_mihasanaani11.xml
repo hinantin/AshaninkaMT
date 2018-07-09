@@ -3929,4 +3929,28 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.18">
+        <sentence lang="prq">Maatsi iritsiro, ari okatziya kooya, ayi intsipa yookinirori.</sentence>
+        <sentence lang="es">Tenía una hermana, allí estaba parada la mujer, recogía los frutos del pacay que su hermano aventaba.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.19">
+        <sentence lang="prq">Yookiniro pok, pok.</sentence>
+        <sentence lang="es">Los aventaba pok, pok.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.20">
+        <sentence lang="prq">“Piñaavakiro, chooki, piñaavakiro, chooki.”</sentence>
+        <sentence lang="es">“Míralo, hermana, míralo, hermana.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.21">
+        <sentence lang="prq">Yookiniro, opiyotatzi, opiyotatzi.</sentence>
+        <sentence lang="es">Los aventaba, y ella los amontonaba, amontonaba.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
