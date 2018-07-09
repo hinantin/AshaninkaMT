@@ -3773,4 +3773,34 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.314">
+        <sentence lang="prq">Pyaanaka koshiri, kaimanaki ju, ju, ju.</sentence>
+        <sentence lang="es">Se convertía en mono y gritaba ju, ju, ju.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.315">
+        <sentence lang="prq">Tsika ijate, tsika paita iñaapaki, ari inkantya, ari inkantya.</sentence>
+        <sentence lang="es">Donde iba, lo que veía, así será.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.316">
+        <sentence lang="prq">Arika yaminaki, inkantaki: “Aani, paminitya.</sentence>
+        <sentence lang="es">Cuando miraba algo su nieto, decía: “Abuelo, ¡mira!</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.317">
+        <sentence lang="prq">¿Qué es lo que está sentado ahí?”</sentence>
+        <sentence lang="es">Paita saikatsirinta?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.318">
+        <sentence lang="prq">Va a decir: “ Así sea, así conviértete.”</sentence>
+        <sentence lang="es">Inkantaki: “Afuu, ari pimpyaaitya!”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
