@@ -3743,4 +3743,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.309">
+        <sentence lang="prq">Ari intanakari iroñaaka ipyaajetanaki arika iñaapaki.</sentence>
+        <sentence lang="es">Comenzó a transformar a otras personas cuando las veía [cuando iba a otros lugares].</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
