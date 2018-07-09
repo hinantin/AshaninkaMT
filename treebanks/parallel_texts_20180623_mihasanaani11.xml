@@ -3882,8 +3882,20 @@ SAV0608737
         <parsing format="" analysislevel=""/>
     </text>
     <text id="9.10">
-        <sentence lang="prq">No estaba Poiyotzi, estaba ensartando sus semillas de pini-pini, los hermanos corrieron rápido.</sentence>
-        <sentence lang="es">Te isaiki Poiyotzi, ishintsavaitatzi ityoshikite, ikanta ishiyanaka shintsini.</sentence>
+        <sentence lang="prq">Te isaiki Poiyotzi, ishintsavaitatzi ityoshikite, ikanta ishiyanaka shintsini.</sentence>
+        <sentence lang="es">No estaba Poiyotzi, estaba ensartando sus semillas de pini-pini, los hermanos corrieron rápido.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.11">
+        <sentence lang="prq">Ariitapaka okaakini kokitya: “Sheeteni, koki!” “Aviro”, ikantzi, “je, ari, pipoki paita?”</sentence>
+        <sentence lang="es">Llegaron cerca a su tío: “Buenos tardes, tío!”, “¿Eres tú?‟ dijo; “Sí, ¿qué cosa?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.12">
+        <sentence lang="prq">“Tekatsi, ari nopoki.” 13Okantzi ina: “Pirakotaitena, maatsi irora pyaarentsi.”</sentence>
+        <sentence lang="es">“Nada, así vinimos [para visitarte]. 13Dice mama: “Acompáñame, hay masato.”</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
