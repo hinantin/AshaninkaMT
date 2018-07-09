@@ -3815,4 +3815,28 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.321">
+        <sentence lang="prq">Ari okaratapaki noyenkitsari.</sentence>
+        <sentence lang="es">Así termina mi cuento.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.0">
+        <sentence lang="prq">NAVIRIRI</sentence>
+        <sentence lang="es">NAVIRIRI</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.1">
+        <sentence lang="prq">Naviriri okanta, ankinkitsatakoteri Naviriri irirori; Naviriri antari ipiiri atziripaye, osheki ipiiri, tsika paita inkantapaintya.</sentence>
+        <sentence lang="es">Naviriri así, vamos a hablar sobre Naviriri; Naviriri transformaba a personas mucho, las mucho transformaba en cualquier cosa que sucedía.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.2">
+        <sentence lang="prq"/>
+        <sentence lang="es"/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
