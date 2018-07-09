@@ -3894,8 +3894,38 @@ SAV0608737
         <parsing format="" analysislevel=""/>
     </text>
     <text id="9.12">
-        <sentence lang="prq">“Tekatsi, ari nopoki.” 13Okantzi ina: “Pirakotaitena, maatsi irora pyaarentsi.”</sentence>
-        <sentence lang="es">“Nada, así vinimos [para visitarte]. 13Dice mama: “Acompáñame, hay masato.”</sentence>
+        <sentence lang="prq">“Tekatsi, ari nopoki.”</sentence>
+        <sentence lang="es">“Nada, así vinimos [para visitarte].</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.13">
+        <sentence lang="prq">Okantzi ina: “Pirakotaitena, maatsi irora pyaarentsi.”</sentence>
+        <sentence lang="es">Dice mama: “Acompáñame, hay masato.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.14">
+        <sentence lang="prq">“Ari, je,” koraki. “Tsame.”</sentence>
+        <sentence lang="es">“Bien, sí,” acercó, “vamos.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.15">
+        <sentence lang="prq">Piyajetanaja, shiyajetanaja.</sentence>
+        <sentence lang="es">Volvieron corriendo para que no se conviertan.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.16">
+        <sentence lang="prq">Ipiyashitaro, paitaranki, iñaapakiro intsipa.</sentence>
+        <sentence lang="es">Volvieron de inmediato, vieron un árbol de pacay.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.17">
+        <sentence lang="prq">Ari yataivaitapaki, yataivaitapaki, itsovaitzi, yookiniro iritsiro.</sentence>
+        <sentence lang="es">Allí subió, subió, chupaba el pacay, aventaba los frutos de pacay a su hermana.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
