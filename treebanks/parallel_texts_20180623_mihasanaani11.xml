@@ -3707,4 +3707,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.303">
+        <sentence lang="prq">Iroñaaka iritsiro Shimashiri, irotaki iritsiro okaakini, irotaki itsipatakari pairani.</sentence>
+        <sentence lang="es">Su hermana Shimashiri (Hoja de Pescado) era su hermana cercana, estaba con ella durante mucho tiempo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
