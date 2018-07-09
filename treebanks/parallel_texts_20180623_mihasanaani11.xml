@@ -3617,4 +3617,22 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.288">
+        <sentence lang="prq">Jataki iroori intatzikironta.</sentence>
+        <sentence lang="es">Cruzó también al otro lado del río.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.289">
+        <sentence lang="prq">Okantaranki jara Totzirakinta, ari jatakiri intatzikironta.</sentence>
+        <sentence lang="es">Es por allá, en Toterani, allí cruzaron al otro lado del río.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.290">
+        <sentence lang="prq">Ari isaikapaki iroñaaka Naviriritatsira.</sentence>
+        <sentence lang="es">Ahí se quedó el Transformador.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
