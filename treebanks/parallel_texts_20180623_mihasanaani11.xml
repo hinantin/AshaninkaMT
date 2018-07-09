@@ -3869,4 +3869,22 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.8">
+        <sentence lang="prq">Okantzi: “Piñiiteri pikonkiri ishinkitakotaityanaja.</sentence>
+        <sentence lang="es">Dijo: “Anda visíten a su tío que venga a emborracharse conmigo.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.9">
+        <sentence lang="prq">Pijatatyeri shintsini.”</sentence>
+        <sentence lang="es">Deben ir rápido.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.10">
+        <sentence lang="prq">No estaba Poiyotzi, estaba ensartando sus semillas de pini-pini, los hermanos corrieron rápido.</sentence>
+        <sentence lang="es">Te isaiki Poiyotzi, ishintsavaitatzi ityoshikite, ikanta ishiyanaka shintsini.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
