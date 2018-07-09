@@ -3665,4 +3665,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.296">
+        <sentence lang="prq">Iñaakiro iroñaaka otsatakotanaka pampyaamentotsi antaro inchato.</sentence>
+        <sentence lang="es">Vieron ellos un puente colgado que era un palo grande.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
