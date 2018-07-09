@@ -3834,8 +3834,20 @@ SAV0608737
         <parsing format="" analysislevel=""/>
     </text>
     <text id="9.2">
-        <sentence lang="prq"/>
-        <sentence lang="es"/>
+        <sentence lang="prq">Tzimatsi icharini, ipaita Poiyotzi, ikiiri, ikiiri, arika impitsokaki icharini itapiki yamini itapiki; tsika paita iñaari, inkanteri: “Aani, tsika paita pokatsiri?”</sentence>
+        <sentence lang="es">Tenía un nieto que cargaba, se llamaba Poiyotzi (especie de ave), lo cargaba, lo cargaba, cuando se volteaba su nieto de su espalda, miraba; cuando veía alguna cosa, le decía a su abuelo: “¿Qué cosa es lo que viene?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.3">
+        <sentence lang="prq">Inkante: “Aj, yoka inchato,” pyaanaka inchato.</sentence>
+        <sentence lang="es">El abuelo contestaba: “Ah, este palo es,” se convirtío en árbol [a la persona que se acercaba].</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.4">
+        <sentence lang="prq">Ipitsoka tsika paita iñaarai.</sentence>
+        <sentence lang="es">[Su nieto] se volteaba cuando veía a nosotros.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
