@@ -3725,4 +3725,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.306">
+        <sentence lang="prq">Ikantakiro iroñaaka iritsiro: “Amatakiri iroñaaka, tsame ajate katonko.”</sentence>
+        <sentence lang="es">Le dijo a su hermana: “Ya los hemos terminado, vamos a la parte alta.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.307">
+        <sentence lang="prq">Pokaki iroñaaka, ariitaka jaka, antaritanaki, antaritaki.</sentence>
+        <sentence lang="es">Vinieron, llegaron aquí, ya crecieron, ya eran grandes.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
