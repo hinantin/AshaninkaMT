@@ -3696,8 +3696,14 @@ SAV0608737
         <parsing format="" analysislevel=""/>
     </text>
     <text id="8.301">
-        <sentence lang="prq">Ella sabía nadar, otros se acabaron de morir.</sentence>
-        <sentence lang="es">Oyotziro amaatzi, pashinipaye tsonkataka ikamaki.</sentence>
+        <sentence lang="prq">Oyotziro amaatzi, pashinipaye tsonkataka ikamaki.</sentence>
+        <sentence lang="es">Ella sabía nadar, otros se acabaron de morir.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.302">
+        <sentence lang="prq">Ikantziro iroñaaka iritsiro: “Ñaakiro, chooki, amatakiri iroñaaka, atsonkatakiri, apiratakiri.”</sentence>
+        <sentence lang="es">Le dijo a su hermana: “Has visto, hermana, hemos logrado terminar, los hemos terminado.”</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
