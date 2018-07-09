@@ -3851,4 +3851,22 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.5">
+        <sentence lang="prq">Arika ankivanteri ivankoki tsaanki (shintsini) ashiyapaki asaikapaki ivankoki.</sentence>
+        <sentence lang="es">Cuando vamos a visitarlo en su casa, rápido debemos correr y sentarnos en su casa.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.6">
+        <sentence lang="prq">Ikimita iroñaaka eero ipyaaje, eero iñaavakai icharini ikiirira Poiyotzitatsirira.</sentence>
+        <sentence lang="es">Como ahora no nos puede convertir, no nos ha visto a su nieto lo que él cargaba, llamado Poiyotzi.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.7">
+        <sentence lang="prq">Aparoni iritsiro ikantaitziri Savorotsa, te añiiro savori, iroñaaka otyaankakiri otomi, apite otomi.</sentence>
+        <sentence lang="es">[Tenía] una hermana que le dicen Savorotsa (Bejuco Espina), ya no la vemos ahora, ahora los envía a sus hijos, dos hijos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
