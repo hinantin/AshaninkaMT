@@ -3767,4 +3767,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.313">
+        <sentence lang="prq">Arika iñaapakiri aparoni ashaninka atsovaitatziri akantziri intsiki, pamaaki yantaitakovaitziro, inkantapakiri: “Afuu, koshiri pimpiya.”</sentence>
+        <sentence lang="es">Cuando veía a una persona paisano que chupaba lo que decimos fruitilla y chimiqua, y se subía, decía: “Así sea, un mono serás.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
