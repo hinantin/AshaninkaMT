@@ -3953,4 +3953,22 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.22">
+        <sentence lang="prq">Opoña iroñaaka pokaki irirori, ikyaanakiri charini, ikyaanakiri.</sentence>
+        <sentence lang="es">Después, vino él [tío], cargó a su nieto en la espalda, lo cargó.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.23">
+        <sentence lang="prq">Yareetakapakari, ikimapakitzi, jek, jek.</sentence>
+        <sentence lang="es">Llegaron donde estaban sobrinos, escucharon jek, jek.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.24">
+        <sentence lang="prq">Ari oiyota iroo.</sentence>
+        <sentence lang="es">Allí estaba agachada ella [la hermana].</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
