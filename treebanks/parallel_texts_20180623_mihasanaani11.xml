@@ -3749,4 +3749,22 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.310">
+        <sentence lang="prq">“Tsika paitarika?” inkantaki.</sentence>
+        <sentence lang="es">“Qué cosa?”- va a decir su nieto.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.311">
+        <sentence lang="prq">“Afuu, pimpyaa inchaponkitzi!”</sentence>
+        <sentence lang="es">“Así sea, conviértete en tronco del árbol.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.312">
+        <sentence lang="prq">Pyanaka inchapontso.</sentence>
+        <sentence lang="es">Se convertía en tronco de un árbol.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
