@@ -3719,4 +3719,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.305">
+        <sentence lang="prq">Iritsiropiro okaakinipiro irotaki Shimashiri, okaratzi otsomontetakiri iriniro.</sentence>
+        <sentence lang="es">La más cercana era Shimashiri (Hoja de Pescado), con la que estuvieron en el vientre de su madre.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
