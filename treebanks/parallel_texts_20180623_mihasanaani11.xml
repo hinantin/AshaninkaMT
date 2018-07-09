@@ -3503,4 +3503,40 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="5.269">
+        <sentence lang="prq">(Paita ipyaakari?</sentence>
+        <sentence lang="es">(¿En qué se convirtió?</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="5.270">
+        <sentence lang="prq">Ipyaakari pitziro.)</sentence>
+        <sentence lang="es">Se convirtió en grillo.)</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="5.271">
+        <sentence lang="prq">Ari imairyatzi, poña ikantzi: “Shiri, shiri, shiri, ivajaro irinironta.”</sentence>
+        <sentence lang="es">Se quedaron en silencio, luego dijo el grillo: “Se comieron a su mamá.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="5.272">
+        <sentence lang="prq">Ikantzi: “Pinkimitya ikantzika ivajaro iriniro.”</sentence>
+        <sentence lang="es">Dijo: “Escuchen, dice que se comió a su mamá.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="5.273">
+        <sentence lang="prq">Ikantziri iririntzi: “Intsitya, iyee, pintyaarinkirotya.”</sentence>
+        <sentence lang="es">Le dijo a su hermano: “A ver, hermano, remueva la olla.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="5.274">
+        <sentence lang="prq">Yaaki inchakii, ityaarinkakiro, iñaatziro oito menkotzi iriniro.</sentence>
+        <sentence lang="es">Cogió un palo, removió la olla, y vieron la cabezota de su madre.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
