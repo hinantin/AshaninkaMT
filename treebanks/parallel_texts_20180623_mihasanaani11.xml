@@ -3599,4 +3599,22 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.285">
+        <sentence lang="prq">Montyanaka intatzikironta.</sentence>
+        <sentence lang="es">Cruzó al otro lado del río el grillo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.286">
+        <sentence lang="prq">Iñaatziro pashini iroñaaka, iritsiro.</sentence>
+        <sentence lang="es">Vio el otro grillo, su hermana.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.287">
+        <sentence lang="prq">Irotaki impasatavakiromi, irotaki impasavakiromi.</sentence>
+        <sentence lang="es">Casí lo golpean, casí lo golpean.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
