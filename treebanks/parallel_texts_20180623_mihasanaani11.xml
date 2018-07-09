@@ -3671,4 +3671,34 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.297">
+        <sentence lang="prq">Montyajetaka jainaite.</sentence>
+        <sentence lang="es">Cruzaron [por el puente] los hombres que comen carne humana.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.298">
+        <sentence lang="prq">Inintzimi ivyari.</sentence>
+        <sentence lang="es">Querían comérselo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.299">
+        <sentence lang="prq">Iro iviravitaka niyanki, ankante, iro yaatzimatantyaari, ikantakotzimaintari, tarok,itsonkakiri, ivinkakiri.</sentence>
+        <sentence lang="es">Cuando ya estaban por el medio del puente, vamos a decir, van a llegar al otro lado, volteó al puente, acabó de hacerlos hundir.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.300">
+        <sentence lang="prq">Maatsi aparoni kooya motyanto janaite, irotaki avisakotatziri.</sentence>
+        <sentence lang="es">Había una mujer embarazada del hombre que come carne humana, ella es la que se salvó.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.301">
+        <sentence lang="prq">Ella sabía nadar, otros se acabaron de morir.</sentence>
+        <sentence lang="es">Oyotziro amaatzi, pashinipaye tsonkataka ikamaki.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
