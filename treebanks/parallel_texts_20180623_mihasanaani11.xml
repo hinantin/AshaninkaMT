@@ -3713,4 +3713,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.304">
+        <sentence lang="prq">Tzimatsi okaratzi mava iritsiro Naviriri iroñaaka: Shimashiri, oka Mishaa, poña Savori, ari okaratzi mava.</sentence>
+        <sentence lang="es">Tenía tres hermanas Naviriri: Shimashiri (Hoja de Pescado), Mishaa (Capirona), Savori (Espina), eran las tres.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
