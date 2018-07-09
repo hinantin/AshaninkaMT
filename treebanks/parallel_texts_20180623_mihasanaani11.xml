@@ -3587,4 +3587,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="8.283">
+        <sentence lang="prq">Iñaatziri yaranaka pitsirotakya.</sentence>
+        <sentence lang="es">Vieron volar un grillo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="8.284">
+        <sentence lang="prq">Irotaki impasatavakirimi, irotaki impasatavakirimi.</sentence>
+        <sentence lang="es">Trataron de golpearlo muchas veces.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
