@@ -4556,4 +4556,22 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="10.0">
+        <sentence lang="prq">SHERIPYARI IPYAATZIRI MAPI</sentence>
+        <sentence lang="es">EL TABAQUERO QUE SE CONVIRTIÓ EN UNA ROCA</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="10.1">
+        <sentence lang="prq">Iroñaaka nokinkitsatakotavakeri yora manitzi.</sentence>
+        <sentence lang="es">Ahora voy a contarle acerca del tigre.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="10.2">
+        <sentence lang="prq">Ikanta pairani ipokantakari yatsinakantaitakariri mapiki.</sentence>
+        <sentence lang="es">Cómo lo aplastaron con una roca cuando estaba en estos lugares.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
