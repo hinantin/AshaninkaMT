@@ -4519,19 +4519,40 @@ SAV0608737
     </text>
     <text id="9.116">
         <sentence lang="prq">Poñaaka ikantaitziri „tsiyontzi‟(tsikontzi), itsitziyanaki irirori, ishitovanaki uuj!</sentence>
-        <sentence lang="es">Ahora este, que lo llaman tsiyakontzi también se zambulló, luego salió bien hermoso, brillante como es.</sentence>
+        <sentence lang="es">Ahora este, que lo llaman tsiyakontzi también se zambulló, luego salió</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="9.117">
         <sentence lang="prq">Kiteve kameetsa ikantaranki!</sentence>
-        <sentence lang="es">Dijo: “Voy a repetir zambullirme, todavía no me vio bien.”</sentence>
+        <sentence lang="es">bien hermoso, brillante como es.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="9.118">
         <sentence lang="prq">Ikantzi: “Napiitaperotavajyata, napiitaperotavakya, te nonkoñaaperote.”</sentence>
+        <sentence lang="es">Dijo: “Voy a repetir zambullirme, todavía no me vio bien.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.119">
+        <!-- check alignment ! -->
+        <sentence lang="prq">Iñaatziro ikamaratanaki.</sentence>
         <sentence lang="es">Se zambulló, cuando salió, vio su plumaje convirtió en marrón.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.120">
+        <!-- check alignment ! -->
+        <sentence lang="prq">Itsainki, ñaakiro atziri inatzi itsainkari, itsainkakiri, osheki itsainki, aaj.</sentence>
+        <sentence lang="es">Así como ahora desobedece.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.121">
+        <!-- review translation -->
+        <sentence lang="prq">Ari otsonkapa ñaantsi.</sentence>
+        <sentence lang="es">Hasta aquí termina mi idioma.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
