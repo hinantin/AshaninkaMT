@@ -4670,4 +4670,22 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="10.19">
+        <sentence lang="prq">Apaatziro isaiki, iroñaaka ipyaatakiri mapi.</sentence>
+        <sentence lang="es">Allí se quedó, lo convirtió en una roca.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="10.20">
+        <sentence lang="prq">Airorika iroñaaka itsonkajetakaimi.</sentence>
+        <sentence lang="es">Caso contrario, ya nos hubiera comido a todos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="10.21">
+        <sentence lang="prq">Te ininteri virakocha, ikantzi: “Airo nojatzi katonko, saikatsiri katonko shitzivari inatzi, osheki ivari shivoya.</sentence>
+        <sentence lang="es">El tigre no quería comer la carne de los blancos, dijo: “Voy a ir al río arriba, arriba los que viven en la parte alta apestosos son, mucho comen cebolla.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
