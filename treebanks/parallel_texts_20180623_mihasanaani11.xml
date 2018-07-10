@@ -4511,4 +4511,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.115">
+        <sentence lang="prq">Savaropaye, savaro itsitziyashitzi, aparoni itsitziyaki.</sentence>
+        <sentence lang="es">El papagayo se zambulló una vez [por eso mantiene sus colores].</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.116">
+        <sentence lang="prq">Poñaaka ikantaitziri „tsiyontzi‟(tsikontzi), itsitziyanaki irirori, ishitovanaki uuj!</sentence>
+        <sentence lang="es">Ahora este, que lo llaman tsiyakontzi también se zambulló, luego salió bien hermoso, brillante como es.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
