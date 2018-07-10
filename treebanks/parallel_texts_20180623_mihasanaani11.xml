@@ -4259,4 +4259,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.73">
+        <sentence lang="prq">Ikantziri: “Ani, aviroka ivasankitakina, ovasankitakina chooki.”</sentence>
+        <sentence lang="es">Le dijo: “Cuñado, eres tú que me haces sufrir, [también] me hace sufrir mi hermana.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.74">
+        <sentence lang="prq">“Ari, tsame, eerove, tsame ashitovaje anta, maatsi ashitovaje kirinka.”</sentence>
+        <sentence lang="es">“Bien, vamos, no es así, vamos a salir allá, hay un lugar donde salir del fondo.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
