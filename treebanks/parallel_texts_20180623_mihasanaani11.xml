@@ -4481,4 +4481,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.110">
+        <sentence lang="prq">Ivavisakiro, yaminapaki antaro inkaarive!</sentence>
+        <sentence lang="es">Cuando lo vieron, uuj, ¡una inmensa laguna apareció!</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.111">
+        <sentence lang="prq">Inkaari irira, oshitovanakira iriraani.</sentence>
+        <sentence lang="es">Esta laguna fue el sangre [de Poiyotzi] que salió de su cuerpo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
