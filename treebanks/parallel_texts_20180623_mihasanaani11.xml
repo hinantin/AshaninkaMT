@@ -4493,4 +4493,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.112">
+        <sentence lang="prq">Yaminapaki uuj antari monkitzi isaikakira.</sentence>
+        <sentence lang="es">Cuando miraron, vieron colgado una tremenda chonta donde estaba sentado.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.113">
+        <sentence lang="prq">Tsika onkantya aantakyaarori, tsika onkantya amontyaantari? Tekatsi.</sentence>
+        <sentence lang="es">¿Cómo podemos sacarla, cómo podemos cruzar la laguna? No hay nada con que cruzar.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
