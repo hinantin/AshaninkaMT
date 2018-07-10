@@ -4187,4 +4187,58 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.61">
+        <sentence lang="prq">Ikantzi iroñaaka, ipantsairo, ikantziro: “Tsirini vari,” ikantzi Naviriri iroñaaka.</sentence>
+        <sentence lang="es">El decía, él cantaba, le él decía a ella: “Porque no está de noche,” decía Naviriri.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.62">
+        <sentence lang="prq">“Te, aari, onkantatyero kitaitanaji, ankitaitakotajeta,” ari okantziri.</sentence>
+        <sentence lang="es">“No es así, hermano, vas a decirlo así: “Ya va a amanecer, para amanecernos,” así le decía ella a él.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.63">
+        <sentence lang="prq">Iri ikantzi: “Tsirini ivariri.”</sentence>
+        <sentence lang="es">Él decía: “Porque no está de noche.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.64">
+        <sentence lang="prq">Ari okantzikya akiri.</sentence>
+        <sentence lang="es">Así ella le contestaba.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.65">
+        <sentence lang="prq">Opoña okantziri oime: “Ari pishitovaje aka.”</sentence>
+        <sentence lang="es">Después, le dijo a su esposo: “Aquí vas a salir.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.66">
+        <sentence lang="prq">Ovatsikaki aparoni chakopi, okimiro ton, okimiro ten.</sentence>
+        <sentence lang="es">Puso una flecha en el piso, lo escuchó el sonido interno ton, lo escuchó ten.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.67">
+        <sentence lang="prq">Iro okaakitanaki iroñaaka.</sentence>
+        <sentence lang="es">Ya está cerca ahora el armadillo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.68">
+        <sentence lang="prq">Irotaki oshonkaka.</sentence>
+        <sentence lang="es">Ella lo hacía dar vuelta.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.69">
+        <sentence lang="prq"/>
+        <sentence lang="es"/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
