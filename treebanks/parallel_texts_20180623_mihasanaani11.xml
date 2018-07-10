@@ -4754,4 +4754,34 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="11.8">
+        <sentence lang="prq">Irotaki añaantarori ikirimashaniki iritaki ipityokyaaniki irirori, aikitziro yasankavaite, inivetarora pairani yatziritzira yatzirivitara yantamentsatziro kooya, yasankantavaitziro.</sentence>
+        <sentence lang="es">Por eso lo vemos en el hocico del murciélago para que lo huela permanentemente porque era su costumbre cuando era una persona.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="11.9">
+        <sentence lang="prq">Irotaki apaatziro ipyaanakiri piiri.</sentence>
+        <sentence lang="es">Desde allí se transformó en murcíelago.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="11.10">
+        <sentence lang="prq">“Ari pikantaitatyeyani pipityaranki pimaye pintsatya.”</sentence>
+        <sentence lang="es">[Por eso le dijo Navireri:] “Toda tu vida serás así, dormirás colgado.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="11.11">
+        <sentence lang="prq">Irotaki itsatantari piiri.</sentence>
+        <sentence lang="es">Por eso se cuelga el murciélago.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="11.12">
+        <sentence lang="prq">Ari okaratapaki kapicheeni.</sentence>
+        <sentence lang="es">Eso es todo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
