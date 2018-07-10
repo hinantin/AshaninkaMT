@@ -4121,4 +4121,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.50">
+        <sentence lang="prq">Ikantzi: “Te nompiitemiri, chooki.”</sentence>
+        <sentence lang="es">Dijo: “No te los convirtió, hermana.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.51">
+        <sentence lang="prq">“Aviroka kantashitakari, pikantavitakami: “Ari impokai.””</sentence>
+        <sentence lang="es">“Tú tienes culpa, me había dicho: “Van a venir.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
