@@ -4031,4 +4031,46 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.35">
+        <sentence lang="prq">“Ari janta, itsovaitanakitzi chochoki intsipakipaye, korakitaintsi.”</sentence>
+        <sentence lang="es">“Allí se chuparon los frutos de pacay, ya van a venir.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.36">
+        <sentence lang="prq">“Aaj.”</sentence>
+        <sentence lang="es">“Ah.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.37">
+        <sentence lang="prq">Oyotakiri, okantziri: “Ari te pimpiitenarikya?”</sentence>
+        <sentence lang="es">Ella ya sabía, le dijo: “No me lo has convertido en algo?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.38">
+        <sentence lang="prq">“Te nompiitemiri, chooki, korakitaintsi.”</sentence>
+        <sentence lang="es">“No lo he convertido hermana, van a venir.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.39">
+        <sentence lang="prq">Oshavinika, ooyavitari, ooyavitari, te impoki.</sentence>
+        <sentence lang="es">Más tarde ella los esperaba en vano, no venían.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.40">
+        <sentence lang="prq">Okanta okisaka: “Naminaterita.”</sentence>
+        <sentence lang="es">Por eso ella se enojó, [dijo]: “Voy a buscarlos.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.41">
+        <sentence lang="prq">Ojatzi oirinka, okimapatziri ikaimiro iritsiro: “Piñaavakero, chooki, piñaavakiro, chooki.”</sentence>
+        <sentence lang="es">Se fue hacia abajo, escuchó a su hijo que llamaba a su hermana: “Mírala, hermana, mírala, hermana.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
