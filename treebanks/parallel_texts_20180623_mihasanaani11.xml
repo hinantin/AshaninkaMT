@@ -4331,4 +4331,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.85">
+        <sentence lang="prq">Oñaatziro iritsiro yachovakitapaji irirori.</sentence>
+        <sentence lang="es">Lo vio la hermana de Naviriri, él [el armadillo] tenía un hocico largo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.86">
+        <sentence lang="prq">“Je,” ipiitanakiri iraniri: “Ipaitari?”</sentence>
+        <sentence lang="es">“Je,” Naviriri convirtió a su esposo, su cuñado: “¿Qué cosa?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
