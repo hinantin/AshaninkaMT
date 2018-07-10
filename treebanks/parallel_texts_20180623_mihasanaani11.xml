@@ -4694,4 +4694,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="10.23">
+        <sentence lang="prq">Ari ikantzi sheripyari poñaachari kirinka.</sentence>
+        <sentence lang="es">Así dice el tabaquero que vino del río abajo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="10.24">
+        <sentence lang="prq">Ari okaratzi nokantziri.</sentence>
+        <sentence lang="es">Es todo lo que digo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
