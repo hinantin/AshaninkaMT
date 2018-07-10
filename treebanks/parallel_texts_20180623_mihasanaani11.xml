@@ -3971,4 +3971,40 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.25">
+        <sentence lang="prq">Yaminivaitzi, iñaapatziri isaiki jenoki.</sentence>
+        <sentence lang="es">El nieto estaba mirando, lo vio sentado en la parte alta.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.26">
+        <sentence lang="prq">Ikantzi: “Aani, tsika ipaita irinta saikatsiri jenoki?”</sentence>
+        <sentence lang="es">Dijo: “Abuelo, ¿qué cosa es allí sentada en la parte alta?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.27">
+        <sentence lang="prq">“Aaj, irora tsika paita koshiri.”</sentence>
+        <sentence lang="es">“Ah, este, que cosa es, mono.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.28">
+        <sentence lang="prq">Pyaanaka iroñaaka eentsi koshiri, pyaanaka, ikantanaki: “Ja, ja.”</sentence>
+        <sentence lang="es">Se convirtió ahora el niño en mono, dijo: “Ja, ja.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.29">
+        <sentence lang="prq">Shiyanaka, shikit, shikit.</sentence>
+        <sentence lang="es">El hermano se escapó entre las ramas shikit, shikit.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.30">
+        <sentence lang="prq">Allí él escondió de Naviriri.</sentence>
+        <sentence lang="es">Ari yavisapitsatanakiri.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
