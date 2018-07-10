@@ -4295,4 +4295,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.79">
+        <sentence lang="prq">Ari yookanakiriri niyanki kipatsi, ari yookanakiri.</sentence>
+        <sentence lang="es">Allí lo dejo en el centro de la tierra, allí lo quedó.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
