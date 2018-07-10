@@ -4277,4 +4277,22 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.76">
+        <sentence lang="prq">Yaanakiri anta, yaanakiri.</sentence>
+        <sentence lang="es">Lo llevó hacia adentro, lo llevó.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.77">
+        <sentence lang="prq">Ari anta niyanki, ari imaapaki.</sentence>
+        <sentence lang="es">Allí en el medio del fondo Naviriri se quedó dormido.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.78">
+        <sentence lang="prq">Ishitovajita iroñaaka irirori, ari yamatavitanakiri iraniri.</sentence>
+        <sentence lang="es">Va a salir el armadillo, lo engañó a su cuñado.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
