@@ -4073,4 +4073,22 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.42">
+        <sentence lang="prq">Okisatya iroori, ari okaimanaka iroñaaka: “Nooyakotakimi, shetyaki.”</sentence>
+        <sentence lang="es">Estaba enojada, le gritó ahora: “Yo te he esperado mucho tiempo, ya es tarde.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.43">
+        <sentence lang="prq">Yaminanaki: “Ja, ja, ja.”</sentence>
+        <sentence lang="es">El hijo miró a su mamá, [dijo]: “Ja, ja, ja.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.44">
+        <sentence lang="prq">Opyaapirotakiri otomi, koshiritanaki otomi.</sentence>
+        <sentence lang="es">Acabó de convertir a su hijo, ya es el mono su hijo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
