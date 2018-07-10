@@ -4385,4 +4385,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.94">
+        <sentence lang="prq">Opoña yaminaki icharini, ikarajetzi savaro, tsimiripaye, erotzipaye.</sentence>
+        <sentence lang="es">Después miró [la gente] a su nieto, estaba con loro papagayo, pajaritos, loro aurora.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.95">
+        <sentence lang="prq">Dice la gente ahora: “Ya.”</sentence>
+        <sentence lang="es">Ikantzi: “Ya.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
