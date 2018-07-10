@@ -4439,4 +4439,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.103">
+        <sentence lang="prq">Ikantzi: “Eero, eero povana, naaka osheki iñaamataitana.”</sentence>
+        <sentence lang="es">Dijo [Poiyotzi]: “No, no me mates, les gusta a mí.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.104">
+        <sentence lang="prq">“Ari, je, tsame.”</sentence>
+        <sentence lang="es">“Entonces, vamos.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
