@@ -4529,4 +4529,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.118">
+        <sentence lang="prq">Ikantzi: “Napiitaperotavajyata, napiitaperotavakya, te nonkoñaaperote.”</sentence>
+        <sentence lang="es">Se zambulló, cuando salió, vio su plumaje convirtió en marrón.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
