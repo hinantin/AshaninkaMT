@@ -4688,4 +4688,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="10.22">
+        <sentence lang="prq">Avirokaite aka osheki piposhinijetzi.”</sentence>
+        <sentence lang="es">Ustedes de aquí son ricas [la carne de los ashaninkas es rica].”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
