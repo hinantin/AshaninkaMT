@@ -4664,4 +4664,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="10.18">
+        <sentence lang="prq">Ipokaki Navireri, ishirinkapakiro atsinakapakiri impereta.</sentence>
+        <sentence lang="es">Llegó Navireri, arrimó la roca y lo aplastó, al tigre.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
