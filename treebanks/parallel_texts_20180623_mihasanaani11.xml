@@ -4175,4 +4175,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.59">
+        <sentence lang="prq">Opantsakairi: “Okantatyeni ontsitenitatyemi.”</sentence>
+        <sentence lang="es">Lo hacia cantar: “La canción va a decir: “Porque no vienes noche.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
