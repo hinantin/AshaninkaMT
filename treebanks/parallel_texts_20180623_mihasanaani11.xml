@@ -4742,4 +4742,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="11.6">
+        <sentence lang="prq">Ikantziri: “Pimperi irorave pikooyatantari, pitsirikiniri ikimirota ikantyatakya yasankero.”</sentence>
+        <sentence lang="es">Dijeron: “D le esta parte de la mujer [vagina], pégale en su nariz, para que lo huela.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="11.7">
+        <sentence lang="prq">Irotaki iroñaaka otzimantari ikirimashaniki yatsikantakero kooyara, itsirikaitakiniri, itsirikakiniri.</sentence>
+        <sentence lang="es">Por eso ahora tiene en su nariz lo que mordió de la mujer [su clítoris] que le pegaron en la nariz, le pegó [Navireri].</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
