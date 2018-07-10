@@ -4784,4 +4784,34 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="12.0">
+        <sentence lang="prq">SHINAVAITE OVARI ATZIRI</sentence>
+        <sentence lang="es">SHINAVAITE QUE COMEN GENTE</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="12.1">
+        <sentence lang="prq">Nonkinkitsatakoteri nocharinete, ikanta nocharinepaye ovariri atziri, yovajetari atziri.</sentence>
+        <sentence lang="es">Voy a contar sobre mis abuelos, cómo eran mis abuelos, comían gente.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="12.2">
+        <sentence lang="prq">Ijatzi, ishitovapakirika, yaapainte eentsipaye.</sentence>
+        <sentence lang="es">Se iban, salían, llevaban niños.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="12.3">
+        <sentence lang="prq">Yaanakiri ivankoki arika iñaapakero; ivakakyaaro.</sentence>
+        <sentence lang="es">Los llevan en sus casas cuando los encuentran; los hacen comer.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="12.4">
+        <sentence lang="prq">Yayetziniro tsimeri, yayeniro kemari, maniro, osheto.</sentence>
+        <sentence lang="es">Sacan aves para ellas, traen sachavaca, venado, monos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
