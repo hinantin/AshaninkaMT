@@ -4169,4 +4169,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.58">
+        <sentence lang="prq">Okanta avitsanotziri iroori, ookajiri, pok, ookajiri, pok.</sentence>
+        <sentence lang="es">Mientras ella abrazó a su hermano, lo empujaba [para hacer caer] pok, pok.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
