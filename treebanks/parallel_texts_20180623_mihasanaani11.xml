@@ -4301,4 +4301,28 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.80">
+        <sentence lang="prq">Ikantzi: “Ani, aate ani, ani.”</sentence>
+        <sentence lang="es">Naviriri decía: “Cuñado, cuñado.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.81">
+        <sentence lang="prq">Te iraki.</sentence>
+        <sentence lang="es">No contestó.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.82">
+        <sentence lang="prq">Shitovaji iriro, shitovaji irasankini anta, shitovaji pok.</sentence>
+        <sentence lang="es">Salió él, salió su corazón hacia afuera, salió pok.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.83">
+        <sentence lang="prq">Ikantzi, ipyaakiri etzi: “Etzi pinatye, ari onkantaitatyeya pimaye intsompai, pimaye kipatsiki.”</sentence>
+        <sentence lang="es">Decía, lo convirtió en armadillo: “Vas a ser un armadillo, así siempre vas a dormir adentro de la tierra.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
