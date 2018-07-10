@@ -4451,4 +4451,22 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.105">
+        <sentence lang="prq">Yamajiri, ikinakapajiri, ikinajiri.</sentence>
+        <sentence lang="es">Lo trajeron, lo hicieron caminar por acá.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.106">
+        <sentence lang="prq">Pikimavitaka kishiitarikinta, osaiki kirii niyanki.</sentence>
+        <sentence lang="es">Has escuchado por Mariscal Cáceres, hay una chonta en el medio del agua.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.107">
+        <sentence lang="prq">Ari ipaikakiriri, ikantzi, ari ipaikaitakiriri, apite ikanta, Cheenkaro opoña Kirii.</sentence>
+        <sentence lang="es">Allí lo clavaron, luego dijo, allí lo clavaron dos personas, Pallar y Chonta.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
