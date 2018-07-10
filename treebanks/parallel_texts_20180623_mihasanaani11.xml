@@ -4133,4 +4133,22 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.52">
+        <sentence lang="prq">Okisaka iritsiro, amaki inchashi tyontyoki, opichovaki ovyaariki, opichovakiniri, opakotakiri.</sentence>
+        <sentence lang="es">Estaba enojada su hermana, trajo hierbas de tyontyoki, las exprimió en su masato, las exprimió para su hermano, le dio de beber.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.53">
+        <sentence lang="prq">¡Se embriagó!</sentence>
+        <sentence lang="es">Shinkitakave!</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.54">
+        <sentence lang="prq">Okantaranki, okantakiri iroñaaka oime.</sentence>
+        <sentence lang="es">Ahora le dijo ella a su esposo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
