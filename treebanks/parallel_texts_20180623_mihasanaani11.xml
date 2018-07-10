@@ -4730,4 +4730,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="11.4">
+        <sentence lang="prq">Osamakari kooyapaye, okantziri: “Pinintzirika iroñaakaja ovana?”</sentence>
+        <sentence lang="es">Las mujeres se aburrieron del murciélago, dijeron: “¿Quieres este mucho?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="11.5">
+        <sentence lang="prq">Yatsamankivaita piirira, ipityarankavaitya.</sentence>
+        <sentence lang="es">Estaba colgándose y columpiándose.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
