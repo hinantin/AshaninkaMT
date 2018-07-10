@@ -4592,4 +4592,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="10.6">
+        <sentence lang="prq">Ishinkitaitakiri iroñaaka manitzira.</sentence>
+        <sentence lang="es">Le hicieron emborrachar ahora a este tigre.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="10.7">
+        <sentence lang="prq">Ikanta ishinkitakeri, iroñaaka ashoshira kiyaki iroori.</sentence>
+        <sentence lang="es">Mientras emborrachaban al tabaquero malo, el armadillo escarbaba un hueco.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
