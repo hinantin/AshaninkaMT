@@ -4505,4 +4505,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.114">
+        <sentence lang="prq">Potsoyevitanaka añaantariri ipotsoyeta, iroñaaka tsimiripaye ipotsoyeta kapichi.</sentence>
+        <sentence lang="es">Ya se habían pintado; por eso vemos ahora los colores de los pajaritos un poquito.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
