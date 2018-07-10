@@ -4469,4 +4469,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.108">
+        <sentence lang="prq">Ikantanaki, iroñaaka maaroni ikantanaki: “Arika pimpokate, apaata piyomarotero mava kitaiteri, pamenaatena.”</sentence>
+        <sentence lang="es">Ahora les dijo, a todos les dijo: “Cuando vuelva otro día, van a contar tres días, vengan para que me vean.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
