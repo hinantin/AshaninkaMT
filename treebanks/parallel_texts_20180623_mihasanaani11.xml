@@ -4574,4 +4574,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="10.3">
+        <sentence lang="prq">Ipokaki iroñaaka ipoña kirinka ovantachari, ovariri asheninkapaye.</sentence>
+        <sentence lang="es">Vino desde río abajo, este, comía carne humana.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
