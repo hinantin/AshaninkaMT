@@ -4604,4 +4604,22 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="10.8">
+        <sentence lang="prq">Ikanta, ikanta ipokaki iroñaaka Naviriri, ikantziri: “Pishinkiteri.”</sentence>
+        <sentence lang="es">Luego vino Navireri y dijo: “Emborráchalo.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="10.9">
+        <sentence lang="prq">Ikantziri: “Ani, tsame ashinkitya.”</sentence>
+        <sentence lang="es">Después, le dijo: “Cuñado, vamos a emborracharnos.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="10.10">
+        <sentence lang="prq">Ishinkitakeri, aakiri ishinkiro.</sentence>
+        <sentence lang="es">Tomaron tanto hasta no poder mas ponerse de pie.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
