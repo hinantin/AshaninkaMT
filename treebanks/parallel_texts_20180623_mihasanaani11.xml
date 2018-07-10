@@ -4397,4 +4397,46 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.96">
+        <sentence lang="prq">Ikantzi: “Tsame onkaakoteri,” inoshikero pareni.</sentence>
+        <sentence lang="es">Poiyotzi dice:“Vamos a llenar agua,” quería jalar el río.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.97">
+        <sentence lang="prq">Nokimakovintziro pairani, ikantziri nocharine, maatsi ikantaitziri Tsamirimenta.</sentence>
+        <sentence lang="es">He escuchado comentarios antiguamente lo que decía mi abuelo, hay un lugar que lo llaman Cresta de Paujil.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.98">
+        <sentence lang="prq">Ikantzi inoshikiro otzishi yookeromi, inavita aka.</sentence>
+        <sentence lang="es">Quería jalar un cerro para derrumbarlo para que den la vuelta por aquí.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.99">
+        <sentence lang="prq">Inoshikavitakaro, inavita.</sentence>
+        <sentence lang="es">Lo había jalado [quería cerrar el pase del río y hacer inundar].</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.100">
+        <sentence lang="prq">Opoña Kirii iroñaaka yoirinkanaka oyaatakiriri.</sentence>
+        <sentence lang="es">Después, el Pifayo Chonta caminó bajando; lo siguieron.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.101">
+        <sentence lang="prq">Iñaapatziri antari kirii, iñaapatzi itzimpatziro otzishika.</sentence>
+        <sentence lang="es">Vieron una tremenda chonta, la vieron jalando un cerro.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.102">
+        <sentence lang="prq">Iroñaaka te oñeero tsika onkinapaki; inintzi inkinterimi.</sentence>
+        <sentence lang="es">No sabían por donde iban a pasar el cerro lo que vieron; le querían picar [a Poiyotzi] con sus flechas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
