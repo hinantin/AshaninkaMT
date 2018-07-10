@@ -4622,4 +4622,22 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="10.11">
+        <sentence lang="prq">Yaanakiri iroñaaka omoronaki.</sentence>
+        <sentence lang="es">Lo condujeron al hueco.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="10.12">
+        <sentence lang="prq">Manitzira te inintavetya.</sentence>
+        <sentence lang="es">El tabaquero tigre no quería ir.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="10.13">
+        <sentence lang="prq">Tsañatsañavaitaka.</sentence>
+        <sentence lang="es">Hizo esfuerzos para no ir.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
