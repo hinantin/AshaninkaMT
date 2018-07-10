@@ -4091,4 +4091,34 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.45">
+        <sentence lang="prq">Amini, oñaatziro ishinto, ari okatziya, amini omairikyaataki.</sentence>
+        <sentence lang="es">Miró, vio a su hija, allí estaba parada, estaba mirando en silencio.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.46">
+        <sentence lang="prq">“Paita pantziri avirori?”</sentence>
+        <sentence lang="es">“¿Qué haces tú [también]?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.47">
+        <sentence lang="prq">Opyaakiro shirintsi, aranaki jaitetzi, pyaaka oyaariri koshiri, iroori pyaaka shirintsi, shirintsitanaki.</sentence>
+        <sentence lang="es">La convirtió en perdiz, se fue volando; su hermano se convirtió en mono, ella se convirtió en perdiz, ya es perdiz ahora.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.48">
+        <sentence lang="prq">Opokaji iritsiro, oñaapatziri isaiki, okisapakiri.</sentence>
+        <sentence lang="es">Regresó la hermana de Naviriri, lo vio sentado, estaba enojada con él.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.49">
+        <sentence lang="prq">“Aari (yaya), pipiitakinari pitziniri.”</sentence>
+        <sentence lang="es">“Hermano, me lo has convertido a su yerno.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
