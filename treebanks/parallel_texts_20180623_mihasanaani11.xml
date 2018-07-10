@@ -4181,4 +4181,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.60">
+        <sentence lang="prq">Ampantsai, aari.”</sentence>
+        <sentence lang="es">Vamos a cantar, hermano.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
