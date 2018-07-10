@@ -4580,4 +4580,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="10.4">
+        <sentence lang="prq">Ikanta iroñaaka yora ashoshira ovitsikaki, ikantakiro iritsiro: “Pivitsike iroñaaka yorave pyaarentsi, ashinkityata.”</sentence>
+        <sentence lang="es">El personaje armadillo le dijo a su hermana: “Prepara ahora masato para emborracharnos.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="10.5">
+        <sentence lang="prq">Iroñaaka saikayetatsiri aka sheripyaripaye, ikantziri: “Tsame ashinkiteri, itsonkaikari, itsonkirikari asheninkapaye.”</sentence>
+        <sentence lang="es">Los tabaqueros que vivían aquí le dijeron: “Vamos a emborracharlo para que no nos acabe, si no, los va a acabar a todos nuestros paisanos.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
