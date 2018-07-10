@@ -4325,4 +4325,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.84">
+        <sentence lang="prq">Shitovaji iraniri, shitovaji.</sentence>
+        <sentence lang="es">Salió hacia afuera su cuñado.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
