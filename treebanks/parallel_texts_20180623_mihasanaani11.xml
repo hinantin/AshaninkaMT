@@ -4379,4 +4379,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.93">
+        <sentence lang="prq">Piyotero arika omparyaantzitanai, opyaatya savori.”</sentence>
+        <sentence lang="es">Vas a conocer cuando comienza a llover, se está perdiendo la espina.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
