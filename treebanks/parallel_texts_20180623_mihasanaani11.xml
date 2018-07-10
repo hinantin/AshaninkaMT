@@ -4706,4 +4706,28 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="11.0">
+        <sentence lang="prq">YATZIRIVETANI PIIRI</sentence>
+        <sentence lang="es">CUANDO EL MURCIÉLAGO ERA UNA PERSONA</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="11.1">
+        <sentence lang="prq">Piiri iroñaaka pairani yatziritzi irirori mayempiri inatzi.</sentence>
+        <sentence lang="es">Cuando el murciélago era persona, era un mujeriego.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="11.2">
+        <sentence lang="prq">Mayempiri inatzi, ikantero kooya irorave intaryaavaitero, yasankantavaitero tsika inintakari irirori.</sentence>
+        <sentence lang="es">Aparte de ser mujeriego, era un sádico, a las mujeres les abría las piernas, les besuqueaba la vagina y hacía todo lo que quería.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="11.3">
+        <sentence lang="prq">Ikanta iroñaaka isamakari iroñaaka, ikantakeri Navireri: “Tsika paitaka iroñaaka yantamintsatantarori kooyapaye?”</sentence>
+        <sentence lang="es">Por eso ahora la gente se aburrió de él; dijeron a Navireri: “¿Por qué fastidia tanto a las mujeres?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
