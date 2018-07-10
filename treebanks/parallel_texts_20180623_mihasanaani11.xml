@@ -4236,8 +4236,26 @@ SAV0608737
         <parsing format="" analysislevel=""/>
     </text>
     <text id="9.69">
-        <sentence lang="prq"/>
-        <sentence lang="es"/>
+        <sentence lang="prq">Opantsakairi, opantsakairi.</sentence>
+        <sentence lang="es">Lo hacía cantar muchas veces.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.70">
+        <sentence lang="prq">Opoña apiitakiri, osanaryaakotakiri, sanarik.</sentence>
+        <sentence lang="es">Después, lo hacía dar vuelta nuevamente, se derrumbó, sanarik [y él cayó en una trampa que fue sacada adentro por el armadillo].</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.71">
+        <sentence lang="prq">Kyaanaki, jaitetaki intsompai Naviriri.</sentence>
+        <sentence lang="es">Se introdució hacia el fondo Naviriri.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.72">
+        <sentence lang="prq">Isaiki yoiyota, isaiki, iñaapatziri iraniri ikiyakiro.</sentence>
+        <sentence lang="es">Allí estaba sentado agachado, luego vio a su cuñado que había escarbado para él.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
