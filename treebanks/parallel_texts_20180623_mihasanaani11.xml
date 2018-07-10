@@ -4343,4 +4343,40 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.87">
+        <sentence lang="prq">Opoña ojatashivetakari iritsiro, okovi onoshikajirimi, okantaitzi (antaro kinkitsarintsi onatziri).</sentence>
+        <sentence lang="es">Después, se fue en vano su hermana, quería jalarlo, dicen (el cuento es grande).</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.88">
+        <sentence lang="prq">Aashitakiri ampee, otsatyaki, tok, tok.</sentence>
+        <sentence lang="es">Sacó lana del algodón, se empató tok, tok.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.89">
+        <sentence lang="prq">Ovayitakiro, ominkyaakiniri, onoshikajiri, onoshikairi.</sentence>
+        <sentence lang="es">La puso, la introdujo en el fondo para él, jaló a su hermano, lo jaló.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.90">
+        <sentence lang="prq">Iro irakotantajyaarimi, ari tsatik, intsompoi aisatzi ipiyanaja.</sentence>
+        <sentence lang="es">Pero cuando él iba a alzar su mano, allí se rompió la lana tsatik, de nuevo volvió el fondo Naviriri.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.91">
+        <sentence lang="prq">Oñaatsanintakari, onoshikavitari, aisatzi ipiyanaja, onoshikavitari, onoshikavitari, aisatzi ipiyanaja.</sentence>
+        <sentence lang="es">Estaba jugando con él, lo jaló, también [de nuevo] regresó al fondo, lo hizo muchas veces.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.92">
+        <sentence lang="prq">Kisapaka irirori, ari ipyaakiro: “Savori pinatye, ari onkantaitatya pimpyaa, pimpyaa.</sentence>
+        <sentence lang="es">Se enojó él, la convirtió en savori: “Espina vas a ser, así siempre vas a perderte.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
