@@ -4007,4 +4007,28 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.31">
+        <sentence lang="prq">Ari janta iñaapatziro iritsiro, okantavakiri.</sentence>
+        <sentence lang="es">Allí Naviriri se encontró a su hermana, ella le dijo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.32">
+        <sentence lang="prq">“Ari piñaavakiri pitziniri?”</sentence>
+        <sentence lang="es">“Has visto a tus yernos?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.33">
+        <sentence lang="prq">“Je.”</sentence>
+        <sentence lang="es">“Sí.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.34">
+        <sentence lang="prq">“Tsika iroñaakakya?”</sentence>
+        <sentence lang="es">“¿Dónde están ahora?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
