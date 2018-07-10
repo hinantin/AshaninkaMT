@@ -4151,4 +4151,22 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="9.55">
+        <sentence lang="prq">Oime ashoshi okantakiri: “Pinkiyashiteri aari kirinka, tsame ankitateri.”</sentence>
+        <sentence lang="es">A su esposo armadillo le dijo: “Escarba para mi hermano hacia adentro, vamos a enterrarlo.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.56">
+        <sentence lang="prq">“Ankitateri, tsame.”</sentence>
+        <sentence lang="es">“Vamos a enterrarlo.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="9.57">
+        <sentence lang="prq">Jataki kirinka, ikanta ijataki kirinka, yamaki tek, tek, yamaki osheki kipatsi, kit, kit.</sentence>
+        <sentence lang="es">Se fue adentro, mientras se fue adentro, trajo tek, tek, trajo mucha tierra kit, kit.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
