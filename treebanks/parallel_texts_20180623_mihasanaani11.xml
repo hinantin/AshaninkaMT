@@ -4640,4 +4640,28 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="10.14">
+        <sentence lang="prq">Ikantziri: “Tsame ani, ari amayeri.”</sentence>
+        <sentence lang="es">Su cuñado le dijo: “Cuñado, vamos a dormir.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="10.15">
+        <sentence lang="prq">Iyovetaka manitzira yamatavetaitatziri.</sentence>
+        <sentence lang="es">El tigre sabía que lo estaban engañando.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="10.16">
+        <sentence lang="prq">Ikanta yaanakiri, yakatsanakiri, ari anta imisaantapakiri.</sentence>
+        <sentence lang="es">Lo llevaron por los brazos hasta introducir en el hueco.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="10.17">
+        <sentence lang="prq">Tsañatsañavetaka.</sentence>
+        <sentence lang="es">Hacía esfuerzos para salir.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
