@@ -5354,4 +5354,34 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="18.11">
+        <sentence lang="prq">Ikantavetari iraniri: “Tsame aataje, ani, aatajeta, atsitenitakotzikari.”</sentence>
+        <sentence lang="es">Le dice a su cuñado: “Vámonos, cuñado, nos vamos a oscurecer.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.12">
+        <sentence lang="prq">Ikantzi: “Eero, apaatatsita, aperotavaketa shima.”</sentence>
+        <sentence lang="es">Dice [el Escarabajo]: “No, espérate, vamos a sacar más pescado.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.13">
+        <sentence lang="prq">Yaaki ishimate, ikantzi: “Ikemakanentari iraniri Pirontzi.”</sentence>
+        <sentence lang="es">Sacan pescado, dice el Escarabajo que le hizo escuchar a su cuñado Luciernaga.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.14">
+        <sentence lang="prq">Ikantziri: “Pirontzitachai, aniitanake ootajya, jatajai, areetajya.”</sentence>
+        <sentence lang="es">Le dice: “Como soy Luciernaga, vamos a caminar alumbrando, nos vamos, llegamos.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.15">
+        <sentence lang="prq">Aikiro ijatatzi, yapiivetajari: “Ani, ajatajeta, shetyaki.”</sentence>
+        <sentence lang="es">Siguen pescando, otra vez le dice: “Cuñado, vámonos, ya es tarde.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
