@@ -4832,4 +4832,40 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="12.8">
+        <sentence lang="prq">Iro yamaitziri ikoshitantatziri atzirira eentsipaye.</sentence>
+        <sentence lang="es">Lo que traían son las personas que robaban, los niños.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="12.9">
+        <sentence lang="prq">Antaroyetaki, ivakakarora, itsiyakero, ovatsitaka osheki.</sentence>
+        <sentence lang="es">Están grandes los jóvenes, los hacen comer, los alimentan, ellas comen mucho.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="12.10">
+        <sentence lang="prq">Impoñaaka areetapaka shimashiripaitetaki.</sentence>
+        <sentence lang="es">Después llega el tiempo del árbol Pino Chuncho [cuando el árbol florea y pescado está gordo].</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="12.11">
+        <sentence lang="prq">Okantzi, okinkitsatatzi isha kamayetatsiri, okantzi areetapakya yoimoshirinkero, yakatsatakerorika.</sentence>
+        <sentence lang="es">Dijo mi abuela que ya está muerta, dijo que cuando llega el tiempo de festejar, agarran las manos del niño.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="12.12">
+        <sentence lang="prq">Imoyake nijaa.</sentence>
+        <sentence lang="es">Hacen hervir agua.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="12.13">
+        <sentence lang="prq">Yakatsatanakerorika kooyara evankaro yamashitakayero.</sentence>
+        <sentence lang="es">Cuando le agarran las manos de la jovencita, la hacen danzar.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
