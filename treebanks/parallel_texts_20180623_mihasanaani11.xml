@@ -5012,4 +5012,22 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="13.6">
+        <sentence lang="prq">Irika varipapaye antamisatzi, ari ikaratzi.</sentence>
+        <sentence lang="es">Estos gallitos de las rocas, es todo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="13.7">
+        <sentence lang="prq">Maaroni añaayetakiri iritaki ovayeri pairani ikanta yatzirivetani.</sentence>
+        <sentence lang="es">Todo lo que hemos visto son guerreros antes cuando eran personas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="13.8">
+        <sentence lang="prq">Ari okaratzi.</sentence>
+        <sentence lang="es">Es todo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
