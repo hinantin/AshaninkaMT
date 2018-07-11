@@ -5726,4 +5726,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="19.18">
+        <sentence lang="prq">Yamenero tsikarika osaiki iroo, tsirikapaincha inchatoki, mairitaki, amenamintsatziro.</sentence>
+        <sentence lang="es">La buscan donde está - está pegado en el tronco, está callado y observando.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="19.19">
+        <sentence lang="prq">Irotaki otzimantayetari ochakopite, iroñaaka chakopipaye omanatantari.</sentence>
+        <sentence lang="es">Es por eso que ella tiene flechas agarradas en su mano, ahora las flechas son las con que ella combatía.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
