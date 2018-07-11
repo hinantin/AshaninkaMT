@@ -5162,4 +5162,28 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="15.29">
+        <sentence lang="prq">“Tsame ampiiri tsamiri, osheki yantantzi.”</sentence>
+        <sentence lang="es">[Dijeron:] “Vamos a convertirlo en paujil, es muy peleador.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="15.30">
+        <sentence lang="prq">Irotaki ipyaantakariri tsamiri.</sentence>
+        <sentence lang="es">Por eso lo transformaron en paujil.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="15.31">
+        <sentence lang="prq">Iroñaaka tsimeritanaki, aranaki, tekatsi yantantaje.</sentence>
+        <sentence lang="es">Ahora es un ave, se fue volando para que nunca más pelea.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="15.32">
+        <sentence lang="prq">Así es ahora como se habla del paujil.</sentence>
+        <sentence lang="es">Ari okantari iroñaaka iñaaventa tsamirika.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
