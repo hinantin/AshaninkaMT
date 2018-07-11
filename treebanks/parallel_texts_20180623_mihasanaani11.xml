@@ -6008,4 +6008,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="20.34">
+        <sentence lang="prq">Osaikaitzi Lima [Irimashiki], te ayotero tsika okaratzi osaikaitzitaki.</sentence>
+        <sentence lang="es">Vivía en Lima, no sabemos cuantos años había vivido.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
