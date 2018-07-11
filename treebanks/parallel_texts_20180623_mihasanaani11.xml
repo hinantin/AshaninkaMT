@@ -5750,4 +5750,34 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="19.22">
+        <sentence lang="prq">Irotaki ipoñaashita itzimaki aparoni pyaantatsiri, iroñaaka ikantaitziri Naviriri, icharine Erori [Poiyotzi].</sentence>
+        <sentence lang="es">Había una persona que convertía, se llama Naviriri, con su nieto Erori [Poiyotzi].</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="19.23">
+        <sentence lang="prq">Iri pyaantatziri osheki, yovantzi, yovantzi.</sentence>
+        <sentence lang="es">Él convertía mucho y mataba, mataba.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="19.24">
+        <sentence lang="prq">Ikantzi: “Tsame ampyero,” yamenakiro, iñaakiro otsirikapakara inchatyaakira.</sentence>
+        <sentence lang="es">Dijo: “Vamos a convertirla,” la miró doide estaba pegada la flor.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="19.25">
+        <sentence lang="prq">Ompyaaperotyata Kasanto osaiketa ontsirikyaata inchatoki, tekatsi ovantajatzini.</sentence>
+        <sentence lang="es">“Se desaparecerá la flor, estará pegada en el tronco del árbol, para que no asesine a las personas.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="19.26">
+        <sentence lang="prq">Ipyaakiro iroñaaka inchatyaaki, inchatyaakitantari.</sentence>
+        <sentence lang="es">La convirtió en flor, por eso es una flor.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
