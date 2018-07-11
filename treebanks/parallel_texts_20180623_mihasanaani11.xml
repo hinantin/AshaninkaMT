@@ -5617,4 +5617,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="19.0">
+        <sentence lang="prq">KASANTO</sentence>
+        <sentence lang="es">LA GUERRERA ORQUÍDEA</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="19.1">
+        <sentence lang="prq">Pairani atziriveta Kasanto, inchatyaaki onatzi.</sentence>
+        <sentence lang="es">Antes Orquídea era una persona; es una flor.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="19.2">
+        <sentence lang="prq">Oshaninka iroka novankiripaye saikatsiri, oshoki inchatoki, antaro inchato.</sentence>
+        <sentence lang="es">Es igual a mis flores que hay en mi casa, viven en el árbol, el árbol grande.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="19.3">
+        <sentence lang="prq">Ari otsirikayetara.</sentence>
+        <sentence lang="es">Allí están pegado.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
