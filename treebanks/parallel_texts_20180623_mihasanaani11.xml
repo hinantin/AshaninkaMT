@@ -4868,4 +4868,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="12.14">
+        <sentence lang="prq">Yampatsakakero: “Shimashiripaite nishintayeraye, vaya-veya, vaya-veya.”</sentence>
+        <sentence lang="es">Le hacen cantar: “Durante el tiempo del pino chuncho, mis hijas pobrecitas son.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="12.15">
+        <sentence lang="prq">Yaanakero, yantsomakero, intetakero evankaro oyaki omoyakira nijaa.</sentence>
+        <sentence lang="es">La llevan, la cargan, ponen a esta jóven en la olla donde el agua ha hervido.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
