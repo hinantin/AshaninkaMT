@@ -5060,4 +5060,22 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="14.13">
+        <sentence lang="prq">Iroñaaka ikantzi ikaratzi ikatarijetzi: “Tsame antzirite amitakoterita inka avavisakotajeri,” irotaki yatziritantakari.</sentence>
+        <sentence lang="es">Llamó a todos los patos: “Vamos a salvar, auydar al Inka,” por eso se convirtieron en personas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="14.14">
+        <sentence lang="prq">Ipokaki iroñaaka inampiki Iriniro Pava (Madre de Dios) hasta pareniki ari imaajetapakiri.</sentence>
+        <sentence lang="es">Vinieron ahora de su pueblo Madre de Dios hasta Perené, aquí durmieron.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="14.15">
+        <sentence lang="prq">Iroñaaka ikamantakiri pashinipaye tsimeripaye, chovantsipaye: “Tsame iroñaaka ajate amanatya.”</sentence>
+        <sentence lang="es">Les avisaron a los demas aves que se llaman garzas: “Vamos ahora ir a luchar.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
