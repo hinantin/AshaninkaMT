@@ -5090,4 +5090,22 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="14.18">
+        <sentence lang="prq">Ipyanakeri iroñaaka kataripaye, irotaki ishekitantari katari aka, añiiri nijaatsapyaaki kisaatsantsanaite katari.</sentence>
+        <sentence lang="es">Se convirtieron otra vez en patos, es por eso hay un cantidad de patos aquí, encontramos los aves el color negro en las orillas del río.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="14.19">
+        <sentence lang="prq">Ipyaanajiri, iroñaaka te yatziritanaje, ari ipiyojetari, añiiri yarajeteranki.</sentence>
+        <sentence lang="es">Se convirtieron nuevamente, ya no son personas, aquí están un monton, los vemos volando.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="14.20">
+        <sentence lang="prq">Ikimitaka imitsainkyaarika maaroni yovayerityaranki, ipyaajari katari.</sentence>
+        <sentence lang="es">Parecen que están en filas como todos guerreros, [pero] se convirtieron en patos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
