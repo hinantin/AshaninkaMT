@@ -5605,4 +5605,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="18.52">
+        <sentence lang="prq">Yareetajyaami kameetsa irojatzi inkantyami iratzirite, eero ivashiventaitzirimi iroñaaka Tziivito.</sentence>
+        <sentence lang="es">Juntos llegarían bien, hasta hoy la gente no le hacen avergonzar ahora al Escarabajo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.53">
+        <sentence lang="prq">Ari okaratzi nokinkitsari, ainirovetachama, te nonkinkishiryaapajero.</sentence>
+        <sentence lang="es">Así termina el cuento, no sé si habrá más [no me acuerdo].</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
