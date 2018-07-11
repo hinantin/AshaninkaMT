@@ -5702,4 +5702,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="19.14">
+        <sentence lang="prq">Inchashitatsiri oyotzi omanata, aajatzita ovayeri, ovayerita.</sentence>
+        <sentence lang="es">Esta hierba sabía tirar flecha, también era una guerrera.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="19.15">
+        <sentence lang="prq">Pairani intakantanakarori aka saikatsiri pareniki ivayerita, ivayeritziri yora noshikayetzirori irora kooyapaye.</sentence>
+        <sentence lang="es">Antes los que habitaban aquí, que vivían en este valle Perené eran guerreros, combatían con las personas que robaban a las mujeres.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
