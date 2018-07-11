@@ -5684,4 +5684,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="19.11">
+        <sentence lang="prq">Arika yantashitai, arika avakyaaro oshira, anaatakero, piche, piche, ankamarankanakero, mokoro, mokoro.</sentence>
+        <sentence lang="es">Cuando nos echan la pusanga, la comemos esta hoja, la masticamos bien piche, piche, la vomitamos, mokoro, mokoro.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="19.12">
+        <sentence lang="prq">Ampyaakotajyaari ninkarika antashitairi.</sentence>
+        <sentence lang="es">Nos olvidamos de quién nos curó.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="19.13">
+        <sentence lang="prq">Inchashitatsiri iroñaaka inchatyaakitatsiri, opoña pairani atziriveta iroori.</sentence>
+        <sentence lang="es">Esta hierba que es ahora la flor, antes era una persona.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
