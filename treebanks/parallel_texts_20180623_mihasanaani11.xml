@@ -4928,4 +4928,40 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="12.24">
+        <sentence lang="prq">Arika impoke, aritaki ivakyaari.</sentence>
+        <sentence lang="es">Cuando vienen, la van a comer.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="12.25">
+        <sentence lang="prq">Tekatsite, te añeeri nocharinetepaye, pyaaka.</sentence>
+        <sentence lang="es">No hay, no existen mis abuelos, desaparecieron.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="12.26">
+        <sentence lang="prq">Te noyotakotairi tsikarika isaiki iyoka ovantacharika.</sentence>
+        <sentence lang="es">Ahora no sé donde vivían los que comían a las personas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="12.27">
+        <sentence lang="prq">Naakataki icharine ikantaitziri shinavaite.</sentence>
+        <sentence lang="es">Yo soy un nieto de aquellos que son llamados shinavaite.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="12.28">
+        <sentence lang="prq">Tzimatsi oshekini nokarajetaiyeni.</sentence>
+        <sentence lang="es">Hay muchos de nosotros.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="12.29">
+        <sentence lang="prq">Virijinia irotaki nonirotsori, opoñaaka pashini, koki Isayashi, pashini nokarajetaiyeni aka saikatsiri Marankiaroki.</sentence>
+        <sentence lang="es">Virginia, mi tía, también otro, mi tío que se llama Isaya, y otras más de nosotros que viven aquí en Bajo Marankiari.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
