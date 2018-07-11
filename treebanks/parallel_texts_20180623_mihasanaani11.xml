@@ -5641,4 +5641,23 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="19.4">
+        <sentence lang="prq">Arika intovaitakero inchaponkitziki, ari otsirikari kasantotatsiri.</sentence>
+        <sentence lang="es">Cuando lo cortan, el tronco del árbol, allí crece la flor Orquídea.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="19.5">
+        <sentence lang="prq">Otyaakitzi kameetsa okanta okimitaka iroñaaka.</sentence>
+        <sentence lang="es">Florea bonito como ahora.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="19.6">
+        <!-- check translation ! -->
+        <sentence lang="prq">Tzimatsi moradito, okantanentanaka, tzimatsi kityonkari, tzimatsi kiteriri, opashinitayetzi.</sentence>
+        <sentence lang="es">Hay el color moradito, más or menos otros colores, hay el color rojo, el color amarillo, diferentes colores.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
