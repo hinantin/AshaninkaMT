@@ -5078,4 +5078,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="14.16">
+        <sentence lang="prq">Yareetapaka iroñaaka pareniki, ari imaapakeri, ikanta koraketaki pashini españolpaye.</sentence>
+        <sentence lang="es">Llegaron en Perené y durmieron, después llegaron otros españoles.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="14.17">
+        <sentence lang="prq">Iñaapakirija, ikantzi: “Paita pantziri pinaryantziri?”</sentence>
+        <sentence lang="es">Los encontraron, les dijeron: “¿Qué están haciendo echados?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
