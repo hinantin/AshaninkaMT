@@ -5864,4 +5864,46 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="20.10">
+        <sentence lang="prq">Yaanakiro.</sentence>
+        <sentence lang="es">La llevaron.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.11">
+        <sentence lang="prq">Te okovavetya, ishintsiventakiro, yaanakiro.</sentence>
+        <sentence lang="es">No quería ir mi mamá, la llevaron por la fuerza, la llevaron.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.12">
+        <sentence lang="prq">Ipoñaakakaro Shintsivaki, ikenakanakiro antamimashiki.</sentence>
+        <sentence lang="es">La trajeron de Chinchivani, la hicieron andar por el monte.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.13">
+        <sentence lang="prq">Te inkenantyaro avotsi, ikenashita antamiki.</sentence>
+        <sentence lang="es">No andaban por el camino, [solamente] por el monte.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.14">
+        <sentence lang="prq">Iyotziro tsika inkenakanakero, ikyaanake aparoni antamiki, ishitovaji pashiniki nampitsi.</sentence>
+        <sentence lang="es">Ellos conocían por donde andar, entraron por el bosque, salieron por otro pueblo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.15">
+        <sentence lang="prq">Te inkenantyaro avotsi, iyoperotatziro ovayeri.</sentence>
+        <sentence lang="es">No andaban por el camino, eran muy inteligentes.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.16">
+        <sentence lang="prq">Pairani yovayeritantakari iririka ashaninkapaye, yovayeritziro matsitatsiri.</sentence>
+        <sentence lang="es">Antes peleaban mis paisanos por la brujería [mataban a los brujos].</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
