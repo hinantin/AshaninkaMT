@@ -5240,4 +5240,52 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="17.0">
+        <sentence lang="prq">POTSOTZI</sentence>
+        <sentence lang="es">EL ACHIOTE</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="17.41">
+        <sentence lang="prq">Aajatzita iritaki yamitakotziri ikantavetakari Inka, iritaki yamitakotziri yokaja, arika ijate ivayeritya.</sentence>
+        <sentence lang="es">[Este guerrero] es también lo que ayuda que decimos Inka, este cuando va a la guerra.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="17.42">
+        <sentence lang="prq">Tekatsi iñeeri pyaanaka inchatoshi, ontyaakivetanaki kameetsa.</sentence>
+        <sentence lang="es">Para que no lo vean, se convierte en arbusto y florea.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="17.43">
+        <sentence lang="prq">Esos son guerreros, las abejas son los soldados que van a atacar.</sentence>
+        <sentence lang="es">Iritaki iroñaaka ovayeritatsi, yora yaratopaye, iritaki ivayeritatye, irotaki kintavakeriri.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="17.44">
+        <sentence lang="prq">Arika impokapake iroñaaka ovayeripaye irika, arika impyaanake inchato, katziyaka, irooyeri atziripaye.</sentence>
+        <sentence lang="es">Cuando vienen estos guerreros [enemigos], cuando se transforma [el Achiote] en arbusto, se paran [las abejas] en fila esperando a los enemigos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="17.45">
+        <sentence lang="prq">Arika yareetapakya, yoimintsarovavakeri, shiyajetanaka ovayeripaye.</sentence>
+        <sentence lang="es">Cuando llegan [los enemigos], los hace asustar y se escapan los guerreros [enemigos].</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="17.46">
+        <sentence lang="prq">Eero iñaavakeri, ikatziyaventakari okaakini.</sentence>
+        <sentence lang="es">No lo podemos ver, aunque estén parados cerca.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="17.47">
+        <sentence lang="prq">Así ataca a los guerreros este Achiote.</sentence>
+        <sentence lang="es">Ari ikanta ivayerita irirori yoka Potsotzi.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
