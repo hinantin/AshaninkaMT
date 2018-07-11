@@ -5030,4 +5030,22 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="14.0">
+        <sentence lang="prq">KATARI</sentence>
+        <sentence lang="es">LOS PATOS SILVESTRES</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="14.9">
+        <sentence lang="prq">Katarika pairani yatziriveta, ipoñaari pashiniki nampitsiki opaita Iriniro Pava (Madre de Dios), ari ipoñaari Katarika.</sentence>
+        <sentence lang="es">Estos Patos Silvestres antiguamente cuando era gente venía de otro pueblo llamada Madre de Dios, de allí viene Los Patos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="14.10">
+        <sentence lang="prq">Ipokaki Pareniki, ikemakoventakeri areetapaka españolpaye.</sentence>
+        <sentence lang="es">Vino en el río Perené porque escuchó que llegaron los españoles.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
