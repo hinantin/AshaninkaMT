@@ -4964,4 +4964,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="12.30">
+        <sentence lang="prq">Kamayetaki irirori.</sentence>
+        <sentence lang="es">Otros están muertos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="12.31">
+        <sentence lang="prq">Iritaki nokarajetaiyeni ashaninkatavaka ivaiyani „shinavaite.‟</sentence>
+        <sentence lang="es">Nosotros somos los descendientes del grupo llamado „shinavaite.‟</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
