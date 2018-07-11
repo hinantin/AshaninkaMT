@@ -5557,4 +5557,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="18.44">
+        <sentence lang="prq">Ikantziri: “Ani, ñaakiro pitsainkiranki, nokantavetami: “Tsame ataje, ivirakaranki ooryaatsiri, ajatajeta iroñaaka.”</sentence>
+        <sentence lang="es">Le dijo: “Cuñado, me estabas desafiando, te dije: “Vámonos,” cuando era más sol, “Vámonos.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.45">
+        <sentence lang="prq">Pitsonka piponaataki, piposaposataka.</sentence>
+        <sentence lang="es">Estás muy moratiado, te golpeaste.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.46">
+        <sentence lang="prq">Pikantajatzi: “Pirontzitachai,” paita piposantakari?</sentence>
+        <sentence lang="es">Decías: “Yo soy luciernaga,” ¿por qué te golpeaste?</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
