@@ -5288,4 +5288,70 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="18.0">
+        <sentence lang="prq">TZIIVITO</sentence>
+        <sentence lang="es">EL ESCARABAJO</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.1">
+        <sentence lang="prq">Iri nonkinkitsatakeri naaka Tziivito, yoka tsika ikantaitzika castellanoki?</sentence>
+        <sentence lang="es">De esto voy a hablar yo, del Tziivito.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.2">
+        <sentence lang="prq">Escarabajo, nopyaakotatziri, ja-ja.</sentence>
+        <sentence lang="es">¿Cómo se dice en castellano? Escarabajo, me olvidé.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.3">
+        <sentence lang="prq">Nonkinkitsatakoteri Tziivito, ikantzi yatzirivetani Tziivito pairani.</sentence>
+        <sentence lang="es">Voy a hablar del Tziivito cuando era una persona, el escarabajo antiguamente.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.4">
+        <sentence lang="prq">Ikantzija irora ijatakairi iraniri itsipatanakiri, ijatakaiyeri iraniri Pirontzi.</sentence>
+        <sentence lang="es">Dijo éste que va a ir con su cuñado, van a ir con su cuñado Luciernaga.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.5">
+        <sentence lang="prq">“Te añeeri iroñaaka iraniri Pirontzi,” ijatakaiyeri.</sentence>
+        <sentence lang="es">“No lo encontramos a su cuñado Pirontzi”, se van [a pescar].</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.6">
+        <sentence lang="prq">“Tsame ajate ashimatyatya,” jaitejetzi ishimatya, jirika Pirontzi iritaki iraniniri.</sentence>
+        <sentence lang="es">“Vamos a pescar,” se fueron a pescar- acá está su cuñado Luciernaga.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.7">
+        <sentence lang="prq">Yoka, irika ipaita Pirontzi, ootatyaranki morereee.</sentence>
+        <sentence lang="es">Se llama esto lo que alumbra.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.8">
+        <sentence lang="prq">Ikantanakeri: “Tsame ajate,” ishinkijetatyaranki, tema, ari?‟</sentence>
+        <sentence lang="es">Le dice: “Vámonos ya,” están emborrachados, ¿no?</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.9">
+        <sentence lang="prq">Ijatzi ishimatya, ikanta ishimajetakani, ikamotaki, irora itarompyaatakiro.</sentence>
+        <sentence lang="es">Se fueron a pescar, primero pescaron, cercaron el río y le pircaron piedras.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.10">
+        <sentence lang="prq">Ikanta tampatsika iviryaakakiro, ikantakiro ikonajetakiro, oh, tsitenityaki iviraka.</sentence>
+        <sentence lang="es">Después de mediodia, se secó el agua, empezaron a echar barbasco, oh, casí está por anochecer.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
