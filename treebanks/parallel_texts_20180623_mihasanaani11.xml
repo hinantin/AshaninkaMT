@@ -5924,4 +5924,34 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="20.20">
+        <sentence lang="prq">Iroñaaka yamakiro ina, ishitovakakiro Meritarika Asopisoki, yamakiro Meriteriani.</sentence>
+        <sentence lang="es">Trajeron a mi mamá, salieron del pueblo Meritariki Azupizu, la trajeron a Meriteriani.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.21">
+        <sentence lang="prq">Tzimatsi aparoni avochaniki, ari ikenakapakiro.</sentence>
+        <sentence lang="es">Había un camino pequeño, por allí la hicieron andar.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.22">
+        <sentence lang="prq">Pipyaakotakavakinaro.</sentence>
+        <sentence lang="es">Discúlpeme así no era.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.23">
+        <sentence lang="prq">Ishitovajetapaki Koviriaki, kyaapaki Miritariki paitachari Meriteriani.</sentence>
+        <sentence lang="es">Salieron de Koviriaki, entraron en Miritariki, llamado Meriteriani.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.24">
+        <sentence lang="prq">Hay un camino que se llama Villa Pichis por donde pasaron con caballo.</sentence>
+        <sentence lang="es">Tzimatsi avotsi paitachari Villa Pichis, ikenayepaji con caballo [kavayoki].</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
