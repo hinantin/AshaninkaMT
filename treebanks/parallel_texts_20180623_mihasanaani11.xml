@@ -5114,4 +5114,52 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="15.0">
+        <sentence lang="prq">TSAMIRI</sentence>
+        <sentence lang="es">EL PAUJIL</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="15.22">
+        <sentence lang="prq">Tsamirikaja aajatzita irijatzita ovayeritachari pairani yatziriveta tsamiri.</sentence>
+        <sentence lang="es">Este paujil también es un guerrero en años anteriores cuando era gente.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="15.23">
+        <sentence lang="prq">Tekatsitaki iroñaaka yoka, tekatsi irentsite, intaani iina ipoña irirori.</sentence>
+        <sentence lang="es">No tenía este, no tenía hijos, solamente su esposa y él.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="15.24">
+        <sentence lang="prq">Osheki inevetaro ivametairi evankaripaye tsika onkantya ivayeritya, ishiyakari, yantakayetziri, ikantziri virakochapaye ejercicios.</sentence>
+        <sentence lang="es">Le gustó mucho enseñar a los jóvenes para saber luchar, los hacía correr y lo que dicen la gente blanca „aerobics‟.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="15.25">
+        <sentence lang="prq">Ikeni ivametairi onkantya yamitakoteri Juan Santos Atahualpa, tsika inkante ilibrateri [ivavisakoteri], ijate imanateri españolpaye.</sentence>
+        <sentence lang="es">Se fue para enseñarles para auydarle a Juan Santos Atahualpa, para que lo salven, para que vayan a luchar contra los españoles.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="15.26">
+        <sentence lang="prq">Irotaki yantziri iroñaaka irirori, irotaki ipaitantari guerrero Tsamiri, ivayerita.</sentence>
+        <sentence lang="es">Eso es lo que hace él, es por eso que se llama el guerrero Paujil.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="15.27">
+        <sentence lang="prq">Tekatsite irora, te yoperotero irirori ijate ivayeritya pero iyotziro ivametantzi, tsika ankanteri avantyaariri kisanentantzinkari.</sentence>
+        <sentence lang="es">Tenía pocas guerras, pero le gustó enseñar qué hacer para matar enemigos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="15.28">
+        <sentence lang="prq">Iroñaaka arika ishinkitya oshe yantantzi, yasamakari atziripaye, ashaninkapaye yasamakiri.</sentence>
+        <sentence lang="es">Cuando se embragaba, mucho pegó a las personas, se aburrieron las personas, los paisanos se aburrieron.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
