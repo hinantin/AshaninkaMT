@@ -5048,4 +5048,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="14.11">
+        <sentence lang="prq">“Tsame averi irotaki,” yatziritantanakari, ikovi iroñaaka intsiparyaakoventeri Juan Santos Atahualpa.</sentence>
+        <sentence lang="es">“Vamos a matarlos,” es por eso que se convirtió en una persona, quería librar a Juan Santos Atahualpa Inka.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="14.12">
+        <sentence lang="prq">Por eso se convirtió en una persona hace mucho tiempo.</sentence>
+        <sentence lang="es">Pairani irotaki yatziritantakari.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
