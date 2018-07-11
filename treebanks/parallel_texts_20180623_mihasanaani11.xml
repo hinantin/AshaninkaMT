@@ -4814,4 +4814,22 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="12.5">
+        <sentence lang="prq">Ivakakyaaro irojatzi antarotantakya eentsipayera.</sentence>
+        <sentence lang="es">Los hacen comer hasta que sean grandes las niñas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="12.6">
+        <sentence lang="prq">Arika antarotapake, yenkatayetapake evankaropayera, ikanta atziritatzirika nocharinetepaye, inapaye ivetsike antaroite oya kipatsinaki.</sentence>
+        <sentence lang="es">Cuando sean grandes, tienen mucha grasa las jovencitas, estas personas - mis abuelos, las mujeres- hacen olla de barro grande.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="12.7">
+        <sentence lang="prq">Ikotsitantari, imoyantari inijaate.</sentence>
+        <sentence lang="es">Para cocinar, hervir su agua.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
