@@ -5408,4 +5408,70 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="18.20">
+        <sentence lang="prq">Saikanaki, iroñaaka ikoyanaki, ikoyaki, ikoyaki, tsitenityaki.</sentence>
+        <sentence lang="es">Se quedó, está escojendo más pescado, ya estaba oscureciendo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.21">
+        <sentence lang="prq">Ikantavetajari iroñaaka: “Tsame aataje, ani.”</sentence>
+        <sentence lang="es">Le decía nuevamente ahora: “Vámonos, cuñado.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.22">
+        <sentence lang="prq">Ikantzi: “Apaatatsita, pirontzitachai,” saikatzi, iroñaaka ikantakota tsitenitanaki.</sentence>
+        <sentence lang="es">Dice: “Espérate, como somos luciernagas,” seguía estando hasta que oscureció.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.23">
+        <sentence lang="prq">Iroñaaka ikantanakiri: “Tsame aataje.”</sentence>
+        <sentence lang="es">Nuevamente le decía: “Vámonos ya.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.24">
+        <sentence lang="prq">Aniijetanaji avotsiki, ijataki, ijataki, yaniitzi avotsiki, intainataima isaikajetzinta, isaikayetzi tonkariki.</sentence>
+        <sentence lang="es">Se fueron caminando por el camino, caminando por el camino, están muy lejos de donde viven - viven en las alturas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.25">
+        <sentence lang="prq">Ipokajetzi ishimatya otapiki.</sentence>
+        <sentence lang="es">Vienen a pescar abajo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.26">
+        <sentence lang="prq">Yatsipetanajyaaro intonkanaje, intonkanaje, intonkanaje.</sentence>
+        <sentence lang="es">Con tanto sacrificio suben, suben, suben.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.27">
+        <sentence lang="prq">Ishonkanajaro otzishi yareetantajyari isaikajetzinta.</sentence>
+        <sentence lang="es">Se da la vuelta en el cerro para llegar donde viven.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.28">
+        <sentence lang="prq">Ikantakota itonkanaki irirori.</sentence>
+        <sentence lang="es">Seguían yendo, subiendo las alturas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.29">
+        <sentence lang="prq">Ipirontzitatzira yootanakero avotsi, jaitetzi, ikenapitsatakeri, yookaitanakiri irirori Tziivito mokotziriri.</sentence>
+        <sentence lang="es">Como él luciernaga, se fue alumbrando el camino, se fueron rápido, se fueron lo más rápido, le dejaron al Tziivito jorobado.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.30">
+        <sentence lang="prq">Anta iposapainta pok, yovavetaja, ari iposapainta pok, yovanaja, ari iposapainta pok, itsonka iposaro inchatopaye.</sentence>
+        <sentence lang="es">Se fue chancándose, seguía caminando, otra vez se golpeaba pok, otra vez caminaba, se golpeaba pok, en todos partes se golpeó con los árboles.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
