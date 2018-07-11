@@ -5780,4 +5780,76 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="19.27">
+        <sentence lang="prq">Osaikanaji otsirikantari iroñaaka aparoni atziritsi, aparoni oparitsatsi, aparoni akotsi, aparoni oparitsatsi aka airikantari.</sentence>
+        <sentence lang="es">Vive pegada en el tronco, una parte como la persona, la otra parte es de raiz, una parte tiene brazos, la otra parte tiene raíces aquí que ella agarran.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="19.28">
+        <sentence lang="prq">Okantavaita irora oparitsairikipaye.</sentence>
+        <sentence lang="es">Tiene sus raíces.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="19.29">
+        <sentence lang="prq">Ari okantari ikinkitsatakoitziri yoka Kasantotatsiri, inchatyaakitatsiri, Kasanto opaita.</sentence>
+        <sentence lang="es">Así cuentan esa historia de la flor Orquídea, así está la flor, se llama Orquídea.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="19.30">
+        <sentence lang="prq">Ari overapakari noyenkitsari kapicheeni, nopyaakotakaro, te noyotero pairani.</sentence>
+        <sentence lang="es">Hasta allí es mi cuento corto, ya me olvidé, no me recuerdo mucho desde muchos años.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.0">
+        <sentence lang="prq">INOSHIKAITZIRO INA</sentence>
+        <sentence lang="es">LA HAN RAPTADO A MI MAMÁ</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.1">
+        <sentence lang="prq">Iroñaaka kitaiterika nokinkitsatakotero ina, tsika okanta opokantakari Marankiaroki ina.</sentence>
+        <sentence lang="es">En este día voy a contar sobre mi mamá, cómo llegó en Bajo Marankiari mi mamá.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.2">
+        <sentence lang="prq">Osaikiri onampi Shintsivaki ikantaitziro Chinchivani, irotaki oijatzirori nijaatatsiri Purukayari.</sentence>
+        <sentence lang="es">Vivía en un pueblo Shintsivaki que se llama Chinchivani, lo que sigue el río Apurucayali.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.3">
+        <sentence lang="prq">Ari opoñaari ina.</sentence>
+        <sentence lang="es">De allí viene mi mamá.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.4">
+        <sentence lang="prq">Aparoni kitatiteri osaikinta Shintsivaki.</sentence>
+        <sentence lang="es">Un día estaba en Shintsivaki.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.5">
+        <sentence lang="prq">Irini ijatzi ishimateta, ijatzi pareniki, yameni shima ayaari.</sentence>
+        <sentence lang="es">Sus padres se habían ido a pescar, buscar pescado para comer.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.6">
+        <sentence lang="prq">Ikanta ipokajetaki shiramparipaye, ovayeri inajetatzi.</sentence>
+        <sentence lang="es">Después vinieron hombres, eran guerreros.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.7">
+        <sentence lang="prq">Pairani tzimatsi osheki ovayeri, inoshikiro kooya, yaanakiro anta isaikinta virakochamashiki, ipimantziro.</sentence>
+        <sentence lang="es">Antes habían bastante guerreros que raptaban a las mujeres, las llevaron donde habitaban los mestizos y las vendían.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
