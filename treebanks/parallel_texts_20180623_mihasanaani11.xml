@@ -6014,4 +6014,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="20.35">
+        <sentence lang="prq">Te oyotero pairani kashiri, te oyotero osarentsi.</sentence>
+        <sentence lang="es">No conocía antes meses, no conocía años.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
