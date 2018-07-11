@@ -5575,4 +5575,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="18.47">
+        <sentence lang="prq">Iroñaaka kisaamokoinatakimi irojatzita iroñaaka, ivashiventataitakimi, apaatsiro ikisaamokoinatzi.”</sentence>
+        <sentence lang="es">Estás muy negro ahora, te han hecho avergonzar, estás negro.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
