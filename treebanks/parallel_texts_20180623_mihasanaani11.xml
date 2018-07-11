@@ -5954,4 +5954,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="20.25">
+        <sentence lang="prq">Yamajiro, iroñaaka ivantaitakiro aparoni piratsi, mula o caballo.</sentence>
+        <sentence lang="es">La trajeron, ahora le hicieron subir un animal llamado mula o caballo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.26">
+        <sentence lang="prq">Ikenakapakiro Metararoki, Metraro iroñaaka o Mariscal Cáceres.</sentence>
+        <sentence lang="es">La hicieron andar a Metararo, ahora es Metraro o Mariscal Cáceres.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.27">
+        <sentence lang="prq">Iroñaaka avotsiki irojatzi Pampa Vueliki, tzimatsi virakochapaye.</sentence>
+        <sentence lang="es">Ahora por el camino hasta Pampa Hueli [Whaley], habían allí mestizos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
