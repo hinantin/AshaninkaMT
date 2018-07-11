@@ -4880,4 +4880,22 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="12.16">
+        <sentence lang="prq">Yairikajero oitsari, isapokakerorika.</sentence>
+        <sentence lang="es">Cuando ya la desvisten, sacan su ropa.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="12.17">
+        <sentence lang="prq">Intotakero, yookakero amporetsa.</sentence>
+        <sentence lang="es">La cortan, botan los intestinos de la jovencita.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="12.18">
+        <sentence lang="prq">Sacan la mano, la cabeza, cortan el cuello y lo botan.</sentence>
+        <sentence lang="es">Yaakero ako, oito, intsatyakeniro, yookakero.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
