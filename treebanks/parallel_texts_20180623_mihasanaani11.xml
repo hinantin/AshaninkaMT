@@ -4976,4 +4976,40 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="13.0">
+        <sentence lang="prq">OVAYERIPAYE</sentence>
+        <sentence lang="es">LOS GUERREROS</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="13.1">
+        <sentence lang="prq">Kitaiteri maaroni, amenakoteri ikaratzi yoka cuento [kinkitsarentsi] intakantarori atziripaye.</sentence>
+        <sentence lang="es">Buenos días a todos, vamos a ver todos estos cuentos cuando antiguamente ellos eran personas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="13.2">
+        <sentence lang="prq">Yoka ipaita Tsamiri, ikantata yatzirivetani Tsamiri, osheki tsika ijatzi ikentavaitzi.</sentence>
+        <sentence lang="es">Esto se llama Paujil, cuando era una persona mucho le gustaba ir a flechar.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="13.3">
+        <sentence lang="prq">Ivayerita, maaroni yokapaye piñaayetakiri ovayeri inatzi.</sentence>
+        <sentence lang="es">Le gustaba ir a la guerra; todos los que ves son guerreros.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="13.4">
+        <sentence lang="prq">Yoka ovayeri Katari, yoka ipaita ovayeri Manii, yoka Pitsikenkitzi, ovayeri Potsotzi, yoka ovayeri Tziivito.</sentence>
+        <sentence lang="es">Este guerrero es los Patos Silvestres, este se llama el guerrero Perro Negro (Izula), este se llama el Cobarde (huye y no sabe pelear), el guerrero Achiote, el guerrero Escarabajo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="13.5">
+        <sentence lang="prq">Iroka ipaita Maini, Kompero, Manitzi, ovayeri Maranki, kisaariranki Maranki, ikantaitzi boa [noonki].</sentence>
+        <sentence lang="es">Este se llama el Oso, el Ave de Colores, el Tigre, el guerrero Culebra de color negro que se llama Boa.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
