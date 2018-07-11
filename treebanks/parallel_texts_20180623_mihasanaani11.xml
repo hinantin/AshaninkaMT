@@ -5186,4 +5186,46 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="16.0">
+        <sentence lang="prq">PITSIKENKETZI</sentence>
+        <sentence lang="es">EL COBARDE</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="16.33">
+        <sentence lang="prq">Irika ipaita Pitsikenketzi, te iyote ivayeritya, ikityonkatantari ivoroka, ipotsotatyaro potsotzi.</sentence>
+        <sentence lang="es">Este se llama Pitsikenkitzi, no sabe pelear, rojo es su cara, se pinta con achiote.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="16.34">
+        <sentence lang="prq">Ipoñaaka aka yampinaikakyari ivañuelote, ikantaki iroñaaka: “Ikintaitakina irotakima nokatsitatzi.”</sentence>
+        <sentence lang="es">Está envuelto en un pañuelo, dice ahora: “Me han flechado, es por eso que me duele.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="16.35">
+        <sentence lang="prq">Osheki itsarovanitzi, te iyonite imanatya.</sentence>
+        <sentence lang="es">Tiene mucho miedo, no sabe luchar.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="16.36">
+        <sentence lang="prq">Arika ijate ivayeritya, iñaapakeri irirori ivanakeri pashini atziri, imantsiyatakerika, aake ichekopite, inkentakeri irirori.</sentence>
+        <sentence lang="es">Cuando va a luchar y ve a una persona muerta por otras o una persona enferma [herida], agarra su flecha y lo flechea.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="16.37">
+        <sentence lang="prq">Inkantake: “Iritaki novakiri naaka, nojatzi novayeritya.”</sentence>
+        <sentence lang="es">Dice: “Eso es lo que he matado yo cuando estaba en la guerra.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="16.38">
+        <sentence lang="prq">Pero itsaiya, osheki itsarovanitzi, te inkante imanatya.</sentence>
+        <sentence lang="es">Pero es una mentira, es muy miedoso, no puede luchar.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
