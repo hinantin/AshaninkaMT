@@ -5228,4 +5228,16 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="16.39">
+        <sentence lang="prq">Osheki imana, ikante: “Mantsiyatakina.”</sentence>
+        <sentence lang="es">Mucho esconde, dice: “Estoy enfermo.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="16.40">
+        <sentence lang="prq">Ari okaratzi irashi iñaani irirori.</sentence>
+        <sentence lang="es">Así se habla del guerrero Pitsikenkitzi.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
