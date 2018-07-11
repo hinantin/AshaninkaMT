@@ -5507,7 +5507,12 @@ SAV0608737
     <text id="18.36">
         <sentence lang="prq">Saikajetzi, itzinanaka, yakipayetapaki.</sentence>
         <sentence lang="es">Estaban sentados, levantados chipando.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves (e.g. food; ES: envolver.algo.con.hojas; hacer.patarashaca/QU:patarasqa)][--][-ye][+DIST][=PL.S/A+.who.are.separated.into.groups.in.≠.locations]ye[--][-t][+EP]t[--][-ap+goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-i+n.fut.][+REAL]i
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="18.37">
@@ -5531,6 +5536,24 @@ SAV0608737
     <text id="18.40">
         <sentence lang="prq">“Tsika opaita antakeriri ani? Paitakya imairitantari?”</sentence>
         <sentence lang="es">“¿Qué le pasó? ¿Por qué está calmo?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.41">
+        <sentence lang="prq">Ijatashitanakiri, iñaapatziri isavoinataka iitsari.</sentence>
+        <sentence lang="es">Se fueron a verlo, lo encontraron metido en la cushma.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.42">
+        <sentence lang="prq">Isavoinamokotzitaka, ipashiryaakotakiri, ikantaka aka yoiyotaka, ikantakotziri aka, iñaatziri kisaamokotzi.</sentence>
+        <sentence lang="es">Estaba en forma de una bola, le sacaron su capa, estaba agachado, lo encontraron por todo su cuerpo el color negro, moratiado.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.43">
+        <sentence lang="prq">Itsonka iponaataki, ikanta iposaposatanaka inchatokipaye, ijatzi iposapainta, posapainta, itsonka iponaataki.</sentence>
+        <sentence lang="es">Su cuerpo está moratiado de tanto golpearse en los árboles, se fue golpeando, se fue golpeando, todo está moratiado.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
