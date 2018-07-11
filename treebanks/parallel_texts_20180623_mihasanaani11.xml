@@ -5108,4 +5108,10 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="14.21">
+        <sentence lang="prq">Aritaki okantari iñaaventa yoka, ikovaveta ivavisakoterimi pinkatsari Juan Santos Atahualpa.</sentence>
+        <sentence lang="es">Así hablan de estos que querían salvarlo a Juan Santos Atahualpa.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
