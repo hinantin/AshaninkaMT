@@ -5972,4 +5972,40 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="20.28">
+        <sentence lang="prq">Ipimantapakiro, ipaitakiri tonkamentotsi, ipaitakiri kitsarentsi, kitsapi, paita ikovayetziri, amenarontsi, vaaraki.</sentence>
+        <sentence lang="es">La vendieron, les dieron escopetas, ropa, aguja, las cosas que querían, espejo, cartucho.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.29">
+        <sentence lang="prq">Yaanakiro virakocha, irika ovayeri piyanaka yamene pashini tsika ontzime inoshikayeteri saikayetatsiri.</sentence>
+        <sentence lang="es">La llevaron los mestizos, los guerreros se regresaron para buscar a otros, a quien raptar, los que vivían.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.30">
+        <sentence lang="prq">Kooyapaye yayi ovayeri, shirampari te, kapicheeni.</sentence>
+        <sentence lang="es">Llevan los guerreros a las mujeres, hombres no, muy poco.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.31">
+        <sentence lang="prq">La llevaron los mestizos en el carro, la llevaron por Paucartambo, Puente Perene, Tsiirishiki, se llama ahora La Merced.</sentence>
+        <sentence lang="es">Yaaitanakiro, yaanakiro virakocha, itetanakiro ishiyakomentoki, ikenakiro Paucartambo, Puente Perene, Tsiirishiki ikantaitziro iroñaaka La Merced.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.32">
+        <sentence lang="prq">Ivavisanakiro Tarma [Taroma], yaanakiro irojatzi Lima [Irimashiki].</sentence>
+        <sentence lang="es">Pasaron por Tarma, la llevaron hasta Lima.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.33">
+        <sentence lang="prq">Ari osaikaitzi inani Lima [Irimashiki].</sentence>
+        <sentence lang="es">Allí vivía mi mamá difunta en Lima.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
