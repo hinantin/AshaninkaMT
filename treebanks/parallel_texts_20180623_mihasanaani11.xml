@@ -5384,4 +5384,28 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="18.16">
+        <sentence lang="prq">Te ikimisanteri, aikiro ipiyatsatatyaari.</sentence>
+        <sentence lang="es">No le escuchó, sigue desobediciendo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.17">
+        <sentence lang="prq">“Aitaki pirontzitachai,” ikantzi, “arityami,” ikantatzira, “Pirontzitachai‟.</sentence>
+        <sentence lang="es">Bueno, como dijo que es Luciernaga, así será, como dijo que es Luciernaga.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.18">
+        <sentence lang="prq">Okantzimanentakari irirori, ikemakari, ikemakatyaari ipaita pirontzira inatzi, yootanajya.</sentence>
+        <sentence lang="es">Estaba resentido a su cuñado, como le hacía escuchar como se llama Luciernaga, y se va a alumbrar.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.19">
+        <sentence lang="prq">“Eero nootanajiri iroñaaka.”</sentence>
+        <sentence lang="es">“Ya no le voy a alumbrar ahora.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
