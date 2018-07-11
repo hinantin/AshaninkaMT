@@ -4893,8 +4893,20 @@ SAV0608737
         <parsing format="" analysislevel=""/>
     </text>
     <text id="12.18">
-        <sentence lang="prq">Sacan la mano, la cabeza, cortan el cuello y lo botan.</sentence>
-        <sentence lang="es">Yaakero ako, oito, intsatyakeniro, yookakero.</sentence>
+        <sentence lang="prq">Yaakero ako, oito, intsatyakeniro, yookakero.</sentence>
+        <sentence lang="es">Sacan la mano, la cabeza, cortan el cuello y lo botan.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="12.19">
+        <sentence lang="prq">Intetzimaityaro kooyara evankarora oyaki omoyakera.</sentence>
+        <sentence lang="es">Nuevamente meten a esta joven en la olla donde el agua hierve.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="12.20">
+        <sentence lang="prq">Intoyetakiro, imposantakero, ivajetya.</sentence>
+        <sentence lang="es">La partieron en pedazos, está cocinada, la comen juntos.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
