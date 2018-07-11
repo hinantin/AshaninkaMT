@@ -5510,4 +5510,28 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="18.37">
+        <sentence lang="prq">Inkaranki ishimatepaye akiparyaakotaki, ovajetakani.</sentence>
+        <sentence lang="es">Después sus pescados sacaron para comer, están comiendo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.38">
+        <sentence lang="prq">Ikaimavetari:Ani, ani, pimpokanake, tsame aya.”</sentence>
+        <sentence lang="es">Estaban llamando: “Cuñado, cuñado, ¡ven! Vamos a comer.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.39">
+        <sentence lang="prq">Ikaimavetari: “Te añeeri iraniri, te irakeri.”</sentence>
+        <sentence lang="es">Estaban llamando: “No está su cuñado, no contestó.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.40">
+        <sentence lang="prq">“Tsika opaita antakeriri ani? Paitakya imairitantari?”</sentence>
+        <sentence lang="es">“¿Qué le pasó? ¿Por qué está calmo?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
