@@ -5660,4 +5660,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="19.7">
+        <sentence lang="prq">Tzimatsi kitamarori, aajatzi tzimatsi kasankatatsiri kitamaroporoki.</sentence>
+        <sentence lang="es">Hay el color blanco, también grupos perfumados de color blanco.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="19.8">
+        <sentence lang="prq">Iro ikantaitziri Kasanto, Kasantotatsiri.</sentence>
+        <sentence lang="es">Eso es lo que se llama Kasanto, Orquídea.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="19.9">
+        <sentence lang="prq">Aajatzi oshi, kametsatatsi irora ikantaitzira ashi onkatsite aito.</sentence>
+        <sentence lang="es">También es una hoja, es buena para, cómo se dice, para el dolor de nuestra cabeza.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="19.10">
+        <sentence lang="prq">Kasankarini, ikantaitziro manintoshi, maisantaroshi.</sentence>
+        <sentence lang="es">Es muy perfumada, lo llaman „la hoja para olvidarse.‟</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
