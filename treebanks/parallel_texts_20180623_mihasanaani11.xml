@@ -5906,4 +5906,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="20.17">
+        <sentence lang="prq">Aajatzita shitsanentsi.</sentence>
+        <sentence lang="es">También mataban a personas con enfermedades venéreas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.18">
+        <sentence lang="prq">Irotaki yovayeriventziri.</sentence>
+        <sentence lang="es">Por eso habían luchas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.19">
+        <sentence lang="prq">Pairani te inkovaiteri matsi, aajatzita ishitsanivaitatziri atziri.</sentence>
+        <sentence lang="es">Antes no querían a brujos, tampoco a las personas con enfermedades venéreas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
