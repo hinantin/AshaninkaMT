@@ -5581,4 +5581,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="18.48">
+        <sentence lang="prq">Iroñaaka ikantaitziri Tziivito ikisaamokoinatantari.</sentence>
+        <sentence lang="es">Llaman el escarabajo „lo que es negro.‟</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.49">
+        <sentence lang="prq">Te iyote tekatsi iroki irootantyaari, iroma Pirontzija tzimatsi irootantari, areetaja kameetsa.</sentence>
+        <sentence lang="es">No sabía que no tiene ojos de luz, en cambio Luciernaga sí, tiene luz, llegó bien.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.50">
+        <sentence lang="prq">Te imposamokoinate, tzimatsi irootamento yootantarori avotsi.</sentence>
+        <sentence lang="es">No se golpea porque tiene su luz para alumbrarse en el camino.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.51">
+        <sentence lang="prq">Yookaitanakiri irirori ipiyatsata, eero ipiyatsatami, eero yookaitzirimi.</sentence>
+        <sentence lang="es">Lo dejaron por desobediencia, si no hubiera desobedeciado, no lo hubieran dejado.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
