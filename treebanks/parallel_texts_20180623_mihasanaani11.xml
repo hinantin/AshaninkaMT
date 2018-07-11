@@ -4910,4 +4910,22 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="12.21">
+        <sentence lang="prq">Ari ikantzirori intanakarori nocharine tekirata areetyata yoka kitamarantzipaye, akantzi „virakochapaye.‟</sentence>
+        <sentence lang="es">Así hacían antiguamente mis antepasados antes de la llegada de los blancos, decimos „virakocha‟.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="12.22">
+        <sentence lang="prq">Tekirata iñeerita, te iyoteri virakocha, isaiki tonkariki, te yareetyari, te isaike pareni tsapyaaki, ari isaiki tonkariki.</sentence>
+        <sentence lang="es">Todavía no los encontraban; no conocían a las personas blancas, vivían en las alturas, no llegaban, no iban a las orillas del río, vivían en las alturas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="12.23">
+        <sentence lang="prq">Te iyoteri atziripaye pokatsiri.</sentence>
+        <sentence lang="es">No conocían a la gente que venía.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
