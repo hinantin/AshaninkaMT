@@ -5852,4 +5852,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="20.8">
+        <sentence lang="prq">Yantaro kitsaarentsi, yantarori tonkamentotsi, yantaro kovitzi, paitari ikovayetziri, vaaraki itonkantyari imanirote.</sentence>
+        <sentence lang="es">Cambiaron con ropa, escopetas, ollas, otras cosas más que querían, cartuchos para cazar venado.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.9">
+        <sentence lang="prq">Opoñaaka osaikanaki apaniroini ina pankotsiki, ikanta ivayeri ipokapaki iroñaaka, inoshikapakiro.</sentence>
+        <sentence lang="es">Sola estaba mi mamá en la casa, cuando los guerreros vinieron y la raptaron.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
