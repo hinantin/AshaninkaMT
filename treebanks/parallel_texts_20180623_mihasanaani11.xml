@@ -5474,4 +5474,40 @@ SAV0608737
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="18.31">
+        <sentence lang="prq">Iropaite irareetya, paryaaparyaatatzi irirori.</sentence>
+        <sentence lang="es">No llegaba, cayéndose, cayéndose.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.32">
+        <sentence lang="prq">Iraniri areetaja, yooyakovetapajiri, yooyakovetari yareetajya.</sentence>
+        <sentence lang="es">Su cuñado llegó, estaba esperando que llegue.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.33">
+        <sentence lang="prq">Okitaitzimataji yareetaja Tziivito irirori.</sentence>
+        <sentence lang="es">Llegó en la madrugada el Tziivito.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.34">
+        <sentence lang="prq">Yamenavetamanari okitaityanaki: “Tsika ani? Areetajataima.”</sentence>
+        <sentence lang="es">En la mañana lo buscó: “¿Dónde está mi cuñado? Ya habrá llegado.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.35">
+        <sentence lang="prq">Ikantatzi inkaranki: “Pirontzitachai.”</sentence>
+        <sentence lang="es">Dijo de antes: “Como soy luciernaga.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="18.36">
+        <sentence lang="prq">Saikajetzi, itzinanaka, yakipayetapaki.</sentence>
+        <sentence lang="es">Estaban sentados, levantados chipando.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
