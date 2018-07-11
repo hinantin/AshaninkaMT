@@ -5714,4 +5714,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="19.16">
+        <sentence lang="prq">Ikantzi arika yoijanatavakanakya, yoijanatavakanakya, impiyatavakanakya ivayeritya oshiyanakerika Kasantora onatzi.</sentence>
+        <sentence lang="es">Decían que cuando se perseguían ambos en la guerra, se escapa la Orquídea.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="19.17">
+        <sentence lang="prq">Oñaapakero antaro inchato, ari osaikapake, omanapakya, yavisavetacha oijantzirori.</sentence>
+        <sentence lang="es">Encuentra el tronco del árbol grande, allí se esconde aunque se pasan los guerreros, los que la perseguían. </sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
