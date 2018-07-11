@@ -5738,4 +5738,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="19.20">
+        <sentence lang="prq">Ikantaitziro guerrera Kasanto pero inchatyaaki onatzi.</sentence>
+        <sentence lang="es"> La llaman la guerrera Orquídea, pero la flor es.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="19.21">
+        <sentence lang="prq">Irotaki intakantayetarori pairani ikantavetari atzirivetani.</sentence>
+        <sentence lang="es">Ellos son antepasados que vivían antiguamente, los guerreros.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
