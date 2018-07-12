@@ -6326,4 +6326,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="22.2">
+        <sentence lang="prq">Nosaikira naaka, naakira noime, apaniroini nosaiki.</sentence>
+        <sentence lang="es">Como viviá solita, como me casé con mi esposo, viviá solita.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
