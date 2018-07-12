@@ -399,4 +399,16 @@ otsipatari	[o-][NPers][3n.m.poss+][--][=tsipat][VRoot][=to.accompany; to.join; t
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="56">
+        <sentence lang="prq">Abakojetiro 5°. Nija ikantakantaetiro ñaantsi</sentence>
+        <sentence lang="es">Artículo 5º. El agua comprendida en la Ley</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="57">
+        <sentence lang="prq">Nija okobapirotatya iroñaaka ikantakantaetsire Ñaantsi ayotakotaero:</sentence>
+        <sentence lang="es">El agua cuya regulación es materia de la presente Ley comprende lo siguiente:</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
