@@ -6302,4 +6302,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="21.29">
+        <sentence lang="prq">Aajatzita irirori itzimapaki dieciséis yosarentsite ipaitantakanari shiramparira.</sentence>
+        <sentence lang="es">Él también tenía dieciséis años cuando me lo dieron este hombre.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
