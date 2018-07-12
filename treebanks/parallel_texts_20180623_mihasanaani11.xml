@@ -6110,4 +6110,34 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="20.51">
+        <sentence lang="prq">Ari ovirapakari.</sentence>
+        <sentence lang="es">Así lo termina.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.52">
+        <sentence lang="prq">Inani te añaaje, kamaki, akinkishiryaakotashitaro.</sentence>
+        <sentence lang="es">Mi mamá difunta no está viva, murió, estamos recordando de ella.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="II.0">
+        <sentence lang="prq">OYENKITSARI KOOYAPAYE</sentence>
+        <sentence lang="es">CUENTOS DE LAS MUJERES</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="21.0">
+        <sentence lang="prq">AÑAAVENTZIRO OKANTA AAVAKANTARI</sentence>
+        <sentence lang="es">VAMOS A HABLAR SOBRE CÓMO SE CASÓ LA SRA BERTHA</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="21.1">
+        <sentence lang="prq">Naaka nonkinkitsatakotya naantakariri noimentakari irintanakari nishinto, notomi.</sentence>
+        <sentence lang="es">Voy a contar cómo me casé con él que fue mi esposo, que fue el padre de mi hija y mi hijo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
