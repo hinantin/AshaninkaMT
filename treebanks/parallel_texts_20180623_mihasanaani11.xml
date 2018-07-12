@@ -6182,4 +6182,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="21.9">
+        <sentence lang="prq">Te nonintavetyari, aanakinara, ashitakotapakina ivankoki, oyavitakotanakina, ari nosaiki intsompoi niraavaita.</sentence>
+        <sentence lang="es">No lo quería, cuando me llevó, me encerró en su casa, me encerró con la llave, allí me quedé adentro, yo lloraba.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
