@@ -6482,4 +6482,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="22.28">
+        <sentence lang="prq">Ookapaintana: “Avirori pikaataka?”</sentence>
+        <sentence lang="es">Me dejó: “Tú te bañaste?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="22.29">
+        <sentence lang="prq">Tekatsi amenenani, paita kaatenani?</sentence>
+        <sentence lang="es">Nadie me cuide, ¿quién me va a bañar?</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="22.30">
+        <sentence lang="prq">Nosaikira apaniroini.</sentence>
+        <sentence lang="es">Estoy sola.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="22.31">
+        <sentence lang="prq">Ari opokapaji, okantzi: “Pisaike aka.”</sentence>
+        <sentence lang="es">Ella vino, dijo: “Tome asiento.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
