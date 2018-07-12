@@ -6374,4 +6374,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="22.10">
+        <sentence lang="prq">Nokimiro okatsitana, opitsoryaana notsomonte: “Paita antakinari?”</sentence>
+        <sentence lang="es">Sentía que me dolía y me daba cólicos en mi barriga: “¿Qué me está pasando?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="22.11">
+        <sentence lang="prq">Okatsitatzi notsomonte, notaashitaki mapi, notsiyaro notsomonteki, notsiyaro, opyaanentavetapaintana.</sentence>
+        <sentence lang="es">Me dolía la barriga, calenté una piedra, calenté con ésta mi estómago, calmaba mi dolor.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
