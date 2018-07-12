@@ -6362,4 +6362,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="22.8">
+        <sentence lang="prq">Omapokashitakana, nosaiki nopishitziro novanko.</sentence>
+        <sentence lang="es">Lo me sorprendió, estaba en mi casa barrendo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
