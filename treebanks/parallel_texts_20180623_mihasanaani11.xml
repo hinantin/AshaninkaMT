@@ -6140,4 +6140,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="21.2">
+        <sentence lang="prq">Te noñeeri, nonintavakeri, ikimita pashinipaye onintavakaka, oñaakari shirampari, okinkitsavaitakakiri, onintakiri.</sentence>
+        <sentence lang="es">No había visto, no me había enamorado de él, como otras se enamoran, tienen sexo, conversan, quieren al hombre.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
