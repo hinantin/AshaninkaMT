@@ -6086,4 +6086,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="20.47">
+        <sentence lang="prq">Apa aajatzita te yashityaaro inampi Marankiaroki, ipoñaatya aajatzita anta Shimpitsinani, machiyenka inatzi.</sentence>
+        <sentence lang="es">Mi papá no es de Bajo Marankiari tampoco, viene de allá, del pueblo llamada Shimpitsinani, machigenga es.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.48">
+        <sentence lang="prq">Irotaki ishipatonatantari.</sentence>
+        <sentence lang="es">Por eso tiene bigotes.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.49">
+        <sentence lang="prq">Ashaninkaperori tekatsi ishipatona, intaani apa ishipatonatatzi.</sentence>
+        <sentence lang="es">Mis paisanos legítimos no tienen bigotes, solamente mi papá tiene.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.50">
+        <sentence lang="prq">Iro ikantantanari virakochapaye: “Te pishaninkate, pishipatonatantari, avirokataima virakocha, te pishaninkataje.”</sentence>
+        <sentence lang="es">Por eso me dicen los mestizos: “Tú no eres ashaninka porque tienes bigotes, tú serás mestizo, tú no eres ashaninka.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
