@@ -6278,4 +6278,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="21.25">
+        <sentence lang="prq">Iroñaaka ipokapaji niri, ikantakiri: “Nonintakiro pishinto, kantzimaitacha opakenaro inirotsori, opakenaro irento, irotaki amakenarori novankoki.”</sentence>
+        <sentence lang="es">Ahora cuando vino mi papá, le dijo [el joven]: “Quiero a tu hija, me la entregó su tía y hermana, ella me la trajo en mi casa.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="21.26">
+        <sentence lang="prq">Niri ikantzirori: “Pinintakerorika, payerotaima.”</sentence>
+        <sentence lang="es">Mi papá le dijo: “Si la quieres, cásate.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="21.27">
+        <sentence lang="prq">Ari okanta nantakari noimentakari, otzimantanakari nishinto, notomi.</sentence>
+        <sentence lang="es">Así fue como me casé con él que fue mi esposo, por eso tuve mi hijas y hijos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
