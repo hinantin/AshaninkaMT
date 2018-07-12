@@ -447,4 +447,10 @@ otsipatari	[o-][NPers][3n.m.poss+][--][=tsipat][VRoot][=to.accompany; to.join; t
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="64">
+        <sentence lang="prq">7. Opiyeta nijatatire;</sentence>
+        <sentence lang="es">7. La de los nevados y glaciares;</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
