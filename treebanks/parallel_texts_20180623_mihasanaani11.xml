@@ -6314,4 +6314,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="22.0">
+        <sentence lang="prq">ITZIMANTARI NEENTSITE</sentence>
+        <sentence lang="es">PARA QUE NAZCA MI HIJO</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="22.1">
+        <sentence lang="prq">Nonkinkitsakotya ikanta itzimi neentsite.</sentence>
+        <sentence lang="es">Voy a hablar sobre cómo nació mi hijo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
