@@ -387,4 +387,16 @@ otsipatari	[o-][NPers][3n.m.poss+][--][=tsipat][VRoot][=to.accompany; to.join; t
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="54">
+        <sentence lang="prq">Abakojetiro 4°. Obaerotaripe</sentence>
+        <sentence lang="es">Artículo 4º. Denominaciones</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="55">
+        <sentence lang="prq">Arika antero ikantakantaetsire “Ñaantsi” ora “Obakotatya” ayotiro irotake inintakaetati ikantakantaetsire Ñaantsi ora Obakotero. Jebabentirori Anampitsiteotime ikimatsatero Jebabentirori Anampitsite ashi Nija (ANA) okantire saekatire ashitari opoñanijasato.</sentence>
+        <sentence lang="es">Cuando se haga referencia a “la Ley” o “el Reglamento”, se entiende que se trata de la presente Ley o de su Reglamento. La Autoridad Nacional debe entenderse como Autoridad Nacional del Agua (ANA) y el Consejo de Cuenca como Consejo de Recursos Hídricos de Cuenca.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
