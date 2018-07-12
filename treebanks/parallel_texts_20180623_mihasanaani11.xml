@@ -6392,4 +6392,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="22.13">
+        <sentence lang="prq">Irotaki ontsitenitanake maperotanakina, te namavitapajero oyatsinka.</sentence>
+        <sentence lang="es">Ya va a ser de noche, estaba peor, ya no soportaba el dolor.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
