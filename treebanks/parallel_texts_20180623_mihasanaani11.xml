@@ -6458,4 +6458,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="22.24">
+        <sentence lang="prq">Aanakinari: “Kaari pisaikanta intsompoi, kaari pikamantzitantana?”</sentence>
+        <sentence lang="es">Me lo llevó: “¿Por qué no estás adentro? ¿Por qué no me avisaste?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
