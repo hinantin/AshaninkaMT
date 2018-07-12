@@ -6308,4 +6308,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="21.30">
+        <sentence lang="prq">Notsipataki irojatzita veinte nueve yosarentsite, ari ikamaki noime, yookanakina apaniroini irojatzita noñaantaja pashini noime.</sentence>
+        <sentence lang="es">Vivía con él hasta tuvo veinte nueve años, se murió mi esposo, me dejó sola hasta que encontré otro esposo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
