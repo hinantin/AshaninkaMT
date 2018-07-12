@@ -6434,4 +6434,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="22.20">
+        <sentence lang="prq">Tzimatsi nayiro, osaiki okimita iro pashini pankotsi, osaiki okanta.</sentence>
+        <sentence lang="es">Tenía mi tía, vivía allá en otra casa, estaba allí.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
