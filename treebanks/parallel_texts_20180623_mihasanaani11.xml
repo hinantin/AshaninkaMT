@@ -6344,4 +6344,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="22.5">
+        <sentence lang="prq">Noime te isaike, ijatzi yantavaitzi, itotatzi shiringa.</sentence>
+        <sentence lang="es">Mi esposo no estaba, se fue a trabajar, estaba cortando shiringa.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="22.6">
+        <sentence lang="prq">Apaniroini nosaiki novankoki.</sentence>
+        <sentence lang="es">Solita estaba en mi casa.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="22.7">
+        <sentence lang="prq">Te niyoteri tsika okaratzi kashiri intzimantyaari neentsite.</sentence>
+        <sentence lang="es">No sabía cuántos meses tenía para que nazca mi hijo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
