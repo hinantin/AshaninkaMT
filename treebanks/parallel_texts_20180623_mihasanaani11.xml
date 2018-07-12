@@ -6506,4 +6506,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="22.32">
+        <sentence lang="prq">Nosaiki okitaitamanaki.</sentence>
+        <sentence lang="es">Estaba allí por la mañana.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
