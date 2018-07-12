@@ -6158,9 +6158,27 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
-    <text id="21">
-        <sentence lang=""/>
-        <sentence lang=""/>
+    <text id="21.5">
+        <sentence lang="prq">Otzimapaki quince nosarentsite, tekatsira ina, nonirotsori irotaki amenenari nirentopaye.</sentence>
+        <sentence lang="es">Tenía quince años, como no tenía mamá, mi tía estaba cuidando a mi y a mis primos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="21.6">
+        <sentence lang="prq">Me dijo, me llevó, me buscó un hombre, me entregó a él.</sentence>
+        <sentence lang="es">Okantakina, aanakina iroñaaka amenakinari aparoni shirampari, opakinari.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="21.7">
+        <sentence lang="prq">Okanta noimentakari irintanakari nishintopaye iroñaaka.</sentence>
+        <sentence lang="es">Así era como me casé con él que fue el padre de mis hijos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="21.8">
+        <sentence lang="prq">Ari okantari noñaantakariri shiramparika.</sentence>
+        <sentence lang="es">Ari okantari noñaantakariri shiramparika.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
