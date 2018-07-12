@@ -6212,4 +6212,64 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="21.14">
+        <sentence lang="prq">Noshitovaki, notzinaka, namenakiri, maaki.</sentence>
+        <sentence lang="es">Salí de la cama, me levanté, lo miré, está dormido.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="21.15">
+        <sentence lang="prq">Nashitaryaakiro, shitovanakina, shiyanajina, jatajana ivankoki niri.</sentence>
+        <sentence lang="es">Abrí la puerta, salí corriendo, me fui a la casa de mi papá.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="21.16">
+        <sentence lang="prq">Niri te irisaiki, ijatzi yantavaitzi kirinka, intaani yookanakina nosaikimotziro nonirotsori.</sentence>
+        <sentence lang="es">Mi papá no estaba, se fue a trabajar lejos, solamente me dejó con mi tía.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="21.17">
+        <sentence lang="prq">Jatajana, tekatsira saikatsini ivankoki niri.</sentence>
+        <sentence lang="es">Me fui, no había nadie en la casa de mi papá.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="21.18">
+        <sentence lang="prq">Nataitapaji ivanko jenoki, tzimatsi ishitamenkota jenoki.</sentence>
+        <sentence lang="es">Subí en la casa arriba, tenía su tarima arriba.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="21.19">
+        <sentence lang="prq">Ari nomaapakiri noshiyaka tsiteni.</sentence>
+        <sentence lang="es">Allí me dormí cuando me escapé en la noche.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="21.20">
+        <sentence lang="prq">Niraavaita tera shiramparira noninteri, te noñeeri, noninteri, inkinkitsatakavaitena, inkante: “Nonintakimi.”</sentence>
+        <sentence lang="es">Estaba llorando porque yo no quería al hombre, no lo había visto, no quería a él, nunca había conversado conmigo, nunca me había dicho: “Te quiero.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="21.21">
+        <sentence lang="prq">Aajatzita naari, iroma ipashitakanari, ari okantari ovakera naantakari noime naari.</sentence>
+        <sentence lang="es">Yo tampoco, solamente me lo dieron, así fue.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="21.22">
+        <sentence lang="prq">Niraavaita, okanta irirori te iñaashirinkamintsatena, iñaanara niraavaita.</sentence>
+        <sentence lang="es">Lloraba, [por eso] él no me fastidiaba, porque me veía llorando.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="21.23">
+        <sentence lang="prq">Yamenamintsatashitana kapicheeni, paita yamayetzi kapicheeni, isaiki nirentoki, yami paitarika novari.</sentence>
+        <sentence lang="es">Poco me miraba, traía unas cosas, vivía en la casa de mi hermana, traía cualquier cosa para comer.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
