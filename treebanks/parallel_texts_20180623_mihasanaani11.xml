@@ -6338,4 +6338,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="22.4">
+        <sentence lang="prq">Te niyote itzimatsi neentsite notsomonteki irojatzita itzimantakya.</sentence>
+        <sentence lang="es">No sabía que tenía mi hijo en mi vientre hasta que nació.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
