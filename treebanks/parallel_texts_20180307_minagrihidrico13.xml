@@ -417,4 +417,10 @@ otsipatari	[o-][NPers][3n.m.poss+][--][=tsipat][VRoot][=to.accompany; to.join; t
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="59">
+        <sentence lang="prq">2. Oyabatayetsi okinatsi iroperote shipetarini;</sentence>
+        <sentence lang="es">2.	 La que discurre por cauces artificiales;</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
