@@ -381,4 +381,10 @@ otsipatari	[o-][NPers][3n.m.poss+][--][=tsipat][VRoot][=to.accompany; to.join; t
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="53">
+        <sentence lang="prq">Akantakotero okobire anampi aisati kobachari aminakotero apatyakotero ashitari nija okobakari arityaro kameetsa amitakotero antero pashinekipaye amakotyaro oshekite nija okantya ashiperotyaro kameetsari obakirotaje ametaro nija akantakobentero onimoteri obakiro timayetatiri.</sentence>
+        <sentence lang="es">Declárase de interés nacional y necesidad pública la gestión integrada de los recursos hídricos con el propósito de lograr eficiencia y sostenibilidad en el manejo de las cuencas hidrográficas y los acuíferos para la conservación e incremento del agua, así como asegurar su calidad fomentando una nueva cultura del agua, para garantizar la satisfacción de la demanda de las actuales y futuras generaciones.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
