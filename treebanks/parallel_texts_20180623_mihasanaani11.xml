@@ -6188,4 +6188,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="21.10">
+        <sentence lang="prq">Tera noñaapinteri shiramparika, iraakana.</sentence>
+        <sentence lang="es">Como nunca había conocido al hombre, estaba llorando.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="21.11">
+        <sentence lang="prq">Ookanakina, ashitakotanakina, jaitetaji oshiyapitsatajana, jaitetaji ovankoki.</sentence>
+        <sentence lang="es">Me dejó, me encerró, se fue corriendo, se fue a su casa.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
