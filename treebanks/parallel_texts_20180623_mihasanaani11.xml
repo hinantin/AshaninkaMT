@@ -6020,4 +6020,70 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="20.36">
+        <sentence lang="prq">Osaikavaishita iroñaaka nampitsiki Lima [Irimashiki].</sentence>
+        <sentence lang="es">Vivía por vivir en el pueblo Lima.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.37">
+        <sentence lang="prq">Pairani tekatsi, te onampitsiperote Lima [Irimashiki], tekatsi pankotsi, tekatsi kaye, intaani aparopaye pankotsi.</sentence>
+        <sentence lang="es">Antes, Lima no era la cuidad grande, no habían [muchas] casas, no habían calles, solamente pocas casas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.38">
+        <sentence lang="prq">Tzimatsi ovantsi, osheki ivankiri virakocha, ishinkini, imachakite, paitarikapaye pashinipaye.</sentence>
+        <sentence lang="es">Poñaashitaka ankantashitavakya avisanaki osheki osarentsi osaikantakiri Lima [Irimashiki].</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.39">
+        <sentence lang="prq">Poñaashitaka ankantashitavakya avisanaki osheki osarentsi osaikantakiri Lima [Irimashiki].</sentence>
+        <sentence lang="es">Después, vamos a decir que pasaron muchos años en que ella se quedó en Lima.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.40">
+        <sentence lang="prq">Osheki antavaitzi, osaitakotziro pankirentsi irojatzi okitaitzimataki.</sentence>
+        <sentence lang="es">Mucho trabajaba, regando las plantas hasta la madrugada.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.41">
+        <sentence lang="prq">Onkantakotya, te ayotero onkitaitzimatake, te ayotero hora, apite, mava okitaitzimataki.</sentence>
+        <sentence lang="es">Seguía regando, no sabemos hasta que hora de las madrugadas, dos, tres.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.42">
+        <sentence lang="prq">Okantapintzi: “Kapichee amachokapainte, pokaki ivakiryaaitai.”</sentence>
+        <sentence lang="es">Decía: “Poco serramos el ojo, viene el patron y nos levanta.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.43">
+        <sentence lang="prq">Tekatsi pashini nonkantavaje, amitakotakena tsika okanta akinkishiryaakotziro inani, tsika okanta opokantakari aka parenikinta osaikaperotantapakari.</sentence>
+        <sentence lang="es">No tengo otra cosa que decir, me ayudó como estamos recordamos a mi mamá, cómo llegó y vivió aquí para siempre.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.44">
+        <sentence lang="prq">Oyotatyerikami inani osaikinta opoñaanakanta, aritakitaima ojatajemi.</sentence>
+        <sentence lang="es">Si hubiera sabido ella que era su lugar de procedencia, seguramente habría ido a su pueblo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.45">
+        <sentence lang="prq">Te oyotajero tsika ikenaitakapakiro eentsitzini, te oyotero tsika okenapaki.</sentence>
+        <sentence lang="es">No sabía por donde la trajeron cuando era niña.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="20.46">
+        <sentence lang="prq">Irotaki yaapakiro apa, osaikaperotantapakari Marankiaroki.</sentence>
+        <sentence lang="es">Se casó con mi papá, por eso vivió para siempre en Marankiari.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
