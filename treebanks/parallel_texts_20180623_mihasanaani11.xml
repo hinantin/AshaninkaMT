@@ -6200,4 +6200,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="21.12">
+        <sentence lang="prq">Saikakina apaniroini.</sentence>
+        <sentence lang="es">Me quedó sola.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="21.13">
+        <sentence lang="prq">Tzimatsi imaamento, ari nokitapitaki otapinaki, ari nonaryaakari nomaakiri otapinaki irojatzi okitaitzimataki.</sentence>
+        <sentence lang="es">Tenía su cama, allí me metí debajo de la cama, allí me tiré, dormí debajo hasta casí para amanecer.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
