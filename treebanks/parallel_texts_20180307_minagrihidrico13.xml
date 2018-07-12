@@ -345,8 +345,33 @@ otsipatari	[o-][NPers][3n.m.poss+][--][=tsipat][VRoot][=to.accompany; to.join; t
         <parsing format="" analysislevel=""/>
     </text>
     <text id="47">
-        <sentence lang="prq"/>
-        <sentence lang="es"/>
+        <sentence lang="prq">TÍTULO I. Disposiciones generales</sentence>
+        <sentence lang="es">OETOTARI I. Obetsikakota okantabaeta</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="48">
+        <sentence lang="prq">Abakojetiro 1°. Iro nija</sentence>
+        <sentence lang="es">Artículo 1º. El agua</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="49">
+        <!-- to be checked !!! -->
+        <sentence lang="prq">Iro nija aparoni ashitari opoña abakiratero, okobapirotatya añantari, amakotaroriokantashitaosarentsikiniokitsote, aisati aminakoterori Anampi.</sentence>
+        <sentence lang="es">El agua es un recurso natural renovable, indispensable para la vida, vulnerable y estratégico para el desarrollo sostenible, el mantenimiento de los sistemas y ciclos naturales que la sustentan, y la seguridad de la Nación.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="50">
+        <sentence lang="prq">Artículo 2º. Dominio y uso público sobre el agua</sentence>
+        <sentence lang="es">Abakojetiro 2°. Oshintsite aisati ibakoetero nija</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="51">
+        <sentence lang="prq">Iro nija ibakoetiro ashitari Anampi.Iro oshintsite aero otime ipimantaetero.Irotake okanta ashi asaekantari aminakoterori irotake opironi maaroni okameetsate, amakotaro aninkamentotsioninteri anampitsite. Tekaatsi pashine ashityarone nija.</sentence>
+        <sentence lang="es">El agua constituye patrimonio de la Nación. El dominio sobre ella es inalienable e imprescriptible. Es un bien de uso público y su administración solo puede ser otorgada y ejercida en armonía con el bien común, la protección ambiental y el interés de la Nación. No hay propiedad privada sobre el agua.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
