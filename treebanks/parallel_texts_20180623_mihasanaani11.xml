@@ -6428,4 +6428,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="22.19">
+        <sentence lang="prq">Tekatsi ina, tekatsi amenenani, apaniroini itzimaki neentsite.</sentence>
+        <sentence lang="es">No tenía mamá, no tenía nadie que me cuidó, solita di a luz a mi hijo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
