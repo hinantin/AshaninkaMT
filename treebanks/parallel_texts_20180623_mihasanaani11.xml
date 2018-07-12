@@ -6446,4 +6446,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="22.22">
+        <sentence lang="prq">Oñaapakina, okantzi: “Oh, tzimaki peentsite pashi, ari pinkantatyeya iroñaaka.</sentence>
+        <sentence lang="es">Me encontró, dijo: “Oh, ya nació tu hijo, siempre serás así.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
