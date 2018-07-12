@@ -411,4 +411,10 @@ otsipatari	[o-][NPers][3n.m.poss+][--][=tsipat][VRoot][=to.accompany; to.join; t
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="58">
+        <sentence lang="prq">1. Nijatenipaye okeni osaeki opoñara anampi;</sentence>
+        <sentence lang="es">1. La de los ríos y sus afluentes, desde su origen natural;</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
