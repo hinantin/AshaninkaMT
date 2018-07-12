@@ -6368,4 +6368,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="22.9">
+        <sentence lang="prq">Shetyanaki nokotsivaitzi arroz novanajyaari.</sentence>
+        <sentence lang="es">Ya era tarde, estaba cocinando mi arroz para la cena.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
