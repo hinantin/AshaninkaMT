@@ -6153,8 +6153,14 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <parsing format="" analysislevel=""/>
     </text>
     <text id="21.4">
-        <sentence lang="prq"/>
-        <sentence lang="es"/>
+        <sentence lang="prq">Tzimatsi nonirotsori, tekatsira naaka ina, naaka mirito nonatzi.</sentence>
+        <sentence lang="es">Tenía mi tía, como no tenía mi mamá, yo era huérfana.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="21">
+        <sentence lang=""/>
+        <sentence lang=""/>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
