@@ -6404,4 +6404,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="22.15">
+        <sentence lang="prq">Iro nareetyaro nojatapintzinta, osaikapintzi irora pintsintapinta.</sentence>
+        <sentence lang="es">Ya iba a llegar donde voy siempre, donde está el baño.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="22.16">
+        <sentence lang="prq">Ari itzimapaki neentsite.</sentence>
+        <sentence lang="es">Allí nació mi hijo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
