@@ -423,4 +423,10 @@ otsipatari	[o-][NPers][3n.m.poss+][--][=tsipat][VRoot][=to.accompany; to.join; t
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="60">
+        <sentence lang="prq">3. Onkata okametsati ashitaro anampi oshipetari;</sentence>
+        <sentence lang="es">3. La acumulada en forma natural o artificial;</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
