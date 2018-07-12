@@ -6296,4 +6296,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="21.28">
+        <sentence lang="prq">Notsipatakari osamanitanaki, tzimaki neentsite iro ipaitakinari, notzimantapakari quince nosarentsite.</sentence>
+        <sentence lang="es">Yo vivía con él mucho tiempo, tuve mis hijos, pero ellos me lo dieron, cuando tenía quince años.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
