@@ -6416,4 +6416,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="22.17">
+        <sentence lang="prq">Te noñaashityaro osamani, te iñaashitakayanari.</sentence>
+        <sentence lang="es">No sufré mucho tiempo, no me hizo sufrir mucho.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
