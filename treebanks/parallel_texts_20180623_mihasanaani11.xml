@@ -6476,4 +6476,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="22.27">
+        <sentence lang="prq">Ari nosaikapakiri, ototakiri su ombligo, aanakiri, aponatakiri, onaryaapakiri.</sentence>
+        <sentence lang="es">Allí estaba, le cortó su cordón umblical, lo llevó, lo envolvió, lo echó.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
