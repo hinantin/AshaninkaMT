@@ -6584,4 +6584,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="22.45">
+        <sentence lang="prq">Onkitaitamanari naakataki namenavaitamanaje nankishite noyari.</sentence>
+        <sentence lang="es">En las mañanas yo mismo me cocinaba yuca asada para comer.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="22.46">
+        <sentence lang="prq">Tekatsi amenenani, penani noyari: “Jiroka poyarika,” tekatsite.</sentence>
+        <sentence lang="es">No hay que me atienda, que me traiga comida, que me diga: “Acá está, coma!”- no hay.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
