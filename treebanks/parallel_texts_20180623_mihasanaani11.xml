@@ -6620,4 +6620,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="22.51">
+        <sentence lang="prq">Naakamaja tekatsi amenenani.</sentence>
+        <sentence lang="es">En cambio, no hay nadie que me cuida.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="22.52">
+        <sentence lang="prq">Noñaashitakaro antaro, irotaki nokantantari neentsitepaye: “Te inkinkishiryaajaitajena ina, jeroka, noipiymotajemi aviroka.”</sentence>
+        <sentence lang="es">He sufrido mucho, por eso les digo a mis hijos: “No se acuerdan de mi - acá está, te devuelvo a usted.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="22.53">
+        <sentence lang="prq">Ovakerani notzimantakami noñaashitakaro pikimotatantyaari iroñaaka.”</sentence>
+        <sentence lang="es">Cuando nacieron, he padecido para que crezcan ustedes ahora.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
