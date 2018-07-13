@@ -6716,4 +6716,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="23.13">
+        <sentence lang="prq">Paita okatsitantanari?</sentence>
+        <sentence lang="es">“¿Por qué tengo dolor?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="23.14">
+        <sentence lang="prq">Notzinaja iroñaaka niyankite, nantajatzi ejercicios, irotaki notzimaventziri.</sentence>
+        <sentence lang="es">Me levanté en la madrugada, hacía mis ejercicios, tratando de hacerlos en vano.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
