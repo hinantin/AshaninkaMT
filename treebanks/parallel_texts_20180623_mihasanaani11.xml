@@ -6614,4 +6614,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="22.50">
+        <sentence lang="prq">Avakeniri, onkaatakeniri, onaryaakeri eentsite, onkivarontajero, ompero, onkotsiteniro oyaari.</sentence>
+        <sentence lang="es">Lo recibe, al bebé, lo baña, lo echa en la cama, lo lava todo lo que se ha ensuciado, le da de comer.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
