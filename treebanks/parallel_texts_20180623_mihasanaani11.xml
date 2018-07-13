@@ -6638,4 +6638,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="23.0">
+        <sentence lang="prq">ITZIMANTARI NEENTSITE</sentence>
+        <sentence lang="es">PARA QUE NAZCA MI HIJO</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
