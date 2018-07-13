@@ -6524,4 +6524,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="22.35">
+        <sentence lang="prq">Tekatsi amenenani, apaniroini itzimi neentsite, ari nokantari intzimerika pashini.</sentence>
+        <sentence lang="es">Nadie que me cuide, solito nacío mi bebé, así hago cuando nace otro hijo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="22.36">
+        <sentence lang="prq">Ari nokantari aajatzita nokantzi: “Naaka irotakitaima, tekatsi amenenani, tekatsi noniro, nosaikavaitzi apaniroini.”</sentence>
+        <sentence lang="es">Así hago, también yo digo: “Es por eso, no hay quien me cuide, no hay mamá, vivo sola.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
