@@ -6596,4 +6596,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="22.47">
+        <sentence lang="prq">Noñaashiperotatyaaro notzimaniyetzira apaniroini, tekatsira ina amenenani.</sentence>
+        <sentence lang="es">He sufrido mucho cada vez cuando tenía mi hijo sola, como no tengo mamá que me cuide.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="22.48">
+        <sentence lang="prq">Nayiro aisatzi aitaki osaikiri anta yantajetzinta nokonkiri itotzi, shiringa itotziri.</sentence>
+        <sentence lang="es">Mi tía también se fue a vivir donde cortan el caucho, shiringa.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="22.49">
+        <sentence lang="prq">Apaniroini nosaiki, ari nokantari, iroma pashinipaye otzimaniyetzi iro otzimayetzi iniro, ameniro iniro ontzimanitakerika.</sentence>
+        <sentence lang="es">Estoy solita, así soy, en cambio, otras cuando dan a luz, tienen su mamá que atiende cuando da a luz.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
