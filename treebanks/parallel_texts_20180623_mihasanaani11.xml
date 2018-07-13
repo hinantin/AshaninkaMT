@@ -6656,4 +6656,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="23.3">
+        <sentence lang="prq">Iroñaaka itzimantakari neentsite, nashi naaka neentsite, te noyotero naaka tsika ikanta intzimantyaari neentsite.</sentence>
+        <sentence lang="es">Ahora cuando nació mi bebé, no sabía cómo nacen los niños.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="23.4">
+        <sentence lang="prq">Noñaashitakaro noveratsatetzitaka, noñaashita novatsatatzi, nantzi ejercicio, nokantzi: “Ompyaajyaata notsomonte, noveratsatetzitaka.”</sentence>
+        <sentence lang="es">Vi que estaba barrigona, yo pensaba que estaba gorda, hacía ejercicios, decía: “Desaparecerá mi barriga, estoy tan pansona.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="23.5">
+        <sentence lang="prq">Te noyotero intzimatye neentsite, namenavetakaro notsomonte: “Tsika inkineka iroñaaka ontankantanajyari?”</sentence>
+        <sentence lang="es">No sabía que iba a tener mi niño, miraba mi barriga,[decía:] “¿Por dónde ahora se va a abrirme el estomago?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="23.6">
+        <sentence lang="prq">Ikantaitakina: “Intzimatye peentsite.”</sentence>
+        <sentence lang="es">Me decían: “Vas a tener un hijo.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
