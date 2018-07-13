@@ -6687,8 +6687,14 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <parsing format="" analysislevel=""/>
     </text>
     <text id="23.8">
-        <sentence lang="prq">Estoy pansona, dije: “Aquí se va a partirme mis tripas, va a salir mi bebé.</sentence>
-        <sentence lang="es">Noveratsatetzitaka, nokantzi: “Ari ontankanakero oka nosheto, ari ishitovapakeri neentsite.”</sentence>
+        <sentence lang="prq">Noveratsatetzitaka, nokantzi: “Ari ontankanakero oka nosheto, ari ishitovapakeri neentsite.”</sentence>
+        <sentence lang="es">Estoy pansona, dije: “Aquí se va a partirme mis tripas, va a salir mi bebé.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="23.9">
+        <sentence lang="prq">Noshiyanakya nijaakinta, nonkivavakerota nosheto, nookavakerita noshitsani, inkitetanajeta, noshitsikakomaitajyaaro.</sentence>
+        <sentence lang="es">Me voy corriendo al río, lavo mis tripas, boto mis parásitos para ser limpio, y luego voy a coserlo.”</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
