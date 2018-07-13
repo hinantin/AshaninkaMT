@@ -6644,4 +6644,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="23.1">
+        <sentence lang="prq">Naakaja itzimantakari te noñeero hospital, aitaki notzimiriri pankotsiki apaniroini.</sentence>
+        <sentence lang="es">Yo para que nazca mi hijo, no me fui al hospital, nació en la casa sola.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="23.2">
+        <sentence lang="prq">Notzimakiri naaka neentsite okaratapaki nosarentsite trece.</sentence>
+        <sentence lang="es">Nació mi bebé cuando yo tenía trece años.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
