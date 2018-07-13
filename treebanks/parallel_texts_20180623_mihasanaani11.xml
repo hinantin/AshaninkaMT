@@ -6710,4 +6710,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="23.12">
+        <sentence lang="prq">Ipoñaaka iroñaaka iro yareetzimatya intzime, nokemakiro okatsikitakina notsomonte.</sentence>
+        <sentence lang="es">Después ahora cuando estaba por nacer, me sentí dolor en el estomago.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
