@@ -6560,4 +6560,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="22.41">
+        <sentence lang="prq">Irotaki ampeshi niraki, irotaki niriri, ipaitakinari, tekatsite pashini.</sentence>
+        <sentence lang="es">Esa tomé, su hoja, eso es lo que tomé, lo que me dieron, no tenía otro [remedio].</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
