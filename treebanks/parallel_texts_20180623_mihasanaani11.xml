@@ -6554,4 +6554,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="22.40">
+        <sentence lang="prq">Irotaki niriri, katsitanakera notsomonteki, irotaki notsiyari oshira.</sentence>
+        <sentence lang="es">Esa es lo que tomé, cuando me dolía mi barriga, esa es lo que me calientó, hoja de algodón.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
