@@ -6728,4 +6728,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="23.15">
+        <sentence lang="prq">Nantzi naaka ejercicios, katsikitakinave!</sentence>
+        <sentence lang="es">Hacía más ejercicios, ¡me dolía mucho!</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="23.16">
+        <sentence lang="prq">Aajatzi naakara amenatziri notomitsori, irairataka, nopreparatajiniri, novetsikajiniri inijaate ireri.</sentence>
+        <sentence lang="es">Como yo estaba cuidando a mi sobri(e)nito que lloraba mucho, preparé su agua para que tome su bi(e)berón.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
