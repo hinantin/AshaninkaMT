@@ -6704,4 +6704,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="23.11">
+        <sentence lang="prq">Te nonkinkishiryakoteri ishitovapajatye janta novaginateki.</sentence>
+        <sentence lang="es">No pensaba que iba a salir por la vagina.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
