@@ -6572,4 +6572,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="22.43">
+        <sentence lang="prq">Iñaapajana nosaiki, inaryaaka neentsite.</sentence>
+        <sentence lang="es">Me encontró, estaba en mi cama, estaba echado mi bebé.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="22.44">
+        <sentence lang="prq">Intaani yaaitakina kaniri, ipiyotakinaro kaniri, yamaitakina parentzi, nijaa.</sentence>
+        <sentence lang="es">Solamente me trajeron yuca, me amontonaron yuca, me trajeron plátano, agua.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
