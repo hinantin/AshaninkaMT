@@ -6566,4 +6566,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="22.42">
+        <sentence lang="prq">Tzimanaki aparonitanaki kitaiteri, viernestapaki pokaji noime.</sentence>
+        <sentence lang="es">Pasó una semana, llegó un día viernes mi esposo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
