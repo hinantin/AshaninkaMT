@@ -6536,4 +6536,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="22.37">
+        <sentence lang="prq">Te nojate osipitarirki, antamiki asaiki, te ayotero tsika osaiki osipitatsiri.</sentence>
+        <sentence lang="es">No fui al hospital, vivía en el monte, no conocíamos donde había un hospital.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="22.38">
+        <sentence lang="prq">“Paita pirakeri? Inchashitatsiri?”</sentence>
+        <sentence lang="es">“¿Qué tomaste? ¿Hierbas?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="22.39">
+        <sentence lang="prq">Tekatsi, imoyetakina ampeshi, opakina ampeshi: “Jero pirero.”</sentence>
+        <sentence lang="es">“Nada, me hirvieron hoja de algodón, me dio la tía hervida: “Acá está, tómate.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
