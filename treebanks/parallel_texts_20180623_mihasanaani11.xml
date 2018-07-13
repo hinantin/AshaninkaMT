@@ -6680,4 +6680,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="23.7">
+        <sentence lang="prq">Namenakiro notsomonte, noñaakiro iroñaaka osankinataki notsapataka.</sentence>
+        <sentence lang="es">Miré mi barriga, en ella vi escrito una raya.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
