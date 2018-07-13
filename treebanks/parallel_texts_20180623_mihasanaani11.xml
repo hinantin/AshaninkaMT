@@ -6698,4 +6698,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="23.10">
+        <sentence lang="prq">Ari nokinkishiryaakotzirori naaka, ari inkantyaari intzime neentsite.</sentence>
+        <sentence lang="es">Así pensaba yo, así pensaba que iba a nacer mi hijo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
