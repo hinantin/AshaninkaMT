@@ -6824,4 +6824,34 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="23.31">
+        <sentence lang="prq">Tzimatsi noshitsani antari.”</sentence>
+        <sentence lang="es">Tengo mi gusano grande.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="23.32">
+        <sentence lang="prq">Tera iraya; opokapaki, okantzi: “Apaatatsira, naavaketa ivenki nonpemiri, tekatsi pinkemiri oyatsinka.”</sentence>
+        <sentence lang="es">Como no lloraba, vino mi hermana, me dijo: “Espérate, voy a sacar piri-piri para darte de tomar para que no sienta dolor.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="23.33">
+        <sentence lang="prq">Nokantzi: “Te, tzimatsi aka, te nonkemiri onkatsite.”</sentence>
+        <sentence lang="es">Le digo: “No, hay acá algo, no me siento dolor.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="23.34">
+        <sentence lang="prq">Iro noipinairimi neentsite.</sentence>
+        <sentence lang="es">Ya iba a saltar mi bebé.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="23.35">
+        <sentence lang="prq">Shitovapaki notsoitakara otamokoshiki.</sentence>
+        <sentence lang="es">[El bebé] salió donde estaba sentado en la bajada.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
