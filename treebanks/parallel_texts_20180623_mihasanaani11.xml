@@ -6788,4 +6788,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="23.25">
+        <sentence lang="prq">Aritaima nopipityarankatakara, jaitetakina.</sentence>
+        <sentence lang="es">Así será, me había dado muchas volteadas, me fui rápidamente.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
