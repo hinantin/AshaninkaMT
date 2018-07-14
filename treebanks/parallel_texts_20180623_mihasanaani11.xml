@@ -6794,4 +6794,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="23.26">
+        <sentence lang="prq">Iroñaaka nokemapajirora notsinitaki, nokañaapakitya.</sentence>
+        <sentence lang="es">Ahora cuando sentí necesidad de orinar, yo pujé.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="23.27">
+        <sentence lang="prq">Nokovi notsintemi kapicheeni, nokañaaperotaja, nokemavaitziro oshitovanaki.</sentence>
+        <sentence lang="es">Quería orinar un poco, seguía pujando, sentí que me salió algo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="23.28">
+        <sentence lang="prq">E! Shitovanaki nosheto!</sentence>
+        <sentence lang="es">¡Eh! Salió mi tripa!</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="23.29">
+        <sentence lang="prq">Noñaavaitziro oshitovapaki kitamaropompoinataki.</sentence>
+        <sentence lang="es">Vi salir una bola blanca.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
