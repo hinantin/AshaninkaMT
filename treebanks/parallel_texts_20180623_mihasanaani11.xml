@@ -6818,4 +6818,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="23.30">
+        <sentence lang="prq">Nokaimanaki iroñaaka, nokaimanakiro nirento: “Pimpoke, pamenena, paita shitovaintsiri jaka?</sentence>
+        <sentence lang="es">Empecé a gritar ahora, llamé a mi hermana: “Ven, mírame,¿qué es lo qué me ha salido acá?</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
