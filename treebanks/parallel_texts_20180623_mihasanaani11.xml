@@ -6740,4 +6740,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="23.17">
+        <sentence lang="prq">Nokantziri: “Eero pira!”</sentence>
+        <sentence lang="es">Le digo: “No llores.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="23.18">
+        <sentence lang="prq">Nokatsitatzi notsomonte, te, irojatzi ira, nokekenatakairi tsiteni.</sentence>
+        <sentence lang="es">Tenía dolor en el estómago, no, seguía llorando, yo estaba andando con él en la noche.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="23.19">
+        <sentence lang="prq">Imaajerika, nonaryaajiri maamentotsiki.</sentence>
+        <sentence lang="es">Cuando se quedó dormido, lo puso en la cama.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="23.20">
+        <sentence lang="prq">Nokemakiro naari okatsikitakina notsomonte.</sentence>
+        <sentence lang="es">Seguía sintiendo dolor en mi barriga.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
