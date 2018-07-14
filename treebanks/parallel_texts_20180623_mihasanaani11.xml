@@ -6764,4 +6764,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="23.21">
+        <sentence lang="prq">Maajetatzi iroori nirento, tzimatsi pashini pokatsiri okivantana, te onkemena okatsitantakari notsomonteki.</sentence>
+        <sentence lang="es">Todos dormían, mi hermana, habían otras que habían venido a visitarnos, no sentían que tenía dolor en mi estómago.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
