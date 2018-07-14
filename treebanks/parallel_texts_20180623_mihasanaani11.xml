@@ -6770,4 +6770,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="23.22">
+        <sentence lang="prq">Nokanta, nokanta nantzira ejercicio, maakotakina.</sentence>
+        <sentence lang="es">Seguía haciendo ejercicios, ya me cansé.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="23.23">
+        <sentence lang="prq">Notsinikitaki antaro, nojavetya notsinte, kapicheeni notsinte, pite, pite, avisanakina.</sentence>
+        <sentence lang="es">Tenía mucha necesidad de orinar, me iba a orinar, poquito orinaba, en gotas, me pasaba el dolor.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="23.24">
+        <sentence lang="prq">Ipoña napiivetajya ipoña nantatzira osheki ejercicio, pyaanaka oyatsinka.</sentence>
+        <sentence lang="es">Después repetía nuevamente, hacía muchos ejercicios, me pasaba el dolor.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
