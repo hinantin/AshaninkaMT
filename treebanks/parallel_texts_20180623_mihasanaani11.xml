@@ -6962,4 +6962,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="24.7">
+        <sentence lang="prq">Tekatsi oireekite ojatantyari onampiki.</sentence>
+        <sentence lang="es">No tiene dinero para que se vaya en su pueblo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
