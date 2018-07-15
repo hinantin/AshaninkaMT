@@ -7226,4 +7226,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="25.40">
+        <sentence lang="prq">Iroñaaka nosaikaki, itasonkavintakina ashitairi, saikachana novankoki.</sentence>
+        <sentence lang="es">Ahora estoy tranquila, me bendició el Salvador, estoy en mi casa.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="25.41">
+        <sentence lang="prq">Iroñaaka opokakovita kovenkaripaye ikisakotakana, tasorintsi iro nokantavakiri.</sentence>
+        <sentence lang="es">Aunque vienen cosas feas, me defiende Dios.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="25.42">
+        <sentence lang="prq">Paasonki.</sentence>
+        <sentence lang="es">Gracias.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
