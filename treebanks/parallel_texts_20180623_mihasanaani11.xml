@@ -6926,4 +6926,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="24.1">
+        <sentence lang="prq">Iroñaaka kapichikitaiteri nonatoto osheki ovashiritatya, okamanatatzi, noñiiro naaka teka, teka, teka.</sentence>
+        <sentence lang="es">Hoy en este mañana mi cuñada mucho se pone triste, se desmayó, yo la estaba observando cómo se sacudía sus gestos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
