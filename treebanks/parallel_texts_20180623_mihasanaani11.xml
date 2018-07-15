@@ -7064,4 +7064,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="25.13">
+        <sentence lang="prq">Iro kantzimaintacha naarija okantakina nanaini.</sentence>
+        <sentence lang="es">Pero había una tía que me dijo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="25.14">
+        <sentence lang="prq">Me dijo: “Cásate con un hombre, así yo te voy a ayudar, así voy a hacerte para estar bien.</sentence>
+        <sentence lang="es">Okantana: “Paye piimi, ari namitakotakemi, ari nantakemi asaikantyari kameetsa.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
