@@ -7076,4 +7076,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="25.15">
+        <sentence lang="prq">Ikantaitzi: “Arika aye aimi, ari yantakai”; kaari, piritsori te yantena, ari pinkantanakyari avirori.”</sentence>
+        <sentence lang="es">Dicen: “Cuando tenemos esposos, no van a pegar, no, tu tío no me pega, igualito vas a hacer tú.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
