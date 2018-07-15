@@ -6920,4 +6920,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="24.0">
+        <sentence lang="prq">NOÑAAVENTZIRO NONATOTO</sentence>
+        <sentence lang="es">HABLANDO SOBRE MI CUÑADO</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
