@@ -7028,4 +7028,40 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="25.7">
+        <sentence lang="prq">Ari yantakena, arika intzimanake neentsite, ari irora paita airo yamitakotana, inkantena inkivaronteri peentsite.</sentence>
+        <sentence lang="es">Me va a pegar, cuando tengo hijos, éste, como se llama, no me va a ayudar, me va a decir: “Lava la ropa de tu hijo.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="25.8">
+        <sentence lang="prq">Naakataki anteroni apaniroini pankotsiki, te noninte.”</sentence>
+        <sentence lang="es">Yo voy a hacerlo todo sola en la casa, yo no quiero.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="25.9">
+        <sentence lang="prq">Ari okantzimaintakari.</sentence>
+        <sentence lang="es">Así pasó.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="25.10">
+        <sentence lang="prq">Ahora seguían pasando días, días, yo me casé con ese hombre.</sentence>
+        <sentence lang="es">Iroñaaka aikiro ojatanaitzi kitaiteri, kitaiteri, naakakeri shirampari.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="25.11">
+        <sentence lang="prq">“Aritaima naakemi.”</sentence>
+        <sentence lang="es">“Muy bien, yo me casaré contigo.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="25.12">
+        <sentence lang="prq">Noyaariri inintaki yaakainari otsitzi: “Payeri otsitzi terika pininte piimi, payeri otsitzira,” ikantakina noyaariri.</sentence>
+        <sentence lang="es">Mi hermano me quiso hacer casar con un perro: “Cásate con el perro, si no quieres a tu esposo, cásate con este perro,” me dijo mi hermano.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
