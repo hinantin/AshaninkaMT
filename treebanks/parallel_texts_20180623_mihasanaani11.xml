@@ -7286,4 +7286,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="26.7">
+        <sentence lang="prq">Ikantzi, tzimatsi notomitsori ipaita Mapitzi.</sentence>
+        <sentence lang="es">Decía que tenía un sobrino llamado Mapitzi (especie de pájaro hornero).</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="26.8">
+        <sentence lang="prq">Mapitzi ikantaitziri añaaniki, ikantaitziri aani Peedroni.</sentence>
+        <sentence lang="es">Así lo llamaban el abuelo Pedro.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="26.9">
+        <sentence lang="prq">Iroñaaka ikantzi: “Nojateta noñaakiterota nanaini.”</sentence>
+        <sentence lang="es">Dijo: “Ahora voy a visitar a mi tía.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="26.10">
+        <sentence lang="prq">Ari ipoñaajetanaka.</sentence>
+        <sentence lang="es">De allí vienen ellos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
