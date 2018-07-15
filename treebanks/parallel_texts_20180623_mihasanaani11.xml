@@ -7106,4 +7106,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="25.20">
+        <sentence lang="prq">Me dijo mi mamá: “Ya no quiero que llegues a mi casa, no quieres a tu esposo, véte.”</sentence>
+        <sentence lang="es">Okantakina ina: “Iroñaaka te nonintaje pariitajya novankoki, te pininte paye piimi, pijate.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="25.21">
+        <sentence lang="prq">Ipasavaitakina noyaariri.</sentence>
+        <sentence lang="es">Me castigó mi hermano.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
