@@ -7412,4 +7412,46 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="26.28">
+        <sentence lang="prq">Kapicheeni ikantaitero, iraashitanajya.</sentence>
+        <sentence lang="es">De poquita cosa que le hacían, empezaba a llorar.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="26.29">
+        <sentence lang="prq">Ikantzi: “Apaitatyero Shenkave.”</sentence>
+        <sentence lang="es">Dijeron: “ Vamos a llamarla Shenkave (la llorona).”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="26.30">
+        <sentence lang="prq">Iroma iroñaaka ina kantaitacha aka Otsovakota.</sentence>
+        <sentence lang="es">En cambio, mi mamá se llama Tsovako.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="26.31">
+        <sentence lang="prq">“Piñaamatzitero tsovakora!”</sentence>
+        <sentence lang="es">[Dijeron:] “ ¡Mírala a la chupa de dedos!”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="26.32">
+        <sentence lang="prq">Ari opoñaanaka ikantaitziro Tsovako, otsovakotara.</sentence>
+        <sentence lang="es">De allí viene el apodo Tsovako, “ella que chupa”.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="26.33">
+        <sentence lang="prq">Apaatziro ikantaitziro Tsovako.</sentence>
+        <sentence lang="es">Así la llaman Tsovako.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="26.34">
+        <sentence lang="prq">Aririka iñaanaitero, ikantaitziro Tsovako.</sentence>
+        <sentence lang="es">Cuando la veían, la llamaban Tsovako.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
