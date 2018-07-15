@@ -6932,4 +6932,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="24.2">
+        <sentence lang="prq">Okamanatatzi nonatoto, te onkante naaka namenero, te noyote naaka paita okantatya anta.</sentence>
+        <sentence lang="es">Se desmayó mi cuñada, no puedo cuidarla, no sé que cosa es.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
