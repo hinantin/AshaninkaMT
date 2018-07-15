@@ -7154,4 +7154,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="25.28">
+        <sentence lang="prq">Tekatsitanaki neentsite, itsonka iyovapitsatanakina, intaani nosaryaanikipatsaini.</sentence>
+        <sentence lang="es">Ya no tengo hijos pequeños, salieron de mi poder, solamente mis nietos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="25.29">
+        <sentence lang="prq">Iritaki naari kimoshiritakanari, iyoka irijanikinika, irita koshitakanari novankoki.</sentence>
+        <sentence lang="es">Ellos son lo que me hace alegrar, este pequeñito es lo que me hace robar en mi casa.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="25.30">
+        <sentence lang="prq">Saikanaki irintzipatsaini, irima neentsite katsini naari.</sentence>
+        <sentence lang="es">Se quedan sus hermanos, mis hijos verdaderos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
