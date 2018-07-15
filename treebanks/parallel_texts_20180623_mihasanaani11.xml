@@ -7364,4 +7364,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="26.20">
+        <sentence lang="prq">Iroñaakakya pairani asheninkapaye paitarika antakiri, ari ampaitakotajyaari.</sentence>
+        <sentence lang="es">Antes, mis paisanos, si cometían una falta, de allí surgía su sobrenombre.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="26.21">
+        <sentence lang="prq">Ikantzi iroñaaka: “Ari nompaitajemiri Kasanto.”</sentence>
+        <sentence lang="es">Dijo el dueño: “Ahora te llamaré Kasanto.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
