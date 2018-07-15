@@ -7250,4 +7250,40 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="26.1">
+        <sentence lang="prq">Apa naari ipoña ikantaitziro Totziraki kirinkaini.</sentence>
+        <sentence lang="es">Mi papá es de Toterani Bajo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="26.2">
+        <sentence lang="prq">Ari isaikayetziri iriri irirori.</sentence>
+        <sentence lang="es">Allí vive también su papá.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="26.3">
+        <sentence lang="prq">Ari ipoñaakari pairani.</sentence>
+        <sentence lang="es">De allí viene él.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="26.4">
+        <sentence lang="prq">Ipokaki aka ikimiyeta pashinipaye ipokayetzi antavaitaitatziri, ishiritari pairani pavaini Peedroni.</sentence>
+        <sentence lang="es">Así como otros que vienen a trabajar, él vino pensando en mi tío Pedro.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="26.5">
+        <sentence lang="prq">Iritaki ishiritakari: “Nojateta noñiiri.”</sentence>
+        <sentence lang="es">En él pensaba: “Voy a visitarlo.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="26.6">
+        <sentence lang="prq">Irinitsori opaita Pirinto, irotaki irinitsori.</sentence>
+        <sentence lang="es">Su tía se llamaba Pirinto (especie de rana).</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
