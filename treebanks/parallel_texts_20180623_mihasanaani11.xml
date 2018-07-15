@@ -7130,4 +7130,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="25.24">
+        <sentence lang="prq">Te nonintaje impasavaitena noyaariri, aritaki aavakakya.‟</sentence>
+        <sentence lang="es">Ya no quiero que me castigue mi hermano, vamos a casarnos.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="25.25">
+        <sentence lang="prq">Iroñaaka nosaikaki kameetsa, notsipatari noimi.</sentence>
+        <sentence lang="es">Ahora estoy bien, juntos con mi esposo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="25.26">
+        <sentence lang="prq">Te noñiiri inkishina, te noñiiri yantena.</sentence>
+        <sentence lang="es">No he visto que me moleste, no he visto que me pegue.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="25.27">
+        <sentence lang="prq">Iroñaaka naari antarokonatapakina, nosaikakairi noimi, isaikakana novankoki kameetsa.</sentence>
+        <sentence lang="es">Ahora yo soy madura, estoy con mi esposo, el me hace vivir en mi casa bien.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
