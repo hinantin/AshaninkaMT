@@ -6998,4 +6998,34 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="25.2">
+        <sentence lang="prq">Naaka te, ishintsivintavaitakina.</sentence>
+        <sentence lang="es">Yo no, me obligaron.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="25.3">
+        <sentence lang="prq">Ikaratzi mava niritsori ishintsivintakina.</sentence>
+        <sentence lang="es">Eran tres tíos que me obligaron.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="25.4">
+        <sentence lang="prq">Ikantakina: “Payeri iyoka evankarika.”</sentence>
+        <sentence lang="es">Me dijeron: “Cásate con ese hombre.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="25.5">
+        <sentence lang="prq">Naaka: “Te noninte, te noninteri avankarika nayeri.</sentence>
+        <sentence lang="es">Yo [decía]: “Yo no quero, yo no lo quiero a este joven casarme.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="25.6">
+        <sentence lang="prq">Nojapitsaterita intaina, te noninteri.</sentence>
+        <sentence lang="es">Me voy a ir lejos, yo no lo quiero.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
