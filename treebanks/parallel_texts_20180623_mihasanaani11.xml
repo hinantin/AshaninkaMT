@@ -7376,4 +7376,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="26.22">
+        <sentence lang="prq">Irotaki ipaitantaitakariri apa Kasanto.</sentence>
+        <sentence lang="es">Por eso mi papá lleva ese sobrenombre [apodo].</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
