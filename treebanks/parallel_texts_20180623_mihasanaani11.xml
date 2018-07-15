@@ -6872,4 +6872,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="23.39">
+        <sentence lang="prq">Ipoñaja nopishinkiryaaja, noñaatziro nonaryaaka.</sentence>
+        <sentence lang="es">Después me recuperé mi consciencia, me vi echada.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="23.40">
+        <sentence lang="prq">Aitaki itotaitakiri isheto neentsite.</sentence>
+        <sentence lang="es">Ya le cortaron el obligo del niño.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="23.41">
+        <sentence lang="prq">Ari okanta, notzimakiri naari.</sentence>
+        <sentence lang="es">Así fue como nació mi niño.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="23.42">
+        <sentence lang="prq">Te noñeero hospital, aajatzi okimita pashini, iroñaaka pashini neentsitera saikaintsirira aajatzi notzimiro pankotsiki.</sentence>
+        <sentence lang="es">No fui al hospital, igualmente nació mi otra hija que está sentado acá, también la tuve en la casa.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
