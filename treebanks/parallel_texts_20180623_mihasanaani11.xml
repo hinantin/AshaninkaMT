@@ -6896,4 +6896,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="23.43">
+        <sentence lang="prq">Iro amenakina ina intanakarori neentsite.</sentence>
+        <sentence lang="es">Pero mi mamá me atendió en la parte.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="23.44">
+        <sentence lang="prq">Tekatsi amenenani, apaniroini notzimakiro.</sentence>
+        <sentence lang="es">No hay nadie que me cuida, sola tuve a mi bebé.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="23.45">
+        <sentence lang="prq">Te añeero ina, ojatatzi oshimata, irotaki kaari oñaantana notzimantakarori.</sentence>
+        <sentence lang="es">No estaba mamá, se fue a pescar, es por eso que no me ha visto cuando nació mi hija.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="23.46">
+        <sentence lang="prq">Ari okaratzi.</sentence>
+        <sentence lang="es">Es todo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
