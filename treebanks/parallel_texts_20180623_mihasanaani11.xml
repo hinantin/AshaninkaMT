@@ -6854,4 +6854,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="23.36">
+        <sentence lang="prq">Ameni, okantzi nirento: “Irotaki peentsite, pamakerita aka.”</sentence>
+        <sentence lang="es">Miró y dijo mi hermana: “Eso es tu hijo, tráigalo acá.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="23.37">
+        <sentence lang="prq">Tyaankina, iroñaaka nokamanatanaki.</sentence>
+        <sentence lang="es">Me cayí, me desmayé.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="23.38">
+        <sentence lang="prq">Te noñeerota tsika okanta yaantaitanajanari maamentotsiki.</sentence>
+        <sentence lang="es">No vi como me llevaron en la cama.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
