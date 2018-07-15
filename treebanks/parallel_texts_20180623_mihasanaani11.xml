@@ -7202,4 +7202,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="25.36">
+        <sentence lang="prq">Antaro nokisanintziri.</sentence>
+        <sentence lang="es">Mucho lo odiaba.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="25.37">
+        <sentence lang="prq">Ikimita iririntzipaye iri noñaanatziri, noñaajantzima naari.</sentence>
+        <sentence lang="es">Por ejemplo, de sus hermanos hablo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="25.38">
+        <sentence lang="prq">Ari ikantaitari, te, ari inkantavetya.</sentence>
+        <sentence lang="es">Así era [se debe hacer], no, así no era.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="25.39">
+        <sentence lang="prq">Añaanateri ninkarikapaye, piñaanateri ninkarika kisanintzimiri, pero noñaanatziri.</sentence>
+        <sentence lang="es">Debemos hablar de alguíen, debes hablar de alguien a quien odias, pero yo hablo de él.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
