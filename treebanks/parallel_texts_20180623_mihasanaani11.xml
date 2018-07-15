@@ -7328,4 +7328,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="26.14">
+        <sentence lang="prq">Ikantarika iroñaaka apara: “Tzimatsi aparoni kasanto.”</sentence>
+        <sentence lang="es">Mi papá dijo: “Hay un papagayo.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="26.15">
+        <sentence lang="prq">Isaiki iroñaaka, otzime irintsipate.</sentence>
+        <sentence lang="es">Había un papagayo posado en una rama del pacay.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="26.16">
+        <sentence lang="prq">Iñaakerira, ikantziro iriniro: “Ari novakeri.”</sentence>
+        <sentence lang="es">Lo vio y dijo: “Lo voy a matar.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="26.17">
+        <sentence lang="prq">Yoijayoijatakeri.</sentence>
+        <sentence lang="es">Lo perseguía por mucho tiempo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
