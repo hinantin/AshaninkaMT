@@ -7196,4 +7196,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="25.35">
+        <sentence lang="prq">Oh, naaka te noninteri shiramparika, teve!</sentence>
+        <sentence lang="es">Yo no lo quería a ese hombre, ¡no!</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
