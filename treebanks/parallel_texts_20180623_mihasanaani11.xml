@@ -6974,4 +6974,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="24.9">
+        <sentence lang="prq">Pijataje, piñeero piniro, piñeero peentsite, piñeeri pirentzi, piñeeri apa, piñeeri piimi.”</sentence>
+        <sentence lang="es">Vaya, vas a ver a tu mamá, a tu hijo, a tu hermano, a tu papá, a tu esposo.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="24.10">
+        <sentence lang="prq">Arimatyaari ari okimoshirite anta, arika ojatanake onampiki, oñeero iniro.</sentence>
+        <sentence lang="es">Quizas allí estará muy feliz cuando se vaya en su pueblo, se encontrará a su mamá.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="25.0">
+        <sentence lang="prq">AAVAKANTAKIRI INIISHI</sentence>
+        <sentence lang="es">CUANDO SE CASÓ LA SRA INES</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="25.1">
+        <sentence lang="prq">Naaka pairani naantakari noimi, tera noninteri, okimita iroñaaka avankaropaye otsipatari, anta amigotetakari, onoviotakari.</sentence>
+        <sentence lang="es">Yo, antes para casar con mi esposo, yo no lo quería como ahora las señoritas se juntan, son amigos, son novios.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
