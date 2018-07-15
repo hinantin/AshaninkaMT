@@ -7082,4 +7082,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="25.16">
+        <sentence lang="prq">Ari nokantzimaintaka naarikya.</sentence>
+        <sentence lang="es">Así fue conmigo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="25.17">
+        <sentence lang="prq">Te yantena noimi irojatzi iroñaaka.</sentence>
+        <sentence lang="es">No me pega mi esposo hasta ahora.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="25.18">
+        <sentence lang="prq">Aikiro nojatanakitzi, tzimayetanaki neentsipaye.</sentence>
+        <sentence lang="es">Segía yendo, teniendo mis hijos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="25.19">
+        <sentence lang="prq">Saikanakina novankoki.</sentence>
+        <sentence lang="es">Ya estoy sentada en mi casa.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
