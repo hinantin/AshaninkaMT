@@ -7352,4 +7352,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="26.18">
+        <sentence lang="prq">Ikintakeri iroñaaka, ikintzitantakiri.</sentence>
+        <sentence lang="es">Lo picó con la flecha, lo picó el loro.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="26.19">
+        <sentence lang="prq">Ikantziri: “Ikintakinari noyasantote.”</sentence>
+        <sentence lang="es">Le dijo [el dueño]: “Lo ha picado mi papagayo.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
