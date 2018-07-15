@@ -7172,4 +7172,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="25.31">
+        <sentence lang="prq">Tekatsitanaki, intaani aparoni, iroñaaka ñaanatatziri Saantanaki.</sentence>
+        <sentence lang="es">No hay [mis hijos], solamente uno, ahora está estudiando en Santa Ana.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="25.32">
+        <sentence lang="prq">Iritaki saikatsi aparoni.</sentence>
+        <sentence lang="es">Él es el unico que está.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="25.33">
+        <sentence lang="prq">Iroñaaka piñaaiyetakirika nosarinaitatzi.</sentence>
+        <sentence lang="es">Ahora todo lo que has visto son mis nietos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="25.34">
+        <sentence lang="prq">Irotaki nokantavakimiri, Elena, okaratzika.</sentence>
+        <sentence lang="es">Eso es lo que te digo, Elena, aquí termina.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
