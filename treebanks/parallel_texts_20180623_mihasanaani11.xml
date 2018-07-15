@@ -7118,4 +7118,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="25.22">
+        <sentence lang="prq">„Tera nonintatyeri shiramparira.‟</sentence>
+        <sentence lang="es">[Decía yo:]“No quiero a ese hombre.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="25.23">
+        <sentence lang="prq">Poña nokantakiri: “Aritaima, naakemi.”</sentence>
+        <sentence lang="es">Después le dije al hombre: “No importa, casaré contigo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
