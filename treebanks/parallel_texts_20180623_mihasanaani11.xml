@@ -6938,4 +6938,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="24.3">
+        <sentence lang="prq">Ovashiritatya okantaka Tata, iraaka Tata.</sentence>
+        <sentence lang="es">Siempre está triste Tata, estaba llorando Tata.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
