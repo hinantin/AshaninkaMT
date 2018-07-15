@@ -7310,4 +7310,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="26.11">
+        <sentence lang="prq">Ikantzi iroñaaka: “Pijatantyaari pishitove.”</sentence>
+        <sentence lang="es">Decían: “Si vas a salir de la comunidad..”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="26.12">
+        <sentence lang="prq">Pairani ari ikanta pashinipaye ashaninka intakantayetarori ishinkitanakya.</sentence>
+        <sentence lang="es">Así era, otros mis paisanos antiguas iban a emborracharlo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="26.13">
+        <sentence lang="prq">Poñaaka imishitovaitakeri, ijate tsikarika inintakaro.</sentence>
+        <sentence lang="es">Después podían salir o ir donde querían.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
