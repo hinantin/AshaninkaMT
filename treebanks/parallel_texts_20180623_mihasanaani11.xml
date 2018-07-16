@@ -8235,4 +8235,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="29.54">
+        <sentence lang="prq">Iroñaaka pookanakeri peentsite.”</sentence>
+        <sentence lang="es">Deja ahora a tu hijo.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.55">
+        <sentence lang="prq">Ookanakiri eentsite.</sentence>
+        <sentence lang="es">Lo dejó.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.56">
+        <sentence lang="prq">Ojataji.</sentence>
+        <sentence lang="es">Se fue.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.57">
+        <sentence lang="prq">Iroñaaka ikantavakiro: “Pokajemi?Pirapaintzi?”</sentence>
+        <sentence lang="es">Le dijo [su marido]: “¿Volviste? ¿Tomaste agua?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
