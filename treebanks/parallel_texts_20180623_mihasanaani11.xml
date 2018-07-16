@@ -8169,4 +8169,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="29.43">
+        <sentence lang="prq">“Arima irakero iraantsi onatzi.”</sentence>
+        <sentence lang="es">“¿Acaso se puede tomar sangre?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.44">
+        <sentence lang="prq">Poñaaka iroñaaka ikantziro: “Pijate pamenaite, maatsi pashini nijaa, iroka chavicharini.”</sentence>
+        <sentence lang="es">Entonces le dijo: “Vete, a ver, hay otra quebrada, la quebrada de vagina.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.45">
+        <sentence lang="prq">Ojataki, oñaatziro iroñaaka sharo.</sentence>
+        <sentence lang="es">Cuando se iba por el camino, se encontró la cutpe en persona.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.46">
+        <sentence lang="prq">Sharo iroñaaka oshoinkakero, irotaki oyotantayetarori oshoinke.</sentence>
+        <sentence lang="es">La cutpe en persona silbó a esa mujer, la cutpe le enseñó a silbar.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
