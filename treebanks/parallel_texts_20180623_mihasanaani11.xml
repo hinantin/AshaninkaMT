@@ -7502,4 +7502,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="27.7">
+        <sentence lang="prq">Opoñaaka sheeteni okemavakiri yora tsisoni [aroni] ikaimaki „atatao,‟ „atatao.‟</sentence>
+        <sentence lang="es">Luego en la tarde escuchó el pajarito malagüero gritando, „atatao,‟ „atatao.‟</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="27.8">
+        <sentence lang="prq">Okantziro ishinto, tzimatsi ishinto, okaratzi apite: “Kooya, koraketaki api.”</sentence>
+        <sentence lang="es">Le dijo su hija, tenía hijas, eran dos: “Mujer, viene el abuelo.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
