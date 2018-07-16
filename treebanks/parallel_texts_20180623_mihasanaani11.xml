@@ -7766,4 +7766,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="28.8">
+        <sentence lang="prq">Otsonkakero okasavaitanaji kooyaka, jatavetaja aajatyeromi ishinto, oñaajantzi maaki.</sentence>
+        <sentence lang="es">Cuando esta mujer cocinó su yuca, se fue a recogerla pensando que estaba dormida.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="28.10">
+        <sentence lang="prq">Ari ovashirivaita, okantzi: “Naaka kantakashitakaro.”</sentence>
+        <sentence lang="es">Tristemente se dijo para sí: “Fui la culpable.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="28.11">
+        <sentence lang="prq">Iroñaaka shiramparika yaanakiro eentsi irojatzi opashitziki shina.</sentence>
+        <sentence lang="es">Este hombre llevó a esta niña en la copa de la lupuna.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
