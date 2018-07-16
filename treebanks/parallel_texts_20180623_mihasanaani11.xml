@@ -8289,4 +8289,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="29.63">
+        <sentence lang="prq">Iroñaaka aminaishitakiri oimera.</sentence>
+        <sentence lang="es">Empezó a revisar la cabeza de su esposo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.64">
+        <sentence lang="prq">Itankainaitakirira, ivainaitakirira.</sentence>
+        <sentence lang="es">En su cabeza partida, donde le golpearon.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
