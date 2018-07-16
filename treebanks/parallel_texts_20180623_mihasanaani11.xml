@@ -7514,4 +7514,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="27.9">
+        <sentence lang="prq">No dijo manitzi, antiguamente dijeron: “No debemos decir „tigre‟, si no, nos va a comer.”</sentence>
+        <sentence lang="es">Te onkanteri manitzi, pairani ikantaitzi: “Airo akantzi manitzi, aritaki yatsikakai.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="27.10">
+        <sentence lang="prq">“Koraketaki api.”</sentence>
+        <sentence lang="es">“Ya viene el abuelo.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="27.11">
+        <sentence lang="prq">“Pimairete.”</sentence>
+        <sentence lang="es">“Cállate.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="27.12">
+        <sentence lang="prq">Avisanaki osamaninintanaki, aitaki oshetyanaki.</sentence>
+        <sentence lang="es">Pasó tanto rato, ya era tarde.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
