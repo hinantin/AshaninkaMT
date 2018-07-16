@@ -7880,4 +7880,40 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="28.28">
+        <sentence lang="prq">Okantanajiro ishinto: “Kooya, tsika pikantakerika nosari, antaropaye iroki kimivaitaka mamaro!”</sentence>
+        <sentence lang="es">Cuando volvió su hija, le dijo a su hija: “Mujer, ¿qué le has hecho a mi nieto? Tiene ojos grandes como del búho.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="28.29">
+        <sentence lang="prq">Iro otsonkavetaka oñaavaitzi araiyanakeni mavaroite antamishiki, pyaanaka mamaro, kaimapaki jo, jo, jo, jo.</sentence>
+        <sentence lang="es">Ni bien terminaba de hablar, se transformaron en búhos y se fueron volando hacia el monte, allí gritaban jo, jo, jo, jo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="28.30">
+        <sentence lang="prq">Ari intanaka ikoñaatzi mamaro, irotaki ishikitantakari irojatzi iroñaaka.</sentence>
+        <sentence lang="es">Allí se inició la aparición del búho desde ahí nacimiento de los búhos hasta ahora.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="28.31">
+        <sentence lang="prq">Ari ikantakotari mamaro, ikoshitzi aparoni kooyaniki irojatzi yatzirivetani.</sentence>
+        <sentence lang="es">Así fue la historia del búho que se robó a una niñita cuando era una persona.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="28.32">
+        <sentence lang="prq">Pairani te onkameetsate akantavaishitya, maaroni inchatoshi, piratsi, maaroni saikatsiri kipatsiki okemayetzi akantayetziri.</sentence>
+        <sentence lang="es">Antes no era bueno hacer bromas, todos los árboles, animales, todo lo que hay en esta tierra tenían la capacidad de escuchar.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.0">
+        <sentence lang="prq">OOVERO</sentence>
+        <sentence lang="es">EL GAVILÁN MALAGÜERO</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
