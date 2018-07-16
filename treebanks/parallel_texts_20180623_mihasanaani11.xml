@@ -8193,4 +8193,46 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="29.47">
+        <sentence lang="prq">Oshoinkakiro, okantziro: “Paita pipokantarika?</sentence>
+        <sentence lang="es">Después de silbar, le dijo: “¿Por qué has venido por aquí?</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.48">
+        <sentence lang="prq">Pipokaki patzirintakari ovari?”</sentence>
+        <sentence lang="es">¿Has venido, ya te relacionaste con el fantasma [persona asesinada]?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.49">
+        <sentence lang="prq">Iroñaaka okantziro: “Iroñaaka nopokashita aka, imiritatzi neentsite.”</sentence>
+        <sentence lang="es">La mujer contestó: “Estoy por aquí porque mis hijos sienten mucha sed.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.50">
+        <sentence lang="prq">Tzimatsi ovachakanikite sharora.</sentence>
+        <sentence lang="es">La mujer cutpe tenía una calabaza pequeña.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.51">
+        <sentence lang="prq">Añaapintayetziro ovaantsite karinachanchaki irotaki ovachakate sharo.</sentence>
+        <sentence lang="es">(En la chacra la vemos esta especie de calabaza con rayos.)</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.52">
+        <sentence lang="prq">Iroñaaka okantzirokya: “Pire iroñaaka nijaaka.</sentence>
+        <sentence lang="es">Le dijo: “Toma de este agua.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.53">
+        <sentence lang="prq">Iroñaaka, paanakero iroka nijaaka pikivaishitapainteri, piime ari inkamaje.</sentence>
+        <sentence lang="es">Le dijo: “Llévate este agua y con ello lávate la cabeza de tu marido y nuevamente volverá a morir.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
