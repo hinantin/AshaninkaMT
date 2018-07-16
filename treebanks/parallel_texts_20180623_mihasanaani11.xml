@@ -7802,4 +7802,52 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="28.15">
+        <sentence lang="prq">Ipokajerika kapichikitaite, intaani yamaje matori, onkiro, aisatzi pashinipaye.</sentence>
+        <sentence lang="es">Volvía al amanecer, solamente traía mariposa nocturna, ratas y otras más.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="28.16">
+        <sentence lang="prq">Ikantapajiro iroñaaka eentsi: “Jirika, pinkotsite poshiniri avavakyata.”</sentence>
+        <sentence lang="es">Ahora decía a esta niña: “Acá está el mitayo, cocínalos para comer.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="28.17">
+        <sentence lang="prq">Ovakotakari maaroni yamayetziri, temakya tekatsi pashini oyari.</sentence>
+        <sentence lang="es">Comía todo lo que traía pues no tenía otra cosa que comer.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="28.18">
+        <sentence lang="prq">Okovaveta oshiyapitsatyaarimi, kantzimaitacha te okantero osoronkyaro shina, temakya antarotsomonte ovaato.</sentence>
+        <sentence lang="es">Quería escaparse sin embargo ella no podia bajarse del árbol lupuna porque el tallo era muy grueso.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="28.19">
+        <sentence lang="prq">Itzimakakiro aparoni eentsi, okovi iroñaaka ojate ovankoki oñaakajero osari iniro.</sentence>
+        <sentence lang="es">Tuvieron un hijo y ahora quería ir a visitar a su mamá para hacerle ver a su nieto.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="28.20">
+        <sentence lang="prq">Okantakiri iroñaaka oime: “Aritapaki pimaaki, tsame ajataite inaki añaakakitarita pitomi.”</sentence>
+        <sentence lang="es">Le dijo a su esposo: “Ya no duermes, vamos a visitar a mi mamá para que vea a tu hijo.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="28.21">
+        <sentence lang="prq">Ari yakanaki, ikantzi: “Tsametyami.”</sentence>
+        <sentence lang="es">Le contestó diciendo: “Vamos pues.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="28.22">
+        <sentence lang="prq">Yariijetakara ovankoki kooyara, antaro okimoshiritanaki oniro.</sentence>
+        <sentence lang="es">Cuando llegaron a su casa, grande fue la alegría de su madre.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
