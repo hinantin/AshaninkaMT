@@ -8139,4 +8139,34 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="29.38">
+        <sentence lang="prq">Oñaapatziro amaatsintakini iyatsarikitsopaye iroka ishiramparitantari irirori.</sentence>
+        <sentence lang="es">Al llegar allí vio muchos testículos que flotaban, también los penes.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.39">
+        <sentence lang="prq">Okantzi: “Teve.”</sentence>
+        <sentence lang="es">Dijo: “¡Qué desgracia!‟</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.40">
+        <sentence lang="prq">“Mirikincharini pijate.”</sentence>
+        <sentence lang="es">“Vete a la quebrada de costillas.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.41">
+        <sentence lang="prq">Ojavetaka irojatzi oñaapaji.</sentence>
+        <sentence lang="es">También fue y vio puras costillas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.42">
+        <sentence lang="prq">Iraancharini ojavetaka.</sentence>
+        <sentence lang="es">En la quebrada de sangre tampoco no era bueno.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
