@@ -7718,4 +7718,40 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="28.0">
+        <sentence lang="prq">MAMARO IKOSHITZI EENTSI</sentence>
+        <sentence lang="es">EL BÚHO ROBÓ A UNA NIÑA</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="28.1">
+        <sentence lang="prq">Ikantaitzi pairani tzimatsi aparoni kooya kinankaro osaikakairo oshintopaye niyankimashiki.</sentence>
+        <sentence lang="es">Se dice que antes había una viuda que vivía con sus hijas en el medio del monte.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="28.2">
+        <sentence lang="prq">Aparoni tsiteneri okasavaitanaji oyaniri, iro kantzimaitacha iraaka osheki oshinto, okantakantziro otashi.</sentence>
+        <sentence lang="es">Una noche cuando cocinaba su yuca, su hija lloraba de hambre.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="28.3">
+        <sentence lang="prq">Okantavitaro ishinto: “Airo pira.”</sentence>
+        <sentence lang="es">Aunque le decía su mamá que no llorara,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="28.4">
+        <sentence lang="prq">Te onkimisante, aikiro okaimaperotatzi.</sentence>
+        <sentence lang="es">su hija no le hacía caso, seguía llorando a gritás.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="28.5">
+        <sentence lang="prq">Okisakakaro iniro irojatzi okaimakotantakari mamaro, okantzi: “Mamaro, pimpoke paapaintero, noshintoka irairatantari!”</sentence>
+        <sentence lang="es">Molestó tanto su madre hasta que llamó al búho diciéndolo: “Búho, ven, llévate a mi hija.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
