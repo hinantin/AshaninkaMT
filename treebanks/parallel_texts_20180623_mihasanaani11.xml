@@ -7658,4 +7658,64 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="27.33">
+        <sentence lang="prq">Arika yookaitero tsika ijate oime, ataitanake.</sentence>
+        <sentence lang="es">Cuando la dejaba, cuando su esposo se iba [a pescar], ella subía [en el segundo piso].</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="27.34">
+        <sentence lang="prq">Ookanakiro oshinto osaviki, osavikira onaryaaka.</sentence>
+        <sentence lang="es">Dejó a sus hijas abajo, estaban echado [en el suelo].</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="27.35">
+        <sentence lang="prq">Oñaatziri iroñaaka antaroite manitzi ikenapaki onaryaakara.</sentence>
+        <sentence lang="es">Vio un tremendo tigre que entró por donde ellas estaban echadas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="27.36">
+        <sentence lang="prq">Yaapakiro, ivapakaro, yatsikapakiro apiteroite evankaro.</sentence>
+        <sentence lang="es">Las agarró, las comió, mordió a las dos jovencitas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="27.37">
+        <sentence lang="prq">Después el tigre se quedó en el suelo abajo, comío a las dos jovencitas.</sentence>
+        <sentence lang="es">Iroñaaka manitzira imorenkashitakaro osavikira, aitaki yovakarora apitero evankaro.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="27.38">
+        <sentence lang="prq">Ari inaryaaka ovankokira.</sentence>
+        <sentence lang="es">Allí estaba echado en su casa.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="27.39">
+        <sentence lang="prq">Okitaitanaji areetapaji oimera.</sentence>
+        <sentence lang="es">Amaneció, llegó su esposo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="27.40">
+        <sentence lang="prq">Inirora kaari ivaita, saikaki jenoki, omairetzi, otsarovaki, otsarovakakari iyaro manitzira.</sentence>
+        <sentence lang="es">No comió a su mamá porque estaba en el segundo piso, estaba en el silencio, con mucho miedo que él vaya a comerla.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="27.41">
+        <sentence lang="prq">Ipokajira oime, iñaapajatziri, itonkakiri, ivakiri manitzi.</sentence>
+        <sentence lang="es">Vino su esposo, encontró al tigre, disparó al tigre, lo mató.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="27.42">
+        <sentence lang="prq">Ari otsonkapakiri cuento (noyenkitsari).</sentence>
+        <sentence lang="es">Así termina el cuento.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
