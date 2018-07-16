@@ -7868,4 +7868,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="28.26">
+        <sentence lang="prq">Okantanaka ishinto: “Ari ina, airokya pipashiryaakotzinari notomi, imaavaketa.”</sentence>
+        <sentence lang="es">Dijo su hija: “Ya, mamá, pues no destapes a mi hijo que duerma.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="28.27">
+        <sentence lang="prq">Ojatanakira ishinto, aminakiri osari, oñaatziri antaro irokipaye.</sentence>
+        <sentence lang="es">Cuando se fue su hija, miró a su nieto, vio que tenía ojos grandes.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
