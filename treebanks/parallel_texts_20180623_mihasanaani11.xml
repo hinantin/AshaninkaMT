@@ -7784,4 +7784,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="28.12">
+        <sentence lang="prq">Ari yovakero antaroiteki imavoshi, ikantziro ivanko.</sentence>
+        <sentence lang="es">Allí estaba un tremendo nido, dice que es su casa.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="28.13">
+        <sentence lang="prq">Maaroni kitaiterikipaye, te yookero inampiri, ari ikantatya imaye irojatzi otsitenitantajya.</sentence>
+        <sentence lang="es">Todos los días no abandonaba a la niña, él se ponía a dormir durante el día hasta al anochecer.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
