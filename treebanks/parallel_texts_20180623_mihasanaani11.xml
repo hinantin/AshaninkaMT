@@ -7622,4 +7622,40 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="27.27">
+        <sentence lang="prq">Piyanajara iro otsitenitanaki okematziri ikaimapaki manitzi.</sentence>
+        <sentence lang="es">Regresó: en la noche escuchó [la madre] que gritó el tigre.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="27.28">
+        <sentence lang="prq">Aitaki omaanaki apitero evankaro.</sentence>
+        <sentence lang="es">Estaban durmiendo las dos jovencitas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="27.29">
+        <sentence lang="prq">Otzitzinavetanakaro iniro, okitsoravaitziro iniro, te okemanake apitero kooya.</sentence>
+        <sentence lang="es">Las trataba de despertar su mamá, las pellizcó su mamá, no lo sentían dos mujeres.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="27.30">
+        <sentence lang="prq">Iroñaaka iniro ataitanaki jenoki, imenkotziro oime jenoki.</sentence>
+        <sentence lang="es">Después su mamá subió arriba, en su tarima que hizo su esposo arriba.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="27.31">
+        <sentence lang="prq">Osaikajetzira okovenkatzi, osheki manitzi.</sentence>
+        <sentence lang="es">Donde vivían, era muy peligroso, muchos tigres.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="27.32">
+        <sentence lang="prq">Arika yookero apaniroini oime, imenkotakiro jenoki tsika omaye apaniroini.</sentence>
+        <sentence lang="es">Cuando la dejaba sola su esposo, hizo la tarima arriba donde ella debería dormir sola.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
