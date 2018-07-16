@@ -8006,4 +8006,47 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="29.16">
+        <sentence lang="prq">“Paita piñaavaitantari?</sentence>
+        <sentence lang="es">“¿De que estabas hablando?</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.17">
+        <sentence lang="prq">Nokemakemi novirapaka tyonkarikini, nokemakemi piñaavaitzi.”</sentence>
+        <sentence lang="es">Te escuché hablar cuando estaba acercándote.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.18">
+        <sentence lang="prq">Okantzirikya: “Te, nokantashitaro neentsite irairaata, nokantashitari oovero: “Papaintero irairatantari.”</sentence>
+        <sentence lang="es">Le respondió: “Nada, como estaba llorando mi hija, le dije que iba a llamar al oovero para llevarla.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.19">
+        <!-- translation to be checked -->
+        <sentence lang="prq">“Ah, iroñaaka nokantemi, pisaiki aka.”</sentence>
+        <sentence lang="es">Extendió su cushma negra.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.20">
+        <sentence lang="prq">Ikantziro: “Pimachokerakya.”</sentence>
+        <sentence lang="es">Le dijo: “Cierra tus ojos.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.21">
+        <sentence lang="prq">Omachokakakero eentsitepaye.</sentence>
+        <sentence lang="es">Les hizo cerrar los ojos de todos sus niños.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.22">
+        <sentence lang="prq">Irotaki ikantziro, pokeri, yaanakero anta isaikenta oime ivaitzirinta.</sentence>
+        <sentence lang="es">[Cuando les dijo que ya podían abrir sus ojos,] se encontraban en la ciudad de los muertos donde estaba su esposo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
