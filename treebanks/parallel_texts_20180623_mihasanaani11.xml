@@ -7994,4 +7994,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="29.14">
+        <sentence lang="prq">Ikantapakirokya: “Kitaiteri, ashaninka.”</sentence>
+        <sentence lang="es">Le dijo así: “Buenos días, paisana.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.15">
+        <sentence lang="prq">“Kitaiteri.”</sentence>
+        <sentence lang="es">“Buenos días.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
