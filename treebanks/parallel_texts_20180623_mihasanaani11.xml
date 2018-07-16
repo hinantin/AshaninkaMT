@@ -8301,4 +8301,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="29.65">
+        <sentence lang="prq">Aakiri iroñaaka atsikashitaro oshetaki, takik, takik.</sentence>
+        <sentence lang="es">Hacía el ademán de sacar muchos piojos y hacía sonar sus uñas como si estuviera mascando a los piojos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.66">
+        <sentence lang="prq">Ikantzi: “Inampe none?”</sentence>
+        <sentence lang="es">Le preguntó: “Tengo mucho piojo?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.67">
+        <sentence lang="prq">“Je, inampitaka.”</sentence>
+        <sentence lang="es">“Sí, hay muchos.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.68">
+        <sentence lang="prq">Okarataki aminaishitakiri, poñaashitaka osaitanakiri inijaatera sharo.</sentence>
+        <sentence lang="es">Después de revisar su cabeza, le echó agua en la cabeza de su esposo, con el agua de la mujer cutpe.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
