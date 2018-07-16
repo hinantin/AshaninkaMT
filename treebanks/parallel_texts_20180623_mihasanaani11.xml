@@ -7952,4 +7952,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="29.7">
+        <sentence lang="prq">Iroñaaka maatsi oime kooyara ivaitakiniro.</sentence>
+        <sentence lang="es">Tenía su esposo que fue asesinado.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.8">
+        <sentence lang="prq">Iroñaakaja oshinkyatetatya shinki, otononkatzi oshinkini.</sentence>
+        <sentence lang="es">Estaba preparando su chicha de maíz, estaba moliendo maíz.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
