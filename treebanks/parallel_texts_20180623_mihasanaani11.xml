@@ -7454,4 +7454,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="III.0">
+        <sentence lang="prq">KINKITSARENTSI IRASHI EENTSI</sentence>
+        <sentence lang="es">CUENTOS PARA LOS NIÑOS</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="27.0">
+        <sentence lang="prq">MANITZI</sentence>
+        <sentence lang="es">EL CUENTO DEL TIGRE</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="27.1">
+        <sentence lang="prq">Iroñaaka nonkinkitsatakoteri manitzi ipyaa aajatzita asheninka pairani.</sentence>
+        <sentence lang="es">Ahora voy a narrar sobre el tigre, se convierte también en ashaninka antiguamente.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="27.2">
+        <sentence lang="prq">Isaikavaitzi apaniroini ivankoki, intaina isaiki.</sentence>
+        <sentence lang="es">Vivía solo en su casa [un ashaninka], lejos vivía.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
