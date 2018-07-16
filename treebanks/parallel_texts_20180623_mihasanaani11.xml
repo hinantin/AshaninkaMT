@@ -7754,4 +7754,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="28.6">
+        <sentence lang="prq">Ookapaintziro otsitenitzinta.</sentence>
+        <sentence lang="es">La dejó en la oscuridad.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="28.7">
+        <sentence lang="prq">Ari omairitanaki, te iraanajya eentsika.</sentence>
+        <sentence lang="es">Quedó en silencio, no lloró más.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
