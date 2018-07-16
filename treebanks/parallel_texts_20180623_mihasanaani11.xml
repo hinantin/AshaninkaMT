@@ -7538,4 +7538,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="27.13">
+        <sentence lang="prq">Oñaatziri ikenapaki, atziri inatzi.</sentence>
+        <sentence lang="es">Vio el tigre entrando, en la forma de una persona.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="27.14">
+        <sentence lang="prq">Oñaavakiri atziri.</sentence>
+        <sentence lang="es">Lo vio.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="27.15">
+        <sentence lang="prq">Ipoñaaka apiteroite evankaro oshiroventajetari: “Api, api.”</sentence>
+        <sentence lang="es">Después dos señoritas se reían del tigre: “Abuelo, abuelo.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="27.16">
+        <sentence lang="prq">Okantavetaro ina: “Airo piñaashirinkiritsi.</sentence>
+        <sentence lang="es">La madre les dijo: “No le molesten a su abuelo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
