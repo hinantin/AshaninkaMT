@@ -8073,4 +8073,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="29.27">
+        <sentence lang="prq">Omantsaryayetakiro ovachanikipaye, shitovanaki iraani.</sentence>
+        <sentence lang="es">Como había dañado sus encías con el palito, empezó a sangrar.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.28">
+        <sentence lang="prq">Ikantzirokya: “Te pipokatzikya añaatziroinka.”</sentence>
+        <sentence lang="es">Le dijo: “¿Has venido viva?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.29">
+        <sentence lang="prq">Okantziri iroori: “Te nompoke.”</sentence>
+        <sentence lang="es">Le contestó: “No he venido.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
