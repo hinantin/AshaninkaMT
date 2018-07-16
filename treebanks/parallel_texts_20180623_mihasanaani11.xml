@@ -7964,4 +7964,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="29.9">
+        <sentence lang="prq">Tzimatsi otomi okaratzi mava.</sentence>
+        <sentence lang="es">Tenía tres hijos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.10">
+        <sentence lang="prq">Iroñaaka okimaki oshintaniki iraaka, otashataitatzima.</sentence>
+        <sentence lang="es">Su hija estaba llorando, seguramente de hambre.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.11">
+        <sentence lang="prq">Iraaka, okantziro: “Piraakapoo, ari pikantaitatyani pirapiraata, nokanterita iroñaaka oovero, yaapaintemita.”</sentence>
+        <sentence lang="es">Estaba llorando, le dijo: “Estás llorando mucho, voy a decir al oovero que venga para que te lleve.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
