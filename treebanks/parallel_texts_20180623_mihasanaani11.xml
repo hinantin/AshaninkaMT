@@ -8049,4 +8049,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="29.23">
+        <sentence lang="prq">Poñashitaka iroñaakaja isaiki, isaiki eentsitepaye ikantzirokya: “Ina, nomiritatzi, nomiritatzi iroñaaka.”</sentence>
+        <sentence lang="es">Después de largos ratos con su padre, los niños le dijo: “Mamá, tenemos sed.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.24">
+        <sentence lang="prq">Ikantzikya: “Tsika paitakakya?”</sentence>
+        <sentence lang="es">Luego le dijo a su esposa: “¿Por qué te has venido aquí?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.25">
+        <sentence lang="prq">Ikantavakiro: “Paita pipokantakari?”</sentence>
+        <sentence lang="es">Dijo: “¿Por qué te has venido aquí?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.26">
+        <sentence lang="prq">Iroñaaka atzirika, te omashontote atzirira, aaki inchakii, osatekayetakiro aikiki.</sentence>
+        <sentence lang="es">Como ella era muy inteligente, sacó un palito y se hincó las encias.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
