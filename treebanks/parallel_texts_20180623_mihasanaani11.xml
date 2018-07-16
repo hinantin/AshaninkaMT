@@ -7586,4 +7586,40 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="27.21">
+        <sentence lang="prq">Oshirontaventajetari apitero kooya.</sentence>
+        <sentence lang="es">Se reíran las dos mujeres.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="27.22">
+        <sentence lang="prq">Okantziri: “Api, api, paita patsikantarori pajo?”</sentence>
+        <sentence lang="es">Le dijeron: “Abuelo, abuelo, ¿por qué mordiste el tazón?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="27.23">
+        <sentence lang="prq">Okantavetaro iniro: “Airo pishirontaventaritzi api.‟</sentence>
+        <sentence lang="es">Les dijo su mama: “No se rían del abuelo.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="27.24">
+        <sentence lang="prq">Te okimisante apiteroitera evankaro.</sentence>
+        <sentence lang="es">No le escucharon las dos jovencitas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="27.25">
+        <sentence lang="prq">Shetyaperotanaki ikantanaki: “Jatajana.”</sentence>
+        <sentence lang="es">En la tarde, él dijo: “Me voy.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="27.26">
+        <sentence lang="prq">Jataji ashaninkara manitzi.</sentence>
+        <sentence lang="es">Se fue mi paisano tigre.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
