@@ -8109,4 +8109,34 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="29.33">
+        <sentence lang="prq">Eentsitepaye ichontakayetakaro.</sentence>
+        <sentence lang="es">A los niños los hizo escupir.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.34">
+        <sentence lang="prq">Ikantziro: “Pijate paminaite iitonchariniki.”</sentence>
+        <sentence lang="es">Le dijo: “Ve a ver el agua de las cabezas.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.35">
+        <sentence lang="prq">Ojatavetaki, oñaapatziro osheki iito, amaamenkotziyetaki iito.</sentence>
+        <sentence lang="es">Al llegar en esa quebrada, vio muchas cabezas que flotaban en sus aguas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.36">
+        <sentence lang="prq">Nijaateni ipaitayetziro shempacharini, poricharini.</sentence>
+        <sentence lang="es">Todas las quebradas llevaban el nombre de brazos, de piernas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.37">
+        <sentence lang="prq">“Paminaite katsarikentsicharini.”</sentence>
+        <sentence lang="es">“Ve a la quebrada de los testículos.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
