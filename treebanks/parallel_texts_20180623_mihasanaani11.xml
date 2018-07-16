@@ -7916,4 +7916,40 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="29.1">
+        <sentence lang="prq">Nintavakyaarita oovero.</sentence>
+        <sentence lang="es">Voy a iniciar con el oovero.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.2">
+        <sentence lang="prq">Institya oovero.</sentence>
+        <sentence lang="es">Vamos con el oovero.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.3">
+        <sentence lang="prq">Paita ikantaitziri „oovero‟?</sentence>
+        <sentence lang="es">¿Qué quiere decir oovero?</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.4">
+        <sentence lang="prq">Pakitsa, iroki ovaripaye, ivayetziri.</sentence>
+        <sentence lang="es">Gavilán, ojo de los muertos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.5">
+        <sentence lang="prq">Iritaki iroñaaka nokinkitsatakotavakeri.</sentence>
+        <sentence lang="es">De eso voy a contar.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.6">
+        <sentence lang="prq">Pairani iroñaaka ishekitantakari oovero, kama ivayetziri ashaninkapaye iitamatsitavakaiyeta, amitayetari.</sentence>
+        <sentence lang="es">Para que aumente el oovero, fue la matanza a los brujos por los paisanos, eso era una costumbre.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
