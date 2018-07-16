@@ -8271,4 +8271,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="29.60">
+        <sentence lang="prq">“Ijatatzi ikinavaitzi anta, ikatziyavaita yamine tsika okantavaita.”</sentence>
+        <sentence lang="es">“Están paseando, mirando todo lo que está a su vista.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.61">
+        <sentence lang="prq">“Je, arikyaro, ikatziyavaita.</sentence>
+        <sentence lang="es">“Muy bien, que paseen.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.62">
+        <sentence lang="prq">Paminaishitapajena noitoki kaininkamaishitaki none.”</sentence>
+        <sentence lang="es">Revisa mi cabeza, tengo mucho piojo que me está dando comezón.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
