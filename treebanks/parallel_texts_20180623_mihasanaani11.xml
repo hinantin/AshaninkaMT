@@ -7478,4 +7478,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="27.3">
+        <sentence lang="prq">Yamenantyaari ivarite irora shima.</sentence>
+        <sentence lang="es">Para que busque su comida pescado.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="27.4">
+        <sentence lang="prq">Ijataki, yookanakiro iina, ijatzi yameni shima pareniki.</sentence>
+        <sentence lang="es">[El hombre] se fue y dejó a su esposa, se fue para buscar pescado en el río.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="27.5">
+        <sentence lang="prq">Ijataki, yookanakiro iinara.</sentence>
+        <sentence lang="es">Se fue, dejó a su esposa.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="27.6">
+        <sentence lang="prq">Oyotaji tsika onkantya yareetantajyari oime, aye oyaniri, antake omasatote (pyaarentsi).</sentence>
+        <sentence lang="es">Sabía cuando iba a volver su esposo, sacó su yuca, hizo su masato.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
