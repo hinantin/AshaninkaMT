@@ -8091,4 +8091,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="29.30">
+        <sentence lang="prq">“Intsitya pichontya.”</sentence>
+        <sentence lang="es">“Entonces, escupe.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.31">
+        <sentence lang="prq">Ochontakakiro akoki.</sentence>
+        <sentence lang="es">La hizo escupir en su mano.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.32">
+        <sentence lang="prq">Ikantzi: “Ah, kameetsataki.”</sentence>
+        <sentence lang="es">Dijo: “Sí, qué bien.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
