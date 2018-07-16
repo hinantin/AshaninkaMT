@@ -8259,4 +8259,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="29.58">
+        <sentence lang="prq">“Je, nirapaintzi.”</sentence>
+        <sentence lang="es">“Sí, ya tomé agua.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.59">
+        <sentence lang="prq">“Peentsitepaye?”</sentence>
+        <sentence lang="es">“Tus hijos?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
