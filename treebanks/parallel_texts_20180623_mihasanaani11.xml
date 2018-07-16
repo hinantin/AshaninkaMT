@@ -7562,4 +7562,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="27.17">
+        <sentence lang="prq">Paiteniri, pitsikateniri ora ñoño, pimpavakeri.”</sentence>
+        <sentence lang="es">Tráiganle su masato, ciernanlo, dénselo a él.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="27.18">
+        <sentence lang="prq">Okimisantavakiro,otsikatakiniri, opakotakiri pajoki.</sentence>
+        <sentence lang="es">Obedecieron, cernieron el masato, le dieron el masato en un tazón.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="27.19">
+        <sentence lang="prq">Yaavakiro iroñaaka manitzira ashaninka, yaavakiro, irakiro, ivakiro ivanteki, yatsikanakiro pajora.</sentence>
+        <sentence lang="es">Lo agarró mi paisano tigre, lo recibió, lo tomó, lo puso en su boca, lo mordió el tazón.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="27.20">
+        <sentence lang="prq">Yatsikanakiro, ivakaro.</sentence>
+        <sentence lang="es">Lo mordió, y lo comió.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
