@@ -7982,4 +7982,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="29.12">
+        <sentence lang="prq">Iroñaaka osaiki oshinkyateta, antatziro oshinkyate, antatziro, antatziro.</sentence>
+        <sentence lang="es">Estaba moviendo su chicha de maíz, trabajando.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.13">
+        <sentence lang="prq">Oñaatziri atziri yoirinkapaka potsitari iitsari.</sentence>
+        <sentence lang="es">Vio llegar un hombre extraño vestido con una cushma negra.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
