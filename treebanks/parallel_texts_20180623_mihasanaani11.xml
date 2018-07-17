@@ -8739,4 +8739,40 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="31.12">
+        <sentence lang="prq">Ojatapaitzi, okiyapaitzi.</sentence>
+        <sentence lang="es">Sabemos que el cutpe come la yuca malogra.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="31.13">
+        <sentence lang="prq">Opoña opiyakanajaro pashini kitaiteri, opiyakanajaro.</sentence>
+        <sentence lang="es">Otro día se fueron nuevamente sacar yuca.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="31.14">
+        <sentence lang="prq">Aajatzita amakeri otomi ashaninka kamaivintzinkaro.</sentence>
+        <sentence lang="es">Llevó al hijo de la viuda.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="31.15">
+        <sentence lang="prq">Ikantzi: “Ina, pamenerotya, okikiyataki sharo.”</sentence>
+        <sentence lang="es">Dijo su hijo: “ Mamá, mira, el cutpe estaba escarbando acá, mira.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="31.16">
+        <sentence lang="prq">Kimavetaka kapichiini: “Tsika ikantzika?”</sentence>
+        <sentence lang="es">Escuchó un poco el cutpe [y dice]: “¿Qué dijo?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="31.17">
+        <sentence lang="prq">“Tekatsi, inkante ikantashita: “Pamenero osheki ovatsa ayanirika pairani.””</sentence>
+        <sentence lang="es">“No dijo nada. Sólo dijo: “Mira, grande es la producción de nuestra yuca.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
