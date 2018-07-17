@@ -8727,4 +8727,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="31.10">
+        <sentence lang="prq">Okeni, okekenatapake.</sentence>
+        <sentence lang="es">Andaban, llegaron.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="31.11">
+        <sentence lang="prq">Ayotziro sharo ojatapaite anta, okiyapaite anta.</sentence>
+        <sentence lang="es">El cutpe escarbaba la yuca en lugares diferentes.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
