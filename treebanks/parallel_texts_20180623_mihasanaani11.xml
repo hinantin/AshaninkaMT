@@ -8835,4 +8835,40 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="32.5">
+        <sentence lang="prq">Irotaki novetsikiro onkametsatantanakyaari, nopimantayetziri naari.</sentence>
+        <sentence lang="es">Éste, lo arreglo para que este bonito, lo que yo vendo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="32.6">
+        <sentence lang="prq">Iroka notyaanipaye, iroka noshitzikakero, notsakantaarori.</sentence>
+        <sentence lang="es">Esto es mi tejido, coso esto, lo tiño.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="32.7">
+        <sentence lang="prq">Inchataki notsakantayetakarori oshitovantanakari aka.</sentence>
+        <sentence lang="es">Corteza, con eso hago los tejidos para que salgan.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="32.8">
+        <sentence lang="prq">Iyoka ishivanki savaro novayetakiri aka, iritaki osheki inintziri pokayetatsiri, yamanantziri, inintziri iramatsari.</sentence>
+        <sentence lang="es">Esta es pluma de guacamayo, la pongo aquí, esto les gusta mucho, los que vienen y compran, les gusta su corona.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="32.9">
+        <sentence lang="prq">Iroka chakopi, irotaki novantari naaka, ikentantaitariri tsimerika, ikentantairiri savaro.</sentence>
+        <sentence lang="es">Esta es una flecha, con esa yo como, nosotros con esa pican los pajaritos, con esa pican el guacamayo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="32.10">
+        <sentence lang="prq">Opoñana nonkirikakero ampee, opoña naaka nontsakakero, iroka kipatsi onatzi, kisaarika pitsitsari.</sentence>
+        <sentence lang="es">Después, hilo algodón, después, lo tiño, este barro es de color negro.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
