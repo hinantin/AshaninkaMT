@@ -8505,4 +8505,46 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="30.3">
+        <sentence lang="prq">Oniro okantavitakaro: “Airo pijatzi, yayemikari maini.”</sentence>
+        <sentence lang="es">Su mamá le dijo: “No te vayas, el oso podía raptarte.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="30.4">
+        <sentence lang="prq">Te onkimisante.</sentence>
+        <sentence lang="es">Pero ella no hizo caso.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="30.5">
+        <sentence lang="prq">Jaitetaki iroñaaka, okitoryapaki tzivana, okitoryapaki, okitoryapaki.</sentence>
+        <sentence lang="es">Se fue a coger piñas, tantas piñas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="30.6">
+        <sentence lang="prq">Okantziro onatoto: “Tsame aatai, korakitaintsi maini, ari inkyanakemi.”</sentence>
+        <sentence lang="es">Su cuñada le dijo: “Vámonos, podría ir el oso, y nos puede llevar.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="30.7">
+        <sentence lang="prq">Te onkimisantero, aikiro okitoryatzi.</sentence>
+        <sentence lang="es">No hizo caso más bien, seguía cosechando más piñas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="30.8">
+        <sentence lang="prq">Irotaki otapitanaka oñaatziri maini ipokaki.</sentence>
+        <sentence lang="es">Por detrás vino el oso.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="30.9">
+        <sentence lang="prq">Yaanakiro iroñaaka, yataitakakiro inchato, ari ivakerori.</sentence>
+        <sentence lang="es">Llevó a la jovenita y la hizo trepar en un árbol grande, allí la escondió.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
