@@ -8781,4 +8781,58 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="31.19">
+        <sentence lang="prq">Okimakiro sharo, pyaana jen.</sentence>
+        <sentence lang="es">Escuchó el cutpe, se transformó [en un cutpe verdadero], gritó jen.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="31.20">
+        <sentence lang="prq">Okimpoyanakero oyotsiro petyokite otziyamorokika.</sentence>
+        <sentence lang="es">Lo guardó su cuchillo pequeñito en su ano.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="31.21">
+        <sentence lang="prq">Ari okaratapaki.</sentence>
+        <sentence lang="es">Así termina.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="IV.0">
+        <sentence lang="prq">YOMITAANTSIPAYE</sentence>
+        <sentence lang="es">ENSEÑANZAS</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="32.0">
+        <sentence lang="prq">NANTAVAIRIPAYE</sentence>
+        <sentence lang="es">MI ARTESANÍA</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="32.1">
+        <sentence lang="prq">Oka nantziri mi artesanía notejevetzirika.</sentence>
+        <sentence lang="es">Esto hago, mi artesanía, cuando lo tejo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="32.2">
+        <sentence lang="prq">Iroka kapiro, chakopi, irotaki nantayetziri naari.</sentence>
+        <sentence lang="es">Esto es bambú, una flecha, eso es lo que hago.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="32.3">
+        <sentence lang="prq">Ipoñaaka pajo, tsoiroki nomokayetakiro.</sentence>
+        <sentence lang="es">Después, poto, caracol, le hago un hueco.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="32.4">
+        <sentence lang="prq">Nomokakiro, nosantzimaitaro tyoshiki, noshintsatziro tyoshikipaye, chovankiriki, taanoki, poñaanaka iroka tsoiroki.</sentence>
+        <sentence lang="es">Hago un hueco, los ensarto pini-pini, huaruro, zapatitos, después, este caracol.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
