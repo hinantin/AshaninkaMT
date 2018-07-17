@@ -8397,4 +8397,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="29.81">
+        <sentence lang="prq">Okantziro: “Je, tsame, aakite noyaniri.”</sentence>
+        <sentence lang="es">Les dijo: “Sí, vamos a traer mi yuca.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.82">
+        <sentence lang="prq">Te oyotzimaitya irotaki ovaani okoshitakatziro oyaniri.</sentence>
+        <sentence lang="es">No sabía que esas yucas eran de la chacra de ellos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.83">
+        <sentence lang="prq">Poñaaka kisaka otomira iroñaaka.</sentence>
+        <sentence lang="es">El niño estaba molestado.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
