@@ -8421,4 +8421,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="29.85">
+        <sentence lang="prq">Kantanaki iroñaaka: “Tsika ikantzika nosari?”; intyaatzini osaikaveta.</sentence>
+        <sentence lang="es">La mujer cutpe dijo: “¿Qué dice mi nieto?”- escuchó aunque ella estaba alejada.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
