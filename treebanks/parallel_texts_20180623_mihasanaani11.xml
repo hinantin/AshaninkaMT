@@ -8613,4 +8613,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="30.21">
+        <sentence lang="prq">Poñaaka mainira yamatavitakiro, ijataki, imanaka anta.</sentence>
+        <sentence lang="es">Ahora el oso tocó engañar a la jóven por esconderse allá.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="30.22">
+        <sentence lang="prq">Aminakiri, okiryaki kapicheeni, aminakiri, tsikarika iviraka.</sentence>
+        <sentence lang="es">Ella abrió un poco los ojos, lo miró hacia donde estaba yendo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
