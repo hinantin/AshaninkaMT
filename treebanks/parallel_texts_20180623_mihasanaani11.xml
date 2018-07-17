@@ -8715,4 +8715,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="31.8">
+        <sentence lang="prq">Opoña ashaninka okitaitake omaake, tekatsitaki oyaniri.</sentence>
+        <sentence lang="es">Después, al día siguente la paisana seguía quedándose, no tenía yuca.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="31.9">
+        <sentence lang="prq">Opoña sharora okantziro: “Tsame novaaniki, ari ajateri antsoki noyaniri.”</sentence>
+        <sentence lang="es">La cutpe le dice: “Vamos a mi chacra para sacar mi yuca.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
