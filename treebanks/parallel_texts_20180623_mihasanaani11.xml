@@ -8685,4 +8685,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="31.3">
+        <sentence lang="prq">Pairani akimakoventziro atziritsi sharo, ari onkantya.</sentence>
+        <sentence lang="es">Antes escuchamos que el cutpe era gente.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="31.4">
+        <sentence lang="prq">Aajatzi mapi atziriyetatsi.</sentence>
+        <sentence lang="es">También, piedras eran gente.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="31.5">
+        <sentence lang="prq">Aanakero onampiki ovankoki.</sentence>
+        <sentence lang="es">La llevó en su pueblo, en su casa la viuda.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
