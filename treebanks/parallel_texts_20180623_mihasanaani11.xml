@@ -8355,4 +8355,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="29.74">
+        <sentence lang="prq">Ikaimanaki: “Sakayave, sakayave, kaari nashive, sakayave, sakayave!”</sentence>
+        <sentence lang="es">Él [el hombre] gritó: “Ay, ay, éste no es mío, ay, ay.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.75">
+        <sentence lang="prq">Eentsitepayera omanakiniro.</sentence>
+        <sentence lang="es">Los niños de ella los ocultó.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.76">
+        <sentence lang="prq">Iroñaaka piyaja ashaninka, okantzirokya: “Tsame amine, tsame ajate novankoki.”</sentence>
+        <sentence lang="es">Cuando regresó la mujer que huía, le dijo: “Vámonos a buscar, vamos a irnos a mi casa.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
