@@ -8487,4 +8487,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="30.0">
+        <sentence lang="prq">MAINI IKOSHITZI KOOYA</sentence>
+        <sentence lang="es">EL OSO QUE RAPTÓ A UNA MUJER</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
