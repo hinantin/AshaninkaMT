@@ -8637,4 +8637,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="30.25">
+        <sentence lang="prq">Ikanta ijatzi, ijatzi, okiryaji, oñaatziri maini jaitetaki, manaka.</sentence>
+        <sentence lang="es">Cuando esta jóven volvió a mirarlo, percató que el oso seguía caminando y se escondió.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="30.26">
+        <sentence lang="prq">Iroñaaka kooyara tzinanaka, shiyanaka irojatzi ariitantya oniroki.</sentence>
+        <sentence lang="es">La jóven se levantó, se fue corriendo hasta su mamá.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="30.27">
+        <sentence lang="prq">Oñaavairo oniro, okantavajiro: “Nokantavitakami, airo pijatzi, ari yaakemi maini, te pikimisantena.”</sentence>
+        <sentence lang="es">Cuando la madre vio a su hija, le dijo: “Te he dicho que no vayas a coger [piña], el oso te podía raptar, no me escuchaste.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="30.28">
+        <sentence lang="prq">Su mamá calentó agua y con ello depiló todo el pelo que había crecido en su pecho y en sus manos.</sentence>
+        <sentence lang="es">Iroñaaka onirora osaavatashitajiro nijaa, opitziryantajarori ovitzitayetakira akoki, ovitzi oneeki, maaroni opitziryayetajiro.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
