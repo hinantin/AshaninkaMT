@@ -8883,4 +8883,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="32.13">
+        <sentence lang="prq">Iritaki notsatziri notsompiro [notsampiro], naaka oka notsompitantari cuando itzimi neentsite, iyaanipaye.</sentence>
+        <sentence lang="es">Esto es lo que cuelgo en mi cargador, yo con esto cargo cuando tenía mi hijo, bebés.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="32.14">
+        <sentence lang="prq">Nontsompitakeri, namake noyaniri notapiki, novarentzite, nonkyaakotero, nontsompitakeri neentsite.</sentence>
+        <sentence lang="es">Traigo en mi cargador mi yuca en la espalda, plátano, lo cargo, cargo, cargo con mi hijo lejos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="32.15">
+        <sentence lang="prq">Irotaki namantarori; iroka inchato nopishantarori paitarika novarite, nopishantarori arika nante irora mi arroz [narrosote].</sentence>
+        <sentence lang="es">Con eso lo traigo, este palo, con eso muevo cualquier alimento, muevo cuando hacemos este, mi arroz.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
