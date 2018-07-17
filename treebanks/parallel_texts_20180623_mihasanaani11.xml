@@ -8667,4 +8667,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="31.0">
+        <sentence lang="prq">SHARO</sentence>
+        <sentence lang="es">EL CUTPE</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="31.1">
+        <sentence lang="prq">Aparojatzini kooya kamaivintaki, tekatsi ontsipatyaari, oimentajyaari.</sentence>
+        <sentence lang="es">Cierta vez una mujer viuda no tenía compañía, ni esposo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="31.2">
+        <sentence lang="prq">Ojatake okenake, oñaatziro aparoni ashaninka, atziritatsira sharo.</sentence>
+        <sentence lang="es">Se fue andando y vio a una paisana, era una persona [llamada] Cutpe.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
