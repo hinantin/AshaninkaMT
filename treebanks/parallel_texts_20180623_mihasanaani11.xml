@@ -8703,4 +8703,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="31.6">
+        <sentence lang="prq">Ari omaakeri.</sentence>
+        <sentence lang="es">Allí durmieron.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="31.7">
+        <sentence lang="prq">Tekatsitakera oime, ikamaketzira.</sentence>
+        <sentence lang="es">No tenía esposo porque se murió.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
