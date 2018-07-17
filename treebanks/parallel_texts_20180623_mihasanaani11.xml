@@ -8547,4 +8547,70 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="30.10">
+        <sentence lang="prq">Aririka yaanakero, yashaatakanakyaro inkaariki.</sentence>
+        <sentence lang="es">Cuando la llevó, el oso estaba caminando dentro una cocha.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="30.11">
+        <sentence lang="prq">Okanta, okanta iroñaaka kooyara vitzitaki, vitzitaki iroñaaka, otsonka ovitzitaki oneeki.</sentence>
+        <sentence lang="es">Después de mucho tiempo la mujer empezó a crecer pelo en su pecho.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="30.12">
+        <sentence lang="prq">Ovarite iroñaaka intaani yayeniro tzina, irotaki ovari aparoni.</sentence>
+        <sentence lang="es">Su comida era solamente cogollo de palmiche.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="30.13">
+        <sentence lang="prq">Okanta, okanta amatavitakeri maini, kamaki.</sentence>
+        <sentence lang="es">Un día engañó al oso [en pensar que] estaba muerta.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="30.14">
+        <sentence lang="prq">Ikyanakero, yaanajero iroñaaka, yaniitakajero.</sentence>
+        <sentence lang="es">Cargándola en sus hombros, la llevó en el panal de la izula.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="30.15">
+        <sentence lang="prq">Ikyakotapakeri manii, inaryavitakaro.</sentence>
+        <sentence lang="es">Escarbó el panal, la echó allí.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="30.16">
+        <sentence lang="prq">Te oshevataki, okamakitzi.</sentence>
+        <sentence lang="es">No se movió, fingió estar muerta.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="30.17">
+        <sentence lang="prq">Ikanta iroñaaka maini yaanakero iroñaaka iporonkavitakaro poronkitoki.</sentence>
+        <sentence lang="es">Luego la llevó, la golpeó con la planta que causa allergia en todo su cuerpo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="30.18">
+        <sentence lang="prq">Te oshevate.</sentence>
+        <sentence lang="es">No se movió.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="30.19">
+        <sentence lang="prq">Poñaaka iroñaaka isamakaro, ikantzi: “Nokiyakoterita iroñaaka manii, ikinterota, ari oshevatanake.”</sentence>
+        <sentence lang="es">Luego se aburrió, dijo: “Voy a escarbar izula para que la pique si va a moverse.‟</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="30.20">
+        <sentence lang="prq">Okantaima amavetakiro aniinka, te aniinkate.</sentence>
+        <sentence lang="es">Como evitó su respiración, no respiró.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
