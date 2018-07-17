@@ -8373,4 +8373,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="29.77">
+        <sentence lang="prq">Aanakiro iroñaaka, oñiirora avomanchakini, oñaakiro carretera onatzi, oñaakiro ashaninkara antarosante avotsi.</sentence>
+        <sentence lang="es">El camino angosto que vio antes, ahora vio un camino ancho como una carretera.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.78">
+        <sentence lang="prq">Poñaaka iroñaaka ojataji, okantziro: “Pisaikera, nojataiteta naye kaniri,” jaitetaki.</sentence>
+        <sentence lang="es"/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.79">
+        <sentence lang="prq">Ojatzi aye koritzi, ojatzi aye kemi.</sentence>
+        <sentence lang="es">Ella traía camote y zapallo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.80">
+        <sentence lang="prq">Iroñaaka pintsataka otomirakya, ikantziro: “Ameeni, aajatzi naari.”</sentence>
+        <sentence lang="es">Los hijos de la mujer también querían seguir a la señora cutpe.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
