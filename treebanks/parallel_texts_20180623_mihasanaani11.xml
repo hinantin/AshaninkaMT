@@ -8415,4 +8415,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="29.84">
+        <sentence lang="prq">Ikantzi: “Ina, kimitaka avaaniranki.”</sentence>
+        <sentence lang="es">Dijo: “Mamá, parece que esta chacra es nuestra.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
