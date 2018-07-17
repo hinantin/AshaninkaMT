@@ -8427,4 +8427,64 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="29.86">
+        <sentence lang="prq">Ikantatzi: “Okantarika opankivaitzi isha.”</sentence>
+        <sentence lang="es">“Está diciendo: “Como habrá sembrado la abuela.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.87">
+        <sentence lang="prq">“Arikyaro nosari.”</sentence>
+        <sentence lang="es">“Así pues, mi nieto.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.88">
+        <sentence lang="prq">Ikantzi: “Ina, irotakityami avaani, paminero ipankitziroka ivotsote, apa itsamirovotsoteka.”</sentence>
+        <sentence lang="es">[El niño] dijo: “Mamá, es nuestra porque aquí está la pusanga [achiote] de mi papá para cazar paujil.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.89">
+        <sentence lang="prq">“Tsika ikantzika nosari?”</sentence>
+        <sentence lang="es">“¿Qué dice mi nieto?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.90">
+        <sentence lang="prq">“Okantarika opankitziro ovotsote.”</sentence>
+        <sentence lang="es">“Como habrá sembrado su achiote.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.91">
+        <sentence lang="prq">“Arikyaro nosari.”</sentence>
+        <sentence lang="es">“Sí pues, mi nieto!”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.92">
+        <sentence lang="prq">Poñaaka ikantzikya: “Irotakityami pamine iminkataro apa irora inchamenta itovantarori.”</sentence>
+        <sentence lang="es">Seguía insistiendo el niño: “Es nuestra, mira, la tarima que ha hecho mi papá para tumbar este árbol grande.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.93">
+        <sentence lang="prq">“Arikyaro nosari, nominkatakaro notovantarori.”</sentence>
+        <sentence lang="es">“Sí pues, mi nieto, es mi tarima para tumbar este grande árbol.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.94">
+        <sentence lang="prq">Kisaka eentsi iroñaaka ikantzirokya: “Arima nokantziri iroñaaka nokantatzi iroka ivaani apa, iminkataro okanta itovantarori inchamenta.”</sentence>
+        <sentence lang="es">El niño se molestó y dijo: “Acaso así estoy diciendo que esta chacra es de mi papá, es la tarima que ha hecho mi papá para tumbar este árbol grande.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.95">
+        <sentence lang="prq">Shiyanaka iroñaaka sharora, jihai, jihai, jihai, pyaanaka sharo.</sentence>
+        <sentence lang="es">La mujer saltó hacia el monte transformándose en un verdadero cutpe, gritando, jijai, jijai, jijai.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
