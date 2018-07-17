@@ -8661,4 +8661,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="30.29">
+        <sentence lang="prq">Iro nokantavakiri kapicheeni, ari ovirapakari.</sentence>
+        <sentence lang="es">Esto es lo poco que puedo decir, aquí el cuento termina.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
