@@ -8325,4 +8325,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="29.69">
+        <sentence lang="prq">Shiyanaka iroñaaka, sharo pokaki iroori, oijatziro otaapiki.</sentence>
+        <sentence lang="es">Se fue corriendo, mientras la mujer cutpe venía por su atras para defenderla.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.70">
+        <sentence lang="prq">Ikaimanaki: “Te kaari nashive! Te kaari nashive!</sentence>
+        <sentence lang="es">Empezó a gritar: “¡No es mió, no es mió!</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="29.71">
+        <sentence lang="prq">Pivatavitavajero, irotaki opokantari ovamapananteri oime!”</sentence>
+        <sentence lang="es">Mátenla, por eso vino para matarle a su esposo.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
