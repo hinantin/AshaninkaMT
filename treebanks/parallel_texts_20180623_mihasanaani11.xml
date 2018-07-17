@@ -8871,4 +8871,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="32.11">
+        <sentence lang="prq">Iroka potsotzi shitovanantziri okamaranentzi, okityonkanentzi, potsotzi onatzi.</sentence>
+        <sentence lang="es">Esto es achiote que sale de color crema, medio rojizo, es achiote.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="32.12">
+        <sentence lang="prq">Yoka tonkitsi, itonki maniro, itonki kitairiki, itonki kemari.</sentence>
+        <sentence lang="es">Esto es un hueso, el hueso de venado, el hueso de sajino, el hueso de sachavaca.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
