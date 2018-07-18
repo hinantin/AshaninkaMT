@@ -8937,4 +8937,34 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="32.22">
+        <sentence lang="prq">Ari notetzirori aka, iroma iroka notsaratepaye, nintayetzirori, ayero ontetantyaari oireekite.</sentence>
+        <sentence lang="es">Acá las lleno, en cambio son mis bolsas, las que quieren llevarse (comprarse) para que llenen su dinero.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="32.23">
+        <sentence lang="prq">Ontetantyaari ovaperitepaye, osankinatantyaari, iroma iroka irotaki oitsaripaye evankaro onintayetziri.</sentence>
+        <sentence lang="es">Para que llenen sus documentos, escrituras, en cambio, estas es las ropas de las señoritas que les gusta.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="32.24">
+        <sentence lang="prq">Tsoiroki inatzi, ovairatakayetziri, irokama nochekakiro inchato, tekira nontsonkatero, novetsikiri.</sentence>
+        <sentence lang="es">Esto es caracol, para que bailen, esto lo corté este palo, todavía no lo he terminado, estoy arreglando.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="32.25">
+        <sentence lang="prq">Iritaki nantziri mamaro, nomamarote, nantayetziri yoka, iroka irotaki notejetziri aajatzita nontyaakero.</sentence>
+        <sentence lang="es">Esto es lo que hago, un búho, mi búho, lo hago esto, esto es lo que tejo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="32.26">
+        <sentence lang="prq">Notsatzimaita shevatyaki, ikantaitziri yoka shevatyakipaye, iroma oka irora paitaranki nantayetziri mis bolsitas, notsarateriki, iyaaniriki, oitsokipaye irora inchato saikayetatsiri nijaaki imparayaki.</sentence>
+        <sentence lang="es">Empecé a colgar sus adornos, este se llama shevatyaki (huesos), en cambio, éste, cómo se llama, confecciono mis bolsitas pequeñitas de semillas, de las pepas de los arboles que crecen en el río por la playa.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
