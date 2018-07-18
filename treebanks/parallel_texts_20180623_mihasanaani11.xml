@@ -9231,4 +9231,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="33.24">
+        <sentence lang="prq">Eero okameetsatzi, ontzimatye asaikaventero ankarate apite, tsika ankanterori arori.</sentence>
+        <sentence lang="es">No es bonita, tenemos que estar entre dos [teñiendo], como decimos nosotros.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
