@@ -9249,4 +9249,37 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="33.27">
+        <!--  to be checked -->
+        <sentence lang="prq">Naajero, nontsipatakero patsitaroki, nomoyashitakero.</sentence>
+        <sentence lang="es">Recojo para hacer las rayas, combino con la corteza, la hiervo en agua. Saco una palita [espatula], remuevo chak, chak, esto para arreglarla, empatarla hasta terminarlo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33.28">
+        <!--  to be checked -->
+        <sentence lang="prq">Naashitzimaitaro inchapataki, nonkantero tyak, tyak, aka novetsikantayetarori, novashitayetziro aka irojatzi nontsonkantakyaarori.</sentence>
+        <sentence lang="es">Después, ahora la pongo, quedó muy bonita la tela, la hiervo en agua mucho, es igual esto, la volteo, la muevo, la acabé.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33.29">
+        <!--  to be checked -->
+        <sentence lang="prq">Impoñaashitakya iroñaaka novakero, kameetsatanaki, oito nomoyakaimaitaro, moye, moye, aajatzi oshiyaro oka, noipitsokiro, noipitsokiro, notsonkatakero.</sentence>
+        <sentence lang="es">La estoy pintando, también sigo sacando la paleta y el barro, los combino para hacerlos hervir.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33.30">
+        <sentence lang="prq">Nopotsotzimaitero, aajatzita irojatzi naashitziro inchapataki pitsitsari antsipatakero amoyakakero.</sentence>
+        <sentence lang="es">Los combinamos con la hierba para teñir el color negro, así la preparamos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33.31">
+        <sentence lang="prq">Antsipatakero pitontotsa onkisatantanakyari, avetsikayetakero, ari okaratzi.</sentence>
+        <sentence lang="es">Esto estoy tejiendo, hilando cuando yo hilo, sigo hilando, hay un cantidad de mi hilo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
