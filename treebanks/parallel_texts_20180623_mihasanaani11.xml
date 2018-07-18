@@ -9105,4 +9105,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="33.5">
+        <sentence lang="prq">Irokama ampitantaro onkameetsatantyaari, tekatsi ampitsatya.</sentence>
+        <sentence lang="es">Eso hay que repetirlo para que sea perfecto, para que no arrugue.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33.6">
+        <sentence lang="prq">Okantavetakari inkaranki amenapatzirori ashi irori ampitsayetaka.</sentence>
+        <sentence lang="es">Como dijo antes de que estaba mirando [las bolsas] de ella que están arrugadas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
