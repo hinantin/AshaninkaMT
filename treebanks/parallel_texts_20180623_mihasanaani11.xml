@@ -9003,4 +9003,52 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="33.0">
+        <sentence lang="prq">ARIKA NANTE KITSAARENTSI</sentence>
+        <sentence lang="es">CUANDO HAGO UNA TEJIDA A MANO</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33.1">
+        <sentence lang="prq">Inchatoka arika nante kitsaarentsi ari noshitzikero aka.</sentence>
+        <sentence lang="es">Este palito sirve para tejer cushma, cuando la coso acá.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33.2">
+        <sentence lang="prq">Nonkantzimaityaro aka tzimatsi novatsakiro aka nontejetero, nontyaakero.</sentence>
+        <sentence lang="es">Lo hago así, tengo una correa aquí para tejer.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33.3">
+        <sentence lang="prq">Irotaki tzinayeroni, iroka avantyaarori oshimatari.</sentence>
+        <sentence lang="es">Tejo esto, lo levanto, esto [un palito] para guardar la peineta.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33.4">
+        <sentence lang="prq">Iroka irotaki nontyaantyaarori, ontzivitantanakyarori okimitantanakyarori.</sentence>
+        <sentence lang="es">Esto es con que lo tejo, para que sean bien tus tejidas, para que sean como esto.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33.5">
+        <sentence lang="prq">Ari okaratzi nantavaitantari naari.</sentence>
+        <sentence lang="es">Es todo con que trabajo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33.6">
+        <sentence lang="prq">Jeroka ninchakiri para que nontyaantyaarori nontzinantyarori, avisantyari, nontzinantyarori oshimataro.</sentence>
+        <sentence lang="es">Estos son mis palitos para tejer y levantar, para que pase acá los hilos, para levantar las peinetas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33.7">
+        <sentence lang="prq">Novantyaarori aka osaikantyaari, arika osantsatanake nampinaikimaityaaro.</sentence>
+        <sentence lang="es">Para ponerlo y enrollarlo, cuando este tejido crece largo, lo enrollo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
