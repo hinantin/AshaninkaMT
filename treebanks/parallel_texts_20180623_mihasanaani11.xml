@@ -9165,4 +9165,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="33.15">
+        <sentence lang="prq">Aajatzi okimita oka osheki otenatzi, oka kantavaitayetachari.</sentence>
+        <sentence lang="es">También esto mucho pesa, esto lo que es así de colores.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
