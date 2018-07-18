@@ -9051,4 +9051,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="33.8">
+        <sentence lang="prq">Nonkantakero aka okimitaka aka, aikiro nojatatyero nontyero, osantsatapake ovirapakya aka, nampinaikajero aka, nontzimaityaaro aka.</sentence>
+        <sentence lang="es">Así lo hago como esto, sigo tejiendo, crece largo que está acá, lo enrollo, lo pongo de apollo acá.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33.9">
+        <sentence lang="prq">Irotaki notejetantyaari.</sentence>
+        <sentence lang="es">Así tejo con estos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
