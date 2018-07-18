@@ -9075,4 +9075,34 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="33.0">
+        <sentence lang="prq">AVAMETAIRO ANTAVAIRIPAYE</sentence>
+        <sentence lang="es">LA EXPLICACIÓN DE ARTESANÍA</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33.1">
+        <sentence lang="prq">Pikovi piyotero okanta nantziro tyoshiki.</sentence>
+        <sentence lang="es">Quieres saber cómo confeccionar estas pepitas silvestres.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33.2">
+        <sentence lang="prq">Nantziro novolsatepaye antetantyaari paitarikapaye pinteteri: pireekite, pivotsoropaye.</sentence>
+        <sentence lang="es">Hago mis bolsas para llenar cualquier cosa que pueda ser: plata, cosméticos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33.3">
+        <sentence lang="prq">Nantakero aka, amokakero, osheki okisokitzi kityonkakitatsiri.</sentence>
+        <sentence lang="es">Los hice acá, los huecos, [las pepitas] son muy duros de color rojo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33.4">
+        <sentence lang="prq">Natsipetaro, tekatsite amokantyaarori, te ayotero amokantyaarori, nashitaro kiravo nomokantarori.</sentence>
+        <sentence lang="es">No hay para hacer los huecos, no sabemos como hacer huecos, agarré un clavo, con eso hice los huecos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
