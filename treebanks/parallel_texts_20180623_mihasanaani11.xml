@@ -9171,4 +9171,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="33.16">
+        <sentence lang="prq">Iroka kitamarorika inaveta oshe okametsayetzi, piyonkakiri, tzimatsi kimarakiri irora, te ontenate.</sentence>
+        <sentence lang="es">Esto de color blanco que ves es muy bueno y liviano, hay marrones que no pesan.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33.17">
+        <sentence lang="prq">Irokama oshe otenatzi iro nokokovavetari oka, osheki te ontenate.</sentence>
+        <sentence lang="es">En cambio, esto pesa mucho, yo prefiero esto que no pesa mucho.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33.16">
+        <sentence lang="prq">Iroka kitamarorika inaveta oshe okametsayetzi, piyonkakiri, tzimatsi kimarakiri irora, te ontenate.</sentence>
+        <sentence lang="es">Esto de color blanco que ves es muy bueno y liviano, hay marrones que no pesan.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33.17">
+        <sentence lang="prq">Irokama oshe otenatzi iro nokokovavetari oka, osheki te ontenate.</sentence>
+        <sentence lang="es">En cambio, esto pesa mucho, yo prefiero esto que no pesa mucho.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
