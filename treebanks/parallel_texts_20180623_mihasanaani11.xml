@@ -9282,4 +9282,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="33.32">
+        <sentence lang="prq">Iroka notyaatziro nokirikakero, ari nonkirikake, nonkirikake, oshekitaki nonampetsate.</sentence>
+        <sentence lang="es">Lo tejo, esto es barro en forma de rayas, este barro.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
