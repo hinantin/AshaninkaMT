@@ -8967,4 +8967,40 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="32.27">
+        <sentence lang="prq">Ari oshaikayetziri incha kitsoiriki, noshintsatantari, iroma iroka chovankeriki, iroka noshintsatakero, notsanatakaro.</sentence>
+        <sentence lang="es">Allí bastante semillas para ensartar, en cambio esto es huayruro, los ensarté y me los puse.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="32.28">
+        <sentence lang="prq">Iroma iroka shamaki, ikantaitziro, osaiki antamiki, amenatyero aantyari, irotaki iroori iyasankarite ashaninka.</sentence>
+        <sentence lang="es">En cambio, esto se llama shamaki, lo dicen, esas hay en el monte, hay que buscar para sacar esas pepitas, esto es el perfume de los ashaninkas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="32.29">
+        <sentence lang="prq">Irojatzita tocuyo, notsakakero, okityonkatantanakari.</sentence>
+        <sentence lang="es">Esto es tocuyo, lo he teñido y tiene el color rojo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="32.30">
+        <sentence lang="prq">Nosankinatakiri samani aka, nosankinatakiri kosaniri.</sentence>
+        <sentence lang="es">He dibujado samanyo, he dibujado un cocodrilo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="32.31">
+        <sentence lang="prq">En cambio iroka pachaka, naantari nijaa ovakerani, te noñeero, tekatsi nooyate, irotaki naantarori iroka, naantari nijaa, novantarori pyaarentsi, irantajetari.</sentence>
+        <sentence lang="es">En cambio, esto se llama pachaka (calabaza), con eso sacaba agua antes, no conocía olla, no tenía mi olla, con eso sacaba agua, con eso guardaba mi masato, lo que tomamos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="32.32">
+        <sentence lang="prq">Ari okaratzi.</sentence>
+        <sentence lang="es">Es todo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
