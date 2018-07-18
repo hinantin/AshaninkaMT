@@ -9237,4 +9237,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="33.25">
+        <sentence lang="prq">Pikantajetziro avirori ikantaitziri hora osamani, nokantziri naaka intaani noyotziri, naaka nonkantakotakya osamani irojatzi tampatsika.</sentence>
+        <sentence lang="es">Como ustedes lo dicen „hora‟; yo le digo solamente „la demorra,‟ yo no sé, „la demorra hasta cuando será‟, „hasta que el sol este derecho.‟</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33.26">
+        <sentence lang="prq">Notsonkatakero, eero ovejanaja, nonkivakero, kiva, kiva, kameetsatanaki, nashitzimaityaaro iroñaaka pitsitsari ikantaitziri yoka kipatsi, ikantaitziri pitsitsari.</sentence>
+        <sentence lang="es">Terminé muy bien, ya no se destiñe, la lavo bien, está bonita, saco otro que es barro, se dice este de arcilla, se llama barro.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
