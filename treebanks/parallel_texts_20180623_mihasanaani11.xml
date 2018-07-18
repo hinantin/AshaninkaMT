@@ -9141,4 +9141,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="33.11">
+        <sentence lang="prq">Avashitero, areetapaintya anto, asantanake aparoni, aparoni.</sentence>
+        <sentence lang="es">Ponemos otro hilo, llegamos para arriba, ensartamos en uno, en uno.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
