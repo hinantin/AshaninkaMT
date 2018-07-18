@@ -9147,4 +9147,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="33.12">
+        <sentence lang="prq">Antsonkavetakyaaro, osheki antzimosoikita.</sentence>
+        <sentence lang="es">Lo terminamos, mucho se arruga.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33.13">
+        <sentence lang="prq">Te oshiyaro okimita, oka okametsayetzi.</sentence>
+        <sentence lang="es">No es igual como esto, es bien bonito.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33.14">
+        <sentence lang="prq">Ari nokantzi oka kitamarorika, te ontenate, aryaajaini okimita oka osheki otenatzi.</sentence>
+        <sentence lang="es">Así digo, esto de color blanco no pesa, en cambio, esto sí, pesa mucho.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
