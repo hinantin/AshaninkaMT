@@ -9213,4 +9213,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="33.21">
+        <sentence lang="prq">Ñaakero, opoña nashitakero patsitaroki irora nopotsotantakarori.</sentence>
+        <sentence lang="es">Lo vi, después saqué corteza para teñir.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33.22">
+        <sentence lang="prq">Nintakaro nokotsitakiro, nomoyakiro, notetzimaitaro.</sentence>
+        <sentence lang="es">Empecé a cocinarlo, hervirlo, [luego] lo llené [en la olla].</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33.23">
+        <sentence lang="prq">Noipitsokiro, noipitsokiro oshitovantyaari kameetsa aka iroma, arika okaapaintero kapicheeni, ari oshitovanaki kipatsiporoki.</sentence>
+        <sentence lang="es">Sigo batiendo para que salga bien bonito esta tela, cuando la dejas un poco, sale manchado.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
