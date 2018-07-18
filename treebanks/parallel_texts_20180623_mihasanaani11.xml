@@ -9195,4 +9195,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="33.18">
+        <sentence lang="prq">Irokama oshe otenatzi, irokama te ontenate, kameetsa ankyero, eero pikemiro ontenate, intetapakya pireekite.</sentence>
+        <sentence lang="es">En cambio, esto mucho pesa, y esto no pesa, es bonito para llevar en los brazos, no sientes el peso y llenas tu dinero.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33.19">
+        <sentence lang="prq">Tenakitanaki irokama ikantaitziroka ampashikantyaarori mesa [avantyaarori].</sentence>
+        <sentence lang="es">Pesa esto, como se llama, para tapar en la mesa [el mantel].</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33.20">
+        <sentence lang="prq">Iroka notsapatantyaarori, nintakaro ikitamarori, iroka onatzi irashi virakocha, irirori ivetsikiri.</sentence>
+        <sentence lang="es">Esto con las que hago las rayas, empecé con el color blanco, esto [hilo] es de la gente blanco [mestizo] que ellos confeccionan.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
