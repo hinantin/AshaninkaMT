@@ -9063,4 +9063,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="33.10">
+        <sentence lang="prq">Iroka oshimitaro nontzinantyaarori, iroka irotaki parankakairori; nominkimaityaaro inchakii, apite okanta, oka saikatsini aka, saikatsini anta.</sentence>
+        <sentence lang="es">Esta peineta con ello lo levanto, esto es lo que lo abre; lo meto este palo, son dos [palitos para tejer], esto que vaya a estar acá, esto que vaya a estar allá.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33.11">
+        <sentence lang="prq">Ari okaratzi.</sentence>
+        <sentence lang="es">Es todo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
