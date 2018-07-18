@@ -9117,4 +9117,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="33.7">
+        <sentence lang="prq">Ampiitatyero ashonkero, ankantero asantatyero, asantakero, ashonkero, ashonkero, aisatzi ompiyaje.</sentence>
+        <sentence lang="es">Hay que repetirlo dándole vueltas, así tenemos que hacer ensartandolo, le damos otra vuelta, otra, de nuevo vuelve.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33.8">
+        <sentence lang="prq">Iroma tzimatsi, shintsini antsonkero aparoni kitaiteri.</sentence>
+        <sentence lang="es">Este hay otro, es más rápido de terminar, un sólo día.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33.9">
+        <sentence lang="prq">Nantziro oka, iroma tzimavetacha pashini, aajatzi oshiyavetaro.</sentence>
+        <sentence lang="es">Esto lo hago, también hay otro, cási igual.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33.10">
+        <sentence lang="prq">Ankantakero asantanakero, shere, shere, avashitaki, areetapaitatya, asantanakero.</sentence>
+        <sentence lang="es">Lo hacemos ensartandolo, shere, shere, lo ponemos en otro, llegamos al otro hilo, seguimos ensartandolo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
