@@ -8901,4 +8901,40 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="32.16">
+        <sentence lang="prq">Arika nonkotsitakerika nopishantarori nanterika novochakate nijaa.</sentence>
+        <sentence lang="es">Cuando cocino, con eso lo muevo, cuando hago mi refresco.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="32.17">
+        <sentence lang="prq">Irotaki nosheronkantakari novantyaari.</sentence>
+        <sentence lang="es">Por eso raspo la paleta para comer.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="32.18">
+        <sentence lang="prq">Iroma iroka ashi irora irojatzita tocuyo.</sentence>
+        <sentence lang="es">En cambio, esto es lo mismo tocuyo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="32.19">
+        <sentence lang="prq">Noshitzikakero, notsakakero, oshitovantakari okityonkatanakika, nopotsomaitaro oka, nopotsotakiroka.</sentence>
+        <sentence lang="es">Lo he tejido, lo he tiñido para que salga el color rojo, lo pinto, lo que he pintado esto.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="32.20">
+        <sentence lang="prq">Irotaki pitsitsari, kipatsi kisaari, nopotsotyetakerori atetatyarori, osheninka.</sentence>
+        <sentence lang="es">Esto es el barro de color negro, la pinté [la bolsita] para llenar, es igualito.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="32.21">
+        <sentence lang="prq">Piñaavaitantakari aviroka ikantaitziro celular, nokantziro naaka „iñaavaimento‟, inkomunikatantyaari, pashini intainakinta, inkaimantyaariri saikatsiri intainakinta.</sentence>
+        <sentence lang="es">Con lo que tu hablas que se llama celular yo lo digo iñaavaimento para comunicarse en otros lugares para que llamen a los que viven lejos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
