@@ -9398,4 +9398,40 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="34.7">
+        <sentence lang="prq">Aajatzita irotaki ayotavakiri, airo opyaaja.</sentence>
+        <sentence lang="es">También vamos a saberlo, no va a disaparecer [el conocimiento].</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="34.8">
+        <sentence lang="prq">Aviroka aajatzi naari nonkamake, iro saikaitatsini.</sentence>
+        <sentence lang="es">Tú vas a morir, yo también, pero este es lo que va a quedar.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="34.9">
+        <sentence lang="prq">Iroñaaka namini nopasakatzi jetari novyaari novankoki notsipatairo noyaniri.</sentence>
+        <sentence lang="es">Ahora estoy buscando carachamas para comer en mi casa con mi yuca.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="34.10">
+        <sentence lang="prq">Nopasakataki, te naye osheki, naake apite, intaani iitsoki, nomishiyavaishitari osheki.</sentence>
+        <sentence lang="es">Busqué las carachamas, no saqué mucho, saqué dos, solamente huevos de las carachamas, me escaparon bastante carachamas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="34.11">
+        <sentence lang="prq">Opoña naanajeri, nokotsitapakeri.</sentence>
+        <sentence lang="es">Después voy a llevarlos y cocinarlos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="34.12">
+        <sentence lang="prq">Iposatakirika, noya notsipatairo noyaniri.</sentence>
+        <sentence lang="es">Cuando ya cocinados, voy a comerlos con yuca.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
