@@ -9518,4 +9518,40 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="35.14">
+        <sentence lang="prq">Irotaki naantari kapichiini oka kiriiki.</sentence>
+        <sentence lang="es">Con esto consigo un poco dinero.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.15">
+        <sentence lang="prq">Arika nonkotsite irora nontyoonkante naari, irotaki novavisantarori nañaantari.</sentence>
+        <sentence lang="es">Cuando cocino o este cuando evaporo, con este paso mi vida.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.16">
+        <sentence lang="prq">Iroñaaka tekatsi antya irora ankamitantatyaari opinayetatyara arosopatsaini.</sentence>
+        <sentence lang="es">Ahora no hay [nada], no se hace nada para comprar, como están bien caritos los arrocitos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.17">
+        <sentence lang="prq">Irotaki naantari kapichiini iroka novantari, airorika iroñaaka nosaatantavaitzi, tekatsi nayeri noyaari.</sentence>
+        <sentence lang="es">Por eso consigo un poquito de alimento; cuando no realizo esta evaporación, no tengo donde conseguir mi alimento.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.18">
+        <sentence lang="prq">Irotaki nontashitaki mapi, irotaki nosaatantari mantsiyaripatsaini pokatsini jaka novankokika.</sentence>
+        <sentence lang="es">Por eso ahora voy a asar la piedra para evaporar a los enfermitos que vienen aquí en mi casa.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.19">
+        <sentence lang="prq">Irotaki novavisantarori nañaantari.</sentence>
+        <sentence lang="es">Así pasó mi vida.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
