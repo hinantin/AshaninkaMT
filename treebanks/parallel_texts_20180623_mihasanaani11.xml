@@ -9656,4 +9656,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="35.37">
+        <sentence lang="prq">Irora paitaranki, arika ompokerika mantsiyarintsi, nompakiri mantsiyari, nosaatakiri, noitakiri pashini irora inchashi, avisakotaji.</sentence>
+        <sentence lang="es">Este que me olvidé cuando viene otra enfermedad le doy al enfermo el baño, le hago tomar otra hierba, y sano el enfermo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.38">
+        <sentence lang="prq">Mantsiyarira impoki pashini, pashini nosaatantyariri.</sentence>
+        <sentence lang="es">Cuando viene otro, con otra hierba lo baño.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.39">
+        <sentence lang="prq">Tsikarika opaitarika antziriri imantsiyaterika o terika inkatsite iito.</sentence>
+        <sentence lang="es">No sé qué es lo que tiene cuando está enfermo o cuando le duele la cabeza.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
