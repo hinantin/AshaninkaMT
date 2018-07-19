@@ -9434,4 +9434,40 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="35.0">
+        <sentence lang="prq">TYOONKAANTSI</sentence>
+        <sentence lang="es">LA EVAPORACIÓN</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.1">
+        <sentence lang="prq">(Piñaavaitatye shintsini, ñaakiro.)</sentence>
+        <sentence lang="es">(Vas a hablar fuerte, habla.)</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.2">
+        <sentence lang="prq">Naavakita inchashi, maatsi namakiri inkaranki aka.</sentence>
+        <sentence lang="es">Voy a escoger hojas hay lo que he traído recién.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.3">
+        <sentence lang="prq">(Pinkante iroñaaka tsika pikantziro, piñaavaite.)</sentence>
+        <sentence lang="es">(Diga ahora, diga cómo lo dices, habla.)</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.4">
+        <sentence lang="prq">Iroñaaka nonintzi nove inchashi jaka.</sentence>
+        <sentence lang="es">Ahora quiero poner hojas aquí.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.5">
+        <sentence lang="prq">Nove nonkaatantyaariri mantsiyari.</sentence>
+        <sentence lang="es">Voy a poner para bañar a un enfermo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
