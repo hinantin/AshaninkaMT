@@ -9506,4 +9506,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="35.12">
+        <sentence lang="prq">Oka iroñaaka nosaitatyero nijaa.</sentence>
+        <sentence lang="es">Ahora esto voy a echar, el agua.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.13">
+        <sentence lang="prq">Novakoterota kameetsa omoyanaki, novakotero paamarikinta osaavatanaki.</sentence>
+        <sentence lang="es">Voy a colocarlo bonito para que hierva, lo voy a colocar en el fuego para calentarlo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
