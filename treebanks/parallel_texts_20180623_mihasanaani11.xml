@@ -9674,4 +9674,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="35.40">
+        <sentence lang="prq">Nonkaakitakiri irokiki, avisanakiri iito.</sentence>
+        <sentence lang="es">Le he hecho algo en su ojo, ya le pasa el dolor de la cabeza.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
