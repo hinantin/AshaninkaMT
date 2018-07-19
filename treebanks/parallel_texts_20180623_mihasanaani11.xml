@@ -9596,4 +9596,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="35.27">
+        <sentence lang="prq">Irotaki nosaatantari, piñaakotakinaro iroñaaka.</sentence>
+        <sentence lang="es">Con eso yo baño, ya me has visto ahora [cómo lo hago].</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.28">
+        <sentence lang="prq">Okaratzi novavisantarori nañaantari, te noshiyari pishininkajetepaye.</sentence>
+        <sentence lang="es">Todo como pasó mi vida; no soy igual como tus paisanos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
