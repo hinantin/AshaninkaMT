@@ -9326,8 +9326,15 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <parsing format="" analysislevel=""/>
     </text>
     <text id="33.39">
+        <!-- to be checked -->
         <sentence lang="prq">Kenashitatsi opoñaanaka ironto inchatonta [ivarantzi], nopyaakotatyaaro irokamaja, ikantaitziro mayonkona, notsipatayetziro potsotzi, maoyonkona, ipoñaanaka inchakotaki [ivarantzi] aajatzita osaiki antamiki.</sentence>
         <sentence lang="es">Después, trozos de palitos, también hay en el monte.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33.40">
+        <sentence lang="prq">Tekatsite opoñaatya intaina iroka yamatziro ikantaitziro pajarito.</sentence>
+        <sentence lang="es">No hay, viene de lejos, esto traen, lo dicen „pajarito‟.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
