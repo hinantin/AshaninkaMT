@@ -9554,4 +9554,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="35.20">
+        <sentence lang="prq">Shimaanakipaye, kashirikipaye, kitaiterikipaye.</sentence>
+        <sentence lang="es">Semanas, meses, días.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.21">
+        <sentence lang="prq">Irotaki nontaashitaki nontyoonkantakyaari yora ashininka mantsiyari.</sentence>
+        <sentence lang="es">Así es la piedra que calentó para evaporar a estos paisanos enfermos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.22">
+        <sentence lang="prq">Pishininkapaye aisatzi ipoki aka novankokika.</sentence>
+        <sentence lang="es">Tus paisanos también vienen aquí en mi casa.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.23">
+        <sentence lang="prq">Irora nosaatzi, noshipokiri, irotaki naari iroñaaka iroka noshipokantari oyoveta imantsiyarintsite.</sentence>
+        <sentence lang="es">Este lo evaporo, lo baño, ya ahora este lo que evaporo para que salgue su enfermedad.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
