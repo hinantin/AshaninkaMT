@@ -9338,4 +9338,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="33.41">
+        <sentence lang="prq">Tsimeri.</sentence>
+        <sentence lang="es">Tsimeri.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33.42">
+        <sentence lang="prq">Irotaki kisaatatsiri, oyoshita cosas naturales, tekatsi antsipaitayerori.</sentence>
+        <sentence lang="es">Esto es lo que es negro, son puros, cosas naturales, no hay con que combinarlo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33.43">
+        <sentence lang="prq">Ari okaratzi noñaani kapicheeni, okaratzi nokantakimiri.</sentence>
+        <sentence lang="es">Eso es todo mi idioma un poco, todo lo que te digo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
