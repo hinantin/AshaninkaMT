@@ -9614,4 +9614,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="35.30">
+        <sentence lang="prq">Oyomitanari nonironi, nosaroni.</sentence>
+        <sentence lang="es">Lo que me enseñó mi fallecida madre, mi fallecida abuela.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.31">
+        <sentence lang="prq">Nosaatantavaitzi naari aka onkantya nonkitsaatantyaari, naantyaari nonkitsatantyaaro nomaatsaki irashi neentsipatsaini.</sentence>
+        <sentence lang="es">Baño con hierbas aquí para vestirme, para conseguir [dinero], para conseguir ropa para mis hijitos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
