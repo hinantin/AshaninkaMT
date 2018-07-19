@@ -9470,4 +9470,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="35.6">
+        <sentence lang="prq">Ñaakero irotaki.</sentence>
+        <sentence lang="es">Has visto, así es.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.7">
+        <sentence lang="prq">Iroñaaka novayetziri inchashi nonkaatantyaariri mantsiyari.</sentence>
+        <sentence lang="es">Ahora estas hojas que pongo es para bañar a un enfermo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
