@@ -9626,4 +9626,34 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="35.32">
+        <sentence lang="prq">Iroka naantyari naari novantari.</sentence>
+        <sentence lang="es">Este para conseguirme alimento.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.33">
+        <sentence lang="prq">Iroñaakakya irotaki roka piñaakotakinari okaratzi nantziri naari.</sentence>
+        <sentence lang="es">Ahora ya me has visto este todo lo que yo hago.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.34">
+        <sentence lang="prq">Ari nokantzirori novavisantyaarori, okaratzi nañaantari.</sentence>
+        <sentence lang="es">Así hago como paso la vida, todo lo que consigo para vivir.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.35">
+        <sentence lang="prq">Irotaki nokamantamiri.</sentence>
+        <sentence lang="es">Por eso estoy avisando.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.36">
+        <sentence lang="prq">Tzimatsi ninchashitepatsaini nopankitzirira, irotaki naari nosaatantari.</sentence>
+        <sentence lang="es">Tengo algunas hierbitas que he sembrado, con eso yo baño.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
