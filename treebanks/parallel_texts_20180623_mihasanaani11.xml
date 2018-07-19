@@ -9710,4 +9710,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="35.46">
+        <sentence lang="prq">Irora inchashipatsaini, oparitsa iyomitaitanari naari.</sentence>
+        <sentence lang="es">Esta con raíces de hierbas, lo que me enseñaron a mí.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.47">
+        <sentence lang="prq">Ipokaki aka asheninka yomitantatziri poñaachari kirinka.</sentence>
+        <sentence lang="es">Vino aquí un paisano que enseña, que vino desde adentro.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
