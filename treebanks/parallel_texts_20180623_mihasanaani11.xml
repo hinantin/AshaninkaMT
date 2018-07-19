@@ -9288,4 +9288,47 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="33.33">
+        <sentence lang="prq">Nontyaavaityaaro, irijatzi yoka pitsitsari tsapayetachari, pitsitsari inatzi.</sentence>
+        <sentence lang="es">Me gusta el barro, no se destiñe, no cambia de color, cuando lo lavemos, no se sale.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33.34">
+        <sentence lang="prq">Nonintziri pitsitsari, te imaperotatya inkamaranite arika ankivavetajyaari, te ivejaperonitya.</sentence>
+        <sentence lang="es">No es igual a la corteza, mucho se destiñe, también achiote, como este achiote.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33.35">
+        <!-- to be checked -->
+        <sentence lang="prq">Te oshiyaro patsitaroki, oshe oveja, aajatzi potsotzi, okimita iroka potsotzi.</sentence>
+        <sentence lang="es">Lo combino este, como se llama, esto es palillo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33.36">
+        <sentence lang="prq">Notsipatavetakaro irora tsika ikantaitzirorankive iroovetaka mayonkona irora.</sentence>
+        <sentence lang="es">Este es achiote, palillo es este, el mismo barro negro.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33.37">
+        <sentence lang="prq">Potsotzitatsiri, mayonkona onatzi, irokama irijatzi pitsitsari kisaari.</sentence>
+        <sentence lang="es">Verde esto, ustedes lo dicen „matico‟, me olvidé en mi idioma.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33.38">
+        <sentence lang="prq">Kenashitatsiri irora, pinkantziro aviroka matico [ivarantzi], nopyaakotatyaaro noñaani.</sentence>
+        <sentence lang="es">Este verde, después, este palo [(i)varantzi], me olvidé, esto lo dicen „palillo‟, lo combino con achiote y matico.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="33.39">
+        <sentence lang="prq">Kenashitatsi opoñaanaka ironto inchatonta [ivarantzi], nopyaakotatyaaro irokamaja, ikantaitziro mayonkona, notsipatayetziro potsotzi, maoyonkona, ipoñaanaka inchakotaki [ivarantzi] aajatzita osaiki antamiki.</sentence>
+        <sentence lang="es">Después, trozos de palitos, también hay en el monte.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
