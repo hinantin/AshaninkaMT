@@ -9494,4 +9494,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="35.10">
+        <sentence lang="prq">Irotaki novantari naari, oka okaratzira naari iyomitaitakinari, novantaro oka.</sentence>
+        <sentence lang="es">Con esto como yo, todo esto que me enseñaron, yo como con esto.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.11">
+        <sentence lang="prq">Iro novavisantarori naari kitaiteri kapichiini naantaro novantari.</sentence>
+        <sentence lang="es">Con eso paso los días, poquito para comer.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
