@@ -9584,4 +9584,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="35.25">
+        <sentence lang="prq">Irotaki naari irotaki yamitakotzinari noimi kapichiini.</sentence>
+        <sentence lang="es">Así yo ahora; lo que me ayuda es mi esposo un poquito.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.26">
+        <sentence lang="prq">Nayetzi naari inchashipatsaini.</sentence>
+        <sentence lang="es">Yo también saco un poco de hojas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
