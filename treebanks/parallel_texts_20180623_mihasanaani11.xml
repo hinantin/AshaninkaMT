@@ -9482,4 +9482,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="35.8">
+        <sentence lang="prq">Nayeri naantari kapichiini kiriiki iroka irotaki notyoonkaantsi.</sentence>
+        <sentence lang="es">Con eso consigo un poco de dinero, con esta evaporación.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.9">
+        <sentence lang="prq">Nontashitakirika mapi, kaatsi naye naari pashini tekatsira novani.</sentence>
+        <sentence lang="es">Voy a quemar piedra, no tengo donde sacar otro como no tengo chacra.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
