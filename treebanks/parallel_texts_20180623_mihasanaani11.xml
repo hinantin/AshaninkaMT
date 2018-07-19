@@ -9356,4 +9356,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="34.0">
+        <sentence lang="prq">APASAKATE JETARI</sentence>
+        <sentence lang="es">VAMOS A BUSCAR CARACHAMA</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="34.1">
+        <sentence lang="prq">Chooki Elena, iroñaaka apoki aka ochivaki parenini ikanta nonintzi noyotakaimi tsika ikanta irorave yaantariri ijetarite ikimitaka pairani ashitarori nampitsi saikatsiri aka noshaninkapaye.</sentence>
+        <sentence lang="es">Hermana Elena, vinimos acá en el brazo del río Perené para enseñarte como carachamiaron antes los fundadores de la comunidad, mis paisanos, los que habitaban acá.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="34.2">
+        <sentence lang="prq">Iroñaaka osarentsikika tzimatsi ari oshirinkata parenini.</sentence>
+        <sentence lang="es">En el tiempo de verano, el río Perené baja.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
