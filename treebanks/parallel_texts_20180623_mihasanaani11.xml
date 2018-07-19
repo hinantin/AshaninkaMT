@@ -9374,4 +9374,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="34.3">
+        <sentence lang="prq">Ari ipokajetzi ashaninkapaye yamini impita, yamini jetari, ipokatzi ipasatziri ishavorinikini iyaani, aajatzi ivakayariri ijananikite.</sentence>
+        <sentence lang="es">Allí venían nuestros paisanos para buscar insectos con muchos pies, buscar carachamas, venían para chancar barboncitos [con piedras], también para dar de comer a sus hijos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
