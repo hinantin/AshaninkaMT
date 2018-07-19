@@ -9386,4 +9386,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="34.5">
+        <sentence lang="prq">Ashiritaro pairani ashaninkapaye ari ikanta yamini paitarika yañaantajetyaari.</sentence>
+        <sentence lang="es">Recordamos que antes mis paisanos así buscaron algo para vivir.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="34.6">
+        <sentence lang="prq">Iroñaaka arika amishitovakotakero sankinarentsika koramani onkantya iyotantyaarori pisheninkapaye tsika ikanta aantariri carachamas.</sentence>
+        <sentence lang="es">Ahora cuando está publicado el libro en el futuro, tus paisanos van a saber carachamiar.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
