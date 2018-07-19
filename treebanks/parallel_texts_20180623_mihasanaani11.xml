@@ -9680,4 +9680,34 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="35.41">
+        <sentence lang="prq">Terika nonkaatakiri inchashipatsaini okaratzi piñaayetziri novankiripatsainika.</sentence>
+        <sentence lang="es">Si no, lo baño con algunas hierbas, todo lo que ves mis plantitas aquí.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.42">
+        <sentence lang="prq">Irotaki naari irora naavintantari.</sentence>
+        <sentence lang="es">Con eso yo también curo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.43">
+        <sentence lang="prq">Ikimita iroñaaka doktoripaye (aavintantzinkari) yayetziro irora pashityapatsaini (aavintarontsi).</sentence>
+        <sentence lang="es">Como los doctores ahora sacan este, pastillas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.44">
+        <sentence lang="prq">Naari te nantero pashityapatsaini inchashi shivitsapatsaini nirayetzi kipishiri.</sentence>
+        <sentence lang="es">Yo no toco pastillas, solamente hierbas, tomo amargos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.45">
+        <sentence lang="prq">Aririka antai cáncer, úlcera, irotaki naari naavintantari.</sentence>
+        <sentence lang="es">Cuando nos da cáncer, úlcera, con eso yo curo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
