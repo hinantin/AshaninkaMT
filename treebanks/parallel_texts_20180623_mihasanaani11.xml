@@ -9782,4 +9782,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="35.58">
+        <sentence lang="prq">Nontaavaiteri, te osaavateve!</sentence>
+        <sentence lang="es">Voy a quemarlo, no está caliente, oh!</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
