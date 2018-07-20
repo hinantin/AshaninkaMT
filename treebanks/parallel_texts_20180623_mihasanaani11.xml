@@ -10154,4 +10154,52 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="36.30">
+        <sentence lang="prq">Arika iñaatsajetya, irotaki iyapontso imanatavakaya.</sentence>
+        <sentence lang="es">Cuando juegan, con esta flecha sin punta luchan entre ellos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="36.31">
+        <sentence lang="prq">Ontzimatye inkomenkakero, ivavisakero.</sentence>
+        <sentence lang="es">Tienen que inclinarse para que se pase la flecha.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="36.32">
+        <sentence lang="prq">Impitsokanake, avisanaki.</sentence>
+        <sentence lang="es">Se voltean, se pasa.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="36.33">
+        <sentence lang="prq">Tekatsi inkenteri, avisanaki, eero areetaritzi.</sentence>
+        <sentence lang="es">No pica, se pasa y no llega en el cuerpo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="36.34">
+        <sentence lang="prq">Arika inkantaitatyeyani.</sentence>
+        <sentence lang="es">Así todo el tiempo hacían.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="36.35">
+        <sentence lang="prq">Arika apaata, arika inintanake ivayeritya, aanake iroñaaka iroka.</sentence>
+        <sentence lang="es">Luego cuando ellos quieren ir a la guerra, llevan estas flechas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="36.36">
+        <sentence lang="prq">Irotaki iñaantantarori iroka, arika inkomenkakiro, iroñaaka oka eero areetaritzi.</sentence>
+        <sentence lang="es">Por eso practican, cuando se inclinan, no llega la flecha.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="36.37">
+        <sentence lang="prq">Inkomenkanake, intyaapanante, impiyanake, eero areetaritzi.</sentence>
+        <sentence lang="es">Se inclinan, se agachan, nuevamente se inclinan [bajan por abajo], para que no le llegue la flecha.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
