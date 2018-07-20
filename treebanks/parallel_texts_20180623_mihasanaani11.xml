@@ -9812,4 +9812,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="35.63">
+        <sentence lang="prq">Je, je, irotaki paitaranki piñaakiro okaratzi nantzirika.</sentence>
+        <sentence lang="es">Ya, ya, eso es, que cosa es, lo que has visto, todo lo que estoy haciendo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
