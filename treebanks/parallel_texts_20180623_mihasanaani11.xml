@@ -9758,4 +9758,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="35.54">
+        <sentence lang="prq">Pantsipetyaarita ooryaatsiri piñaakotakinaro.</sentence>
+        <sentence lang="es">Vas a recibir el calor del sol, has visto lo que hago.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.55">
+        <sentence lang="prq">Apaata, naminavakita mapi, apaata, inchakotaki, yapishoinkakoitakinaro ninchakotakiri.</sentence>
+        <sentence lang="es">Espera, voy a buscar una piedra, espera, maderita me lo han arrojado mi palito.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
