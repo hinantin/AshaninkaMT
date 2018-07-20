@@ -10502,4 +10502,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="39.14">
+        <sentence lang="prq">Kirikantontsi ompoñaashitaka irora ampee.</sentence>
+        <sentence lang="es">El hilador y también el algodón.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39.15">
+        <sentence lang="prq">Ari onkirikavaiteri intsompaikinta, osheki impaitero, onkantero, onkantero, irojatzita oshitovantajya.</sentence>
+        <sentence lang="es">Allí tiene que hilar dentro de la choza, bastante le dan, tiene que hilar, hilar hasta que ella salga afuera.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
