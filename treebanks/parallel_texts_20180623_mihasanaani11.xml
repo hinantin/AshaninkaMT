@@ -10028,4 +10028,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="36.9">
+        <sentence lang="prq">Arika yantake ivankoshi, imorontayetakiro ivankoshira.</sentence>
+        <sentence lang="es">Cuando hacen una choza, hacen huecos en la choza.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="36.10">
+        <sentence lang="prq">Impokake tsimerija, iroñaaka yamenakero omorora,omorontara iñaakerika kontsaro.</sentence>
+        <sentence lang="es">Vienen los aves, los miran a través un hueco, donde está un hueco, mira la perdiz pequeña.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="36.11">
+        <sentence lang="prq">Iroka ivyamenika iñaakerira kontsaro, yamenakeri omorokira, inkentakeri.</sentence>
+        <sentence lang="es">El arco ve la perdiz, la mira a través el hueco, la pica.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="36.12">
+        <sentence lang="prq">Inkentakerika kontsaroraja, kamaki, jaitetzi, ishitovanaki, yaapainteri.</sentence>
+        <sentence lang="es">Cuando pica esta perdiz, se muere, se va el cazador, se sale de la choza y la recoge.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
