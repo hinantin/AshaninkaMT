@@ -10304,4 +10304,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="37.8">
+        <sentence lang="prq">Mantenemos esas costumbres, y los padres de ustedes han deseado que ustedes sean alguna vez pareja, y que vivan muy felices.</sentence>
+        <sentence lang="es">Akimpoyiro akantapintajeta, piripaye avirokaite ikovaki tema avirokaite pikantya pintsipatavakaya, pisaiki pinkimoshirite.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="37.9">
+        <sentence lang="prq">Irotaki naaka nokantavakeri (nojevatzika) ashitaroka anampitsite nokantavake: “Ari onkantyari.”</sentence>
+        <sentence lang="es">Por eso yo, como el jefe de nuestra comunidad les digo: “Así será.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="37.10">
+        <sentence lang="prq">Nokantavake piime ipoña piina, nokovi pinkantya avirokaite aka anampitsiteki onkantya pimonkaratantyaarori pantavairi pantayetziri, onkantya kameetsa anampitsite, pinkimoshirijete.”</sentence>
+        <sentence lang="es">Les declaré marido y mujer y quiero que sean acá en nuestra comunidad para cumplir sus trabajos como comuneros, y que sean muy felices.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
