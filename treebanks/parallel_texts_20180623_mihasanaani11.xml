@@ -9818,4 +9818,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="35.64">
+        <sentence lang="prq">Ari okanta naari nosaatziri mantsiyaripatsaini.</sentence>
+        <sentence lang="es">Así como los baño, a unos enfermitos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.65">
+        <sentence lang="prq">Te nonkimityaari pishininkapaye, isatakina jaka, isatakina.</sentence>
+        <sentence lang="es">No soy como tus paisanos, me pone ampolleta aquí [en la nalga], me pincha.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.66">
+        <sentence lang="prq">Te, ari okantyaari naari.</sentence>
+        <sentence lang="es">No, no hago eso.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.67">
+        <sentence lang="prq">Ompoña nontsiyakiri iitzikipatsaini, kameetsa inkantanajya, intekatsitanaje.</sentence>
+        <sentence lang="es">Después lo quemo en sus piecitos, va a estar bien [el enfermo], va a sanar.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
