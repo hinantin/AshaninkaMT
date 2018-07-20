@@ -9794,4 +9794,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="35.60">
+        <sentence lang="prq">Ñaakiro, piñaakotakinaro, ñaakiro.</sentence>
+        <sentence lang="es">Has visto, me has visto como lo hago, has visto.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.61">
+        <sentence lang="prq">Pinchakotaero piitzira, ñaakiro, ari nokantzirori naari.</sentence>
+        <sentence lang="es">Raja tu pie, así has visto lo que yo hago.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.62">
+        <sentence lang="prq">(Airo piñaavaitzi apanironi, piñaavaite.)</sentence>
+        <sentence lang="es">(No vas a hablar solita, habla.)</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
