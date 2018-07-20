@@ -10088,4 +10088,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="36.19">
+        <sentence lang="prq">Kamaki shintsini kemari.</sentence>
+        <sentence lang="es">Se muere rápidamente la sachavaca.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="36.20">
+        <sentence lang="prq">Iroma iroka ashi nijaa imanatantyaariri shima.</sentence>
+        <sentence lang="es">En cambio esta flecha es del río para disparar los pescados.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
