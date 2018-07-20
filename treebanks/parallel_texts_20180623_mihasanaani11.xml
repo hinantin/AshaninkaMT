@@ -10490,4 +10490,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="39.12">
+        <sentence lang="prq">Airo aminavaitzitzi arika oshitovi ontsinte.</sentence>
+        <sentence lang="es">No va a mirar a ningun lado cuando sale al servicio (orinar).</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39.13">
+        <sentence lang="prq">Ompashikavorotatyeya, tekatsi iroñaaka, tekatsi ante, intaani impaitakiro kirikantontsi.</sentence>
+        <sentence lang="es">Tiene que estar bien tapada la cara, nada puede hacer, nada, solamente le dan un hilador.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
