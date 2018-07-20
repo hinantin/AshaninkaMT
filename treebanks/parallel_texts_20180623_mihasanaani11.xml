@@ -10376,4 +10376,34 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="38.9">
+        <sentence lang="prq">Ayomarotakiro osamanitake.</sentence>
+        <sentence lang="es">Calculamos el tiempo que demora [unos cuantos minutes].</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="38.10">
+        <sentence lang="prq">Ankimatyero ompaimatanaki amotya.</sentence>
+        <sentence lang="es">Sentimos un revuelco en el estómago.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="38.11">
+        <sentence lang="prq">Añaashitakyaro ompokimotapakai ayamaranka.</sentence>
+        <sentence lang="es">Sentimos que viene el vomito.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="38.12">
+        <sentence lang="prq">Ankamarankake, mokoriri, mokoriri.</sentence>
+        <sentence lang="es">Vomitamos, mokoriri, mokoriri.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="38.13">
+        <sentence lang="prq">Irojatzita ompiyantapajya maaroni irakirinta inkaranki.</sentence>
+        <sentence lang="es">Hasta que vuelva todo lo que ha tomado al inicio.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
