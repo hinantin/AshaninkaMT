@@ -9842,4 +9842,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="35.68">
+        <sentence lang="prq">Ñaakiro, piñaakotakinaro nantzirika naari.</sentence>
+        <sentence lang="es">Has visto, me has visto lo que hago.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.69">
+        <sentence lang="prq">Nampitavaishitavakyaari, ñaakiro Antoko, nontaavakirota.</sentence>
+        <sentence lang="es">Voy a dramatizarlo con hojas, has visto Antoko, voy a quemarlo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.70">
+        <sentence lang="prq">Pisaarikontate piitzi.</sentence>
+        <sentence lang="es">Tus pies son similares a los de zorrillo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.71">
+        <sentence lang="prq">(Ja, ja, okantavityata ina.)</sentence>
+        <sentence lang="es">(Sí, sí, no importa, mamá.)</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
