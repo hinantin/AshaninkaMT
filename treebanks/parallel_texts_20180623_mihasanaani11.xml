@@ -9974,4 +9974,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="36.0">
+        <sentence lang="prq">TSIKA IKANTZIRO YAIRIKIRO CHAKOPI</sentence>
+        <sentence lang="es">CÓMO UTILIZAR LAS FLECHAS</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="36.1">
+        <sentence lang="prq">Iroka, pyameni ikantaitziro oka.</sentence>
+        <sentence lang="es">Esto se llama „pyameni‟(arco).</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="36.2">
+        <sentence lang="prq">Iroma iroka nochakopite kirikii, ashintsakitayetakero.</sentence>
+        <sentence lang="es">En cambio esta flecha es „kirikii‟ (tiene varias ganchitas).</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="36.3">
+        <sentence lang="prq">Aka arika ankintantyaari maniro, samani.</sentence>
+        <sentence lang="es">Esto es para matar venado y samanyo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
