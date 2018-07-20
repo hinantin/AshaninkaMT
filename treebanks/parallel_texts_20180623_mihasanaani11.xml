@@ -9998,4 +9998,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="36.4">
+        <sentence lang="prq">Tekatsi yookanakero, ishitovanake arika ayentapakya.</sentence>
+        <sentence lang="es">No deja cuando sale, cuando se engancha.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="36.5">
+        <sentence lang="prq">Irotaki imanatantavakari, irotaki novantari naari.</sentence>
+        <sentence lang="es">Con eso se flechan y con eso yo como.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="36.6">
+        <sentence lang="prq">Ovakerani te añeero tonkamentotsi, intaani iro avanajeta chakopi.</sentence>
+        <sentence lang="es">Antes no habían escopetas, solamente comimos con las flechas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
