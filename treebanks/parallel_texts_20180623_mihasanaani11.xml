@@ -9770,4 +9770,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="35.56">
+        <sentence lang="prq">Ya, aka niroka, a, kaari, apaatara notomi.</sentence>
+        <sentence lang="es">Ah, aquí está, no es esto, espérate, hijo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.57">
+        <sentence lang="prq">Antavakirita Antokove, antaavakerita, piñeenara, piñeenara.</sentence>
+        <sentence lang="es">Vamos a quemar a Antoko, vamos a quemarlo, vas a verme, vas a verme.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
