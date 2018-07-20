@@ -10100,4 +10100,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="36.21">
+        <sentence lang="prq">Avantari shima, ashiroki ikantaitziro iroka.</sentence>
+        <sentence lang="es">Con ésta comemos pescado, „ferro‟ dicen.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="36.22">
+        <sentence lang="prq">Arika ijate nijaki, yamenate anta, inkatziyate yamene shima.</sentence>
+        <sentence lang="es">Cuando van en el agua, miran allá, están parado en el agua mirando pescado.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
