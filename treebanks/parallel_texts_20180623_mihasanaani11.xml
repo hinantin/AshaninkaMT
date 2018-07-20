@@ -9920,4 +9920,34 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="35.81">
+        <sentence lang="prq">Parivana opaita, oyomitanaro ishani, pinkantero ishapita.</sentence>
+        <sentence lang="es">Se llama Parivana, me enseñó mi abuela, dígalo ishapeta.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.82">
+        <sentence lang="prq">Okantziro ovairo iroori parivana, je, je.</sentence>
+        <sentence lang="es">Así le dice élla es su nombre, Parivana, así es.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.83">
+        <sentence lang="prq">Aritaki nokantzirori naari.</sentence>
+        <sentence lang="es">Sí, la llamo yo también.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.84">
+        <sentence lang="prq">(Aka piñaavaite.)</sentence>
+        <sentence lang="es">(Aquí vas a hablar.)</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.85">
+        <sentence lang="prq">Parivana onatzi.</sentence>
+        <sentence lang="es">Parivana es.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
