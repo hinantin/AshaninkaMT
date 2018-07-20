@@ -9950,4 +9950,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="35.86">
+        <sentence lang="prq">Irotaki noshipokantari, parivana onatzi.</sentence>
+        <sentence lang="es">Con eso evaporo, parivana es.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.87">
+        <sentence lang="prq">Aisatzi antyoonkantyaari kamarampi.</sentence>
+        <sentence lang="es">También se puede evaporar con ayahuasca [hoja alucinogena].</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.88">
+        <sentence lang="prq">Intekatsitanajeta iyora mantsiyarira, ñaakiro.</sentence>
+        <sentence lang="es">Para que sane este enfermo, has visto.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.89">
+        <sentence lang="prq">Ari ovirapakari, notomi, notsonkakiro.</sentence>
+        <sentence lang="es">Hasta aquí termina, hijo, ya lo terminé.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
