@@ -10430,4 +10430,58 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="39.2">
+        <sentence lang="prq">Irojatzi okantari iroñaaka aparopaye yantajetziro.</sentence>
+        <sentence lang="es">Hasta ahora practicaban nuestra costumbre cado uno.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39.3">
+        <sentence lang="prq">Arika aparoni kooya oñaavakya oshitovatziro iraani osherotekika, airorika okamantzitaro iniro ovakera eentsitapakini.</sentence>
+        <sentence lang="es">Cuando una mujer ve fluir sangre por su vagina, no ha sido comunicada por su madre cuando era niña.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39.4">
+        <sentence lang="prq">Osheki otsarovi arika oñaavakero iraani, iraanaka oñaajatzimaja otsintakotatziro iraani.</sentence>
+        <sentence lang="es">Tenía mucho miedo cuando ve su sangre, lloraba pensando que está orinando sangre.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39.5">
+        <sentence lang="prq">Te okantashitya, ari okanta kooyapaye.</sentence>
+        <sentence lang="es">No es así, así son las mujeres.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39.6">
+        <sentence lang="prq">Iroñaaka arika oshitovatake iraani oñaakiro iniro, onkantakero iniro irora oshitovatatziro iraani.</sentence>
+        <sentence lang="es">Ahora cuando fluye su sangre, ve la madre o le dice está bajando sangre por su vagina.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39.7">
+        <sentence lang="prq">Ina inironta airikanakero ishinto, aanakero okimpoyakero intsompoi ovanko.</sentence>
+        <sentence lang="es">Ahora la mamá la toma de la mano y la lleva para guardarla dentro de su casa.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39.8">
+        <sentence lang="prq">Ari antashitziro irora ovankoshitzirori intsompoikira.</sentence>
+        <sentence lang="es">Hace una choza dentro la casa para ella.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39.9">
+        <sentence lang="prq">Airo oshitovitatzi irojatzi mavapakoroni kitaiteri.</sentence>
+        <sentence lang="es">Ya no podía salir un promedio de quince días.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39.10">
+        <sentence lang="prq">Aisatzi maatsi avisakotatsiri.</sentence>
+        <sentence lang="es">También hay lo que pasan más días de descanso.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
