@@ -10202,4 +10202,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="36.38">
+        <sentence lang="prq">Iroñaaka iroka iroperori ashaninkapaye inkomenkanake, ipipitsokatakanakero ichekopiteve akotanake pashini aka.</sentence>
+        <sentence lang="es">Son paisanos verdaderos que saben inclinarse, se voltean con sus flechas a la mano, los otros.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="36.39">
+        <sentence lang="prq">Ari ikantari ashaninkapaye pairani.</sentence>
+        <sentence lang="es">Así eran antes nuestros paisanos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
