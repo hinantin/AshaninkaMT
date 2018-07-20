@@ -10118,4 +10118,40 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="36.24">
+        <sentence lang="prq">Tzimatsi amajeri avapajyaari avankoki, kotsivaitapajai.</sentence>
+        <sentence lang="es">Ya hay para traer y comer en nuestra casa, cocinamos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="36.25">
+        <sentence lang="prq">Irotaki irashi shima.</sentence>
+        <sentence lang="es">Ésta es para pescado.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="36.26">
+        <sentence lang="prq">Iroka ashirokitatsiri avantari pairani tekirata añaanakerota irora avantayetari.</sentence>
+        <sentence lang="es">Este ferro, con esto comimos antes cuando no sabíamos matar con escopetas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="36.27">
+        <sentence lang="prq">Irotaki iroñaaka avantajetari.</sentence>
+        <sentence lang="es">Con eso comemos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="36.28">
+        <sentence lang="prq">Irotaki kapontso ikantaiziro.</sentence>
+        <sentence lang="es">Este es „kapontso‟ (sin punta).</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="36.29">
+        <sentence lang="prq">Iroñaaka kapontso iñaatsatavakantari pairani irirori, intakantarori ashaninka.</sentence>
+        <sentence lang="es">Con eso jugaban ellos antes, los fundadores, nuestros paisanos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
