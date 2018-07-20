@@ -10406,4 +10406,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="38.14">
+        <sentence lang="prq">Ari okantari noñaakiri pairani ovakira neentsitapakini.</sentence>
+        <sentence lang="es">Así es como lo he visto antes cuando era niño.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="38.15">
+        <sentence lang="prq">Ari ovira.</sentence>
+        <sentence lang="es">Aquí termina.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39.0">
+        <sentence lang="prq">ARIKA ANTAROTE KOOYA</sentence>
+        <sentence lang="es">LA PRIMERA MENSTRUACIÓN DE LA MUJER</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39.1">
+        <sentence lang="prq">Iroñaaka naaka irora nonkinkitsatavakiro okaratzi amitaro pairani.</sentence>
+        <sentence lang="es">Ahora yo voy a narrar sobre algunas costumbres muy antiguas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
