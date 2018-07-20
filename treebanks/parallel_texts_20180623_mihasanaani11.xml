@@ -10052,4 +10052,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="36.13">
+        <sentence lang="prq">Iroma oka iro ikentataitariri kemari, antari inatzi.</sentence>
+        <sentence lang="es">En cambio con esto pican sachavaca, kemari, grandes son.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="36.14">
+        <sentence lang="prq">Antarira inatzi, irotaki ivamantariri maniro, kemari, kitairiki.</sentence>
+        <sentence lang="es">Como son grandes, con esto mataron venado, sachavaca, y sajino.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
