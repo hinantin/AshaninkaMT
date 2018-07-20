@@ -10214,4 +10214,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="36.40">
+        <sentence lang="prq">Imanatavakya, arika imanatavakya arika inkantanakya así, acá, allá, impipitsokatanakya yairikiro chakopi.</sentence>
+        <sentence lang="es">Cuando se flechaban, cuando están flechándose, se hacen así, acá, allá.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
