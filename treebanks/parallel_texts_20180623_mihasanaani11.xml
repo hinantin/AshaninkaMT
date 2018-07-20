@@ -9752,4 +9752,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="35.53">
+        <sentence lang="prq">Antoko, pimpokanake nontyoonkemi, Antoko, pimpokanaketa aka.</sentence>
+        <sentence lang="es">Antoko, ven de inmediato, te voy a evaporar, Antoko, ven aquí.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
