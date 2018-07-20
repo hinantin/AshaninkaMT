@@ -9884,4 +9884,40 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="35.75">
+        <sentence lang="prq">Irotaki ovavisakotakiriri inchashipatsaini.</sentence>
+        <sentence lang="es">Este es lo que le hizo sanar, estas hierbitas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.76">
+        <sentence lang="prq">Irotaki nokaatziriri noimi iroñaaka ikantavaitakara imantsiyantzi, osamani yookitaka, te ikante yaniitaje.</sentence>
+        <sentence lang="es">Esto es lo que baño a mi esposo, se enfermó mucho tiempo, estuvo en cama, no podía caminar.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.77">
+        <sentence lang="prq">Iroñaaka yamataja noimi, tekatsitaji, notyoonkakeri.</sentence>
+        <sentence lang="es">Ahora que ya mejoró mi esposo, está sano porque lo evaporo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.78">
+        <sentence lang="prq">Nokimitzirika iyoka avankarika, notyoonkakeri.</sentence>
+        <sentence lang="es">Así como lo hago con este joven, lo evaporo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.79">
+        <sentence lang="prq">Piñaakina iroñaaka okaratzi nantziri naari.</sentence>
+        <sentence lang="es">Has visto ahora todo lo que yo hago.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.80">
+        <sentence lang="prq">Irotaki naari novavisantarori nañaantari, irora paitaranki ishapeta, akantziro, nokantziro Parivana.</sentence>
+        <sentence lang="es">Con esto pasó mi vida, este, que cosa es, abuelita, la llamamos, la llaman Parivana [planta mágica].</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
