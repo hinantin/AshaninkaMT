@@ -10220,4 +10220,88 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="36.41">
+        <sentence lang="prq">Kooyapaye oyovetaro oka.</sentence>
+        <sentence lang="es">Se dan vueltas las flechas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="36.42">
+        <sentence lang="prq">Iroo koyeroni chakopi anta, airikatzi, airikatzi, ompapanantero.</sentence>
+        <sentence lang="es">Las mujeres sabían cuando se disparan entre ellos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="36.43">
+        <sentence lang="prq">Aisatzi aikiro yookatzi imanatavakara.</sentence>
+        <sentence lang="es">Ellas escojen las flechas, las agarran y las entregan a los hombres.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="36.44">
+        <sentence lang="prq">Kooyapaye irotaki impoitatziri, ayetziro chekopi, opapananteri ookakerori chekopi.</sentence>
+        <sentence lang="es">Van de atras de los hombres, recojen las flechas, las entregan cada una que tiraron los hombres.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="36.45">
+        <sentence lang="prq">Ari okaratapaki.</sentence>
+        <sentence lang="es">Es todo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="V.0">
+        <sentence lang="prq">YAMETAJETARI PAIRANI ASHANINKAPAYE</sentence>
+        <sentence lang="es">LAS COSTUMBRES DE NUESTROS PAISANOS</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="37.0">
+        <sentence lang="prq">ARIKA YAAVAKAYA</sentence>
+        <sentence lang="es">CUANDO SE CASARON</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="37.1">
+        <sentence lang="prq">Pairani arika yaavakaya, yaavakairi ajevari, jevatatsiri iritaki aavakairiri.</sentence>
+        <sentence lang="es">Antiguamente cuando se casaron, los casaron los jefes, ellos eran responsables de casarlos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="37.2">
+        <sentence lang="prq">Inkaimakeri apiteroite evankari.</sentence>
+        <sentence lang="es">Llama a los dos jóvenes.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="37.3">
+        <sentence lang="prq">Imisaikakeri, inkanteri: “Iroñaaka paavakaya, pisaike kameetsa.”</sentence>
+        <sentence lang="es">Los hace sentar [en su oficina], les dice: “Ahora se van a casarse, tienen que vivir bien.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="37.4">
+        <sentence lang="prq">Ikaminairi irotaki, ikantziri aka iroñaaka ñaaventachari:</sentence>
+        <sentence lang="es">Les da sus consejos, él es que habla acá en este comentario.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="37.5">
+        <sentence lang="prq">“Nintakotami evankari Maritzi, evankaro Impookiro.</sentence>
+        <sentence lang="es">“Estimado joven Martín y señorita Estrella.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="37.6">
+        <sentence lang="prq">Okantaitakina nokimoshiritzi, okanta iroñaaka kitaiterika kameetsataki avirokaite pikovaki pintsipatya pañaantariki.</sentence>
+        <sentence lang="es">Me siento muy feliz porque en este día tan especial, ustedes han decidido unir sus vidas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="37.7">
+        <sentence lang="prq">Okanta ashitaro akantapintajeta, ikanta ashipaye acharinitepaye.</sentence>
+        <sentence lang="es">Tenemos nuestras costumbres [porque] así eran nuestros antepasados.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
