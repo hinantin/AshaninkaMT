@@ -10016,4 +10016,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="36.7">
+        <sentence lang="prq">Iro ikentatajetari maniro, samani, ikentantariri shiramparipaye avantyaari tsimeri.</sentence>
+        <sentence lang="es">Con eso cazamos venado y samanyo, con eso cazaron aves los hombres para comer.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="36.8">
+        <sentence lang="prq">Iroma iroka ponchakirontzi ikantaitziro ikyaashivaimento.</sentence>
+        <sentence lang="es">En cambio ésta es la flecha que tiene tres puntas, se llama „una cosa para chociar‟.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
