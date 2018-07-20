@@ -10076,4 +10076,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="36.17">
+        <sentence lang="prq">Arika iñaapakeri inarye, imanatakeri, inkentakeri, ivamakeri.</sentence>
+        <sentence lang="es">Cuando lo ve echado [un animal], lo pican y lo matan.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="36.18">
+        <sentence lang="prq">Tzimatsi irashi intakantarori itziritantayetarori aka potsotzi, inkamantyaari, inkentakeri aparoni.</sentence>
+        <sentence lang="es">Habían los fundadores [antepasados], con achiote lo pintan aquí para que se muera cuando lo pica uno.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
