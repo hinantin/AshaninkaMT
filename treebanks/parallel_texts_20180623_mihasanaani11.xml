@@ -10484,4 +10484,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="39.11">
+        <sentence lang="prq">Iroñaaka osaikinta intsompaikinta, ivankoshitakironta, kooyaraja airo ovavaita katyori, airo ova poshinirintsi, airo iri pochari.</sentence>
+        <sentence lang="es">Ahora que ella está adentro que le hicieron su choza, esta mujer no va a comer cosas saladas, ni algo rico, tampoco va a tomar algo dulce.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
