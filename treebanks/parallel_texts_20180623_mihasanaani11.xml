@@ -9866,4 +9866,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="35.72">
+        <sentence lang="prq">Irotaki piñaakina, ari nokantziro naari, kameetsataki nokantakiroka, piñaakotakinaro.</sentence>
+        <sentence lang="es">Eso es, me has visto, así yo lo hago, está bien lo que he quemado, tú ya me has visto.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.73">
+        <sentence lang="prq">Airorika nantziro, iri anteroni noimiporokira, jiri isaikaporokitzira, iro yamatantajari.</sentence>
+        <sentence lang="es">Si yo no lo hago, mi esposo-montonadito, él va a hacer, ahí está montonadito, con esto él se ha mejorado.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.74">
+        <sentence lang="prq">Osheki osarentsi imantsiyataki, siete osarentsi.</sentence>
+        <sentence lang="es">Muchos años él se enferma, siete años.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
