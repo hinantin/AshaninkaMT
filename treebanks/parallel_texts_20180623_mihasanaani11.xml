@@ -9740,4 +9740,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="35.51">
+        <sentence lang="prq">Ari noshipokakeri ninkarika, ari naminake ninka noshipokeri araja, iroka intekatsiteta.</sentence>
+        <sentence lang="es">Ahora voy a evaporar, busco a alguien, este para que él sane.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="35.52">
+        <sentence lang="prq">Nonkaatantakyaari, piñaakiro, pikemakina, nonkitsatavakya.</sentence>
+        <sentence lang="es">Voy a bañarlo, has visto, me has escuchado, [espérame] voy a vestirlo por algo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
