@@ -10322,4 +10322,58 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="38.0">
+        <sentence lang="prq">AIRO APIRATANTA</sentence>
+        <sentence lang="es">PARA NO SER OCIOSO</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="38.1">
+        <sentence lang="prq">Okanta pairani ovakira neentsitapaki noniro osheki oikamarankina shavetashi.</sentence>
+        <sentence lang="es">Más antes cuando era niño, mi mamá mucho me hacía vomitar con hojas de mariposa „shavetashi.‟</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="38.2">
+        <sentence lang="prq">Okantzi: “Airo pipiratanta.”</sentence>
+        <sentence lang="es">Dijo: “No sea ocioso.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="38.3">
+        <sentence lang="prq">Ari okantapintatya arika avishi aparoni terika apite kashiri.</sentence>
+        <sentence lang="es">Siempre lo realiza cuando pasan uno o dos meses.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="38.4">
+        <sentence lang="prq">Arika ontyaankai ayi kaniri terika arika ontyaankai ayi saimpiki, arika nonkantari: “Te noninte.”</sentence>
+        <sentence lang="es">Cuando nos envía a traer leña, o sacar yuca, y cuando digo: “No quiero ir.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="38.5">
+        <sentence lang="prq">Irotaki kapichikitaiteni otzinaitakya, aye oishi ashi shavetashi, onkavirinkatakero ompoñaashitaka, ontsikatakero otasoniki.</sentence>
+        <sentence lang="es">Se levanta temprano, saca la hoja de mariposa, lo exprime, después lo cierne en el tazón.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="38.6">
+        <sentence lang="prq">Ari ompakotairi jaikini, ontzimatye antsonkero.</sentence>
+        <sentence lang="es">Nos da lleno y debemos terminar de tomar.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="38.7">
+        <sentence lang="prq">Airorika atsonkiro, aritaki ompasatakai.</sentence>
+        <sentence lang="es">Si no lo terminamos, nos va a castigar.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="38.8">
+        <sentence lang="prq">Atsonkakirorika, ompamantana nijaa saavarininka, aisatzi ontzimatye antsonkiro.</sentence>
+        <sentence lang="es">Cuando lo terminamos, me da un tazón de agua tibia, también debo terminarlo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
