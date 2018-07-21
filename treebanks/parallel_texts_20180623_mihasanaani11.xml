@@ -10700,4 +10700,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="39.47">
+        <sentence lang="prq">Intaani oñii eentsi, eentsivorotanaki, iroñaaka iroori.</sentence>
+        <sentence lang="es">Solamente puede ver el rostro de un niño para que su cara sea como de un niño, ahora de ella.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
