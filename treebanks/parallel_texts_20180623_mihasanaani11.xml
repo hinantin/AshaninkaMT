@@ -10784,4 +10784,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="40.1">
+        <sentence lang="prq">Iroñaaka nonkinkitsatavake okaratzi yamitari pairani ashaninkapaye arika irora inkame aparoni atziri, ashaninka yamitarija.</sentence>
+        <sentence lang="es">Ahora voy a contarles sobre todas las costumbres antiguas de los paisanos cuando muere una persona, las costumbres de nuestros paisanos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="40.2">
+        <sentence lang="prq">Iñaavakiri irotaki imachokani, kamaki, yamponatakiri maatsirika ivashikaro, ivashikaroporoki.</sentence>
+        <sentence lang="es">Cuando ven que ya está cerrando las ojos, está muerto, lo envuelven, si tienen un frazado, en algunas frazaditas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="40.3">
+        <sentence lang="prq">Yoisotakiri shivitsaki, poñaashitaka yaaki shitashintsi aisatzi yamponatakiri.</sentence>
+        <sentence lang="es">Lo amarran con achahuasca, después cogen un petate con eso, también lo envuelven.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="40.4">
+        <sentence lang="prq">Arika yamponaitakeri ashaninka ivakeri apaniroini.</sentence>
+        <sentence lang="es">Cuando lo envuelven, lo colocan solito.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
