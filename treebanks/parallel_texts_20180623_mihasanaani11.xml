@@ -11144,4 +11144,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="45.12">
+        <sentence lang="prq">Ikantzi: “Tsame ankiyakotajeri, antaajerita.”</sentence>
+        <sentence lang="es">Dijo: “ Vamos a desenterrar para quemarlo.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
