@@ -10658,4 +10658,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="39.40">
+        <sentence lang="prq">Poña yoitaitakiro ponkaro ovatsatantanakyaari.</sentence>
+        <sentence lang="es">Después le hacen tomar el bejuco para que engorde.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
