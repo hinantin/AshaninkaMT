@@ -10820,4 +10820,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="40.7">
+        <sentence lang="prq">Okimita iroñaaka ivaamatantaitzi, intaani inkiyakero niyanki ivanko, inkiyakero, iñaakero oviraka omorontakya anta kameetsa intetakeri.</sentence>
+        <sentence lang="es">Como ahora prenden el fuego, escarban el hueco al centro de su casa, y lo ven que ya está bueno para enterrarlo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
