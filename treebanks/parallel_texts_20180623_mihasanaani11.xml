@@ -10808,4 +10808,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="40.5">
+        <sentence lang="prq">Jaitetzi iroñaaka irora inkaimaiteri maaroni ikarajetaiyini.</sentence>
+        <sentence lang="es">Se van a llamar a todos sus compañeros.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="40.6">
+        <sentence lang="prq">Yampotoijetakya yamitakoterita inkiyakoteri, te inkitavaitaiteri intaina.</sentence>
+        <sentence lang="es">Se reunen para ayudarlos a escarbar la tierra para el entierro, no lo entierran lejos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
