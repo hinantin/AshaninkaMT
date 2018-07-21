@@ -10514,4 +10514,52 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="39.16">
+        <sentence lang="prq">Ontsonkatyero.</sentence>
+        <sentence lang="es">Tiene que terminarlo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39.17">
+        <sentence lang="prq">Airo irora añiiro, onkinkitsavaitakairi iri, onkinkitsavaitakairi oyaariri.</sentence>
+        <sentence lang="es">No vamos a verlo, este, no va a conversar con su papá, no va a conversar con su hermano.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39.18">
+        <sentence lang="prq">Airo aisatzita arika oshitovi ontsinte, ompashikavorotateya.</sentence>
+        <sentence lang="es">También cuando sale orinar tiene que está bien tapada la cara.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39.19">
+        <sentence lang="prq">Oshiyari pairani saikatsiri Irimashiki, irora kooyapaye airo aminantzitsi anta.</sentence>
+        <sentence lang="es">Como las limeñas antiguas, las mujeres no miraban a nadie.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39.20">
+        <sentence lang="prq">Ari oshiyariri, ompashikakya ovoroki, kapichiini amine, oiyotake.</sentence>
+        <sentence lang="es">Así eran iguales, tenían que están bien tapadas las caras, un poco para mirar, tenian que estar agachados.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39.21">
+        <sentence lang="prq">Iroñaaka arika, tsika paitaranki, oyotake iniro, iro oshitovantajyaari.</sentence>
+        <sentence lang="es">Ahora cuando este, cómo se llama, ya sabe su mamá, ya va a salir de su reposo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39.22">
+        <sentence lang="prq">Ontsinkake kaniri tsinka, tsinka, tsinka.</sentence>
+        <sentence lang="es">Chanca yuca, chanca, chanca, chanca.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39.23">
+        <sentence lang="prq">Ompiyotakero, antake irora, tsika paitaranki, ovyaari.</sentence>
+        <sentence lang="es">La amontona, prepara este, como se llama, su masato.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
