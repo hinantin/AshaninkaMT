@@ -10988,4 +10988,94 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="40.35">
+        <sentence lang="prq">Te, iroñaakaja yantaki taavora kameetsa, ivitsikakeri iyajonete intetakeri.</sentence>
+        <sentence lang="es">No, ahora fabrican una madera buena, fabrican un cajón, allí lo llenan.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="40.36">
+        <sentence lang="prq">Tekira inteterita, inkaatavajerita kaminkari ijatajeta kameetsa.</sentence>
+        <sentence lang="es">Antes ponerlo en el cajón, bañan al difunto para que se vaya bien.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="40.37">
+        <sentence lang="prq">Ikantzi: “Ikantajetzi iroñaaka ijatajeta kameetsa jenoki, airo ikipatsivaitanaji.”</sentence>
+        <sentence lang="es">Dicen, ellos dicen para que vaya bien al cielo, no va a ensuciarse más.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="40.38">
+        <sentence lang="prq">Inkivaitavajero maaroni irora ivatsa, inkitsataitajeri ovakerakya, iroñaaka yaaitanajeri, impaikakotaitajiri.</sentence>
+        <sentence lang="es">Lo lavan todo el cuerpo, le ponen su ropa recién, ahora lo llevan, clavan el cajón.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="40.39">
+        <sentence lang="prq">Yaaitanakiri tsika ikitantaitzi iroñaaka intaina, pairanimaja ikantashitaro pashinipaye, yookanakiro ivanko, yookapirotatziro.</sentence>
+        <sentence lang="es">Lo llevan donde entierran a los muertos, ahora es muy lejos, pero antes era diferente, lo que practicaban los otros, dejaron su casa, la dejaron completamente.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="40.40">
+        <sentence lang="prq">Irotaki ayomparipaye iñaantarori pankotsipaye, añiiro antamiki, yookatziro pairani, kaminkaripaye ari isaiki, aparoni kaminkari.</sentence>
+        <sentence lang="es">Por eso los amigos ven casas en el monte, las dejaron [las casas] antes, los muertos están allí o está un muerto.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="40.41">
+        <sentence lang="prq">Arika añiiro aparoni pankotsi antamiki, irotaki airipashitaji inchatopaye, kaminkari iroka ikitanakitziri ara.</sentence>
+        <sentence lang="es">Cuando vemos una casa en el monte, ya están creciendo árboles, hay un muerto abandonado allí.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="40.42">
+        <sentence lang="prq">Iroñaakamaja ikitaitziri tsika ikitaitzi maaroni atziripaye kamatsiri.</sentence>
+        <sentence lang="es">Lo entierran donde entierran a todas las personas que mueren.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="40.43">
+        <sentence lang="prq">Ikantziri iriro virakocha irirorija akantziri „panteon‟.</sentence>
+        <sentence lang="es">Lo que dicen la gente blanca, lo llaman „panteon‟.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="40.44">
+        <sentence lang="prq">Tekirata yookerota yametajetari itaairo iitsariporoki kaminakari pairani.</sentence>
+        <sentence lang="es">No la dejan esta costumbre, ya queman las cushmitas del muerto.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="44.45">
+        <sentence lang="prq">Iroñaakaja aijatzita yantakotziri impichakoteri kameetsa, onkantya isaikita, ikantaitzirori „cemento‟.</sentence>
+        <sentence lang="es">También lo preparan [el nicho con cemento], lo [el nicho] parchan para que sea bonito, lo que dicen „cemento‟.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="44.46">
+        <sentence lang="prq">Airota ipatsanta, tema kipatsi onatzi, kipatsi ampiyanaji.</sentence>
+        <sentence lang="es">Para que no se pudra, pero nosostros somos de tierra y la tierra volvemos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="44.47">
+        <sentence lang="prq">Maaroni yookanajiri ashaninkapaye irojatzita okanta oijatziro aparopatsaini, te ampyaakotajanterota.</sentence>
+        <sentence lang="es">Todo lo que dejaron mis paisanos se siguen conservando algunos de nosotros, no nos hemos olvidado de completo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="44.48">
+        <sentence lang="prq">Ari okaratzi.</sentence>
+        <sentence lang="es">Hasta aquí termina.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="44.49">
+        <sentence lang="prq"/>
+        <sentence lang="es"/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
