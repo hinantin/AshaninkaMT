@@ -10916,4 +10916,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="40.23">
+        <sentence lang="prq">Omparinkatapainte irotaki ikantziri iroñaaka ipaitavajiri kameetsa: “Pimpokapaje jaka, asaikajetapaji,” ikantajetzi irirori ashaninkaitepaye.</sentence>
+        <sentence lang="es">Comienza a lloviznar, eso es lo que dice ahora le dieron la bienvenida: “Ven acá, vamos a estar juntos,” eso es lo que dicen paisanos nativos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
