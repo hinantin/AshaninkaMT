@@ -10610,4 +10610,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="39.32">
+        <sentence lang="prq">Iniro okaimakiro.</sentence>
+        <sentence lang="es">Su mamá la llamó.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39.33">
+        <sentence lang="prq">Katsira oyotzirote pairani, intaani osataki poteri, onkantzimaityaro shiri, shiri.</sentence>
+        <sentence lang="es">Como no tenían un cuchillo antes, solamente raja una botella, después la raspa.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39.34">
+        <sentence lang="prq">Ompitziriro oshiyaro iroñaaka soraro, ikanta ipitziryaranki irirori.</sentence>
+        <sentence lang="es">La raspa calvo similar está al soldado, como está pelado él también.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
