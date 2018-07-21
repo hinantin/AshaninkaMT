@@ -10958,4 +10958,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="40.30">
+        <sentence lang="prq">Ivakotziri maaroni ishonkakakiri maaroiteni.</sentence>
+        <sentence lang="es">Prenden la vela alrededor [donde se encuentran echado].</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="40.31">
+        <sentence lang="prq">Iroñaakaja tsitenika pokajetapaji isheninkapaye tsika ipoñaajeta.</sentence>
+        <sentence lang="es">En la noche vienen los parientes de donde vienen, de otros lugares.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="40.32">
+        <sentence lang="prq">Pashini iroñaaka ovanaki varipa, pashini kotsitanaintsi nijaa intsiyajetyaari tsiteni apaata ninkarika saikanaintsiri.</sentence>
+        <sentence lang="es">Otros matan gallina, otros hacen hervir agua caliente para que tomen en la noche otros que se quedan.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
