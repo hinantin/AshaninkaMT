@@ -11150,4 +11150,52 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="45.13">
+        <sentence lang="prq">Ikiyakotakiri, ikiyakotajiri, yareetajiri, ikitatakerinta intsompointa.</sentence>
+        <sentence lang="es">Lo desenterró, hasta llegar al cuerpo en el fondo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="45.14">
+        <sentence lang="prq">Inoshikajetajiri, itaajiri.</sentence>
+        <sentence lang="es">Lo sacaron, lo quemaron.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="45.15">
+        <sentence lang="prq">Ari ikantavakari irirori intanakari ashaninkapaye.</sentence>
+        <sentence lang="es">Así hacian los fundadores, nuestros paisanos [antes].</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="45.16">
+        <sentence lang="prq">Arika imantsiyatanake, ikantzi: “Iritaki kisajiri yonta, tsame ankitavaryaajeri, antaajeri.”</sentence>
+        <sentence lang="es">Cuando se enferman, dicen: “ Él es que hizo daño [el muerto], vamos a desenterrarlo para quemar.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="45.17">
+        <sentence lang="prq">Aajatzita arika inkamake: “Tsame avamaatakoteri nijaaki.”</sentence>
+        <sentence lang="es">También cuando muere, [dicen]: “Vamos a hacerlo flotar [en una balsa] en el río.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="45.18">
+        <sentence lang="prq">Ivetsikashiyakeri shintsipaa, impaikashitakeri, yoisotakotakeri, imponatakeri imaantsakiporokini, yoisotakeri, ivamaatakotakeri tsikarika antarotzi omoitonkani.</sentence>
+        <sentence lang="es">Arreglan una balsa, lo clavan, lo amarran, envuelven con su ropa, lo hacen flotar en el río hasta donde está un remolino grande.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="45.19">
+        <sentence lang="prq">Ari impitamonkakotapakya, piinkake tsika yayentajya.</sentence>
+        <sentence lang="es">Allí se voltea la balsa, se hunde, por allí se atraca.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="45.20">
+        <sentence lang="prq">Ari ivajyaari tzisoni.</sentence>
+        <sentence lang="es">Allí lo comen los gallinazos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
