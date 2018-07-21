@@ -10706,4 +10706,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="39.48">
+        <sentence lang="prq">Irotaki iroñaaka iminkyaantaitarori intsompoi kooyara.</sentence>
+        <sentence lang="es">Por eso lo guardan en reposo adentro de la casa a esa mujer.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39.49">
+        <sentence lang="prq">Onkirike oh antarove, arika oshitovajirika, onkirikatye antaro, oshiki maatsarontsi ante.</sentence>
+        <sentence lang="es">Va a hilar oh mucho, cuando ya sale, va a hilar mucho, cushmas grandes hace.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39.50">
+        <sentence lang="prq">Ontsinkatye tsinki, tsinki, tsinki irojatzi ontsonkantakyaro, antzi tsaratopatsaini, osheki antzi iroñaaka.</sentence>
+        <sentence lang="es">Tiene que golpear algodón pac, pac, pac hasta que lo acabe, y hace bolsitas pequeñitas, hace bastante.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39.51">
+        <sentence lang="prq">Iri ikimoshirivintzirora irishinto, shinkijetaka, shinkijetaka.</sentence>
+        <sentence lang="es">El padre como está alegre por su hija ya está bebiendo con otras personas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
