@@ -10562,4 +10562,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="39.24">
+        <sentence lang="prq">Iri iñaavakero irotaintsi oshitovantajyaari mava kitaiteri oshitovantajyaari.</sentence>
+        <sentence lang="es">Su papá ve que ya va a salir faltan tres días para salir.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
