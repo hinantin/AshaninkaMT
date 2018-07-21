@@ -11072,9 +11072,75 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
-    <text id="44.49">
-        <sentence lang="prq"/>
-        <sentence lang="es"/>
+    <text id="45.0">
+        <sentence lang="prq">KAMINKARI ITAAYETZI IPOÑA IVINKIRI NIJAAKI TEKIRATA IYOTANAKERITA INKITATERI</sentence>
+        <sentence lang="es">QUEMARON A LOS MUERTOS Y LOS BOTARON EN EL RÍO CUANDO NO SABÍAN ENTERRARLOS</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="45.1">
+        <sentence lang="prq">Ankinkitsatakoteri ashaninkapaye, ikanta ikamayetzi pairani te iyote inkitatavakaya.</sentence>
+        <sentence lang="es">Vamos a contar sobre nuestros paisanos cómo morían antes, no sabían enterrar [a los muertos].</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="45.2">
+        <sentence lang="prq">Arika inkamanake, ishaninka yaanakeri, inoshikanakeri, yaanakeri nijaaki, intaayeri.</sentence>
+        <sentence lang="es">Cuando muere [una persona], sus paisanos la llevan jalando hasta el río y la queman.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="45.3">
+        <sentence lang="prq">Arika imantsiyatake osamani, iñaakerika inkante: “Antaakeri, ari imintsarovapajai ishiri, iñaakeri kamaari.”</sentence>
+        <sentence lang="es">Cuando se enferme después de mucho tiempo, lo ven y dicen: “Vamos a quemarlo, si no su alma nos va a asustar, [porque] vio al diablo.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="45.4">
+        <sentence lang="prq">Yaanakeri, itaakeri, opiyota aamarite, amayetziri parenini, ivanketakeri jenokini.</sentence>
+        <sentence lang="es">Lo llevan, lo queman, juntan leña, lo trae al río, lo ponen encima de la leña.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="45.5">
+        <sentence lang="prq">Yoisashitzimaitari, intaanakeri, oshekitatzira aamarite, intsonkanakya.</sentence>
+        <sentence lang="es">Prenden el fuego, se quema [porque] hay bastante leña, rápidamente se quema.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="45.6">
+        <sentence lang="prq">Amenajeri, airo añaajiri ivatsa, intaani samampotanaji.</sentence>
+        <sentence lang="es">Lo miramos, ya no se ve el cuerpo, solo vemos ceniza.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="45.7">
+        <sentence lang="prq">Ari ikantavakari irirori kamayetatsiri itaatziri.</sentence>
+        <sentence lang="es">Así eran, quemaban a los muertos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="45.8">
+        <sentence lang="prq">Aajatzita noñaakoventajeri pashini.</sentence>
+        <sentence lang="es">También vi el otro.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="45.9">
+        <sentence lang="prq">Ikamake, ikitavetajari.</sentence>
+        <sentence lang="es">Murió, lo enterraron.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="45.10">
+        <sentence lang="prq">Ipoñaashitaka osamanitanaji imantsiyataji ireentsitepatsaini,</sentence>
+        <sentence lang="es">Después de mucho tiempo, se enfermó su hijo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="45.11">
+        <sentence lang="prq">yamenakeri pashini sheripyari. Ikantzi: “Iritaki ikisatziri kaminkari, ikisajatziri.”</sentence>
+        <sentence lang="es">Lo miró otro curandero, le dijo: “ Él es que hizo daño, el muerto, le molestó.”</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
