@@ -10736,4 +10736,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="39.53">
+        <sentence lang="prq">Nokimakoventziro pashinikipaye maatsi osheki kitaiteri yookotaitziri.</sentence>
+        <sentence lang="es">Yo he escuchado que en otros sitios nombran por varios días más.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39.54">
+        <sentence lang="prq">Iroñaakamaja aisatzi arori irotaki amaisantajiro.</sentence>
+        <sentence lang="es">Ahora en estos días nosotros estamos olvidando.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39.55">
+        <sentence lang="prq">Nokantavakeri naaka nokarajetaiyinira ashaninkatsi: “Airo amaisantziro okaratzi amitari pairani, okaratzi yookanakairi aanini o acharinitepaye.”</sentence>
+        <sentence lang="es">Voy a decirles ahora, yo y todos mis compañeros asheninka, no, nos olvidemos todo lo que acostumbrábamos hacer antes, todo lo que nos dejo nuestros abuelos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
