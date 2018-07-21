@@ -10568,4 +10568,46 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="39.25">
+        <sentence lang="prq">Jataki antamiki amine piratsi ivakotyaarori oshitovajirika apaata.</sentence>
+        <sentence lang="es">Se va al monte a buscar animales para comer cuando ella sale.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39.26">
+        <sentence lang="prq">Poña yaminaki aparoni oyompatsirityaari.</sentence>
+        <sentence lang="es">Después busca a una persona que será su compadre.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39.27">
+        <sentence lang="prq">Kompatsirintaja iritaki potsoteroni iroñaaka ovoroki, inkantero impotsotero.</sentence>
+        <sentence lang="es">El compadre es una persona que la va a pintar ahora, en su cara, éste, la pinta.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39.28">
+        <sentence lang="prq">Tekira oshitovajita kooyara tekira ompotsotyata, iro oshitovajirika ari ipotsoitzirori iroñaaka ovoroki.</sentence>
+        <sentence lang="es">Cuando todavía no sale esta mujer, todavía no está pintada, cuando ya sale, sí, allí la pintan ahora en su rostro.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39.29">
+        <sentence lang="prq">Ninka potsotzirori?</sentence>
+        <sentence lang="es">¿Quién la pinta?</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39.30">
+        <sentence lang="prq">Oyompatsiritera.</sentence>
+        <sentence lang="es">Su compadre pues.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39.31">
+        <sentence lang="prq">Iroñaaka ariitapaja kitaiteri onkantya oshitovantajyaari kooyaraja.</sentence>
+        <sentence lang="es">Ahora ya llegó el día para que la mujer salga.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
