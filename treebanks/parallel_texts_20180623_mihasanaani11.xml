@@ -10826,4 +10826,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="40.8">
+        <sentence lang="prq">Intetakiri omorokira, arika intetakeri omorokira, intyaakomaintyaari, intyaakotakeri, intyaakotakeri irojatzita ovirapaka irora ikiyakiro inkaranki.</sentence>
+        <sentence lang="es">Lo llenan el hueco, allí lo ponen, lo llenan de tierra, alli lo entierran hasta alcanzar su nivel como inició al escarbarlo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
