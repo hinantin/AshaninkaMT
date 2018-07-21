@@ -10976,4 +10976,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="40.33">
+        <sentence lang="prq">Iroñaakaja okantashitaja, ontzimatye yamine aparoni ishironkavaite taavora, onkantya impaikashitantyaariri.</sentence>
+        <sentence lang="es">En estos tiempos ya es diferente, tienen que buscar una madera para cepillar, allí lo van a clavar.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="40.34">
+        <sentence lang="prq">Te inkitashititajyaari okimita ikitaitziri pairani, yamponatashityajyaari.</sentence>
+        <sentence lang="es">Ya no lo entierran como enterraban antes, lo envolvian.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
