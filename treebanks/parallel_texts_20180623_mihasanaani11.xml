@@ -10754,4 +10754,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="39.56">
+        <sentence lang="prq">Maaroiteni ontzimatye ampototajya, ankantero iroñaaka avajiro, ayotakantero tsika akantavaita pairani arori.</sentence>
+        <sentence lang="es">Debemos reunirnos para poder poner, hacer saber como eramos nosotros antes.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39.57">
+        <sentence lang="prq">Iroñaakamaja ipokapakira aparoni pashitoripaye [kimisantzinkari kitamarantzipaye], ikantapakai: “Airo pamitajaro irokave, pookajiro irokave, pookajero iroka, maatsi pava.”</sentence>
+        <sentence lang="es">Cuando llegaron unos pastores, nos dijeron: “Olvídate tu costumbre, bótalo este, oldvídate de esto, hay Dios.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39.58">
+        <sentence lang="prq">Tzimavitacha pava, ontzimatye antavaite maaroiteni.</sentence>
+        <sentence lang="es">Claro que hay Dios pero debemos trabajar todos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39.59">
+        <sentence lang="prq">Ari okaratzi nokinkitsatziri.</sentence>
+        <sentence lang="es">Hasta que termina mi narración.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
