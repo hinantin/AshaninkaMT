@@ -10880,4 +10880,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="40.17">
+        <sentence lang="prq">Iro ikantziri pairani ashaninkapaye, maatsi shiritsipatsaini aniivaitatziri irijatzita jatatziri yantamintsatziri ninkarika.</sentence>
+        <sentence lang="es">Lo que dicen antiguamente los paisanos, hay espíritus que viajan y molestan a personas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
