@@ -11198,4 +11198,34 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="45.21">
+        <sentence lang="prq">Ari ikantavakari pairani intakantarori ashaninka, ivinkiri nijaaki, intaayeri.</sentence>
+        <sentence lang="es">Así lo hacían antes mis paisanos antiguas: lo botan en el río o lo queman.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="45.22">
+        <sentence lang="prq">Tekatsi ikantavetakari, tekatsi impokaje ishiri irareetajyaari ivankoki imantsiyajeri ishaninkapaye, ireentsitepatsaini.</sentence>
+        <sentence lang="es">Para que no se enferme, para que su alma no venga en su casa ni enferme a sus paisanos, a sus hijos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="45.23">
+        <sentence lang="prq">Irotaki ivinkantariri nijaaki ijateta kirinka.</sentence>
+        <sentence lang="es">Por eso lo botan en el agua, se vaya más adentro.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="45.24">
+        <sentence lang="prq">Ivinkakeri, intaakerika pashini.</sentence>
+        <sentence lang="es">Lo botan en el agua o lo queman.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="45.25">
+        <sentence lang="prq">Ari okaratapaki.</sentence>
+        <sentence lang="es">Es todo lo que vi cuando nosotros venimos a este lado del río.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
