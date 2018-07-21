@@ -10628,4 +10628,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="39.35">
+        <sentence lang="prq">Ovashitatyaro ovañote, airo okoñaatzitsi.</sentence>
+        <sentence lang="es">Como está colocado en pañuelo en su cabello, no aparece de lo que está calvo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39.36">
+        <sentence lang="prq">Kantzimaintacha tekatsite oishi.</sentence>
+        <sentence lang="es">Pero ya no tiene cabello.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39.37">
+        <sentence lang="prq">Okantzi oshitovanajita pashini kameetsa ovakerari oishi, airo okinkivarotzitantaja, okitamarotzitantaja shintsini.</sentence>
+        <sentence lang="es">Dice para que crezca otro nuevo bueno cabello, para que no vuelva tan rápido vieja, para que no vuelva rápido blanco.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
