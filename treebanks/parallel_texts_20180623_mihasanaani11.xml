@@ -10832,4 +10832,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="40.9">
+        <sentence lang="prq">Saikanaki iroñaaka añaanaitsirira, jatzi vitsikarantanaka, “Shintsini aateta,” ijate.</sentence>
+        <sentence lang="es">Solito se quedaron los que están vivos, se fueron, arreglaron sus cosas: “Rápido vámonos,” se van.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="40.10">
+        <sentence lang="prq">Ari yookanakiri apaniroini.</sentence>
+        <sentence lang="es">Allí lo dejan solito.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="40.11">
+        <sentence lang="prq">Intaakero, arika intaakiro maaroni yookanakiri kaminkaraiyeni ichenkoporoki, imaantsakipatsaini, intsonki intaairo.</sentence>
+        <sentence lang="es">Cuando lo queman, queman todos las pertenencias del muerto, sus pantalones, sus cushmas, lo terminan de quemar.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
