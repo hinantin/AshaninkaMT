@@ -10934,4 +10934,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="40.26">
+        <sentence lang="prq">Ari okanta iroñaaka, akimakoventziri kaminkaraiyeni.</sentence>
+        <sentence lang="es">Así es ahora, hemos escuchado el comentario sobre los muertos antiguamente.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="40.27">
+        <sentence lang="prq">Iroñaaka nonkinkitsatavake tsika akanta iroñaaka.</sentence>
+        <sentence lang="es">Ahora voy a contarle como somos ahora.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="40.28">
+        <sentence lang="prq">Arika añeeri kaminkari, arika inkami aparoni atzirija, yamitajari asheninkaja, iñaavakeri irotaki inkamake, impashikakeri pashikarontsiki, yootakotzimaintyaari.</sentence>
+        <sentence lang="es">Cuando ahora vemos a un muerto, cuando muere una persona, la costumbre de nuestros paisanos es que ven que ya murió, lo tapan con frazada, luego prenden velas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="40.29">
+        <sentence lang="prq">Maatsi ikantaitziri yamakiri virakocha ivirate, ikantziri yamanakotatziri iroñaaka okaratzi inaryaakanta.</sentence>
+        <sentence lang="es">Hay una cosa que dicen que trazó la gente blanca, la vela, dicen que están adorando al muerte, ahora mientras echado en la cama.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
