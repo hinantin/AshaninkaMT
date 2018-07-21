@@ -10682,4 +10682,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="39.44">
+        <sentence lang="prq">Airo okinkivarotantanaka shintsini, airo okisantavaitanta, airo otsonkantzitanaka aiki.</sentence>
+        <sentence lang="es">No sean muy rápidas ancianas, para que no renege, no se acabe las dientes.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39.45">
+        <sentence lang="prq">Irotaki kaari ivakantaitaro pocharipaye, kachoripaye irotaki airo aminiri antarikona, opashikantari ovoroki.</sentence>
+        <sentence lang="es">Por eso es que no le hacían comer, este, dulces, salados, por todo eso, no va a mirar a las personas mayores, por eso se tapa la cara que no lo vea el rostro.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39.46">
+        <sentence lang="prq">Oñiirikari ivoro ampitsatanakakari shintsini, oshiyaro irora aparoni kinkivaro.</sentence>
+        <sentence lang="es">Para que no se arruge de inmediato, similar como una anciana.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
