@@ -10670,4 +10670,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="39.42">
+        <sentence lang="prq">Ari okanta, iroñaaka, paita imisaikantaitarori intsompoi?</sentence>
+        <sentence lang="es">Así era, ahora ¿por qué la tenían reposado dentro de la casa?</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="39.43">
+        <sentence lang="prq">Okantzi inayeni iroori kinkivaropatsaini okanta.</sentence>
+        <sentence lang="es">Decían las difuntas madres antes, ancianitas porque.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
