@@ -10886,4 +10886,34 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="40.18">
+        <sentence lang="prq">Yookanakiri ikisanintavitari pairani.</sentence>
+        <sentence lang="es">Lo dejaron que lo odiaban cuando estaban vivos [antes].</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="40.19">
+        <sentence lang="prq">Aisatzita arika inkami antarikona, antarikonapiro ikantajetzi arika inkimavakiro onteryanaki (ontziryanaki) teeeereee!</sentence>
+        <sentence lang="es">También cuando fallece una persona mayor, de edad mayor, dicen cuando escuchaban el sonido de un trueno, trom, trom, trom.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="40.20">
+        <sentence lang="prq">Ikantzi ikaimapakitzi intatzikeronta: “Jeeeh! Pimontyena!”</sentence>
+        <sentence lang="es">Dicen que ha llamado desde el otro bando: “Eeehhh! Hazme bandear!”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="40.21">
+        <sentence lang="prq">Poñaashitaka saikatsiri pairani anta kamitaincharinta, pokanaki irirori irora ityaankanakiro irora ishintsipaari, imontyantyaari.</sentence>
+        <sentence lang="es">Después, él que está anteriormente, él que murió más antes, viene él ahora, empuja su balsa para cruzar el río.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="40.22">
+        <sentence lang="prq">Irotaki akimantarori iroñaaka onteree (ontziree), arika inkame antarikona o ninkarika kamatsini eentsipatsaini ari ankimavakiro onteree (ontziree) teereee.</sentence>
+        <sentence lang="es">Es por eso escuchamos ahora trueno cuando muere una persona mayor o cualquiera que muere, niños, allí escuchamos el trueno, trom, trom.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
