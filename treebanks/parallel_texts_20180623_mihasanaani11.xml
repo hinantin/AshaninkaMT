@@ -10850,4 +10850,34 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="40.12">
+        <sentence lang="prq">Ikantzi yavajirota ishiri, inkitsatajyaari ari ijatake, yariitakya pashiniki, iñaapake tsika isaikaji.</sentence>
+        <sentence lang="es">Dicen para que coja su alma y para que se vista cuando va y llega a otro lugar.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="40.13">
+        <sentence lang="prq">Yantapaki ivanko, poñaashitaka ari intaapaji, aisatzi yaaki oishi tsikana intsipatairo koritzi, ikantzija.</sentence>
+        <sentence lang="es">Construyen su casa, después allí las quema, cogen las hojas de ají con hojas de camote, dicen.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="40.14">
+        <sentence lang="prq">Aritaki yoyaatakai kaminkaraiyeninta, yantamintsataikari ishiri.</sentence>
+        <sentence lang="es">Cuando nos sigue el difunto, cuidado con el alma que puede molestar a los vivos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="40.15">
+        <sentence lang="prq">Iroñaaka isaikajetaiyenira, itaakirorika oishi irora tsikana, airo ikimajiri, ikimairitzi.</sentence>
+        <sentence lang="es">Ahora donde están viviendo, han quemado hojas de ají, ya no van a escuchar [ruidos y otras cosas].</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="40.16">
+        <sentence lang="prq">Impokavetakya shiritsinta (shiretsinta), iñaapakiro antamitaki irora antamitaki, aka piyanaka.</sentence>
+        <sentence lang="es">Así venga el espíritu, llega a la casa, solamente ve que la casa está bien creido de hierbas, bien monte, vuelve acá.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
