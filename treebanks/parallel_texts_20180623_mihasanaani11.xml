@@ -10778,4 +10778,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="40.0">
+        <sentence lang="prq">ARIKA INKAME APARONI ATZIRI</sentence>
+        <sentence lang="es">CUANDO MUERE UNA PERSONA</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
