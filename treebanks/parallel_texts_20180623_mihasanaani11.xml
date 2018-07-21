@@ -10922,4 +10922,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="40.24">
+        <sentence lang="prq">Kaminkaraiyeni saikatsiri anta jenoki, añaatsi irirori.</sentence>
+        <sentence lang="es">Ahora los muertos que están allá arriba, están vivos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="40.25">
+        <sentence lang="prq">Aroka iroñaaka pashini okantashita.</sentence>
+        <sentence lang="es">Nosotros somos diferentes.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
