@@ -11865,4 +11865,70 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="51.0">
+        <sentence lang="prq">OSHEKITANTYARI OVATSA KANIRI</sentence>
+        <sentence lang="es">PARA QUE TENGA LA BUENA PRODUCCIÓN LA YUCA</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="51.1">
+        <sentence lang="prq">Okantzi kamenaantsi, aririka pantake pivani, piviryaakerika kaniyatzi, pookanakero ovaantsiki, pimpiyotanakero, itsinterota impookero.</sentence>
+        <sentence lang="es">Dice el consejo, cuando hagas su chacra, si cortas en pedazos las ramas de la planta de yuca, déjalas en la chacra, amontonándolas para que orinen las estrellas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="51.2">
+        <sentence lang="prq">Okantyakya okimitara itsine impookero, oshekiteta ovatsa piyaniri.</sentence>
+        <sentence lang="es">Para que se asemejen la abandancía de la orina de las estrellas, así sea también la producción de la fruta de tu yuca.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="51.3">
+        <sentence lang="prq">Pivintamanairorika, airo pikaintziro pitavaato okisotonkitanakikari, apaata kaniri okimitara otonki pitavaato, okimitara pitonki.</sentence>
+        <sentence lang="es">Cuando siembras al día siguiente, no debes rascar tu canilla para que después las yucas no sean duras como el hueso de tu canilla, como tu hueso.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="51.4">
+        <sentence lang="prq">Aririka amonkaratakero maaroni kamenaantsika, aririka omonkaratapakya atsokantyaarori.</sentence>
+        <sentence lang="es">Si cumplimos estos consejos, al cumplirse la época de cosecha de la yuca.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="51.5">
+        <sentence lang="prq">Ari añaakero osheki ovatsa kaniri.</sentence>
+        <sentence lang="es">Veremos la abundancía de la yuca.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="51.6">
+        <sentence lang="prq">Ari okaratzi.</sentence>
+        <sentence lang="es">Eso es todo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="52.0">
+        <sentence lang="prq">ASHI SHIMPIRINTSI</sentence>
+        <sentence lang="es">LA PESCA CON LA NASA</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="52.1">
+        <sentence lang="prq">Okantzi kamenaantsi, aririka pitsonkakero pante pishimperi, paanakero nijaaki.</sentence>
+        <sentence lang="es">Dice el consejo, cuando termines de elaborar tu nasa, la llevarás al río.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="52.2">
+        <sentence lang="prq">Tsikarika osoronkata, ari patsinakakotakerori.</sentence>
+        <sentence lang="es">En una caída del río, allí la vas a aplastar.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="52.3">
+        <sentence lang="prq">Iroñaaka itetakyaarika jetari, shiva, kepavori, mereto, aririka paajero, airo paminero ovantekira.</sentence>
+        <sentence lang="es">Cuando se hayan llenado la carachama, anchoveta, raton, mereto, si los coges, no los mires en la boca de esta nasa.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
