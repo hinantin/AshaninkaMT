@@ -11667,4 +11667,76 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="VI.0">
+        <sentence lang="prq">KAMENAANTSI IRASHI EENTSIPAYE</sentence>
+        <sentence lang="es">CONSEJOS PARA LOS NIÑOS</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="VI.1">
+        <sentence lang="prq">KAMENAANTSI</sentence>
+        <sentence lang="es"/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="47.0">
+        <sentence lang="prq">PINTZINAJETE KAPICHIKITAITE</sentence>
+        <sentence lang="es">LEVÁNTENSE EN LAS MADRUGADAS</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="47.1">
+        <sentence lang="prq">Pairani acharinite ikamenajetzi ari okitaitamanaite, ikantajetai. </sentence>
+        <sentence lang="es">Antes nuestros abuelos nos aconsejaban en las madrugadas, nos dicen.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="47.2">
+        <sentence lang="prq">“Pintzinajete, yanankoremikari kayetsi, okisanintemikari apaata piina.</sentence>
+        <sentence lang="es">“Levántense, te va a pasar por encima el afáz, sino, te va a odiar a tu esposa.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="47.3">
+        <sentence lang="prq">Aririka pitzimakakero eentsi aisatzi ontzimatye pintzinae kapichikitaite.</sentence>
+        <sentence lang="es">Cuando le hagas tener hijos, también debes levantarte muy temprano para que no te pase encima la muerte.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="47.4">
+        <sentence lang="prq">Anankorimikari kamanetantsi, pikamekari intsipaiteni, pikinkivaritekari intsipaiteni.”</sentence>
+        <sentence lang="es">Sino, vas a morir a una edad temprana, vas a envejecerte a una edad temprana.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="47.5">
+        <sentence lang="prq">Irotaki ikantziri pairani acharinite.</sentence>
+        <sentence lang="es">Eso eran los consejos de nuestros abuelos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="47.6">
+        <sentence lang="prq">Irotaki ikamantajetziri ireentsitepaye irojatzita iroñaaka, okantai ina aisatzi apa.</sentence>
+        <sentence lang="es">Eso eran sus consejos para sus hijos hasta nuestros días, nos lo dice mamá, también papá.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="47.7">
+        <sentence lang="prq">Kantzimaitacha maatsi evankaripaye, kaari kimisantajirori.</sentence>
+        <sentence lang="es">Sin embargo hay jóvenes que no hacen caso los consejos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="47.8">
+        <sentence lang="prq">Irotaki añaantari iroñaaka akinkivaitzi, apaitanaki eentsitatyai, tekirata aapitanaketa.</sentence>
+        <sentence lang="es">Por eso actualmente nos envejecemos prematuramente, nos llenan las canas antes de la ancianidad.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="47.9">
+        <sentence lang="prq">Ari okaratzi intanakarori kamenaantsi.</sentence>
+        <sentence lang="es">Así es el primer consejo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
