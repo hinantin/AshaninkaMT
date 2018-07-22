@@ -11961,4 +11961,94 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="53.0">
+        <sentence lang="prq">ARIRIKA AJATE AKIVANTERI ASHANINKA</sentence>
+        <sentence lang="es">CUANDO VAMOS A VISITAR A NUESTRO PAISANO</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="53.1">
+        <sentence lang="prq">Okantzi kamenaantsi, aririka pijate pikivanteri ashaninka, aririka pishitovake tsiteni pitsinte, airo pitsinta okaakini.</sentence>
+        <sentence lang="es">Dice el consejo, cuando vas a visitar a un paisano, si sales de noches a orinar, no te orines cerca.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="53.2">
+        <sentence lang="prq">Pijate intyatzini pitsintakoterikari ashitarori ivanko.</sentence>
+        <sentence lang="es">Debes irte lejos para que no orines donde se orinó el dueño de la casa.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="53.3">
+        <sentence lang="prq">Ipavyemirokari imantsiyari, payinirikari ishitsani.</sentence>
+        <sentence lang="es">Para que no te contagues de su enfermedad, para que no obtengas sus bichos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="53.4">
+        <sentence lang="prq">Okatsitekari pitsinte, irotaki ikantairi acharinete.</sentence>
+        <sentence lang="es">Para que no te duela al momento de orinar, eso nos dice nuestros abuelos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="53.5">
+        <sentence lang="prq">Ontzimatye amonkaratero, maaroni ikamenairi acharinetepaye, añaantyaarori okameetsate añaantari.</sentence>
+        <sentence lang="es">Debemos de cumplir todos los consejos de nuestros abuelos para obtener buena vida.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="53.6">
+        <sentence lang="prq">Ari okaratzi.</sentence>
+        <sentence lang="es">Eso es todo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="54.0">
+        <sentence lang="prq">AIRO AMASHITSAVAITZI</sentence>
+        <sentence lang="es">NO DEBEMOS SER MEZQUINOS</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="54.1">
+        <sentence lang="prq">Okantzi kamenaantsi, airo amenashitari ninkarika pokatsini ikivantai avankoki.</sentence>
+        <sentence lang="es">Nunca debemos quedarnos mirando a la persona que nos visita en nuestra casa.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="54.2">
+        <sentence lang="prq">Shintsipayeni antzinanake, akanteri yavisheta pankotsiki, isaikapajeta.</sentence>
+        <sentence lang="es">Inmediatamento debemos levantarnos y decirle que pasen en la casa y tomen asiento.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="55.3">
+        <sentence lang="prq">Shintsipayeni ajatanake aapainte kaniri posari katsirinkari ampavakeriri.</sentence>
+        <sentence lang="es">Inmediatamente vamos a traer yuca cocinada caliente para darle.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="55.4">
+        <sentence lang="prq">Maatsirika poshiniri aajatzita.</sentence>
+        <sentence lang="es">Si hubiera carne, también.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="55.5">
+        <sentence lang="prq">Tzimatsirika pyaarentsi, aajatzita ampakotavakeri.</sentence>
+        <sentence lang="es">Si hubiera masato, también debemos darle.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="55.6">
+        <sentence lang="prq">Tema te ayote añaashita iritaki sheripyari irotaki atsarovakotantyaari.</sentence>
+        <sentence lang="es">Porque no sabemos de repente es un tabaquero, por eso debemos ser muy atentos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="55.7">
+        <sentence lang="prq">Arika apavakiri iritakirika sheripyari, kovatsiri iyotai akameetsatziririka atziri, ari itasonkakai.</sentence>
+        <sentence lang="es">Si le damos algo y si fuera un tabaquero que quiere conocernos, si somos generosos con la gente, él nos bendice.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
