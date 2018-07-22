@@ -11324,4 +11324,34 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="46.14">
+        <sentence lang="prq">Ikantzi: “Arive, kameetsataki ipakairi iyora paatziri iiriikite.</sentence>
+        <sentence lang="es">Dicen: “Muy bien, está muy bien, lo que nos dio el cura su dinero.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.15">
+        <sentence lang="prq">Iroñaaka ontzimatye amaniri.”</sentence>
+        <sentence lang="es">Ahora debemos adorarlo.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.16">
+        <sentence lang="prq">Ari impoki, intyerovapaki, yamaniri.</sentence>
+        <sentence lang="es">Cuando vienen, se arrodillan y lo oran.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.17">
+        <sentence lang="prq">Je, ikantziri anta iñaapinkatsatziri paatzirira, iñaatzi iñaapinkatsatziri.</sentence>
+        <sentence lang="es">Sí, lo que dicen esto es, una reverencia al cura.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.18">
+        <sentence lang="prq">Arika yamanakirika, onkaratapakirika, inkantzimaintatyaari: “Tsika paita pikovakotanari aviroka iroñaaka?”</sentence>
+        <sentence lang="es">Cuando oran y terminan [de orar], le preguntan: “ Qué es lo que tú quieres?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
