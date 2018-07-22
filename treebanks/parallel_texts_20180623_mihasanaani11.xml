@@ -12063,4 +12063,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="VII.0">
+        <sentence lang="prq">KOMPITARENTSI</sentence>
+        <sentence lang="es">ADIVINANZAS</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="56.1">
+        <sentence lang="prq">Antaro noyempita,</sentence>
+        <sentence lang="es">Grande es mi oreja,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
