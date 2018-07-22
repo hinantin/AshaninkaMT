@@ -11613,4 +11613,58 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="46.62">
+        <sentence lang="prq">Maatsikya pankotsi nokantakiri ikantziri „paragua‟, iyoshiyetziro imisaikaitziro.</sentence>
+        <sentence lang="es">Había una casa lo que he dicho llamada „paragua‟, allí los puros [virgenes] reunían.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.63">
+        <sentence lang="prq">Kaatsi jatatsini ikantzirirakya antzirori ochaa.</sentence>
+        <sentence lang="es">No podían ir a la casa los que cometían fornicación.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.64">
+        <sentence lang="prq">Kaatsi jatatsini, eero ijatzi.</sentence>
+        <sentence lang="es">No iban allí, no iban.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.65">
+        <sentence lang="prq">Ikantziro mayempiro kooya airo ojatzi anta.</sentence>
+        <sentence lang="es">Le dicen, „mujer adultera‟ no va a ir allí.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.66">
+        <sentence lang="prq">Ari yoisaitzirori ivaamarite.</sentence>
+        <sentence lang="es">Ahí prendían fuego.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.67">
+        <sentence lang="prq">Aritaki ara yamaniririkya ivavanira.</sentence>
+        <sentence lang="es">Adoraban a su Dios.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.68">
+        <sentence lang="prq">Decía el jefe: “Yo no quiero que venga una mujer que comete fornicación, les decimos los que son desobedicientes.</sentence>
+        <sentence lang="es">Ikantziro iroñaaka jevatzirorira: “Te noninte ompoke aka antziro ochaa, akantziri anta piyatsatachari.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.69">
+        <sentence lang="prq">Iyotatyeya anta, kaari anteroninta, iritaki jatatsini inkimavanteteri ivavanira paamari.”</sentence>
+        <sentence lang="es">Aquellos que no cometen fornicacíon, los puros, sí, pueden ir para escuchar al Dios el fuego.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.70">
+        <sentence lang="prq">Yoishiro paamari.</sentence>
+        <sentence lang="es">Allí prendían el fuego.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
