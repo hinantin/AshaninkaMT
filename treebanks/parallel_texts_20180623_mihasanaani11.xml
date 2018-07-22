@@ -11739,4 +11739,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="48.0">
+        <sentence lang="prq">OKISOTANTYAARI AIKI</sentence>
+        <sentence lang="es">PARA FORTALECER NUESTROS DIENTES</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="48.1">
+        <sentence lang="prq">Okantzi kamenaantsi, ovakera tsopachani aiki ovakera eentsitapaki, airo okavaishitaro.</sentence>
+        <sentence lang="es">Dice el consejo, el primer diente que sale cuando somos pequeños, no vamos a botarlo en cualquier sitio.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
