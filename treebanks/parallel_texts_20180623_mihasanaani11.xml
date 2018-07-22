@@ -11751,4 +11751,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="48.2">
+        <sentence lang="prq">Aanakiro pareniki, amenake kisoperotatsiri mapi, ari apicheerori.</sentence>
+        <sentence lang="es">Nosotros lo llevamos al río, elegimos la piedra que es más dura, allí lo chancamos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="48.3">
+        <sentence lang="prq">Irotaki okantairi ina, irotaki ikantairi apa, oshiyanakyaarota mapi aikipaye, okisoperoteta.</sentence>
+        <sentence lang="es">Es lo que nos dice mamá, es lo que nos dice papá, para que se asemejen nuestros dientes a la piedra, sean duras.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="48.4">
+        <sentence lang="prq">Irotaki kamenaantsi ikantairi ashitairi.</sentence>
+        <sentence lang="es">Es el consejo que nos da nuestros padres.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
