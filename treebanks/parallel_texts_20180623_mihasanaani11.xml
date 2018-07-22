@@ -11390,4 +11390,88 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="46.25">
+        <sentence lang="prq">Aririka iroñaaka impiyajirika, iñaapinkatsatairira, yamanapairi.</sentence>
+        <sentence lang="es">Cuando vuelven, respetan al dios, se arodillan ante él y rezan.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.26">
+        <sentence lang="prq">Inkanterikya iroñaaka: “Aritaki okantaka, pipakinaro okaratzi nokovakatakimiri, pipakinaro.</sentence>
+        <sentence lang="es">En su oración le dicen así: “Así fue, me diste todo lo que te pedí.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.27">
+        <sentence lang="prq">Iroñaaka piyajana, irotaki nojatai.”</sentence>
+        <sentence lang="es">Ya he vuelto, ya me voy a ir.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.28">
+        <sentence lang="prq">Impasonkitanaririkya iyorakya paatzirira.</sentence>
+        <sentence lang="es">Le agradece al cura.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.29">
+        <sentence lang="prq">Ishiyari atziri, mapi onamaintatya.</sentence>
+        <sentence lang="es">Es igual a una persona, pero es una piedra.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.30">
+        <sentence lang="prq">(Oshiyari ivante atziri?)</sentence>
+        <sentence lang="es">(Su boca es similar a una persona?)</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.31">
+        <sentence lang="prq">Je, ari oshiyaro ivante atziri iroka isomperirote maaroni.</sentence>
+        <sentence lang="es">Sí, es igual a la boca de una persona, su sombrero, todo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.32">
+        <sentence lang="prq">Iporokakitziri, iyora, tsikataima ipaita porokakiriri, iporokaitakitziri, je, iporokaitakitziri.</sentence>
+        <sentence lang="es">Lo han destrozado, no sé quien lo ha destrozado.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.33">
+        <sentence lang="prq">Iporokaitakirira, te añaajiri intaani kapicheeni iroma ovakeraini.</sentence>
+        <sentence lang="es">Como lo han destrozado, ya no lo vemos, solamente quedó un poquito.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.34">
+        <sentence lang="prq">Oh, padre, iritaki paatziri.</sentence>
+        <sentence lang="es">Aquí muchos están a su lado, otro aquí, otro acá, otro, otro le pusieron en el medio.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.35">
+        <sentence lang="prq">Ikantziri: “Paatziri inatzi.”</sentence>
+        <sentence lang="es">(Papá, ¿está, lo que dices, dónde está Jose?)</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.36">
+        <sentence lang="prq">Osheki aka, itsipanampitari pashini aka, pashini, pashini isatekaitziri niyanki.</sentence>
+        <sentence lang="es">De Jose más allá para llegar a San Jeronimo de Yurinaki.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.37">
+        <sentence lang="prq">(Irokama, apa, pikantzirika Josekika?)</sentence>
+        <sentence lang="es">Ah, muy bien, él es padre (cura), lo dicen cura.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.38">
+        <sentence lang="prq">Jose janto, ariitantyaarori San Jeronimoki.</sentence>
+        <sentence lang="es">Así lo llaman, cura, sí, sí, lo llaman padre.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
