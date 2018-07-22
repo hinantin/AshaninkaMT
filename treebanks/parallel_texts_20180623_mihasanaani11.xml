@@ -11823,4 +11823,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="50.0">
+        <sentence lang="prq">AAJATZITA APOKATANTYAARI (IKANTZIRI PASHINI AKOMINTSATANTYAARI)</sentence>
+        <sentence lang="es">TAMBIÉN PARA SER CAZADOR, OTROS LO DICEN PARA TENER PUNTERÍA</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="50.1">
+        <sentence lang="prq">Okantzi kamenaantsi, aririka pijate pankoshintsiki, pikintakirika aparoni tsimeri, shintsipayeni paanakeri, pamine ovato kanai.</sentence>
+        <sentence lang="es">Dice el consejo, cuando vayas a tu choza y hayas picado un pajarito, inmediamente llevarlo en la planta del palo hormiguero.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
