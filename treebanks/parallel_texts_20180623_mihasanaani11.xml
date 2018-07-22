@@ -11949,4 +11949,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="52.7">
+        <sentence lang="prq">Aririka amonkaratakero maaroni kamenaantsika, airo apiyashita aririka ajate nijaaki aanakero ashimperi.</sentence>
+        <sentence lang="es">Si cumples estos consejos, nunca volverás con la mano vacía, si vas al río llevando nuestra nasa.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="52.8">
+        <sentence lang="prq">Ari okaratzi.</sentence>
+        <sentence lang="es">Eso es todo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
