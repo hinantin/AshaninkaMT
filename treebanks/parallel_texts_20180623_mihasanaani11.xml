@@ -11240,4 +11240,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="46.0">
+        <sentence lang="prq">YAMANANTAITATARIRI MAPI OPOÑA PAAMARI</sentence>
+        <sentence lang="es">LA ADORACIÓN DE UNA PIEDRA Y EL FUEGO</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.1">
+        <sentence lang="prq">Ipokayetzi irorave, ashaninkapaye poñaachari ikantziro kishiiki, kishiisatzi, maaroni ipokayetzi, ari imakoryaapakiri ara, ikantziro „paatziri‟.</sentence>
+        <sentence lang="es">Venían, este, muchos paisanos del Gran Pajonal, pajonalinos, todos venían allí, descansaban al pie de la piedra Padre.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
