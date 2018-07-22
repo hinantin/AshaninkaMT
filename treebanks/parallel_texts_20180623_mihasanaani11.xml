@@ -11535,4 +11535,52 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="46.49">
+        <sentence lang="prq">Irokya intatzikiroinikya tzimatsi pankotsi, tekatsi ariitatya, tekatsi ariitatyaani.</sentence>
+        <sentence lang="es">Pero al frente hay otra casa, nadie llega [a esta casa].</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.50">
+        <sentence lang="prq">Iyotashita yareeta, kaari anteroni ochaa.</sentence>
+        <sentence lang="es">Llegan los puros, los que no cometen fornicación.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.51">
+        <sentence lang="prq">Ikantzi kaari mayempitatsiri, ochaa, iyotashitakari.</sentence>
+        <sentence lang="es">Dicen que los que no cometen fornicación, se agrupan solos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.52">
+        <sentence lang="prq">Antaro pankotsi, aitaki isaikiri iyorave ikantaitzirika jevatakantzirorira, te noyoteri tsikarika ipaita, aritaki isaikirikya.</sentence>
+        <sentence lang="es">Una inmensa casa, allí está él que lo dirige, no sé como se llama, allí está el jefe.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.53">
+        <sentence lang="prq">Ari isaikaiyeni okimitanaka intyatzikiroini, ari otzimiri antaro pankotsi.</sentence>
+        <sentence lang="es">Allí están ellos en este lado, [en] una casa grande.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.54">
+        <sentence lang="prq">Aritaki yoisaitatzi paamari.</sentence>
+        <sentence lang="es">Allí prendían fuego.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.55">
+        <sentence lang="prq">Ikantzi irorave yamanirirakya iyora maaroni ashaninkapayera, je.</sentence>
+        <sentence lang="es">Dicen, este, oraban al Dios todos los paisanos, sí.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.56">
+        <sentence lang="prq">Kaatsite aparoni jatatsini, akantakiri ayirorira ochaa, akantziro arori.</sentence>
+        <sentence lang="es">Ninguna persona no podía ir que cometía fornicación, decimos nosotros „fornicadores‟.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
