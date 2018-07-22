@@ -11433,6 +11433,7 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <parsing format="" analysislevel=""/>
     </text>
     <text id="46.32">
+        <!-- misalignment -->
         <sentence lang="prq">Iporokakitziri, iyora, tsikataima ipaita porokakiriri, iporokaitakitziri, je, iporokaitakitziri.</sentence>
         <sentence lang="es">Lo han destrozado, no sé quien lo ha destrozado.</sentence>
         <morphology format="" analysislevel=""/>
@@ -11471,6 +11472,48 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
     <text id="46.38">
         <sentence lang="prq">Jose janto, ariitantyaarori San Jeronimoki.</sentence>
         <sentence lang="es">Así lo llaman, cura, sí, sí, lo llaman padre.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.39">
+        <sentence lang="prq">Es padre, ikantaitziro paatziri, ari ikantaitziro padre, paatziri.</sentence>
+        <sentence lang="es">Más antes por allí pasaba el camino, camino antiguo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.40">
+        <sentence lang="prq">Ari okini pairani avotsi kinkivaro, avotsi, paitakamakya.</sentence>
+        <sentence lang="es">Por eso los paisanos cuando venían allí descansaban.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.41">
+        <sentence lang="prq">Ashaninkapaye arika impoki, ari imakoryaapakirika, aitaki intyerovashiteri, yamaniri.</sentence>
+        <sentence lang="es">Cuando descansaban allí, se arrodillaban y oraban.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.42">
+        <sentence lang="prq">Inkantekya: “Pimpina anto iroka nokoviri.”</sentence>
+        <sentence lang="es">Le decían: “Dáme todo lo que necesito.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.43">
+        <sentence lang="prq">Ikantzityakya ovakeraini ipakiri kiriiki, oro.</sentence>
+        <sentence lang="es">[Otros] dicen que más primero, sí, le dio dinero, el oro.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.44">
+        <sentence lang="prq">Por eso se acostumbraron, por eso se acostumbraron otros paisanos.</sentence>
+        <sentence lang="es">Irotaki yamitantanakariri, irotaki yamitantanakariri.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.45">
+        <sentence lang="prq">Pashinipaye ashaninkara ikantzi: “Kameetsarini.”</sentence>
+        <sentence lang="es"/>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
