@@ -11769,4 +11769,58 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="49.0">
+        <sentence lang="prq">IROPEROTANTYARI AKOMINTSATE</sentence>
+        <sentence lang="es">PARA SER UN BUEN CAZADOR</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="49.1">
+        <sentence lang="prq">Ikantzi pairani apa, aririka pikintake aparoni tsimeri, aparoni poshiniri, airo pivari, ikantai apa.</sentence>
+        <sentence lang="es">Nos dice antes papá, cuando cases el primer pajarito, un animal, no debes comerlo, nos dice papá.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="49.2">
+        <sentence lang="prq">Paitanikya?</sentence>
+        <sentence lang="es">¿Por qué?</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="49.3">
+        <sentence lang="prq">Itasonkanakaikari.</sentence>
+        <sentence lang="es">Sino, te va a soplar [algo sobrenatural].</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="49.4">
+        <sentence lang="prq">Ontzimatye antsetavake avantyaariri.</sentence>
+        <sentence lang="es">Debemos cumplir una dieta para comerlo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="49.5">
+        <sentence lang="prq">Ontzimatye charine intsikanatai.</sentence>
+        <sentence lang="es">Nuestro abuelo nos debe curar con el ajé.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="49.6">
+        <sentence lang="prq">Okantyakya okatsitantyaari achakopite, aririka akintaje pashini tsimeri.</sentence>
+        <sentence lang="es">Para que nuestra flecha sea dolorosa cuando piquemos otro pajarito.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="49.7">
+        <sentence lang="prq">Irotaki kaari ivakantairi charine, aririka intanakyaaro akintavaite.</sentence>
+        <sentence lang="es">Por eso nuestro abuelo no nos hacía comer al inicio de nuestra cacería.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="49.8">
+        <sentence lang="prq">Ari okaratzi.</sentence>
+        <sentence lang="es">Eso es todo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
