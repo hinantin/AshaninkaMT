@@ -11513,7 +11513,25 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
     </text>
     <text id="46.45">
         <sentence lang="prq">Pashinipaye ashaninkara ikantzi: “Kameetsarini.”</sentence>
-        <sentence lang="es"/>
+        <sentence lang="es">El paisano dice: “Muy bien.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.46">
+        <sentence lang="prq">Aka pairani isaiki aani ikantaitziro Tsonkitsiroshiki, isaikayetzi pairani Shariva.</sentence>
+        <sentence lang="es">Aquí antes vivía mi difunto abuelo, llamado Hoja de Plátano Biscocho, aquí vivía la familia Shariva.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.47">
+        <sentence lang="prq">Ari pairani otzimi antaroite pankotsi ivitsikaitziro, ikantziro „paragua‟.</sentence>
+        <sentence lang="es">Allí había una casa grande, la construyeron, se llamaba „paragua‟.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.48">
+        <sentence lang="prq">Iritaki ipiyoyetari maaroni ashaninkapaye.</sentence>
+        <sentence lang="es">Allí se reunieron muchos paisanos.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
