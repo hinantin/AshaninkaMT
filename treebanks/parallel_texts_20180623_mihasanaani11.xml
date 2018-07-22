@@ -11583,4 +11583,34 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="46.57">
+        <sentence lang="prq">Kaari mayempitatsini, iyotashita ijate, kaari mayempitatsini.</sentence>
+        <sentence lang="es">Iban aquellos que no cometían fornicación, los puros, no cometían fornicación.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.58">
+        <sentence lang="prq">Inkimavanteteri irora ivavanika, tsikarika ikantzi, iñaavaitzi.</sentence>
+        <sentence lang="es">Ellos escuchaban al Dios, lo que dice, lo que habla.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.59">
+        <sentence lang="prq">Ishiyakavintziro iroñaaka okanta maatziripaye, oshiyaro maatziripaye, ari ikantaitziro ochaa, ari okantari pairani.</sentence>
+        <sentence lang="es">Eran similares a las hermanas religiosas (madres), como las monjas, a ellas dicen que no son fornicadoras, así era [antes].</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.60">
+        <sentence lang="prq">Te añaajiro, te ankimakovintairo.</sentence>
+        <sentence lang="es">Ahora ya no lo vemos, tampoco escuchamos de eso.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.61">
+        <sentence lang="prq">Noñaashirivitakaro pairani naarikya anta isaikakantanari aaniyeni, inayeni ikantaitziroka Tsonkitsiroshiki, ari noñaakirori.</sentence>
+        <sentence lang="es">Yo había visto antes un poco cuando mi difunto abuelo nos hacía vivir allá, lo llaman Hoja de Plátano Biscocho, allí lo vi.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
