@@ -11252,4 +11252,40 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="46.2">
+        <sentence lang="prq">Imakoryaapakirika paatzirikira, je, impoñaakya, arika yamonkoyetzirika.</sentence>
+        <sentence lang="es">Cuando ellos descansaban, sí, ellos masticaban su coca.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.3">
+        <sentence lang="prq">Yamonkotaki, impoñaaki iyokani, impiri ivantekira, iparankatzitya.</sentence>
+        <sentence lang="es">Masticaban, sacaban su coca, le daban en su boca [de la piedra], [parece que] está abierta la boca.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.4">
+        <sentence lang="prq">Impirikya, ishenakiri.</sentence>
+        <sentence lang="es">Le introducían la coca, está tachoniado.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.5">
+        <sentence lang="prq">Ari yamanirikya, yamaniri paatziri.</sentence>
+        <sentence lang="es">Allí lo adoraban al Padre.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.6">
+        <sentence lang="prq">(Ityerovajitatyaari?</sentence>
+        <sentence lang="es">(¿Va a arrodillarse?</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.7">
+        <sentence lang="prq">O tsika ikantzirika?)</sentence>
+        <sentence lang="es">¿O cómo lo hacían?)</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
