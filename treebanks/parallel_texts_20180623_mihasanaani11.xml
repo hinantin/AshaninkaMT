@@ -11318,4 +11318,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="46.13">
+        <sentence lang="prq">Ipakiri iroñaaka itsiparyaakayetakari ikaraiyenira isheninkara, itsiparyaayetakiri.</sentence>
+        <sentence lang="es">Como le dio, entre ellos se repartieron, entre paisanos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
