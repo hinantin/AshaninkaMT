@@ -12051,4 +12051,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="55.8">
+        <sentence lang="prq">Airorika, ari impiyanaje, impyaanakya manitzi, impokaje iroñaaka irojatzi ivantakai.</sentence>
+        <sentence lang="es">Porque sino, volverá y se convertirá en tigre, vendrá para comernos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="55.9">
+        <sentence lang="prq">Ari ikantairi pairani acharinetepaye.</sentence>
+        <sentence lang="es">Así eran nuestros abuelos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
