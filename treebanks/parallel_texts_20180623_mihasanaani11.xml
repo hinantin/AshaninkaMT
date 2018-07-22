@@ -11300,4 +11300,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="46.10">
+        <sentence lang="prq">Pimpina anta tsika paita nokoviri.”</sentence>
+        <sentence lang="es">Dáme lo que yo te voy a pedir.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.11">
+        <sentence lang="prq">Iroña orave paatzirira iñaatziri, ikantziri: “Ari, nompakimi tsika paita pikoviri.”</sentence>
+        <sentence lang="es">Ahora este cura le contestaba y le decía: “Sí, yo te voy a dar lo que tú quieres.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.12">
+        <sentence lang="prq">Iroñaaka ikovakotakirira, iroñaaka ikantzi, yaaki iirikite, iyora, ikantaitziri oro, iyora ashaninkara yaaki kiriiki, ipakiri, ikantziri anta ikovintsakiri ipaakiri.</sentence>
+        <sentence lang="es">Porque le pidió, sacó su dinero, el oro, este paisano ya consiguió el dinero que le dio el cura, lo que dijo consiguió su suerte.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
