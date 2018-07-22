@@ -11931,4 +11931,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="52.4">
+        <sentence lang="prq">Tzimatsirika tetainchari, intaani paakero iroñaaka, paanakero oparaiki.</sentence>
+        <sentence lang="es">Si están los que se hayan llenado, solamente los coges, los llevas en la playa.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="52.5">
+        <sentence lang="prq">Ari pisokerori maaroni tetainchari.</sentence>
+        <sentence lang="es">Allí vas a vaciar todos los que cayeron adentro.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="52.6">
+        <sentence lang="prq">Aririka paminakero opante pishimperi, ari opashiventanakya, airo itetaja maaroni saikatsiri nijaaki.</sentence>
+        <sentence lang="es">El día que mires la boca de tu nasa, se avergonzará, ya no se llenarán más lo que viven en el agua.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
