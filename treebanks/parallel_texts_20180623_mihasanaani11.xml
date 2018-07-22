@@ -11354,4 +11354,40 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="46.19">
+        <sentence lang="prq">Yankamaintyaari inkanteri: “Nokovi pimpina piyokani, chamairo, ishiko.”</sentence>
+        <sentence lang="es">El cura les contesta, les dice: “ Yo quiero que me des tu coca, chamairo, cal.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.20">
+        <sentence lang="prq">Yaanakiro ichamairote, ivanakiro irishikote, ivanakiro iyokani.</sentence>
+        <sentence lang="es">Lleva su chamairo, lo pone sobre la boca de la piedra, la coca y el cal.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.21">
+        <sentence lang="prq">Ari imisaikanakiro, impiyoyanakiro okantatapita mapi, ari okantaka, ari impiyotanakiro irishikote, chamairo, iyokani.</sentence>
+        <sentence lang="es">Ahí lo sienta y lo amontona debajo de la piedra, está así [como una caída], allí amontona su cal, chamairo y su coca.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.22">
+        <sentence lang="prq">Avisaki iroñaaka jaka, irayi itzivini janta, yaapintaitzinta Tzivyoriki (Paucartambo).</sentence>
+        <sentence lang="es">Ellos pasan acá para sacar la sal, allá donde sacan la sal en el río Paucartambo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.23">
+        <sentence lang="prq">Ari okaratzi pikimakovintziri?</sentence>
+        <sentence lang="es">(¿Hasta aquí es todo lo que has escuchado?)</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.24">
+        <sentence lang="prq">Arika impiyaji, impiyajirika aajatzi ari maaroni inkinanaji avotsi pairani aritaki ikinayetzi maaroni intayetarori kinkivaripaye ashaninka.</sentence>
+        <sentence lang="es">Cuando vuelven, vuelven por allí, por este camino donde andaban todos los fundadores, paisanos antiguas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
