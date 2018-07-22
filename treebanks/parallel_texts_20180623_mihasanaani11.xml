@@ -11288,4 +11288,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="46.8">
+        <sentence lang="prq">Intaani ikatziyakara antave.</sentence>
+        <sentence lang="es">Solamente estaban parado.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="46.9">
+        <sentence lang="prq">Yamaniri ikantziri anta: “Aviroka paatziri pinatzi.</sentence>
+        <sentence lang="es">Así oraban, decían: “Usted es el cura.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
