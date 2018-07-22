@@ -11835,4 +11835,34 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="50.2">
+        <sentence lang="prq">Pantakotapakeri, aririka ishitovanaki kanaiki, ari pivanakeri oponkitziki inchatoka.</sentence>
+        <sentence lang="es">Golpea el árbol, cuando salen las hormigas, lo dejas al pie del tronco de este árbol.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="50.3">
+        <sentence lang="prq">Pimpiyapitsatajeri, iyaarita kanaiki, itasonkanakemita, ikimitara ivari pitsimerite.</sentence>
+        <sentence lang="es">Vuélvete inmediamente para que lo coma el kanaiki y te sople, como ellos comen a tu pajarito.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="50.4">
+        <sentence lang="prq">Ari pikantyaari, apaata pivajyaari, osheki tsimeri pikintajeri.</sentence>
+        <sentence lang="es">Serás como ellos, más tarde vas a comer cuando mates otro pajarito.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="50.5">
+        <sentence lang="prq">Omaperotatya kamenaantsi.</sentence>
+        <sentence lang="es">Es verdad estos consejos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="50.6">
+        <sentence lang="prq">Ari ikantakakinarori pairani apa, irotaki nokomintsatantari.</sentence>
+        <sentence lang="es">Así hizo conmigo mi papá, por eso soy cazador.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
