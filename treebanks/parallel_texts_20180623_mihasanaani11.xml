@@ -12591,4 +12591,70 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="76.1">
+        <sentence lang="prq">Tekatsi apa,</sentence>
+        <sentence lang="es">No tengo padre,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="76.2">
+        <sentence lang="prq">tekatsi ina,</sentence>
+        <sentence lang="es">no tengo madre,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="76.3">
+        <sentence lang="prq">naaka intakaro,</sentence>
+        <sentence lang="es">yo inicié en la vida antigua,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="76.4">
+        <sentence lang="prq">nañaaki pairani,</sentence>
+        <sentence lang="es">por eso hemos aumentado.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="76.5">
+        <sentence lang="prq">irotaki ashikitantakaki.</sentence>
+        <sentence lang="es"/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="76.6">
+        <sentence lang="prq">Tsika nopaitaka? (Aran.)</sentence>
+        <sentence lang="es">¿Cómo me llamo? (Adam.)</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="77.1">
+        <sentence lang="prq">Nañiirika shirampari nonatzi,</sentence>
+        <sentence lang="es">Soy hombre cuando estoy vivo,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="77.2">
+        <sentence lang="prq">arika nonkamake,</sentence>
+        <sentence lang="es">cuando estoy muerto</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="77.3">
+        <sentence lang="prq">inkotsitakenarira,</sentence>
+        <sentence lang="es">y me cocinan,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="77.4">
+        <sentence lang="prq">kooyatanajina.</sentence>
+        <sentence lang="es">me convierto en mujer.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="77.5">
+        <sentence lang="prq">Tsika nopaitari? (Tyaapa.)</sentence>
+        <sentence lang="es">¿Quién soy? (El gallo.)</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
