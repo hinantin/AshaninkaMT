@@ -12171,9 +12171,81 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
-    <text id="60.0">
+    <text id="60.1">
         <sentence lang="prq">Notsipatari sanii nosaiki,</sentence>
-        <sentence lang="es"/>
+        <sentence lang="es">Vivo con las avispas,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="60.2">
+        <sentence lang="prq">kameetsa novaniinkata,</sentence>
+        <sentence lang="es">soy de lindos colores,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="60.3">
+        <sentence lang="prq">osheki naakotziri tsimeripaye.</sentence>
+        <sentence lang="es">imito mucho a los pajaritos,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="60.4">
+        <sentence lang="prq">Piyotakena? (Tsirotzi.)</sentence>
+        <sentence lang="es">adivina ¿quién soy? (La oropéndola.)</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="61.1">
+        <sentence lang="prq">Naniri manitzi,</sentence>
+        <sentence lang="es">Mi cuñado es el tigre,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="61.2">
+        <sentence lang="prq">kisorini nomaatsara,</sentence>
+        <sentence lang="es">duro es mi ropa,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="61.3">
+        <sentence lang="prq">nokiyiro kipatsi,</sentence>
+        <sentence lang="es">escarbo la tierra</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="61.4">
+        <sentence lang="prq">namene noyari,</sentence>
+        <sentence lang="es">buscando algo para comer,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="61.5">
+        <sentence lang="prq">piyotakena, tsika nopaita? (Ashoshi.)</sentence>
+        <sentence lang="es">¿sabes cómo me llamo? (El armadillo.)</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="62.1">
+        <sentence lang="prq">Kityonkari novitzi,</sentence>
+        <sentence lang="es">Rojo es mi pelo,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="62.2">
+        <sentence lang="prq">kanta shintenaitaka notzinko,</sentence>
+        <sentence lang="es">pomposo es mi cola,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="62.3">
+        <sentence lang="prq">novaro tsiyaroki.</sentence>
+        <sentence lang="es">mi comida es el coco,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="62.4">
+        <sentence lang="prq">Piyotakena? (Meeri.)</sentence>
+        <sentence lang="es">¿quién soy? (La ardilla.)</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
