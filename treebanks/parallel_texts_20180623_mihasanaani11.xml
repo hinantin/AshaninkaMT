@@ -12117,4 +12117,34 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="58.1">
+        <sentence lang="prq">Nosaiki antamiki,</sentence>
+        <sentence lang="es">Vivo en el monte,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="58.2">
+        <sentence lang="prq">te nokaatyaari javó,</sentence>
+        <sentence lang="es">no me baño con jabón,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="58.3">
+        <sentence lang="prq">irotaki oshitzitantari noketsi,</sentence>
+        <sentence lang="es">por eso apesta mi trasero,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="58.4">
+        <sentence lang="prq">¡piyotena! (Saari.)</sentence>
+        <sentence lang="es">¡adivina quién soy! (La carachupa/el zorillo. )</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="59.1">
+        <sentence lang="prq">Ari noshiyaro pivori,</sentence>
+        <sentence lang="es">Soy como tu pierna,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
