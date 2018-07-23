@@ -12147,4 +12147,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="59.2">
+        <sentence lang="prq">nomana kipatsiki,</sentence>
+        <sentence lang="es">me escondo en la tierra,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="59.3">
+        <sentence lang="prq">aririka pimishaakena,</sentence>
+        <sentence lang="es">si me pelas,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="59.4">
+        <sentence lang="prq">kitamaro novatsa.</sentence>
+        <sentence lang="es">blanco es mi carne.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="59.5">
+        <sentence lang="prq">Piyotena, tsika paitaka? (Kaniri.)</sentence>
+        <sentence lang="es">Adivina ¿quién soy? (La yuca.)</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
