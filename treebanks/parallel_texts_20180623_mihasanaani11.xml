@@ -12357,4 +12357,70 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="67.1">
+        <sentence lang="prq">Kimoshirikitaki oshitovanaki omavoshiki,</sentence>
+        <sentence lang="es">Está feliz que salió del nido,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="67.2">
+        <sentence lang="prq">okamantzimi tzimakemira,</sentence>
+        <sentence lang="es">te avisó que había nacido,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="67.3">
+        <sentence lang="prq">tsika opaitari? (Santsitzi.)</sentence>
+        <sentence lang="es">¿qué es? (El pedo.)</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="68.1">
+        <sentence lang="prq">Parya notzimantari,</sentence>
+        <sentence lang="es">Como una mujer nací en el signo de Virgo,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="68.2">
+        <sentence lang="prq">noshintsiventziro,</sentence>
+        <sentence lang="es">lo perforo,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="68.3">
+        <sentence lang="prq">napiitziro noshintsiventziro,</sentence>
+        <sentence lang="es">vuelvo a perforarlo,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="68.4">
+        <sentence lang="prq">morontanaka,</sentence>
+        <sentence lang="es">ahora quedo con un hueco,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="68.5">
+        <sentence lang="prq">tsika opaitaka? (Notsatziri noyempitaki.)</sentence>
+        <sentence lang="es">¿qué es? (El arete.)</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="69.1">
+        <sentence lang="prq">Antakiroki kenashiri,</sentence>
+        <sentence lang="es">Por afuera soy verde,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="69.2">
+        <sentence lang="prq">nonatzi intsompoiki nokitamarotatzi,</sentence>
+        <sentence lang="es">por dentro soy blanco,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="69.3">
+        <sentence lang="prq">tsika nopaitari? (Intsipa.)</sentence>
+        <sentence lang="es">¿qué soy? (El pacai.)</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
