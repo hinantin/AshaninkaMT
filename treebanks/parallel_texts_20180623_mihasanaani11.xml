@@ -12759,4 +12759,100 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="80.2">
+        <sentence lang="prq">tzimatsi narakomento,</sentence>
+        <sentence lang="es">tengo mi avión para volar,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="80.3">
+        <sentence lang="prq">narakotapinte, nojatzi katonko parenini,</sentence>
+        <sentence lang="es">Voy hacia arriba por el río,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="80.4">
+        <sentence lang="prq">nojatzi kirinka.</sentence>
+        <sentence lang="es">voy hacia abajo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="80.5">
+        <sentence lang="prq">Naaka osheki noyotziro nokintatziri shima,</sentence>
+        <sentence lang="es">Sé mucho picar [con la flecha] chupadora,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="80.6">
+        <sentence lang="prq">nokintzi koviri,</sentence>
+        <sentence lang="es">pico corvina,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="80.7">
+        <sentence lang="prq">nokintzi mamori,</sentence>
+        <sentence lang="es">pico sábalo,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="80.8">
+        <sentence lang="prq">nokintzi yotzi,</sentence>
+        <sentence lang="es">pico sungaro,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="80.9">
+        <sentence lang="prq">maaroni nokintzaitziri shima.</sentence>
+        <sentence lang="es">pico todo pescado.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="80.10">
+        <sentence lang="prq">Naaka osheki nokomintsatzi shima.</sentence>
+        <sentence lang="es">Soy un buen cazador.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="80.11">
+        <sentence lang="prq">Maatsi narakomento narakotantari,</sentence>
+        <sentence lang="es">Tengo mi avión para volar,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="80.12">
+        <sentence lang="prq">Nojatzi katonko,</sentence>
+        <sentence lang="es">voy hacia arriba,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="80.13">
+        <sentence lang="prq">Nojatzi kirinka pareniki,</sentence>
+        <sentence lang="es">voy hacia abajo del río,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="80.14">
+        <sentence lang="prq">Narakotzi kirinka.</sentence>
+        <sentence lang="es">Vuelo hacia abajo,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="80.15">
+        <sentence lang="prq">Osheki nokintatziri shima novakaitariri neentsipaye.</sentence>
+        <sentence lang="es">mucho pico pescado para dar comer a mis hijos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="80.16">
+        <sentence lang="prq">Noitsari kitamarori.</sentence>
+        <sentence lang="es">Mi cushma es blanca.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="80.17">
+        <sentence lang="prq">Piyotakenarika, tsika nopaitaka? (Tsompari.)</sentence>
+        <sentence lang="es">¿Adivina quién soy? (La garza.)</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
