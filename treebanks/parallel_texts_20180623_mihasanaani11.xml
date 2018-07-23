@@ -12957,4 +12957,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="82.5">
+        <sentence lang="prq">Aritakitya, aritakitya kooya,</sentence>
+        <sentence lang="es">Así sera, así sera la mujer</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="82.6">
+        <sentence lang="prq">paminaminatataiterira.</sentence>
+        <sentence lang="es">tú buscas.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="82.7">
+        <sentence lang="prq">Pinintanira kameetsarira,</sentence>
+        <sentence lang="es">Tu querida bonita,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="82.8">
+        <sentence lang="prq">kameetsa pikantya.</sentence>
+        <sentence lang="es">bonito estarás.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
