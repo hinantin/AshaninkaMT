@@ -12075,4 +12075,46 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="56.2">
+        <sentence lang="prq">novaro kataroshi,</sentence>
+        <sentence lang="es">como pasto,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="56.3">
+        <sentence lang="prq">ari nokyaakemi,</sentence>
+        <sentence lang="es">te puedo cargar,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="56.4">
+        <sentence lang="prq">tsika paitaka? (Aashino.)</sentence>
+        <sentence lang="es">¿quién soy? (El asno.)</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="57.1">
+        <sentence lang="prq">Kisaari nomaatsara,</sentence>
+        <sentence lang="es">Negro es mi ropa,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="57.2">
+        <sentence lang="prq">te noyote nantero ovaantsi,</sentence>
+        <sentence lang="es">no sé hacer chacra,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="57.3">
+        <sentence lang="prq">irotaki nokoshitantari kaniri,</sentence>
+        <sentence lang="es">por eso robo yuca.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="57.4">
+        <sentence lang="prq">tsika paitaka? (Sharo.)</sentence>
+        <sentence lang="es">¿Quién soy? (El cutpe.)</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
