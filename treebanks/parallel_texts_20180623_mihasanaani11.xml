@@ -12717,4 +12717,46 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="79.5">
+        <sentence lang="prq">Maatsi novito, novitojaniki iyaanini,</sentence>
+        <sentence lang="es">Tengo mi canoa, la canoita pequeñita,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="79.6">
+        <sentence lang="prq">nojatantari notziyata,</sentence>
+        <sentence lang="es">para irme surcando,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="79.7">
+        <sentence lang="prq">nojatzi katonko nokitsatzi.</sentence>
+        <sentence lang="es">voy a pescar por arriba.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="79.8">
+        <sentence lang="prq">Namaatakotaje kirinka,</sentence>
+        <sentence lang="es">Nado [en mi canoa] por abajo,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="79.9">
+        <sentence lang="prq">nokitsatzi, namaatakotaje novito.</sentence>
+        <sentence lang="es">saco pescado, nado en mi canoa.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="79.10">
+        <sentence lang="prq">Piyotakenarika tsika nopaitaka? (Parari).</sentence>
+        <sentence lang="es">¿Adivina quién soy? (El lobo marino.)</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="80.1">
+        <sentence lang="prq">Naaka nosaiki pareniki,</sentence>
+        <sentence lang="es">Yo vivo en el río,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
