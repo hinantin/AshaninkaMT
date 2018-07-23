@@ -12423,4 +12423,52 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="70.1">
+        <sentence lang="prq">Santsari vitzinto,</sentence>
+        <sentence lang="es">Largo y peludo,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="70.2">
+        <sentence lang="prq">avanitero kameetsa ashi atziyamoro (asaikamento),</sentence>
+        <sentence lang="es">bajamos bonito para nuestra nalga,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="70.3">
+        <sentence lang="prq">tsika opaitaka? (Kyaakomentotsi.)</sentence>
+        <sentence lang="es">¿qué es? (La montura.)</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="71.1">
+        <sentence lang="prq">Maatsari nonatzi,</sentence>
+        <sentence lang="es">Soy flaco,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="71.2">
+        <sentence lang="prq">mantsiyarintsi name,</sentence>
+        <sentence lang="es">enfermedad traigo,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="71.3">
+        <sentence lang="prq">arika nonkintakemi,</sentence>
+        <sentence lang="es">cuando te pico,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="71.4">
+        <sentence lang="prq">ari pinkatsinkayetanake.</sentence>
+        <sentence lang="es">vas a tener escalorfrío.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="71.5">
+        <sentence lang="prq">Tsika nopaitaka? (Mañoo.)</sentence>
+        <sentence lang="es">¿Cómo me llamo? (El zancudo.)</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
