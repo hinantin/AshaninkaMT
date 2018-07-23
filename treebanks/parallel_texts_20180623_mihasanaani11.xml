@@ -12567,4 +12567,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="75.1">
+        <sentence lang="prq">Noshiya nopoña katonko,</sentence>
+        <sentence lang="es">Corro desde la parte alta,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="75.2">
+        <sentence lang="prq">nariita irojatzi inkaariki,</sentence>
+        <sentence lang="es">llego hasta el mar,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="75.3">
+        <sentence lang="prq">airo piyotana.</sentence>
+        <sentence lang="es">no vas a saber quién soy.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="75.4">
+        <sentence lang="prq">Tsika nopaitaka? (Parinini.)</sentence>
+        <sentence lang="es">¿Cómo me llamo?‟ (El río.)</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
