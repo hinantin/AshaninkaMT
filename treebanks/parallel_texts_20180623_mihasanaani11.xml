@@ -12249,4 +12249,88 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="63.1">
+        <sentence lang="prq">Noitzityonki nokanta,</sentence>
+        <sentence lang="es">Delgaditas son mis patas,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="63.2">
+        <sentence lang="prq">nopoki otsonkimataje osarentsi,</sentence>
+        <sentence lang="es">vengo al finalizar el verano,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="63.3">
+        <sentence lang="prq">namapintero tampyaa antaro,</sentence>
+        <sentence lang="es">siempre traigo grandes ventarrones.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="63.4">
+        <sentence lang="prq">tsika paitaka? (Mapitzi.)</sentence>
+        <sentence lang="es">¿Cómo se llama? (El pajarito hornero.)</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="64.1">
+        <sentence lang="prq">Nariitapinta intanajyaaro osarentsi,</sentence>
+        <sentence lang="es">Siempre vengo al inició del verano,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="64.2">
+        <sentence lang="prq">te osamanite nañaamento,</sentence>
+        <sentence lang="es">no vivo mucho tiempo,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="64.3">
+        <sentence lang="prq">osheki nokamanitzi,</sentence>
+        <sentence lang="es">soy mortal.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="64.4">
+        <sentence lang="prq">tsika nopaitaka? (Kentori.)</sentence>
+        <sentence lang="es">¿Cómo me llamo? (La cigarra.)</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="65.1">
+        <sentence lang="prq">Pimpoke paminena,</sentence>
+        <sentence lang="es">Ven a verme,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="65.2">
+        <sentence lang="prq">airorika piñeena nijaaki,</sentence>
+        <sentence lang="es">sino me ves en el agua,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="65.3">
+        <sentence lang="prq">ari nosaikeri kipatsiki,</sentence>
+        <sentence lang="es">estoy en la tierra</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="65.4">
+        <sentence lang="prq">nova shikiri.</sentence>
+        <sentence lang="es">comiendo mosca.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="65.5">
+        <sentence lang="prq">Tsika nopaitaka? (Mashero.)</sentence>
+        <sentence lang="es">¿Cómo me llamo? (El sapo.)</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="66.1">
+        <sentence lang="prq">Pamenina,</sentence>
+        <sentence lang="es">Tú me miras,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
