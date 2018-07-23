@@ -12333,4 +12333,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="66.2">
+        <sentence lang="prq">amenimi,</sentence>
+        <sentence lang="es">yo te miro,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="66.3">
+        <sentence lang="prq">nantsotakemirika</sentence>
+        <sentence lang="es">cuando lo chupo,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="66.4">
+        <sentence lang="prq">nominkyaakemiro,</sentence>
+        <sentence lang="es">te lo introduzco,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="66.5">
+        <sentence lang="prq">tsika opaitari? (Kitsapi.)</sentence>
+        <sentence lang="es">¿qué es? (La aguja.)</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
