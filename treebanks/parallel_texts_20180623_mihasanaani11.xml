@@ -12471,4 +12471,100 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="72.1">
+        <sentence lang="prq">Nosaiki pariniki,</sentence>
+        <sentence lang="es">Vivo en el río,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="72.2">
+        <sentence lang="prq">poshini nokanta,</sentence>
+        <sentence lang="es">bien sabroso soy,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="72.3">
+        <sentence lang="prq">arika payena,</sentence>
+        <sentence lang="es">cuando me sacas,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="72.4">
+        <sentence lang="prq">notsotziro mapi,</sentence>
+        <sentence lang="es">chupo las piedras,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="72.5">
+        <sentence lang="prq">irotaki novari.</sentence>
+        <sentence lang="es">eso es lo que como.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="72.6">
+        <sentence lang="prq">Tsika nopaitaka? (Shima.)</sentence>
+        <sentence lang="es">¿Quién soy? (La chupadora.)</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="73.1">
+        <sentence lang="prq">Osaiki inkiteki,</sentence>
+        <sentence lang="es">Está en el cielo,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="73.2">
+        <sentence lang="prq">antari inatzi,</sentence>
+        <sentence lang="es">es grande,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="73.3">
+        <sentence lang="prq">antari paamari,</sentence>
+        <sentence lang="es">un gran fuego,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="73.4">
+        <sentence lang="prq">airoka itzimi,</sentence>
+        <sentence lang="es">cuando no existe,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="73.5">
+        <sentence lang="prq">tekatsi añaantsi.</sentence>
+        <sentence lang="es">no hay vida.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="73.6">
+        <sentence lang="prq">¿Quién soy? (La chupadora.)</sentence>
+        <sentence lang="es">¿Qué es? (El sol.)</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="74.1">
+        <sentence lang="prq">Inchatyaakini nonatzi,</sentence>
+        <sentence lang="es">Soy un palito delgado,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="74.2">
+        <sentence lang="prq">arika pimpankitena,</sentence>
+        <sentence lang="es">cuando me siembras,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="74.3">
+        <sentence lang="prq">osheki novatsa tzimatsi.</sentence>
+        <sentence lang="es">mucha carne tengo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="74.4">
+        <sentence lang="prq">Tsika nopaitaka? (Kaniri.)</sentence>
+        <sentence lang="es">¿Quién soy? (La yuca.)</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
