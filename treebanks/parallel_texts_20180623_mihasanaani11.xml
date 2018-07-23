@@ -12855,4 +12855,106 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="VIII.0">
+        <sentence lang="prq">PANTSAANTSIPAYE</sentence>
+        <sentence lang="es">CANCIONES</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="81.0">
+        <sentence lang="prq">MEANTO</sentence>
+        <sentence lang="es">EL PAPAGAYO</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="81.1">
+        <sentence lang="prq">Iroñaaka kitaiterika nonintzi nopantsakoteri ivantsani „Meanto‟ notsipatyaaro noshinto opaita Komave. </sentence>
+        <sentence lang="es">Ahora en este día quiero cantar una canción “El papagayo” con mi hija llamada Komave.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="81.2">
+        <sentence lang="prq">Aajatzita naari nopaita Komave, iroori ovairo Komave.</sentence>
+        <sentence lang="es">Yo también, me llamo Komave, y su nombre es Komave.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="81.3">
+        <sentence lang="prq">Okantzi oka.</sentence>
+        <sentence lang="es">Dice así.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="81.4">
+        <sentence lang="prq">Katsimari meanto, katsimari meanto,</sentence>
+        <sentence lang="es">Bravo es el papagayo, bravo es el papagayo,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="81.5">
+        <sentence lang="prq">Meanto, meanto, meanto, meanto.</sentence>
+        <sentence lang="es">Papagayo, papagayo, papagayo, papagayo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="81.6">
+        <sentence lang="prq">Itsipatari erotzi.</sentence>
+        <sentence lang="es">Acompaña al loro hablador.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="81.7">
+        <sentence lang="prq">Ishivashivata meanto, meanto, meanto.</sentence>
+        <sentence lang="es">Se mueve, se mueve el papagayo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="81.8">
+        <sentence lang="prq">Kameetsa ikanta, kameetsa ikanta,</sentence>
+        <sentence lang="es">Bonito es, bonito es, bonito es, bonito es.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="81.9">
+        <sentence lang="prq">Kameetsa ikanta, kameetsa ikanta.</sentence>
+        <sentence lang="es">Paampatzi (un ave del río) está allí.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="81.10">
+        <sentence lang="prq">Paampatzi niro.</sentence>
+        <sentence lang="es">Paampatzi (un ave del río) está allí.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="82.0">
+        <sentence lang="prq">PANTSAANTSI</sentence>
+        <sentence lang="es">UNA CANCIÓN</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="82.1">
+        <sentence lang="prq">Nosonkatavakero nosonkarika, iroñaaka nosonkatero noñaani.</sentence>
+        <sentence lang="es">Voy a tocar mi antara, voy a tocar en mi idioma.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="82.2">
+        <sentence lang="prq">Ari ikantaitziro isonkaitziro, pikimavakinaranki paitaranki, Elena.</sentence>
+        <sentence lang="es">Así se toca mi antara, escúchame, Elena.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="82.3">
+        <sentence lang="prq">Nosonkataki sonkari, iroñaaka nopatsairo noñaaniki.</sentence>
+        <sentence lang="es">Toqué mi antara, ahora voy a cantar en mi idioma.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="82.4">
+        <sentence lang="prq">Okantzi irora.</sentence>
+        <sentence lang="es">Dice.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
