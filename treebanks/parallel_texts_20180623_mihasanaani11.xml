@@ -13252,4 +13252,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="86.8">
+        <sentence lang="prq">Aritakitya nonkantaitya nompantsayero,</sentence>
+        <sentence lang="es">Así ahorita todo el tiempo voy a cantar esta canción,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="86.9">
+        <sentence lang="prq">marerya kompero, marerya kompero.</sentence>
+        <sentence lang="es">brillante el ave de siete colores, brillante el ave de siete colores.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="86.10">
+        <sentence lang="prq">Ari okaratzi.</sentence>
+        <sentence lang="es">Es todo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
