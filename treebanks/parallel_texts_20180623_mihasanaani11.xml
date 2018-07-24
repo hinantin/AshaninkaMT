@@ -13054,4 +13054,10 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="83.1">
+        <sentence lang="prq">Tampatsika isaiki kamori, kamoririri.</sentence>
+        <sentence lang="es">Derecho está Vía Láctea.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
