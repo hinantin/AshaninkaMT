@@ -13318,4 +13318,40 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="88.0">
+        <sentence lang="prq">PANTSAANTSI</sentence>
+        <sentence lang="es"/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="88.1">
+        <sentence lang="prq">Te noninte aviroka, kooya,</sentence>
+        <sentence lang="es">No te quiero, mujer,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="88.2">
+        <sentence lang="prq">te noninte aviroka, kooya,</sentence>
+        <sentence lang="es">no te quiero, mujer,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="86.3">
+        <sentence lang="prq">te noninteve,</sentence>
+        <sentence lang="es">no te quiero,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="86.4">
+        <sentence lang="prq">te noninteve aviroka, kooya.</sentence>
+        <sentence lang="es">no te quiero a ti, mujer.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="86.5">
+        <sentence lang="prq">Kooya poronakiro,</sentence>
+        <sentence lang="es">Mujer con la cara redondita,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
