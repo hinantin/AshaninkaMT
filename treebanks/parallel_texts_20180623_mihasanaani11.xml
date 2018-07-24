@@ -13288,4 +13288,34 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="87.3">
+        <sentence lang="prq">Okantakantatana eentyove,</sentence>
+        <sentence lang="es">Me insiste mi hermana:</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="87.4">
+        <sentence lang="prq">„Tsame ampakoteriri itomera kokove.‟</sentence>
+        <sentence lang="es">“Vamos a darle de beber al hijo de nuestro tío.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="87.5">
+        <sentence lang="prq">Pitsopitso, nopitsopitsotakanakarive itomira kokove.</sentence>
+        <sentence lang="es">Gira, gira, lo hago girar varias veces al hijo de mi tío.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="87.6">
+        <sentence lang="prq">Pitsopitso, opitsopitsotakanakarive otsatairikinive.</sentence>
+        <sentence lang="es">Gira, gira, los hace girar varias veces sus adornos colgados en su cushma.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="87.7">
+        <sentence lang="prq">Irotaki opantsakotziriri kooya oimitsori okantya inintantarori.</sentence>
+        <sentence lang="es">Este canta la mujer a su cuñado (primo) para que se enamore de ella.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
