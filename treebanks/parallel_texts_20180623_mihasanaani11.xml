@@ -13017,4 +13017,17 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="82.15">
+        <sentence lang="prq">Aparoni paminiri shirampari.</sentence>
+        <sentence lang="es">Vas a buscar a uno solo hombre.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="82.16">
+        <!-- boyfriend / enamorado / querido -->
+        <sentence lang="prq">Aviroka tzimaki pinintani avirori.</sentence>
+        <sentence lang="es">Tú tienes tu querido.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
