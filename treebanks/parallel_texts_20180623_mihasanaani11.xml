@@ -13270,4 +13270,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="87.0">
+        <sentence lang="prq">AMPAKOTENI ITOMI KOKO</sentence>
+        <sentence lang="es">LE VAMOS A DAR DE BEBER AL HIJO DE NUESTRO TÍO</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="87.1">
+        <sentence lang="prq">Pashini pantsaantsi ashi tsinane, opantsakotziri oimitsori ontsipatyaro irento.</sentence>
+        <sentence lang="es">Otra canción de una mujer que canta para su cuñado (primo), con su hermana.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="87.2">
+        <sentence lang="prq">Okantzi oka.</sentence>
+        <sentence lang="es">Dice así.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
