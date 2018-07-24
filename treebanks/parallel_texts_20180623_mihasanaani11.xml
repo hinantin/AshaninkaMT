@@ -13390,6 +13390,18 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="87.ERROR">
+        <sentence lang="prq">Noshikachai chanaini, noshikachai chanaini, noshikachai chanaini.</sentence>
+        <sentence lang="es"/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="87.3">
+        <sentence lang="prq">Yaanakero yampatsakotzimaitanakyaaro.</sentence>
+        <sentence lang="es">Estamos raptando a una jovencita.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
     <text id="87.4">
         <sentence lang="prq">Nonoshikimate chanaini, noshika chanaini, noshika chanaini, noshika chanaini.</sentence>
         <sentence lang="es">Estoy jalando a una jovencita, estoy jalando a una jovencita, estoy jalando a una jovencita, estoy jalando a una jovencita.</sentence>
