@@ -12981,4 +12981,40 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="82.9">
+        <sentence lang="prq">Airo pamini pashini, kooya.</sentence>
+        <sentence lang="es">No vas a buscar a otro, mujer.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="82.10">
+        <sentence lang="prq">Paminapirotera shiramparira,</sentence>
+        <sentence lang="es">No vas a buscar un hombre,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="82.11">
+        <sentence lang="prq">paminaperoteri.</sentence>
+        <sentence lang="es">no vas a buscar.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="82.12">
+        <sentence lang="prq">Aparoni ikantya, aparoni ikantya,</sentence>
+        <sentence lang="es">Será una sola persona, será una sola persona,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="82.13">
+        <sentence lang="prq">airoma paminapitsatziri.</sentence>
+        <sentence lang="es">no vas a buscar</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="82.14">
+        <sentence lang="prq">Pashini shiramparira ari intaani.</sentence>
+        <sentence lang="es">a otro hombre lejos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
