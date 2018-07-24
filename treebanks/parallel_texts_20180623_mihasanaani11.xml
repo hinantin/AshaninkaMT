@@ -13150,4 +13150,106 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="84.12">
+        <sentence lang="prq">Aritaki ishaninka yaminaminatzira</sentence>
+        <sentence lang="es">Así es su paisano que él busca, busca,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="84.13">
+        <sentence lang="prq">ishaninkaperori, noyovancheritera.</sentence>
+        <sentence lang="es">a su paisano verdadero, mi unchala.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="85.0">
+        <sentence lang="prq">PANTSAANTSI IRASHI EENTSI</sentence>
+        <sentence lang="es">CANCIÓN DE CUNA</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="85.1">
+        <sentence lang="prq">Ampatsakoteri oimaantyaariri eentsi.</sentence>
+        <sentence lang="es">Vamos a cantar una canción para hacer dormir a mi bebé.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="85.2">
+        <sentence lang="prq">A-a-a-a, pitoni, pitoni,</sentence>
+        <sentence lang="es">Mono diurno, mono diurno,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="85.3">
+        <sentence lang="prq">pamakeniri ivochokini joventzi imayeta, koraketaki manitzi.</sentence>
+        <sentence lang="es">tráiga su sueño al bebito que duerma, ya viene el león.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="85.4">
+        <sentence lang="prq">Pitoni, pitoni,</sentence>
+        <sentence lang="es">Mono diurno, mono diurno,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="85.5">
+        <sentence lang="prq">pamakeniri ivochokini joventzi imayeta, koraketaki manitzi.</sentence>
+        <sentence lang="es">tráiga su sueño al bebito que duerma, ya viene el león.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="85.6">
+        <sentence lang="prq">Pimaye, pimaye joventzi, korake manitzi.</sentence>
+        <sentence lang="es">Duérmate, duérmate el bebito, el león viene.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="86.0">
+        <sentence lang="prq">IVESHIRYA</sentence>
+        <sentence lang="es">CANCIÓN PARA DANZAR</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="86.1">
+        <sentence lang="prq">Nompantsavake kapicheeni okaratzi nokemayetziri impantsani pairani intanakarori.</sentence>
+        <sentence lang="es">Quiero cantar un poco lo que escuché de las canciones de los fundadores.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="86.2">
+        <sentence lang="prq">Okantavetyata.</sentence>
+        <sentence lang="es">No importa.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="86.3">
+        <sentence lang="prq">Marerya kompero, marerya kompero, marerya kompero.</sentence>
+        <sentence lang="es">Brillante el ave de siete colores, brillante el ave de siete colores, brillante el ave de siete colores.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="86.4">
+        <sentence lang="prq">Aritakitya nonkantaitya nompantsayero</sentence>
+        <sentence lang="es">Así ahorita todo el tiempo voy a cantar esta canción,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="86.5">
+        <sentence lang="prq">marerya kompero, mamerya kompero.</sentence>
+        <sentence lang="es">brillante el ave de siete colores, brillante el ave de siete colores.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="86.6">
+        <sentence lang="prq">Aritakitya nonkantaitya nompantsayero kitaiteriki</sentence>
+        <sentence lang="es">Así ahorita todo el día voy a cantar esta canción,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="86.7">
+        <sentence lang="prq">marerya kompero, marerya kompero.</sentence>
+        <sentence lang="es">brillante el ave de siete colores, brillante el ave de siete colores.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
