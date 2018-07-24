@@ -13354,4 +13354,40 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="86.6">
+        <sentence lang="prq">te noninteve,</sentence>
+        <sentence lang="es">no te quiero,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="86.7">
+        <sentence lang="prq">jatakimi intaina, jatakimi intaina,</sentence>
+        <sentence lang="es">fuiste lejos,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="86.8">
+        <sentence lang="prq">te noninteve.</sentence>
+        <sentence lang="es">no te quiero.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="87.0">
+        <sentence lang="prq">IVANTSANI OVAYERI INOSHIKANAKERIKA KOOYA</sentence>
+        <sentence lang="es">LA CANCIÓN DE LOS GUERREROS ROBANDO A UNA MUJER</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="87.1">
+        <sentence lang="prq">Yampatsakotziro ovayeri inoshikantzi.</sentence>
+        <sentence lang="es">Vamos a cantar sobre cuando ellos están en la guerra secuestran a una mujer, una jovencita.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="87.2">
+        <sentence lang="prq">Ampantsakoteri arika ivayeritakya ovayeri inoshikanakerika kooya, kooyanikipatsaini.</sentence>
+        <sentence lang="es">La llevaron cantando.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
