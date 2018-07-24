@@ -13030,4 +13030,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="82.17">
+        <sentence lang="prq">Irirori aitaki yaminanakimitya,</sentence>
+        <sentence lang="es">Él va a buscar a ti.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="82.18">
+        <sentence lang="prq">Kameetsa pikantya, irirori shirampa.</sentence>
+        <sentence lang="es">Tú estás bien, el hombre también.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="82.19">
+        <sentence lang="prq">Ari ovirapaka.</sentence>
+        <sentence lang="es">Así termina.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
