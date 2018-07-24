@@ -13060,4 +13060,70 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="83.2">
+        <sentence lang="prq">Ikavayote kavayo ikavayote iviyoka.</sentence>
+        <sentence lang="es">Sus caballos están en groupos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="83.3">
+        <sentence lang="prq">Ikavayote iviyoka, ikavayote iviyoka, ikavayote iviyoka.</sentence>
+        <sentence lang="es">Sus caballos están en grupos, sus caballos están en grupos, sus caballos están en grupos.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="83.4">
+        <sentence lang="prq">Tampatsika isaiki kamori, kamoririri.</sentence>
+        <sentence lang="es">Derecho está Vía Láctea.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="84.0">
+        <sentence lang="prq">KOVACHERI</sentence>
+        <sentence lang="es">LA UNCHALA</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="84.1">
+        <sentence lang="prq">Noñaanoñaanatakiri noyovancheritera.</sentence>
+        <sentence lang="es">He visto a mi unchala.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="84.2">
+        <sentence lang="prq">Ishiyashiyatanaka isavoroshiteki.</sentence>
+        <sentence lang="es">Se va corriendo en el caresal.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="84.3">
+        <sentence lang="prq">Noñaanoñaanatakiri noyovancheritera.</sentence>
+        <sentence lang="es">He visto a mi unchala.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="84.4">
+        <sentence lang="prq">Ishiyashiyatanakara isavoroshiteki.</sentence>
+        <sentence lang="es">Se va corriendo en el caresal.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="84.5">
+        <sentence lang="prq">Kameetsa ikanta,</sentence>
+        <sentence lang="es">Bonito es,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="84.6">
+        <sentence lang="prq">yaminaminatzira ishaninkaperori, ishaninkaperori.</sentence>
+        <sentence lang="es">está buscando a su verdadero paisano.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="84.7">
+        <sentence lang="prq">Aritakitya noyovancheritera.</sentence>
+        <sentence lang="es">Así sera mi unchala.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
