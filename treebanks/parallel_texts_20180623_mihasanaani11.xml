@@ -13390,6 +13390,18 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="87.4">
+        <sentence lang="prq">Nonoshikimate chanaini, noshika chanaini, noshika chanaini, noshika chanaini.</sentence>
+        <sentence lang="es">Estoy jalando a una jovencita, estoy jalando a una jovencita, estoy jalando a una jovencita, estoy jalando a una jovencita.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="87.5">
+        <sentence lang="prq">Chanaina, chanaina, chanaina, chanaina.</sentence>
+        <sentence lang="es">Jovencita, jovencita, jovencita, jovencita.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
     <text id="87.6">
         <sentence lang="prq">Nosatekimatero chanaini, nosatekimateri chanaini.</sentence>
         <sentence lang="es">La pongo en el centro, la jovencita,</sentence>
@@ -13404,7 +13416,7 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
     </text>
     <text id="87.8">
         <sentence lang="prq">Nonoshikimate chanaini, nonoshikimate chanaini, nonoshikimate chanaini.</sentence>
-        <sentence lang="es">Estoy jalando a una jovencita,</sentence>
+        <sentence lang="es">Estoy jalando a una jovencita, estoy jalando a una jovencita, estoy jalando a una jovencita.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
