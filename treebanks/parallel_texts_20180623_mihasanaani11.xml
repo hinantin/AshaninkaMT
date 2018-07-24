@@ -13132,4 +13132,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="84.9">
+        <sentence lang="prq">Aritaitakima,</sentence>
+        <sentence lang="es">Así será,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="84.10">
+        <sentence lang="prq">iñaaiñaatakiri ishaninkaperori.</sentence>
+        <sentence lang="es">busca, busca a su paisano verdadero.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="84.11">
+        <sentence lang="prq">Irirori ikanta.</sentence>
+        <sentence lang="es">Él es.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
