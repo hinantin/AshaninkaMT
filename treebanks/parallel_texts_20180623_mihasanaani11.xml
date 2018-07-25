@@ -13972,7 +13972,23 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
     <text id="102.4">
         <sentence lang="prq">Ikantziri pashini maratzi, yakiri: “Pitziyamoro kaariperori, pitziyamoro kaariperori.”</sentence>
         <sentence lang="es">El otro manajaraco responde: “Con tu cúlo carajo, con tu cúlo carajo.”</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+maratzi	[=maratzi+m.][NRoot][=medium-size.speckled.chachalaca (ES: manacaraco, manajaraco; sci.nm.: ortalis.guttata)]
+
+,	,[$.]
+
+yakiri	[y-][VPers][3m.S/A+][--][=ak][VRoot][=to.answer.back (ES: contestar, responder)][--][-i+n.fut.][+REAL]i[--][=ri][+3m.O]
+
+:	:[$.]
+
+“	“[$.]
+
+pitziyamoro	[pi-][NPers][2poss+][--][=tziya+n.m.+inal@tsi.][NRoot][=excrement (ES: excremento), feces (ES: heces)][--][=moro+n.m.+inal@tsi.][NRoot][=hole (ES: hueco)]
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
 </parallel>
