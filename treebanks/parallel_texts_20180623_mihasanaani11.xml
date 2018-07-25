@@ -13864,4 +13864,16 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="IX.0">
+        <sentence lang="prq">ÑAAVAIRINTSI SHINTSINI</sentence>
+        <sentence lang="es">TRABALENGUAS</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="IX.1">
+        <sentence lang="prq">ASHIRONTANTYAARI</sentence>
+        <sentence lang="es">VAMOS A REÍRNOS (CHISTES)</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
