@@ -13876,4 +13876,40 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="100.1">
+        <sentence lang="prq">Aroshi ishiro kiroshi irashi iroishi.</sentence>
+        <sentence lang="es">Aroshi echa kerosin de Louis.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="100.2">
+        <sentence lang="prq">Pamineri naniri, yaminiri keniri.</sentence>
+        <sentence lang="es">Mirale a mi cuñado, le está mirando al keniri.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="100.3">
+        <sentence lang="prq">Nova mava onava panava, mava panava ova onava.</sentence>
+        <sentence lang="es">Como tres lunares de perdiz, tres perdizes comen su lunar.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="100.4">
+        <sentence lang="prq">Irotaki otaki kitaki, jataki jenoki.</sentence>
+        <sentence lang="es">Es la cáscara de nogal, se fue arriba.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="100.5">
+        <sentence lang="prq">Irishinto Aroshi osheki okivakivatzi, okivanatziri Aroshi.</sentence>
+        <sentence lang="es">La hija de Aroshi muchas veces lava y lava, lava la ropa de Aroshi.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="100.6">
+        <sentence lang="prq">Okatsikatsitatzi nasankani, okatsitakatziro pasankani.</sentence>
+        <sentence lang="es">Okatsikatsitatzi nasankani, okatsitakatziro pasankani.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
