@@ -13720,4 +13720,64 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="90.0">
+        <sentence lang="prq">SHIMAPAKO</sentence>
+        <sentence lang="es">EL PESCADOR</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="90.1">
+        <sentence lang="prq">Jatai, jatai pitotsi.</sentence>
+        <sentence lang="es">Se va, sa va la lancha.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="90.2">
+        <sentence lang="prq">Jatai, jatai shimapako.</sentence>
+        <sentence lang="es">Se va, se va el pescador.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="90.3">
+        <sentence lang="prq">Pitotsinta montyatyaari.</sentence>
+        <sentence lang="es">Esa lancha que cruza allá.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="90.4">
+        <sentence lang="prq">Jatai shimapako.</sentence>
+        <sentence lang="es">Se va, se va el pescador.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="91.0">
+        <sentence lang="prq">NOVARIPAANIKITE</sentence>
+        <sentence lang="es">MI GALLINITA</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="91.1">
+        <sentence lang="prq">Novaripaanikite oitsokaki.</sentence>
+        <sentence lang="es">Mi gallinita ha puesto un huevo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="91.2">
+        <sentence lang="prq">Tsikarika omanakiri?</sentence>
+        <sentence lang="es">¿En que lugar habrá escondido?</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="91.3">
+        <sentence lang="prq">Tsame aminaiteri</sentence>
+        <sentence lang="es">“Vamos a ver</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="91.4">
+        <sentence lang="prq">Neetsikiroini (neetsini).</sentence>
+        <sentence lang="es">Lentamente.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
