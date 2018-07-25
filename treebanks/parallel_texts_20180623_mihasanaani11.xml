@@ -13438,4 +13438,94 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="88.0">
+        <sentence lang="prq">IVESHIRYA IVANTSANI KATARI</sentence>
+        <sentence lang="es">LA CANCIÓN PARA DANZAR, LA CANCIÓN DEL PATO SILVESTRE</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="88.1">
+        <sentence lang="prq">Nompantsavakita kapichiini okaratzi noyotziri, ivantsani katari.</sentence>
+        <sentence lang="es">Voy a cantar un poquito todo lo que sé, la canción del pato silvestre.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="88.2">
+        <sentence lang="prq">Ari ikantzi.</sentence>
+        <sentence lang="es">Así dice:</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="88.3">
+        <sentence lang="prq">Katarya, katarya, katarya, katarya, katarya</sentence>
+        <sentence lang="es">Pato silvestre, pato silvestre, pato silvestre, pato silvestre</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="88.4">
+        <sentence lang="prq">Ipipiyatanaka noyataritera iyatonkotekira.</sentence>
+        <sentence lang="es">está regresando mi pato silvestre a la altura,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="88.5">
+        <sentence lang="prq">Ipipiyatakari iirinkatekira, iirinkatekira.</sentence>
+        <sentence lang="es">está regresando hacia adentro, hacia adentro.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="88.6">
+        <sentence lang="prq">Yookimotanairi iyatonkotekira</sentence>
+        <sentence lang="es">La ha dejado en su altura</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="88.7">
+        <sentence lang="prq">tsomparya, tsomparya.</sentence>
+        <sentence lang="es">a la garza, a la garza.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="88.8">
+        <sentence lang="prq">Vashirini ikanta itsomparyanitekira</sentence>
+        <sentence lang="es">Muy triste está mi garcita</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="88.9">
+        <sentence lang="prq">Vashirini ikanta itsomparyanitekira</sentence>
+        <sentence lang="es">Muy triste está mi garcita</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="88.10">
+        <sentence lang="prq">Itsipatsipatanakari ivarinetekira, ivarinetekira.</sentence>
+        <sentence lang="es">Lo acompañó en su río, en su río,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="88.11">
+        <sentence lang="prq">Ivashipariñatekira, ivashipariñatekira.</sentence>
+        <sentence lang="es">en el nido de su palomar.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="88.12">
+        <sentence lang="prq">Iyanarovatera, ivaromatekira,</sentence>
+        <sentence lang="es">Muy triste en su agua, muy triste en su agua.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="88.13">
+        <sentence lang="prq">Ivashinonkakiri pariña, pariña itsomparitenira,</sentence>
+        <sentence lang="es">La hizo sufrir en el agua de su río, de su río de su garcita.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="88.14">
+        <sentence lang="prq">Ikakatziyatanaka iirinkatanakeri tsomparya, tsomparya.</sentence>
+        <sentence lang="es">Se paró, se paró en la parte de adentro, la garcita, la garcita.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
