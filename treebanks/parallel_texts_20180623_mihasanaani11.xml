@@ -13546,4 +13546,34 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="89.0">
+        <sentence lang="prq">SHIRO</sentence>
+        <sentence lang="es">LA PALOMA</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="89.1">
+        <sentence lang="prq">Nompantsavaki kapichiini ikanta shiro ivashirita irirori.</sentence>
+        <sentence lang="es">Voy a cantar un poquito como la paloma se entristece él también.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="89.2">
+        <sentence lang="prq">Noshironi shironi, noshironi shironi, noshironi shironi</sentence>
+        <sentence lang="es">Palomita, paloma, palomita, paloma, palomita, paloma,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="89.3">
+        <sentence lang="prq">ivashirishiritakara noshironiteranki, ivashirishiritakara noshironiteranki.</sentence>
+        <sentence lang="es">Entristece, muy triste está mi palomita que solía ser el mío.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="89.4">
+        <sentence lang="prq">Ivashiritakotarora inintani iriro,</sentence>
+        <sentence lang="es">Él está triste por su querida,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
