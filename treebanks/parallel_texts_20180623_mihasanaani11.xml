@@ -13600,4 +13600,70 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="89.9">
+        <sentence lang="prq">Iritatya iriro, ikantakashitakarora.</sentence>
+        <sentence lang="es">Depende de él, por que tiene la culpa.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="89.10">
+        <sentence lang="prq">Yaminaki irirori inintani pashini, inintani pashini.</sentence>
+        <sentence lang="es">Él buscó a otra querida, otra querida.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="89.11">
+        <sentence lang="prq">Iritaki kantakashitaro yaminima pashini.</sentence>
+        <sentence lang="es">Él tiene la culpa por buscar a otra.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="89.12">
+        <sentence lang="prq">Aritaki iriro vashirini ikantya irironi iriro,</sentence>
+        <sentence lang="es">Es verdad que él va a estar triste, él también.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="89.13">
+        <sentence lang="prq">Aritaki iriro, noshironi shironi.</sentence>
+        <sentence lang="es">Es verdad, mi palomita paloma.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="89.14">
+        <sentence lang="prq">Yamatavitanakiro, okantzirira inintani, inintani, initani iriro.</sentence>
+        <sentence lang="es">Engañó a ella, la que le dijo a su querida, la querida de él.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="89.15">
+        <sentence lang="prq">Aritaki iroori amiminatanaki, pashinira iroori,</sentence>
+        <sentence lang="es">Es verdad que ella también ya buscó a otro querido,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="89.16">
+        <sentence lang="prq">onintani iroori, onintani iroori.</sentence>
+        <sentence lang="es">el querido de ella, el querido de ella.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="89.17">
+        <sentence lang="prq">Pitso-pitso onkantya tsikarika onkini, tsikarika onkini.</sentence>
+        <sentence lang="es">Muy coqueta debe estar donde vaya, donde vaya.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="89.18">
+        <sentence lang="prq">Okamavintanairo onampira iroori, onampira iroori.</sentence>
+        <sentence lang="es">Cuidadosa ella está de su pueblo, de su pueblo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="89.19">
+        <sentence lang="prq">Oijatanakiri, irirotya iriro onintani pashini, onintani pashini.</sentence>
+        <sentence lang="es">Lo siguió ella, depende de él, su otro querido, su otro querido,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
