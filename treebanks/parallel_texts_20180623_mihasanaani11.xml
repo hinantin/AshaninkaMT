@@ -13666,4 +13666,58 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="89.20">
+        <sentence lang="prq">Iraavaityata inampiki iriro.</sentence>
+        <sentence lang="es">Que se vaya a llorar al pueblo de él.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="89.21">
+        <sentence lang="prq">Kimoshiri okanta inintani iriro, kimoshiri okanta inintani iriro.</sentence>
+        <sentence lang="es">Muy alegre está ella, la querida de él, muy alegre está ella, la querida de él.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="89.22">
+        <sentence lang="prq">Oijatanakiri onintani pashini, pashinira iroori.</sentence>
+        <sentence lang="es">Lo siguió ella a su otro querido, su otro querido.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="89.23">
+        <sentence lang="prq">Irooritya iroori, oshirontaventari, irooritya iroori, omanintamaninta.</sentence>
+        <sentence lang="es">Depende de ella, se reía de él, depende de ella, su aborrecido, aborrecido.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="89.24">
+        <sentence lang="prq">Imanintavetaro, oshirontaventari oviri.</sentence>
+        <sentence lang="es">Despreciaba a ella, pero ella se reía de él.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="89.25">
+        <sentence lang="prq">Oñaa oñaatzirira vashirini ikanta, vashirini ikanta.</sentence>
+        <sentence lang="es">Veía, lo veía estar muy triste, estar muy triste.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="89.26">
+        <sentence lang="prq">Irotaki iroori ompiyaji iroori.</sentence>
+        <sentence lang="es">Es por eso que ella va a volver.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="89.27">
+        <sentence lang="prq">Tsikarika onkini, tsikarika onkini</sentence>
+        <sentence lang="es">Donde vaya, donde vaya</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="89.28">
+        <sentence lang="prq">Irooritya iroori! Jojooooooo!</sentence>
+        <sentence lang="es">Depende de ella, jejeeeeeeeeeeee.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
