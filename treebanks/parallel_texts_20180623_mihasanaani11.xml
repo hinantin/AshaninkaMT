@@ -13576,4 +13576,28 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="89.5">
+        <sentence lang="prq">noshironi shironi, noshironi shironi.</sentence>
+        <sentence lang="es">mi palomita paloma, palomita paloma.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="89.6">
+        <sentence lang="prq">Vashirini ikanta noshironiteranki.</sentence>
+        <sentence lang="es">Muy triste está mi palomita.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="89.7">
+        <sentence lang="prq">Ikokovakovita naari, naakatya naari, nankayeri naaka naari,</sentence>
+        <sentence lang="es">Él buscaba a mí también; depende de mí, si voy a contestarle.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="89.8">
+        <sentence lang="prq">Nonintapirotziri noshironiteranki.</sentence>
+        <sentence lang="es">Yo lo quiero mucho, a mi palomita.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
