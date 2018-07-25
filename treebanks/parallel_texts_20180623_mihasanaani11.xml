@@ -13912,4 +13912,70 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="100.7">
+        <sentence lang="prq">Ineshi osheki aaki shaaki, aaki osheki shaaki Ineshi.</sentence>
+        <sentence lang="es">Ines mucho recolectó unguragüe, recolectó mucho unguragüe Ines.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="100.8">
+        <sentence lang="prq">Oteriterinkataki kirinka, terika oterinki kirinka, oterinkatye katonko.</sentence>
+        <sentence lang="es">Está tronando, truena y truena río abajo, si no truena río abajo, tronará río arriba.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="101.1">
+        <sentence lang="prq">Aparoni eentsi iva shavori yakachaatakiri iriri, okotsitakirira iriniro.</sentence>
+        <sentence lang="es">Un niño estaba comiendo su pescado barbón (bagre) que sacó su papa con cuerdo, lo cocinó su mamá.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="101.2">
+        <sentence lang="prq">Iratakiri, iratakiri, inintzi yairikirimi shavorira.</sentence>
+        <sentence lang="es">Tomaba su caldo, quiso agarrar para comer el bagre.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="101.3">
+        <sentence lang="prq">Ikarentsatatzira, yapankaraitziri.</sentence>
+        <sentence lang="es">Como era resbaloso, lo saltó.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="101.4">
+        <sentence lang="prq">Ikaimanaki, ikantzi: “Ina, shavorika añaatsi.”</sentence>
+        <sentence lang="es">Gritó diciendo: “Mamá, este barbón está vivo.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="101.5">
+        <sentence lang="prq">Oshirovantari ina: “Iji, iji, iji, iji.”</sentence>
+        <sentence lang="es">Su mamá se puso a reírse de él: “Ja-ja, ja-ja.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="102.1">
+        <sentence lang="prq">Tsitenirikika nonkinkitsate, nonkinkitsatakotero akantavaishita (ashirontantyaari).</sentence>
+        <sentence lang="es">Esta noche voy a contar, voy a contarle sobre cualquier cosa.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="102.2">
+        <sentence lang="prq">Sankatzi ikantzi: “Pamanante tanta, pamanante tanta, pamanante tanta.”</sentence>
+        <sentence lang="es">Pucacunga dice: “Compra pan, compra pan, compra pan.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="102.3">
+        <sentence lang="prq">Maratzi yakiri: “Paita namanantantyaari, paita namanantantyaari?”</sentence>
+        <sentence lang="es">Manajaraco le responde: “¿Con qué lo compraré, con que lo compraré?”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="102.4">
+        <sentence lang="prq">Ikantziri pashini maratzi, yakiri: “Pitziyamoro kaariperori, pitziyamoro kaariperori.”</sentence>
+        <sentence lang="es">El otro manajaraco responde: “Con tu cúlo carajo, con tu cúlo carajo.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
