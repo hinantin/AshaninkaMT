@@ -13816,4 +13816,52 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="93.0">
+        <sentence lang="prq">KIMPIRO</sentence>
+        <sentence lang="es">LA SHUSHUPE</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="99.1">
+        <sentence lang="prq">Aparoni kitaiteri</sentence>
+        <sentence lang="es">Un día</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="99.2">
+        <sentence lang="prq">Nojataki intamishiki,</sentence>
+        <sentence lang="es">fui al campo,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="99.3">
+        <sentence lang="prq">Noñaaki aparoni kimpiro,</sentence>
+        <sentence lang="es">me encontré con una shushupe,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="99.4">
+        <sentence lang="prq">antaro iraikicheki.</sentence>
+        <sentence lang="es">Grandes colmillos tenía.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="99.5">
+        <sentence lang="prq">Notsarovanaki naaka,</sentence>
+        <sentence lang="es">Yo tenía miedo.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="99.6">
+        <sentence lang="prq">Opyakovintakina inchapanki,</sentence>
+        <sentence lang="es">Me defendí con un palo,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="99.7">
+        <sentence lang="prq">Iitoki noposakiri.</sentence>
+        <sentence lang="es">destrocé su cabeza.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
