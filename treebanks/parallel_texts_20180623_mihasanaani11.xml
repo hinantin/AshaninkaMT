@@ -13780,4 +13780,40 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="92.0">
+        <sentence lang="prq">MAMARO</sentence>
+        <sentence lang="es">EL BÚHO</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="92.1">
+        <sentence lang="prq">Intaina antamikinta</sentence>
+        <sentence lang="es">En el bosque lejos</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="92.2">
+        <sentence lang="prq">Ipantsai mamaro,</sentence>
+        <sentence lang="es">cantaba el búho,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="92.3">
+        <sentence lang="prq">Imanaro inchashi.</sentence>
+        <sentence lang="es">Ocultó en el follaje.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="92.4">
+        <sentence lang="prq">Mamaro yakanaki:</sentence>
+        <sentence lang="es">El búho contestó:</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="92.5">
+        <sentence lang="prq">“Ku, ku, pimpoke jaka, ku, ku, pimpoke jaka.”</sentence>
+        <sentence lang="es">“Ku, ku, Ku, ku, ven aquí, ku, ku, ven aquí.”</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
