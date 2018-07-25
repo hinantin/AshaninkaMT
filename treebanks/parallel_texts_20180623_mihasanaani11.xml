@@ -13528,4 +13528,22 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="88.15">
+        <sentence lang="prq">Yamayamatanairo iirinkatekira tsomparya, tsomparya.</sentence>
+        <sentence lang="es">La trajo, la trajo de su adentro la garcita, la garcita.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="88.16">
+        <sentence lang="prq">Yookantanairi, itsomparitenira, yookantanairi itsomparitenira.</sentence>
+        <sentence lang="es">Ha dejado a su garcita, ha dejado a su garcita,</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="88.17">
+        <sentence lang="prq">Tsomparya, tsomparya, je, jeeeeee.</sentence>
+        <sentence lang="es">la garcita, la garcita, jejejejejeje.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
