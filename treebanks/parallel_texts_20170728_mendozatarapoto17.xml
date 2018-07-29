@@ -131,25 +131,12 @@ Por lo tanto, las propuestas recogidas en el Foro se presentan a continuación:
         <sentence lang="prq">Ajate akamanatero otsipasato nampitsi amenanteari akanteri kantashiyetarori ñantsi.</sentence>
         <sentence lang="es">– Acudir a la justicia internacional para buscar sanciones contra empresas multinacionales violadoras de derechos. Proponer e impulsar instrumentos políticos para ello.</sentence>
     </text>
-    <text>
-        <prq>Ora FOSPA amitakotiro nampitsi ariorika otimake obayeritantsi, ashi aipapatsitepe jero obantatsiri ashi</prq>
-        <spa>El FOSPA se solidariza con los pueblos afectados por las guerras, la intervención de sus territorios y la criminalización de la protesta de los defensores/as de derechos que les obliga a abandonar sus territorios.
-</spa>
+    <text id="1.30">
+        <sentence lang="prq">Ora FOSPA amitakotiro nampitsi ariorika otimake obayeritantsi, ashi aipapatsitepe jero obantatsiri ashi</sentence>
+        <sentence lang="es">El FOSPA se solidariza con los pueblos afectados por las guerras, la intervención de sus territorios y la criminalización de la protesta de los defensores/as de derechos que les obliga a abandonar sus territorios.</sentence>
     </text>
-    <text>
-        <prq>Ora nampitsipe amazónico jero VIII FOSPA akantasanotiro ora sabikantsi jero inchatomashi, ankajeme ashintsitero antyaro antsipajeitea jero ora nampitsipe okantara iyosanotero abakasanotantsi. Yoijatero aotsi marojeini Panamazónicos, ora jitachari kisakobentantsi jero ora aijatero tsintsitantsi okantyani.</prq>
-        <spa>Los pueblos amazónicos y andinos reunidos en el VIII FOSPA reafirmamos nuestro compromiso con la vida y la Naturaleza, convocando a construir y fortalecer una gran alianza de los pueblos 4 basada en el reconocimiento y respeto de nuestra diversidad y convicciones pero también de nuestros disensos. Siguiendo el camino trazado por los Foros Sociales Panamazónicos, el llamado a la lucha y la resistencia continúa.</spa>
-    </text>
-    <text>
-        <prq/>
-        <spa/>
-    </text>
-    <text>
-        <prq/>
-        <spa/>
-    </text>
-    <text>
-        <prq/>
-        <spa/>
+    <text id="1.31">
+        <sentence lang="prq">Ora nampitsipe amazónico jero VIII FOSPA akantasanotiro ora sabikantsi jero inchatomashi, ankajeme ashintsitero antyaro antsipajeitea jero ora nampitsipe okantara iyosanotero abakasanotantsi. Yoijatero aotsi marojeini Panamazónicos, ora jitachari kisakobentantsi jero ora aijatero tsintsitantsi okantyani.</sentence>
+        <sentence lang="es">Los pueblos amazónicos y andinos reunidos en el VIII FOSPA reafirmamos nuestro compromiso con la vida y la Naturaleza, convocando a construir y fortalecer una gran alianza de los pueblos 4 basada en el reconocimiento y respeto de nuestra diversidad y convicciones pero también de nuestros disensos. Siguiendo el camino trazado por los Foros Sociales Panamazónicos, el llamado a la lucha y la resistencia continúa.</sentence>
     </text>
 </parallel>
