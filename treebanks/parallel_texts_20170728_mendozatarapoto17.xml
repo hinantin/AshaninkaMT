@@ -52,21 +52,20 @@ Por lo tanto, las propuestas recogidas en el Foro se presentan a continuación:
         <sentence lang="prq">Ashintsitakotero aitapake ora okantakotari ashi tseyantsi amatero amashitanakerone añantyari ora Panamazonía kempe jitachari pinatakobenterone inchatomashipe jero aipatsitatsite timantayetarori.</sentence>
         <sentence lang="es">– Exigir que se detenga la implementación de falsas soluciones a la crisis climática en la Panamazonía, como la llamada “economía verde” y la financiarización de la Naturaleza, las cuales conllevan la desterritorialización, entre otros impactos negativos.</sentence>
     </text>
-    <text>
+    <text id="1.12">
         <sentence lang="prq">Ashintsitakotero obametsatempa kipatsi obasatemparo ora ashipe oyotakotane nija iyotero ashi aipatsite.</sentence>
         <sentence lang="es">– Exigimos un ordenamiento territorial que se base en el respeto de nuestra cosmovisión, las fuentes de agua y formas de entender nuestro territorio.</sentence>
     </text>
-    <text>
-        <prq>Ashintsitakotero akanteri pinkatsatirori Peru ishintsitero kantakoyetirori kantakoteri ashi ora nampitsipe amazónicos jeri sharakasati inkenketsate kametsa ashi kantakotirori irobakerari antaberentsi.
-</prq>
-        <spa>– Exigir a los Estados que garanticen el derecho de los pueblos amazónicos y andinos a la comunicación democratizando de manera efectiva los medios y tecnologías.
-</spa>
+    <text id="1.13">
+        <sentence lang="prq">Ashintsitakotero akanteri pinkatsatirori Peru ishintsitero kantakoyetirori kantakoteri ashi ora nampitsipe amazónicos jeri sharakasati inkenketsate kametsa ashi kantakotirori irobakerari antaberentsi.</sentence>
+        <sentence lang="es">– Exigir a los Estados que garanticen el derecho de los pueblos amazónicos y andinos a la comunicación democratizando de manera efectiva los medios y tecnologías.
+</sentence>
     </text>
-    <text>
-        <prq>Ashintsikotero maroni kisantsi tsinanepe jero nampitsipe sabikashiyetatsari iroperori tsinanepe kisakotarori ashi kantakoyeteri.
-</prq>
-        <spa>– Exigimos el fin de todo tipo de violencia contra las mujeres tanto en las comunidades como fuera de ellas, en especial contra las mujeres defensoras de derechos.
-</spa>
+    <text id="1.14">
+        <sentence lang="prq">Ashintsikotero maroni kisantsi tsinanepe jero nampitsipe sabikashiyetatsari iroperori tsinanepe kisakotarori ashi kantakoyeteri.
+</sentence>
+        <sentence lang="es">– Exigimos el fin de todo tipo de violencia contra las mujeres tanto en las comunidades como fuera de ellas, en especial contra las mujeres defensoras de derechos.
+</sentence>
     </text>
     <text>
         <prq>Ora tsinanepe otimatye okisakotearo omatantyari kisakotantsi arotake amenerone ora kantashitachari ashereayetakeri ashi, achempeki jero kipatsi kantakoterone anta otsipaki nampitsi.
