@@ -1,5 +1,14 @@
 <!-- **************************************************************
     For more information write to Richard Castro Mamani rcastro@hinant.in 
+    
+@misc{cushimariano:prel:08,
+  author = {Cushimariano Romano, Rub\'{e}n and Sebasti\'{a}n Q., Richer C.},
+  title = {{\~N}aantsipeta ash{\'a}ninkaki birakochaki. Diccionario Ash{\'a}ninka-Castellano. Versi{\'o}n preliminar},
+  howpublished = {\url{http://www.lengamer.org/publicaciones/diccionarios/}},
+  year = {2008},
+  note = {Visitado: 01/03/2013}
+}
+    
 ****************************************************************** -->
 <parallel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="parallel_texts.xsd">
     <text id="1.1">
