@@ -11,6 +11,7 @@ download:
 	@perl /home/richard/Documents/git/02_AshaninkaMorph_GoogleCode/hntAshaninka/morphology/AshaninkaMorph/generated_states_transitions/httpclient.pl -g /db/HNTAshaninka/ParallelCorpus/parallel_texts_20180505_mesquitaetnomatematica12.xml > parallel_texts_20180505_mesquitaetnomatematica12.xml
 	@perl /home/richard/Documents/git/02_AshaninkaMorph_GoogleCode/hntAshaninka/morphology/AshaninkaMorph/generated_states_transitions/httpclient.pl -g /db/HNTAshaninka/ParallelCorpus/parallel_texts_20180505_apiwtxagestao07.xml > parallel_texts_20180505_apiwtxagestao07.xml
 	@perl /home/richard/Documents/git/02_AshaninkaMorph_GoogleCode/hntAshaninka/morphology/AshaninkaMorph/generated_states_transitions/httpclient.pl -g /db/HNTAshaninka/ParallelCorpus/parallel_texts_20170728_mendozatarapoto17.xml > parallel_texts_20170728_mendozatarapoto17.xml
+	@perl /home/richard/Documents/git/02_AshaninkaMorph_GoogleCode/hntAshaninka/morphology/AshaninkaMorph/generated_states_transitions/httpclient.pl -g /db/HNTAshaninka/ParallelCorpus/parallel_texts_20180828_suarezhistorias04.xml > parallel_texts_20180828_suarezhistorias04.xml
 	@perl /home/richard/Documents/git/02_AshaninkaMorph_GoogleCode/hntAshaninka/morphology/AshaninkaMorph/generated_states_transitions/httpclient.pl -g /db/HNTAshaninka/ParallelCorpus/parallel_texts.xsd > parallel_texts.xsd
 #	@sed -i '1s/^/<?xml version="1.0" encoding="UTF-8"?>\n/' parallel_texts_20171215_cushimarianoprel08.xml
 
