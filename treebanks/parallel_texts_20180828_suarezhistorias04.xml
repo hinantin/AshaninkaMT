@@ -1,0 +1,19 @@
+<!-- 
+
+@book{suarez:historias:04,
+author={Su\'{a}rez Sebasti\'{a}n, Amanda and Pilares Casas, Guido and Vargas, Lita},
+title={Historias Ash\'{a}ninkas para estar despiertos contadas e ilustradas por ni\~{n}as y ni\~{n}os de San Miguel de Marankiari, La Merced, Junin},
+year={2004},
+}
+
+historiasashaninkas_free.pdf
+
+-->
+<parallel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="parallel_texts.xsd">
+    <text id="2.0">
+        <sentence lang="prq">INCHATO TSOMONTE</sentence>
+        <sentence lang="es">EL ARBOL BARRIGÓN</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+</parallel>
