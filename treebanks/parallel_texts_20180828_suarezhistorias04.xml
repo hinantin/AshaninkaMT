@@ -16,4 +16,10 @@ historiasashaninkas_free.pdf
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="2.1">
+        <sentence lang="prq">Inchatotsomonte irointi antaro timatsiri ojempeki isaikantari kamintsi.</sentence>
+        <sentence lang="es">El árbol barrigón es un árbol tremendo pues, tiene su ramas, tiene su duende.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
