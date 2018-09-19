@@ -1,3 +1,14 @@
+<!-- 
+
+@book{minagri:hidrico:13,
+author={Ministerio de Agricultura y Riego, MINAGRI},
+title={Ley de Recursos Hídricos (Nº 29338)},
+year={2013},
+}
+
+
+
+-->
 <parallel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="parallel_texts.xsd">
     <text id="0">
         <sentence lang="prq" normalizationlevel="none">Ñaantsi ashitari Nijasato (Nº 29338)</sentence>
@@ -436,7 +447,7 @@ otsipatari	[o-][NPers][3n.m.poss+][--][=tsipat][VRoot][=to.accompany; to.join; t
         <parsing format="" analysislevel=""/>
     </text>
     <text id="62">
-        <sentence lang="prq">5. La que se encuentra en los humedales y manglares;</sentence>
+        <sentence lang="prq">5. Añayetsire okantsinka patsaetatsi omotya;</sentence>
         <sentence lang="es">5. La que se encuentra en los humedales y manglares;</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
