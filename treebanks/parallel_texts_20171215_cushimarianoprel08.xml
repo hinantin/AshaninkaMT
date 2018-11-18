@@ -2242,7 +2242,18 @@ maanki	[=maanki+m.][NRoot][=snake (ES: sp.de.culebra), serpent]
     <text id="82.1">
         <sentence lang="prq">Pamakenabo noetsare cheenkari. </sentence>
         <sentence lang="es">Tráeme mi camisa negra.</sentence>
-        <morphology/>
+        <morphology>
+
+
+pamakenabo	[p-][VPers][2S/A+][--][=am][VRoot][=to.bring (ES: traer)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-e+fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e[--][=na][+1SG.O/P][--][=vo][+3n.m.O/P]
+
+noetsare	[no-][NPers][1SG.poss+][--][=ketsare+m.+inal@ntsi.][NRoot][=dress (ES: vestido), cushma, cloth (ES: tela)]
+
+cheenkari	[=cheenkari+sem@color.][NRoot][=obscure; black (ES: negro)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="82.2">
