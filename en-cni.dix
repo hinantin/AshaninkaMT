@@ -283,6 +283,7 @@
             A 
         ##### -->
         <e><p><l>aquatic</l><r>inyaaveri<s n="gndr"/>+m.</r></p><par n="Adjectives"/></e>
+        <!-- ES: ser_de_los_mares -->
         <e><p><l>aquatic_being</l><r>inyaaveri<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <!--  -->
         <e><p><l>adjective</l><r>kantaveetachari</r></p><par n="Noun"/></e>
@@ -726,7 +727,8 @@
             parija / pariha / =pari -ha / =to.fall -cl:liquid / EN: 'waterfall'; ES: 'caída.de.agua, cascada'
             ovarijare / ovarihare / o- =pari -ha -re / 3n.m.poss- =to.fall -cl:liquid -aln.poss. / ES: 'su.cascada'  
         -->
-        <e><p><l>waterfall</l><r>pari<s n="gndr"/>+CL:liquid</r></p><par n="Noun"/></e>
+        <e><p><l>waterfall</l><r>pari<s n="add_mi"/>+CL:liquid</r></p><par n="Noun"/></e>
+        <e><p><l>water_inhabitant</l><r>nihaavero<s n="add_mi"/>+CL:agentive<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <!--  -->
         <e><p><l>wasp</l><r>sani<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <!--  -->
