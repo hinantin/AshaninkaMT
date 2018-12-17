@@ -552,6 +552,7 @@
         <e><p><l>name</l><r>vahiro<s n="inal"/>+ntsi<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <!--  -->
         <e><p><l>national</l><r>anampisato<s n="gndr"/>+n.m.</r></p><par n="Adjectives"/></e>
+        <e><p><l>needle</l><r>kitsapi<s n="gndr"/>+m.<s n="poss"/>+ti</r></p><par n="Adjectives"/></e>
         <!-- inchato / =incha -to / =plant -cl:tree / EN: 'tree' ES: 'árbol' -->
         <e><p><l>tree</l><r>incha<s n="add_mi"/>+CL:tree<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <!-- #####
