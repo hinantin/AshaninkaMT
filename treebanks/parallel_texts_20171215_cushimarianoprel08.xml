@@ -1,12 +1,21 @@
 <!-- **************************************************************
     For more information write to Richard Castro Mamani rcastro@hinant.in 
+    
+@misc{cushimariano:prel:08,
+  author = {Cushimariano Romano, Rub\'{e}n and Sebasti\'{a}n Q., Richer C.},
+  title = {{\~N}aantsipeta ash{\'a}ninkaki birakochaki. Diccionario Ash{\'a}ninka-Castellano. Versi{\'o}n preliminar},
+  howpublished = {\url{http://www.lengamer.org/publicaciones/diccionarios/}},
+  year = {2008},
+  note = {Visitado: 01/03/2013}
+}
+    
 ****************************************************************** -->
 <parallel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="parallel_texts.xsd">
     <text id="1.1">
         <sentence lang="prq" normalizationlevel="none">Paamabentya kaakitaki obayeri.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Paamaventya kaakitaki ovayeri.</sentence>
         <sentence lang="es">Cuídense, vienen los guerreros.</sentence>
-        <sentence lang="prq">Beware, the warriors are approaching.</sentence>
+        <sentence lang="en">Beware, the warriors are approaching.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
 
 
@@ -1057,7 +1066,7 @@ shiyakaantsi	[=shiyak][VRoot][=to.take.a.picture (ES: tomar.una.foto)][--][-aant
 
 pamenarotya	[p-][VPers][2S/A+][--][=amen][VRoot][=to.see, to.look, to.look.for, to.look.after, to.take.care.of][--][-a][+REAL]a[--][=ro][+3n.m.O][--][=tya][+N.C.FOC][=urgency, impatience, surprise, exasperation (non-contradictory.emphasis); almost (with.time.adverbs)]
 
-jempe	[=hempe][IndfSpecif][=where]
+jempe	[=hempe][WhPrn][=WH][=INDF/SPECIF (EN: where; ES: dónde,, (EN: who)]
 
 pobatikerori	[p-][VPers][2S/A+][--][ov=][AGT.CAUS+][--][=katik][VRoot][=to.hang (ES: ahorcar)][--][-e][+IRR]e[--][=ro][+3n.m.O][--][=ri][NS][+REL]
 
@@ -1126,7 +1135,7 @@ itotakero	[i-][VPers][3m.S/A+][--][=to][VRoot][=to.cut (ES: cortar)][--][-t][+EP
 
 ???
 
-amporetsate	[Ø-][NPers][3n.m.poss+][--][=amporetsa][NRoot][=intestine][--][-te][Gen][+aln.poss.]te
+amporetsate	[a-][NPers][3n.m.poss+][--][=amporetsa][NRoot][=intestine][--][-te][Gen][+aln.poss.]te
 
 isheeni	[=isheeni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
 
@@ -2211,7 +2220,21 @@ tonkaareki	[=tonkaare+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas]
         <morphology>
 
 
+imintsaabakero	[i-][VPers][3m.S/A+][--][min=][M.CAUS+][--][=tsaav][VRoot][=to.fear. to.be.afraid (ES: tener.miedo)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i~e+n.fut.+C.I@act.v.+RSS@00][MODALITY][+REAL][=after.-ak/-ah]e[--][=ro][+3n.m.O/P]
+
+nana	[=nana+n.m.+voc.+poss@te:ti.][NRoot][=mom, mother (kin.of.a.fe/male; ES: mamá)]
+
+antari	[=antari+m.][AdjRoot][=big; mature]
+
 chebiro	[=cheviro+m.][NRoot][=fish.sp. (ES: macana, porra)]
+
+inkaaricheraaki	[=inkaari+n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)][--][=chera][NRoot][=shore (ES: orilla)][--][-a][+CL:liquid][=liquid][--][-ki][Cas][+LOC_LOC.T]
+
+kemetaka	[=keme][VRoot][=to.be.similar, to.seem, to.resemble, to.be.like][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+maanki	[=maanki+m.][NRoot][=snake (ES: sp.de.culebra), serpent]
+
+.	.[$.]
 
 </morphology>
         <parsing/>
@@ -2219,7 +2242,18 @@ chebiro	[=cheviro+m.][NRoot][=fish.sp. (ES: macana, porra)]
     <text id="82.1">
         <sentence lang="prq">Pamakenabo noetsare cheenkari. </sentence>
         <sentence lang="es">Tráeme mi camisa negra.</sentence>
-        <morphology/>
+        <morphology>
+
+
+pamakenabo	[p-][VPers][2S/A+][--][=am][VRoot][=to.bring (ES: traer)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-e+fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e[--][=na][+1SG.O/P][--][=vo][+3n.m.O/P]
+
+noetsare	[no-][NPers][1SG.poss+][--][=ketsare+m.+inal@ntsi.][NRoot][=dress (ES: vestido), cushma, cloth (ES: tela)]
+
+cheenkari	[=cheenkari+sem@color.][NRoot][=obscure; black (ES: negro)]
+
+.	.[$.]
+
+</morphology>
         <parsing/>
     </text>
     <text id="82.2">
@@ -13122,6 +13156,7 @@ raanakero	[r-][VPers][3m.S/A+][--][=a][VRoot][=to.take (ES: agarrar)][--][-an+so
 mishako	[=mishako][NRoot][=person's.name, NP]
 
 ???
+isheeto	[i-][NPers][3m.poss+][--][=sheeto+n.m.+inal@ntsi.][NRoot][=intestine (ES: tripa, intestino)]
 
 tyaapa	[=tyaapa+n.m.+poss@te.][NRoot][=hen (ES: gallina); chicken]
 

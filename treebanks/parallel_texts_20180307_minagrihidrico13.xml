@@ -1,3 +1,14 @@
+<!-- 
+
+@book{minagri:hidrico:13,
+author={Ministerio de Agricultura y Riego, MINAGRI},
+title={Ley de Recursos Hídricos (Nº 29338)},
+year={2013},
+}
+
+ANA0000219.pdf
+
+-->
 <parallel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="parallel_texts.xsd">
     <text id="0">
         <sentence lang="prq" normalizationlevel="none">Ñaantsi ashitari Nijasato (Nº 29338)</sentence>
@@ -333,8 +344,8 @@ otsipatari	[o-][NPers][3n.m.poss+][--][=tsipat][VRoot][=to.accompany; to.join; t
         <parsing format="" analysislevel=""/>
     </text>
     <text id="45">
-        <sentence lang="prq">11. Principio de tutela jurídica</sentence>
-        <sentence lang="es">11. Intanakarori akantakobenteri obakotachari</sentence>
+        <sentence lang="prq">11. Intanakarori akantakobenteri obakotachari</sentence>
+        <sentence lang="es">11. Principio de tutela jurídica</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
@@ -345,8 +356,135 @@ otsipatari	[o-][NPers][3n.m.poss+][--][=tsipat][VRoot][=to.accompany; to.join; t
         <parsing format="" analysislevel=""/>
     </text>
     <text id="47">
-        <sentence lang="prq"/>
-        <sentence lang="es"/>
+        <sentence lang="prq">OETOTARI I. Obetsikakota okantabaeta</sentence>
+        <sentence lang="es">TÍTULO I. Disposiciones generales</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="48">
+        <sentence lang="prq">Abakojetiro 1°. Iro nija</sentence>
+        <sentence lang="es">Artículo 1º. El agua</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="49">
+        <!-- to be checked !!! -->
+        <sentence lang="prq">Iro nija aparoni ashitari opoña abakiratero, okobapirotatya añantari, amakotaroriokantashitaosarentsikiniokitsote, aisati aminakoterori Anampi.</sentence>
+        <sentence lang="es">El agua es un recurso natural renovable, indispensable para la vida, vulnerable y estratégico para el desarrollo sostenible, el mantenimiento de los sistemas y ciclos naturales que la sustentan, y la seguridad de la Nación.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="50">
+        <sentence lang="prq">Abakojetiro 2°. Oshintsite aisati ibakoetero nija</sentence>
+        <sentence lang="es">Artículo 2º. Dominio y uso público sobre el agua</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="51">
+        <sentence lang="prq">Iro nija ibakoetiro ashitari Anampi.Iro oshintsite aero otime ipimantaetero.Irotake okanta ashi asaekantari aminakoterori irotake opironi maaroni okameetsate, amakotaro aninkamentotsioninteri anampitsite. Tekaatsi pashine ashityarone nija.</sentence>
+        <sentence lang="es">El agua constituye patrimonio de la Nación. El dominio sobre ella es inalienable e imprescriptible. Es un bien de uso público y su administración solo puede ser otorgada y ejercida en armonía con el bien común, la protección ambiental y el interés de la Nación. No hay propiedad privada sobre el agua.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="52">
+        <sentence lang="prq">Abakojetiro3°. Abaemantakotero oninteri anampitsite kobachari asaekira</sentence>
+        <sentence lang="es">Artículo 3º. Declaratoria de interés nacional y necesidad pública</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="53">
+        <sentence lang="prq">Akantakotero okobire anampi aisati kobachari aminakotero apatyakotero ashitari nija okobakari arityaro kameetsa amitakotero antero pashinekipaye amakotyaro oshekite nija okantya ashiperotyaro kameetsari obakirotaje ametaro nija akantakobentero onimoteri obakiro timayetatiri.</sentence>
+        <sentence lang="es">Declárase de interés nacional y necesidad pública la gestión integrada de los recursos hídricos con el propósito de lograr eficiencia y sostenibilidad en el manejo de las cuencas hidrográficas y los acuíferos para la conservación e incremento del agua, así como asegurar su calidad fomentando una nueva cultura del agua, para garantizar la satisfacción de la demanda de las actuales y futuras generaciones.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="54">
+        <sentence lang="prq">Abakojetiro 4°. Obaerotaripe</sentence>
+        <sentence lang="es">Artículo 4º. Denominaciones</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="55">
+        <sentence lang="prq">Arika antero ikantakantaetsire “Ñaantsi” ora “Obakotatya” ayotiro irotake inintakaetati ikantakantaetsire Ñaantsi ora Obakotero. Jebabentirori Anampitsiteotime ikimatsatero Jebabentirori Anampitsite ashi Nija (ANA) okantire saekatire ashitari opoñanijasato.</sentence>
+        <sentence lang="es">Cuando se haga referencia a “la Ley” o “el Reglamento”, se entiende que se trata de la presente Ley o de su Reglamento. La Autoridad Nacional debe entenderse como Autoridad Nacional del Agua (ANA) y el Consejo de Cuenca como Consejo de Recursos Hídricos de Cuenca.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="56">
+        <sentence lang="prq">Abakojetiro 5°. Nija ikantakantaetiro ñaantsi</sentence>
+        <sentence lang="es">Artículo 5º. El agua comprendida en la Ley</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="57">
+        <sentence lang="prq">Nija okobapirotatya iroñaaka ikantakantaetsire Ñaantsi ayotakotaero:</sentence>
+        <sentence lang="es">El agua cuya regulación es materia de la presente Ley comprende lo siguiente:</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="58">
+        <sentence lang="prq">1. Nijatenipaye okeni osaeki opoñara anampi;</sentence>
+        <sentence lang="es">1. La de los ríos y sus afluentes, desde su origen natural;</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="59">
+        <sentence lang="prq">2. Oyabatayetsi okinatsi iroperote shipetarini;</sentence>
+        <sentence lang="es">2.	 La que discurre por cauces artificiales;</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="60">
+        <sentence lang="prq">3. Onkata okametsati ashitaro anampi oshipetari;</sentence>
+        <sentence lang="es">3. La acumulada en forma natural o artificial;</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="61">
+        <sentence lang="prq">4. Añayetsire omoronta okoñate;</sentence>
+        <sentence lang="es">4. La que se encuentra en las ensenadas y esteros;</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="62">
+        <sentence lang="prq">5. Añayetsire okantsinka patsaetatsi omotya;</sentence>
+        <sentence lang="es">5. La que se encuentra en los humedales y manglares;</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="63">
+        <sentence lang="prq">6. Añatarori kitejari nija;</sentence>
+        <sentence lang="es">6. La que se encuentra en los manantiales;</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="64">
+        <sentence lang="prq">7. Opiyeta nijatatire;</sentence>
+        <sentence lang="es">7. La de los nevados y glaciares;</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="65">
+        <sentence lang="prq">8. Obirantareri;</sentence>
+        <sentence lang="es">8. La residual;</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="66">
+        <sentence lang="prq">9. Intsopaesato;</sentence>
+        <sentence lang="es">9. La subterránea;</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="67">
+        <sentence lang="prq">10. Opeñaki opinataabintarontsi;</sentence>
+        <sentence lang="es">10. La de origen minero medicinal;</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="68">
+        <sentence lang="prq">11. Kipatsi osabate;</sentence>
+        <sentence lang="es">11. La geotermal;</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>

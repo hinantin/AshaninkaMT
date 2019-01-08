@@ -52,6 +52,7 @@ amõyasatsi	[=amonya/amõya][NRoot:CPB][=Amonia.river (ES: río.Amonia; PT: Rio.
 ashe	[=ashe][PrnPoss][+1PL]
 
 ???
+aminãtxari	aminãtxari	+?
 
 aipatsite	[a-][NPers][1PL.poss+][--][=kipatsi+n.m.+poss@te:ti.][NRoot][=ground, earth (ES: tierra); mud; land][--][-te][Gen][+aln.poss.]te
 
@@ -298,7 +299,7 @@ wirakotxa	[=virakotxa/wirakotxa][NRoot:CPB][=outsider; white.person (PT: branco)
     </text>
     <text id="34">
         <sentence lang="cpb">9 - Koriyawa:</sentence>
-        <sentence lang="prq">9 - Coco inajá:</sentence>
+        <sentence lang="pt">9 - Coco inajá:</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>

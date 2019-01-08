@@ -155,6 +155,8 @@ cell_<phone> cell_phone $2:NN I
 mobile_<phone> mobile_phone $2:NN I
 money_<contribution> money_contribution $2:NN I
 armored_<catfish> armored_catfish $2:NN I
+aquatic_<being> aquatic_being $2:NN I
+water_<inhabitant> water_inhabitant $2:NN I
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Verbs
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

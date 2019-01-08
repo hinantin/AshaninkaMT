@@ -11,7 +11,7 @@
         <sdef n="addlem"    c="addlem"/>
         <sdef n="adpos"    c="adpositions (pre- or postpositions)"/>
         <!--    deprecated <sdef n="split"    c="1:n translation that need to be split up (-> 2,3.. nodes)"/> -->
-        <sdef n="root_type"    c="quechua root type"/>
+        <sdef n="root_type"    c="root type"/>
         <sdef n="preform"    c="additional wordform, insert before"/>
         <sdef n="postform"    c="additional wordform, insert after"/>
         <sdef n="firstform"    c="additional wordform, insert as first token"/>
@@ -282,6 +282,9 @@
         <!-- #####
             A 
         ##### -->
+        <e><p><l>aquatic</l><r>inyaaveri<s n="gndr"/>+m.</r></p><par n="Adjectives"/></e>
+        <!-- ES: ser_de_los_mares -->
+        <e><p><l>aquatic_being</l><r>inyaaveri<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <!--  -->
         <e><p><l>adjective</l><r>kantaveetachari</r></p><par n="Noun"/></e>
         <!--  -->
@@ -386,6 +389,8 @@
         <!-- antyaro onika / =antyaro =onika / =big =earthquake / ES: un.gran.terremoto, EN: big.earthquake -->
         <!-- otarankantanakari, otzimaki antaro onika / o- =tarank -ant -an -ak -a -ri  o- =tzim -ak -i  =antaro  =onika / 3n.m.s- =to.fall.down -appl.reas -dir -prf -irr -rel  3n.m.s- =to.exist -prf -irr  =big  =earthquake / EN: 'when.the.hills.collapsed.during.a.big.earthquake' \cite[p.169]{mihas:narrative:14} -->
         <e><p><l>earthquake</l><r>onika<s n="preform"/>#antyaro</r></p><par n="Adjectives"/></e>
+        <!-- ES: alargado -->
+        <e><p><l>elongated</l><r>antyarotsantsa</r></p><par n="Adjectives"/></e>
         <!-- EN: 'evil_deed, sin'; ES: 'maldad, pecado' -->
         <e><p><l>evil_deed</l><r>kameetsatatsine<s n="preform"/>#kaari</r></p><par n="Noun"/></e>
         <e><p><l>sin</l><r>kameetsatatsine<s n="preform"/>#kaari</r></p><par n="Noun"/></e>
@@ -547,6 +552,7 @@
         <e><p><l>name</l><r>vahiro<s n="inal"/>+ntsi<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <!--  -->
         <e><p><l>national</l><r>anampisato<s n="gndr"/>+n.m.</r></p><par n="Adjectives"/></e>
+        <e><p><l>needle</l><r>kitsapi<s n="gndr"/>+m.<s n="poss"/>+ti</r></p><par n="Adjectives"/></e>
         <!-- inchato / =incha -to / =plant -cl:tree / EN: 'tree' ES: 'árbol' -->
         <e><p><l>tree</l><r>incha<s n="add_mi"/>+CL:tree<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <!-- #####
@@ -725,7 +731,8 @@
             parija / pariha / =pari -ha / =to.fall -cl:liquid / EN: 'waterfall'; ES: 'caída.de.agua, cascada'
             ovarijare / ovarihare / o- =pari -ha -re / 3n.m.poss- =to.fall -cl:liquid -aln.poss. / ES: 'su.cascada'  
         -->
-        <e><p><l>waterfall</l><r>pari<s n="gndr"/>+CL:liquid</r></p><par n="Noun"/></e>
+        <e><p><l>waterfall</l><r>pari<s n="add_mi"/>+CL:liquid</r></p><par n="Noun"/></e>
+        <e><p><l>water_inhabitant</l><r>nihaavero<s n="add_mi"/>+CL:agentive<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <!--  -->
         <e><p><l>wasp</l><r>sani<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <!--  -->
