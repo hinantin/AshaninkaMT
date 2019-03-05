@@ -89,6 +89,15 @@ QUANDO CRESCEREM.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="7">
+        <sentence lang="cpb">HĨYAAKI ĨTHOMOITA ARI ISAIKI
+        OIRÕTSI, ATSIKAWETAKARI IKIRIKI,
+        KÃTSIMAITXA RAAKIRI EẼTXERIKI
+        ITSITOKAIYAKIRINI.</sentence>
+        <sentence lang="pt"/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
     <text id="">
         <sentence lang="cpb">HĨPE IKAATSIKA PAAKARI
 SHIMA? ARI IKAATSI APITE?
