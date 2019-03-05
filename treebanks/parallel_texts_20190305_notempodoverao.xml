@@ -49,7 +49,17 @@ QUANDO CRESCEREM.</sentence>
         RAKATXAATE IKÕKIRI WEWITO.
         HO! PAMINERITXA ETSĨYAKI, IKOWAKI
         IYAATE EEHATSI IRIRORI!</sentence>
-        <sentence lang="pt"/>
+        <sentence lang="pt">ELE VAI PARTIR COM SEUS IRMÃOS,
+        PIANKO E BIANCA, E SEU TIO WEWITO,
+        PARA UMA PESCARIA.
+        EI! PARACE QUE ETSIYAKI, O CACHORRO,
+        TAMBÉM QUER IR!</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="5">
+        <sentence lang=""/>
+        <sentence lang=""/>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
