@@ -170,4 +170,17 @@ tayri	[=tairi+n.m.][NRoot][=yellow-flowered.tree.sp. (ES: oropel; sci.nm.: erith
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="10">
+        <sentence lang="cpb">HAKA NÃPITSIKI, MAAWOINI
+        EẼTXERIKI ĨYAÃTAWO
+        PÃKOTSIKI, KOMITHAKIRIKA
+        EEHATSI RÕYAAYERO
+        HĨPEOKAATSI IYOTAKIRI.</sentence>
+        <sentence lang="pt">NA ALDEIA, OS MENINOS
+        VÃO TESTAR SUA HABILIDADE NO
+        TREINO DE PONTARIA E MOSTRAR PARA
+        A COMUNIDADE O QUE APRENDERAM.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
 </parallel>
