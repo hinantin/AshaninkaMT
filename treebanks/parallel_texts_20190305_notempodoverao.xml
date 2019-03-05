@@ -43,6 +43,16 @@ QUANDO CRESCEREM.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="4">
+        <sentence lang="cpb">IYAATATXE ITSIPATXARI IRẼTSI PIYÃKO
+        EEHATSI IRITSIRO BIANCA, ROYAATANAKIRI
+        RAKATXAATE IKÕKIRI WEWITO.
+        HO! PAMINERITXA ETSĨYAKI, IKOWAKI
+        IYAATE EEHATSI IRIRORI!</sentence>
+        <sentence lang="pt"/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
     <text id="">
         <sentence lang="cpb">HĨPE IKAATSIKA PAAKARI
 SHIMA? ARI IKAATSI APITE?
