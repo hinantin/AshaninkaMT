@@ -1,0 +1,85 @@
+<parallel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="parallel_texts.xsd">
+    <text id="0">
+        <sentence lang="cpb">ASHI OSARẼTSIPAITEKI</sentence>
+        <sentence lang="pt">NO TEMPO DO VERÃO</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1">
+        <sentence lang="cpb">ISAIKI ASHENĨKAPAINI
+OTHAPIYAKIINI AMOYANI OITA
+AWAIRO NÃPITSI APIWTXA.</sentence>
+        <sentence lang="pt"/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="">
+        <sentence lang="cpb">
+            
+
+HĨPE IKAATSIKA PAAKARI
+SHIMA? ARI IKAATSI APITE?
+PIKÃTERI WEWITO ARIRIKA
+PIMÕKAATAKA, TEKAATSIMA PIINA.
+- IKÃTSI TAYRI.
+
+</sentence>
+        <sentence lang="pt">                                                                                                           
+            
+
+- "QUANTOS PEIXES VOCÊ PESCOU?"
+SÓ DOIS” – PERGUNTA TIO WEWITO
+“AH JÁ DÁ PRA VOCÊ COMER”.
+-“DÁ SIM, VOCÊ NÃO TEM MULHER”.
+-COMPLETA TAYRI
+
+</sentence>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+            
+
+hĩpe	[=hĩpe][IndfSpecifCPB][=where; who]
+
+kaatsika	[=kara~kaa][VRoot:CPB][=COP.CAP (EN: the.amount,, to.be.Nº/#.in.number/quantity_of_sth.)][--][&lt;*-ts][+EP]ts[--][-e~i+fut.+RSS@00000][MODALITY][+IRR]i[--][=ka][+Q]
+
+paakari	[p-][VPers][2S/A+][--][=a][VRoot][=to.get][--][-ak][ASP][+PRF]ak[--][-a][+REAL]a[--][=ri][+3m.O]
+
+shima	[=shima+m.+poss@ni.][NRoot][=fish; fish.sp., boquichico-fish (ES: boquichico, chupadora; sci.nm.: prochilodus.nigricans)]
+
+?	?[$.]
+
+ari	[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+ikaatsi	[i-][VPers][3m.S/A+][--][=kara~kaa][VRoot:CPB][=COP.CAP (EN: the.amount,, to.be.Nº/#.in.number/quantity_of_sth.)][--][&lt;*-ts][+EP]ts[--][-e~i+fut.+RSS@00000][MODALITY][+IRR]i
+
+apite	[=apite][NumeralPRQ][=two]
+
+?	?[$.]
+
+pikãteri	[pi-][VPers][2S/A+][--][=kãt][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-e][+REAL]e[--][=ri][+3m.O]
+
+wewito	[=vevito][NRoot][=person's.name]
+
+aririka	[=ari][PostPol][=PP][--][=rika][+COND]::[=when (temporal.simultaneity), if (expresses.possible.condition)]
+
+pimõkaataka	[pi-][VPers][2S/A+][--][=monkaa][VRoot][=to.measure; to.fulfill][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-a][+REAL]a
+
+,	,[$.]
+
+tekaatsima	[=tekaatsi][NRoot][=none, empty, zero, null][--][-ma][+DUB]
+
+piina	[p-][NPers][2poss+][--][=iina+n.m.+inal@tsi.][NRoot][=mother; wife (kin.of.a.fe/male)]
+
+.	.[$.]
+
+-	-[$.]
+
+ikãtsi	[i-][VPers][3m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-i][+REAL]i
+
+tayri	[=tairi+n.m.][NRoot][=yellow-flowered.tree.sp. (ES: oropel; sci.nm.: erithrina.uley?)]
+
+.	.[$.]
+
+</morphology>
+        <parsing format="" analysislevel=""/>
+    </text>
+</parallel>
