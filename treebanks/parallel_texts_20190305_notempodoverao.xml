@@ -15,6 +15,16 @@ NUMA ALDEIA CHAMADA APIWTXA.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="2">
+        <sentence lang="cpb">OSARẼTSI PAITEKI EẼTXERIKI
+EERO IKIYAANAI ISHIKOIRAKI,
+HATANAKI RANASHIWAITXA
+ITSIPATXAARI ISHENĨKA PAINI,
+IKOWIR IYOTERI.</sentence>
+        <sentence lang="pt"/>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
     <text id="">
         <sentence lang="cpb">HĨPE IKAATSIKA PAAKARI
 SHIMA? ARI IKAATSI APITE?
