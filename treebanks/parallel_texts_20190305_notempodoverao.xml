@@ -29,6 +29,20 @@ QUANDO CRESCEREM.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
+    <text id="3">
+        <sentence lang="cpb">IYAATSI TAYRI ITXARINI, IKOWAKOTERI
+        IYOTÃTXAAWORI RÃTERO TXEKOPI:
+        EEROKA OTSIMATXE PIYOTERI PITOTERI ISHIWÃKI
+        KAMETHA PIYOMATAKAIRO TXEKOPI. KAPIROKOTA
+        EERO ITSIMÃTAWO TSIMERI. IKÃTSI IRIRORI.</sentence>
+        <sentence lang="pt">TAYRI VAI VISITAR O SEU AVÔ PARA
+        APRENDER A FAZER FLECHA:
+        "VOCÊ TÊM QUE CORTAR AS PENAS IGUALZINHO.
+        FLECHA COM PONTA DE TABOCA
+        A CAÇA NÃO RESISTE!" - DIZ ELE.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
     <text id="">
         <sentence lang="cpb">HĨPE IKAATSIKA PAAKARI
 SHIMA? ARI IKAATSI APITE?
