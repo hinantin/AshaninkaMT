@@ -18,6 +18,14 @@ E   Ẽ   Alt + 1EBC   LATIN CAPITAL LETTER E WITH TILDE
 I   Ĩ   Alt + 0128   LATIN CAPITAL LETTER I WITH TILDE
 O   Õ   Alt + 0213   LATIN CAPITAL LETTER O WITH TILDE
 
+À 
+
+the cédille Ç,
+the accent aigu é,
+the accent circonflexe â, ê, î, ô, û, Â, Ê, Î, Ô, Û,
+the accent grave à, è, ù
+and the accent tréma ë, ï, ü.
+
 -->
 <parallel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="parallel_texts.xsd">
     <text id="0">

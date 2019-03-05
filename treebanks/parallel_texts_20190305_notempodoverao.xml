@@ -9,31 +9,23 @@
         <sentence lang="cpb">ISAIKI ASHENĨKAPAINI
 OTHAPIYAKIINI AMOYANI OITA
 AWAIRO NÃPITSI APIWTXA.</sentence>
-        <sentence lang="pt"/>
+        <sentence lang="pt">OS ASHANINKA DAQUI VIVEM NA BEIRINHA
+DO BRASIL, ÀS MARGENS DO RIO AMÔNIA,
+NUMA ALDEIA CHAMADA APIWTXA.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="">
-        <sentence lang="cpb">
-            
-
-HĨPE IKAATSIKA PAAKARI
+        <sentence lang="cpb">HĨPE IKAATSIKA PAAKARI
 SHIMA? ARI IKAATSI APITE?
 PIKÃTERI WEWITO ARIRIKA
 PIMÕKAATAKA, TEKAATSIMA PIINA.
-- IKÃTSI TAYRI.
-
-</sentence>
-        <sentence lang="pt">                                                                                                           
-            
-
-- "QUANTOS PEIXES VOCÊ PESCOU?"
+- IKÃTSI TAYRI.</sentence>
+        <sentence lang="pt">- "QUANTOS PEIXES VOCÊ PESCOU?"
 SÓ DOIS” – PERGUNTA TIO WEWITO
 “AH JÁ DÁ PRA VOCÊ COMER”.
 -“DÁ SIM, VOCÊ NÃO TEM MULHER”.
--COMPLETA TAYRI
-
-</sentence>
+-COMPLETA TAYRI</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
             
 
