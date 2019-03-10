@@ -150,7 +150,8 @@ wirakotxa	[=virakotxa/wirakotxa][NRoot:CPB][=outsider; white.person (PT: branco)
         <parsing format="" analysislevel=""/>
     </text>
     <text id="8">
-        <sentence lang="cpb">2 - okithoki itxato-payni:</sentence>
+        <sentence lang="cpb" normalizationlevel="none">2 - okithoki itxato-payni:</sentence>
+        <sentence lang="cpb" normalizationlevel="normalized-alphabet">2 - okithoki ĩtxato-payni:</sentence>
         <sentence lang="pt">2 - Semente Florestal:</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
