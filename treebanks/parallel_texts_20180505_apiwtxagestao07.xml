@@ -157,7 +157,9 @@ wirakotxa	[=virakotxa/wirakotxa][NRoot:CPB][=outsider; white.person (PT: branco)
         <parsing format="" analysislevel=""/>
     </text>
     <text id="9">
-        <sentence lang="cpb">Opoya 1993 aretakari 1996 anãpiki awetsiikakiro akoyite apawo-payni itxato okithoki ashi opimãtxaa ( ãpeniroki, paato, tairi, kowe*, sãtari, yopo, hiriwatsiiki, sãtsiimatsiiki, etatsi otsipa-payni.)</sentence>
+        <sentence lang="cpb" normalizationlevel="none">Opoya 1993 aretakari 1996 anãpiki awetsiikakiro akoyite apawo-payni itxato okithoki ashi opimãtxaa ( ãpeniroki, paato, tairi, kowe*, sãtari, yopo, hiriwatsiiki, sãtsiimatsiiki, etatsi otsipa-payni.)</sentence>
+        <!-- not completed -->
+        <sentence lang="cpb" normalizationlevel="normalized-alphabet">Opõya 1993 aretakari 1996 anãpiki awetsiikakiro akoyite apawo-payni itxato okithoki ashi opimãtxaa ( ãpeniroki, paato, tairi, kowe*, sãtari, yopo, hiriwatsiiki, sãtsiimatsiiki, etatsi otsipa-payni.)</sentence>
         <sentence lang="pt">De 1993 a 1996 a comunidade se organizou para fazer a coleta e venda de algumas espécies de sementes florestais (mutamba, atopa, mulateiro, mulungu da várzea, copaíba, cedro, aguano, bálsamo, san pedro, cumaru, pau d’arco, etc).</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
