@@ -54,7 +54,21 @@ foreach my $leftelement (sort keys %words) {
     $left =~ s/\./_/ig;
     # listing elements 
     foreach my $right (keys %{ $words{$leftelement} }) {
-      print STDERR "        <e><p><l>$left</l><r>$right</r></p><par n=\"$section\"/></e>\n";
+      
+      my $rightelementanalysis = "";
+      for my $rightelement (split /\+|~/, $right) {
+        if ($rightelement =~ /(.*)@(.*)/) {
+          my $rightelementlabel = lc $1;
+          my $rightelementvalue = $2;
+          $rightelementvalue =~ s/\.$//ig; 
+          if ($rightelementvalue =~ /^\//) {
+            $rightelementvalue =~ s/\//\+/ig; $rightelementvalue =~ s/:/@/ig; 
+          } else { $rightelementvalue = "+$rightelementvalue"; }
+          $rightelementanalysis = "$rightelementanalysis<s n=\"$rightelementlabel\"/>$rightelementvalue";
+        }
+        else { $rightelementanalysis = $rightelement; }
+      }
+      print STDERR "        <e><p><l>$left</l><r>$rightelementanalysis</r></p><par n=\"$section\"/></e>\n";
       #printf "%-8s %s\n", $leftelement, $words{$leftelement};
     }
 }
