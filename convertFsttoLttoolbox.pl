@@ -20,4 +20,12 @@ GetOptions (
 'label=s' => \$label, 
 ) or die " Usage:  $0 $options\n"; 
 
+my $file;
+while (defined($file = shift @files)) {
+open INFO, $file or die "Could not open $file: $!";
+ while (<INFO>)
+ {
 
+ }
+close(INFO);
+}
