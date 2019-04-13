@@ -28,7 +28,7 @@ open INFO, $file or die "Could not open $file: $!";
  if (m/$label/) { 
    my $line = $_;
    if ($line =~ /\[=(.*)\]\[VRoot/) {
-     print STDERR "$1\n";
+     print STDERR "        <e><p><l>advise</l><r>$1</r></p><par n="Verb"/></e>\n";
    }
  }
  }
