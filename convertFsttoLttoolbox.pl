@@ -25,7 +25,9 @@ while (defined($file = shift @files)) {
 open INFO, $file or die "Could not open $file: $!";
  while (<INFO>)
  {
+ if (m/$label/) { 
 
+ }
  }
 close(INFO);
 }
