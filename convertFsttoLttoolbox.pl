@@ -33,6 +33,11 @@ open INFO, $file or die "Could not open $file: $!";
      $right = $1;
      $left = $2;
    }
+
+for my $leftelement (split /;\s/, $left) {
+    print $leftelement, "\n";
+}
+
    print STDERR "        <e><p><l>$left</l><r>$right</r></p><par n=\"$section\"/></e>\n";
  }
  }
