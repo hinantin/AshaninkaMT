@@ -1,5 +1,18 @@
 ### Machine Translation English - Ashaninka 
 
+How to download
+===============
+
+* Using `wget`
+```
+$ wget https://github.com/hinantin/AshaninkaMT/archive/master.zip 
+```
+
+* Cloning the repository
+```
+$ git clone https://github.com/hinantin/AshaninkaMT
+```
+
 #### Installing lttoolbox
 
 In order to run this lexica you need to install LtToolbox (http://wiki.apertium.org/wiki/Lttoolbox), you can download the latest version of LtToolbox here:
