@@ -29,11 +29,9 @@ open INFO, $file or die "Could not open $file: $!";
    my $line = $_;
    my $right = undef;
    my $left = undef;
-   if ($line =~ /\[=(.*)\]\[VRoot/) {
+   if ($line =~ /\[=(.*)\]\[VRoot\]\[=(.*)\]\"/) {
      $right = $1;
-   }
-   if ($line =~ /VRoot\]\[=(.*)\]\"/) {
-     $left = $1;
+     $left = $2;
    }
    print STDERR "        <e><p><l>$left</l><r>$right</r></p><par n=\"$section\"/></e>\n";
  }
