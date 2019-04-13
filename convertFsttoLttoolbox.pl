@@ -6,6 +6,7 @@ use utf8;
 binmode STDIN, ':utf8';
 binmode STDOUT, ':utf8';
 use Getopt::Long qw(GetOptions);
+use Data::Dumper;
 
 my $outputfilename = '.dix';
 my $section = 'Verb';
@@ -21,6 +22,8 @@ GetOptions (
 ) or die " Usage:  $0 $options\n"; 
 
 my $file;
+my %words;
+my $id = 0;
 while (defined($file = shift @files)) {
 open INFO, $file or die "Could not open $file: $!";
  while (<INFO>)
@@ -34,12 +37,26 @@ open INFO, $file or die "Could not open $file: $!";
      $left = $2;
    }
 
-for my $leftelement (split /;\s/, $left) {
-    print $leftelement, "\n";
+for my $leftelement (split /;{1,2}\s/, $left) {
+   $id++;
+   if ($leftelement =~ /to\.(.*)\s\(/) { $words{$1}{$right} = $id; }
+   else { $leftelement =~ s/to\.//ig; $words{$leftelement}{$right} = $id; }
 }
 
-   print STDERR "        <e><p><l>$left</l><r>$right</r></p><par n=\"$section\"/></e>\n";
  }
+
  }
 close(INFO);
 }
+
+foreach my $leftelement (sort keys %words) {
+    my $left = $leftelement; 
+    $left =~ s/\./_/ig;
+    # listing elements 
+    foreach my $right (keys %{ $words{$leftelement} }) {
+      print STDERR "        <e><p><l>$left</l><r>$right</r></p><par n=\"$section\"/></e>\n";
+      #printf "%-8s %s\n", $leftelement, $words{$leftelement};
+    }
+}
+
+
