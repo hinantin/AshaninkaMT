@@ -24,6 +24,7 @@
         <sdef n="voc"    c="vocative FLAGS +N (None). +1SG, +2SG, +3SG, +1PL, +2PL, +3PL"/>
         <sdef n="num"    c="number +1SG, +2SG, 3SG, 1PL. 2PL, 3PL"/>
         <sdef n="kinship"    c="+m.ego, +n.m.ego"/>
+        <sdef n="inf"    c="infinitive: aantsi, antsi, agaantsi"/>
         <!-- Location -->
         <sdef n="loc"    c="location"/>
         <sdef n="verbmi"    c="verbal morphology needed for generation"/>
