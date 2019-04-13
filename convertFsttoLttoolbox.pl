@@ -68,7 +68,7 @@ foreach my $leftelement (sort keys %words) {
         }
         else { $rightelementanalysis = $rightelement; }
       }
-      print STDERR "        <e><p><l>$left</l><r>$rightelementanalysis</r></p><par n=\"$section\"/></e>\n";
+      print STDOUT "        <e><p><l>$left</l><r>$rightelementanalysis</r></p><par n=\"$section\"/></e>\n";
       #printf "%-8s %s\n", $leftelement, $words{$leftelement};
     }
 }

@@ -154,130 +154,25 @@
         <e><p><l>theirs</l><r>ashiite<s n="num"/>+3PL<s n="gndr"/>+n.m.</r></p><par n="Possessive_pronoun"/></e>
     </section>
     <section id="verbs" type="standard">
-        <!-- #####
-            A 
-        ##### -->
-        <e><p><l>advise</l><r>kamant</r></p><par n="Verb"/></e>
-        <!-- #####
-            B 
-        ##### -->
-        <e><p><l>be</l><r>kant</r></p><par n="Verb"/></e>
-        <e><p><l>be</l><r>na</r></p><par n="Verb"/></e>
-        <!--  -->
-        <e><p><l>be_bored</l><r>shem</r></p><par n="Verb"/></e>
+        <e><p><l>advise</l><r>kamant<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
+        <e><p><l>be</l><r>kant<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
+        <e><p><l>be</l><r>na<s n="inf"/>+EP@t+antsi</r></p><par n="Verb"/></e>
+        <e><p><l>be_able</l><r>kant<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
+        <e><p><l>be_bored</l><r>shem<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>be_of_the_same_group</l><r>shani</r></p><par n="Verb"/></e>
         <e><p><l>be_of_the_same_group</l><r>sheni</r></p><par n="Verb"/></e>
-        <e><p><l>bring</l><r>am</r></p><par n="Verb"/></e>
-        <!-- #####
-            C 
-        ##### -->
-        <e><p><l>confront</l><r>tsinkant</r></p><par n="Verb"/></e>
-        <!-- #####
-            D 
-        ##### -->
-        <e><p><l>drink</l><r>ir</r></p><par n="Verb"/></e>
-        <!-- #####
-            E 
-        ##### -->
-        <!-- #####
-            F 
-        ##### -->
-        <e><p><l>fall</l><r>pary</r></p><par n="Verb"/></e>
-        <e><p><l>fall_into</l><r>pary</r></p><par n="Verb"/></e>
-        <!--  -->
-        <e><p><l>fight</l><r>antavak</r></p><par n="Verb"/></e>
-        <!-- #####
-            G 
-        ##### -->
-        <e><p><l>go</l><r>ha</r></p><par n="Verb"/></e>
-        <!-- #####
-            H 
-        ##### -->
-        <e><p><l>hug</l><r>avitsano</r></p><par n="Verb"/></e>
-        <!-- to hunt, to poach, to prey on sb./sth., kinavai -->
-        <e><p><l>hunt</l><r>kin<s n="add_mi"/>+EP@a+DUR</r></p><par n="Verb"/></e>
-        <!-- #####
-            I 
-        ##### -->
-        <!-- #####
-            J 
-        ##### -->
-        <e><p><l>jump</l><r>mit</r></p><par n="Verb"/></e>
-        <e><p><l>jump</l><r>mitah</r></p><par n="Verb"/></e>
-        <!-- #####
-            K 
-        ##### -->
-        <!-- #####
-            L 
-        ##### -->
-        <e><p><l>live</l><r>any</r></p><par n="Verb"/></e>
-        <e><p><l>live</l><r>anyi</r></p><par n="Verb"/></e>
-        <!-- #####
-            M 
-        ##### -->
-        <!-- #####
-            N 
-        ##### -->
-        <!-- #####
-            O 
-        ##### -->
-        <!-- #####
-            P 
-        ##### -->
-        <e><p><l>poach</l><r>kin<s n="add_mi"/>+EP@a+DUR</r></p><par n="Verb"/></e>
-        <e><p><l>pound</l><r>tsink</r></p><par n="Verb"/></e>
-        <e><p><l>prey_on</l><r>kin<s n="add_mi"/>+EP@a+DUR</r></p><par n="Verb"/></e>
-        <!-- #####
-            Q 
-        ##### -->
-        <!-- #####
-            R 
-        ##### -->
-        <!-- #####
-            S 
-        ##### -->
-        <!--  -->
-        <e><p><l>scorn</l><r>manin</r></p><par n="Verb"/></e>
-        <!--  -->
-        <e><p><l>sleep</l><r>maa</r></p><par n="Verb"/></e>
-        <!--  -->
-        <e><p><l>look_down_on</l><r>manin</r></p><par n="Verb"/></e>
-        <!-- tsipariantsi / =tsipa -ri -antsi / =to.be.together -rev -inf / EN: 'share'; ES: 'repartir' -->
-        <e><p><l>share</l><r>tsipa<s n="add_mi"/>+REV</r></p><par n="Verb"/></e>
-        <!-- #####
-            T 
-        ##### -->
-        <e><p><l>there_be</l><r>choora</r></p><par n="Verb"/></e>
-        <e><p><l>there_be</l><r>ainiro</r></p><par n="Verb"/></e>
-        <e><p><l>there_will_be</l><r>choora</r></p><par n="Verb"/></e>
-        <e><p><l>there_will_be</l><r>ainiro</r></p><par n="Verb"/></e>
-        <!--  -->
-        <e><p><l>there_be_not</l><r>aneerohi<s n="preform"/>#te</r></p><par n="Verb"/></e>
-        <e><p><l>there_be_not</l><r>anyeerohi<s n="preform"/>#te</r></p><par n="Verb"/></e>
-        <e><p><l>there_be_not</l><r>tekatsi</r></p><par n="Verb"/></e>
-        <e><p><l>there_will_be_nothing</l><r>tekatsi</r></p><par n="Verb"/></e>
-        <!-- #####
-            U 
-        ##### -->
-        <!-- #####
-            V 
-        ##### -->
-        <e><p><l>shame</l><r>vashivent</r></p><par n="Verb"/></e>
-        <!-- #####
-            W 
-        ##### -->
-        <e><p><l>want</l><r>kov</r></p><par n="Verb"/></e>
-        <!-- to work, antavai -->
-        <e><p><l>work</l><r>ant<s n="add_mi"/>+EP@a+DUR</r></p><par n="Verb"/></e>
-        <!-- #####
-            X 
-        ##### -->
-        <!-- #####
-            Y 
-        ##### -->
-        <!-- #####
-            Z 
-        ##### -->
+        <e><p><l>bring</l><r>am<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
+        <e><p><l>call</l><r>kant<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
+        <e><p><l>disembowel</l><r>kampoiri</r></p><par n="Verb"/></e>
+        <e><p><l>do</l><r>kant<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
+        <e><p><l>drink</l><r>ir<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
+        <e><p><l>fall</l><r>pary<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
+        <e><p><l>fight</l><r>antavak<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
+        <e><p><l>get_impatient</l><r>shem<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
+        <e><p><l>happen</l><r>kant<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
+        <e><p><l>inform</l><r>kamant<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
+        <e><p><l>say</l><r>kant<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
+        <e><p><l>vomit</l><r>kamarank<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
     </section>
     <section id="nouns" type="standard">
         <!-- #####
