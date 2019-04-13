@@ -27,9 +27,15 @@ open INFO, $file or die "Could not open $file: $!";
  {
  if (m/$label/) { 
    my $line = $_;
+   my $right = undef;
+   my $left = undef;
    if ($line =~ /\[=(.*)\]\[VRoot/) {
-     print STDERR "        <e><p><l>advise</l><r>$1</r></p><par n="Verb"/></e>\n";
+     $right = $1;
    }
+   if ($line =~ /VRoot\]\[=(.*)\]\"/) {
+     $left = $1;
+   }
+   print STDERR "        <e><p><l>$left</l><r>$right</r></p><par n=\"$section\"/></e>\n";
  }
  }
 close(INFO);
