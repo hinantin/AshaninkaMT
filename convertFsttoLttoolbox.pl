@@ -8,14 +8,16 @@ binmode STDOUT, ':utf8';
 use Getopt::Long qw(GetOptions);
 
 my $outputfilename = '.dix';
-my $label = 'Verb';
+my $section = 'Verb';
+my $label = '@section:verb@';
 
 my @files;
 my $options = "--file file_1 --file file_2 ... ";
 GetOptions (
 'file=s' => \@files,
 'outputfilename=s' => \$outputfilename, 
+'section=s' => \$section, 
 'label=s' => \$label, 
-) or die " Usage:  $0 $options\n";
+) or die " Usage:  $0 $options\n"; 
 
 
