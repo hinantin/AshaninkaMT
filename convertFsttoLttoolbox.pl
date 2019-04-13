@@ -26,7 +26,10 @@ open INFO, $file or die "Could not open $file: $!";
  while (<INFO>)
  {
  if (m/$label/) { 
-
+   my $line = $_;
+   if ($line =~ /\[=(.*)\]\[VRoot/) {
+     print STDERR "$1\n";
+   }
  }
  }
 close(INFO);
