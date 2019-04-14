@@ -51,7 +51,8 @@ close(INFO);
 
 foreach my $leftelement (sort keys %words) {
     my $left = $leftelement; 
-    $left =~ s/\.sb\.//ig;
+    $left =~ s/\.sb\.$//ig;
+    $left =~ s/\.sth\.$//ig;
     $left =~ s/\./_/ig;
     # listing elements 
     foreach my $right (keys %{ $words{$leftelement} }) {
