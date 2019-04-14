@@ -1,6 +1,6 @@
 extractbilingualvocab:
 	@cat en-cni.dix.part1
-	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/vroot.prq.foma --file ../AshaninkaMorph/oroot.prq.foma --file neg.prq.foma 
+	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/vroot.prq.foma --file ../AshaninkaMorph/oroot.prq.foma --file ../AshaninkaMorph/neg.prq.foma 
 	@cat en-cni.dix.part2
 
 compile:
