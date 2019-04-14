@@ -21,6 +21,7 @@ GetOptions (
 'label=s' => \$label, 
 ) or die " Usage:  $0 $options\n"; 
 
+# FIRST PART 
 my $file;
 my %words;
 my $id = 0;
@@ -49,13 +50,17 @@ for my $leftelement (split /,\s|;{1,2}\s/, $left) {
 close(INFO);
 }
 
+
+# sECOND PART 
 foreach my $leftelement (sort keys %words) {
+    # left element treatment 
     my $left = $leftelement; 
     $left =~ s/\.sb\.$//ig;
     $left =~ s/\.sth\.$//ig;
     $left =~ s/\.sb\.\/sth\.$//ig;
     $left =~ s/\./_/ig;
     # listing elements 
+    # right element treatment 
     foreach my $right (keys %{ $words{$leftelement} }) {
       
       my $rightelementanalysis = "";
@@ -69,8 +74,17 @@ foreach my $leftelement (sort keys %words) {
           } else { $rightelementvalue = "+$rightelementvalue"; }
           $rightelementanalysis = "$rightelementanalysis<s n=\"$rightelementlabel\"/>$rightelementvalue";
         }
-        else { $rightelementanalysis = $rightelement; }
+        # RIGHT ROOT TREATMENT 
+        else { 
+          if ($rightelement =~ /(.*)\/(.*)/) {
+            $rightelementanalysis = $1; 
+          }
+          else {
+            $rightelementanalysis = $rightelement; 
+          }
+        }
       }
+      # printing the result to STDOUT 
       print STDOUT "        <e><p><l>$left</l><r>$rightelementanalysis</r></p><par n=\"$section\"/></e>\n";
       #printf "%-8s %s\n", $leftelement, $words{$leftelement};
     }
