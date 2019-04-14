@@ -73,7 +73,7 @@ foreach my $leftelement (sort keys %words) {
     $left =~ s/\.sb\.$//ig;
     $left =~ s/\.sth\.$//ig;
     $left =~ s/\.sb\.\/sth\.$//ig;
-    $left =~ s/NEG\.EXIST:\s//ig;
+    $left =~ s/[NEG\.EXIST|EXIST]:\s//ig;
     # replacements 
     $left =~ s/\./_/ig;
     # listing elements 
