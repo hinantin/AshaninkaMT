@@ -69,9 +69,12 @@ foreach my $leftelement (sort keys %words) {
     # left element treatment 
     #print "$leftelement\n";
     my $left = $leftelement; 
+    # deletions 
     $left =~ s/\.sb\.$//ig;
     $left =~ s/\.sth\.$//ig;
     $left =~ s/\.sb\.\/sth\.$//ig;
+    $left =~ s/NEG.EXIST:\s//ig;
+    # replacements 
     $left =~ s/\./_/ig;
     # listing elements 
     # right element treatment 
