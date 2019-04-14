@@ -44,8 +44,8 @@ for my $leftset (split /;{1,2}\s/, $left) {
   # ENGLISH 
   for my $leftelement (split /,\s/, $1) {
    $id++;
-   if ($leftelement =~ /to\.(.*)\s\(/) { $words{$1}{$right} = $id; }
-   else { $leftelement =~ s/to\.//ig; $words{$leftelement}{$right} = $id; }
+   if ($leftelement =~ /to\.(.*)\s\(/) { $words{$1}{$right} = $id; } # extract only left side 
+   else { $leftelement =~ s/^to\.//ig; $words{$leftelement}{$right} = $id; }
   }
   #NOT ENGLISH
  } else {
