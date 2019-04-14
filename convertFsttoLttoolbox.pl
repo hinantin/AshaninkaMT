@@ -37,7 +37,7 @@ open INFO, $file or die "Could not open $file: $!";
      $left = $2;
    }
 
-for my $leftelement (split /;{1,2}\s/, $left) {
+for my $leftelement (split /,\s|;{1,2}\s/, $left) {
    $id++;
    if ($leftelement =~ /to\.(.*)\s\(/) { $words{$1}{$right} = $id; }
    else { $leftelement =~ s/to\.//ig; $words{$leftelement}{$right} = $id; }
