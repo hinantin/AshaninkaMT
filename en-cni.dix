@@ -160,19 +160,19 @@
         <e><p><l>EXIST (EN: there_is/are</l><r>ainiro</r></p><par n="Verb"/></e>
         <e><p><l>there_be_not</l><r>te_aneerohi</r></p><par n="Verb"/></e>
         <e><p><l>there_be_not</l><r>te_anyeerohi</r></p><par n="Verb"/></e>
-        <e><p><l>NOT_EXIST</l><r>tekatsi</r></p><par n="Verb"/></e>
-        <e><p><l>NOT_POSSESS</l><r>tekatsi</r></p><par n="Verb"/></e>
+        <e><p><l>there_be_not</l><r>tekatsi</r></p><par n="Verb"/></e>
+        <e><p><l>NEG_POSSESS</l><r>tekatsi</r></p><par n="Verb"/></e>
         <e><p><l>POSSESS</l><r>ainiro</r></p><par n="Verb"/></e>
         <e><p><l>accompany</l><r>tsipa<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>advise</l><r>kamant<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
-        <e><p><l>be</l><r>kant<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>be</l><r>na<s n="inf"/>+EP@t+antsi</r></p><par n="Verb"/></e>
+        <e><p><l>be</l><r>kant<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>be_able</l><r>kant<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
-        <e><p><l>be_alive</l><r>any<s n="inf"/>+(a)antsi</r></p><par n="Verb"/></e>
         <e><p><l>be_alive</l><r>anyi<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
+        <e><p><l>be_alive</l><r>any<s n="inf"/>+(a)antsi</r></p><par n="Verb"/></e>
         <e><p><l>be_bored</l><r>shem<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
-        <e><p><l>be_of_the_same_group</l><r>shani</r></p><par n="Verb"/></e>
         <e><p><l>be_of_the_same_group</l><r>sheni</r></p><par n="Verb"/></e>
+        <e><p><l>be_of_the_same_group</l><r>shani</r></p><par n="Verb"/></e>
         <e><p><l>be_together</l><r>tsipa<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>bring</l><r>am<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>call</l><r>kant<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
@@ -190,8 +190,8 @@
         <e><p><l>join</l><r>tsipa<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>jump</l><r>mit<s n="inf"/>+aantsi:agaantsi</r></p><par n="Verb"/></e>
         <e><p><l>jump</l><r>mitah<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
-        <e><p><l>live</l><r>anyi<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>live</l><r>any<s n="inf"/>+(a)antsi</r></p><par n="Verb"/></e>
+        <e><p><l>live</l><r>anyi<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>look_down_on</l><r>manin<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>poach</l><r>kin</r></p><par n="Verb"/></e>
         <e><p><l>pound</l><r>tsink<s n="inf"/>+V</r></p><par n="Verb"/></e>
@@ -200,6 +200,7 @@
         <e><p><l>scorn</l><r>manin<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>shame</l><r>vashivent<s n="inf"/>+antsi</r></p><par n="Verb"/></e>
         <e><p><l>sleep</l><r>maa</r></p><par n="Verb"/></e>
+        <e><p><l>there_will_be_nothing</l><r>tekatsi</r></p><par n="Verb"/></e>
         <e><p><l>vomit</l><r>kamarank<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>want</l><r>kov<s n="inf"/>+antsi</r></p><par n="Verb"/></e>
         <e><p><l>work</l><r>antavai<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
