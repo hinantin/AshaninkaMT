@@ -37,11 +37,24 @@ open INFO, $file or die "Could not open $file: $!";
      $right = $1;
      $left = $2;
    }
-
-for my $leftelement (split /,\s|;{1,2}\s/, $left) {
+#print "$left\n";
+# SPLITING LEFT SET INTO ELEMENTS
+for my $leftset (split /;{1,2}\s/, $left) {
+ if ($leftset =~ /(.*)\s\((.*)\)/) {
+  # ENGLISH 
+  for my $leftelement (split /,\s/, $1) {
    $id++;
    if ($leftelement =~ /to\.(.*)\s\(/) { $words{$1}{$right} = $id; }
    else { $leftelement =~ s/to\.//ig; $words{$leftelement}{$right} = $id; }
+  }
+  #NOT ENGLISH
+ } else {
+  for my $leftelement (split /,\s/, $leftset) {
+   $id++;
+   if ($leftelement =~ /to\.(.*)\s\(/) { $words{$1}{$right} = $id; }
+   else { $leftelement =~ s/to\.//ig; $words{$leftelement}{$right} = $id; }
+  }
+ }
 }
 
  }
@@ -54,6 +67,7 @@ close(INFO);
 # sECOND PART 
 foreach my $leftelement (sort keys %words) {
     # left element treatment 
+    #print "$leftelement\n";
     my $left = $leftelement; 
     $left =~ s/\.sb\.$//ig;
     $left =~ s/\.sth\.$//ig;
@@ -65,6 +79,7 @@ foreach my $leftelement (sort keys %words) {
       
       my $rightelementanalysis = "";
       for my $rightelement (split /\+|~/, $right) {
+        # EXTRACTING LABELS 
         if ($rightelement =~ /(.*)@(.*)/) {
           my $rightelementlabel = lc $1;
           my $rightelementvalue = $2;
@@ -75,7 +90,8 @@ foreach my $leftelement (sort keys %words) {
           $rightelementanalysis = "$rightelementanalysis<s n=\"$rightelementlabel\"/>$rightelementvalue";
         }
         # RIGHT ROOT TREATMENT 
-        else { 
+        else {
+          #print "$rightelement\n"; 
           if ($rightelement =~ /(.*)\/(.*)/) {
             $rightelementanalysis = $1; 
           }
