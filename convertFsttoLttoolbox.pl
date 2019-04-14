@@ -100,6 +100,9 @@ foreach my $leftelement (sort keys %words) {
           if ($rightelement =~ /(.*)\/(.*)/) {
             $rightelementanalysis = $1; 
           }
+          elsif ($rightelement =~ /(.*)_(.*)/) {
+            $rightelementanalysis = "$2<s n=\"preform\"/>#$1"; 
+          }
           else {
             $rightelementanalysis = $rightelement; 
           }
