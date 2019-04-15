@@ -110,7 +110,7 @@ foreach my $leftelement (sort keys %words) { # SORTING ALPHABETICALLY
         if ($rightelement =~ /(.*)@(.*)/) {
           my $rightelementlabel = lc $1;
           my $rightelementvalue = $2;
-          if ($rightelementvalue !~ /gndr/) { $rightelementvalue =~ s/\.$//ig; } # deleting last dot (.) 
+          if ($rightelementlabel !~ /gndr/) { $rightelementvalue =~ s/\.$//ig; } # deleting last dot (.) 
           if ($rightelementvalue =~ /^\//) {
             $rightelementvalue =~ s/\//\+/ig; $rightelementvalue =~ s/:/@/ig; 
           } else { $rightelementvalue = "+$rightelementvalue"; }
