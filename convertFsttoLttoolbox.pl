@@ -8,6 +8,14 @@ binmode STDOUT, ':utf8';
 use Getopt::Long qw(GetOptions);
 use Data::Dumper;
 
+sub volume {
+  my $height = shift;
+  my $width = shift;
+  my $depth = shift;
+
+  return $height * $width * $depth;
+}
+
 my $outputfilename = '.dix';
 my $section = 'Verb';
 my $label = '@section:verb@';
