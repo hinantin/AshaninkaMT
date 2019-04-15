@@ -64,7 +64,7 @@ close(INFO);
 }
 
 
-# sECOND PART 
+# SECOND PART 
 foreach my $leftelement (sort keys %words) {
     # left element treatment 
     #print "$leftelement\n";
