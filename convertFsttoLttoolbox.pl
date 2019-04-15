@@ -48,7 +48,11 @@ open INFO, $file or die "Could not open $file: $!";
      $left = $2;
    }
 #print "$left\n";
-# SPLITING LEFT SET INTO ELEMENTS
+# BEGIN: SPLITING LEFT SET INTO ELEMENTS
+if ($left =~ /(.*)\s\(/) { 
+  $left = $1;
+}
+
 for my $leftset (split /;{1,2}\s/, $left) {
  if ($leftset =~ /(.*)\s\((.*)\)/) {
   # ENGLISH 
@@ -69,6 +73,8 @@ for my $leftset (split /;{1,2}\s/, $left) {
   }
  }
 }
+
+# END: SPLITING LEFT SET INTO ELEMENTS
 
  }
 
