@@ -73,7 +73,7 @@ close(INFO);
 
 
 # SECOND PART 
-foreach my $leftelement (sort keys %words) {
+foreach my $leftelement (sort keys %words) { # SORTING ALPHABETICALLY 
     # left element treatment 
     #print "$leftelement\n";
     my $left = $leftelement; 
