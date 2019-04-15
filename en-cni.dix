@@ -164,17 +164,18 @@
         <e><p><l>POSSESS</l><r>ainiro</r></p><par n="Verb"/></e>
         <e><p><l>accompany</l><r>tsipa<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>advise</l><r>kamant<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
-        <e><p><l>be</l><r>na<s n="inf"/>+EP@t+antsi</r></p><par n="Verb"/></e>
         <e><p><l>be</l><r>kant<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
+        <e><p><l>be</l><r>na<s n="inf"/>+EP@t+antsi</r></p><par n="Verb"/></e>
         <e><p><l>be_able</l><r>kant<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
-        <e><p><l>be_alive</l><r>anyi<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>be_alive</l><r>any<s n="inf"/>+(a)antsi</r></p><par n="Verb"/></e>
+        <e><p><l>be_alive</l><r>anyi<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>be_bored</l><r>shem<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
-        <e><p><l>be_of_the_same_group</l><r>sheni</r></p><par n="Verb"/></e>
         <e><p><l>be_of_the_same_group</l><r>shani</r></p><par n="Verb"/></e>
+        <e><p><l>be_of_the_same_group</l><r>sheni</r></p><par n="Verb"/></e>
         <e><p><l>be_together</l><r>tsipa<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>bring</l><r>am<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>call</l><r>kant<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
+        <e><p><l>destroy</l><r>amashi<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>disembowel</l><r>kampoiri</r></p><par n="Verb"/></e>
         <e><p><l>do</l><r>kant<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>dream</l><r>mishi<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
@@ -190,11 +191,11 @@
         <e><p><l>hunt</l><r>kin</r></p><par n="Verb"/></e>
         <e><p><l>inform</l><r>kamant<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>join</l><r>tsipa<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
-        <e><p><l>jump</l><r>mit<s n="inf"/>+aantsi:agaantsi</r></p><par n="Verb"/></e>
         <e><p><l>jump</l><r>mitah<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
+        <e><p><l>jump</l><r>mit<s n="inf"/>+aantsi:agaantsi</r></p><par n="Verb"/></e>
         <e><p><l>kick</l><r>aatzik<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
-        <e><p><l>live</l><r>any<s n="inf"/>+(a)antsi</r></p><par n="Verb"/></e>
         <e><p><l>live</l><r>anyi<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
+        <e><p><l>live</l><r>any<s n="inf"/>+(a)antsi</r></p><par n="Verb"/></e>
         <e><p><l>look_down_on</l><r>manin<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>make_holes</l><r>mok<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>perforate</l><r>mok<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
@@ -212,6 +213,7 @@
         <e><p><l>vomit</l><r>kamarank<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>want</l><r>kov<s n="inf"/>+antsi</r></p><par n="Verb"/></e>
         <e><p><l>work</l><r>antavai<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
+        <e><p><l>wound</l><r>amashi<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
     </section>
     <section id="nouns" type="standard">
         <!-- #####
