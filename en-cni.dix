@@ -157,8 +157,8 @@
         <e><p><l>(crush|mash)_sth_with_wooden_pestle</l><r>tsink<s n="inf"/>+V</r></p><par n="Verb"/></e>
         <e><p><l>there_still_be</l><r>ainiro</r></p><par n="Verb"/></e>
         <e><p><l>there_is</l><r>ainiro</r></p><par n="Verb"/></e>
-        <e><p><l>there_be_not</l><r>anyeerohi<s n="preform"/>#te</r></p><par n="Verb"/></e>
         <e><p><l>there_be_not</l><r>aneerohi<s n="preform"/>#te</r></p><par n="Verb"/></e>
+        <e><p><l>there_be_not</l><r>anyeerohi<s n="preform"/>#te</r></p><par n="Verb"/></e>
         <e><p><l>there_be_not</l><r>tekatsi</r></p><par n="Verb"/></e>
         <e><p><l>NEG_POSSESS</l><r>tekatsi</r></p><par n="Verb"/></e>
         <e><p><l>POSSESS</l><r>ainiro</r></p><par n="Verb"/></e>
@@ -170,11 +170,11 @@
         <e><p><l>be_alive</l><r>anyi<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>be_alive</l><r>any<s n="inf"/>+(a)antsi</r></p><par n="Verb"/></e>
         <e><p><l>be_bored</l><r>shem<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
-        <e><p><l>be_of_the_same_group</l><r>shani</r></p><par n="Verb"/></e>
         <e><p><l>be_of_the_same_group</l><r>sheni</r></p><par n="Verb"/></e>
+        <e><p><l>be_of_the_same_group</l><r>shani</r></p><par n="Verb"/></e>
         <e><p><l>be_together</l><r>tsipa<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
-        <e><p><l>be_unfaithful</l><r>aivent<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>be_unfaithful</l><r>aiment<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
+        <e><p><l>be_unfaithful</l><r>aivent<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>bring</l><r>am<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>call</l><r>kant<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>cure</l><r>aavint<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
@@ -220,6 +220,9 @@
         <e><p><l>wound</l><r>amashi<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
     </section>
     <section id="nouns" type="standard">
+        <e><p><l>(big)_dove_sp_ (ES: paloma_grande</l><r>potooti</r></p><par n="Noun"/></e>
+        <e><p><l>pichÃ³n_rojizo</l><r>potooti</r></p><par n="Noun"/></e>
+        <e><p><l>sci_nm_: columba_speciosa)</l><r>potooti</r></p><par n="Noun"/></e>
         <!-- #####
             A 
         ##### -->
@@ -321,7 +324,6 @@
         <e><p><l>disregard</l><r>inkemisante<s n="preform"/>#te</r></p><par n="Noun"/></e>
         <!--  -->
         <e><p><l>dove</l><r>sampakitsi<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
-        <e><p><l>dove</l><r>potooti</r></p><par n="Noun"/></e>
         <!--  -->
         <e><p><l>down_river</l><r>kirinka</r></p><par n="Particle"/></e>
         <!-- #####

@@ -19,6 +19,7 @@ sub volume {
 my $outputfilename = '.dix';
 my $section = 'Verb';
 my $label = '@section:verb@';
+my $rootlabel = 'VRoot';
 
 my @files;
 my $options = "--file file_1 --file file_2 ... ";
@@ -27,6 +28,7 @@ GetOptions (
 'outputfilename=s' => \$outputfilename, 
 'section=s' => \$section, 
 'label=s' => \$label, 
+'rootlabel=s' => \$rootlabel, 
 ) or die " Usage:  $0 $options\n"; 
 
 # FIRST PART 
@@ -41,7 +43,7 @@ open INFO, $file or die "Could not open $file: $!";
    my $line = $_;
    my $right = undef;
    my $left = undef;
-   if ($line =~ /\[=(.*)\]\[VRoot\]\[=(.*)\]\"/) {
+   if ($line =~ /\[=(.*)\]\[$rootlabel\]\[=(.*)\]\"/) {
      $right = $1;
      $left = $2;
    }
@@ -52,7 +54,10 @@ for my $leftset (split /;{1,2}\s/, $left) {
   # ENGLISH 
   for my $leftelement (split /,\s/, $1) {
    $id++;
-   if ($leftelement =~ /to\.(.*)\s\(/) { $words{$1}{$right} = $id; } # extract only left side 
+   # Noun
+   if ($leftelement =~ /(.*)\s\(/) { $words{$1}{$right} = $id; }
+   # Verb
+   elsif ($leftelement =~ /to\.(.*)\s\(/) { $words{$1}{$right} = $id; } # extract only left side 
    else { $leftelement =~ s/^to\.//ig; $words{$leftelement}{$right} = $id; }
   }
   #NOT ENGLISH

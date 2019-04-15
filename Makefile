@@ -2,6 +2,8 @@ extractbilingualvocab:
 	@cat en-cni.dix.part1
 	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/vroot.prq.foma --file ../AshaninkaMorph/oroot.prq.foma --file ../AshaninkaMorph/neg.prq.foma 
 	@cat en-cni.dix.part2
+	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/nroot.prq.foma --label "@section:noun@" --rootlabel "NRoot" --section "Noun" 
+	@cat en-cni.dix.part3
 
 compile:
 	@sudo cp freeling/en/locucions.dat /usr/local/share/freeling/en/locucions.dat 
