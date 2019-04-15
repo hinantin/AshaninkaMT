@@ -96,6 +96,8 @@ foreach my $leftelement (sort keys %words) { # SORTING ALPHABETICALLY
     $left =~ s/^NEG.EXIST:\s//ig;
     $left =~ s/^EXIST:\s//ig;
     $left =~ s/^CONT.EXIST:\s//ig;
+
+    $left =~ s/\.sp\.$//ig;
     # replacements 
     $left =~ s/\./_/ig;
     # listing elements 
