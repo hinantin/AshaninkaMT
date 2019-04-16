@@ -52,7 +52,7 @@ if ($left =~ /(.*)\s\((.*)\)/) {
   $left = $1;
   # $2 NOT ENGLISH 
   #print "$2\n";
-  parseentries(\@wordsES, \@wordsPT, \@wordsQU, $2, $right, $idES, $idPT, $idQU);
+  parseentries(\%wordsES, \%wordsPT, \%wordsQU, $2, $right, $idES, $idPT, $idQU);
 }
 
 for my $leftset (split /;{1,2}\s/, $left) {
@@ -66,7 +66,7 @@ for my $leftset (split /;{1,2}\s/, $left) {
    elsif ($leftelement =~ /to\.(.*)\s\(/) { $words{$1}{$right} = $id; } # extract only left side 
    else { $leftelement =~ s/^to\.//ig; $words{$leftelement}{$right} = $id; }
   }
-  parseentries(\@wordsES, \@wordsPT, \@wordsQU, $2, $right, $idES, $idPT, $idQU);
+  parseentries(\%wordsES, \%wordsPT, \%wordsQU, $2, $right, $idES, $idPT, $idQU);
  } else {
   for my $leftelement (split /,\s/, $leftset) {
    $id++;
@@ -86,7 +86,24 @@ close(INFO);
 
 
 # SECOND PART 
-foreach my $leftelement (sort keys %words) { # SORTING ALPHABETICALLY 
+sortprintelements(\%words);
+sortprintelements(\%wordsES);
+sortprintelements(\%wordsPT);
+sortprintelements(\%wordsQU);
+
+my $count = scalar keys %words;
+print STDERR "EN: $count\n";
+$count = scalar keys %wordsES;
+print STDERR "ES: $count\n";
+$count = scalar keys %wordsPT;
+print STDERR "PT: $count\n";
+$count = scalar keys %wordsQU;
+print STDERR "QU: $count\n";
+
+sub sortprintelements {
+ my $wordsref = $_[0];
+ my %words = %$wordsref;
+ foreach my $leftelement (sort keys %words) { # SORTING ALPHABETICALLY 
     # left element treatment 
     #print "$leftelement\n";
     my $left = $leftelement; 
@@ -110,9 +127,8 @@ foreach my $leftelement (sort keys %words) { # SORTING ALPHABETICALLY
       print STDOUT "        <e><p><l>$left</l><r>$rightelementanalysis</r></p><par n=\"$section\"/></e>\n";
       #printf "%-8s %s\n", $leftelement, $words{$leftelement};
     }
+ }
 }
-
-print STDERR Data::Dumper->Dump(\@wordsES, \@wordsPT, \@wordsQU);
 
 sub getelements {
   my $wordsref = $_[0];
@@ -120,14 +136,12 @@ sub getelements {
   my $right = $_[2];
   my $id = $_[3];
 
-  my %words = @$wordsref;
-
   for my $p (split /,{1,2}\s/, $e) {
   #binmode (STDOUT, ":utf-8");
   #my $analysis = extractlabels($right);
   #print "--$p --$analysis\n";
    $id++;
-   $words{$p}{$right} = $id;
+   $wordsref->{$p}{$right} = $id;
   }
 }
 
@@ -141,14 +155,22 @@ sub parseentries {
   my $idPT = $_[6];
   my $idQU = $_[7];
 
-  my @wordsES = @$wordsESref;
-  my @wordsPT = @$wordsPTref;
-  my @wordsQU = @$wordsQUref;
+  #my %wordsES = %$wordsESref;
+  #my %wordsPT = %$wordsPTref;
+  #my %wordsQU = %$wordsQUref;
 
   for my $p (split /;\s/, $e) {
-   if ($p =~ /ES:\s(.*)/) { getelements(\@wordsES, $1, $right, $idES); }
-   elsif ($p =~ /PT:\s(.*)/) { getelements(\@wordsPT, $1, $right, $idPT); }
-   elsif ($p =~ /QU:\s(.*)/) { getelements(\@wordsQU, $1, $right, $idQU); }
+   if ($p =~ /ES:\s(.*)/) { 
+
+    #for my $eES (split /,{1,2}\s/, $1) {
+    # $idES++;
+    # $wordsESref->{$eES}{$right} = $idES;
+    #}
+    getelements($wordsESref, $1, $right, $idES); 
+
+   }
+   elsif ($p =~ /PT:\s(.*)/) { getelements($wordsPTref, $1, $right, $idPT); }
+   elsif ($p =~ /QU:\s(.*)/) { getelements($wordsQUref, $1, $right, $idQU); }
    elsif ($p =~ /sci.nm.:\s(.*)/) { return $1; }
   }
   return $e;
