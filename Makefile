@@ -5,6 +5,9 @@ extractbilingualvocab:
 	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/nroot.prq.foma --label "@section:noun@" --rootlabel "NRoot" --section "Noun" 
 	@cat en-cni.dix.part3
 
+esbilingualvocab:
+	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/nroot.prq.foma --label "@section:noun@" --rootlabel "NRoot" --section "Noun" --language "ES" > es-cni.dix 
+
 compile:
 	@sudo cp freeling/en/locucions.dat /usr/local/share/freeling/en/locucions.dat 
 	@sudo cp freeling/en/dicc.src /usr/local/share/freeling/en/dicc.src 
