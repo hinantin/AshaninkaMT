@@ -8,14 +8,43 @@ binmode STDOUT, ':utf8';
 use Getopt::Long qw(GetOptions);
 use Data::Dumper;
 
-sub volume {
-  my $height = shift;
-  my $width = shift;
-  my $depth = shift;
+sub getelements {
+  my $wordsref = shift;
+  my $e = shift;
+  my $right = shift;
+  my $id = shift;
 
-  return $height * $width * $depth;
+  my %words = @$wordsref;
+
+  for my $p (split /;{1,2}\s/, $e) {
+   $id++;
+   $words{$p}{$right} = $id;
+  }
 }
 
+sub parseentries {
+  my $wordsESref = shift;
+  my $wordsPTref = shift;
+  my $wordsQUref = shift;
+  my $e = shift;
+  my $right = shift;
+  my $idES = shift;
+  my $idPT = shift;
+  my $idQU = shift;
+
+  my @wordsES = @$wordsESref;
+  my @wordsPT = @$wordsPTref;
+  my @wordsQU = @$wordsQUref;
+
+  for my $p (split /;\s/, $e) {
+   if ($p =~ /ES:\s(.*)/) { getelements(\@wordsES, $1, $right, $idES); }
+   elsif ($p =~ /PT:\s(.*)/) { getelements(\@wordsPT, $1, $right, $idPT); }
+   elsif ($p =~ /QU:\s(.*)/) { getelements(\@wordsQU, $1, $right, $idQU); }
+   elsif ($p =~ /sci.nm.:\s(.*)/) { return $1; }
+  }
+  return $e;
+
+}
 my $outputfilename = '.dix';
 my $section = 'Verb';
 my $label = '@section:verb@';
@@ -35,6 +64,13 @@ GetOptions (
 my $file;
 my %words;
 my $id = 0;
+  my %wordsES;
+  my %wordsPT;
+  my %wordsQU;
+  my $idES = 0;
+  my $idPT = 0;
+  my $idQU = 0;
+
 while (defined($file = shift @files)) {
 open INFO, $file or die "Could not open $file: $!";
  while (<INFO>)
@@ -52,6 +88,7 @@ open INFO, $file or die "Could not open $file: $!";
 if ($left =~ /(.*)\s\((.*)\)/) { 
   $left = $1;
   # $2 NOT ENGLISH 
+  parseentries(\@wordsES, \@wordsPT, \@wordsQU, $2, $right, $idES, $idPT, $idQU);
 }
 
 for my $leftset (split /;{1,2}\s/, $left) {
@@ -65,7 +102,7 @@ for my $leftset (split /;{1,2}\s/, $left) {
    elsif ($leftelement =~ /to\.(.*)\s\(/) { $words{$1}{$right} = $id; } # extract only left side 
    else { $leftelement =~ s/^to\.//ig; $words{$leftelement}{$right} = $id; }
   }
-  #NOT ENGLISH
+  parseentries(\@wordsES, \@wordsPT, \@wordsQU, $2, $right, $idES, $idPT, $idQU);
  } else {
   for my $leftelement (split /,\s/, $leftset) {
    $id++;
@@ -136,4 +173,4 @@ foreach my $leftelement (sort keys %words) { # SORTING ALPHABETICALLY
     }
 }
 
-
+print STDERR Data::Dumper->Dump(\@wordsES, \@wordsPT, \@wordsQU);
