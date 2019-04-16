@@ -3,48 +3,11 @@
 #use strict;
 use warnings;
 use utf8;
-binmode STDIN, ':utf8';
-binmode STDOUT, ':utf8';
+binmode STDIN, ':utf-8';
+binmode STDOUT, ':utf-8';
 use Getopt::Long qw(GetOptions);
 use Data::Dumper;
 
-sub getelements {
-  my $wordsref = shift;
-  my $e = shift;
-  my $right = shift;
-  my $id = shift;
-
-  my %words = @$wordsref;
-
-  for my $p (split /;{1,2}\s/, $e) {
-   $id++;
-   $words{$p}{$right} = $id;
-  }
-}
-
-sub parseentries {
-  my $wordsESref = shift;
-  my $wordsPTref = shift;
-  my $wordsQUref = shift;
-  my $e = shift;
-  my $right = shift;
-  my $idES = shift;
-  my $idPT = shift;
-  my $idQU = shift;
-
-  my @wordsES = @$wordsESref;
-  my @wordsPT = @$wordsPTref;
-  my @wordsQU = @$wordsQUref;
-
-  for my $p (split /;\s/, $e) {
-   if ($p =~ /ES:\s(.*)/) { getelements(\@wordsES, $1, $right, $idES); }
-   elsif ($p =~ /PT:\s(.*)/) { getelements(\@wordsPT, $1, $right, $idPT); }
-   elsif ($p =~ /QU:\s(.*)/) { getelements(\@wordsQU, $1, $right, $idQU); }
-   elsif ($p =~ /sci.nm.:\s(.*)/) { return $1; }
-  }
-  return $e;
-
-}
 my $outputfilename = '.dix';
 my $section = 'Verb';
 my $label = '@section:verb@';
@@ -88,6 +51,7 @@ open INFO, $file or die "Could not open $file: $!";
 if ($left =~ /(.*)\s\((.*)\)/) { 
   $left = $1;
   # $2 NOT ENGLISH 
+  #print "$2\n";
   parseentries(\@wordsES, \@wordsPT, \@wordsQU, $2, $right, $idES, $idPT, $idQU);
 }
 
@@ -174,3 +138,44 @@ foreach my $leftelement (sort keys %words) { # SORTING ALPHABETICALLY
 }
 
 print STDERR Data::Dumper->Dump(\@wordsES, \@wordsPT, \@wordsQU);
+
+sub getelements {
+  my $wordsref = $_[0];
+  my $e = $_[1];
+  my $right = $_[2];
+  my $id = $_[3];
+
+  my %words = @$wordsref;
+
+  for my $p (split /,{1,2}\s/, $e) {
+  #binmode (STDOUT, ":utf-8");
+  print "--$p --$right\n";
+   $id++;
+   $words{$p}{$right} = $id;
+  }
+}
+
+sub parseentries {
+  my $wordsESref = $_[0];
+  my $wordsPTref = $_[1];
+  my $wordsQUref = $_[2];
+  my $e = $_[3];
+  my $right = $_[4];
+  my $idES = $_[5];
+  my $idPT = $_[6];
+  my $idQU = $_[7];
+
+  my @wordsES = @$wordsESref;
+  my @wordsPT = @$wordsPTref;
+  my @wordsQU = @$wordsQUref;
+
+  for my $p (split /;\s/, $e) {
+   if ($p =~ /ES:\s(.*)/) { getelements(\@wordsES, $1, $right, $idES); }
+   elsif ($p =~ /PT:\s(.*)/) { getelements(\@wordsPT, $1, $right, $idPT); }
+   elsif ($p =~ /QU:\s(.*)/) { getelements(\@wordsQU, $1, $right, $idQU); }
+   elsif ($p =~ /sci.nm.:\s(.*)/) { return $1; }
+  }
+  return $e;
+
+}
+
