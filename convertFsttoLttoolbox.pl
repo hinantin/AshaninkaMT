@@ -12,6 +12,7 @@ my $outputfilename = '.dix';
 my $section = 'Verb';
 my $label = '@section:verb@';
 my $rootlabel = 'VRoot';
+my $language = 'EN';
 
 my @files;
 my $options = "--file file_1 --file file_2 ... ";
@@ -21,6 +22,7 @@ GetOptions (
 'section=s' => \$section, 
 'label=s' => \$label, 
 'rootlabel=s' => \$rootlabel, 
+'language=s' => \$language, 
 ) or die " Usage:  $0 $options\n"; 
 
 # FIRST PART 
@@ -86,10 +88,18 @@ close(INFO);
 
 
 # SECOND PART 
-sortprintelements(\%words);
-#sortprintelements(\%wordsES);
-#sortprintelements(\%wordsPT);
-#sortprintelements(\%wordsQU);
+if ($language eq "EN") {
+ sortprintelements(\%words);
+}
+elsif ($language eq "ES") {
+ sortprintelements(\%wordsES);
+}
+elsif ($language eq "PT") {
+ sortprintelements(\%wordsPT);
+}
+elsif ($language eq "QU") {
+ sortprintelements(\%wordsQU);
+}
 
 my $count = scalar keys %words;
 print STDERR "EN: $count\n";
