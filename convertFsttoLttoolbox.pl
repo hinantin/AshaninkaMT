@@ -87,9 +87,9 @@ close(INFO);
 
 # SECOND PART 
 sortprintelements(\%words);
-sortprintelements(\%wordsES);
-sortprintelements(\%wordsPT);
-sortprintelements(\%wordsQU);
+#sortprintelements(\%wordsES);
+#sortprintelements(\%wordsPT);
+#sortprintelements(\%wordsQU);
 
 my $count = scalar keys %words;
 print STDERR "EN: $count\n";
