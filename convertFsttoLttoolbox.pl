@@ -149,7 +149,8 @@ sub getelements {
 
   for my $p (split /,{1,2}\s/, $e) {
   #binmode (STDOUT, ":utf-8");
-  print "--$p --$right\n";
+  my $analysis = extractlabels($right);
+  print "--$p --$analysis\n";
    $id++;
    $words{$p}{$right} = $id;
   }
@@ -179,3 +180,33 @@ sub parseentries {
 
 }
 
+sub extractlabels {
+  my $right = $_[0];
+      my $rightelementanalysis = "";
+      for my $rightelement (split /\+|~/, $right) {
+        # EXTRACTING LABELS 
+        if ($rightelement =~ /(.*)@(.*)/) {
+          my $rightelementlabel = lc $1;
+          my $rightelementvalue = $2;
+          if ($rightelementlabel !~ /gndr/) { $rightelementvalue =~ s/\.$//ig; } # deleting last dot (.) 
+          if ($rightelementvalue =~ /^\//) {
+            $rightelementvalue =~ s/\//\+/ig; $rightelementvalue =~ s/:/@/ig; 
+          } else { $rightelementvalue = "+$rightelementvalue"; }
+          $rightelementanalysis = "$rightelementanalysis<s n=\"$rightelementlabel\"/>$rightelementvalue";
+        }
+        # RIGHT ROOT TREATMENT 
+        else {
+          #print "$rightelement\n"; 
+          if ($rightelement =~ /(.*)\/(.*)/) {
+            $rightelementanalysis = $1; 
+          }
+          elsif ($rightelement =~ /(.*)_(.*)/) {
+            $rightelementanalysis = "$2<s n=\"preform\"/>#$1"; 
+          }
+          else {
+            $rightelementanalysis = $rightelement; 
+          }
+        }
+      }
+  return $rightelementanalysis;
+}
