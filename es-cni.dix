@@ -179,17 +179,19 @@
         <e><p><l>puquear</l><r>oonk<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>puquiar</l><r>oonk<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>querer</l><r>kov<s n="inf"/>+antsi</r></p><par n="Verb"/></e>
-        <e><p><l>saltar</l><r>mitah<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
+        <e><p><l>retumbar</l><r>kameni<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>saltar</l><r>mit<s n="inf"/>+aantsi:agaantsi</r></p><par n="Verb"/></e>
-        <e><p><l>ser</l><r>kant<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
+        <e><p><l>saltar</l><r>mitah<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>ser</l><r>na<s n="inf"/>+EP@t+antsi</r></p><par n="Verb"/></e>
+        <e><p><l>ser</l><r>kant<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>señalar</l><r>ooko<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
+        <e><p><l>sonar</l><r>kameni<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>soñar</l><r>mishi<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>tener_pareja</l><r>tsipa<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>trabajar</l><r>antavai<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>traer</l><r>am<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
-        <e><p><l>vivir</l><r>any<s n="inf"/>+(a)antsi</r></p><par n="Verb"/></e>
         <e><p><l>vivir</l><r>anyi<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
+        <e><p><l>vivir</l><r>any<s n="inf"/>+(a)antsi</r></p><par n="Verb"/></e>
         <e><p><l>vomitar</l><r>kamarank<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
     </section>
     <section id="nouns" type="standard">
@@ -217,10 +219,10 @@
         <e><p><l>lluvia</l><r>inkani<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>límite</l><r>overapaka</r></p><par n="Noun"/></e>
         <e><p><l>mechero</l><r>tsiyomento<s n="gndr"/>+n.m.<s n="inal"/>+tsi</r></p><par n="Noun"/></e>
-        <e><p><l>paisano</l><r>sheninka</r></p><par n="Noun"/></e>
         <e><p><l>paisano</l><r>shaninka</r></p><par n="Noun"/></e>
-        <e><p><l>pajonalino</l><r>keshiisatzi<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
+        <e><p><l>paisano</l><r>sheninka</r></p><par n="Noun"/></e>
         <e><p><l>pajonalino</l><r>kishiisatzi<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
+        <e><p><l>pajonalino</l><r>keshiisatzi<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>paloma_grande</l><r>potooti<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>pedregal</l><r>mapipooki<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>pelo</l><r>kishi<s n="gndr"/>+n.m.<s n="inal"/>+tsi</r></p><par n="Noun"/></e>
