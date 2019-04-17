@@ -195,7 +195,7 @@ sub extractlabels {
         if ($rightelement =~ /(.*)@(.*)/) {
           my $rightelementlabel = lc $1;
           my $rightelementvalue = $2;
-          if ($rightelementlabel !~ /gndr/) { $rightelementvalue =~ s/\.$//ig; } # deleting last dot (.) 
+          if ($rightelementlabel !~ /gndr|num/) { $rightelementvalue =~ s/\.$//ig; } # deleting last dot (.) 
           if ($rightelementvalue =~ /^\//) {
             $rightelementvalue =~ s/\//\+/ig; $rightelementvalue =~ s/:/@/ig; 
           } else { $rightelementvalue = "+$rightelementvalue"; }

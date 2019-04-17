@@ -13,6 +13,8 @@ enbilingualvocab:
 	@sed -i -e '/POINTERVROOT/r file1' en-cni.dix 
 	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/nroot.prq.foma --label "@section:noun@" --rootlabel "NRoot" --section "Noun" > file1
 	@sed -i -e '/POINTERNROOT/r file1' en-cni.dix 
+	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/prnpers.prq.foma --label "@section:prnpers@" --rootlabel "PrnPers" --section "personal_pronouns" > file1
+	@sed -i -e '/POINTERPRNPERS/r file1' en-cni.dix 
 
 bilingualvocab:
 	@cp en-cni.base.dix es-cni.dix 
