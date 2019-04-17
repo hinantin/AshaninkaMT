@@ -143,45 +143,44 @@
         <e><p><l>we</l><r>aro</r></p><par n="Personal_pronoun"/></e>
     </section>
     <section id="possessive_pronouns" type="standard">
+<!--POINTERPRNPOSS-->
+        <e><p><l>his</l><r>irashi<s n="num"/>+3SG<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>his</l><r>rashi<s n="num"/>+3SG<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>its</l><r>irashi<s n="num"/>+3SG<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
         <e><p><l>mine</l><r>nashi<s n="num"/>+1SG</r></p><par n="Possessive_pronoun"/></e>
         <e><p><l>yours</l><r>pashi<s n="num"/>+2SG</r></p><par n="Possessive_pronoun"/></e>
-        <e><p><l>his</l><r>rashi<s n="num"/>+3SG<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
-        <e><p><l>his</l><r>irashi<s n="num"/>+3SG<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
-        <e><p><l>hers</l><r>ashi<s n="num"/>+1SG<s n="gndr"/>+n.m.</r></p><par n="Possessive_pronoun"/></e>
-        <e><p><l>ours</l><r>ashi<s n="num"/>+1PL</r></p><par n="Possessive_pronoun"/></e>
-        <e><p><l>yours</l><r>pashiite<s n="num"/>+2PL</r></p><par n="Possessive_pronoun"/></e>
-        <e><p><l>theirs</l><r>irashiite<s n="num"/>+3PL<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
-        <e><p><l>theirs</l><r>ashiite<s n="num"/>+3PL<s n="gndr"/>+n.m.</r></p><par n="Possessive_pronoun"/></e>
     </section>
     <section id="verbs" type="standard">
+<!--POINTERVROOT-->
         <e><p><l>(crush|mash)_sth_with_wooden_pestle</l><r>tsink<s n="inf"/>+V</r></p><par n="Verb"/></e>
         <e><p><l>there_still_be</l><r>ainiro</r></p><par n="Verb"/></e>
         <e><p><l>there_is</l><r>ainiro</r></p><par n="Verb"/></e>
         <e><p><l>there_be_not</l><r>aneerohi<s n="preform"/>#te</r></p><par n="Verb"/></e>
-        <e><p><l>there_be_not</l><r>tekatsi</r></p><par n="Verb"/></e>
         <e><p><l>there_be_not</l><r>anyeerohi<s n="preform"/>#te</r></p><par n="Verb"/></e>
+        <e><p><l>there_be_not</l><r>tekatsi</r></p><par n="Verb"/></e>
         <e><p><l>NEG_POSSESS</l><r>tekatsi</r></p><par n="Verb"/></e>
         <e><p><l>POSSESS</l><r>ainiro</r></p><par n="Verb"/></e>
         <e><p><l>accompany</l><r>tsipa<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>advise</l><r>kamant<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
-        <e><p><l>be</l><r>kant<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>be</l><r>na<s n="inf"/>+EP@t+antsi</r></p><par n="Verb"/></e>
+        <e><p><l>be</l><r>kant<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>be_able</l><r>kant<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
-        <e><p><l>be_alive</l><r>any<s n="inf"/>+(a)antsi</r></p><par n="Verb"/></e>
         <e><p><l>be_alive</l><r>anyi<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
+        <e><p><l>be_alive</l><r>any<s n="inf"/>+(a)antsi</r></p><par n="Verb"/></e>
         <e><p><l>be_bored</l><r>shem<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
-        <e><p><l>be_of_the_same_group</l><r>shani</r></p><par n="Verb"/></e>
         <e><p><l>be_of_the_same_group</l><r>sheni</r></p><par n="Verb"/></e>
+        <e><p><l>be_of_the_same_group</l><r>shani</r></p><par n="Verb"/></e>
         <e><p><l>be_together</l><r>tsipa<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
-        <e><p><l>be_unfaithful</l><r>aiment<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>be_unfaithful</l><r>aivent<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
+        <e><p><l>be_unfaithful</l><r>aiment<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>bring</l><r>am<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>call</l><r>kant<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>catch</l><r>ahirik<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
+        <e><p><l>crawl</l><r>kamatsa<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>cure</l><r>aavint<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>destroy</l><r>amashi<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>disembark</l><r>aa<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
-        <e><p><l>disembowel</l><r>kampoiri</r></p><par n="Verb"/></e>
+        <e><p><l>disembowel</l><r>kampoiri<s n="inf"/>+antsi</r></p><par n="Verb"/></e>
         <e><p><l>do</l><r>kant<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>dock</l><r>aa<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>dream</l><r>mishi<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
@@ -199,8 +198,8 @@
         <e><p><l>identify</l><r>ooko<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>inform</l><r>kamant<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>join</l><r>tsipa<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
-        <e><p><l>jump</l><r>mit<s n="inf"/>+aantsi:agaantsi</r></p><par n="Verb"/></e>
         <e><p><l>jump</l><r>mitah<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
+        <e><p><l>jump</l><r>mit<s n="inf"/>+aantsi:agaantsi</r></p><par n="Verb"/></e>
         <e><p><l>kick</l><r>aatzik<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>land</l><r>aa<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>live</l><r>any<s n="inf"/>+(a)antsi</r></p><par n="Verb"/></e>
@@ -231,13 +230,14 @@
         <e><p><l>wound</l><r>amashi<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
     </section>
     <section id="nouns" type="standard">
+<!--POINTERNROOT-->
         <e><p><l>amazon_forest</l><r>inchatoshisati</r></p><par n="Noun"/></e>
         <e><p><l>amazon_region</l><r>inchatoshisati</r></p><par n="Noun"/></e>
         <e><p><l>amazonian</l><r>inchatoshisati</r></p><par n="Noun"/></e>
         <e><p><l>aquatic</l><r>inyaaveri<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>aquatic_being</l><r>inyaaveri<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
-        <e><p><l>armored_catfish</l><r>tsekinti<s n="preform"/>#hevari<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>armored_catfish</l><r>kitetakiri<s n="preform"/>#hevari<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
+        <e><p><l>armored_catfish</l><r>tsekinti<s n="preform"/>#hevari<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>arrow</l><r>chekopi<s n="gndr"/>+n.m.<s n="poss"/>+te:ti</r></p><par n="Noun"/></e>
         <e><p><l>bearded_man</l><r>shipatonanti<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>bed</l><r>maamento<s n="inal"/>+tsi</r></p><par n="Noun"/></e>

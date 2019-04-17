@@ -6,7 +6,13 @@ extractbilingualvocab:
 	@cat en-cni.dix.part3
 
 enbilingualvocab:
-	@extractbilingualvocab > en-cni.dix
+	@cp en-cni.base.dix en-cni.dix 
+	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/prnposs.prq.foma --label "@section:prnposs@" --rootlabel "PrnPoss" --section "Possessive_pronoun" > file1
+	@sed -i -e '/POINTERPRNPOSS/r file1' en-cni.dix 
+	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/vroot.prq.foma --file ../AshaninkaMorph/oroot.prq.foma --file ../AshaninkaMorph/neg.prq.foma > file1
+	@sed -i -e '/POINTERVROOT/r file1' en-cni.dix 
+	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/nroot.prq.foma --label "@section:noun@" --rootlabel "NRoot" --section "Noun" > file1
+	@sed -i -e '/POINTERNROOT/r file1' en-cni.dix 
 
 bilingualvocab:
 	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/nroot.prq.foma --label "@section:noun@" --rootlabel "NRoot" --section "Noun" --language "ES" > es-cni.dix
