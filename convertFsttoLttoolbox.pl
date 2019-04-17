@@ -57,7 +57,7 @@ open INFO, $file or die "Could not open $file: $!";
 #  parseentries(\%wordsES, \%wordsPT, \%wordsQU, $2, $right, $idES, $idPT, $idQU);
 #}
 
-for my $leftset (split /;{1,2}\|\s/, $left) {
+for my $leftset (split /;{1,2}\|\s/, $left) { # SPLITTING ;| ;;| 
  if ($leftset =~ /(.*)\s\((.*)\)/) {
   # ENGLISH 
   for my $leftelement (split /,\s/, $1) {
