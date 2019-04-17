@@ -50,14 +50,14 @@ open INFO, $file or die "Could not open $file: $!";
    }
 #print "$left\n";
 # BEGIN: SPLITING LEFT SET INTO ELEMENTS
-if ($left =~ /(.*)\s\((.*)\)/) { 
-  $left = $1;
-  # $2 NOT ENGLISH 
-  #print "$2\n";
-  parseentries(\%wordsES, \%wordsPT, \%wordsQU, $2, $right, $idES, $idPT, $idQU);
-}
+#if ($left =~ /(.*)\s\((.*)\);\s(.*)/) { 
+#  $left = $1;
+#  # $2 NOT ENGLISH 
+#  print "$2\n";
+#  parseentries(\%wordsES, \%wordsPT, \%wordsQU, $2, $right, $idES, $idPT, $idQU);
+#}
 
-for my $leftset (split /;{1,2}\s/, $left) {
+for my $leftset (split /;{1,2}\|\s/, $left) {
  if ($leftset =~ /(.*)\s\((.*)\)/) {
   # ENGLISH 
   for my $leftelement (split /,\s/, $1) {
