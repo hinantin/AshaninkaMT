@@ -5,6 +5,9 @@ extractbilingualvocab:
 	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/nroot.prq.foma --label "@section:noun@" --rootlabel "NRoot" --section "Noun" 
 	@cat en-cni.dix.part3
 
+enbilingualvocab:
+	@extractbilingualvocab > en-cni.dix
+
 esbilingualvocab:
 	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/nroot.prq.foma --label "@section:noun@" --rootlabel "NRoot" --section "Noun" --language "ES" > es-cni.dix 
 
