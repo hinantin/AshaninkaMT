@@ -11,6 +11,7 @@
         <e><p><l>cielo</l><r>inkite</r></p><par n="Noun"/></e>
         <e><p><l>cosho</l><r>inchatonaki</r></p><par n="Noun"/></e>
         <e><p><l>dinero</l><r>kireki<s n="gndr"/>+m.<s n="poss"/>+te</r></p><par n="Noun"/></e>
+        <e><p><l>día</l><r>kitaiteri</r></p><par n="Noun"/></e>
         <e><p><l>estoraque</l><r>hirivatziki<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>estoraqui</l><r>hirivatziki<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>flecha</l><r>chekopi<s n="gndr"/>+n.m.<s n="poss"/>+te:ti</r></p><par n="Noun"/></e>
@@ -18,10 +19,10 @@
         <e><p><l>lluvia</l><r>inkani<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>límite</l><r>overapaka</r></p><par n="Noun"/></e>
         <e><p><l>mechero</l><r>tsiyomento<s n="gndr"/>+n.m.<s n="inal"/>+tsi</r></p><par n="Noun"/></e>
-        <e><p><l>paisano</l><r>shaninka</r></p><par n="Noun"/></e>
         <e><p><l>paisano</l><r>sheninka</r></p><par n="Noun"/></e>
-        <e><p><l>pajonalino</l><r>kishiisatzi<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
+        <e><p><l>paisano</l><r>shaninka</r></p><par n="Noun"/></e>
         <e><p><l>pajonalino</l><r>keshiisatzi<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
+        <e><p><l>pajonalino</l><r>kishiisatzi<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>paloma_grande</l><r>potooti<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>pedregal</l><r>mapipooki<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>pelo</l><r>kishi<s n="gndr"/>+n.m.<s n="inal"/>+tsi</r></p><par n="Noun"/></e>
