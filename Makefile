@@ -15,7 +15,11 @@ enbilingualvocab:
 	@sed -i -e '/POINTERNROOT/r file1' en-cni.dix 
 
 bilingualvocab:
-	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/nroot.prq.foma --label "@section:noun@" --rootlabel "NRoot" --section "Noun" --language "ES" > es-cni.dix
+	@cp en-cni.base.dix es-cni.dix 
+	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/nroot.prq.foma --label "@section:verb@" --rootlabel "VRoot" --section "Verb" --language "ES" > file1
+	@sed -i -e '/POINTERVROOT/r file1' es-cni.dix 
+	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/nroot.prq.foma --label "@section:noun@" --rootlabel "NRoot" --section "Noun" --language "ES" > file1
+	@sed -i -e '/POINTERNROOT/r file1' es-cni.dix 
 	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/nroot.prq.foma --label "@section:noun@" --rootlabel "NRoot" --section "Noun" --language "PT" > pt-cni.dix
 	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/nroot.prq.foma --label "@section:noun@" --rootlabel "NRoot" --section "Noun" --language "QU" > qu-cni.dix    
 
