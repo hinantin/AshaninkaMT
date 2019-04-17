@@ -8,8 +8,10 @@ extractbilingualvocab:
 enbilingualvocab:
 	@extractbilingualvocab > en-cni.dix
 
-esbilingualvocab:
-	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/nroot.prq.foma --label "@section:noun@" --rootlabel "NRoot" --section "Noun" --language "ES" > es-cni.dix 
+bilingualvocab:
+	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/nroot.prq.foma --label "@section:noun@" --rootlabel "NRoot" --section "Noun" --language "ES" > es-cni.dix
+	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/nroot.prq.foma --label "@section:noun@" --rootlabel "NRoot" --section "Noun" --language "PT" > pt-cni.dix
+	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/nroot.prq.foma --label "@section:noun@" --rootlabel "NRoot" --section "Noun" --language "QU" > qu-cni.dix    
 
 compile:
 	@sudo cp freeling/en/locucions.dat /usr/local/share/freeling/en/locucions.dat 
