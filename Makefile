@@ -16,7 +16,7 @@ enbilingualvocab:
 
 bilingualvocab:
 	@cp en-cni.base.dix es-cni.dix 
-	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/nroot.prq.foma --label "@section:verb@" --rootlabel "VRoot" --section "Verb" --language "ES" > file1
+	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/vroot.prq.foma --label "@section:verb@" --rootlabel "VRoot" --section "Verb" --language "ES" > file1
 	@sed -i -e '/POINTERVROOT/r file1' es-cni.dix 
 	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/nroot.prq.foma --label "@section:noun@" --rootlabel "NRoot" --section "Noun" --language "ES" > file1
 	@sed -i -e '/POINTERNROOT/r file1' es-cni.dix 
