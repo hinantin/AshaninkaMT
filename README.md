@@ -44,6 +44,7 @@ $ g++ -O3 -Wall -o squoia_xfer_lex squoia_xfer_lex.o -L/usr/local/lib -llttoolbo
 ```
 
 #### Installing Freeling 
+ Update the instructions.
 
 ```
 $ git clone https://github.com/TALP-UPC/FreeLing
