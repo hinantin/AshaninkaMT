@@ -1,3 +1,4 @@
+# deprecated 
 extractbilingualvocab:
 	@cat en-cni.dix.part1
 	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/vroot.prq.foma --file ../AshaninkaMorph/oroot.prq.foma --file ../AshaninkaMorph/neg.prq.foma 
