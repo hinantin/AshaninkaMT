@@ -38,7 +38,7 @@ my $id = 0;
 
 while (defined($file = shift @files)) {
 open INFO, $file or die "Could not open $file: $!";
- while (<INFO>)
+ while (<INFO>) # analyzing each line 
  {
  if (m/$label/) { 
    my $line = $_;
@@ -190,7 +190,7 @@ sub parseentries {
 sub extractlabels {
   my $right = $_[0];
       my $rightelementanalysis = "";
-      for my $rightelement (split /\+|~/, $right) {
+      for my $rightelement (split /\+/, $right) {
         # EXTRACTING LABELS 
         if ($rightelement =~ /(.*)@(.*)/) {
           my $rightelementlabel = lc $1;
@@ -201,13 +201,16 @@ sub extractlabels {
           } else { $rightelementvalue = "+$rightelementvalue"; }
           $rightelementanalysis = "$rightelementanalysis<s n=\"$rightelementlabel\"/>$rightelementvalue";
         }
+        elsif ($rightelement =~ /~\{(.*)\}\{(.*)\}/) { # entries with specific morphological information 
+          $rightelementanalysis = "<s n=\"add_mi\"/>+$1+$2"; 
+        }
         # RIGHT ROOT TREATMENT 
         else {
           #print "$rightelement\n"; 
-          if ($rightelement =~ /(.*)\/(.*)/) {
+          if ($rightelement =~ /(.*)\/(.*)/) { # loan words or entries with difficult spellings 
             $rightelementanalysis = $1; 
           }
-          elsif ($rightelement =~ /(.*)_(.*)/) {
+          elsif ($rightelement =~ /(.*)_(.*)/) { # multiword entries separated by underscores 
             $rightelementanalysis = "$2<s n=\"preform\"/>#$1"; 
           }
           else {
