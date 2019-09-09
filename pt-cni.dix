@@ -1,6 +1,7 @@
+        <e><p><l>avô</l><r>ani<s n="gndr"/>+m.<s n="kin"/>+male.ego</r></p><par n="Noun"/></e>
         <e><p><l>batata-doce</l><r>kontanto<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>chuva</l><r>inkani<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>céu</l><r>inkite</r></p><par n="Noun"/></e>
+        <e><p><l>céu</l><r>inkite<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>dia</l><r>kitaiteri</r></p><par n="Noun"/></e>
         <e><p><l>dinheiro</l><r>kireki<s n="gndr"/>+m.<s n="poss"/>+te</r></p><par n="Noun"/></e>
         <e><p><l>lago</l><r>inkari<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
