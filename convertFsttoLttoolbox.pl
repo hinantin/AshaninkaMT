@@ -201,7 +201,8 @@ sub extractlabels {
           } else { $rightelementvalue = "+$rightelementvalue"; }
           $rightelementanalysis = "$rightelementanalysis<s n=\"$rightelementlabel\"/>$rightelementvalue";
         }
-        elsif ($rightelement =~ /~\{(.*)\}/) { # entries with specific morphological information 
+		# entries with specific morphological information 
+        elsif ($rightelement =~ /~\{(.*)\}/) { 
           my $entrieswithmorphologicalinfo = $1;
 		  my $suffelement = "";
           for my $morphinfo (split /\}\{/, $entrieswithmorphologicalinfo) {
@@ -215,7 +216,7 @@ sub extractlabels {
               $suffelement = "$suffelement+$morphinfo"; 
             }
           }
-          $rightelementanalysis = "<s n=\"add_mi\"/>$suffelement"; 
+          $rightelementanalysis = "$rightelementanalysis<s n=\"add_mi\"/>$suffelement"; 
         }
         # RIGHT ROOT TREATMENT 
         else {
