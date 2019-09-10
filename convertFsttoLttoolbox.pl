@@ -206,10 +206,10 @@ sub extractlabels {
           my $entrieswithmorphologicalinfo = $1;
 		  my $suffelement = "";
           for my $morphinfo (split /\}\{/, $entrieswithmorphologicalinfo) {
-            if ($morphinfo =~ /CL:\/(.*):(.*)\//) { # <s n="add_mi"/>+CL:longitudinal.depression 
+            if ($morphinfo =~ /CL:\/'(.*)':(.*)\//) { # <s n="add_mi"/>+CL:longitudinal.depression 
               $suffelement = "$suffelement+CL:$1\@$2"; 
             }
-            elsif ($morphinfo =~ /(.*):(.*)/) { # <s n="add_mi"/>+EP@a+DUR 
+            elsif ($morphinfo =~ /'(.*)':(.*)/) { # <s n="add_mi"/>+EP@a+DUR 
               $suffelement = "$suffelement+$1\@$2"; 
             }
             else {
