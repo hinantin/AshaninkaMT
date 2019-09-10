@@ -209,7 +209,7 @@ sub extractlabels {
               $suffelement = "$suffelement+CL:$2\@$1"; 
             }
             elsif ($morphinfo =~ /(.*):(.*)/) {
-              $suffelement = "$suffelement+$2\@$1"; 
+              $suffelement = "$suffelement+$1\@$2"; 
             }
             else {
               $suffelement = "$suffelement+$morphinfo"; 
