@@ -154,14 +154,14 @@
 <!--POINTERPRNPOSS-->
         <e><p><l>her</l><r>ashi<s n="num"/>+3SG<s n="gndr"/>+n.m.</r></p><par n="Possessive_pronoun"/></e>
         <e><p><l>hers</l><r>ashi<s n="num"/>+3SG<s n="gndr"/>+n.m.</r></p><par n="Possessive_pronoun"/></e>
-        <e><p><l>his</l><r>irashi<s n="num"/>+3SG<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
         <e><p><l>his</l><r>rashi<s n="num"/>+3SG<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
-        <e><p><l>its</l><r>ashi<s n="num"/>+3SG<s n="gndr"/>+n.m.</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>his</l><r>irashi<s n="num"/>+3SG<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
         <e><p><l>its</l><r>irashi<s n="num"/>+3SG<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>its</l><r>ashi<s n="num"/>+3SG<s n="gndr"/>+n.m.</r></p><par n="Possessive_pronoun"/></e>
         <e><p><l>mine</l><r>nashi<s n="num"/>+1SG</r></p><par n="Possessive_pronoun"/></e>
         <e><p><l>ours</l><r>ashi<s n="num"/>+1PL</r></p><par n="Possessive_pronoun"/></e>
-        <e><p><l>theirs</l><r>ashiite<s n="num"/>+3PL<s n="gndr"/>+n.m.</r></p><par n="Possessive_pronoun"/></e>
         <e><p><l>theirs</l><r>irashiite<s n="num"/>+3PL<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>theirs</l><r>ashiite<s n="num"/>+3PL<s n="gndr"/>+n.m.</r></p><par n="Possessive_pronoun"/></e>
         <e><p><l>yours</l><r>pashi<s n="num"/>+2SG</r></p><par n="Possessive_pronoun"/></e>
         <e><p><l>yours</l><r>pashiite<s n="num"/>+2PL</r></p><par n="Possessive_pronoun"/></e>
     </section>
@@ -171,8 +171,8 @@
         <e><p><l>there_still_be</l><r>ainiro</r></p><par n="Verb"/></e>
         <e><p><l>there_is</l><r>ainiro</r></p><par n="Verb"/></e>
         <e><p><l>there_be_not</l><r>anyeerohi<s n="preform"/>#te</r></p><par n="Verb"/></e>
-        <e><p><l>there_be_not</l><r>aneerohi<s n="preform"/>#te</r></p><par n="Verb"/></e>
         <e><p><l>there_be_not</l><r>tekatsi</r></p><par n="Verb"/></e>
+        <e><p><l>there_be_not</l><r>aneerohi<s n="preform"/>#te</r></p><par n="Verb"/></e>
         <e><p><l>NEG_POSSESS: do_not_have</l><r>tekatsi</r></p><par n="Verb"/></e>
         <e><p><l>POSSESS</l><r>ainiro</r></p><par n="Verb"/></e>
         <e><p><l>accompany</l><r>tsipa<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
@@ -184,8 +184,8 @@
         <e><p><l>be_alive</l><r>any<s n="inf"/>+(a)antsi</r></p><par n="Verb"/></e>
         <e><p><l>be_alive</l><r>anyi<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>be_bored</l><r>shem<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
-        <e><p><l>be_of_the_same_group</l><r>sheni</r></p><par n="Verb"/></e>
         <e><p><l>be_of_the_same_group</l><r>shani</r></p><par n="Verb"/></e>
+        <e><p><l>be_of_the_same_group</l><r>sheni</r></p><par n="Verb"/></e>
         <e><p><l>be_phlegmy</l><r>karentsa<s n="inf"/>+EP@t+VC</r></p><par n="Verb"/></e>
         <e><p><l>be_slippery</l><r>karentsa<s n="inf"/>+EP@t+VC</r></p><par n="Verb"/></e>
         <e><p><l>be_together</l><r>tsipa<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
@@ -213,19 +213,19 @@
         <e><p><l>go</l><r>ha<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>go_to_warn</l><r>et<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>grab</l><r>ahirik<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
-        <e><p><l>happen</l><r>avis<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>happen</l><r>kant<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
+        <e><p><l>happen</l><r>avis<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>hug</l><r>avitsano<s n="inf"/>+EP@t+aantsi<s n="i-conj"/>+act.v</r></p><par n="Verb"/></e>
         <e><p><l>hunt</l><r>kin</r></p><par n="Verb"/></e>
         <e><p><l>identify</l><r>ooko<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>inform</l><r>kamant<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>join</l><r>tsipa<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
-        <e><p><l>jump</l><r>mit<s n="inf"/>+aantsi:agaantsi</r></p><par n="Verb"/></e>
         <e><p><l>jump</l><r>mitah<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
+        <e><p><l>jump</l><r>mit<s n="inf"/>+aantsi:agaantsi</r></p><par n="Verb"/></e>
         <e><p><l>kick</l><r>aatzik<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>land</l><r>aa<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
-        <e><p><l>live</l><r>any<s n="inf"/>+(a)antsi</r></p><par n="Verb"/></e>
         <e><p><l>live</l><r>anyi<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
+        <e><p><l>live</l><r>any<s n="inf"/>+(a)antsi</r></p><par n="Verb"/></e>
         <e><p><l>look_down_on</l><r>manin<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>make_holes</l><r>mok<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>mark</l><r>ooko<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
@@ -257,37 +257,37 @@
     </section>
     <section id="nouns" type="standard">
 <!--POINTERNROOT-->
-        <e><p><l>amazon_forest</l><r><s n="add_mi"/>+incha@'plant'+CL:to@'tree'+to/@CL:/'tree'+CL:shi@'leaf'+shi/@CL:/'leaf'+CL:sati@'provenance'+sati/@CL:/'provenance'</r></p><par n="Noun"/></e>
-        <e><p><l>amazon_region</l><r><s n="add_mi"/>+incha@'plant'+CL:to@'tree'+to/@CL:/'tree'+CL:shi@'leaf'+shi/@CL:/'leaf'+CL:sati@'provenance'+sati/@CL:/'provenance'</r></p><par n="Noun"/></e>
-        <e><p><l>amazonian</l><r><s n="add_mi"/>+incha@'plant'+CL:to@'tree'+to/@CL:/'tree'+CL:shi@'leaf'+shi/@CL:/'leaf'+CL:sati@'provenance'+sati/@CL:/'provenance'</r></p><par n="Noun"/></e>
+        <e><p><l>amazon_forest</l><r><s n="add_mi"/>+incha@'plant'+CL:to@'tree'+CL:shi@'leaf'+CL:sati@'provenance'</r></p><par n="Noun"/></e>
+        <e><p><l>amazon_region</l><r><s n="add_mi"/>+incha@'plant'+CL:to@'tree'+CL:shi@'leaf'+CL:sati@'provenance'</r></p><par n="Noun"/></e>
+        <e><p><l>amazonian</l><r><s n="add_mi"/>+incha@'plant'+CL:to@'tree'+CL:shi@'leaf'+CL:sati@'provenance'</r></p><par n="Noun"/></e>
         <e><p><l>aquatic</l><r>inyaaveri<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>aquatic_being</l><r>inyaaveri<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
-        <e><p><l>armored_catfish</l><r>kitetakiri<s n="preform"/>#hevari<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>armored_catfish</l><r>tsekinti<s n="preform"/>#hevari<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
+        <e><p><l>armored_catfish</l><r>kitetakiri<s n="preform"/>#hevari<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>arrow</l><r>chekopi<s n="gndr"/>+n.m.<s n="poss"/>+te:ti</r></p><par n="Noun"/></e>
         <e><p><l>bearded_man</l><r>shipatonanti<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>bed</l><r>maamento<s n="inal"/>+tsi</r></p><par n="Noun"/></e>
         <e><p><l>bell</l><r>kahemamento<s n="inal"/>+tsi</r></p><par n="Noun"/></e>
         <e><p><l>big_dove</l><r>potooti<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
-        <e><p><l>big_traditional_fishing_boat</l><r><s n="add_mi"/>+incha@'plant'+CL:to@'tree'+to/@CL:/'tree'+CL:naki@'round.hollow'+naki/@CL:/'round.hollow'</r></p><par n="Noun"/></e>
+        <e><p><l>big_traditional_fishing_boat</l><r><s n="add_mi"/>+incha@'plant'+CL:to@'tree'+CL:naki@'round.hollow'</r></p><par n="Noun"/></e>
         <e><p><l>bird</l><r>tsimeri<s n="gndr"/>+m.<s n="poss"/>+ti</r></p><par n="Noun"/></e>
         <e><p><l>book</l><r>nyaanamento<s n="gndr"/>+n.m.<s n="inal"/>+tsi</r></p><par n="Noun"/></e>
         <e><p><l>boquichico-fish</l><r>shima<s n="gndr"/>+m.<s n="poss"/>+ni:te</r></p><par n="Noun"/></e>
         <e><p><l>bored</l><r>sheminkari<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>boundary</l><r>overapaka</r></p><par n="Noun"/></e>
         <e><p><l>bow</l><r>tsovi</r></p><par n="Noun"/></e>
-        <e><p><l>brook</l><r><s n="add_mi"/>+niha@'water'+CL:teni@'longitudinal.depression'+teni/@CL:/'longitudinal.depression'</r></p><par n="Noun"/></e>
+        <e><p><l>brook</l><r><s n="add_mi"/>+niha@'water'+CL:teni@'longitudinal.depression'</r></p><par n="Noun"/></e>
         <e><p><l>burner</l><r>tsiyomento<s n="gndr"/>+n.m.<s n="inal"/>+tsi</r></p><par n="Noun"/></e>
         <e><p><l>candle</l><r>tsioro<s n="gndr"/>+n.m.<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
         <e><p><l>cane_for_arrows</l><r>chekopi<s n="gndr"/>+n.m.<s n="poss"/>+te:ti</r></p><par n="Noun"/></e>
         <e><p><l>carnivore</l><r>vatsatsinari<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>cocha</l><r>inkari<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>creek</l><r><s n="add_mi"/>+niha@'water'+CL:teni@'longitudinal.depression'+teni/@CL:/'longitudinal.depression'</r></p><par n="Noun"/></e>
+        <e><p><l>creek</l><r><s n="add_mi"/>+niha@'water'+CL:teni@'longitudinal.depression'</r></p><par n="Noun"/></e>
         <e><p><l>day</l><r>kitaiteri</r></p><par n="Noun"/></e>
         <e><p><l>dove</l><r>potooti<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>earth</l><r>kipatsi<s n="gndr"/>+n.m.<s n="poss"/>+te:ti</r></p><par n="Noun"/></e>
-        <e><p><l>fellow_citizen</l><r>sheninka</r></p><par n="Noun"/></e>
         <e><p><l>fellow_citizen</l><r>shaninka</r></p><par n="Noun"/></e>
+        <e><p><l>fellow_citizen</l><r>sheninka</r></p><par n="Noun"/></e>
         <e><p><l>firmament</l><r>inkite<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>fish</l><r>shima<s n="gndr"/>+m.<s n="poss"/>+ni:te</r></p><par n="Noun"/></e>
         <e><p><l>fish</l><r>kisontainari<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
@@ -295,8 +295,8 @@
         <e><p><l>forward_part_of_the_hull_of_a_boat</l><r>tsovi</r></p><par n="Noun"/></e>
         <e><p><l>grandfather</l><r>ani<s n="gndr"/>+m.<s n="kin"/>+male.ego</r></p><par n="Noun"/></e>
         <e><p><l>grandpa</l><r>ani<s n="gndr"/>+m.<s n="kin"/>+male.ego</r></p><par n="Noun"/></e>
-        <e><p><l>grasslander</l><r>keshiisatzi<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>grasslander</l><r>kishiisatzi<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
+        <e><p><l>grasslander</l><r>keshiisatzi<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>ground</l><r>kipatsi<s n="gndr"/>+n.m.<s n="poss"/>+te:ti</r></p><par n="Noun"/></e>
         <e><p><l>hair</l><r>kishi<s n="gndr"/>+n.m.<s n="inal"/>+tsi</r></p><par n="Noun"/></e>
         <e><p><l>hardwood_tree</l><r>hirivatziki<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
@@ -305,7 +305,7 @@
         <e><p><l>little_bird</l><r>tsimeri<s n="gndr"/>+m.<s n="poss"/>+ti</r></p><par n="Noun"/></e>
         <e><p><l>money</l><r>kireki<s n="gndr"/>+m.<s n="poss"/>+te</r></p><par n="Noun"/></e>
         <e><p><l>mud</l><r>kipatsi<s n="gndr"/>+n.m.<s n="poss"/>+te:ti</r></p><par n="Noun"/></e>
-        <e><p><l>plant_based_container/deposit_to_store</l><r><s n="add_mi"/>+incha@'plant'+CL:to@'tree'+to/@CL:/'tree'+CL:naki@'round.hollow'+naki/@CL:/'round.hollow'</r></p><par n="Noun"/></e>
+        <e><p><l>plant_based_container/deposit_to_store</l><r><s n="add_mi"/>+incha@'plant'+CL:to@'tree'+CL:naki@'round.hollow'</r></p><par n="Noun"/></e>
         <e><p><l>rain</l><r>inkani<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>sky</l><r>inkite<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>small_cane</l><r>chekopi<s n="gndr"/>+n.m.<s n="poss"/>+te:ti</r></p><par n="Noun"/></e>
