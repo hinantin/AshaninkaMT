@@ -213,6 +213,9 @@ sub extractlabels {
             elsif ($morphinfo =~ /'(.*)':(.*)/) { # <s n="add_mi"/>+EP@a+DUR 
               $suffelement = "$suffelement+$1\@$2"; 
             }
+            elsif ($morphinfo =~ /(.*):(.*)/) { # <s n="add_mi"/>+EP@a+DUR 
+              $suffelement = "$suffelement+$1\@$2"; 
+            }
             else {
               $suffelement = "$suffelement+$morphinfo"; 
             }
