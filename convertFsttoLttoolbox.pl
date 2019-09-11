@@ -129,6 +129,8 @@ sub sortprintelements {
     # replacements 
     $left =~ s/\./_/ig;
 	$left =~ s/-/_/ig;
+	$left =~ s/\(//ig;
+	$left =~ s/\)//ig;
     # listing elements 
     # right element treatment 
     foreach my $right (keys %{ $words{$leftelement} }) {
