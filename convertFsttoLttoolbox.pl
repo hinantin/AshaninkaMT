@@ -139,7 +139,8 @@ sub sortprintelements {
 	  #$left =~ s/\)//ig;
 	  #$left =~ s/\//_or_/ig;
       # printing the result to STDOUT 
-      print STDOUT "        <e><p><l>$left</l><r>$rightelementanalysis</r></p><par n=\"$section\"/></e>\n";
+	  printresults($left, $rightelementanalysis, $section);
+      #print STDOUT "        <e><p><l>$left</l><r>$rightelementanalysis</r></p><par n=\"$section\"/></e>\n";
       #printf "%-8s %s\n", $leftelement, $words{$leftelement};
     }
  }
@@ -244,3 +245,44 @@ sub extractlabels {
 }
 
 
+sub printresults {
+  my $left = $_[0];
+  my $rightelementanalysis = $_[1];
+  my $section = $_[2];
+  
+#my $test = 'to.(crush|mash).sth.with.wooden.pestle';
+#my $test = 'to.(crush).sth.with.wooden.pestle';
+my $test = $left;
+my $char1 = '(';
+my $char2 = ')';
+my $result1 = index($test, $char1);
+my $result2 = index($test, $char2);
+
+my $sub_string2 = substr($test, 0, $result1);
+print " $sub_string2: $result1 , $result2\n";
+
+if ($test =~ /(\(.*?\))(.*)/) { 
+  my $info1 = "";
+  $info1 = "$1";
+  my $info2 = "";
+  $info2 = "$2";
+  if ($info1 =~ /\(.*\|.*\)/) { 
+	  $info1 =~ s/\(//ig;
+	  $info1 =~ s/\)//ig;
+	  for my $morphinfo (split /\|/, $info1) {
+        print STDOUT "        <e><p><l>$sub_string2$morphinfo$info2</l><r>$rightelementanalysis</r></p><par n=\"$section\"/></e>\n";
+	  }
+  }
+  else {
+      #print STDOUT "Hello World: $sub_string2$info1$info2\n";
+	  print STDOUT "        <e><p><l>$sub_string2$info1$info2</l><r>$rightelementanalysis</r></p><par n=\"$section\"/></e>\n";
+      $info2 =~ s/^\.//ig;
+      #print STDOUT "Hello World: $sub_string2$info2\n";
+	  print STDOUT "        <e><p><l>$sub_string2$info2</l><r>$rightelementanalysis</r></p><par n=\"$section\"/></e>\n";
+  }
+}
+else {
+  print STDOUT "        <e><p><l>$left</l><r>$rightelementanalysis</r></p><par n=\"$section\"/></e>\n";
+}
+
+}
