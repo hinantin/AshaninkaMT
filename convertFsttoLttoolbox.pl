@@ -274,9 +274,11 @@ if ($test =~ /(\(.*?\))(.*)/) {
 	  }
   }
   else {
+	  $info1 =~ s/\(//ig;
+	  $info1 =~ s/\)//ig;
       #print STDOUT "Hello World: $sub_string2$info1$info2\n";
 	  print STDOUT "        <e><p><l>$sub_string2$info1$info2</l><r>$rightelementanalysis</r></p><par n=\"$section\"/></e>\n";
-      $info2 =~ s/^\.//ig;
+      $info2 =~ s/^\_//ig;
       #print STDOUT "Hello World: $sub_string2$info2\n";
 	  print STDOUT "        <e><p><l>$sub_string2$info2</l><r>$rightelementanalysis</r></p><par n=\"$section\"/></e>\n";
   }
