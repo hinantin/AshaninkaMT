@@ -259,7 +259,7 @@ my $result1 = index($test, $char1);
 my $result2 = index($test, $char2);
 
 my $sub_string2 = substr($test, 0, $result1);
-print " $sub_string2: $result1 , $result2\n";
+#print " $sub_string2: $result1 , $result2\n";
 
 if ($test =~ /(\(.*?\))(.*)/) { 
   my $info1 = "";

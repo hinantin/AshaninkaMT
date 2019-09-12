@@ -122,11 +122,11 @@
     </pardefs>
     <section id="personal_pronouns" type="standard">
 <!--POINTERPRNPERS-->
-        <e><p><l>I</l><r>naro<s n="pragm.func"/>+cont.d.TOP.<s n="num"/>+1SG</r></p><par n="Personal_pronouns"/></e>
         <e><p><l>I</l><r>naka<s n="pragm.func"/>+cont.d.TOP.<s n="num"/>+1SG.EXCL.</r></p><par n="Personal_pronouns"/></e>
         <e><p><l>I</l><r>naaka<s n="pragm.func"/>+cont.d.TOP.<s n="num"/>+1SG.EXCL.</r></p><par n="Personal_pronouns"/></e>
-        <e><p><l>he</l><r>iriro<s n="pragm.func"/>+cont.d.TOP.<s n="num"/>+3SG<s n="gndr"/>+m.</r></p><par n="Personal_pronouns"/></e>
+        <e><p><l>I</l><r>naro<s n="pragm.func"/>+cont.d.TOP.<s n="num"/>+1SG</r></p><par n="Personal_pronouns"/></e>
         <e><p><l>he</l><r>iri<s n="pragm.func"/>+cont.d.TOP.<s n="num"/>+3SG<s n="gndr"/>+m.</r></p><par n="Personal_pronouns"/></e>
+        <e><p><l>he</l><r>iriro<s n="pragm.func"/>+cont.d.TOP.<s n="num"/>+3SG<s n="gndr"/>+m.</r></p><par n="Personal_pronouns"/></e>
         <e><p><l>you</l><r>aviro<s n="pragm.func"/>+cont.d.TOP.<s n="num"/>+2SG</r></p><par n="Personal_pronouns"/></e>
         <e><p><l>you</l><r>eroka<s n="pragm.func"/>+cont.d.TOP.<s n="num"/>+2SG</r></p><par n="Personal_pronouns"/></e>
         <!--  -->
@@ -154,8 +154,8 @@
 <!--POINTERPRNPOSS-->
         <e><p><l>her</l><r>ashi<s n="num"/>+3SG<s n="gndr"/>+n.m.</r></p><par n="Possessive_pronoun"/></e>
         <e><p><l>hers</l><r>ashi<s n="num"/>+3SG<s n="gndr"/>+n.m.</r></p><par n="Possessive_pronoun"/></e>
-        <e><p><l>his</l><r>rashi<s n="num"/>+3SG<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
         <e><p><l>his</l><r>irashi<s n="num"/>+3SG<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>his</l><r>rashi<s n="num"/>+3SG<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
         <e><p><l>its</l><r>irashi<s n="num"/>+3SG<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
         <e><p><l>its</l><r>ashi<s n="num"/>+3SG<s n="gndr"/>+n.m.</r></p><par n="Possessive_pronoun"/></e>
         <e><p><l>mine</l><r>nashi<s n="num"/>+1SG</r></p><par n="Possessive_pronoun"/></e>
@@ -167,7 +167,8 @@
     </section>
     <section id="verbs" type="standard">
 <!--POINTERVROOT-->
-        <e><p><l>(crush|mash)_sth_with_wooden_pestle</l><r>tsink<s n="inf"/>+V</r></p><par n="Verb"/></e>
+        <e><p><l>crush_sth_with_wooden_pestle</l><r>tsink<s n="inf"/>+V</r></p><par n="Verb"/></e>
+        <e><p><l>mash_sth_with_wooden_pestle</l><r>tsink<s n="inf"/>+V</r></p><par n="Verb"/></e>
         <e><p><l>there_still_be</l><r>ainiro</r></p><par n="Verb"/></e>
         <e><p><l>there_is</l><r>ainiro</r></p><par n="Verb"/></e>
         <e><p><l>there_be_not</l><r>anyeerohi<s n="preform"/>#te</r></p><par n="Verb"/></e>
@@ -258,6 +259,7 @@
     <section id="nouns" type="standard">
 <!--POINTERNROOT-->
         <e><p><l>(sweet)_manioc</l><r>kaniri<s n="add_mi"/>+N:yucca@kanir+nposs@i<s n="gndr"/>+n.m.<s n="voc"/>+N</r></p><par n="Noun"/></e>
+        <e><p><l>_manioc</l><r>kaniri<s n="add_mi"/>+N:yucca@kanir+nposs@i<s n="gndr"/>+n.m.<s n="voc"/>+N</r></p><par n="Noun"/></e>
         <e><p><l>achiote_pod</l><r>potsotsipenki<s n="add_mi"/>+N:annato@potsotsi+CL:pod@penki</r></p><par n="Noun"/></e>
         <e><p><l>activity_of_fishing_with_barbasco_at_the_bank_of_the_river</l><r>konatsapiyare<s n="add_mi"/>+V:to.appear@kona+CL:side.of.river@tsapiya+NMZ@re<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
         <e><p><l>amazon_forest</l><r>inchatoshisati<s n="add_mi"/>+N:plant@incha+CL:tree@to+CL:leaf@shi+CL:provenance@sati</r></p><par n="Noun"/></e>
@@ -338,8 +340,8 @@
         <e><p><l>water_sprite</l><r>nihaveri<s n="add_mi"/>+N:water@niha+CL:agentive@veri<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>waterfall</l><r>pariha<s n="add_mi"/>+V:to.fall@pari+CL:liquid@ha</r></p><par n="Noun"/></e>
         <e><p><l>waterfall</l><r>parihare<s n="add_mi"/>+V:to.fall@pari+CL:liquid@ha+NMZ@re<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
-        <e><p><l>woman</l><r>tsinane<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>woman</l><r>koya<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>woman</l><r>tsinane<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>young_girl</l><r>tsinane<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>yucca</l><r>kaniri<s n="add_mi"/>+N:yucca@kanir+nposs@i<s n="gndr"/>+n.m.<s n="voc"/>+N</r></p><par n="Noun"/></e>
         <e><p><l>yucca_mass</l><r>kaniriapatsa<s n="add_mi"/>+N:yucca@kaniri+CL:liquid@a+CL:mass@patsa</r></p><par n="Noun"/></e>
