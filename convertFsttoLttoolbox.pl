@@ -135,9 +135,9 @@ sub sortprintelements {
       
       my $rightelementanalysis = extractlabels($right);
 	  # pre-treatment for entries with optional parts or with multiple choices 
-	  $left =~ s/\(//ig;
-	  $left =~ s/\)//ig;
-	  $left =~ s/\//_or_/ig;
+	  #$left =~ s/\(//ig;
+	  #$left =~ s/\)//ig;
+	  #$left =~ s/\//_or_/ig;
       # printing the result to STDOUT 
       print STDOUT "        <e><p><l>$left</l><r>$rightelementanalysis</r></p><par n=\"$section\"/></e>\n";
       #printf "%-8s %s\n", $leftelement, $words{$leftelement};
