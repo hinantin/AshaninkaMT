@@ -122,13 +122,13 @@
     </pardefs>
     <section id="personal_pronouns" type="standard">
 <!--POINTERPRNPERS-->
-        <e><p><l>I</l><r>naka<s n="pragm.func"/>+cont.d.TOP.<s n="num"/>+1SG.EXCL.</r></p><par n="Personal_pronouns"/></e>
         <e><p><l>I</l><r>naro<s n="pragm.func"/>+cont.d.TOP.<s n="num"/>+1SG</r></p><par n="Personal_pronouns"/></e>
+        <e><p><l>I</l><r>naka<s n="pragm.func"/>+cont.d.TOP.<s n="num"/>+1SG.EXCL.</r></p><par n="Personal_pronouns"/></e>
         <e><p><l>I</l><r>naaka<s n="pragm.func"/>+cont.d.TOP.<s n="num"/>+1SG.EXCL.</r></p><par n="Personal_pronouns"/></e>
-        <e><p><l>he</l><r>iri<s n="pragm.func"/>+cont.d.TOP.<s n="num"/>+3SG<s n="gndr"/>+m.</r></p><par n="Personal_pronouns"/></e>
         <e><p><l>he</l><r>iriro<s n="pragm.func"/>+cont.d.TOP.<s n="num"/>+3SG<s n="gndr"/>+m.</r></p><par n="Personal_pronouns"/></e>
-        <e><p><l>you</l><r>eroka<s n="pragm.func"/>+cont.d.TOP.<s n="num"/>+2SG</r></p><par n="Personal_pronouns"/></e>
+        <e><p><l>he</l><r>iri<s n="pragm.func"/>+cont.d.TOP.<s n="num"/>+3SG<s n="gndr"/>+m.</r></p><par n="Personal_pronouns"/></e>
         <e><p><l>you</l><r>aviro<s n="pragm.func"/>+cont.d.TOP.<s n="num"/>+2SG</r></p><par n="Personal_pronouns"/></e>
+        <e><p><l>you</l><r>eroka<s n="pragm.func"/>+cont.d.TOP.<s n="num"/>+2SG</r></p><par n="Personal_pronouns"/></e>
         <!--  -->
         <e><p><l>i</l><r>naaka</r></p><par n="Personal_pronoun"/></e>
         <e><p><l>i</l><r>naka</r></p><par n="Personal_pronoun"/></e>
@@ -154,8 +154,8 @@
 <!--POINTERPRNPOSS-->
         <e><p><l>her</l><r>ashi<s n="num"/>+3SG<s n="gndr"/>+n.m.</r></p><par n="Possessive_pronoun"/></e>
         <e><p><l>hers</l><r>ashi<s n="num"/>+3SG<s n="gndr"/>+n.m.</r></p><par n="Possessive_pronoun"/></e>
-        <e><p><l>his</l><r>irashi<s n="num"/>+3SG<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
         <e><p><l>his</l><r>rashi<s n="num"/>+3SG<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>his</l><r>irashi<s n="num"/>+3SG<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
         <e><p><l>its</l><r>ashi<s n="num"/>+3SG<s n="gndr"/>+n.m.</r></p><par n="Possessive_pronoun"/></e>
         <e><p><l>its</l><r>irashi<s n="num"/>+3SG<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
         <e><p><l>mine</l><r>nashi<s n="num"/>+1SG</r></p><par n="Possessive_pronoun"/></e>
@@ -171,22 +171,22 @@
         <e><p><l>mash_sth_with_wooden_pestle</l><r>tsink<s n="inf"/>+V</r></p><par n="Verb"/></e>
         <e><p><l>there_still_be</l><r>ainiro</r></p><par n="Verb"/></e>
         <e><p><l>there_is</l><r>ainiro</r></p><par n="Verb"/></e>
+        <e><p><l>there_be_not</l><r>aneerohi<s n="preform"/>#te</r></p><par n="Verb"/></e>
         <e><p><l>there_be_not</l><r>anyeerohi<s n="preform"/>#te</r></p><par n="Verb"/></e>
         <e><p><l>there_be_not</l><r>tekatsi</r></p><par n="Verb"/></e>
-        <e><p><l>there_be_not</l><r>aneerohi<s n="preform"/>#te</r></p><par n="Verb"/></e>
         <e><p><l>NEG_POSSESS: do_not_have</l><r>tekatsi</r></p><par n="Verb"/></e>
         <e><p><l>POSSESS</l><r>ainiro</r></p><par n="Verb"/></e>
         <e><p><l>accompany</l><r>tsipa<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>advise</l><r>kamant<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
-        <e><p><l>be</l><r>kant<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>be</l><r>na<s n="inf"/>+EP@t+antsi</r></p><par n="Verb"/></e>
+        <e><p><l>be</l><r>kant<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>be_a_relative_of</l><r>kashiy<s n="i-conj"/>+act.v</r></p><par n="Verb"/></e>
         <e><p><l>be_able</l><r>kant<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>be_alive</l><r>any<s n="inf"/>+(a)antsi</r></p><par n="Verb"/></e>
         <e><p><l>be_alive</l><r>anyi<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>be_bored</l><r>shem<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
-        <e><p><l>be_of_the_same_group</l><r>shani</r></p><par n="Verb"/></e>
         <e><p><l>be_of_the_same_group</l><r>sheni</r></p><par n="Verb"/></e>
+        <e><p><l>be_of_the_same_group</l><r>shani</r></p><par n="Verb"/></e>
         <e><p><l>be_phlegmy</l><r>karentsa<s n="inf"/>+EP@t+VC</r></p><par n="Verb"/></e>
         <e><p><l>be_slippery</l><r>karentsa<s n="inf"/>+EP@t+VC</r></p><par n="Verb"/></e>
         <e><p><l>be_together</l><r>tsipa<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
@@ -281,7 +281,7 @@
         <e><p><l>big_dove</l><r>potooti<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>big_traditional_fishing_boat</l><r>inchatonaki<s n="add_mi"/>+N:plant@incha+CL:tree@to+CL:round.hollow@naki</r></p><par n="Noun"/></e>
         <e><p><l>bird</l><r>tsimeri<s n="gndr"/>+m.<s n="poss"/>+ti</r></p><par n="Noun"/></e>
-        <e><p><l>book</l><r>nyaanamento<s n="gndr"/>+n.m.<s n="inal"/>+tsi</r></p><par n="Noun"/></e>
+        <e><p><l>book</l><r>nyaanamento<s n="add_mi"/>+V:to.read@nyaana+CONCR@mento<s n="gndr"/>+n.m.<s n="inal"/>+tsi</r></p><par n="Noun"/></e>
         <e><p><l>boquichico_fish</l><r>shima<s n="gndr"/>+m.<s n="poss"/>+ni:te</r></p><par n="Noun"/></e>
         <e><p><l>bored</l><r>sheminkari<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>boundary</l><r>overapaka</r></p><par n="Noun"/></e>
@@ -316,8 +316,8 @@
         <e><p><l>grandfather</l><r>ani<s n="gndr"/>+m.<s n="kin"/>+male.ego</r></p><par n="Noun"/></e>
         <e><p><l>grandpa</l><r>ani<s n="gndr"/>+m.<s n="kin"/>+male.ego</r></p><par n="Noun"/></e>
         <e><p><l>grandson</l><r>ani<s n="gndr"/>+m.<s n="kin"/>+male.ego</r></p><par n="Noun"/></e>
-        <e><p><l>grasslander</l><r>kishiisatzi<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>grasslander</l><r>keshiisatzi<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
+        <e><p><l>grasslander</l><r>kishiisatzi<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>ground</l><r>kipatsi<s n="gndr"/>+n.m.<s n="poss"/>+te:ti</r></p><par n="Noun"/></e>
         <e><p><l>hair</l><r>kishi<s n="gndr"/>+n.m.<s n="inal"/>+tsi</r></p><par n="Noun"/></e>
         <e><p><l>hardwood_tree</l><r>hirivatziki<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
@@ -348,8 +348,8 @@
         <e><p><l>tree_flower</l><r>inchateaki<s n="add_mi"/>+N:plant@incha+CL:teaki@flower</r></p><par n="Noun"/></e>
         <e><p><l>tree_root</l><r>shitsapaereki<s n="add_mi"/>+N:vine@shitsa+CL:root@paere+CL:stick-like@ki</r></p><par n="Noun"/></e>
         <e><p><l>tree</l><r>mapa<s n="gndr"/>+n.m.<s n="poss"/>+ni</r></p><par n="Noun"/></e>
-        <e><p><l>uncle</l><r>iritsori<s n="add_mi"/>+N:father@iri+CL:distant.kin@tsori<s n="gndr"/>+m.<s n="kin"/>+fe/male.ego</r></p><par n="Noun"/></e>
         <e><p><l>uncle</l><r>pavachori<s n="add_mi"/>+N:father@pava+CL:distant.kin@chori<s n="gndr"/>+m.<s n="poss"/>+ti<s n="kin"/>+male.ego</r></p><par n="Noun"/></e>
+        <e><p><l>uncle</l><r>iritsori<s n="add_mi"/>+N:father@iri+CL:distant.kin@tsori<s n="gndr"/>+m.<s n="kin"/>+fe/male.ego</r></p><par n="Noun"/></e>
         <e><p><l>vaccine</l><r>sataamento<s n="add_mi"/>+V:to.stick.sth.into.sth./sb.@sat+CL:liquid@aa+CONCR@mento<s n="inal"/>+tsi</r></p><par n="Noun"/></e>
         <e><p><l>vanilla</l><r>asopi<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>venomous_root</l><r>inchapari<s n="add_mi"/>+N:plant@incha+CL:root@pari</r></p><par n="Noun"/></e>
@@ -363,8 +363,8 @@
         <e><p><l>waterfall</l><r>pariha<s n="add_mi"/>+V:to.fall@pari+CL:liquid@ha</r></p><par n="Noun"/></e>
         <e><p><l>wealthy_man</l><r>kireekipakori<s n="add_mi"/>+N:money@kireeki+CL:hand@pako+NMZ@ri<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>wealthy_woman</l><r>kireekipakoro<s n="add_mi"/>+N:money@kireeki+CL:hand@pako+NMZ@ro<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>woman</l><r>tsinane<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>woman</l><r>koya<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>woman</l><r>tsinane<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>young_girl</l><r>tsinane<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>yucca</l><r>kaniri<s n="add_mi"/>+N:yucca@kanir+nposs@i<s n="gndr"/>+n.m.<s n="voc"/>+N</r></p><par n="Noun"/></e>
         <e><p><l>yucca_mass</l><r>kaniriapatsa<s n="add_mi"/>+N:yucca@kaniri+CL:liquid@a+CL:mass@patsa</r></p><par n="Noun"/></e>
