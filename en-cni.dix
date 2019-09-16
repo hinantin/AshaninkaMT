@@ -123,8 +123,8 @@
     <section id="personal_pronouns" type="standard">
 <!--POINTERPRNPERS-->
         <e><p><l>I</l><r>naaka<s n="pragm.func"/>+cont.d.TOP.<s n="num"/>+1SG.EXCL.</r></p><par n="Personal_pronouns"/></e>
-        <e><p><l>I</l><r>naka<s n="pragm.func"/>+cont.d.TOP.<s n="num"/>+1SG.EXCL.</r></p><par n="Personal_pronouns"/></e>
         <e><p><l>I</l><r>naro<s n="pragm.func"/>+cont.d.TOP.<s n="num"/>+1SG</r></p><par n="Personal_pronouns"/></e>
+        <e><p><l>I</l><r>naka<s n="pragm.func"/>+cont.d.TOP.<s n="num"/>+1SG.EXCL.</r></p><par n="Personal_pronouns"/></e>
         <e><p><l>he</l><r>iriro<s n="pragm.func"/>+cont.d.TOP.<s n="num"/>+3SG<s n="gndr"/>+m.</r></p><par n="Personal_pronouns"/></e>
         <e><p><l>he</l><r>iri<s n="pragm.func"/>+cont.d.TOP.<s n="num"/>+3SG<s n="gndr"/>+m.</r></p><par n="Personal_pronouns"/></e>
         <e><p><l>you</l><r>aviro<s n="pragm.func"/>+cont.d.TOP.<s n="num"/>+2SG</r></p><par n="Personal_pronouns"/></e>
@@ -156,12 +156,12 @@
         <e><p><l>hers</l><r>ashi<s n="num"/>+3SG<s n="gndr"/>+n.m.</r></p><par n="Possessive_pronoun"/></e>
         <e><p><l>his</l><r>rashi<s n="num"/>+3SG<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
         <e><p><l>his</l><r>irashi<s n="num"/>+3SG<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
-        <e><p><l>its</l><r>irashi<s n="num"/>+3SG<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
         <e><p><l>its</l><r>ashi<s n="num"/>+3SG<s n="gndr"/>+n.m.</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>its</l><r>irashi<s n="num"/>+3SG<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
         <e><p><l>mine</l><r>nashi<s n="num"/>+1SG</r></p><par n="Possessive_pronoun"/></e>
         <e><p><l>ours</l><r>ashi<s n="num"/>+1PL</r></p><par n="Possessive_pronoun"/></e>
-        <e><p><l>theirs</l><r>ashiite<s n="add_mi"/>+PRN:3SG.n.m.(its)@ashi+ANIM.PL@ite<s n="num"/>+3PL<s n="gndr"/>+n.m.</r></p><par n="Possessive_pronoun"/></e>
         <e><p><l>theirs</l><r>irashiite<s n="add_mi"/>+PRN:3SG.m.(his)@irashi+ANIM.PL@ite<s n="num"/>+3PL<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>theirs</l><r>ashiite<s n="add_mi"/>+PRN:3SG.n.m.(its)@ashi+ANIM.PL@ite<s n="num"/>+3PL<s n="gndr"/>+n.m.</r></p><par n="Possessive_pronoun"/></e>
         <e><p><l>yours</l><r>pashiite<s n="add_mi"/>+PRN:2SG.(yours)@pashi+ANIM.PL@ite<s n="num"/>+2PL</r></p><par n="Possessive_pronoun"/></e>
         <e><p><l>yours</l><r>pashi<s n="num"/>+2SG</r></p><par n="Possessive_pronoun"/></e>
     </section>
@@ -171,9 +171,9 @@
         <e><p><l>mash_sth_with_wooden_pestle</l><r>tsink<s n="inf"/>+V</r></p><par n="Verb"/></e>
         <e><p><l>there_still_be</l><r>ainiro</r></p><par n="Verb"/></e>
         <e><p><l>there_is</l><r>ainiro</r></p><par n="Verb"/></e>
-        <e><p><l>there_be_not</l><r>aneerohi<s n="preform"/>#te</r></p><par n="Verb"/></e>
         <e><p><l>there_be_not</l><r>tekatsi</r></p><par n="Verb"/></e>
         <e><p><l>there_be_not</l><r>anyeerohi<s n="preform"/>#te</r></p><par n="Verb"/></e>
+        <e><p><l>there_be_not</l><r>aneerohi<s n="preform"/>#te</r></p><par n="Verb"/></e>
         <e><p><l>NEG_POSSESS: do_not_have</l><r>tekatsi</r></p><par n="Verb"/></e>
         <e><p><l>POSSESS</l><r>ainiro</r></p><par n="Verb"/></e>
         <e><p><l>accompany</l><r>tsipa<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
@@ -190,8 +190,8 @@
         <e><p><l>be_phlegmy</l><r>karentsa<s n="inf"/>+EP@t+VC</r></p><par n="Verb"/></e>
         <e><p><l>be_slippery</l><r>karentsa<s n="inf"/>+EP@t+VC</r></p><par n="Verb"/></e>
         <e><p><l>be_together</l><r>tsipa<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
-        <e><p><l>be_unfaithful</l><r>aiment<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>be_unfaithful</l><r>aivent<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
+        <e><p><l>be_unfaithful</l><r>aiment<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>be_viscous</l><r>karentsa<s n="inf"/>+EP@t+VC</r></p><par n="Verb"/></e>
         <e><p><l>boom</l><r>kameni<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>bring</l><r>am<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
@@ -225,8 +225,8 @@
         <e><p><l>jump</l><r>mit<s n="inf"/>+aantsi:agaantsi</r></p><par n="Verb"/></e>
         <e><p><l>kick</l><r>aatzik<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>land</l><r>aa<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
-        <e><p><l>live</l><r>anyi<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>live</l><r>any<s n="inf"/>+(a)antsi</r></p><par n="Verb"/></e>
+        <e><p><l>live</l><r>anyi<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>look_down_on</l><r>manin<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>make_holes</l><r>mok<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>mark</l><r>ooko<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
@@ -311,8 +311,8 @@
         <e><p><l>earthquake</l><r>onika</r></p><par n="Noun"/></e>
         <e><p><l>exclamation_mark</l><r>shintsitsaro<s n="add_mi"/>+V:to.be.strong@shintsi+CL:long.flexible.thin@tsa+NMZ@ro</r></p><par n="Noun"/></e>
         <e><p><l>exit</l><r>sokihamento<s n="add_mi"/>+V:to.go.out@sokih+EP@a+CONCR@mento<s n="inal"/>+tsi</r></p><par n="Noun"/></e>
-        <e><p><l>fellow_citizen</l><r>sheninka</r></p><par n="Noun"/></e>
         <e><p><l>fellow_citizen</l><r>shaninka</r></p><par n="Noun"/></e>
+        <e><p><l>fellow_citizen</l><r>sheninka</r></p><par n="Noun"/></e>
         <e><p><l>female</l><r>tsinane<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>finger</l><r>akoimpeki<s n="add_mi"/>+hand@ako+CL:branching.from.one.node@impeki<s n="gndr"/>+n.m.<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
         <e><p><l>firmament</l><r>inkite<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
@@ -390,9 +390,6 @@
         <!-- #####
             B 
         ##### -->
-        <!-- ayomparitaantsi / =ayompari -t -aantsi / =trading.partner -ep -inf / EN: 'barter, the.bartering'; ES: 'trueque, persona.que.intercambia.cosas' -->
-        <e><p><l>barter</l><r>ayomparitaantsi</r></p><par n="Noun"/></e>
-        <!--  -->
         <e><p><l>bow</l><r>tsovi</r></p><par n="Noun"/></e>
         <!-- overapaka / EN: 'boundary'; ES: 'límite' --> 
         <e><p><l>boundary</l><r>overapaka</r></p><par n="Noun"/></e>
