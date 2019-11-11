@@ -1,7 +1,7 @@
 ### Machine Translation English - Ashaninka 
 
-How to download this repository
-===============
+How to download the source code 
+===============================
 
 * Using `wget`
 ```
