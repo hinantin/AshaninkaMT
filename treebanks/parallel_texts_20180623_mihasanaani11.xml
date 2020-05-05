@@ -2277,8 +2277,8 @@ ovantsi	[=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (E
         <parsing format="" analysislevel=""/>
     </text>
     <text id="8.65">
-        <sentence lang="prq">Vino, vino, durmió en medio del camino, venía, seguía caminando solita.</sentence>
-        <sentence lang="es">Opakaki, opoki, opoki, omaanaki niyanki avotsi, irojatzi opoki, opoki apaniroinira.</sentence>
+        <sentence lang="es">Vino, vino, durmió en medio del camino, venía, seguía caminando solita.</sentence>
+        <sentence lang="prq">Opakaki, opoki, opoki, omaanaki niyanki avotsi, irojatzi opoki, opoki apaniroinira.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
@@ -2349,8 +2349,8 @@ ovantsi	[=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (E
         <parsing format="" analysislevel=""/>
     </text>
     <text id="8.77">
-        <sentence lang="prq">“Voy a irme hacia la altura.‟</sentence>
-        <sentence lang="es">Okantziro: “Nojatatye katonko.”</sentence>
+        <sentence lang="es">“Voy a irme hacia la altura.‟</sentence>
+        <sentence lang="prq">Okantziro: “Nojatatye katonko.”</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
@@ -6162,13 +6162,13 @@ yakipayetapaki	[y-][VPers][3m.S/A+][--][=akipa][VRoot][=to.wrap.sth.with.leaves 
         <parsing format="" analysislevel=""/>
     </text>
     <text id="21.6">
-        <sentence lang="prq">Me dijo, me llevó, me buscó un hombre, me entregó a él.</sentence>
-        <sentence lang="es">Okantakina, aanakina iroñaaka amenakinari aparoni shirampari, opakinari.</sentence>
+        <sentence lang="es">Me dijo, me llevó, me buscó un hombre, me entregó a él.</sentence>
+        <sentence lang="prq">Okantakina, aanakina iroñaaka amenakinari aparoni shirampari, opakinari.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="21.7">
-        <sentence lang="prq">Okanta noimentakari irintanakari nishintopaye iroñaaka.</sentence>
+        <sentence lang="prq">Okanta   irintanakari nishintopaye iroñaaka.</sentence>
         <sentence lang="es">Así era como me casé con él que fue el padre de mis hijos.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>

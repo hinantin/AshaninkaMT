@@ -47,7 +47,8 @@ obayeri	[=ovayeri+m.][NRoot][=warrior (ES: guerrero)]
 </parsing>
     </text>
     <text id="1.2">
-        <sentence lang="prq">Eero piñanatiro iina Yompiri, amaenkari inati.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Eero piñanatiro iina Yompiri, amaenkari inati.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Eero pinyanatiro iina Yompiri, amaenkari inati.</sentence>
         <sentence lang="es">No hables con la esposa de Yompiri porque es celoso.</sentence>
         <sentence lang="en">Don't talk to Yompiri's wife because he is a jealous man.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
@@ -94,7 +95,8 @@ inati	[i-][VPers][3m.S+][--][=na][VRoot][=to.be][--][-t][+EP]t[--][-i][+REAL]i
 </parsing>
     </text>
     <text id="2">
-        <sentence lang="prq">Amake noshabo koriti obaantsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Amake noshabo koriti obaantsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Amake noshavo koriti ovaantsiki.</sentence>
         <sentence lang="es">Mi nieta trajo camotes de la chacra.</sentence>
         <sentence lang="en">My granddaughter brought sweet potatoes from the sown field.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -128,7 +130,8 @@ obaantsiki	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.plot.of.land (ES: chacr
 </parsing>
     </text>
     <text id="3">
-        <sentence lang="prq">Irika aaniri rashinonkaaka tekatsi iriripaye. </sentence>
+        <sentence lang="prq" normalizationlevel="none">Irika aaniri rashinonkaaka tekatsi iriripaye. </sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Irika aaniri rashinonkaaka tekatsi iriripaye. </sentence>
         <sentence lang="es">Este niño huérfano está sufriendo porque no tiene padres.</sentence>
         <sentence lang="en">This orphan child is suffering because he doesn't have parents.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
@@ -164,7 +167,8 @@ iriripaye	[ir-][NPers][3m.poss+][--][=iri+m.][NRoot][=father (kin.of.a.fe/male)]
 </parsing>
     </text>
     <text id="4">
-        <sentence lang="prq">Noñaakero nanaeni aanakiro obantire obaantsiki. </sentence>
+        <sentence lang="prq" normalizationlevel="none">Noñaakero nanaeni aanakiro obantire obaantsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Nonyaakero nanaeni aanakiro ovantire ovaantsiki.</sentence>
         <sentence lang="es">Vi a mi tía llevar su canasta a la chacra.</sentence>
         <sentence lang="en">I saw my aunt carrying her basket towards the sown field.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
@@ -207,7 +211,8 @@ obaantsiki	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.lan
 </parsing>
     </text>
     <text id="5">
-        <sentence lang="prq">Okantakina nishintyo: Ramaki aapi shitobi. </sentence>
+        <sentence lang="prq" normalizationlevel="none">Okantakina nishintyo: Ramaki aapi shitobi. </sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Okantakina nishintyo: Ramaki aapi shitovi. </sentence>
         <sentence lang="es">Mi hija me dijo: “Mi abuelo trajo callampa”.</sentence>
         <sentence lang="en">My daughter told me: "Grandfather brought callampa-mushroom".</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
@@ -251,7 +256,8 @@ shitobi	[=shitovi+n.m.][NRoot][=callampa-mushroom]
 </parsing>
     </text>
     <text id="6">
-        <sentence lang="prq">Okantakena choeni: Pamakena aari tsitsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Okantakena choeni: Pamakena aari tsitsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Okantakena choeni: Pamakena aari tsitsi.</sentence>
         <sentence lang="es">Mi hermana me dijo: “Hermano, tráeme leña”.</sentence>
         <sentence lang="en">Sister told me: "Brother, bring me firewood".</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
@@ -295,7 +301,8 @@ tsitsi	[=tsitsi+n.m.][NRoot][=firewood (ES: leña)]
 </parsing>
     </text>
     <text id="7">
-        <sentence lang="prq">Aatonkoriakero choeni ishinto oitsare okaboshitantyaabori.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Aatonkoriakero choeni ishinto oitsare okaboshitantyaabori.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Aatonkoriakero choeni ishinto oitsare okavoshitantyaavori.</sentence>
         <sentence lang="es">Mi hermana desnudó a su hija para bañarla.</sentence>
         <sentence lang="en">My sister undressed her daughter in order to bathe her.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -335,7 +342,8 @@ okaboshitantyaabori	[o-][VPers][3n.m.A+][--][=kavoshi][VRoot][=to.bathe (ES: ba�
 </parsing>
     </text>
     <text id="8.1">
-        <sentence lang="prq">Pamakenari abentyari akaatabakeriita nija jaabari. </sentence>
+        <sentence lang="prq" normalizationlevel="none">Pamakenari abentyari akaatabakeriita nija jaabari. </sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Pamakenari aventyari akaatavakeriita niha haavari. </sentence>
         <sentence lang="es">Trae al llorón para bañarlo con agua caliente.</sentence>
         <sentence lang="en">Bring the cry-baby in order to bathe him with warm water.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -379,7 +387,8 @@ jaabari	[=haavari+m.][NRoot][=warm, hot (prbly.liquid)]
 </parsing>
     </text>
     <text id="8.2">
-        <sentence lang="prq">Irika eentsi abentyari osheki ikaimi tsireniriki. </sentence>
+        <sentence lang="prq" normalizationlevel="none">Irika eentsi abentyari osheki ikaimi tsireniriki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Irika eentsi aventyari osheki ikaimi tsireniriki.</sentence>
         <sentence lang="es">Este niño llorón grita demasiado por las noches.</sentence>
         <sentence lang="en">This cry-baby child screams a lot at night.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -419,7 +428,8 @@ tsireniriki	[=tsireniri][NRoot][=night][--][-ki][Cas][+LOC.T]
 </parsing>
     </text>
     <text id="9">
-        <sentence lang="prq">Nabijakero nampitsi nareetantakari jaka.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Nabijakero nampitsi nareetantakari jaka.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Navihakero nampitsi nareetantakari haka.</sentence>
         <sentence lang="es">Pasé la ciudad para llegar hasta aquí.</sentence>
         <sentence lang="en">I passed by the settlement in order to get here.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -461,7 +471,8 @@ jaka	[=haka+proximal.b.][PrnDem][=here, close.to.the.speaker (ES: aquí)]
 </parsing>
     </text>
     <text id="10">
-        <sentence lang="prq">Osheki itsaati abo aririka iñee pokatsiri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Osheki itsaati abo aririka iñee pokatsiri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Osheki itsaati avo aririka inyee pokatsiri.</sentence>
         <sentence lang="es">El tatatao avisa cuando ve acercarse a alguien.</sentence>
         <sentence lang="en">The tatatao-vulture warns when it sees somebody approaching.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -502,7 +513,8 @@ pokatsiri	[=pok][VRoot][=to.come (ES: venir), to.arrive][--][-atsi][Asp][+STAT.I
 </parsing>
     </text>
     <text id="11">
-        <sentence lang="prq">Poyaatanakero abotsi jatatsiri kempityaariki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Poyaatanakero abotsi jatatsiri kempityaariki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Poyaatanakero avotsi hatatsiri kempityaariki.</sentence>
         <sentence lang="es">Sigue el camino que va a la comunidad de Kempityari.</sentence>
         <sentence lang="en">Follow the road that goes towards the Kempityari community.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -542,7 +554,8 @@ kempityaariki	[=kempityaari][NRoot][=NP][--][-ki][Cas][+LOC]
 </parsing>
     </text>
     <text id="12">
-        <sentence lang="prq">Ijampitiro charine isheeni: ¿Aeniro piarentsi nireri? </sentence>
+        <sentence lang="prq" normalizationlevel="none">Ijampitiro charine isheeni: ¿Aeniro piarentsi nireri? </sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ihampitiro charine isheeni: ¿Aeniro piarentsi nireri? </sentence>
         <sentence lang="es">Mi abuelo pregunta a mi abuela: “¿Hay masato para tomar?”</sentence>
         <sentence lang="en">Grandfather asks grandmother: "Is there manioc-beer to drink?"</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -571,7 +584,8 @@ nireri	[n-][VPers][1SG.S/A+][--][=ir][VRoot][=to.drink (ES: beber)][--][-e][+IRR
     </text>
     <text id="13">
         <!-- Itsatakiro ajopi koriari ikanjantantyaari. -->
-        <sentence lang="prq">Itsatakiro ajopi koriari ikajankantyaari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Itsatakiro ajopi koriari ikajankantyaari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Itsatakiro ahopi koriari ikahankantyaari.</sentence>
         <sentence lang="es">Koriari se cuelga vainilla en la espalda para estar perfumado.</sentence>
         <sentence lang="en">Koriari wears an aromatic love amulet on his back in order to be perfumed.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -610,7 +624,8 @@ ikajankantyaari	[i-][VPers][3m.S+][--][=kahank][VRoot][=to.perfume (ES: perfumar
 </parsing>
     </text>
     <text id="14">
-        <sentence lang="prq">Pakeri pabachori, ikaematimi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Pakeri pabachori, ikaematimi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Pakeri pavachori, ikaematimi.</sentence>
         <sentence lang="es">Responde a tu tío, te está llamando.</sentence>
         <sentence lang="en">Answer back to your uncle, he is calling you.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
@@ -630,7 +645,8 @@ ikaematimi	[i-][VPers][3m.S+][--][=kaem][VRoot][=to.call.sb.][--][-ati][ASP][+PR
         <parsing format="CoNLL" analysislevel="not-fully"/>
     </text>
     <text id="15">
-        <sentence lang="prq">Ikantana nirentitsori: Poya mamori akacharentsi. </sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikantana nirentitsori: Poya mamori akacharentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikantana nirentitsori: Poya mamori akacharentsi.</sentence>
         <sentence lang="es">Mi primo me dice: “Come el sábalo anzueleado”.</sentence>
         <sentence lang="en">My cousin tells me: "Eat the angled sabalo-fish".</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -654,7 +670,8 @@ akacharentsi	[=akacha][VRoot][=to.fish.with.a.line.and.a.hook, to.angle (ES: ans
         <parsing format="CoNLL" analysislevel="not-fully"/>
     </text>
     <text id="16">
-        <sentence lang="prq">Namanantake akachaarontsi akachatantyaari mamoripaye.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Namanantake akachaarontsi akachatantyaari mamoripaye.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Namanantake akachaarontsi akachatantyaari mamoripaye.</sentence>
         <sentence lang="es">Compré un anzuelo para pescar sábalos.</sentence>
         <sentence lang="en">I bought a hook in order to fish sabalo-fishes.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -673,7 +690,8 @@ mamoripaye	[=mamori+m.][NRoot][=fish.sp., sabalo (sci.nm.: brycon.sp.)][--][-pay
     </text>
     <text id="17">
         <!-- Irika niyompari akachabaerenti kitaejerikipaye roba shima. -->
-        <sentence lang="prq">Irika niyompari akachabaerenti kitaeterikipaye roba shima.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Irika niyompari akachabaerenti kitaeterikipaye roba shima.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Irika niyompari akachavaerenti kitaeterikipaye rova shima.</sentence>
         <sentence lang="es">Este amigo que pesca con anzuelo come pescado todos los días.</sentence>
         <sentence lang="en">This friend who fishes with a fishhook, eats fish every day.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -714,7 +732,8 @@ shima	[=shima+m.+poss@ni.][NRoot][=fish; fish.sp., boquichico-fish (ES: boquichi
 </parsing>
     </text>
     <text id="18">
-        <sentence lang="prq">Rakachatiri Shebankori komairi omotyaaki nija.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Rakachatiri Shebankori komairi omotyaaki nija.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rakachatiri Shevankori komairi omotyaaki niha.</sentence>
         <sentence lang="es">Shewankori anzuelea paco en la poza del río.</sentence>
         <sentence lang="en">Shevankori angles paco-fish in the billabong.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -736,7 +755,8 @@ nija	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
         <parsing format="CoNLL" analysislevel="not-fully"/>
     </text>
     <text id="19">
-        <sentence lang="prq">Tasheyakena, pimpena pakishire.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Tasheyakena, pimpena pakishire.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Tasheyakena, pimpena pakishire.</sentence>
         <sentence lang="es">Siento hambre, dame tu asado.</sentence>
         <sentence lang="en">I am hungry, give me your roast.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -756,7 +776,8 @@ pakishire	[p-][NPers][2poss+][--][=akishi][VRoot][=to.roast (ES: asar)][--][-re+
         <parsing format="CoNLL" analysislevel="not-fully"/>
     </text>
     <text id="20">
-        <sentence lang="prq">Akishitiniri naana apa kaniri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Akishitiniri naana apa kaniri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Akishitiniri naana apa kaniri.</sentence>
         <sentence lang="es">Mi mamá asa yuca para mi papá.</sentence>
         <sentence lang="en">Mother roasts sweet manioc for father.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -774,7 +795,8 @@ kaniri	[=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca (ES: yuca.dulce; sci.nm
 </morphology>
     </text>
     <text id="21">
-        <sentence lang="prq">Rakitsitatya yeye paamariki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Rakitsitatya yeye paamariki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rakitsitatya yeye paamariki.</sentence>
         <sentence lang="es">Mi hermano se calienta en el fuego.</sentence>
         <sentence lang="en">My brother is getting warm near the fire.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -792,7 +814,8 @@ paamariki	[=paamari+n.m.][NRoot][=fire (ES: candela, fuego)][--][-ki][Cas][+LOC_
         <parsing/>
     </text>
     <text id="22">
-        <sentence lang="prq">Itinairo irianeerikipaye rakopero.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Itinairo irianeerikipaye rakopero.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Itinairo irianeerikipaye rakopero.</sentence>
         <sentence lang="es">Los niños levantan la mano derecha.</sentence>
         <sentence lang="en">Children raise their right hand.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -811,7 +834,8 @@ rakopero	[r-][NPers][3m.poss+][--][=akopero+inal@n/tsi.][NRoot][=right.hand (ES:
     </text>
     <text id="23">
         <!-- Robaankiro entsi rako rakatsatantyaariri iriri. -->
-        <sentence lang="prq">Robaakiro entsi rako rakatsatantyaariri iriri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Robaakiro entsi rako rakatsatantyaariri iriri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovaakiro entsi rako rakatsatantyaariri iriri.</sentence>
         <sentence lang="es">El niño alza la mano para agarrar a su padre.</sentence>
         <sentence lang="en">The child raises the hand in order to grab his father.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -831,7 +855,8 @@ iriri	[ir-][NPers][3m.poss+][--][=iri+m.][NRoot][=father (kin.of.a.fe/male)]
         <parsing/>
     </text>
     <text id="24">
-        <sentence lang="prq">Aanakero amaani pitotsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Aanakero amaani pitotsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Aanakero amaani pitotsi.</sentence>
         <sentence lang="es">La creciente llevó la canoa.</sentence>
         <sentence lang="en">The increase carried the canoe.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -847,7 +872,8 @@ pitotsi	[=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe (ES: canoa)][--][-tsi+alie
         <parsing/>
     </text>
     <text id="25.1">
-        <sentence lang="prq">Ontimatye ramaate maniro imontyantyaabori obeniki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ontimatye ramaate maniro imontyantyaabori obeniki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ontimatye ramaate maniro imontyantyaavori oveniki.</sentence>
         <sentence lang="es">El venado tiene que nadar para cruzar el río Unini.</sentence>
         <sentence lang="en">The deer has to swim in order to cross the Unini river.</sentence>
         <morphology>
@@ -869,7 +895,8 @@ obeniki	[=oveni][NRoot][=Unini.river (ES: río.Unini)][--][-ki][Cas][+LOC_LOC.T]
         <parsing/>
     </text>
     <text id="25.2">
-        <sentence lang="prq">Ramaatakoti yeye ishintipaareki riyaataero kirinka.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ramaatakoti yeye ishintipaareki riyaataero kirinka.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ramaatakoti yeye ishintipaareki riyaataero kirinka.</sentence>
         <sentence lang="es">Mi hermano va río abajo en su balsa.</sentence>
         <sentence lang="en">My brother goes down river in his canoe.</sentence>
         <morphology>
@@ -891,7 +918,8 @@ kirinka	[=kirinka][NRoot][=down.river, downstream (ES: río.abajo), central.part
         <parsing/>
     </text>
     <text id="26">
-        <sentence lang="prq">Ramana Shabashi ipankoki aririka iñaanatero iñaane Paba.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ramana Shabashi ipankoki aririka iñaanatero iñaane Paba.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ramana Shavashi ipankoki aririka inyaanatero inyaane Pava.</sentence>
         <sentence lang="es">Shawashi ora en su casa cuando lee la Palabra de Dios.</sentence>
         <sentence lang="en">Shavashi prays in his house when he reads God's word.</sentence>
         <morphology>
@@ -917,7 +945,8 @@ paba	[=pava+m.+poss@ni.][NRoot][=solar.deity, god (ES: dios), creator (PT: Deus.
         <parsing/>
     </text>
     <text id="27">
-        <sentence lang="prq">Ramanantake Koriobiri ichenko cheenkari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ramanantake Koriobiri ichenko cheenkari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ramanantake Korioviri ichenko cheenkari.</sentence>
         <sentence lang="es">Koriobiri compró su pantalón negro.</sentence>
         <sentence lang="en">Korioviri bought his black pants.</sentence>
         <morphology>
@@ -968,7 +997,8 @@ kaari	[=kaari][Neg][=NEG.COP (EN: not.be, this.is.not.so; ES: no.es,, ¿por.qué
         <parsing/>
     </text>
     <text id="29">
-        <sentence lang="prq">Robanakero pinkatsari ramatsaere obakerari riyatantyaari rapatotya.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Robanakero pinkatsari ramatsaere obakerari riyatantyaari rapatotya.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovanakero pinkatsari ramatsaere ovakerari riyatantyaari rapatotya.</sentence>
         <sentence lang="es">El jefe se puso la corona nueva antes de ir a la reunión.</sentence>
         <sentence lang="en">The chief put on the new crown before going to the meeting.</sentence>
         <morphology>
@@ -992,7 +1022,8 @@ rapatotya	[r-][VPers][3m.S/A+][--][=apato][VRoot][=to.gather (ES: juntar), to.me
         <parsing/>
     </text>
     <text id="30">
-        <sentence lang="prq">Okantakena oriani: Nareetakitakabo ameeni.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Okantakena oriani: Nareetakitakabo ameeni.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Okantakena oriani: Nareetakitakavo ameeni.</sentence>
         <sentence lang="es">Una niña me dijo: “Fuí a visitar a mi abuela”.</sentence>
         <sentence lang="en">A small girl told me: "I went to visit my grandmother".</sentence>
         <morphology>
@@ -1015,7 +1046,8 @@ ameeni	[=ameeni+n.m.+poss@ti.][NRoot][=grandmother (fem.ego); granddaughter (fem
         <parsing/>
     </text>
     <text id="31">
-        <sentence lang="prq">Noñakiri antamiki antari amempori robari shitsibari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Noñakiri antamiki antari amempori robari shitsibari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Nonyakiri antamiki antari amempori rovari shitsivari.</sentence>
         <sentence lang="es">En el monte vi a un buitre comiendo carne podrida.</sentence>
         <sentence lang="en">In the mountain I saw a vulture eating rotten meat.</sentence>
         <morphology>
@@ -1039,7 +1071,8 @@ shitsibari	[=shitsivari][NRoot][=sth.rotten (ES: algo.que.está.podrido, carne.p
         <parsing/>
     </text>
     <text id="32">
-        <sentence lang="prq">Pamenero iroka shiyakaantsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Pamenero iroka shiyakaantsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Pamenero iroka shiyakaantsi.</sentence>
         <sentence lang="es">Mira esta foto.</sentence>
         <sentence lang="en">Look at this picture.</sentence>
         <morphology>
@@ -1058,7 +1091,8 @@ shiyakaantsi	[=shiyak][VRoot][=to.take.a.picture (ES: tomar.una.foto)][--][-aant
     </text>
     <text id="33">
         <!-- Pamenarontya jempe pobatikerori pipanko. -->
-        <sentence lang="prq">Pamenarotya jempe pobatikerori pipanko.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Pamenarotya jempe pobatikerori pipanko.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Pamenarotya hempe povatikerori pipanko.</sentence>
         <sentence lang="es">Fija donde vas a ubicar tu casa.</sentence>
         <sentence lang="en">Establish where you are going to locate your house.</sentence>
         <morphology>
@@ -1078,7 +1112,8 @@ pipanko	[pi-][NPers][2poss+][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa)
         <parsing/>
     </text>
     <text id="34">
-        <sentence lang="prq">Maaroni rantayetiri Ishako, rantiro rampateki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Maaroni rantayetiri Ishako, rantiro rampateki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Maaroni rantayetiri Ishako, rantiro rampateki.</sentence>
         <sentence lang="es">Todo lo que hace Ishako lo hace con la mano izquierda.</sentence>
         <sentence lang="en">Everything that Ishako does, he makes it with his left hand.</sentence>
         <morphology>
@@ -1103,7 +1138,8 @@ rampateki	[r-][NPers][3m.poss+][--][=ampate+inal@ntsi.][NRoot][=left.hand, left.
     </text>
     <text id="35">
         <!-- Oyoyaati isheeni ampe kitamaari obaantsiki. -->
-        <sentence lang="prq">Okoyaati isheeni ampe kitamaari obaantsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Okoyaati isheeni ampe kitamaari obaantsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Okoyaati isheeni ampe kitamaari ovaantsiki.</sentence>
         <sentence lang="es">La abuela cosecha algodón blanco en la chacra.</sentence>
         <sentence lang="en">The grandmother harvests white cotton in the sown field.</sentence>
         <morphology>
@@ -1125,7 +1161,8 @@ obaantsiki	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.lan
         <parsing/>
     </text>
     <text id="36">
-        <sentence lang="prq">Itotakero jataantaneri amporetsate isheeni.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Itotakero jataantaneri amporetsate isheeni.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Itotakero hataantaneri amporetsate isheeni.</sentence>
         <sentence lang="es">El doctor cortó el intestino de la abuela.</sentence>
         <sentence lang="en">The doctor cut grandmother's intestine.</sentence>
         <morphology>
@@ -1145,7 +1182,8 @@ isheeni	[=isheeni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
         <parsing/>
     </text>
     <text id="37">
-        <sentence lang="prq">Amiro tsinane ana eereki otiritantyaabori oishi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Amiro tsinane ana eereki otiritantyaabori oishi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Amiro tsinane ana eereki otiritantyaavori oishi.</sentence>
         <sentence lang="es">La mujer trae huito verde para teñirse el cabello.</sentence>
         <sentence lang="en">The woman brings green huito to dye her hair.</sentence>
         <morphology>
@@ -1166,7 +1204,8 @@ oishi	[o-][NPers][3n.m.poss+][--][=kishi+n.m.+inal@tsi.][NRoot][=hair]
             </morphology>
     </text>
     <text id="38">
-        <sentence lang="prq">Noñaakeri maniro raniiti antamiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Noñaakeri maniro raniiti antamiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Nonyaakeri maniro raniiti antamiki.</sentence>
         <sentence lang="es">Vi al venado caminar en el monte.</sentence>
         <sentence lang="en">I saw the deer walking in the woods.</sentence>
         <morphology>
@@ -1185,7 +1224,8 @@ antamiki	[=antami][NRoot][=woods, forest; dense.tropical.forest][--][-ki][Cas][+
         <parsing/>
     </text>
     <text id="39">
-        <sentence lang="prq">Aniriake koshiri kipatsiki ikaboshitantyari tsimiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Aniriake koshiri kipatsiki ikaboshitantyari tsimiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Aniriake koshiri kipatsiki ikaboshitantyari tsimiki.</sentence>
         <sentence lang="es">El mono bajó al suelo para bañarse en la colpa.</sentence>
         <sentence lang="en">The monkey descended towards the ground in order to bathe himself in the water well.</sentence>
         <morphology>
@@ -1206,7 +1246,8 @@ tsimiki	[=tsimi+n.m.+poss@ne.][NRoot][=macaw-and-parrot.clay.lick (QU: qullpa, E
         <parsing/>
     </text>
     <text id="40">
-        <sentence lang="prq">Ikantiri Kaaroshi itomi: Pinkantero anirio otsikaatena piarentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikantiri Kaaroshi itomi: Pinkantero anirio otsikaatena piarentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikantiri Kaaroshi itomi: Pinkantero anirio otsikaatena piarentsi.</sentence>
         <sentence lang="es">Kaaroshi le dice a su hijo: “Dile a mi nuera que me sirva el masato”.</sentence>
         <sentence lang="en">Kaaroshi says to his son: "Tell my daughte-in-law to serve me masato-beer".</sentence>
         <morphology>
@@ -1238,7 +1279,8 @@ piarentsi	[=pyare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato)][--][-ntsi+a
         <parsing/>
     </text>
     <text id="41">
-        <sentence lang="prq">Anonkaka piarentsi jeekatsiri inchatonakiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Anonkaka piarentsi jeekatsiri inchatonakiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Anonkaka piarentsi heekatsiri inchatonakiki.</sentence>
         <sentence lang="es">El masato que está en el cosho se rebalsó.</sentence>
         <sentence lang="en">The manioc-beer that is in the plant-based container, it overflowed.</sentence>
         <morphology>
@@ -1258,7 +1300,8 @@ inchatonakiki	[=incha][NRoot][=plant][--][-to][+CL:tree][=tree,trunk][--][-naki]
         <parsing/>
     </text>
     <text id="42">
-        <sentence lang="prq">Rantakeri Shoshokiri apaani shinkirenti.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Rantakeri Shoshokiri apaani shinkirenti.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rantakeri Shoshokiri apaani shinkirenti.</sentence>
         <sentence lang="es">Shoshokiri pegó a un borracho.</sentence>
         <sentence lang="en">Shoshokiri hit one drunkard.</sentence>
         <morphology>
@@ -1278,7 +1321,8 @@ shinkirenti	[=shinki][VRoot][=to.get.drunk; to.intoxicate][--][-re+m.][NS][+NMZ]
         <parsing/>
     </text>
     <text id="43">
-        <sentence lang="prq">Antabaerianti inati jankori raantabori itsipanashite inampiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Antabaerianti inati jankori raantabori itsipanashite inampiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Antavaerianti inati hankori raantavori itsipanashite inampiki.</sentence>
         <sentence lang="es">La curuhuinsi es trabajadora, por eso lleva hojas a su nido.</sentence>
         <sentence lang="en">The curuhuinsi-ant is a worker, that's why it carries leaves towards its nest.</sentence>
         <morphology>
@@ -1302,7 +1346,8 @@ inampiki	[i-][NPers][3m.poss+][--][=nampi+n.m.+inal@tsi.][NRoot][=village, place
         <parsing/>
     </text>
     <text id="44">
-        <sentence lang="prq">Otimatye antabaete obantyaari poshiniri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Otimatye antabaete obantyaari poshiniri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Otimatye antavaete ovantyaari poshiniri.</sentence>
         <sentence lang="es">Tenemos que trabajar para poder comer.</sentence>
         <sentence lang="en">We have to work so that we can eat.</sentence>
         <morphology>
@@ -1322,7 +1367,8 @@ poshiniri	[=poshini][VRoot][=to.be.tasty; to.be.delicious][--][-ri+m.][NS][+NMZ]
         <parsing/>
     </text>
     <text id="45">
-        <sentence lang="prq">Rantabakaatya tyaapapaye ikijakotabo itsinanitepaye.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Rantabakaatya tyaapapaye ikijakotabo itsinanitepaye.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rantavakaatya tyaapapaye ikihakotavo itsinanitepaye.</sentence>
         <sentence lang="es">Los gallos se pelean por las gallinas.</sentence>
         <sentence lang="en">The roosters fight for the hens.</sentence>
         <morphology>
@@ -1342,7 +1388,8 @@ itsinanitepaye	[i-][NPers][3m.poss+][--][=tsinani+n.m.][NRoot][=female, woman; y
         <parsing/>
     </text>
     <text id="46">
-        <sentence lang="prq">Riyaatati apa antamiki ramini tapetsa.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Riyaatati apa antamiki ramini tapetsa.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Riyaatati apa antamiki ramini tapetsa.</sentence>
         <sentence lang="es">Papá se va al monte a buscar támishi.</sentence>
         <sentence lang="en">Father goes to the woods to look for the tamishi-vine.</sentence>
         <morphology>
@@ -1365,7 +1412,8 @@ tapetsa	[=tapetsa][NRoot][=vine.sp. (ES: tamshi, tamishi, támishi)]
     </text>
     <text id="47">
         <!-- Ikantapaakeri konki itsipamintsare ibashiyari: ¿Añaatsimi ani? -->
-        <sentence lang="prq">Ikantapaakeri konki itsipamintsare ibashiyari: ¿Añaatsini ani?</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikantapaakeri konki itsipamintsare ibashiyari: ¿Añaatsini ani?</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikantapaakeri konki itsipamintsare ivashiyari: ¿Anyaatsini ani?</sentence>
         <sentence lang="es">Mi suegro le dijo a su amigo en broma: “Cuñado, ¿aún estas vivo?”</sentence>
         <sentence lang="en">Father-in-law jokingly said to his friend: "Son-in-law, are you sill alive?"</sentence>
         <morphology>
@@ -1394,7 +1442,8 @@ ani	[=ani+m.+poss@ri.][NRoot][=brother.in.law (kin.of.a.male)]
     </text>
     <text id="48.1">
         <!-- Irojati rañeenkabeta otyaapate nana robatsitapakeri otsizi. -->
-        <sentence lang="prq">Irojati rañeenkabeta otyaapate nana robatsitapakeri otsitzi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Irojati rañeenkabeta otyaapate nana robatsitapakeri otsitzi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Irohati ranyeenkaveta otyaapate nana rovatsitapakeri otsitzi.</sentence>
         <sentence lang="es">La gallina de mi madre aún respiraba cuando la remató el perro.</sentence>
         <sentence lang="en">My mother's hen was still breathing when the dog mede it suffer.</sentence>
         <morphology>
@@ -1418,7 +1467,8 @@ otsitzi	[=otsitzi][OtherRoot][=dog]
         <parsing/>
     </text>
     <text id="48.2">
-        <sentence lang="prq">Irojati rañi otsiti ratsikavetakari maniti</sentence>
+        <sentence lang="prq" normalizationlevel="none">Irojati rañi otsiti ratsikavetakari maniti</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Irohati ranyi otsiti ratsikavetakari maniti</sentence>
         <sentence lang="es">El perro aún vive a pesar de que el tigre lo mordió.</sentence>
         <sentence lang="en">The dog is still alive although the tiger bit it.</sentence>
         <morphology>
@@ -1440,7 +1490,8 @@ maniti	[=maniti][NRoot][=tiger (ES: tigre); jaguar (sci.nm.: panthera.onca)]
         <parsing/>
     </text>
     <text id="49">
-        <sentence lang="prq">Onkotsibetakari nana batsatsi kantimaetacha añeenkatatsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Onkotsibetakari nana batsatsi kantimaetacha añeenkatatsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Onkotsivetakari nana vatsatsi kantimaetacha anyeenkatatsi.</sentence>
         <sentence lang="es">Mi mamá cocinó la carne, pero aún está cruda.</sentence>
         <sentence lang="en">Mother cooked [incompletely] the meat, but it is raw.</sentence>
         <morphology>
@@ -1462,7 +1513,8 @@ añeenkatatsi	[=anyeenka][VRoot][=to.be.raw (ES: estar.crudo/fresco)][--][-t][+E
         <parsing/>
     </text>
     <text id="50">
-        <sentence lang="prq">Ikantana apa: Pijaeke kametsa pankotsiki eero pantabaka.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikantana apa: Pijaeke kametsa pankotsiki eero pantabaka.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikantana apa: Pihaeke kametsa pankotsiki eero pantavaka.</sentence>
         <sentence lang="es">Mi papá me dice: “Tienes que estar tranquilo en la casa y no pelear”.</sentence>
         <sentence lang="en">Father said to me: "Be good at home, don't fight".</sentence>
         <morphology>
@@ -1490,7 +1542,8 @@ pantabaka	[p-][VPers][2S/A+][--][=ant][VRoot][=to.beat, to.hit; to.build, to.do,
         <parsing/>
     </text>
     <text id="51">
-        <sentence lang="prq">Imaye apaniroeni ebankari imaamentoki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Imaye apaniroeni ebankari imaamentoki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Imaye apaniroeni ebankari imaamentoki.</sentence>
         <sentence lang="es">El joven duerme solo en su cama.</sentence>
         <sentence lang="en">The young man sleeps alone in his bed.</sentence>
         <morphology>
@@ -1510,7 +1563,8 @@ imaamentoki	[i-][NPers][3m.poss+][--][=maa][VRoot][=to.sleep (ES: dormir)][--][-
         <parsing/>
     </text>
     <text id="52">
-        <sentence lang="prq">Ari nomatakero nantero pikantakenari chapinki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ari nomatakero nantero pikantakenari chapinki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ari nomatakero nantero pikantakenari chapinki.</sentence>
         <sentence lang="es">Ya haré lo que me dijiste ayer.</sentence>
         <sentence lang="en">Thus I will manage to do what you told me yesterday.</sentence>
         <!-- to be checked -->
@@ -1533,7 +1587,8 @@ chapinki	[=chapinki][AdvRoot][=the.other.day, yesterday; long.ago, before; a.sho
         <parsing/>
     </text>
     <text id="53">
-        <sentence lang="prq">Aritapaake pitsaeyaka.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Aritapaake pitsaeyaka.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Aritapaake pitsaeyaka.</sentence>
         <sentence lang="es">Ya basta de mentira.</sentence>
         <sentence lang="en">Enough of your lies!</sentence>
         <morphology>
@@ -1549,7 +1604,8 @@ pitsaeyaka	[pi-][VPers][2S/A+][--][=tsaey][VRoot][=to.lie (ES: mentir)][--][-ak]
         <parsing/>
     </text>
     <text id="54">
-        <sentence lang="prq">Ashetakero nija isheeni oetsareki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ashetakero nija isheeni oetsareki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ashetakero niha isheeni oetsareki.</sentence>
         <sentence lang="es">El agua mojó la ropa de la abuela.</sentence>
         <sentence lang="en">The water wetted grandmother's clothes.</sentence>
         <morphology>
@@ -1569,7 +1625,8 @@ oetsareki	[o-][NPers][3n.m.poss+][--][=ketsare+m.+inal@ntsi.][NRoot][=dress (ES:
         <parsing/>
     </text>
     <text id="55">
-        <sentence lang="prq">Ashirariake antyashipari ikobeme rataetero impeeta.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ashirariake antyashipari ikobeme rataetero impeeta.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ashirariake antyashipari ikoveme rataetero impeeta.</sentence>
         <sentence lang="es">El anciano se resbaló queriendo subir la roca.</sentence>
         <sentence lang="en">The elderly man slipped when trying to climb the rock.</sentence>
         <morphology>
@@ -1591,7 +1648,8 @@ impeeta	[=iNpeeta+n.m.][NRoot][=rock (ES: roca); cave; crag]
         <parsing/>
     </text>
     <text id="56">
-        <sentence lang="prq">Pashitajero ashitabo tyaapapanko.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Pashitajero ashitabo tyaapapanko.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Pashitahero ashitavo tyaapapanko.</sentence>
         <sentence lang="es">Cierra la puerta del gallinero.</sentence>
         <sentence lang="en">Close the henhouse door.</sentence>
         <morphology>
@@ -1609,7 +1667,8 @@ tyaapapanko	[=tyaapa+n.m.+poss@te.][NRoot][=hen; chicken][--][=panko+n.m.+inal@t
         <parsing/>
     </text>
     <text id="57">
-        <sentence lang="prq">Rashitakotakeri sheripiari maniti antari omoonaki otishi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Rashitakotakeri sheripiari maniti antari omoonaki otishi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rashitakotakeri sheripiari maniti antari omoonaki otishi.</sentence>
         <sentence lang="es">El chamán encerró al tigre en una cueva del cerro.</sentence>
         <sentence lang="en">The shaman locked the tiger in a hill cave.</sentence>
         <morphology>
@@ -1633,7 +1692,8 @@ otishi	[=otishi+n.m.][NRoot][=row; hill (ES: cerro); mountain.pass (ES: abra)]
         <parsing/>
     </text>
     <text id="58">
-        <sentence lang="prq">Ashiyakero isheni pochari janko oyaatantari obaantsiki </sentence>
+        <sentence lang="prq" normalizationlevel="none">Ashiyakero isheni pochari janko oyaatantari obaantsiki</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ashiyakero isheni pochari hanko oyaatantari ovaantsiki</sentence>
         <sentence lang="es">Mi abuela chupó caña dulce cuando fue a la chacra.</sentence>
         <sentence lang="en">Grandmother sucked sweet sugar cane to go to the sown-field.</sentence>
         <morphology>
@@ -1657,7 +1717,8 @@ obaantsiki	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.lan
         <parsing/>
     </text>
     <text id="59">
-        <sentence lang="prq">Pataetakote pamaki antsotabake okitsoki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Pataetakote pamaki antsotabake okitsoki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Pataetakote pamaki antsotavake okitsoki.</sentence>
         <sentence lang="es">Sube al árbol de chimicua para chupar los frutos.</sentence>
         <sentence lang="en">Climb the chimicua-tree in order to suck the fruits.</sentence>
         <morphology>
@@ -1677,7 +1738,8 @@ okitsoki	[=okitsoki][NRoot][=seed]
         <parsing/>
     </text>
     <text id="60">
-        <sentence lang="prq">Rareetaka anampiki apani atiri kaari añaapintane.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Rareetaka anampiki apani atiri kaari añaapintane.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rareetaka anampiki apani atiri kaari anyaapintane.</sentence>
         <sentence lang="es">Una persona extraña llegó a nuestra comunidad.</sentence>
         <sentence lang="en">A strange person arrived to our community.</sentence>
         <morphology>
@@ -1699,7 +1761,8 @@ kaari_añaapintane	[=kaari_anyaapintane][NRoot][=strange (ES: extraño)]
         <parsing/>
     </text>
     <text id="61">
-        <sentence lang="prq">Atojetake isheeni obajempiakari totiroki inkaariberi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Atojetake isheeni obajempiakari totiroki inkaariberi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Atohetake isheeni ovahempiakari totiroki inkaariveri.</sentence>
         <sentence lang="es">La abuela empezó a toser cuando comió el caracol de la cocha.</sentence>
         <sentence lang="en">Grandmother started coughing when she ate the aquatic-snail from the lake.</sentence>
         <morphology>
@@ -1721,7 +1784,8 @@ inkaariberi	[=inkaari+n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)][--][-ve
         <parsing/>
     </text>
     <text id="62.1">
-        <sentence lang="prq">Ratsikakeri otsiti tyaapaniki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ratsikakeri otsiti tyaapaniki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ratsikakeri otsiti tyaapaniki.</sentence>
         <sentence lang="es">El perro mordió al pollito.</sentence>
         <sentence lang="en">The dog bit the little chicken.</sentence>
         <morphology>
@@ -1739,7 +1803,8 @@ tyaapaniki	[=tyaapa+n.m.+poss@te.][NRoot][=hen; chicken][--][-niki][+DIM]
         <parsing/>
     </text>
     <text id="62.2">
-        <sentence lang="prq">Iraantari notyomi atsikakeri shitamenkotsi iporiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iraantari notyomi atsikakeri shitamenkotsi iporiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iraantari notyomi atsikakeri shitamenkotsi iporiki.</sentence>
         <sentence lang="es">Mi hijo está llorando porque la tarima le mordió la pierna.</sentence>
         <sentence lang="en">My son is crying because the wooden-platform bit his leg.</sentence>
         <morphology>
@@ -1761,7 +1826,8 @@ iporiki	[i-][NPers][3m.poss+][--][=pori+n.m.+inal@tsi.][NRoot][=leg (ES: pierna)
         <parsing/>
     </text>
     <text id="63">
-        <sentence lang="prq">Atsinakakeri Inchato konoya.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Atsinakakeri Inchato konoya.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Atsinakakeri Inchato konoya.</sentence>
         <sentence lang="es">El palo apretó a la tortuga.</sentence>
         <sentence lang="en">The tree trunk squashed the motelo-turtle.</sentence>
         <morphology>
@@ -1779,7 +1845,8 @@ konoya	[=konoya+m.][NRoot][=tortoise, turtle, motelo-turtle, land.turtle.sp. (ES
         <parsing/>
     </text>
     <text id="64">
-        <sentence lang="prq">Atsiinkake pabachori ikiajempiakari shikiri ikiriki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Atsiinkake pabachori ikiajempiakari shikiri ikiriki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Atsiinkake pavachori ikiahempiakari shikiri ikiriki.</sentence>
         <sentence lang="es">Mi tío estornudó cuando le entró una mosca en la nariz.</sentence>
         <sentence lang="en">Uncle sneezed when a fly entered in his nostril.</sentence>
         <morphology>
@@ -1801,7 +1868,8 @@ ikiriki	[i-][NPers][3m.poss+][--][=kiri+n.m.+inal@tsi.][NRoot][=nose; nostrils][
         <parsing/>
     </text>
     <text id="65">
-        <sentence lang="prq">Okantiro choeni nojina: Atyo pamakenabo jebaantsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Okantiro choeni nojina: Atyo pamakenabo jebaantsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Okantiro choeni nohina: Atyo pamakenavo hevaantsi.</sentence>
         <sentence lang="es">Mi hermana le dijo a mi mujer: “Cuñada, tráeme el abanico”.</sentence>
         <sentence lang="en">My sister told my wife: "Sister-in-law, bring me the fan".</sentence>
         <morphology>
@@ -1827,7 +1895,8 @@ jebaantsi	[=hevaa+n.m.+inal@ntsi.][NRoot][=fan (ES: abanico)][--][-ntsi+alien.][
         <parsing/>
     </text>
     <text id="66">
-        <sentence lang="prq">Ojampiti ebankabo: ¿Ayiini, jempe ikenanake pitomi?</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ojampiti ebankabo: ¿Ayiini, jempe ikenanake pitomi?</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ohampiti evankavo: ¿Ayiini, hempe ikenanake pitomi?</sentence>
         <sentence lang="es">La joven pregunta: “¿Suegra, a dónde fue tu hijo?”</sentence>
         <sentence lang="en">The young lady asks: "Mother-in-law, Where did your son go?"</sentence>
         <morphology>
@@ -1858,7 +1927,8 @@ pitomi	[pi-][NPers][2poss+][--][=tomi+m.+inal@tsi.][NRoot][=son (kin.of.a.fe/mal
     </text>
     <text id="67">
         <!-- Iriitake charine ibakeniri ibaero notyoni. -->
-        <sentence lang="prq">Iriitake charine ibakeniri ibaero notyomi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iriitake charine ibakeniri ibaero notyomi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iriitake charine ivakeniri ivaero notyomi.</sentence>
         <sentence lang="es">Mi abuelo fue quien puso el nombre a mi hijo.</sentence>
         <sentence lang="en">My grandfather was the one who put the name to my son.</sentence>
         <morphology>
@@ -1880,7 +1950,8 @@ notyomi	[no-][NPers][1SG.poss+][--][=tyomi+m.+inal@tsi.][NRoot][=son (kin.of.a.m
         <parsing/>
     </text>
     <text id="68">
-        <sentence lang="prq">Irika tyaapa shirampari batsanti oshekini iyeenka.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Irika tyaapa shirampari batsanti oshekini iyeenka.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Irika tyaapa shirampari vatsanti oshekini iyeenka.</sentence>
         <sentence lang="es">Este gallo gordo tiene bastante grasa.</sentence>
         <sentence lang="en">This fat rooster has so much fat.</sentence>
         <morphology>
@@ -1904,7 +1975,8 @@ iyeenka	[i-][NPers][3m.poss+][--][=yeenka+n.m.+inal@ntsi.][NRoot][=fat, lard, gr
         <parsing/>
     </text>
     <text id="69">
-        <sentence lang="prq">Ramaki pabachori ibatsa maniro.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ramaki pabachori ibatsa maniro.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ramaki pavachori ivatsa maniro.</sentence>
         <sentence lang="es">Mi tío trajo carne de venado.</sentence>
         <sentence lang="en">My uncle brought deer meat.</sentence>
         <morphology>
@@ -1925,7 +1997,8 @@ maniro	[=maniro+m.][NRoot][=deer (ES: venado)]
     </text>
     <text id="70">
         <!-- Beshiriayeyakani atiripaye iñaabakero ipashitakariri jebari. -->
-        <sentence lang="prq">Beshiriayetakani atiripaye iñaabakero ipashitakariri jebari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Beshiriayetakani atiripaye iñaabakero ipashitakariri jebari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Veshiriayetakani atiripaye inyaavakero ipashitakariri hevari.</sentence>
         <sentence lang="es">La gente se alegró cuando vio el regalo del jefe.</sentence>
         <sentence lang="en">The people rejoiced when they saw the chief's gift.</sentence>
         <morphology>
@@ -1947,7 +2020,8 @@ jebari	[=hevari][NRoot][=local.leader/chief]
         <parsing/>
     </text>
     <text id="71.1">
-        <sentence lang="prq">Okantakena nana: Pibitirieri shonkiri ramakeri piri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Okantakena nana: Pibitirieri shonkiri ramakeri piri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Okantakena nana: Pivitirieri shonkiri ramakeri piri.</sentence>
         <sentence lang="es">Mi mamá me dijo: “Despluma la perdiz que trajo tu papá”.</sentence>
         <sentence lang="en">My mother told me: "Pluck the feathers of the partridge that your father brought".</sentence>
         <morphology>
@@ -1971,7 +2045,8 @@ ramakeri	[r-][VPers][3m.S/A+][--][=am][VRoot][=to.bring (ES: traer)][--][-ak][+C
         <parsing/>
     </text>
     <text id="71.2">
-        <sentence lang="prq">Pibitirieri jamani itonkakeri pabachori.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Pibitirieri jamani itonkakeri pabachori.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Pivitirieri hamani itonkakeri pavachori.</sentence>
         <sentence lang="es">Saca las cerdas del majás que mató tu tío.</sentence>
         <sentence lang="en">Pluck the bristles of the majas-rodent that uncle shot.</sentence>
         <morphology>
@@ -1991,7 +2066,8 @@ pabachori	[=pavachori+m.+poss@ti.][NRoot][=uncle (kin.of.a.male)]
         <parsing/>
     </text>
     <text id="72.1">
-        <sentence lang="prq">Oshekini ibiti shonkiri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Oshekini ibiti shonkiri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Oshekini iviti shonkiri.</sentence>
         <sentence lang="es">La perdiz tiene muchas plumas.</sentence>
         <sentence lang="en">The big partridge has so many feathers.</sentence>
         <morphology>
@@ -2009,7 +2085,8 @@ shonkiri	[=shonkiri+poss@ti.][NRoot][=big.partridge.sp. (ES: perdiz)]
         <parsing/>
     </text>
     <text id="72.2">
-        <sentence lang="prq">Osheki ibiti shintori.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Osheki ibiti shintori.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Osheki iviti shintori.</sentence>
         <sentence lang="es">La huangana tiene muchas cerdas.</sentence>
         <sentence lang="en">The collared-peccary has a lot of bristles.</sentence>
         <morphology>
@@ -2027,7 +2104,8 @@ shintori	[=shintori+m.][NRoot][=collared.peccary (ES: sajino, saíno, huangana; 
         <parsing/>
     </text>
     <text id="72.3">
-        <sentence lang="prq">Otimi ibiti ani maaroni ibatsaki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Otimi ibiti ani maaroni ibatsaki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Otimi iviti ani maaroni ivatsaki.</sentence>
         <sentence lang="es">Mi cuñado tiene vello en todo el cuerpo.</sentence>
         <sentence lang="en">Brother-in-law has hair in his entire body.</sentence>
         <morphology>
@@ -2049,7 +2127,8 @@ ibatsaki	[i-][NPers][3m.poss+][--][=vatsa+n./m.+inal@tsi.][NRoot][=flesh, body (
         <parsing/>
     </text>
     <text id="73">
-        <sentence lang="prq">Ratsikakeri chaanari notsitsite.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ratsikakeri chaanari notsitsite.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ratsikakeri chaanari notsitsite.</sentence>
         <sentence lang="es">El tigre colorado mordió a mi perro.</sentence>
         <sentence lang="en">The red tiger bit my dog.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
@@ -2067,7 +2146,8 @@ notsitsite	[n-][NPers][1SG.poss+][--][=otsitsi+m.+poss@te.][NRoot][=dog (ES: per
         <parsing/>
     </text>
     <text id="74">
-        <sentence lang="prq">Itonkake apa chakami otishiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Itonkake apa chakami otishiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Itonkake apa chakami otishiki.</sentence>
         <sentence lang="es">Mi papá mató un trompetero en el cerro.</sentence>
         <sentence lang="en">Father shot a grey-winged trumpeter in the hill.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
@@ -2087,7 +2167,8 @@ otishiki	[=otishi+n.m.][NRoot][=row; hill (ES: cerro)][--][-ki][Cas][+LOC]
         <parsing/>
     </text>
     <text id="75">
-        <sentence lang="prq">Ipeyakero nani ichakopite antamiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ipeyakero nani ichakopite antamiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ipeyakero nani ichakopite antamiki.</sentence>
         <sentence lang="es">Mi cuñado perdió su flecha en el monte.</sentence>
         <sentence lang="en">My brother-in-law lost his arrow in the woods.</sentence>
         <!-- check antami monte = woods ??? -->
@@ -2108,7 +2189,8 @@ antamiki	[=antami][NRoot][=woods, forest (ES: monte, bosque)][--][-ki][Cas][+LOC
         <parsing/>
     </text>
     <text id="76">
-        <sentence lang="prq">Imoontiro chamanto inchato robantyaariri iitsoki. </sentence>
+        <sentence lang="prq" normalizationlevel="none">Imoontiro chamanto inchato robantyaariri iitsoki. </sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Imoontiro chamanto inchato rovantyaariri iitsoki. </sentence>
         <sentence lang="es">El pájaro carpintero hace hueco en el árbol para poner huevos.</sentence>
         <sentence lang="en">The red-headed woodpecker makes a hole in the tree in order to put his eggs.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
@@ -2130,7 +2212,8 @@ iitsoki	[i-][NPers][3m.poss+][--][=kitsoki][NRoot][=egg (huevo)]
         <parsing/>
     </text>
     <text id="77">
-        <sentence lang="prq">Raniwaeti ocheraaki nijaki chanchati ramenayeti robanabo.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Raniwaeti ocheraaki nijaki chanchati ramenayeti robanabo.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ranivaeti ocheraaki nihaki chanchati ramenayeti rovanavo.</sentence>
         <sentence lang="es">La garza de color cenizo camina en la orilla del río buscando comida.</sentence>
         <sentence lang="en">The gray heron walks in the river shore looking for his food.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
@@ -2154,7 +2237,8 @@ robanabo	[r-][NPers][3m.poss+][--][=ovanavo+n.m.+inal@ntsi.][NRoot][=food (ES: c
         <parsing/>
     </text>
     <text id="78">
-        <sentence lang="prq">Robabo chapiti onkonashi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Robabo chapiti onkonashi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovavo chapiti onkonashi.</sentence>
         <sentence lang="es">El gusano come las hojas del cetico.</sentence>
         <sentence lang="en">The worm eats the leaves of the cecropia.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
@@ -2172,10 +2256,10 @@ onkonashi	[=oNkona][NRoot][=cecropia.sp., tree.sp. (ES: cetico, siteco)][--][-sh
         <parsing/>
     </text>
     <text id="79">
-        <sentence lang="prq">Inoshikake notsipamintsare antari charaba antabaaki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Inoshikake notsipamintsare antari charaba antabaaki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Inoshikake notsipamintsare antari charava antavaaki.</sentence>
         <sentence lang="es">Mi compañero jaló un súngaro grande en el río.</sentence>
         <sentence lang="en">My friend pulled a big zungaro-fish from the river.</sentence>
-        <sentence lang="en"/>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -2195,7 +2279,8 @@ charaba	[=charava][NRoot][=zungaro-fish (ES: súngaro)]
         <parsing/>
     </text>
     <text id="80">
-        <sentence lang="prq">Ikanti iriani: Riyaatati charine rayi kiri tonkaareki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikanti iriani: Riyaatati charine rayi kiri tonkaareki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikanti iriani: Riyaatati charine rayi kiri tonkaareki.</sentence>
         <sentence lang="es">El niño dijo: “Mi abuelo fue a la loma a traer pijuayo”.</sentence>
         <sentence lang="en">The child said: "My grandfather went to the hillock to bring pijuayo palm-tree".</sentence>
         <morphology>
@@ -2215,8 +2300,10 @@ tonkaareki	[=tonkaare+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas]
         <parsing/>
     </text>
     <text id="81">
-        <sentence lang="prq">Imintsaabakero nana antari chebiro inkaaricheraaki kemetaka maanki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Imintsaabakero nana antari chebiro inkaaricheraaki kemetaka maanki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Imintsaavakero nana antari cheviro inkaaricheraaki kemetaka maanki.</sentence>
         <sentence lang="es">A mi mamá la asustó una macana grande en la orilla de la cocha porque se parece a una víbora.</sentence>
+        <sentence lang="en">My moher was frightened by a big macana-fish in the lake bank because it looks like a snake.</sentence>
         <morphology>
 
 
@@ -2240,8 +2327,10 @@ maanki	[=maanki+m.][NRoot][=snake (ES: sp.de.culebra), serpent]
         <parsing/>
     </text>
     <text id="82.1">
-        <sentence lang="prq">Pamakenabo noetsare cheenkari. </sentence>
+        <sentence lang="prq" normalizationlevel="none">Pamakenabo noetsare cheenkari. </sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Pamakenavo noetsare cheenkari. </sentence>
         <sentence lang="es">Tráeme mi camisa negra.</sentence>
+        <sentence lang="en">Bring me my black shirt.</sentence>
         <morphology>
 
 
@@ -2257,8 +2346,10 @@ cheenkari	[=cheenkari+sem@color.][NRoot][=obscure; black (ES: negro)]
         <parsing/>
     </text>
     <text id="82.2">
-        <sentence lang="prq">Ratsikakeri cheenkari otsiti abotsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ratsikakeri cheenkari otsiti abotsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ratsikakeri cheenkari otsiti avotsiki.</sentence>
         <sentence lang="es">El jergón mordió a mi perro en el camino.</sentence>
+        <sentence lang="en">The venomous snake bit the dog on the road.</sentence>
         <sentence lang="en"/>
         <morphology>
 
@@ -2277,7 +2368,8 @@ abotsiki	[=avo+n.m.+inal@tsi.][NRoot][=road, trail][--][-tsi+alien.][Gen][+nposs
         <parsing/>
     </text>
     <text id="83">
-        <sentence lang="prq">Ikentabakotakena cheenti.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikentabakotakena cheenti.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikentavakotakena cheenti.</sentence>
         <sentence lang="es">Las púas en la boca de la carachama me picaron en la mano.</sentence>
         <sentence lang="en">The barbed-mouth armored catfish stung me the hand.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
@@ -2294,7 +2386,8 @@ cheenti	[=cheenti][NRoot][=(barbed-mouth).armored.catfish.sp. (ES: sp.de.caracha
     </text>
     <text id="84">
         <!-- Oshekini iiche tontori. -->
-        <sentence lang="prq">Oshekini iche tontori.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Oshekini iche tontori.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Oshekini iche tontori.</sentence>
         <sentence lang="es">El erizo es muy espinoso.</sentence>
         <sentence lang="en">The porcupine is very thorny.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -2312,7 +2405,8 @@ tontori	[=tontori][NRoot][=porcupine (ES: puerco.espín, erizo; sci.nm.: coendu.
         <parsing/>
     </text>
     <text id="85">
-        <sentence lang="prq">Chekaka apa iitiki rantabaebeta obaantsiki. </sentence>
+        <sentence lang="prq" normalizationlevel="none">Chekaka apa iitiki rantabaebeta obaantsiki. </sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Chekaka apa iitiki rantavaeveta ovaantsiki. </sentence>
         <sentence lang="es">Mi papá se cortó el pie mientras trabajaba en la chacra.</sentence>
         <sentence lang="en">Father cut his foot while he was working in the sown field.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -2334,7 +2428,8 @@ obaantsiki	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.lan
         <parsing format="CoNLL" analysislevel="not-fully"/>
     </text>
     <text id="86">
-        <sentence lang="prq">Japokake chekito inkaareki ookanakeri inkani.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Japokake chekito inkaareki ookanakeri inkani.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Hapokake chekito inkaareki ookanakeri inkani.</sentence>
         <sentence lang="es">Las ranas saltan en la charca que dejó la lluvia.</sentence>
         <sentence lang="en">Frogs are jumping up and down in the pond that the rain left.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
@@ -2356,7 +2451,8 @@ inkani	[=inkani+n.m.][NRoot][=rain (ES: lluvia)]
         <parsing/>
     </text>
     <text id="87">
-        <sentence lang="prq">Riyaati pabachori icheki chenko ishitamenkotantyabori ipanko.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Riyaati pabachori icheki chenko ishitamenkotantyabori ipanko.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Riyaati pavachori icheki chenko ishitamenkotantyavori ipanko.</sentence>
         <sentence lang="es">Mi tío fue a cortar sachaponilla para emponar su casa.</sentence>
         <sentence lang="en">Uncle went to cut the palm-tree in order to cover his house with floor boards.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -2380,7 +2476,8 @@ ipanko	[i-][NPers][3m.poss+][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa)
         <parsing format="CoNLL" analysislevel="not-fully"/>
     </text>
     <text id="88">
-        <sentence lang="prq">Ijeekaeyeni inkaareki chenkoripaye.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ijeekaeyeni inkaareki chenkoripaye.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iheekaeyeni inkaareki chenkoripaye.</sentence>
         <sentence lang="es">Los huasacos viven en la cocha.</sentence>
         <sentence lang="en">The huasaco-fishes dwell in the lake.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -2398,7 +2495,8 @@ chenkoripaye	[=chenkori+m.][NRoot][=fish.sp., huasaco-fish (huasaca, huasaco, pe
         <parsing/>
     </text>
     <text id="89">
-        <sentence lang="prq">Ichenkoreetakeri Shoshokiri rantamintsatiro tsinanepaye.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ichenkoreetakeri Shoshokiri rantamintsatiro tsinanepaye.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ichenkoreetakeri Shoshokiri rantamintsatiro tsinanepaye.</sentence>
         <sentence lang="es">A Shoshokiri le sacaron el pantalón por fastidíar a las mujeres.</sentence>
         <sentence lang="en">They took off Shoshokiri's pants because he annoys women.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
@@ -2418,7 +2516,8 @@ tsinanepaye	[=tsinane+n.m.][NRoot][=female, woman; young.girl][--][-paye][Num][+
         <parsing/>
     </text>
     <text id="90">
-        <sentence lang="prq">Okantakena nana: Pichenkotya intsipaite aatatyeri areetyabo pitsiro.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Okantakena nana: Pichenkotya intsipaite aatatyeri areetyabo pitsiro.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Okantakena nana: Pichenkotya intsipaite aatatyeri areetyavo pitsiro.</sentence>
         <sentence lang="es">Mi mamá me dijo: “Ponte el pantalón para ir a visitar a tu hermana”.</sentence>
         <sentence lang="en">Mother said to me: "Put on pants in order to accompany [me] to visit your sister".</sentence>
         <!-- translation issues  -->
@@ -2447,7 +2546,8 @@ pitsiro	[pi-][NPers][2poss+][--][=tsiro+n.m.][NRoot][=sister (kin.of.a.male)]
         <parsing format="CoNLL" analysislevel="not-fully"/>
     </text>
     <text id="91">
-        <sentence lang="prq">Namanantake apaani chenkotsi obakerari iro kantimaitacha abitatakena.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Namanantake apaani chenkotsi obakerari iro kantimaitacha abitatakena.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Namanantake apaani chenkotsi ovakerari iro kantimaitacha avitatakena.</sentence>
         <sentence lang="es">Compré un pantalón nuevo pero me ajusta demasiado.</sentence>
         <sentence lang="en">I bought one new pair of pants but they are too tight.</sentence>
         <morphology>
@@ -2473,7 +2573,8 @@ kantimaitacha	[=kantimaitacha][ConnRoot][=but (ES: pero)]
         <parsing/>
     </text>
     <text id="92">
-        <sentence lang="prq">Ikiakaakena sheripiari oparetsaki chenteroki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikiakaakena sheripiari oparetsaki chenteroki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikiakaakena sheripiari oparetsaki chenteroki.</sentence>
         <sentence lang="es">El curandero me hizo entrar en las raíces que salen de la ponilla.</sentence>
         <sentence lang="en">The shaman made me enter into the palm tree roots.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -2493,7 +2594,8 @@ chenteroki	[=chentero][NRoot][=palm.tree.sp. (ES: ponilla, sp.de.palmera)][--][-
         <parsing/>
     </text>
     <text id="93">
-        <sentence lang="prq">Icheraakotakeri nani rirenti tsireniriki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Icheraakotakeri nani rirenti tsireniriki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Icheraakotakeri nani rirenti tsireniriki.</sentence>
         <sentence lang="es">Mi cuñado gritó a su hermano en la noche.</sentence>
         <sentence lang="en">My brother-in-law spoke with anger to his brother at night.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
@@ -2513,12 +2615,14 @@ tsireniriki	[=tsireniri][NRoot][=night (ES: noche)][--][-ki][Cas][+LOC.T]
         <parsing format="CoNLL"/>
     </text>
     <text id="94">
-        <sentence lang="prq">Antabotonaatake ichera charine.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Antabotonaatake ichera charine.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Antavotonaatake ichera charine.</sentence>
         <sentence lang="es">Mi abuelo tiene labios gruesos.</sentence>
+        <sentence lang="en">My grandfather has thick lips.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
             
 
-???
+Antabotonaatake	[=antavo+gndr@n.m.+poss@nposs.adj.][NRoot][=big; mature][^VBZ][--][=tonaa+gndr@n.m.+inal@tsi.][IncNRoot][=snout (ES: hocico)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i~e+tns@n.fut.+C.I@act.v.+RSS@00][MODALITY][+REAL][=after.-ak/-ah]e
 
 ichera	[i-][NPers][3m.poss+][--][=chera+n.m.+inal@tsi.][NRoot][=lip, thick.lip (ES: labio)]
 
@@ -2530,7 +2634,8 @@ charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)
         <parsing/>
     </text>
     <text id="95">
-        <sentence lang="prq">ñaamatari nani cherenkantsi shima.</sentence>
+        <sentence lang="prq" normalizationlevel="none">ñaamatari nani cherenkantsi shima.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">nyaamatari nani cherenkantsi shima.</sentence>
         <sentence lang="es">A mi cuñado le gusta el pescado frito.</sentence>
         <sentence lang="en">My brother-in-law likes fried fish.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -2550,7 +2655,8 @@ shima	[=shima+m.+poss@ni.][NRoot][=fish; fish.sp., boquichico-fish (ES: boquichi
         <parsing/>
     </text>
     <text id="96">
-        <sentence lang="prq">Robatyaari cherepito mereto ikentakeri inkaareki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Robatyaari cherepito mereto ikentakeri inkaareki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovatyaari cherepito mereto ikentakeri inkaareki.</sentence>
         <sentence lang="es">El martín pescador está comiendo su mojarra que pescó en la cocha.</sentence>
         <sentence lang="en">The ringed-kingfisher is eating the mojarra-fish that he stung in the lake.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
@@ -2572,7 +2678,8 @@ inkaareki	[=inkaare+n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)][--][-ki][
         <parsing/>
     </text>
     <text id="97">
-        <sentence lang="prq">Chetakitaki entsi otyaakitakeri impaneki chapinki iñaatsabaetantari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Chetakitaki entsi otyaakitakeri impaneki chapinki iñaatsabaetantari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Chetakitaki entsi otyaakitakeri impaneki chapinki inyaatsavaetantari.</sentence>
         <sentence lang="es">El niño está legañoso por que le entró arena ayer cuando jugaba.</sentence>
         <sentence lang="en">The child has a lot of rheum because sand got in his/her eye yesterday while playing.</sentence>
         <morphology>
@@ -2596,7 +2703,8 @@ iñaatsabaetantari	[i-][VPers][3m.S/A+][--][=nyaatsa][VRoot][=to.play; to.have.s
         <parsing/>
     </text>
     <text id="98">
-        <sentence lang="prq">Chobitake rotsitsite pabachori ratsikakerira jamani.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Chobitake rotsitsite pabachori ratsikakerira jamani.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Chovitake rotsitsite pavachori ratsikakerira hamani.</sentence>
         <sentence lang="es">El perro de mi tío tiene gusano donde lo mordió el majás.</sentence>
         <sentence lang="en">Uncle's dog has lots of worms where the majas-rodent bit it.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -2618,7 +2726,8 @@ jamani	[=hamani+m.][NRoot][=rodent.sp., paca (ES: picuro, majás, majas, majaz, 
         <parsing/>
     </text>
     <text id="99">
-        <sentence lang="prq">Okantakena choeni: Aari pamekenabo noyotsiraanikite.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Okantakena choeni: Aari pamekenabo noyotsiraanikite.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Okantakena choeni: Aari pamekenavo noyotsiraanikite.</sentence>
         <sentence lang="es">Mi hermana me dijo: “Hermano, afila mi cuchillo”.</sentence>
         <sentence lang="en">Sister said to me: "Brother, sharpen my knife".</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -2642,7 +2751,8 @@ noyotsiraanikite	[no-][NPers][1SG.poss+][--][=kotsiraaniki+n.m.+poss@te.][NRoot]
         <parsing/>
     </text>
     <text id="100">
-        <sentence lang="prq">Obametaakeri choeni iñabaeti chokiyo.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Obametaakeri choeni iñabaeti chokiyo.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ovametaakeri choeni inyavaeti chokiyo.</sentence>
         <sentence lang="es">Mi hermana enseñó a hablar al perico.</sentence>
         <sentence lang="en">Sister taught the small parrot to talk.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -2662,8 +2772,9 @@ chokiyo	[=chokiyo+m.][NRoot][=small.parrot.sp. (ES: perico/loro.pequeño, pihuic
         <parsing/>
     </text>
     <text id="101">
-        <sentence lang="prq">Irika chomenta kemetaka iyomaro charine.</sentence>
-        <sentence lang="">Esta palometa se parece al remo de mi abuelo.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Irika chomenta kemetaka iyomaro charine.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Irika chomenta kemetaka iyomaro charine.</sentence>
+        <sentence lang="es">Esta palometa se parece al remo de mi abuelo.</sentence>
         <sentence lang="en">This freshwater fish resembles grandfather's paddle.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
@@ -2684,7 +2795,8 @@ charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male)]
         <parsing/>
     </text>
     <text id="102">
-        <sentence lang="prq">Onkotsitakiro nana chomiyo antantyaari ochaapote.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Onkotsitakiro nana chomiyo antantyaari ochaapote.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Onkotsitakiro nana chomiyo antantyaari ochaapote.</sentence>
         <sentence lang="es">Mi mamá cocina moquichi para preparar chapo.</sentence>
         <sentence lang="en">Mother cooked the moquichi-banana in order to prepare the chapo-dessert.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -2706,7 +2818,8 @@ ochaapote	[o-][NPers][3n.m.poss+][--][=chapo/chaapo+poss@te.][NRootEs][=dessert.
         <parsing/>
     </text>
     <text id="103">
-        <sentence lang="prq">Antantsi sheni chomo obantyaari obiyare.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Antantsi sheni chomo obantyaari obiyare.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Antantsi sheni chomo ovantyaari oviyare.</sentence>
         <sentence lang="es">Mi abuelita hace tinaja para guardar su masato.</sentence>
         <sentence lang="en">Grandma makes the clay jar in order to save manioc beer in it.</sentence>
         <morphology>
@@ -2728,7 +2841,8 @@ obiyare	[o-][NPers][3n.m.poss+][--][=piyare+n.m.+inal@ntsi.][NRoot][=manioc.beer
         <parsing/>
     </text>
     <text id="104">
-        <sentence lang="prq">Robabo chompi iraka payanti.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Robabo chompi iraka payanti.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovavo chompi iraka payanti.</sentence>
         <sentence lang="es">El pecho rojo come plátano maduro.</sentence>
         <sentence lang="en">The red breasted bird eats ripe plaintains.</sentence>
         <morphology>
@@ -2748,7 +2862,8 @@ payanti	[=payanti+n.m.+poss@te:ti.][NRoot][=plantain (banana-like.fruit.that.nee
         <parsing/>
     </text>
     <text id="105">
-        <sentence lang="prq">Osheki ikemaenkatiro chokiro pocharipaye.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Osheki ikemaenkatiro chokiro pocharipaye.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Osheki ikemaenkatiro chokiro pocharipaye.</sentence>
         <sentence lang="es">La hormiga negra es atraída por los dulces.</sentence>
         <sentence lang="en">The black ant senses the odor of sweets.</sentence>
         <morphology>
@@ -2768,7 +2883,8 @@ pocharipaye	[=pocha][VRoot][=to.be.sweet (ES: ser.dulce)][--][-ri+m.][NS][+ADJ.N
         <parsing/>
     </text>
     <text id="106">
-        <sentence lang="prq">Pokake choori ijeekaje anampiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Pokake choori ijeekaje anampiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Pokake choori iheekahe anampiki.</sentence>
         <sentence lang="es">El serrano vino a vivir en nuestro pueblo.</sentence>
         <sentence lang="en">A highlander came to live in our village.</sentence>
         <morphology>
@@ -2788,7 +2904,8 @@ anampiki	[a-][NPers][1PL.poss+][--][=nampi+n.m.+inal@tsi.][NRoot][=village; plac
         <parsing/>
     </text>
     <text id="107">
-        <sentence lang="prq">Ratsi apa tonkaariki chorina ishirikashitantyaabori ipanko.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ratsi apa tonkaariki chorina ishirikashitantyaabori ipanko.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ratsi apa tonkaariki chorina ishirikashitantyaavori ipanko.</sentence>
         <sentence lang="es">Mi papá trae hojas de chorina del cerro para techar su casa.</sentence>
         <sentence lang="en">Father got chorina-leaves in the hill in order to tie them to his house.</sentence>
         <morphology>
@@ -2812,7 +2929,8 @@ ipanko	[i-][NPers][3m.poss+][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa)
         <parsing/>
     </text>
     <text id="108">
-        <sentence lang="prq">Robabo chorito intsipaki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Robabo chorito intsipaki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovavo chorito intsipaki.</sentence>
         <sentence lang="es">El chorito come guaba.</sentence>
         <sentence lang="en">The chorito-parrot eats ice-cream bean.</sentence>
         <morphology>
@@ -2830,7 +2948,8 @@ intsipaki	[=intsipa][NRoot][=ice-cream.bean.tree (ES: guaba, pacae, pacay, shimb
         <parsing/>
     </text>
     <text id="109.1">
-        <sentence lang="prq">Irika ebankari imaperotatya ikomintsati.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Irika ebankari imaperotatya ikomintsati.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Irika evankari imaperotatya ikomintsati.</sentence>
         <sentence lang="es">Este joven es un verdadero cazador.</sentence>
         <sentence lang="en">This young man hunts really well.</sentence>
         <morphology>
@@ -2850,7 +2969,8 @@ ikomintsati	[i-][VPers][3m.S/A+][--][=komintsa][VRoot][=to.hunt (ES: cazar)][--]
         <parsing/>
     </text>
     <text id="109.2">
-        <sentence lang="prq">Irika atiri ebankari osheki iperata.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Irika atiri ebankari osheki iperata.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Irika atiri evankari osheki iperata.</sentence>
         <sentence lang="es">Este hombre joven es ocioso.</sentence>
         <sentence lang="en">This young man is very lazy.</sentence>
         <morphology>
@@ -2872,7 +2992,8 @@ iperata	[i-][VPers][3m.S/A+][--][=per][VRoot][=to.be.idle/lazy, to.laze.around (
         <parsing/>
     </text>
     <text id="110">
-        <sentence lang="prq">Timanake ebatairo nanaeni, raabakaaka norentitsori.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Timanake ebatairo nanaeni, raabakaaka norentitsori.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Timanake evatairo nanaeni, raavakaaka norentitsori.</sentence>
         <sentence lang="es">Mi tía ya tiene nuera porque mi primo se casó.</sentence>
         <sentence lang="en">Aunt currently has a daughter-in-law, my cousin got married.</sentence>
         <morphology>
@@ -2896,7 +3017,8 @@ norentitsori	[no-][NPers][1SG.poss+][--][=renti+m.][NRoot][=brother (kin.of.a.ma
         <parsing/>
     </text>
     <text id="111">
-        <sentence lang="prq">Okaminaeri nana yeye: Eero pishitobashitobati eeniro pebonkiritsi te pantarite.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Okaminaeri nana yeye: Eero pishitobashitobati eeniro pebonkiritsi te pantarite.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Okaminaeri nana yeye: Eero pishitovashitovati eeniro pevonkiritsi te pantarite.</sentence>
         <sentence lang="es">Mi mamá aconseja a mi hermano: “No estés saliendo a cada rato, aún eres adolescente, no eres adulto”.</sentence>
         <sentence lang="en">Mother advised brother: "Don't come and go constantly, you are still small, not an adult".</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -2928,7 +3050,8 @@ pantarite	[p-][VPers][2S/A+][--][=antari+m.][AdjRoot][=big; mature]+vbz.[--][-t]
         <parsing/>
     </text>
     <text id="112">
-        <sentence lang="prq">Ipaetakiri konki echonkiini ibatsa maniro.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ipaetakiri konki echonkiini ibatsa maniro.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ipaetakiri konki echonkiini ivatsa maniro.</sentence>
         <sentence lang="es">A mi suegro le dieron poca carne de venado.</sentence>
         <sentence lang="en">A little deer meat was given to father-in-law.</sentence>
         <morphology>
@@ -2950,7 +3073,8 @@ maniro	[=maniro+m.][NRoot][=deer (ES: venado); red.deer (ES: venado.rojo; sci.nm
         <parsing/>
     </text>
     <text id="113.1">
-        <sentence lang="prq">Itonkake pabachori antari maniro eejati itonkake ebonkiri kapeshi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Itonkake pabachori antari maniro eejati itonkake ebonkiri kapeshi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Itonkake pavachori antari maniro eehati itonkake evonkiri kapeshi.</sentence>
         <sentence lang="es">Mi tío baleó un venado grande y un achuni pequeño.</sentence>
         <sentence lang="en">Uncle shot a big deer and a small achuni [anteater-like animal].</sentence>
         <morphology>
@@ -2978,7 +3102,8 @@ kapeshi	[=kapeshi+m.+poss@ti.][NRoot][=anteater-like.animal.sp. (ES: achuni; sci
         <parsing/>
     </text>
     <text id="113.2">
-        <sentence lang="prq">Ikantakena yeye: Iye, eejati naaka nokobi noyaate obaantsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikantakena yeye: Iye, eejati naaka nokobi noyaate obaantsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikantakena yeye: Iye, eehati naaka nokovi noyaate ovaantsiki.</sentence>
         <sentence lang="es">Mi hermano me dijo: “Hermano, yo tambien quiero ir a la chacra”.</sentence>
         <sentence lang="en">Brother said to me: "Brother, I also want to go to the sown field".</sentence>
         <morphology>
@@ -3010,7 +3135,8 @@ obaantsiki	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.lan
         <parsing/>
     </text>
     <text id="114">
-        <sentence lang="prq">Riyaati eemeeni ikenabaeti tonkareki. </sentence>
+        <sentence lang="prq" normalizationlevel="none">Riyaati eemeeni ikenabaeti tonkareki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Riyaati eemeeni ikenavaeti tonkareki.</sentence>
         <sentence lang="es">Mi cuñado fue a cazar animales en la loma.</sentence>
         <sentence lang="en">Bother-in-law goes to hunt in the hill.</sentence>
         <morphology>
@@ -3030,7 +3156,8 @@ tonkareki	[=tonkare+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas][+
         <parsing/>
     </text>
     <text id="115">
-        <sentence lang="prq">Iraaka eentsi iraakotabo itibanate</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iraaka eentsi iraakotabo itibanate</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iraaka eentsi iraakotavo itivanate</sentence>
         <sentence lang="es">El niño llora por su piña.</sentence>
         <sentence lang="en">The child cries, cries about his pineapple.</sentence>
         <morphology>
@@ -3050,7 +3177,8 @@ itibanate	[i-][NPers][3m.poss+][--][=tivana+n.m.+poss@ti.][NRoot][=pineapple (ES
         <parsing/>
     </text>
     <text id="116">
-        <sentence lang="prq">Ramake apa payanti eereki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ramake apa payanti eereki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ramake apa payanti eereki.</sentence>
         <sentence lang="es">Mi papá trajo plátano verde.</sentence>
         <sentence lang="en">Father brought green plantains.</sentence>
         <morphology>
@@ -3070,7 +3198,8 @@ eereki	[=eereki][NRoot][=green; green.fruit (not.yet.ready.to.eat; ES: pona.verd
         <parsing/>
     </text>
     <text id="117">
-        <sentence lang="prq">Eero nopiyaabo pinampiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Eero nopiyaabo pinampiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Eero nopiyaavo pinampiki.</sentence>
         <sentence lang="es">No regresaré a tu pueblo.</sentence>
         <sentence lang="en">I won't return to your town.</sentence>
         <morphology>
@@ -3088,7 +3217,8 @@ pinampiki	[pi-][NPers][2poss+][--][=nampi+n.m.+inal@tsi.][NRoot][=village; place
         <parsing/>
     </text>
     <text id="118">
-        <sentence lang="prq">Riyaatati apa eniki royeeri otiyaarentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Riyaatati apa eniki royeeri otiyaarentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Riyaatati apa eniki royeeri otiyaarentsi.</sentence>
         <sentence lang="es">Mi papá se va al río a esperar el mijano.</sentence>
         <sentence lang="en">Father goes is going to the river to wait for the migratory fish.</sentence>
         <morphology>
@@ -3110,7 +3240,8 @@ otiyaarentsi	[=otiyaarentsi][NRoot][=migratory-fishes (ES: mijano, peces.migrato
         <parsing/>
     </text>
     <text id="119">
-        <sentence lang="prq">Eentsikeroeni paniite okentimikari kitoche.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Eentsikeroeni paniite okentimikari kitoche.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Eentsikeroeni paniite okentimikari kitoche.</sentence>
         <sentence lang="es">Camina despacio; cuidado que te piquen las espinas.</sentence>
         <sentence lang="en">Walk slowly; lest the thorns sting you.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -3130,7 +3261,8 @@ kitoche	[=kitoche+n.m.][NRoot][=thorn (ES: espina)]
         <parsing/>
     </text>
     <text id="120">
-        <sentence lang="prq">Okantabakaeyani tsinanipaye: Entyo, tsame antsokakite kaniri robaneki akonkire.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Okantabakaeyani tsinanipaye: Entyo, tsame antsokakite kaniri robaneki akonkire.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Okantavakaeyani tsinanipaye: Entyo, tsame antsokakite kaniri rovaneki akonkire.</sentence>
         <sentence lang="es">Las mujeres se dijeron: “Hermana, vamos a sacar yuca en la chacra del suegro”.</sentence>
         <sentence lang="en">The women said to each other: "Sister, let's pull out manioc in father-in-law's sown field".</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -3162,7 +3294,8 @@ akonkire	[a-][NPers][1PL.poss+][--][=konki+m.+poss@ri:re.][NRoot][=father.in.law
         <parsing/>
     </text>
     <text id="121">
-        <sentence lang="prq">Osheki rakabaantetae eroti aririka añabaete.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Osheki rakabaantetae eroti aririka añabaete.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Osheki rakavaantetae eroti aririka anyavaete.</sentence>
         <sentence lang="es">El loro aurora nos imita cuando hablamos.</sentence>
         <sentence lang="en">The parrot imitates us when we speak.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -3184,7 +3317,8 @@ añabaete	[a-][VPers][1PL.S/A+][--][=nya][VRoot][=to.speak][--][-vae][ASP][+DUR]
         <parsing/>
     </text>
     <text id="122">
-        <sentence lang="prq">Nonkotsibetaka kaniri iro kantaencha kijotake tema eshiraatake.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Nonkotsibetaka kaniri iro kantaencha kijotake tema eshiraatake.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Nonkotsivetaka kaniri iro kantaencha kihotake tema eshiraatake.</sentence>
         <sentence lang="es">Había cocinado yuca, pero está dura porque es caulla.</sentence>
         <sentence lang="en">I cooked yucca, but it is hard because it was moldy.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -3210,7 +3344,8 @@ eshiraatake	[=eshiraa][VRoot][=to.be.moldy/old-and-not_in_good_condition (ES: es
         <parsing/>
     </text>
     <text id="123.1">
-        <sentence lang="prq">Petyaari pikamanteri pireenti ipokatye jataantaneri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Petyaari pikamanteri pireenti ipokatye jataantaneri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Petyaari pikamanteri pireenti ipokatye hataantaneri.</sentence>
         <sentence lang="es">Ve a avisar a tu hermano que viene el doctor.</sentence>
         <sentence lang="en">Go to warn your brother that the doctor is coming.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -3232,7 +3367,8 @@ ipokatye	[i-][VPers][3m.S/A+][--][=pok][VRoot][=to.come (ES: venir), to.arrive][
         <parsing/>
     </text>
     <text id="123.2">
-        <sentence lang="prq">Petabakiari pikonkire pinkiteri piarentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Petabakiari pikonkire pinkiteri piarentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Petavakiari pikonkire pinkiteri piarentsi.</sentence>
         <sentence lang="es">Empieza a convidar masato a tu suegro.</sentence>
         <sentence lang="en">Start serving manioc beer to your uncle.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -3252,7 +3388,8 @@ piarentsi	[=pyare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato)][--][-ntsi+a
         <parsing/>
     </text>
     <text id="124">
-        <sentence lang="prq">Etakantabori robetsikiro nampitsi iritake charine.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Etakantabori robetsikiro nampitsi iritake charine.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Etakantavori rovetsikiro nampitsi iritake charine.</sentence>
         <sentence lang="es">El fundador de la ciudad fue mi abuelo.</sentence>
         <sentence lang="en">Grandfather is the city founder.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -3274,7 +3411,8 @@ charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male)]
         <parsing/>
     </text>
     <text id="125">
-        <sentence lang="prq">Etakotaka Niibotya tema te inintajero onintane.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Etakotaka Niibotya tema te inintajero onintane.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Etakotaka Niivotya tema te inintahero onintane.</sentence>
         <sentence lang="es">Niibotya está sufriendo porque su enamorado dejó de amarla.</sentence>
         <sentence lang="en">Niibotya is suffering for love because [lit.: whom she loves]/[her boyfriend] doesn't love her anymore.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -3298,7 +3436,8 @@ onintane	[o-][VPers][3n.m.S/A+][--][=nint][VRoot][=to.want (ES: gustar); to.love
         <parsing/>
     </text>
     <text id="126">
-        <sentence lang="prq">Ikiyiro eti kipatsi rantantyaabori imaamento.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikiyiro eti kipatsi rantantyaabori imaamento.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikiyiro eti kipatsi rantantyaavori imaamento.</sentence>
         <sentence lang="es">La carachupa escarba la tierra para hacer su cama.</sentence>
         <sentence lang="en">The carachupa-armadillo digs the earth to build his bed.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -3320,7 +3459,8 @@ imaamento	[i-][NPers][3m.poss+][--][=maa][VRoot][=to.sleep (ES: dormir)][--][-me
         <parsing/>
     </text>
     <text id="127">
-        <sentence lang="prq">Riyaati apa ichekakoti etiki tonkaareki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Riyaati apa ichekakoti etiki tonkaareki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Riyaati apa ichekakoti etiki tonkaareki.</sentence>
         <sentence lang="es">Mi papá fue a recoger caimitillos en la loma.</sentence>
         <sentence lang="en">Father goes to the hill-top in order to cut the caimitillo-fruit.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -3342,7 +3482,8 @@ tonkaareki	[=tonkaare+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas]
         <parsing/>
     </text>
     <text id="128">
-        <sentence lang="prq">Ayaataki etso jenoki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ayaataki etso jenoki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ayaataki etso henoki.</sentence>
         <sentence lang="es">La golondrina está volando arriba.</sentence>
         <sentence lang="en">The swallow is flying high.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -3361,7 +3502,8 @@ jenoki	[=henoki][NRoot][=top (ES: arriba, alto); sky]
     </text>
     <text id="129">
         <!-- Raabintatyabo Ashoshi ribenkite ikomintsantantyari. -->
-        <sentence lang="prq">Raabintatyabo Ashoshi ribenkite ikomintsatantyari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Raabintatyabo Ashoshi ribenkite ikomintsatantyari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Raavintatyavo Ashoshi rivenkite ikomintsatantyari.</sentence>
         <sentence lang="es">Ashoshi se cura con piripiri para ser cazador.</sentence>
         <sentence lang="en">Ashoshi gets cured with the piripiri-plant so that he can hunt.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -3381,7 +3523,8 @@ ikomintsatantyari	[i-][VPers][3m.S/A+][--][=komintsa][VRoot][=to.hunt (ES: cazar
         <parsing/>
     </text>
     <text id="130">
-        <sentence lang="prq">Jataki iiñeeni areetyabo nana.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Jataki iiñeeni areetyabo nana.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Hataki iinyeeni areetyavo nana.</sentence>
         <sentence lang="es">Mi cuñada va para visitar a mi mamá.</sentence>
         <sentence lang="en">Sister-in-law went to visit mother.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -3401,7 +3544,8 @@ nana	[=nana+n.m.+voc.+poss@te:ti.][NRoot][=mom, mother (kin.of.a.fe/male; ES: ma
         <parsing/>
     </text>
     <text id="131">
-        <sentence lang="prq">Jantsaro oishi iroka tsinane.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Jantsaro oishi iroka tsinane.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Hantsaro oishi iroka tsinane.</sentence>
         <sentence lang="es">Esta mujer tiene cabello largo.</sentence>
         <sentence lang="en">This woman has long hair.</sentence>
         <morphology>
@@ -3421,7 +3565,8 @@ tsinane	[=tsinane+n.m.][NRoot][=female, woman; young.girl]
         <parsing/>
     </text>
     <text id="132">
-        <sentence lang="prq">Obakeri tonkitsi iitiki Chareto.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Obakeri tonkitsi iitiki Chareto.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ovakeri tonkitsi iitiki Chareto.</sentence>
         <sentence lang="es">La espina picó a Chareto en el pie.</sentence>
         <sentence lang="en">The thorn stung Chareto's foot.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -3442,7 +3587,8 @@ chareto	[=chareto][NRoot][=NP; person's.name]
         <parsing/>
     </text>
     <text id="133">
-        <sentence lang="prq">Katsitake iito nani irajeempiaka piarentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Katsitake iito nani irajeempiaka piarentsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Katsitake iito nani iraheempiaka piarentsi.</sentence>
         <sentence lang="es">A mi cuñado le duele la cabeza por tomar masato.</sentence>
         <sentence lang="en">My grandfather's head hurts when he drunk manioc beer.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -6146,12 +6292,13 @@ otsipa	[o-][NPers][3n.m.poss+][--][=otsipa+n.m.][NRoot][=other, another]
     <text id="237.1">
         <sentence lang="prq" normalizationlevel="none">Aashitakari choeni shirampari kayetsi.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Aashitakari choeni shirampari kayetsi.</sentence>
-        <sentence lang="es">Mi hermana se casó con un hombre afasi.</sentence>
-        <sentence lang="en">Sister ... with a bad hunter.</sentence>
+        <sentence lang="es">El que preñó a mi hermana es un hombre afasi</sentence>
+        <!--<sentence lang="es">Mi hermana se casó con un hombre afasi.</sentence>-->
+        <sentence lang="en">The one who impregnated my sister is a bad hunter.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-aashitakari	[=aashi][VRoot][=to. (ES: pusanguear,, dar.brebaje, ,, embrujar)][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-a][+REAL]a[--][=ri][+3m.O]
+aashitakari	[=aashi][VRoot][=to. (ES: pusanguear,, dar.brebaje, ,, embrujar)][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-a][+REAL]a[--][=ri][+REL]
 
 choeni	[=choeni+n.m.][NRoot][=sister (kin.of.a.male, male.ego)]
 

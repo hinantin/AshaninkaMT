@@ -10,6 +10,33 @@ historiasashaninkas_free.pdf
 
 -->
 <parallel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="parallel_texts.xsd">
+    <text id="1.0">
+        <sentence lang="es">NUESTROS AGRADECIMIENTOS</sentence>
+        <sentence lang="prq">NARORI NOMPASONKITANAJE</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
+    <text id="1.1">
+        <sentence lang="es">En este trabajo, la familia Samaniego merece un agradecimiento especial; no sólo por
+            haber hecho suya esta propuesta, sino por el habernos hecho sentir, desde el primer
+            momento, amigos de la familia, acogernos como uno más de la comunidad y compartir
+            con nosotros y nosotras su vida cotidiana, sus historias, sus comidas y sus fiestas. Para
+            ellos, Luis, Mercedes, Velit, Shunita, Tommy, Felicia, Sharol, Miriam, Marisol, Lisbeth,
+            Luis hijo y Shironi, a través de estas páginas, queremos expresarles nuestro más
+            profundo agradecimiento y gratitud y la constancia que sin su aporte, este libro no
+            hubiera sido posible.</sentence>
+        <sentence lang="prq">Oka antaberintsika, ishaninkape Shamañeko tyariyoperotake nompasonkitaje; eiro
+            aparoni mantakanajeri irashi oka yobanakeri, yamenanakeri yantakeri ojokantapakari,
+            obakera intantanakaro, yapatiyane ishamininkaje akeri noshiyakantabakeri aparoni
+            noshaninka nonampiki impoiji nontsiparero narori okarati noyoyetiri nañantari,
+            kenkitsarentsi, abarentsi, jero kimoshiretantsimashiki. Irashi iriyori, Iroishi, Merishereshi,
+            Bereshi, Shunita, Tomiki, Jericia, Sharori, Miriani, Marisori, Irishibeti, Iroishi-itomi, jeri
+            Shironi, okameka sankenamentotsika nobetsatanajiari okarati nashi
+            nompashonkitanajeri nonkenkishiriataichariri eirorikame yamitakotakema, oka petanaro
+            eirome nomatiro nantero apaniyoji.</sentence>
+        <morphology format="" analysislevel=""/>
+        <parsing format="" analysislevel=""/>
+    </text>
     <text id="2.0">
         <sentence lang="prq">INCHATO TSOMONTE</sentence>
         <sentence lang="es">EL ARBOL BARRIGÓN</sentence>

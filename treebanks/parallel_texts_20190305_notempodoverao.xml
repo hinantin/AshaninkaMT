@@ -2,8 +2,8 @@
     <text id="0">
         <sentence lang="cpb">ASHI OSARẼTSIPAITEKI</sentence>
         <sentence lang="pt">NO TEMPO DO VERÃO</sentence>
-        <morphology format="" analysislevel=""/>
-        <parsing format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully"/>
+        <parsing format="CoNLL" analysislevel="not-fully"/>
     </text>
     <text id="1">
         <sentence lang="cpb">ISAIKI ASHENĨKAPAINI

@@ -1,7 +1,7 @@
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning" elementFormDefault="qualified" vc:minVersion="1.1">
     <xs:simpleType name="NameBaseType">
         <xs:restriction base="xs:string">
-            <xs:minLength value="1"/>
+            <xs:minLength value="0"/>
         </xs:restriction>
     </xs:simpleType>
     <xs:simpleType name="morphologicalanalysisformat">
@@ -127,22 +127,22 @@
                             <xs:element name="es" minOccurs="0" maxOccurs="1"/>
                             <xs:element name="en" minOccurs="1" maxOccurs="1"/>
                             -->
-                            <xs:element name="morphology" minOccurs="1" maxOccurs="1" nillable="false">
+                            <xs:element name="morphology" minOccurs="0" maxOccurs="1" nillable="true">
                                 <xs:complexType>
                                     <xs:simpleContent>
                                         <xs:extension base="NameBaseType">
-                                            <xs:attribute type="morphologicalanalysisformat" name="format" use="required"/>
-                                            <xs:attribute type="analysislevel" name="analysislevel" use="required"/>
+                                            <xs:attribute type="morphologicalanalysisformat" name="format" use="optional"/>
+                                            <xs:attribute type="analysislevel" name="analysislevel" use="optional"/>
                                         </xs:extension>
                                     </xs:simpleContent>
                                 </xs:complexType>
                             </xs:element>
-                            <xs:element name="parsing" minOccurs="1" maxOccurs="1" nillable="false">
+                            <xs:element name="parsing" minOccurs="0" maxOccurs="1" nillable="true">
                                 <xs:complexType>
                                     <xs:simpleContent>
                                         <xs:extension base="NameBaseType">
-                                            <xs:attribute type="parsingoutputformat" name="format" use="required"/>
-                                            <xs:attribute type="analysislevel" name="analysislevel" use="required"/>
+                                            <xs:attribute type="parsingoutputformat" name="format" use="optional"/>
+                                            <xs:attribute type="analysislevel" name="analysislevel" use="optional"/>
                                         </xs:extension>
                                     </xs:simpleContent>
                                 </xs:complexType>

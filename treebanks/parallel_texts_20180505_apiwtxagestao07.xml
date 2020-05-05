@@ -31,7 +31,9 @@ and the accent tréma ë, ï, ü.
     <text id="0">
         <sentence lang="cpb" normalizationlevel="none">AYAWÕTATSIRO HIYATENE AASHI IPATSITE ASHENIKA AMOYSATSI</sentence>
         <sentence lang="cpb" normalizationlevel="normalized-alphabet">AYAWÕTATSIRO HĨYATENE AASHI IPATSITE ASHENĨKA AMÕYASATSI</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">AYAVONTATZIRO HINYATENE AASHI IPATSITE ASHENINKA AMONYASATSI</sentence>
         <sentence lang="pt">TERRA INDÍGENA KAMPA DO RIO AMÔNIA</sentence>
+        <sentence lang="es">TIERRA INDÍGENA CAMPA DEL RÍO AMONIA</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -52,7 +54,9 @@ amõyasatsi	[=amonya/amõya][NRoot:CPB][=Amonia.river (ES: río.Amonia; PT: Rio.
     <text id="1">
         <sentence lang="cpb" normalizationlevel="none">ASHE AMINÃTXARI AIPATSITE ASHANINKA EERO ITHÕKATXARI ASHE. AAKA SEYKAYETSIRI ÃTAMIKI EEHATISITA AASHE WIRAKOTXA SEYKAYETSIRI OKOWAKINE AIPATSITE</sentence>
         <sentence lang="cpb" normalizationlevel="normalized-alphabet">ASHE AMINÃTXARI AIPATSITE ASHANINKA EERO ITHÕKATXARI ASHE. AAKA SEYKAYETSIRI ÃTAMIKI EEHATSITA AASHE WIRAKOTXA SEYKAYETSIRI OKOWAKINE AIPATSITE</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">ASHE AMINANTYARI AIPATSITE ASHANINKA EERO ITSONKATYARI ASHE. AAKA SEIKAYETSIRI ANTAMIKI EEHATSITA AASHE VIRAKOCHA SEIKAYETSIRI OKOVAKINE AIPATSITE</sentence>
         <sentence lang="pt">PLANO DE GESTÃO TERRITORIAL E AMBIENTAL DA TERRA INDÍGENA KAMPA DO RIO AMÔNIA</sentence>
+        <sentence lang="es">PLAN DE GESTIÓN TERRITORIAL Y AMBIENTAL DE LA TIERRA INDÍGENA CAMPA DEL RÍO AMONIA</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -96,7 +100,9 @@ wirakotxa	[=virakotxa/wirakotxa][NRoot:CPB][=outsider; white.person (PT: branco)
     <text id="2">
         <sentence lang="cpb" normalizationlevel="none">I –SEYKAYETSIRI ÃTAMIKI</sentence>
         <sentence lang="cpb" normalizationlevel="normalized-alphabet">I –SEYKAYETSIRI ÃTAMIKI</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">I –SEIKAYETSIRI ANTAMIKI</sentence>
         <sentence lang="pt">I – RECURSOS FLORESTAIS E FLORÍSTICOS</sentence>
+        <sentence lang="es">I – RECURSOS FLORESTALES Y FLORÍSTICOS</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -119,6 +125,7 @@ wirakotxa	[=virakotxa/wirakotxa][NRoot:CPB][=outsider; white.person (PT: branco)
         -->
         <sentence lang="cpb" normalizationlevel="none">1 - Tsiirotsiiki:</sentence>
         <sentence lang="cpb" normalizationlevel="normalized-alphabet">1 - Tsiirotsiiki:</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">1 - Tsiirotsiiki:</sentence>
         <sentence lang="pt">1 - Murmuru:</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
@@ -126,25 +133,31 @@ wirakotxa	[=virakotxa/wirakotxa][NRoot:CPB][=outsider; white.person (PT: branco)
     <text id="4">
         <sentence lang="cpb" normalizationlevel="none">Akoyiteri tsiirotsiiki ashi opimãtxaa: apaa akoyiteri seikatsiri othapiyaki hiyatene eehatsii ãtawa, okakini anãpi awotsiki.</sentence>
         <sentence lang="cpb" normalizationlevel="normalized-alphabet">Akoyiteri tsiirotsiiki ashi opimãtxaa: apaa akoyiteri seikatsiri othapiyaki hĩyatene eehatsii ãtawa, okakini anãpi awotsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Akoyiteri tsiirotsiiki ashi opimantyaa: apaa akoyiteri seikatsiri otsapiyaki hinyatene eehatsii antava, okakini anampi avotsiki.</sentence>
         <sentence lang="pt">A coleta para a venda deve usar os indivíduos localizados nas margens dos rios e nos caminhos próximos das casas de moradias.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="5">
         <!-- Aririka akoyiteri tsiirotsiiki othapiyaki hiyatene, ãtawaki eero athõkiri mawoyni otsiimatxe ookere apawopayni ashi royari tsimeri-payni. -->
-        <sentence lang="cpb">Aririka akoyiteri tsiirotsiiki othapiyaki hiyatene, ãtawaki eero athõkiri mawoyni otsiimatxe ookere apawopayni ashi royari tsimeri-payni.</sentence>
+        <sentence lang="cpb" normalizationlevel="none">Aririka akoyiteri tsiirotsiiki othapiyaki hiyatene, ãtawaki eero athõkiri mawoyni otsiimatxe ookere apawopayni ashi royari tsimeri-payni.</sentence>
+        <sentence lang="cpb" normalizationlevel="normalized-alphabet">Aririka akoyiteri tsiirotsiiki othapiyaki hĩyatene, ãtawaki eero athõkiri mawoyni õtsiimatxe ookere apawopayni ashi royari tsimeri-payni.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Aririka akoyiteri tsiirotsiiki otsapiyaki hinyatene, antavaki eero atsonkiri mavoini ontziimatye ookere aparopaini ashi royari tsimeripaini.</sentence>
         <sentence lang="pt">Quando fizer a coleta nas margens dos rios, procurar deixar sempre alguns murmurus para as caças se alimentarem.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="6">
-        <sentence lang="cpb">Eero akoyitsii niyãkimashiniki ookeniri ashi royari tsimeri ikemita, kiteyriki, shitori, shawo, orishitsii, meyiri eehatsi itsipa-payni owariri.</sentence>
+        <sentence lang="cpb" normalizationlevel="none">Eero akoyitsii niyãkimashiniki ookeniri ashi royari tsimeri ikemita, kiteyriki, shitori, shawo, orishitsii, meyiri eehatsi itsipa-payni owariri.</sentence>
+        <sentence lang="cpb" normalizationlevel="normalized-alphabet">Eero akoyitsii niyãkimashiniki ookeniri ashi royari tsimeri ikemita, kiteyriki, shitori, shawo, orishitsii, meyiri eehatsi itsipa-payni owariri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Eero akoyitsii niyankimashiniki ookeniri ashi royari tsimeri ikemita, kiteiriki, shitori, shavo, orishitsii, meyiri eehatsi itsipapayni owariri.</sentence>
         <sentence lang="pt">Não fazer coleta dentro da mata para deixar para as caças se alimentarem, por exemplo: o porquinho, a queixada, a cotia, a cotiara, o quatipuru, etc.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="7">
-        <sentence lang="cpb">Akoyiteri okaate 300 osãthate (metros) hiyatxeraki, eehatsii ãtawaitapita okakini anãpi.</sentence>
+        <sentence lang="cpb" normalizationlevel="none">Akoyiteri okaate 300 osãthate (metros) hiyatxeraki, eehatsii ãtawaitapita okakini anãpi.</sentence>
+        <sentence lang="cpb" normalizationlevel="normalized-alphabet">Akoyiteri okaate 300 osãthate (metros) hiyatxeraki, eehatsii ãtawaitapita okakini anãpi.</sentence>
         <sentence lang="pt">Coletar até 300 metros a partir da margem dos rios e igarapés, na área de uso da aldeia</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
@@ -159,31 +172,40 @@ wirakotxa	[=virakotxa/wirakotxa][NRoot:CPB][=outsider; white.person (PT: branco)
     <text id="9">
         <sentence lang="cpb" normalizationlevel="none">Opoya 1993 aretakari 1996 anãpiki awetsiikakiro akoyite apawo-payni itxato okithoki ashi opimãtxaa ( ãpeniroki, paato, tairi, kowe*, sãtari, yopo, hiriwatsiiki, sãtsiimatsiiki, etatsi otsipa-payni.)</sentence>
         <!-- not completed -->
-        <sentence lang="cpb" normalizationlevel="normalized-alphabet">Opõya 1993 aretakari 1996 anãpiki awetsiikakiro akoyite apawo-payni itxato okithoki ashi opimãtxaa ( ãpeniroki, paato, tairi, kowe*, sãtari, yopo, hiriwatsiiki, sãtsiimatsiiki, etatsi otsipa-payni.)</sentence>
+        <sentence lang="cpb" normalizationlevel="normalized-alphabet">Opõya 1993 aretakari 1996 anãpiki awetsiikakiro akoyite apawo-payni ĩtxato okithoki ashi opimãtxaa ( ãpeniroki, paato, tairi, kowe*, sãtari, yopo, hiriwatsiiki, sãtsiimatsiiki, etatsi otsipa-payni.)</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Oponya 1993 aretakari 1996 anampiki avetsiikakiro akoyite apavopaini inchato okitsoki ashi opimantyaa ( ampeniroki, paato, tairi, kove*, santari, yopo, hirivatsiiki, santsiimatsiiki, etatsi otsipapaini.)</sentence>
         <sentence lang="pt">De 1993 a 1996 a comunidade se organizou para fazer a coleta e venda de algumas espécies de sementes florestais (mutamba, atopa, mulateiro, mulungu da várzea, copaíba, cedro, aguano, bálsamo, san pedro, cumaru, pau d’arco, etc).</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="10">
         <sentence lang="cpb">Akoyitãtari okithoki itxato-payni ashi apãkitãtxaari ithomoitaki aipatsiiteki owãtsi-poshiki eehatsii hekokiroki wirakotxaki.</sentence>
+        <sentence lang="cpb" normalizationlevel="normalized-alphabet">Akoyitãtari okithoki ĩtxato-payni ashi apãkitãtxaari ĩthomoĩtaki aipatsiiteki owãtsi-poshiki eehatsii hekokiroki wirakotxaki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Akoyitantari okitsoki inchatopaini ashi apankitantyaari intsomointaki aipatsiiteki ovantsiposhiki eehatsii hekokiroki virakochaki.</sentence>
         <sentence lang="pt">um dos objetivos era o plantio e reflorestamento dentro da terra indígena e fora dela.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="11">
         <sentence lang="cpb">Okãta 1996 etatsi akoyitsii ashi opãkitxa anãpiki, ayaãtxaari okakini hirika-payni itxato.</sentence>
+        <sentence lang="cpb" normalizationlevel="normalized-alphabet">Okãta 1996 etatsi akoyitsii ashi opãkitxa anãpiki, ayaãtxaari okakini hirika-payni ĩtxato.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Okanta 1996 etatsi akoyitsii ashi opankitya anampiki, ayaantyaari okakini hirikapaini inchato.</sentence>
         <sentence lang="pt">De 1996 em diante, cada família continuou a coletar e a plantar para a manutenção dessas espécies.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="12">
-        <sentence lang="cpb">Okãta eehtsii apiitero akoyitero okithoki itxato-payni 2005 ashi opimãtxaa.</sentence>
+        <sentence lang="cpb">Okãta eehatsii apiitero akoyitero okithoki itxato-payni 2005 ashi opimãtxaa.</sentence>
+        <sentence lang="cpb" normalizationlevel="none">Okãta eehatsii apiitero akoyitero okithoki ĩtxato-payni 2005 ashi opimãtxaa.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Okanta eehatsii apiitero akoyitero okitsoki inchatopaini 2005 ashi opimantyaa.</sentence>
         <sentence lang="pt">Não devemos derrubar as árvores para fazer a coleta da semente, devemos fazer sempre um manejo sustentável e usar material de alpinismo para a coleta.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="13">
         <sentence lang="cpb">3 - okithoki itxato:</sentence>
+        <sentence lang="cpb" normalizationlevel="normalized-alphabet">3 - okithoki ĩtxato:</sentence>
+        <sentence lang="cpb" normalizationlevel="normalized-alphabet">3 - okitsoki inchato:</sentence>
         <sentence lang="pt">3 - Sementes de artesanatos:</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
@@ -1031,7 +1053,6 @@ wirakotxa	[=virakotxa/wirakotxa][NRoot:CPB][=outsider; white.person (PT: branco)
         <parsing format="" analysislevel=""/>
     </text>
     <text id="154">
-        <sentence lang="cpb">1 - aashi amitakotãtxari aminãtxari aipatsite:</sentence>
         <sentence lang="pt">1 - Sistema de fiscalização da área de fronteira:</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
