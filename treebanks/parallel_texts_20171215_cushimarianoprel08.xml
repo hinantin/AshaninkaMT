@@ -16426,6 +16426,7 @@ antamiki	[=antami][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.for
         <sentence lang="prq" normalizationlevel="none">Tajakotake iitsoki tyaapa shitobanake tyaapaniki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Tahakotake iitsoki tyaapa shitovanake tyaapaniki.</sentence>
         <sentence lang="es">Los huevos se reventaron y salieron los pollitos.</sentence>
+        <sentence lang="en">The eggs burst and the chicks hatched.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -16449,6 +16450,7 @@ tyaapaniki	[=tyaapa+n.m.+poss@te.][NRoot][=hen (ES: gallina); chicken][--][-niki
         <sentence lang="prq" normalizationlevel="none">Kiake tyaapapankoki maretyakintsi roba iitsoki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Kiake tyaapapankoki maretyakintsi rova iitsoki.</sentence>
         <sentence lang="es">La iguana entró en el gallinero para comer los huevos.</sentence>
+        <sentence lang="en">The iguana entered the chicken coop to eat the eggs.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -16471,6 +16473,7 @@ iitsoki	[i-][NPers][3m.poss+][--][=kitsoki][NRoot][=egg (huevo); seed (ES: semil
         <sentence lang="prq" normalizationlevel="none">Oninti impanekiki kaniri tyonkiro.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Oninti impanekiki kaniri tyonkiro.</sentence>
         <sentence lang="es">La yuca “tyonkiro” crece en la arena.</sentence>
+        <sentence lang="en">The tyonkiro-yucca grows in the sand.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -16491,6 +16494,7 @@ kaniri	[=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: y
         <sentence lang="prq" normalizationlevel="none">Ikaemakantaetakeri obametantatsiri yempipabaerontsiki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikaemakantaetakeri ovametantatsiri yempipavaerontsiki.</sentence>
         <sentence lang="es">El profesor tiene una llamada por teléfono.</sentence>
+        <sentence lang="en">The teacher has a phone call.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -16509,6 +16513,7 @@ ovametantatsiri	[=ovame][VRoot][=to.teach (ES: enseñar)][--][-t][+EP]t[--][-ant
         <sentence lang="prq" normalizationlevel="none">Antabo iyempita otsiti ikemantari intaena.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Antavo iyempita otsiti ikemantari intaena.</sentence>
         <sentence lang="es">Las orejas del perro son grandes, por eso oye muy lejos.</sentence>
+        <sentence lang="en">The dog ears are big, that's why it hears from far away.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -16531,6 +16536,7 @@ intaena	[=intaena+sem@loc.][AdvRoot][=far.away (ES: muy.lejos)]
         <sentence lang="prq" normalizationlevel="none">Katsitake iyereto charine okantakaantiro ityerobi.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Katsitake iyereto charine okantakaantiro ityerovi.</sentence>
         <sentence lang="es">A mi abuelo le duele la cabeza por estar de rodillas.</sentence>
+        <sentence lang="en">My grandfather has a headache because he kneeled down.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -16553,6 +16559,7 @@ ityerovi	[i-][VPers][3m.S/A+][--][=tyerov][VRoot][=to.kneel.down (ES: arrodillar
         <sentence lang="prq" normalizationlevel="none">Nokantakeri yeye: Pamitakotena nopankoki notsonkantyaabori intsipaite.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Nokantakeri yeye: Pamitakotena nopankoki notsonkantyaavori intsipaite.</sentence>
         <sentence lang="es">Le dije a mi hermano: “Ayúdame a termirar mi casa”.</sentence>
+        <sentence lang="en">I told my brother: “Help me finish my house”.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -16729,9 +16736,10 @@ añane	[a-][NPers][1PL.poss+][--][=nya+n.m.+inal@ntsi.+poss@ne.][NRoot][=word (E
 </morphology>
     </text>
     <text id="EOS2">
-        <sentence lang="prq" normalizationlevel="none">Apinka yareeta antamimashiki</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">Apinka yareeta antamimashiki</sentence>
-        <sentence lang="es">Los incas llegan a la selva</sentence>
+        <sentence lang="prq" normalizationlevel="none">Apinka yareeta antamimashiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Apinka yareeta antamimashiki.</sentence>
+        <sentence lang="es">Los incas llegan a la selva.</sentence>
+        <sentence lang="en">The incas arrived to the jungle.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -16748,7 +16756,8 @@ antamimashiki	[=antami][NRoot][=dense.tropical.forest][--][-mashi][+CL:vast.spac
     </text>
     <text id="EOS3">
         <sentence lang="prq" normalizationlevel="none">jominthaawakeri kashekari</sentence>
-        <sentence lang="prq" normalizationlevel="none">homintsaavakeri kashekari</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">homintsaavakeri kashekari</sentence>
+        <sentence lang="es">el jaguar que lo asustó.</sentence>
         <sentence lang="en">the jaguar frightened him</sentence>
         <!-- lit.: the jaguar made him scared -->
         <!-- e.g.: the jaguar was pusuing him or jumped at him -->
