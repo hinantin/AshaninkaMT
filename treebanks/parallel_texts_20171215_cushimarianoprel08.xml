@@ -16763,9 +16763,10 @@ kashekari	[=kashekari+m.][NRoot][=jaguar (phon.tat.: [ka.ˈʃɛ.ka.ɾɪ]; a.mani
         <parsing/>
     </text>
     <text id="EOS4">
-        <sentence lang="prq" normalizationlevel="none">ithaawakaakari antari maranke</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">itsaavakaakari antari maranke</sentence>
-        <sentence lang="en">The big serpent that scared him</sentence>
+        <sentence lang="prq" normalizationlevel="none">ithaawakaakari antari maranke.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">itsaavakaakari antari maranke.</sentence>
+        <sentence lang="es">La serpiente grande que me asustó.</sentence>
+        <sentence lang="en">The big serpent that scared him.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
