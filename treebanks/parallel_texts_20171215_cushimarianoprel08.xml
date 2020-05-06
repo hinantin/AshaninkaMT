@@ -5675,7 +5675,8 @@ apatorentsi	[=apato][VRoot][=to.gather (ES: juntar), to.meet, to.get.together][-
         <parsing/>
     </text>
     <text id="211.1">
-        <sentence lang="prq">Ikamarankake notyomi tsireniriki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikamarankake notyomi tsireniriki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikamarankake notyomi tsireniriki.</sentence>
         <sentence lang="es">Mi hijo vomitó en la noche.</sentence>
         <sentence lang="en">My son vomited at night.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -5900,7 +5901,7 @@ ikenkishiriamento	[i-][NPers][3m.poss+][--][=kenkishiri][VRoot][=to.believe, to.
     </text>
     <text id="220">
         <sentence lang="prq" normalizationlevel="none">Itonkabetaka paa jamani iro kantimaetacha te robamayeri.</sentence>
-        <sentence lang="prq" normalizationlevel="none">Itonkavetaka paa hamani iro kantimaetacha te rovamayeri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Itonkavetaka paa hamani iro kantimaetacha te rovamayeri.</sentence>
         <sentence lang="es">Mi papá baleó un majás, pero no lo mató.</sentence>
         <sentence lang="en">Father shot a majas-rodent, but he didn't kill it.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -5953,7 +5954,7 @@ nihaaki	[=nihaa+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)][--]
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovakari kapashiro iitsoki tyaapa.</sentence>
         <sentence lang="es">La iguana comió el huevo de la gallina.</sentence>
         <sentence lang="en">The iguana ate the chicken egg.</sentence>
-        <morphology>
+        <morphology format="ashaninkamorph">
 
 
 rovakari	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-ak][ASP][+PRF]ak[--][-a][+REAL]a[--][=ri][+3m.O]
@@ -6113,7 +6114,7 @@ pipariikari	[pi-][VPers][2S/A+][--][=pari][VRoot][=to.fall (ES: caer)][--][-i][+
     </text>
     <text id="229">
         <sentence lang="prq" normalizationlevel="none">Ratsikakeri matsontsori tyaapa rookanakeri kashetaeni ibatsa.</sentence>
-        <sentence lang="prq" normalizationlevel="none">Ratsikakeri matsontsori tyaapa rookanakeri kashetaeni ivatsa.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ratsikakeri matsontsori tyaapa rookanakeri kashetaeni ivatsa.</sentence>
         <sentence lang="es">El tigre comió a la gallina y dejó un pedazo de carne.</sentence>
         <sentence lang="en">The jaguar bit the hen, it left a piece of meat.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -6191,7 +6192,7 @@ nihaaki	[=nihaa+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)][--]
         <sentence lang="prq" normalizationlevel="none">Ijaantakoti konki katsikori robantyaabori iyaniri.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ihaantakoti konki katsikori rovantyaavori iyaniri.</sentence>
         <sentence lang="es">Mi suegro saca hormigas comestibles de la tierra para comerlas con su yuca.</sentence>
-        <sentence lang="en">???</sentence>
+        <sentence lang="en">My father-in-law takes edible ants out of the ground to eat with his yucca.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -6345,7 +6346,7 @@ iina	[i-][NPers][3m.poss+][--][=iina+n.m.+inal@tsi.][NRoot][=mother; wife (kin.o
     </text>
     <text id="238">
         <sentence lang="prq" normalizationlevel="none">Okantana nana: Pinkebero pako aririka poya obanabontsi.</sentence>
-        <sentence lang="prq" normalizationlevel="none">Okantana nana: Pinkevero pako aririka poya ovanavontsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Okantana nana: Pinkevero pako aririka poya ovanavontsi.</sentence>
         <sentence lang="es">Mi mamá me dice: “Lávate las manos antes de comer”.</sentence>
         <sentence lang="en">Mother says to me: "Wash your hands when you eat the food".</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -6898,6 +6899,7 @@ ankaraero	[a-][VPers][1PL.S/A+][--][N=][IRR+][--][=kar][VRoot][=to.break (ES: qu
         <sentence lang="prq" normalizationlevel="none">Kimoshiretanaki apa ipaetantakariri pitotsi.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Kimoshiretanaki apa ipaetantakariri pitotsi.</sentence>
         <sentence lang="es">Mi papá sintió alegría cuando recibió la canoa.</sentence>
+        <sentence lang="en">My dad felt happy when he received the canoe.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -6916,7 +6918,7 @@ pitotsi	[=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe (ES: canoa)][--][-tsi+alie
     </text>
     <text id="262">
         <sentence lang="prq" normalizationlevel="none">Ikimoshiretati yeye raaki osheki shima.</sentence>
-        <sentence lang="prq" normalizationlevel="none">Ikimoshiretati yeye raaki osheki shima.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikimoshiretati yeye raaki osheki shima.</sentence>
         <sentence lang="es">Mi hermano está contento por haber pescado muchos peces.</sentence>
         <sentence lang="en">Brother is glad, he got a lot of fish.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -6939,9 +6941,9 @@ shima	[=shima+m.+poss@ni.][NRoot][=fish; fish.sp., boquichico-fish (ES: boquichi
     </text>
     <text id="263.1">
         <sentence lang="prq" normalizationlevel="none">Ityaakitakeri yeye kipatsi irokiki itsipamintsare iñaatsabaetantari.</sentence>
-        <sentence lang="prq" normalizationlevel="none">Ityaakitakeri yeye kipatsi irokiki itsipamintsare inyaatsavaetantari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ityaakitakeri yeye kipatsi irokiki itsipamintsare inyaatsavaetantari.</sentence>
         <sentence lang="es">Mi hermano echó tierra en el ojo de su amigo mientras jugaba.</sentence>
-        <sentence lang="en">Brother </sentence>
+        <sentence lang="en">My brother threw dirt in his friend's eye while playing.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -6985,6 +6987,7 @@ anyiinkari	[=anyi][VRoot][=to.live (ES: vivir)][--][-inka][NS][+NMZ.QLTY]inka[--
         <sentence lang="prq" normalizationlevel="none">Kipatsitakemi, piyaate pinkaaboshitya.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Kipatsitakemi, piyaate pinkaavoshitya.</sentence>
         <sentence lang="es">Estás sucio; vete a bañar.</sentence>
+        <sentence lang="en">You're dirty; go take a shower.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -7126,7 +7129,6 @@ ikenavaete	[i-][VPers][3m.S/A+][--][=ken][VRoot][=to.hunt, to.poach, to.prey.on.
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Amanantake ina kishiri okishitantyariri iishi yeye.</sentence>
         <sentence lang="es">Mi mamá compró un peine para peinar el cabello de mi hermano.</sentence>
         <sentence lang="en">Mother bought a comb in order to comb brother's hair.</sentence>
-        <sentence lang="en"/>
         <morphology>
 
 
