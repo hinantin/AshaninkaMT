@@ -214,7 +214,7 @@ obaantsiki	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.lan
         <sentence lang="prq" normalizationlevel="none">Okantakina nishintyo: Ramaki aapi shitobi. </sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Okantakina nishintyo: Ramaki aapi shitovi. </sentence>
         <sentence lang="es">Mi hija me dijo: “Mi abuelo trajo callampa”.</sentence>
-        <sentence lang="en">My daughter told me: "Grandfather brought callampa-mushroom".</sentence>
+        <sentence lang="en">My daughter told me: "Grandfather brought callampa-mushrooms".</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
 
 
@@ -2350,7 +2350,6 @@ cheenkari	[=cheenkari+sem@color.][NRoot][=obscure; black (ES: negro)]
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ratsikakeri cheenkari otsiti avotsiki.</sentence>
         <sentence lang="es">El jergón mordió a mi perro en el camino.</sentence>
         <sentence lang="en">The venomous snake bit the dog on the road.</sentence>
-        <sentence lang="en"/>
         <morphology>
 
 
@@ -3712,6 +3711,7 @@ imooshiki	[i-][NPers][3m.poss+][--][=moo+n.m.+inal@tsi.][NRoot][=hole (ES: hueco
         <sentence lang="prq" normalizationlevel="none">Osheki impaneki okiantakari ani irokiki iñatsabaibeta nijateniki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Osheki impaneki okiantakari ani irokiki inyatsavaiveta nihateniki.</sentence>
         <sentence lang="es">Mucha arena entró al ojo de mi cuñado cuando jugaba en la quebrada.</sentence>
+        <sentence lang="en">A lot of sand entered my brother-in-law's eye when he played in the brook.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -3782,6 +3782,7 @@ oharentsite	[o-][VPers][3n.m.S/A+][--][=harentsi+m.][NRoot][=year (ES: año); dr
     </text>
     <text id="140">
         <sentence lang="prq" normalizationlevel="none">Osheki okaminaena ina tsirenirikipaye.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Osheki okaminaena ina tsirenirikipaye.</sentence>
         <sentence lang="es">Mi mamá me da consejos todas las noches.</sentence>
         <sentence lang="en">Mother gives me a lot of advice every night.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -16347,6 +16348,7 @@ iyatsinka	[i-][NPers][3m.poss+][--][=katsi][VRoot][=to.feel.pain; to.be.in.pain;
         <sentence lang="prq" normalizationlevel="none">Ipashikaatake Marinkama antari tsopiro oshirantaaki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ipashikaatake Marinkama antari tsopiro oshirantaaki.</sentence>
         <sentence lang="es">Marinkama tarrafeó carachama grande en la laja.</sentence>
+        <sentence lang="en">Marinkama covered the big tsopiro-catfish </sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -16366,7 +16368,8 @@ tsopiro	[=tsopiro+m.][NRoot][=big.armored.catfish.sp. (ES: carachama.grande/alar
         <parsing/>
     </text>
     <text id="675">
-        <sentence lang="prq">Ratsotiro shima ojampobatsate mapi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ratsotiro shima ojampobatsate mapi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ratsotiro shima ohampovatsate mapi.</sentence>
         <sentence lang="es">El boquichico chupa le barro de la piedra.</sentence>
         <sentence lang="en">The boquichico-fish sucks the mud from the stones.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -16388,6 +16391,7 @@ mapi	[=mapi+n.m.+poss@ni:ne.][NRoot][=stone; rock]
         <sentence lang="prq" normalizationlevel="none">Ityaakero yeye antabo inchato.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ityaakero yeye antavo inchato.</sentence>
         <sentence lang="es">Mi hermano tumbó el palo grueso.</sentence>
+        <sentence lang="en">My brother knocked down the thick stick.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -16408,6 +16412,7 @@ inchato	[=inchato+n.m.][NRoot][=tree (ES: árbol)]
         <sentence lang="prq" normalizationlevel="none">Oitsokake tyaapa antamiki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Oitsokake tyaapa antamiki.</sentence>
         <sentence lang="es">La gallina puso un huevo en el monte.</sentence>
+        <sentence lang="en">The hen laid an egg in the mountain.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
