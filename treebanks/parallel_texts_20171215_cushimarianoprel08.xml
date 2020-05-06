@@ -9929,7 +9929,7 @@ ovaantsiki	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.lan
     <text id="391">
         <!-- Antari nooki rankobiitakeri maniro raakeri ocheraaki. -->
         <sentence lang="prq" normalizationlevel="none">Antari noonki rankobiitakeri maniro raakeri ocheraaki.</sentence>
-        <sentence lang="prq" normalizationlevel="none">Antari noonki rankoviitakeri maniro raakeri ocheraaki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Antari noonki rankoviitakeri maniro raakeri ocheraaki.</sentence>
         <sentence lang="es">Una boa grande enroscó a un venado que cazó en la orilla.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
@@ -12453,6 +12453,7 @@ atiri	[=atiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]
     </text>
     <text id="504">
         <sentence lang="prq" normalizationlevel="none">Ikaemakantakae pinkatsari ampatotya.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikaemakantakae pinkatsari ampatotya.</sentence>
         <sentence lang="es">La autoridad nos mandó llamar para una reunión.</sentence>
         <sentence lang="en">The regional leader called us for a meeting.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -12530,7 +12531,8 @@ piriintaha	[=piriin][VRoot][=to.lift.sth., to.pick.sth.up; to.get.up][--][-t][+E
         <parsing/>
     </text>
     <text id="507">
-        <sentence lang="prq">Ikaemiro pirinto inkani ikanti: Joo joo joo...</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikaemiro pirinto inkani ikanti: Joo joo joo...</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikaemiro pirinto inkani ikanti: Hoo hoo hoo...</sentence>
         <sentence lang="es">El hualo llama a la lluvia diciendo: “Joo, joo. joo...”.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
@@ -12578,7 +12580,7 @@ kametsa	[=kametsa][NRoot][=well (ES: bien), good]
     </text>
     <text id="509">
         <sentence lang="prq" normalizationlevel="none">Robakabo pishiti mapocha obantsiki.</sentence>
-        <sentence lang="prq" normalizationlevel="none">Rovakavo pishiti mapocha ovantsiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovakavo pishiti mapocha ovantsiki.</sentence>
         <sentence lang="es">La pinsha comió papaya en la chacra.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
@@ -13523,7 +13525,8 @@ ishetaki	[i-][NPers][3m.poss+][--][=shetaki+n.m.+inal@ntsi.][NRoot][=fingernail 
         <parsing/>
     </text>
     <text id="551">
-        <sentence lang="prq">Irika atiri sheteri te ramene kametsa aririka raniti.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Irika atiri sheteri te ramene kametsa aririka raniti.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Irika atiri sheteri te ramene kametsa aririka raniti.</sentence>
         <sentence lang="es">Este hombre tuerto no mira bien por donde camina.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
@@ -14007,7 +14010,8 @@ namampaatyeri	[n-][VPers][1SG.S/A+][--][=amamp][VRoot][=to.sing (ES: cantar)][--
         <parsing/>
     </text>
     <text id="571">
-        <sentence lang="prq">Ontimatye oya otimantyari ashintsinka.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ontimatye oya otimantyari ashintsinka.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ontimatye oya otimantyari ashintsinka.</sentence>
         <sentence lang="es">Tenemos que comer para tener fuerza.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
@@ -14282,7 +14286,7 @@ paamari	[=paamari+n.m.][NRoot][=fire (ES: candela, fuego)]
     </text>
     <text id="582.1">
         <sentence lang="prq" normalizationlevel="none">Shitobake jamaani maabetachari omoonaki.</sentence>
-        <sentence lang="prq" normalizationlevel="none">Shitovake hamaani maavetachari omoonaki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Shitovake hamaani maavetachari omoonaki.</sentence>
         <sentence lang="es">El majás que dormía en el hueco salió.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
@@ -14504,7 +14508,7 @@ shovirentsi	[=shovire+n.m.+inal@ntsi.][NRoot][=(single-flute).flute (ES: quena),
     </text>
     <text id="590">
         <sentence lang="prq" normalizationlevel="none">Ijeeki shompoti inkaareki.</sentence>
-        <sentence lang="prq" normalizationlevel="none">Iheeki shompoti inkaareki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iheeki shompoti inkaareki.</sentence>
         <sentence lang="es">El bujurqui vive en la cocha.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
