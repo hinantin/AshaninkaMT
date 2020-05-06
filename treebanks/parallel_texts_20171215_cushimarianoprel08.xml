@@ -7204,6 +7204,7 @@ ihankenatantantyari	[i-][VPers][3m.S/A+][--][=hankena][VRoot][=to.write, to.draw
         <sentence lang="prq" normalizationlevel="none">Iitsaare yeye opotsota kitamaari.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Iitsaare yeye opotsota kitamaari.</sentence>
         <sentence lang="es">La ropa de mi hermano es de color blanco.</sentence>
+        <sentence lang="en">My brother's clothes are white.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -7266,6 +7267,7 @@ avotsiki	[=avo+n.m.+inal@tsi.][NRoot][=road, trail][--][-tsi+alien.][Gen][+nposs
         <sentence lang="prq" normalizationlevel="none">Okentakero kitoche iiñeeni ateetakobetabo jirimaki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Okentakero kitoche iinyeeni ateetakovetavo hirimaki.</sentence>
         <sentence lang="es">La espina picó a mi cuñada cuando subía al limonero.</sentence>
+        <sentence lang="en">The thorn stung my sister-in-law as she climbed the lemon tree.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -7332,6 +7334,7 @@ tsiyaroki	[=tsiyaro+n.m.][NRoot][=palm.tree.sp. (ES: shapaja, shebón; sci.nm.: 
         <sentence lang="prq" normalizationlevel="none">Ontyaati isheeni kitsaarentsi omperiri ojari.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ontyaati isheeni kitsaarentsi omperiri ohari.</sentence>
         <sentence lang="es">La abuela teje cushma para su nieto.</sentence>
+        <sentence lang="en">Grandma knits a cushma for her grandson.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -7489,7 +7492,7 @@ ovametantatsiri	[o-][VPers][3n.m.S/A+][--][=vame][VRoot][=to.teach (ES: enseñar
     </text>
     <text id="285">
         <sentence lang="prq" normalizationlevel="none">Noñaake apani piratsi kobeenkari mintsarobakenari.</sentence>
-        <sentence lang="prq" normalizationlevel="none">Nonyaake apani piratsi koveenkari mintsarovakenari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Nonyaake apani piratsi koveenkari mintsarovakenari.</sentence>
         <sentence lang="es">Vi a un animal feo que me asustó.</sentence>
         <sentence lang="en">I saw a dangerous wild pig that frightened me.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -7807,7 +7810,8 @@ pamaki	[=pamaki][NRoot][=tree.sp. (ES: chimicua, sp.de.árbol)]
         <sentence lang="prq" normalizationlevel="none">Nopakotakeri kooko piarentsi pochaari.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Nopakotakeri kooko piarentsi pochaari.</sentence>
         <sentence lang="es">A mi suegro le di masato dulce.</sentence>
-        <morphology>
+        <sentence lang="en">I gave my father-in-law sweet masato-beer.</sentence>
+        <morphology format="ashaninkamorph">
 
 
 nopakotakeri	[no-][VPers][1SG.S/A+][--][=p][VRoot][=to.give (ES: dar)][--][-ako][VS][+APPL.GEN][=GEN: with.reference.to.sth., about.sth.; INDR: action.affects.sth.in.an.indirect.manner]ako[--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ri][NS][+REL]
@@ -7986,7 +7990,8 @@ isheeni	[=isheeni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
         <sentence lang="prq" normalizationlevel="none">Ijeeki koshoshiko omotyaaki antaboki nijaa.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Iheeki koshoshiko omotyaaki antavoki nihaa.</sentence>
         <sentence lang="es">El bufeo vive en la poza del río grande.</sentence>
-        <morphology>
+        <sentence lang="en">The dolphin lives in the large river pool.</sentence>
+        <morphology format="ashaninkamorph">
 
 
 iheeki	[i-][VPers][3m.S/A+][--][=heek][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir); to.be][--][-i][+IRR]i
@@ -8009,6 +8014,7 @@ nihaa	[=nihaa+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
         <sentence lang="prq" normalizationlevel="none">Ipakeri apa kotsiraaniki riyompari ikobantari tiri.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ipakeri apa kotsiraaniki riyompari ikovantari tiri.</sentence>
         <sentence lang="es">Mi papá dio un cuchillo a su amigo a cambio de brea.</sentence>
+        <sentence lang="en">My dad gave his friend a knife in exchange for tar.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -8033,6 +8039,7 @@ tiri	[=tiri+m.+poss@ni.][NRoot][=tar (ES: brea)]
         <sentence lang="prq" normalizationlevel="none">Otaakero eentyo ootsironakite onkotsibeta kaniri.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Otaakero eentyo ootsironakite onkotsiveta kaniri.</sentence>
         <sentence lang="es">Mi hermana quemó la olla cuando cocinaba yuca.</sentence>
+        <sentence lang="en">My sister burned the pot when cooking yucca.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -8055,6 +8062,7 @@ kaniri	[=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: y
         <sentence lang="prq" normalizationlevel="none">Okiyakoti isheeni maabo abantyari oyanire.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Okiyakoti isheeni maavo avantyari oyanire.</sentence>
         <sentence lang="es">Mi abuelita cava gusano para comer con su yuca.</sentence>
+        <sentence lang="en">My granny digs worms to eat with her yucca.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
