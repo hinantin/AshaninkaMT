@@ -57,7 +57,7 @@ pairani	[=pairani][AdvRoot][=since; before; long.ago]
     </text>
     <text id="1.2">
         <sentence lang="prq" normalizationlevel="none">Ikaratsi apite irishinto apite itomi, iroñaaka maatsi irishinto jevatatsiri, kimotataki,</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikaratsi apite irishinto apite itomi, ironyaaka maatsi irishinto hevatatsiri, r,</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikaratsi apite irishinto apite itomi, ironyaaka maatsi irishinto hevatatsiri, kimotataki,</sentence>
         <sentence lang="es">Tenía  dos hijas  y dos  hijos, ahora  tenia  una hija que era la mayor ya era grandecita</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
@@ -1094,151 +1094,177 @@ otsomi	[o-][NPers][3n.m.poss+][--][=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: 
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.168">
-        <sentence lang="prq">Shimashiri, oka misha poña, sabori ari okaratsi mava.  Iritsiropiro okakinipiro irotaki  shimashiri, okaratsi otsomontetakiri iriniro.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Shimashiri, oka misha poña, sabori ari okaratsi mava. Iritsiropiro okakinipiro irotaki shimashiri, okaratsi otsomontetakiri iriniro.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Shimashiri, oka misha ponya, savori ari okaratsi mava. Iritsiropiro okakinipiro irotaki shimashiri, okaratsi otsomontetakiri iriniro.</sentence>
         <sentence lang="es">Hoja de pescado, lopuna y la espina eso eran los tres la más cercana era Hoja de pescado con lo que estuvieron en el vientre de su madre.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.169">
-        <sentence lang="prq">Poña ikantakiro iroñaaka iritsiro amatakiri iroñaaka. Tsame ajate katonko. Pokaki iroñaaka jaka aritaka jaka  antaritanaki antaritaki. Iroñaaka.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Poña ikantakiro iroñaaka iritsiro amatakiri iroñaaka. Tsame ajate katonko. Pokaki iroñaaka jaka aritaka jaka antaritanaki antaritaki. Iroñaaka.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ponya ikantakiro ironyaaka iritsiro amatakiri ironyaaka. Tsame ahate katonko. Pokaki ironyaaka haka aritaka haka antaritanaki antaritaki. Ironyaaka.</sentence>
         <sentence lang="es">Después le dijo a su hermana ahora ya hemos terminado ahora vamos a la parte alta vinieron ahora hasta aquí llegaron aquí ya creció ya es grande ahora.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.170">
-        <sentence lang="prq">Tsimaatsi aparoni ikantsiri icharini ipaita poiyotsi, iritaki itsipaantari. Ari intanakari iroñaaka ipiantayetanaki  arika iñaapaki tsika paitarika inkantaki Afuu, ichaponkitsi pinpiya.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Tsimaatsi aparoni ikantsiri icharini ipaita poiyotsi, iritaki itsipaantari. Ari intanakari iroñaaka ipiantayetanaki  arika iñaapaki tsika paitarika inkantaki Afuu, ichaponkitsi pinpiya.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Tsimaatsi aparoni ikantsiri icharini ipaita poiyotsi, iritaki itsipaantari. Ari intanakari ironyaaka ipiantayetanaki arika inyaapaki tsika paitarika inkantaki Afuu, ichaponkitsi pimpiya.</sentence>
         <sentence lang="es">Tenía una persona a quien le decía que era su nieto se llamaba cabeza blanca él era su compañero ahí comenzó ahora a transformar a otras personas cuando iba a otros sitios y veía cualquier cosa decía así sea tronco de un árbol conviértete.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.171">
-        <sentence lang="prq">Pianaka inchapontso Arika iñaapakiri aparoni asháninka atsovaitatsini, akantsiri intsiki, pamaaki, yantaitakovaitsiro inkantapaakiri Afuu, koshiri pinii; Pianaka koshiri kaimanaki ju, ju, ju.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Pianaka inchapontso Arika iñaapakiri aparoni asháninka atsovaitatsini, akantsiri intsiki, pamaaki, yantaitakovaitsiro inkantapaakiri Afuu, koshiri pinii; Pianaka koshiri kaimanaki ju, ju, ju.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Pianaka inchapontso Arika inyaapakiri aparoni ashaninka atsovaitatsini, akantsiri intsiki, pamaaki, yantaitakovaitsiro inkantapaakiri Afuu, koshiri pinii; Pianaka koshiri kaimanaki hu, hu, hu.</sentence>
         <sentence lang="es">Se convertía en tronco de un árbol. Cuando veía una persona paisano que chupaba lo que decimos frutilla y chimicua y se subía decía así sea mono serás se convertía en mono y gritaba ju ju ju.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.172">
-        <sentence lang="prq">Tsika ijate, tsika paita iñaapaki,  ari inkantya, ari inkantya, iyoitsi arika impoki ikantsi korakitaintsi naviriri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Tsika ijate, tsika paita iñaapaki,  ari inkantya, ari inkantya, iyoitsi arika impoki ikantsi korakitaintsi naviriri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Tsika ihate, tsika paita inyaapaki,  ari inkantya, ari inkantya, iyoitsi arika impoki ikantsi korakitaintsi naviriri.</sentence>
         <sentence lang="es">Donde iba lo que veía así era, así era, sabían cuando venia decían ya viene el transformador.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.173">
-        <sentence lang="prq">ikantajeetsi pashinipaye, tsika ankanterika: antaitavitanaka jeñokini apaata asatekavitakia añashitakia yaminaki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">ikantajeetsi pashinipaye, tsika ankanterika: antaitavitanaka jeñokini apaata asatekavitakia añashitakia yaminaki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">ikantaheetsi pashinipaye, tsika ankanterika: antaitavitanaka henyokini apaata asatekavitakia anyashitakia yaminaki.</sentence>
         <sentence lang="es">Decían otras personas que le hacemos algunos se subían arriba esperaban colgados ahí lo veían mirándoles.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.174">
-        <sentence lang="prq">Tsimaatsi  aparoni akantakiri poiyotsi, iritaki aminavaitatsi. Ikiiri itapiiki, yaminayetsi jaka, impitsokaki jaka.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Tsimaatsi  aparoni akantakiri poiyotsi, iritaki aminavaitatsi. Ikiiri itapiiki, yaminayetsi jaka, impitsokaki jaka.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Tsimaatsi  aparoni akantakiri poiyotsi, iritaki aminavaitatsi. Ikiiri itapiiki, yaminayetsi haka, impitsokaki haka.</sentence>
         <sentence lang="es">Había uno lo que decimos cabeza blanca él era quien miraba lo cargaba miraba acá volteaba allá.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.175">
-        <sentence lang="prq">ikantaitsiri poiyotsitatsirira, arika aminakiri, aritaki ampaitanaki. Iritaki ñaakiro kitamarori iito iritaki. Aka tsimatsi arika añiri kantsimaintatya te añapiroteri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">ikantaitsiri poiyotsitatsirira, arika aminakiri, aritaki ampaitanaki. Iritaki ñaakiro kitamarori iito iritaki. Aka tsimatsi arika añiri kantsimaintatya te añapiroteri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">ikantaitsiri poiyotsitatsirira, arika aminakiri, aritaki ampaitanaki. Iritaki nyaakiro kitamarori iito iritaki. Aka tsimatsi arika anyiri kantsimaintatya te anyapiroteri.</sentence>
         <sentence lang="es">Lo que le dicen cabeza blanca cuando lo miramos, nos convertimos en canosos. El es ya ves su cabeza es blanco él es aquí hay cuando le vemos sin embargo no lo vemos constantemente.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.176">
-        <sentence lang="prq">Arika añiri añiri isaiki inchapontsoki, maaroni ipotsitatsi, intani ikitamarotsi iitokika , iyanini inatsi, ishiyari chompiranki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Arika añiri añiri isaiki inchapontsoki, maaroni ipotsitatsi, intani ikitamarotsi iitokika , iyanini inatsi, ishiyari chompiranki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Arika anyiri anyiri isaiki inchapontsoki, maaroni ipotsitatsi, intani ikitamarotsi iitokika , iyanini inatsi, ishiyari chompiranki.</sentence>
         <sentence lang="es">Cuando lo vemos, lo vemos sentado en un tronco, todo su cuerpo es negro, solamente es blanco en su cabeza, es pequeño como el guindillo.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.177">
-        <sentence lang="prq">Iroo okantapintsiri inaayeni airo paminiri pipaitanakikari, ¡omapiro! aka,aka, kitamarotyonkini.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iroo okantapintsiri inaayeni airo paminiri pipaitanakikari, ¡omapiro! aka,aka, kitamarotyonkini.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iroo okantapintsiri inaayeni airo paminiri pipaitanakikari, ¡omapiro! aka,aka, kitamarotyonkini.</sentence>
         <sentence lang="es">Eso lo que decía mi difunta madre no le vas a mirar te vas a convertir en canoso ¡es verdad! Aquí, aquí es blanquito.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.178">
-        <sentence lang="prq">Arika yaminaki inkantaki aani paminitya paita saikatsirinta, inkantanaki afuu, ari pimpiaitya pianakami ipiakimi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Arika yaminaki inkantaki aani paminitya paita saikatsirinta, inkantanaki afuu, ari pimpiaitya pianakami ipiakimi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Arika yaminaki inkantaki aani paminitya paita saikatsirinta, inkantanaki afuu, ari pimpiaitya pianakami ipiakimi.</sentence>
         <sentence lang="es">Cuando miraba decía abuelo mira pues que es lo que está sentado ahí decía así sea, así conviértete te convertías ya te convirtió.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.179">
-        <sentence lang="prq">Ari ikantatya, irotaki osheki ipiaaki atziri, iroñaaka iritsirora, Misha, Savori okantajeetsi tsika ankanterika iroñaaka yaaya.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ari ikantatya, irotaki osheki ipiaaki atziri, iroñaaka iritsirora, Misha, Savori okantajeetsi tsika ankanterika iroñaaka yaaya.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ari ikantatya, irotaki osheki ipiaaki atziri, ironyaaka iritsirora, Misha, Savori okantaheetsi tsika ankanterika ironyaaka yaaya.</sentence>
         <sentence lang="es">Así era, ya era mucho que ha transformado, Ahora su hermana la lopuna y la espina decían que hacemos ahora con nuestro hermano.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.180">
-        <sentence lang="prq">okantakonintavitakari Shimashiro, irotaki oyariri okaakini, kantsimaintatya ipiitakiniro eentsite.</sentence>
+        <sentence lang="prq" normalizationlevel="none">okantakonintavitakari Shimashiro, irotaki oyariri okaakini, kantsimaintatya ipiitakiniro eentsite.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">okantakonintavitakari Shimashiro, irotaki oyariri okaakini, kantsimaintatya ipiitakiniro eentsite.</sentence>
         <sentence lang="es">Se había opuesto la hoja de pescado, ella era la hermana legítima sin embargo le transformó a su hijo.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.181">
-        <sentence lang="prq">ookanakiniri eentsite okantanakiri, paminavakiri yaaya pitsiniri naakiteta kaniri, jaitetaki iroñaaka.</sentence>
+        <sentence lang="prq" normalizationlevel="none">ookanakiniri eentsite okantanakiri, paminavakiri yaaya pitsiniri naakiteta kaniri, jaitetaki iroñaaka.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">ookanakiniri eentsite okantanakiri, paminavakiri yaaya pitsiniri naakiteta kaniri, haitetaki ironyaaka.</sentence>
         <sentence lang="es">Le dejó a su hijo diciéndole cuídamelo hermano a tu sobrino voy a ir a traer yuca se fue ahora.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.182">
-        <sentence lang="prq">Imavitatya ipirintanaka ikanta iraataita  guaii, guaii, guaii iposhenkavitari, te inkimi isamakari, ikantsi.  Afuu, mapi pimpiataitya, Pianaka mapi. Opokapaji irinirora okantsiri tsikama pikantatyaka yaaya.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Imavitatya ipirintanaka ikanta iraataita  guaii, guaii, guaii iposhenkavitari, te inkimi isamakari, ikantsi.  Afuu, mapi pimpiataitya, Pianaka mapi. Opokapaji irinirora okantsiri tsikama pikantatyaka yaaya.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Imavitatya ipirintanaka ikanta iraataita  guaii, guaii, guaii iposhenkavitari, te inkimi isamakari, ikantsi.  Afuu, mapi pimpiataitya, Pianaka mapi. Opokapaji irinirora okantsiri tsikama pikantatyaka yaaya.</sentence>
         <sentence lang="es">Estaba durmiendo, cuando despertó comenzó a llorar, le hacía callar no le hacía caso se aburrió de él (del bebe) dijo así sea piedra serás y se transformo en piedra. Cuando su hermana vino le dijo como eres así hermano.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.183">
-        <sentence lang="prq">Pipiayetantariri neentsite, ari intanakari iroñaaka okisanintanakiri, okantsi tsika ankanterika iroñaaka.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Pipiayetantariri neentsite, ari intanakari iroñaaka okisanintanakiri, okantsi tsika ankanterika iroñaaka.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Pipiayetantariri neentsite, ari intanakari ironyaaka okisanintanakiri, okantsi tsika ankanterika ironyaaka.</sentence>
         <sentence lang="es">Le transformaste a mi hijo, ahí comenzó ahora tenerle odio ella dijo que le hacemos ahora.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.184">
-        <sentence lang="prq">iroñaaka jataki ikantaitsirinta kishtarikinta mapiniki, ikantaitsirinta mapiniki, jataki iroñaaka, ikantajeetsi pashinipaye, tsika ankanterika.</sentence>
+        <sentence lang="prq" normalizationlevel="none">iroñaaka jataki ikantaitsirinta kishtarikinta mapiniki, ikantaitsirinta mapiniki, jataki iroñaaka, ikantajeetsi pashinipaye, tsika ankanterika.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">ironyaaka hataki ikantaitsirinta kishtarikinta mapiniki, ikantaitsirinta mapiniki, hataki ironyaaka, ikantaheetsi pashinipaye, tsika ankanterika.</sentence>
         <sentence lang="es">Ahora se fue lo que dicen Mariscal Cáceres en la piedrecita, lo que dicen piedrecita se fue ahora, decían otras personas que le hacemos.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.185">
-        <sentence lang="prq">Maatsi iroñaaka iraniri, iraniri iroñaaka iritaki ikantaitsiri kintero iroñaaka ipiatsiri iraniri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Maatsi iroñaaka iraniri, iraniri iroñaaka iritaki ikantaitsiri kintero iroñaaka ipiatsiri iraniri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Maatsi ironyaaka iraniri, iraniri ironyaaka iritaki ikantaitsiri kintero ironyaaka ipiatsiri iraniri.</sentence>
         <sentence lang="es">Hay ahora su cuñado, su cunado ahora él es lo que le dicen panteonero ahora él lo transformo.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.186">
-        <sentence lang="prq">jaitetaki kirinka ikiyi ikiyaki chek chek, ikantanakiro iina Arika nompiakia mava kashiri piyajana, oyotaki iroñaaka iinara iyovantapajiari kashiri, pashini kashiri.</sentence>
+        }}
+        <sentence lang="prq" normalizationlevel="none">jaitetaki kirinka ikiyi ikiyaki chek chek, ikantanakiro iina Arika nompiakia mava kashiri piyajana, oyotaki iroñaaka iinara iyovantapajiari kashiri, pashini kashiri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">haitetaki kirinka ikiyi ikiyaki chek chek, ikantanakiro iina Arika nompiakia mava kashiri piyajana, oyotaki ironyaaka iinara iyovantapahiari kashiri, pashini kashiri.</sentence>
         <sentence lang="es">Se fue adentro a escarbar, le dijo a su esposa cuando me demoro tres meses ya he estaré de vuelta, ya sabía ahora su esposa cuando iba a salir la luna, otra luna.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.187">
-        <sentence lang="prq">Antaki iroñaaka piarintsi antajeetaki iroñaaka, shimashiri, savori pona iroñaaka misha, shinkijeetaka iroñaaka, onkantemikia oiyavajirita oimi ishitovaji.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Antaki iroñaaka piarintsi antajeetaki iroñaaka, shimashiri, savori pona iroñaaka misha, shinkijeetaka iroñaaka, onkantemikia oiyavajirita oimi ishitovaji.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Antaki ironyaaka piarintsi antaheetaki ironyaaka, shimashiri, savori pona ironyaaka misha, shinkiheetaka ironyaaka, onkantemikia oiyavahirita oimi ishitovahi.</sentence>
         <sentence lang="es">Preparo ahora masato prepararon ahora, hoja de pescado, la espina y la lopuna, se embriagaron ahora, hubiese esperado a su esposo que salga.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.188">
-        <sentence lang="prq">Ikanta iroñaaka irirori pokaji, iroñaaka anta oshinkitajeetakiri opako, pakojetakiri, piarentsi, opakotsiri, opakotsiri, iyovitaka iroñaaka.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikanta iroñaaka irirori pokaji, iroñaaka anta oshinkitajeetakiri opako, pakojetakiri, piarentsi, opakotsiri, opakotsiri, iyovitaka iroñaaka.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikanta ironyaaka irirori pokahi, ironyaaka anta oshinkitaheetakiri opako, pakohetakiri, piarentsi, opakotsiri, opakotsiri, iyovitaka ironyaaka.</sentence>
         <sentence lang="es">Ahora el ya estaba de retorno, ahora allá ellas le hicieron embriagar, le daban y le daban masato, le daban el ya sabía o se había percatado ahora.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.189">
-        <sentence lang="prq">Poña, ovishiriakaakari, ovishiriakaakari, aikiro opakotatsiri, pashini opakotsiri, opakotsiri irotaki onkitaitsimate, shinkitaka iroñaaka.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Poña, ovishiriakaakari, ovishiriakaakari, aikiro opakotatsiri, pashini opakotsiri, opakotsiri irotaki onkitaitsimate, shinkitaka iroñaaka.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ponya, ovishiriakaakari, ovishiriakaakari, aikiro opakotatsiri, pashini opakotsiri, opakotsiri irotaki onkitaitsimate, shinkitaka ironyaaka.</sentence>
         <sentence lang="es">Después lo hizo danzar, lo hizo danzar, le seguía dando otro y más otro le seguía dando ya iba amanecer estaba embriagado ahora.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.190">
-        <sentence lang="prq">Aitari ovishiriakari oyariri oyotaki irotaki kapichini omorontya ikiyakiro oimi otyankakiri omoronakiki, tsirik okantanaka teeereeee kipatsi, jaitetsi iroñaaka intsonpaikinta kianaki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Aitari ovishiriakari oyariri oyotaki irotaki kapichini omorontya ikiyakiro oimi otyankakiri omoronakiki, tsirik okantanaka teeereeee kipatsi, jaitetsi iroñaaka intsonpaikinta kianaki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Aitari ovishiriakari oyariri oyotaki irotaki kapichini omorontya ikiyakiro oimi otyankakiri omoronakiki, tsirik okantanaka teeereeee kipatsi, haitetsi ironyaaka intsompaikinta kianaki.</sentence>
         <sentence lang="es">Luego lo hizo danzar a su hermano, ella sabía que faltaban poco para que se haga hueco donde su esposo escarbó y lo empujó en el hueco se derrumbó la tierra se fue ahora al fondo se sumergió.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.191">
-        <sentence lang="prq">Iroñaaka iranirira pokaji janta, imontsavajari, ikantanakiri Afuu, kintero pinii ipianajiri iraniri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iroñaaka iranirira pokaji janta, imontsavajari, ikantanakiri Afuu, kintero pinii ipianajiri iraniri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ironyaaka iranirira pokahi hanta, imontsavahari, ikantanakiri Afuu, kintero pinii ipianahiri iraniri.</sentence>
         <sentence lang="es">Ahora su cuñado ya estaba viniendo, se encontraron en medio camino ahí le dijo Afuu panteonero serás le convirtió a su cuñado.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.192">
-        <sentence lang="prq">Ari pinkantaitatyeyani pinkiyiro kipatsi. Avirokataki kiyarontakina.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ari pinkantaitatyeyani pinkiyiro kipatsi. Avirokataki kiyarontakina.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ari pinkantaitatyeyani pinkiyiro kipatsi. Avirokataki kiyarontakina.</sentence>
         <sentence lang="es">Asi siempre vas a ser escarbando la tierra. Eres tu quien has escarbado para mí.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>

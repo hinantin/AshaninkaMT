@@ -14954,7 +14954,7 @@ iyomoneerote	[i-][NPers][3m.poss+][--][=comunero/komoneero+poss@te.][NRootEs][=v
     </text>
     <text id="612">
         <sentence lang="prq" normalizationlevel="none">Otijaabakeri kitoche iitsare Shoshokiri.</sentence>
-        <sentence lang="prq" normalizationlevel="none">Otihaavakeri kitoche iitsare Shoshokiri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Otihaavakeri kitoche iitsare Shoshokiri.</sentence>
         <sentence lang="es">La espina rompió la ropa de Shoshokiri.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
