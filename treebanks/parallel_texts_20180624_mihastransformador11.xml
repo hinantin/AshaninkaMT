@@ -9,9 +9,9 @@ year={2011},
 -->
 <parallel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="parallel_texts.xsd">
     <text id="1.0">
-        <sentence lang="prq" normalizationlevel="none">IKANTAKOTA  ITSIMANTAKARI  NAVIRIRI</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">IKANTAKOTA  ITSIMANTAKARI  NAVIRIRI</sentence>
-        <sentence lang="es">HISTORIA  NACIMIENTO DEL HOMBRE TRANSFORMADOR</sentence>
+        <sentence lang="prq" normalizationlevel="none">IKANTAKOTA ITSIMANTAKARI NAVIRIRI</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">IKANTAKOTA ITSIMANTAKARI NAVIRIRI</sentence>
+        <sentence lang="es">HISTORIA NACIMIENTO DEL HOMBRE TRANSFORMADOR</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -26,9 +26,9 @@ naviriri	[=naviriri][NRoot][=person's.name (ES: el.hombre.transformador)]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.1">
-        <sentence lang="prq" normalizationlevel="none">Iroñaaka  itsimantakari iyora naviriri, tsimatsi aparoni shirampari pairani.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ironyaaka  itsimantakari iyora naviriri, tsimatsi aparoni shirampari pairani.</sentence>
-        <sentence lang="es">Ahora,  para que acontezca el nacimiento del transformador  o convertidor de personas, había un hombre paisano antes.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iroñaaka itsimantakari iyora naviriri, tsimatsi aparoni shirampari pairani.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ironyaaka itsimantakari iyora naviriri, tsimatsi aparoni shirampari pairani.</sentence>
+        <sentence lang="es">Ahora, para que acontezca el nacimiento del transformador o convertidor de personas, había un hombre paisano antes.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -58,7 +58,7 @@ pairani	[=pairani][AdvRoot][=since; before; long.ago]
     <text id="1.2">
         <sentence lang="prq" normalizationlevel="none">Ikaratsi apite irishinto apite itomi, iroñaaka maatsi irishinto jevatatsiri, kimotataki,</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikaratsi apite irishinto apite itomi, ironyaaka maatsi irishinto hevatatsiri, kimotataki,</sentence>
-        <sentence lang="es">Tenía  dos hijas  y dos  hijos, ahora  tenia  una hija que era la mayor ya era grandecita</sentence>
+        <sentence lang="es">Tenía dos hijas y dos hijos, ahora tenia una hija que era la mayor ya era grandecita</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -110,26 +110,26 @@ otsomi	[o-][NPers][3n.m.poss+][--][=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: 
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.4">
-        <sentence lang="prq">ikiashitakairo ikintakayetsiro tsimiri, ari okantatya, irojatsi  oyanitapaakini, irojatsita antarotantaka</sentence>
-        <sentence lang="es">Entraban  en la choza, le hacía picar pajaritos, así era, desde que era niña hasta que fue señorita o grande.</sentence>
+        <sentence lang="prq">ikiashitakairo ikintakayetsiro tsimiri, ari okantatya, irojatsi oyanitapaakini, irojatsita antarotantaka</sentence>
+        <sentence lang="es">Entraban en la choza, le hacía picar pajaritos, así era, desde que era niña hasta que fue señorita o grande.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.5">
         <sentence lang="prq">Ari ijatsi inkiashitakairo, ari okantatya otsipatyari oyariri, apite shirampari aparoni kooya.</sentence>
-        <sentence lang="es">Así era cuando él lo llevaba  se metían a la choza, así iba acompañado de su hermano dos hombres  y una mujer.</sentence>
+        <sentence lang="es">Así era cuando él lo llevaba se metían a la choza, así iba acompañado de su hermano dos hombres y una mujer.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.6">
-        <sentence lang="prq">Iroñaaka kooyara nivintaka, oyariri  apiteroiteni  irori apaniroini  ari okantatya</sentence>
+        <sentence lang="prq">Iroñaaka kooyara nivintaka, oyariri apiteroiteni irori apaniroini ari okantatya</sentence>
         <sentence lang="es">Ahora la mujer estaba lista para ser madre, su hermano los dos ella solita así era</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.7">
-        <sentence lang="prq">iroñaaka nivintaka kooyara iritsirora,   ojataki antamiki ipankoshitakaiyaro.</sentence>
-        <sentence lang="es">Ahora como esta lista para ser madre esa  mujer la hermana,  se fue al monte a preparar su choza.</sentence>
+        <sentence lang="prq">iroñaaka nivintaka kooyara iritsirora,  ojataki antamiki ipankoshitakaiyaro.</sentence>
+        <sentence lang="es">Ahora como esta lista para ser madre esa mujer la hermana, se fue al monte a preparar su choza.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
@@ -141,25 +141,25 @@ otsomi	[o-][NPers][3n.m.poss+][--][=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: 
     </text>
     <text id="1.9">
         <sentence lang="prq">Ikantsiro te okantyaata, okantsiri te nonintakiro payiiro.</sentence>
-        <sentence lang="es">Le dijo  no así nomas lo, ella le dijo no yo lo quiero cójalo</sentence>
+        <sentence lang="es">Le dijo no así nomas lo, ella le dijo no yo lo quiero cójalo</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.10">
         <sentence lang="prq">Iroñaaka yaminakiro itsinkavitaro ikantsiro, poñaa yaminaki inchaki</sentence>
-        <sentence lang="es">Ahora  lo miro, lo había hincado lo intentaba, después busco un palo</sentence>
+        <sentence lang="es">Ahora lo miro, lo había hincado lo intentaba, después busco un palo</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.11">
         <sentence lang="prq">Itsikotakiro, ikarakotakiro, poñaa ikarakiro okaratsira inchatyaki</sentence>
-        <sentence lang="es">Lo  cogió con gancho, lo rompió, después lo rompió hasta donde estaba la flor</sentence>
+        <sentence lang="es">Lo cogió con gancho, lo rompió, después lo rompió hasta donde estaba la flor</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.12">
-        <sentence lang="prq">ipakiro  ikantsiro niiroka chooki, iroñaka ari nanakiro, maatsi ochanpiro aanakiro</sentence>
-        <sentence lang="es">Le dio a la hermana diciéndole aquí esta hermana,  ahora voy ha llevarlo,  dijo la hermana. Tenía una banda</sentence>
+        <sentence lang="prq">ipakiro ikantsiro niiroka chooki, iroñaka ari nanakiro, maatsi ochanpiro aanakiro</sentence>
+        <sentence lang="es">Le dio a la hermana diciéndole aquí esta hermana, ahora voy ha llevarlo, dijo la hermana. Tenía una banda</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
@@ -177,7 +177,7 @@ otsomi	[o-][NPers][3n.m.poss+][--][=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: 
     </text>
     <text id="1.15">
         <sentence lang="prq">Iñaapakiro pooriki ikantsiro, ari ampankoshityari jaka chooki</sentence>
-        <sentence lang="es">Vio  un árbol de jaboncillo le dijo, aquí vamos hacer nuestra choza Hermana.</sentence>
+        <sentence lang="es">Vio un árbol de jaboncillo le dijo, aquí vamos hacer nuestra choza Hermana.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
@@ -207,7 +207,7 @@ otsomi	[o-][NPers][3n.m.poss+][--][=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: 
     </text>
     <text id="1.20">
         <sentence lang="prq">Poñaa ikantsiro okantaikata, ari aminanajiro, arika ajatanaji.</sentence>
-        <sentence lang="es">Después le dijo así nomas déjalo  vamos a buscarlo cuando ya nos vamos</sentence>
+        <sentence lang="es">Después le dijo así nomas déjalo vamos a buscarlo cuando ya nos vamos</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
@@ -230,20 +230,20 @@ otsomi	[o-][NPers][3n.m.poss+][--][=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: 
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.24">
-        <sentence lang="prq">tetya kaari añiiro  iroñaakakia, aritaja iniroki, iriki, okantsiri apaa, nonkotsitavakiita tsimiri</sentence>
-        <sentence lang="es">Como no lo vemos ahora, llegaron donde su mamá y papá, ella le dijo  a su papá voy a cocinar pajarito</sentence>
+        <sentence lang="prq">tetya kaari añiiro iroñaakakia, aritaja iniroki, iriki, okantsiri apaa, nonkotsitavakiita tsimiri</sentence>
+        <sentence lang="es">Como no lo vemos ahora, llegaron donde su mamá y papá, ella le dijo a su papá voy a cocinar pajarito</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.25">
         <sentence lang="prq">okotsitapaajiri tsimiripaye okaratsi ikintakakirori oyariri.</sentence>
-        <sentence lang="es">Cocino  los pajaritos que le hizo picar su hermano</sentence>
+        <sentence lang="es">Cocino los pajaritos que le hizo picar su hermano</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.26">
         <sentence lang="prq">Ari okanta okitaitamani pashiniki kitaiteri ijatakairo oyariri.</sentence>
-        <sentence lang="es">Así paso amaneció otro día  le llevaba su hermano</sentence>
+        <sentence lang="es">Así paso amaneció otro día le llevaba su hermano</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
@@ -255,13 +255,13 @@ otsomi	[o-][NPers][3n.m.poss+][--][=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: 
     </text>
     <text id="1.28">
         <sentence lang="prq">Yaya paitaratya antakinarika nomotyaakika, ikantsiro tsikapikantakakia, akanakiri tan.</sentence>
-        <sentence lang="es">Hermano  que es lo que me habrá pasado en mi estomago, le dijo que es lo que te paso pues ella le contesto no se</sentence>
+        <sentence lang="es">Hermano que es lo que me habrá pasado en mi estomago, le dijo que es lo que te paso pues ella le contesto no se</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.29">
         <sentence lang="prq">iroñaaka okamantakiro iniro okantsiro inaa paitaratya antakinarika nomotyaakika.</sentence>
-        <sentence lang="es">-Ahora ella lo aviso a su mamá, le dijo mamá, no se que es lo que tendré  en mi estomago.</sentence>
+        <sentence lang="es">-Ahora ella lo aviso a su mamá, le dijo mamá, no se que es lo que tendré en mi estomago.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
@@ -284,8 +284,8 @@ otsomi	[o-][NPers][3n.m.poss+][--][=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: 
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.33">
-        <sentence lang="prq">ikantsiro, ninka iroñaaka ashitakakamiri  itsimantakari peentsite, okantsiri te noyoteri.</sentence>
-        <sentence lang="es">Le dijo, quien es ahora, el padre para que tengas tu bebe, ella dijo  no lo conozco.</sentence>
+        <sentence lang="prq">ikantsiro, ninka iroñaaka ashitakakamiri itsimantakari peentsite, okantsiri te noyoteri.</sentence>
+        <sentence lang="es">Le dijo, quien es ahora, el padre para que tengas tu bebe, ella dijo no lo conozco.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
@@ -302,8 +302,8 @@ otsomi	[o-][NPers][3n.m.poss+][--][=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: 
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.36">
-        <sentence lang="prq">okanta okanta, opoñaa okantsiri  iroñaaka oimi, aritaki aritaki pipasatakiro ashinto,</sentence>
-        <sentence lang="es">Así paso, así paso, luego le dijo  a su esposo</sentence>
+        <sentence lang="prq">okanta okanta, opoñaa okantsiri iroñaaka oimi, aritaki aritaki pipasatakiro ashinto,</sentence>
+        <sentence lang="es">Así paso, así paso, luego le dijo a su esposo</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
@@ -314,20 +314,20 @@ otsomi	[o-][NPers][3n.m.poss+][--][=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: 
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.38">
-        <sentence lang="prq">Ikantsi iroñaaka iriro, ari taima, iroñaaka te nonkovaji osakaji ashinto jaka, ojateta tsika  onintakaro Ojate</sentence>
+        <sentence lang="prq">Ikantsi iroñaaka iriro, ari taima, iroñaaka te nonkovaji osakaji ashinto jaka, ojateta tsika onintakaro Ojate</sentence>
         <sentence lang="es">Ahora dijo el papá, así será .Ahora yo no quiero que nuestra hija esté mas aquí, que se vaya donde quiera ir ella.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.39">
-        <sentence lang="prq">Poñaa, okinkishiriaka, kooyara okantsi iroñaaka taima  nojatatye katonko.</sentence>
+        <sentence lang="prq">Poñaa, okinkishiriaka, kooyara okantsi iroñaaka taima nojatatye katonko.</sentence>
         <sentence lang="es">Después, la chica pensó, dijo ahora mejor me voy hacia la altura o hacia afuera.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.40">
-        <sentence lang="prq">opokaki iroñaaka, motyataki irotaki intsimi, te ayotero  tsika ikarataki oyashirite, apavakoronerika  te ayote.</sentence>
-        <sentence lang="es">Vino ahora, pero estaba gestando ya esta próximo a nacer, no sabemos cuantos meses tendría  cinco no se sabe.</sentence>
+        <sentence lang="prq">opokaki iroñaaka, motyataki irotaki intsimi, te ayotero tsika ikarataki oyashirite, apavakoronerika te ayote.</sentence>
+        <sentence lang="es">Vino ahora, pero estaba gestando ya esta próximo a nacer, no sabemos cuantos meses tendría cinco no se sabe.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
@@ -339,85 +339,85 @@ otsomi	[o-][NPers][3n.m.poss+][--][=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: 
     </text>
     <text id="1.42">
         <sentence lang="prq">Apanirionira iroñaaka opoki, oyarirepayeranki, imishiyakiri irira ipasavaitakirinaki.</sentence>
-        <sentence lang="es">Como solita venia, sus  hermanos, los hizo huir, cuando su padre al castigarles.</sentence>
+        <sentence lang="es">Como solita venia, sus hermanos, los hizo huir, cuando su padre al castigarles.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.43">
-        <sentence lang="prq">Te isaikanaji ivankoki  irirorite, iroñaaka opokakira, opoki, opoki, aritakaro ovanko aparoni ishaa ashoshi.</sentence>
+        <sentence lang="prq">Te isaikanaji ivankoki irirorite, iroñaaka opokakira, opoki, opoki, aritakaro ovanko aparoni ishaa ashoshi.</sentence>
         <sentence lang="es">Ya no estaban en su casa ellos también, ahora como ella vino hacia aquí venia, venia, llego a la casa de una abuela, armadillo.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.44">
         <sentence lang="prq">Ashoshi onatsi ishara, tsika oviraka aka akantsiro totsirani, aritaima, totsirani kirinkaininta, ari osaikiri ovanko ashoshira.</sentence>
-        <sentence lang="es">La abuela era armadillo, donde habrá estado aquí lo que decimos Toterani, tal vez   la casa de la abuela  se encuentra un poco abajito de Toterani.</sentence>
+        <sentence lang="es">La abuela era armadillo, donde habrá estado aquí lo que decimos Toterani, tal vez  la casa de la abuela se encuentra un poco abajito de Toterani.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.45">
-        <sentence lang="prq">Aritaka iroñaaka sheeteni, okantapaakiro – Naaka  ishaa,- aviró  noshayo,- tsika  pipoñaaka iroñaaka Noshayo,- nopoña kirinka,- Tsika pijateka iroññaka,- nojatatye katonko</sentence>
-        <sentence lang="es">Ahora llego en la tarde, le dijo a la abuela – yo soy abuela,- ella le contesto eres tu mi nieta.- de dónde vienes ahora nieta,- yo vengo de adentro,- donde vas a ir ahora ,- voy a irme hacia  la altura  o afuera</sentence>
+        <sentence lang="prq">Aritaka iroñaaka sheeteni, okantapaakiro – Naaka ishaa,- aviró noshayo,- tsika pipoñaaka iroñaaka Noshayo,- nopoña kirinka,- Tsika pijateka iroññaka,- nojatatye katonko</sentence>
+        <sentence lang="es">Ahora llego en la tarde, le dijo a la abuela – yo soy abuela,- ella le contesto eres tu mi nieta.- de dónde vienes ahora nieta,- yo vengo de adentro,- donde vas a ir ahora ,- voy a irme hacia la altura o afuera</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.46">
-        <sentence lang="prq">Okantsiro ,airo okantsi pavishiro iroñaaka ,ari katyonkoininta ,Totsirakira ,ari isaikiri jainaite,ari  ivavakiami , airo pañaaji ,airo pijatsi noshayo,ari pisaiki jaka,  oimavakiro iroñaaka.</sentence>
+        <sentence lang="prq">Okantsiro ,airo okantsi pavishiro iroñaaka ,ari katyonkoininta ,Totsirakira ,ari isaikiri jainaite,ari ivavakiami , airo pañaaji ,airo pijatsi noshayo,ari pisaiki jaka, oimavakiro iroñaaka.</sentence>
         <sentence lang="es">Ella le dijo, ahora no vas a poder pasar ,alla arribita, en Toterani ,ahí vive un hombre que come carne humana,te va a comer ,ya no vas a vivir nieta,no vas a ir aquí vas a quedarte ,ahora ella lo hizo dormir.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.47">
-        <sentence lang="prq">Poñaa okantsiro pisaiki  noshayo,nojatapainteta naminapainte kaniri.</sentence>
-        <sentence lang="es">Después  le dijo quédate nieta, voy a buscar yuca.</sentence>
+        <sentence lang="prq">Poñaa okantsiro pisaiki noshayo,nojatapainteta naminapainte kaniri.</sentence>
+        <sentence lang="es">Después le dijo quédate nieta, voy a buscar yuca.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.48">
         <sentence lang="prq">jaitetsi irotaki osamanitaki piyaja aminapintsi apaintsi kaniri, amapaakiro, okotsitapaakiro.</sentence>
-        <sentence lang="es">Se fue, se demoro un poco  luego regreso, busco y saco yuca, lo trajo y lo cocino.</sentence>
+        <sentence lang="es">Se fue, se demoro un poco luego regreso, busco y saco yuca, lo trajo y lo cocino.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.49">
-        <sentence lang="prq">Okantsiro piyaa noshayo ,ovaaka kooyara .Poñaa  okantsiro,airo okantsi pishiritaro parityaro  katonko,</sentence>
-        <sentence lang="es">Le dijo come nieta, comió la chica. Despues  la abuela le dijo ,no vayas ha pensar llegar a la altura</sentence>
+        <sentence lang="prq">Okantsiro piyaa noshayo ,ovaaka kooyara .Poñaa okantsiro,airo okantsi pishiritaro parityaro katonko,</sentence>
+        <sentence lang="es">Le dijo come nieta, comió la chica. Despues la abuela le dijo ,no vayas ha pensar llegar a la altura</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.50">
         <sentence lang="prq">Airo pavishi, ari katyonkoinira, ari isaiki jainaite, ari intsonkavakimi iyaami, poñaa ari osaikavaitsi,</sentence>
-        <sentence lang="es">No vas a pasar, ahí arribita, ahí vive el hombre que come carne humana,te va acabar de comer ,después  ahí  se había quedado.</sentence>
+        <sentence lang="es">No vas a pasar, ahí arribita, ahí vive el hombre que come carne humana,te va acabar de comer ,después ahí se había quedado.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.51">
         <sentence lang="prq">Osaiki, osaiki, poñaa okantsi .Te airo okantsi nosaiki ishaa aritaki nokantaki navhsi ,nopintsata nojate katonko parinini.</sentence>
-        <sentence lang="es">Ahí, Estaba, ahí estaba, Después dijo .No  yo no me voy a quedarme aquí abuela yo voy ha poder pasar yo pienso ir hacia  la cabecera del rio.</sentence>
+        <sentence lang="es">Ahí, Estaba, ahí estaba, Después dijo .No yo no me voy a quedarme aquí abuela yo voy ha poder pasar yo pienso ir hacia la cabecera del rio.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.52">
         <sentence lang="prq">Poñaa pashiniki kitaiteri, te añiiro tsika okinanaki ashoshira. Te oshinitero ashoshi avishi kooyara</sentence>
-        <sentence lang="es">Después  otro día, no estaba donde se habrá ido la armadillo. No le dejaba la armadillo para a la chica.</sentence>
+        <sentence lang="es">Después otro día, no estaba donde se habrá ido la armadillo. No le dejaba la armadillo para a la chica.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.53">
-        <sentence lang="prq">okantsi tsikaratya okinanakika ishaaranki  ojateta.pianaka iroñaaka.</sentence>
-        <sentence lang="es">Dijo la chica, dónde se habrá ido la abuela, que se vaya, desapareció  ahora</sentence>
+        <sentence lang="prq">okantsi tsikaratya okinanakika ishaaranki ojateta.pianaka iroñaaka.</sentence>
+        <sentence lang="es">Dijo la chica, dónde se habrá ido la abuela, que se vaya, desapareció ahora</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.54">
-        <sentence lang="prq">Okatsiyanaka irori, jatsi.. Okanta, okanta  oñapatsiro  iroñaaka iriniro jainaite, irojatsi ishaa.</sentence>
-        <sentence lang="es">Ella se levanto, se fue, se fue, se fue  y luego vio a la mamá del hombre que come carne humana, ella también era abuela</sentence>
+        <sentence lang="prq">Okatsiyanaka irori, jatsi.. Okanta, okanta oñapatsiro iroñaaka iriniro jainaite, irojatsi ishaa.</sentence>
+        <sentence lang="es">Ella se levanto, se fue, se fue, se fue y luego vio a la mamá del hombre que come carne humana, ella también era abuela</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.55">
-        <sentence lang="prq">Oñaapatsiro iroñaaka okantapaakiro,- Naaka  ishaa,- aviró noshayo  - tsika  pipoñaaka – nopoñaa kirinka – tsika pijateka-nojate katonko parinini.</sentence>
-        <sentence lang="es">Lo vio ahora y le dijo,- Yo soy abuela – eres tú nieta – de dónde vienes – vengo de adentro – donde  vas a ir-  voy hacia la cabecera del rio.</sentence>
+        <sentence lang="prq">Oñaapatsiro iroñaaka okantapaakiro,- Naaka ishaa,- aviró noshayo - tsika pipoñaaka – nopoñaa kirinka – tsika pijateka-nojate katonko parinini.</sentence>
+        <sentence lang="es">Lo vio ahora y le dijo,- Yo soy abuela – eres tú nieta – de dónde vienes – vengo de adentro – donde vas a ir- voy hacia la cabecera del rio.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
@@ -434,44 +434,44 @@ otsomi	[o-][NPers][3n.m.poss+][--][=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: 
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.58">
-        <sentence lang="prq">Maatsi oyovitsite antaroite, ari omoyakotsi onijate. Okantsiro iroñaaka noshayo paakitenaro ironta, noshinkini  jenokira</sentence>
-        <sentence lang="es">Tenía una olla bien grande,  ahí hacia hervir su agua. Le  dijo ahora nieta anda tráigamelo mi maíz que esta allá arriba</sentence>
+        <sentence lang="prq">Maatsi oyovitsite antaroite, ari omoyakotsi onijate. Okantsiro iroñaaka noshayo paakitenaro ironta, noshinkini jenokira</sentence>
+        <sentence lang="es">Tenía una olla bien grande, ahí hacia hervir su agua. Le dijo ahora nieta anda tráigamelo mi maíz que esta allá arriba</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.59">
-        <sentence lang="prq">onintsi arika  atetanaki  kooyara ontsiriakotero atetamentokira, onkantakotero tsirik.</sentence>
-        <sentence lang="es">Quería  que cuando sube la chica hacerlo caer por la escalera, moviéndolo  track.</sentence>
+        <sentence lang="prq">onintsi arika atetanaki kooyara ontsiriakotero atetamentokira, onkantakotero tsirik.</sentence>
+        <sentence lang="es">Quería que cuando sube la chica hacerlo caer por la escalera, moviéndolo track.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.60">
         <sentence lang="prq">Ompariamaintapakia kooyara omoyakira nijaa onintsi ovinkiro</sentence>
-        <sentence lang="es">La chica caia  donde esta  herviendo el agua  quería hacerlo hundir.</sentence>
+        <sentence lang="es">La chica caia donde esta herviendo el agua quería hacerlo hundir.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.61">
         <sentence lang="prq">poñaa omavita, te okante atetiro kooyara omavita te .Poñaa okantsi, tsikama okantatyarika.</sentence>
-        <sentence lang="es">Luego intentaba,  no podía  subir la chica intentaba nada, luego dijo como es esto.</sentence>
+        <sentence lang="es">Luego intentaba, no podía subir la chica intentaba nada, luego dijo como es esto.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.62">
-        <sentence lang="prq">iroñaakaja ,ari okatsiyaitani,okantsiro , ishaa apaniro pisaikavaitsikia ,akanakiro ,te apaniro    nosaikavaite notsipayetari  notomipatsaini,korakitatsi taima iroñaaka.</sentence>
-        <sentence lang="es">Ahora pues, ahí estaba parada, luego le dijo, abuela solita vives aquí, ella le contesto, no  yo no vivo solita estoy acompañado de mis hijitos, ya van a llegar ahora.</sentence>
+        <sentence lang="prq">iroñaakaja ,ari okatsiyaitani,okantsiro , ishaa apaniro pisaikavaitsikia ,akanakiro ,te apaniro  nosaikavaite notsipayetari notomipatsaini,korakitatsi taima iroñaaka.</sentence>
+        <sentence lang="es">Ahora pues, ahí estaba parada, luego le dijo, abuela solita vives aquí, ella le contesto, no yo no vivo solita estoy acompañado de mis hijitos, ya van a llegar ahora.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.63">
         <sentence lang="prq">opoñaa okimajatsiri ikaimayapaajini,tonkarikinta,okantsiro korakitaji iroñaaka notyomi ,ari pisaiki jaka noshayo</sentence>
-        <sentence lang="es">Luego escucho que  gritaban  allá arriba, le dijo ya van a venir ahora a mí, aquí vas a sentarte.</sentence>
+        <sentence lang="es">Luego escucho que gritaban allá arriba, le dijo ya van a venir ahora a mí, aquí vas a sentarte.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.64">
-        <sentence lang="prq">Poñaa ipokajetapaajira otomipayera, ikantapaajiro inaa te vee, tekatsi  noñii.</sentence>
-        <sentence lang="es">Después  llegaron  sus hijos, le dijo a su mamá  no hay nada, no he visto nada</sentence>
+        <sentence lang="prq">Poñaa ipokajetapaajira otomipayera, ikantapaajiro inaa te vee, tekatsi noñii.</sentence>
+        <sentence lang="es">Después llegaron sus hijos, le dijo a su mamá no hay nada, no he visto nada</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
@@ -482,8 +482,8 @@ otsomi	[o-][NPers][3n.m.poss+][--][=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: 
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.66">
-        <sentence lang="prq">okantsiri iroñaaka, notyomi aka noñaaki aparoni, yakanakiro  Ikantsi tsika iroñaakakia,okantsiri nironta.</sentence>
-        <sentence lang="es">Ella le dijo ahora, hijito aquí yo he visto uno, y él le contesto, donde está  ahora, ella le dijo allá esta.</sentence>
+        <sentence lang="prq">okantsiri iroñaaka, notyomi aka noñaaki aparoni, yakanakiro Ikantsi tsika iroñaakakia,okantsiri nironta.</sentence>
+        <sentence lang="es">Ella le dijo ahora, hijito aquí yo he visto uno, y él le contesto, donde está ahora, ella le dijo allá esta.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
@@ -494,86 +494,86 @@ otsomi	[o-][NPers][3n.m.poss+][--][=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: 
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.68">
-        <sentence lang="prq">Ivakiro iroñaaka iposainatakiro  teee. Otsomontetatsira Ivakiro iroñaaka otsapiaki parinini.</sentence>
-        <sentence lang="es">Lo mato ahora, lo golpeo en su cabeza teee, como ella estaba gestando lo mato    lo llevo  y lo puso cerca a la orilla del rio.</sentence>
+        <sentence lang="prq">Ivakiro iroñaaka iposainatakiro teee. Otsomontetatsira Ivakiro iroñaaka otsapiaki parinini.</sentence>
+        <sentence lang="es">Lo mato ahora, lo golpeo en su cabeza teee, como ella estaba gestando lo mato  lo llevo y lo puso cerca a la orilla del rio.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.69">
-        <sentence lang="prq">Ari ivakirori, ari itsimavintsirori itoyetsiro  ovatsara  ari okantatapita,ari taima ikantakaarori ariajaini ,atziri  ashitakiarini eentsira.</sentence>
+        <sentence lang="prq">Ari ivakirori, ari itsimavintsirori itoyetsiro ovatsara ari okantatapita,ari taima ikantakaarori ariajaini ,atziri ashitakiarini eentsira.</sentence>
         <sentence lang="es">Ahí lo puso, ahí se estaba demorando cortando la carne de la chica era una laja inclinada así habrá sido el destino acaso el dueño del bebe es una persona.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.70">
-        <sentence lang="prq">Okantapaaka  iroñaaka oshinki, aanakiro parinini kooyara ivaitakirira iroñaaka, aanakiro</sentence>
+        <sentence lang="prq">Okantapaaka iroñaaka oshinki, aanakiro parinini kooyara ivaitakirira iroñaaka, aanakiro</sentence>
         <sentence lang="es">Vino ahora una olada, se lo llevo el rio a esa mujer lo que han matado, ahora se lo llevo.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.71">
-        <sentence lang="prq">Amatanaki, amatakotanaki  kooyara   motyaanto  aisatsi entsitera, amatakotanaki iroñaaka.</sentence>
-        <sentence lang="es">Se fue flotando (el cuerpo) de la mujer gestante, también de su bebe, se  fue flotando ahora.</sentence>
+        <sentence lang="prq">Amatanaki, amatakotanaki kooyara  motyaanto aisatsi entsitera, amatakotanaki iroñaaka.</sentence>
+        <sentence lang="es">Se fue flotando (el cuerpo) de la mujer gestante, también de su bebe, se fue flotando ahora.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.72">
-        <sentence lang="prq">yaminaki  iroñaaka yora, jainaitera, tera iyotero  yamaate  ishiyashitnaka otsapiaki oparaiki parinini.</sentence>
+        <sentence lang="prq">yaminaki iroñaaka yora, jainaitera, tera iyotero yamaate ishiyashitnaka otsapiaki oparaiki parinini.</sentence>
         <sentence lang="es">Miro ahora el hombre que comía carne humana, como no sabía nadar, solamente se fue corriendo por la playa del rio.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.73">
-        <sentence lang="prq">Ishiyavitaka,  pashini  yamaki inchaki, inintsi intsikotavairomi, itsikovitaka, tsikoo, tsikoo, iroo,    intsikotantavaijiarorimi, te onkante.</sentence>
-        <sentence lang="es">Corrió otro trayendo un palo quería engancharlo, intentaba engancharlo tsiko, tsiko, ya estaba  para engancharlo  no pudo enganchar.</sentence>
+        <sentence lang="prq">Ishiyavitaka, pashini yamaki inchaki, inintsi intsikotavairomi, itsikovitaka, tsikoo, tsikoo, iroo,  intsikotantavaijiarorimi, te onkante.</sentence>
+        <sentence lang="es">Corrió otro trayendo un palo quería engancharlo, intentaba engancharlo tsiko, tsiko, ya estaba para engancharlo no pudo enganchar.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.74">
-        <sentence lang="prq">ijatashita ishiritata, ijatsi, ijatsi  irojatsi  otsonkatapakanta  oparai, te yavajiro  jaitetsi.</sentence>
-        <sentence lang="es">Solamente caminaba por la rivera del rio iba, iba, hasta donde termina  la playa no lo cogió.</sentence>
+        <sentence lang="prq">ijatashita ishiritata, ijatsi, ijatsi irojatsi otsonkatapakanta oparai, te yavajiro jaitetsi.</sentence>
+        <sentence lang="es">Solamente caminaba por la rivera del rio iba, iba, hasta donde termina la playa no lo cogió.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.75">
-        <sentence lang="prq">Amatanaki iroñaaka, amaatsi, amaatasi  ari tsikarika anta, kirinkanta,ari aavakiri omotonkani</sentence>
-        <sentence lang="es">Se fue flotando por el rio ahora flotaba, y flotaba hasta  allá, no se sabe donde  por adentro, ahí lo cogió un remolino.</sentence>
+        <sentence lang="prq">Amatanaki iroñaaka, amaatsi, amaatasi ari tsikarika anta, kirinkanta,ari aavakiri omotonkani</sentence>
+        <sentence lang="es">Se fue flotando por el rio ahora flotaba, y flotaba hasta allá, no se sabe donde por adentro, ahí lo cogió un remolino.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.76">
-        <sentence lang="prq">Poñaa aminakiri, okantakotakiri  oñaatsiri apite okanta, aparoni shirampari, aparoni kooya.</sentence>
-        <sentence lang="es">Después el remolino  lo reviso y encontró que eran dos seres un hombre y una mujer.</sentence>
+        <sentence lang="prq">Poñaa aminakiri, okantakotakiri oñaatsiri apite okanta, aparoni shirampari, aparoni kooya.</sentence>
+        <sentence lang="es">Después el remolino lo reviso y encontró que eran dos seres un hombre y una mujer.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.77">
         <sentence lang="prq">Naviriritatsirira iroñaaka, paytatyari naviriri, aakiri iroñaaka aitaki isaikinta icharini ikaatapintanta. Aritaki aavajiri irisaroo.</sentence>
-        <sentence lang="es">El quién sería el transformador ahora, el que se llama naviriri  lo cogió ahora, ahí donde vive su abuelo, donde siempre se baña.</sentence>
+        <sentence lang="es">El quién sería el transformador ahora, el que se llama naviriri lo cogió ahora, ahí donde vive su abuelo, donde siempre se baña.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.78">
-        <sentence lang="prq">Iroñaaka, iinara irisarora naviriri inirora kooya, ari ovashirivaitaka irori, ovashitakotaro  oshinto, otomipaye imishiyakiri oimira ipasavaijetakiroranki.</sentence>
-        <sentence lang="es">Ahora la esposa (del abuelo) la abuela del transformador la mama de la chica estaba muy apenado  y  recordaba  a su  hija y de sus hijos  lo que hizo huir su esposo  castigándoles en vano.</sentence>
+        <sentence lang="prq">Iroñaaka, iinara irisarora naviriri inirora kooya, ari ovashirivaitaka irori, ovashitakotaro oshinto, otomipaye imishiyakiri oimira ipasavaijetakiroranki.</sentence>
+        <sentence lang="es">Ahora la esposa (del abuelo) la abuela del transformador la mama de la chica estaba muy apenado y recordaba a su hija y de sus hijos lo que hizo huir su esposo castigándoles en vano.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.79">
-        <sentence lang="prq">Okantsi  tsikaratya okinataiki nishintoranki, okinkishiriavaita irori.</sentence>
+        <sentence lang="prq">Okantsi tsikaratya okinataiki nishintoranki, okinkishiriavaita irori.</sentence>
         <sentence lang="es">Decía por donde se habrá mi hija, estaba pensando ella.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.80">
-        <sentence lang="prq">Poñaa ijataki iroñaaka oimira pariniki,iñaatsiri apite eentsi  iñaatsavaitaiyani impanikiki.</sentence>
-        <sentence lang="es">Después  ahora el esposo se fue al rio ahí vio a dos niños que estaban jugando en la arena.</sentence>
+        <sentence lang="prq">Poñaa ijataki iroñaaka oimira pariniki,iñaatsiri apite eentsi iñaatsavaitaiyani impanikiki.</sentence>
+        <sentence lang="es">Después ahora el esposo se fue al rio ahí vio a dos niños que estaban jugando en la arena.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.81">
         <sentence lang="prq">Ari iñaatsavaitaiyani apiteroite, Ikantsi ikinkishiriaka, tsikaratya ipaitaka, ninkaratya ashitariri eentsira saikatsirira ,iñatsavaitaiyani.</sentence>
-        <sentence lang="es">Ahí estaban jugando los dos, pensando dijo -que será, o de quien será el dueño  de esos dos niños quienes están jugando ahí.</sentence>
+        <sentence lang="es">Ahí estaban jugando los dos, pensando dijo -que será, o de quien será el dueño de esos dos niños quienes están jugando ahí.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
@@ -584,38 +584,38 @@ otsomi	[o-][NPers][3n.m.poss+][--][=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: 
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.83">
-        <sentence lang="prq">Yaminaki entsipayera iñatsiri  atziri,shintsini  ishiyajeetanaka ,tok, tok ,pinkapaaki nijaakira.</sentence>
-        <sentence lang="es">Miraron ahora los niños  y vieron una persona, los dos corrieron toc, toc se hundieron en el agua.</sentence>
+        <sentence lang="prq">Yaminaki entsipayera iñatsiri atziri,shintsini ishiyajeetanaka ,tok, tok ,pinkapaaki nijaakira.</sentence>
+        <sentence lang="es">Miraron ahora los niños y vieron una persona, los dos corrieron toc, toc se hundieron en el agua.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.84">
         <sentence lang="prq">Ijataki pashiniki kitaiteri, yaminapaji, iñaapatsiri, iñavajiri atziri shiyajeetanaja,pinkapaji nijaaki.</sentence>
-        <sentence lang="es">Se fue al otro día, nuevamente  miro, ahí los vio  que estaban jugando nuevamente se fueron corriendo otra vez se hundieron en el agua.</sentence>
+        <sentence lang="es">Se fue al otro día, nuevamente miro, ahí los vio que estaban jugando nuevamente se fueron corriendo otra vez se hundieron en el agua.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.85">
-        <sentence lang="prq">Ikantsi icharini, tsika ankanterika  airikantyariri antyariri eentsipayera.</sentence>
+        <sentence lang="prq">Ikantsi icharini, tsika ankanterika airikantyariri antyariri eentsipayera.</sentence>
         <sentence lang="es">Dijo el abuelo – como lo hacemos – para agarrarles a esos niños.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.86">
-        <sentence lang="prq">Poñaa ikantavitaka pashini, irojatsi yatzirivitani  sankatsi, Ikantsi ari naajeri Naaka.</sentence>
-        <sentence lang="es">Luego había dicho otra persona,  cuando todavía era un ser humano la pucacunga-dijo yo lo voy a cogerlo yo</sentence>
+        <sentence lang="prq">Poñaa ikantavitaka pashini, irojatsi yatzirivitani sankatsi, Ikantsi ari naajeri Naaka.</sentence>
+        <sentence lang="es">Luego había dicho otra persona, cuando todavía era un ser humano la pucacunga-dijo yo lo voy a cogerlo yo</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.87">
-        <sentence lang="prq">Ikantsi pashini, te airo okantsi  airikiri, Ikantsi iroñaaka pamatavitatyeri, pintsateniri inchatyaaki, vitsikatyariranki.</sentence>
-        <sentence lang="es">Otra persona dijo – no  no vamos a poder agarrarlo (otro) dijo ahora  tienes que engañarle, cuélgale una flor fabricada.</sentence>
+        <sentence lang="prq">Ikantsi pashini, te airo okantsi airikiri, Ikantsi iroñaaka pamatavitatyeri, pintsateniri inchatyaaki, vitsikatyariranki.</sentence>
+        <sentence lang="es">Otra persona dijo – no no vamos a poder agarrarlo (otro) dijo ahora tienes que engañarle, cuélgale una flor fabricada.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.88">
-        <sentence lang="prq">Yamashitakiniri iroñaaka inchatyaaki vitsikatyariranki, itsatakiro shivitsaki  antaro manpitsa.</sentence>
-        <sentence lang="es">Trajeron ahora  una flor que es fabricado, lo colgaron con una pita  grande era el ovillo</sentence>
+        <sentence lang="prq">Yamashitakiniri iroñaaka inchatyaaki vitsikatyariranki, itsatakiro shivitsaki antaro manpitsa.</sentence>
+        <sentence lang="es">Trajeron ahora una flor que es fabricado, lo colgaron con una pita grande era el ovillo</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
@@ -626,62 +626,62 @@ otsomi	[o-][NPers][3n.m.poss+][--][=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: 
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.90">
-        <sentence lang="prq">Ipokaiyapaajeni  eentsipayera iñaapatsiro otsatakota inchatyaaki, ikantsiro iritsiro ¡eh! Chooki Paminitya inchatyakira,tsame ayiro.</sentence>
-        <sentence lang="es">Cuando vinieron los niños vieron colgado una flor –le dijo a su hermana  eh hermana mira pues a esa flor  vamos sacarlo.</sentence>
+        <sentence lang="prq">Ipokaiyapaajeni eentsipayera iñaapatsiro otsatakota inchatyaaki, ikantsiro iritsiro ¡eh! Chooki Paminitya inchatyakira,tsame ayiro.</sentence>
+        <sentence lang="es">Cuando vinieron los niños vieron colgado una flor –le dijo a su hermana eh hermana mira pues a esa flor vamos sacarlo.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.91">
         <sentence lang="prq">Eentsira iroñaaka inintsi yayiromi inchatyakira, ivarankakiro irako irotaki yairikantyarorimi</sentence>
-        <sentence lang="es">Esos niños ahora, quería  sacarlo a esa flor, estiro su mano ya estaba para cogerlo</sentence>
+        <sentence lang="es">Esos niños ahora, quería sacarlo a esa flor, estiro su mano ya estaba para cogerlo</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.92">
-        <sentence lang="prq">Itsinpatapitsaitsiri  anta, ari okanta itsinpatapitsaitsiri, poñaa, yapitajiro irotaintsimi yairikiromi ¡eh!</sentence>
-        <sentence lang="es">Como lo estaban jalando ahí  así siempre lo jalaba. Después  nuevamente volvió jalaroya estaba para cogerlo ¡eh!.</sentence>
+        <sentence lang="prq">Itsinpatapitsaitsiri anta, ari okanta itsinpatapitsaitsiri, poñaa, yapitajiro irotaintsimi yairikiromi ¡eh!</sentence>
+        <sentence lang="es">Como lo estaban jalando ahí así siempre lo jalaba. Después nuevamente volvió jalaroya estaba para cogerlo ¡eh!.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.93">
-        <sentence lang="prq">Ishiyapaaka  maniro tema yantaritatsira,iro yairikantavakiarimi,shintsi ishiyanaka  pinkapaji  nijakira</sentence>
-        <sentence lang="es">Corrió el venado como era grande, casi lo agarra, rápido corrió se hundió  en el agua.</sentence>
+        <sentence lang="prq">Ishiyapaaka maniro tema yantaritatsira,iro yairikantavakiarimi,shintsi ishiyanaka pinkapaji nijakira</sentence>
+        <sentence lang="es">Corrió el venado como era grande, casi lo agarra, rápido corrió se hundió en el agua.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.94">
-        <sentence lang="prq">Te yayiri katsi saikantyarini, Ikantsi iroñaaka sankatsi  Naaka  aritaki nairikakiri.</sentence>
-        <sentence lang="es">No lo cogió no había nada en su interior, ahora dijo la pucacunga  yo si lo puedo coger.</sentence>
+        <sentence lang="prq">Te yayiri katsi saikantyarini, Ikantsi iroñaaka sankatsi Naaka aritaki nairikakiri.</sentence>
+        <sentence lang="es">No lo cogió no había nada en su interior, ahora dijo la pucacunga yo si lo puedo coger.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.95">
-        <sentence lang="prq">Ijajeetaki pashiniki  kitaiteri, Ikantsi arika piñavajiri inintsi yairikiro pishirinkapitsateri  shivitsara,     shiri, shiri</sentence>
-        <sentence lang="es">Se fueron ahora  se fueron ahora al otro día- dijo cuando lo ven intentando agarrarlo arrímalo la pita shiri, shiri</sentence>
+        <sentence lang="prq">Ijajeetaki pashiniki kitaiteri, Ikantsi arika piñavajiri inintsi yairikiro pishirinkapitsateri shivitsara,   shiri, shiri</sentence>
+        <sentence lang="es">Se fueron ahora se fueron ahora al otro día- dijo cuando lo ven intentando agarrarlo arrímalo la pita shiri, shiri</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.96">
         <sentence lang="prq">Iñaatsiri, irotaintsimi yairikiromi ishirinkapitsatsiri,shiririri. poñaa ikantsiro iritsiro,chooki pantaitena jaka, pairikirota iroñaaka aviroka inchatyakira.</sentence>
-        <sentence lang="es">Lo ha visto  que casi lo agarra, como lo estaba arrimando shiriri, después le dijo: a su hermana, hermana agame subir aquí, para que tú lo agarras a  esa flor</sentence>
+        <sentence lang="es">Lo ha visto que casi lo agarra, como lo estaba arrimando shiriri, después le dijo: a su hermana, hermana agame subir aquí, para que tú lo agarras a esa flor</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.97">
-        <sentence lang="prq">ari painkitakitakiaro aviroka,  ivantaitakiro ironaka,  iritsirora ,  iro arikinomi  inchatyakira tema osirnkirotyara inchatyakira.</sentence>
-        <sentence lang="es">Tu vas agarrarlo, lo hizo subir ahora a su hermana, ya iba agárralo a la flor, pero Como lo estaban arrimando  la pita..</sentence>
+        <sentence lang="prq">ari painkitakitakiaro aviroka, ivantaitakiro ironaka, iritsirora , iro arikinomi inchatyakira tema osirnkirotyara inchatyakira.</sentence>
+        <sentence lang="es">Tu vas agarrarlo, lo hizo subir ahora a su hermana, ya iba agárralo a la flor, pero Como lo estaban arrimando la pita..</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.98">
         <sentence lang="prq">tema oshirinkatyara inchatyakira, iroo airicantyaromi, shiyapaaka shintsini sankatsi.</sentence>
-        <sentence lang="es">Como se esta moviendo esa flor, ya estaba  para agarrarlo corrió rápidamente la pucacunga</sentence>
+        <sentence lang="es">Como se esta moviendo esa flor, ya estaba para agarrarlo corrió rápidamente la pucacunga</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.99">
-        <sentence lang="prq">irootaki  anitantanakiarimi, iritsirora, yairikapaakiro iroñaaka, yairikaitakiri irirori.</sentence>
-        <sentence lang="es">Cuando ya iba a  bajar su hermana  lo agarraron ahora, lo agarraron a el también.</sentence>
+        <sentence lang="prq">irootaki anitantanakiarimi, iritsirora, yairikapaakiro iroñaaka, yairikaitakiri irirori.</sentence>
+        <sentence lang="es">Cuando ya iba a bajar su hermana lo agarraron ahora, lo agarraron a el también.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
@@ -705,7 +705,7 @@ otsomi	[o-][NPers][3n.m.poss+][--][=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: 
     </text>
     <text id="1.103">
         <sentence lang="prq">iroñaaka aanakina inaa katonko, ivaitakaro inaa ivakaro jainaite Ikantsi arima.</sentence>
-        <sentence lang="es">Ahora me llevo mama a la altura, ahí lo comieron a mama’ lo comió el hombre que come carne humana. Le respondió  así.</sentence>
+        <sentence lang="es">Ahora me llevo mama a la altura, ahí lo comieron a mama’ lo comió el hombre que come carne humana. Le respondió así.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
@@ -716,8 +716,8 @@ otsomi	[o-][NPers][3n.m.poss+][--][=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: 
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.105">
-        <sentence lang="prq">ari opona ikisavakaka iroñaaka – okantsiri iina naakiro, pipasavaishitakaro  ashinto tema ocantsi</sentence>
-        <sentence lang="es">Ahí se inicio la rina entre ellos ahora – le dijo la esposa ya vez  en vano has castigado a nuestra hija si ella decía.</sentence>
+        <sentence lang="prq">ari opona ikisavakaka iroñaaka – okantsiri iina naakiro, pipasavaishitakaro ashinto tema ocantsi</sentence>
+        <sentence lang="es">Ahí se inicio la rina entre ellos ahora – le dijo la esposa ya vez en vano has castigado a nuestra hija si ella decía.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
@@ -728,20 +728,20 @@ otsomi	[o-][NPers][3n.m.poss+][--][=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: 
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.107">
-        <sentence lang="prq">paajana iroñaaka aritaki nosaikimotakimi, ari isaiki iroñaaka .pona icharini iroñaaka jaitetsi  isaikashivaitsi.</sentence>
+        <sentence lang="prq">paajana iroñaaka aritaki nosaikimotakimi, ari isaiki iroñaaka .pona icharini iroñaaka jaitetsi isaikashivaitsi.</sentence>
         <sentence lang="es">Tú me has acogido ahora, si voy a quedarme a vivir contigo: ahora ahí se quedo a vivir, después el abuelo ahora se fuea poner trampas a los animales.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.108">
-        <sentence lang="prq">ikintsi sharoo, samani, ikintsi kintsori, sankatsi, tsamiri  maaroni ikaratsi pairani tsimiriyetatsiri.</sentence>
-        <sentence lang="es">Picaba (con flechas)cutpes, samano, picaba  pucacunga,paujil y todo los animales que existían antes.</sentence>
+        <sentence lang="prq">ikintsi sharoo, samani, ikintsi kintsori, sankatsi, tsamiri maaroni ikaratsi pairani tsimiriyetatsiri.</sentence>
+        <sentence lang="es">Picaba (con flechas)cutpes, samano, picaba pucacunga,paujil y todo los animales que existían antes.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.109">
-        <sentence lang="prq">irootaki ivakariri icharini, ponaaka  arika onparianaji  inkani  osheki inintsi ijate yookatero nija .</sentence>
-        <sentence lang="es">Eso lo hacía comer a su nieto, después el nieto cuando llovía  mucho le gustaba ir a votar el agua de la lluvia.</sentence>
+        <sentence lang="prq">irootaki ivakariri icharini, ponaaka arika onparianaji inkani osheki inintsi ijate yookatero nija .</sentence>
+        <sentence lang="es">Eso lo hacía comer a su nieto, después el nieto cuando llovía mucho le gustaba ir a votar el agua de la lluvia.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
@@ -752,7 +752,7 @@ otsomi	[o-][NPers][3n.m.poss+][--][=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: 
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.111">
-        <sentence lang="prq">yookatsiro, yookatsiro, pona ikanta, ikanta kimotataki iroñaaka viranaka jaka  te ishinte eentsirakia.</sentence>
+        <sentence lang="prq">yookatsiro, yookatsiro, pona ikanta, ikanta kimotataki iroñaaka viranaka jaka te ishinte eentsirakia.</sentence>
         <sentence lang="es">Botaba el agua, botaba Después de un tiempo ya había crecido ahora ya era de este tamaño no duro en crecer ese niño.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
@@ -765,31 +765,31 @@ otsomi	[o-][NPers][3n.m.poss+][--][=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: 
     </text>
     <text id="1.113">
         <sentence lang="prq">ikantsiri icharini aani iroñaaka nojatatye katonko, tsika ivaitakaro inaa. Ontsimatye Nompiyavintajiaro.</sentence>
-        <sentence lang="es">Le dijo a su abuelo, abuelo ahora voy a irme hacia la altura, donde se lo comieron a mi mama. Tengo  que vengarme de ella.</sentence>
+        <sentence lang="es">Le dijo a su abuelo, abuelo ahora voy a irme hacia la altura, donde se lo comieron a mi mama. Tengo que vengarme de ella.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.114">
-        <sentence lang="prq">ikantsiri icharini airo pijatsi  aani ari ivavakiami jainaite, osheki ivanta – Ikantsi  airo Ivana.</sentence>
+        <sentence lang="prq">ikantsiri icharini airo pijatsi aani ari ivavakiami jainaite, osheki ivanta – Ikantsi airo Ivana.</sentence>
         <sentence lang="es">Su abuelo le dijo no vas a ir nieto, te va a comer, el hombre que come carne humana, le gusta comer –él le respondió no me va a comer.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.115">
-        <sentence lang="prq">irotaki nojatantyari  iroñaaka, nompiyakovintajiaro  inaa.</sentence>
+        <sentence lang="prq">irotaki nojatantyari iroñaaka, nompiyakovintajiaro inaa.</sentence>
         <sentence lang="es">Por eso voy a ir ahora, voy vengarme de mi mama</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.116">
-        <sentence lang="prq">ironaaka jataki itsipatanakaro iritsiro, ikinapaaki  yaritajaro  ovanko ashoshi.</sentence>
+        <sentence lang="prq">ironaaka jataki itsipatanakaro iritsiro, ikinapaaki yaritajaro ovanko ashoshi.</sentence>
         <sentence lang="es">Ahora sí, se fue acompañada de su hermana, vino por aquí, llego a la casa de la armadillo.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.117">
         <sentence lang="prq">okantsiri – ari pipoki noshari, Yakanikiro Ikantsi jee ari nopoki – okantsiri tsika pijatika. – ikantsiro nojatye iroñaaka katonko.</sentence>
-        <sentence lang="es">Ella le dijo – has  venido nieto – le contesto diciendo sí, yo he venido – ella le dijo dónde vas a ir – le contesto yo voy a ir ahora hacia la altura.</sentence>
+        <sentence lang="es">Ella le dijo – has venido nieto – le contesto diciendo sí, yo he venido – ella le dijo dónde vas a ir – le contesto yo voy a ir ahora hacia la altura.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
@@ -812,19 +812,19 @@ otsomi	[o-][NPers][3n.m.poss+][--][=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: 
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.121">
-        <sentence lang="prq">Ari imaapaki, okitaitamanaki jatsi iroñaaka,  iñapakiro ivanko  jainaite.</sentence>
+        <sentence lang="prq">Ari imaapaki, okitaitamanaki jatsi iroñaaka, iñapakiro ivanko jainaite.</sentence>
         <sentence lang="es">Ahí se quedo a dormir esa noche, al día siguiente se fue ahora, ahí vio la casa del hombre que camia la carne humana.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.122">
-        <sentence lang="prq">Te otsaiki, ojatatsi otsamaivaitsi oyananirimashiki;  pona Ikantsi tsame ankaimakotero iroñaaka.</sentence>
+        <sentence lang="prq">Te otsaiki, ojatatsi otsamaivaitsi oyananirimashiki; pona Ikantsi tsame ankaimakotero iroñaaka.</sentence>
         <sentence lang="es">Ella no estaba, se fue a lampear su yucal; después dijo vamos a llamarlo ahora.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.123">
-        <sentence lang="prq">Ikaimaki iroñaaka, ishaa naakave, ishaa naakave - ikimatsiro akaki – joo…….aviroo  tsika pitsimika.</sentence>
+        <sentence lang="prq">Ikaimaki iroñaaka, ishaa naakave, ishaa naakave - ikimatsiro akaki – joo…….aviroo tsika pitsimika.</sentence>
         <sentence lang="es">Ahora le llamó, abuelaaaa… yo sooooy, abuelaaaa, yo sooooy – luego escucharon contestar – joooo – eres tú, quien eres.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
@@ -837,7 +837,7 @@ otsomi	[o-][NPers][3n.m.poss+][--][=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: 
     </text>
     <text id="1.125">
         <sentence lang="prq">Okantakiri iroñaaka okimitakiro iriniro pairani okantsiri paakotaitenaro ninkini.</sentence>
-        <sentence lang="es">Ahora le dijo como le dijo a su mamá antes, le dijo  tráigamelo mi maní.</sentence>
+        <sentence lang="es">Ahora le dijo como le dijo a su mamá antes, le dijo tráigamelo mi maní.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
@@ -902,13 +902,13 @@ otsomi	[o-][NPers][3n.m.poss+][--][=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: 
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.136">
-        <sentence lang="prq">Poña ikantsiro iritsiro paanakiniro omatsaraka anta inchaponkitsikinta, iroñaaka osatekapaintsiro oyanirimashikinta  ari osatekapaintsiro.</sentence>
-        <sentence lang="es">Después le dijo a su hermana llévatelo su cushma allá en ese tronco  lo llevó y lo colocó donde estaba el tronco en su yucal ahí lo colgó.</sentence>
+        <sentence lang="prq">Poña ikantsiro iritsiro paanakiniro omatsaraka anta inchaponkitsikinta, iroñaaka osatekapaintsiro oyanirimashikinta ari osatekapaintsiro.</sentence>
+        <sentence lang="es">Después le dijo a su hermana llévatelo su cushma allá en ese tronco lo llevó y lo colocó donde estaba el tronco en su yucal ahí lo colgó.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.137">
-        <sentence lang="prq">yaminaki poña Ikantsi ¡oh! Osheki oyanirimashi Iroñaaka tsame ankaimakotero, ikaimakotakiro ¡ishaa ikimatsiro akanaki ¡joo! Poña Ikantsi  arive kameetsataki</sentence>
+        <sentence lang="prq">yaminaki poña Ikantsi ¡oh! Osheki oyanirimashi Iroñaaka tsame ankaimakotero, ikaimakotakiro ¡ishaa ikimatsiro akanaki ¡joo! Poña Ikantsi arive kameetsataki</sentence>
         <sentence lang="es">Miró y luego dijo oh! Tiene bastante yucal. Ahora vamos a llamarlo, lo llamo ¡abueeelaa! Luego escucho contestarle, ¡joo! Después dijo muy bien esta bueno.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
@@ -938,7 +938,7 @@ otsomi	[o-][NPers][3n.m.poss+][--][=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: 
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.142">
-        <sentence lang="prq">poña ikantsiro intsitya avirori, iroñaaka ataitanaki irori iritsirora; aijatsi irori ijavitaka yaminiro te iñiro, poña ikantsi kameetsataki iroñaaka  aritaki amatakiri jainaite.</sentence>
+        <sentence lang="prq">poña ikantsiro intsitya avirori, iroñaaka ataitanaki irori iritsirora; aijatsi irori ijavitaka yaminiro te iñiro, poña ikantsi kameetsataki iroñaaka aritaki amatakiri jainaite.</sentence>
         <sentence lang="es">Después le dijo haber tu ahora, subió la hermana igualito también ella aunque ha ido a buscarla no le vio luego dijo ahora si está bien, ahora vamos terminarle al hombre que come carne humana.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
@@ -974,13 +974,13 @@ otsomi	[o-][NPers][3n.m.poss+][--][=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: 
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.148">
-        <sentence lang="prq">Ikantsiri iririntsi pinkaimakotero avavakiata ikaimakovetaro te anki ikimatsiro okantsi  piya jara irotaki nontsanpishiriro notsamairika.</sentence>
+        <sentence lang="prq">Ikantsiri iririntsi pinkaimakotero avavakiata ikaimakovetaro te anki ikimatsiro okantsi piya jara irotaki nontsanpishiriro notsamairika.</sentence>
         <sentence lang="es">Le dijo a su hermano llámalo para comer lo llamaba y no contestaba luego escucharon que dijo coman ahí ya voy terminarlo mi lampeo.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.149">
-        <sentence lang="prq">poña ikantsi otsonkatanakityero otssamairi, iroñaaka ikantsi tsametya ayete  avavakiata.</sentence>
+        <sentence lang="prq">poña ikantsi otsonkatanakityero otssamairi, iroñaaka ikantsi tsametya ayete avavakiata.</sentence>
         <sentence lang="es">Después dijo dice va terminarlo su lampeo, ahora dijo vamos servir para comer.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
@@ -992,7 +992,7 @@ otsomi	[o-][NPers][3n.m.poss+][--][=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: 
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.151">
-        <sentence lang="prq">poña yapitajiro ikantsi shire, shire ,shire  ivajaro irinironta, ari ishirontajeetaiyani otomipaye, poña ikimavaki pashini, ikantsi –paita – tsika ikantsika yoka ari imairiatsi.</sentence>
+        <sentence lang="prq">poña yapitajiro ikantsi shire, shire ,shire ivajaro irinironta, ari ishirontajeetaiyani otomipaye, poña ikimavaki pashini, ikantsi –paita – tsika ikantsika yoka ari imairiatsi.</sentence>
         <sentence lang="es">Luego repitió nuevamente dijo ya comieron a su mamá, ahí comenzaron a reírse los hijos de la señora, después otro escucho diciendo, que cosa – que dice esta persona se quedaron en silencio.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
@@ -1004,13 +1004,13 @@ otsomi	[o-][NPers][3n.m.poss+][--][=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: 
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.153">
-        <sentence lang="prq">ikantsiri iririntsi intsitya iyee pintyarinkirotya,  yaaki inchaki ityarinkakiro, iñaatsiro oito menkotsi iriniro.</sentence>
+        <sentence lang="prq">ikantsiri iririntsi intsitya iyee pintyarinkirotya, yaaki inchaki ityarinkakiro, iñaatsiro oito menkotsi iriniro.</sentence>
         <sentence lang="es">Le dijo a su hermano haber hermano remueve la olla cogió un palo y lo removió ahí vieron la cabezota de su madre.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.154">
-        <sentence lang="prq">ikantanaki  ñaamitsa iyee ivakajairo inaa iroñaaka. Tsikaratya ipaitaka iroñaaka, shintsitanaki yaminiri iroñaaka.</sentence>
+        <sentence lang="prq">ikantanaki ñaamitsa iyee ivakajairo inaa iroñaaka. Tsikaratya ipaitaka iroñaaka, shintsitanaki yaminiri iroñaaka.</sentence>
         <sentence lang="es">Ahí dijeron que barbaridad hermano nos ha hecho comer a nuestra madre ahora. Quien será este ahora rápidamente comenzaron a buscar ahora.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
@@ -1028,37 +1028,37 @@ otsomi	[o-][NPers][3n.m.poss+][--][=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: 
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.157">
-        <sentence lang="prq">iñaatsiri yaranaki iroñaaka pitsirorakia, irotaki impasaikitavakirimi, irotaki  impasatavakirimi, motyaanaka intatsikironta.</sentence>
+        <sentence lang="prq">iñaatsiri yaranaki iroñaaka pitsirorakia, irotaki impasaikitavakirimi, irotaki impasatavakirimi, motyaanaka intatsikironta.</sentence>
         <sentence lang="es">Luego vieron volar grillo ya iban golpearlo, iban golpearlo, logro bandearse al otro lado.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.158">
-        <sentence lang="prq">iñaatsiro pashini iroñaaka iritsiro, irotaki impasatavakiromi, irotaki  impasatavakiromi, aataki irori intatsikironta irori.</sentence>
+        <sentence lang="prq">iñaatsiro pashini iroñaaka iritsiro, irotaki impasatavakiromi, irotaki impasatavakiromi, aataki irori intatsikironta irori.</sentence>
         <sentence lang="es">Vio a la otra ahora era la hermana, casi lo golpean, casi lo golpean; llego a cruzar a la otra banda del rio ella también.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.159">
-        <sentence lang="prq">okantaranki jaranki totsiraakinta,  ari   aatakiri intatsikironta. Ari isaikapaaki iroñaaka naviriritatsirira.</sentence>
-        <sentence lang="es">Como es por allá en Toterani,  allí llego a bandearse al otro lado  ahí se quedo ahora el que iba ser el transformador</sentence>
+        <sentence lang="prq">okantaranki jaranki totsiraakinta, ari  aatakiri intatsikironta. Ari isaikapaaki iroñaaka naviriritatsirira.</sentence>
+        <sentence lang="es">Como es por allá en Toterani, allí llego a bandearse al otro lado ahí se quedo ahora el que iba ser el transformador</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.160">
-        <sentence lang="prq">Poña ikantsiro iritsiro ñaakiro Chooki amatakiri iroñaaka avakaajari  iriniro; iroñaaka  apiraateri</sentence>
+        <sentence lang="prq">Poña ikantsiro iritsiro ñaakiro Chooki amatakiri iroñaaka avakaajari iriniro; iroñaaka apiraateri</sentence>
         <sentence lang="es">Luego le dijo a su hermana, has visto hermana ya lo vencimos ahora, hicimos comer a su mamá ahora vamos acabarlos con todos</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.161">
-        <sentence lang="prq">Iroñaaka itsokaki ishimpityoki pona ikantaki! Afuu!  Iñaatsiro atsatanaka antaro pampiamentotsi, irojatsi intatsikironta.</sentence>
+        <sentence lang="prq">Iroñaaka itsokaki ishimpityoki pona ikantaki! Afuu! Iñaatsiro atsatanaka antaro pampiamentotsi, irojatsi intatsikironta.</sentence>
         <sentence lang="es">Ahora jaló su pestaña después dijo así sea luego vio colgado un gran puente hasta el otro lado.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.162">
-        <sentence lang="prq">ikantsiro iritsiro ñaakiro Chooki iroñaaka apiraateri ovakarori  inaa.</sentence>
+        <sentence lang="prq">ikantsiro iritsiro ñaakiro Chooki iroñaaka apiraateri ovakarori inaa.</sentence>
         <sentence lang="es">Le dijo a su hermana has visto hermana ahora hemos acabado con los que han comido a mamá.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
@@ -1070,25 +1070,29 @@ otsomi	[o-][NPers][3n.m.poss+][--][=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: 
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.164">
-        <sentence lang="prq">iroo iviravitaka niyanki ankante iroo  yaatsimatantyari  ikantakotsimaintari tarook itsonkakiri ivinkakiri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">iroo iviravitaka niyanki ankante iroo yaatsimatantyari ikantakotsimaintari tarook itsonkakiri ivinkakiri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">iroo iviravitaka niyanki ankante iroo yaatsimatantyari ikantakotsimaintari tarook itsonkakiri ivinkakiri.</sentence>
         <sentence lang="es">Cuando ya estaban por el medio digamos que ya van a llegar a la otra banda volteó al puente tarook acabó de hacerles ahogar a todos.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.165">
-        <sentence lang="prq">Maatsi aparoni kooya motyaanto  jainaite irotaki avisakotaatsiri.  Aataji oyotsiro amaatsi, pashinipaye tsonkataka ikamaki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Maatsi aparoni kooya motyaanto jainaite irotaki avisakotaatsiri. Aataji oyotsiro amaatsi, pashinipaye tsonkataka ikamaki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Maatsi aparoni kooya motyaanto hainaite irotaki avisakotaatsiri. Aatahi oyotsiro amaatsi, pashinipaye tsonkataka ikamaki.</sentence>
         <sentence lang="es">Había una mujer embarazada del hombre que come carne humana, ella es la que se salvó, logró llegar a la orilla nadando. Ella sabía nadar los demás se acabaron de morir.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.166">
-        <sentence lang="prq">Poña ikantsiro iroñaaka iritsiro ñaakiro Chooki amatakiri iroñaaka, atsonkatakiri apiraatakiri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Poña ikantsiro iroñaaka iritsiro ñaakiro Chooki amatakiri iroñaaka, atsonkatakiri apiraatakiri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ponya ikantsiro ironyaaka iritsiro nyaakiro Chooki amatakiri ironyaaka, atsonkatakiri apiraatakiri.</sentence>
         <sentence lang="es">Luego le dijo ahora a su hermana has visto hermana hemos logrado terminar lo terminamos.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.167">
-        <sentence lang="prq">Iroñaaka iritsiro shimashiri  irotaki iritsiro okaakini irotaki itsipatakari pairani. Tsimaatsi okaratsi mava iritsiro naviri iroñaaka.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iroñaa1ka iritsiro shimashiri irotaki iritsiro okaakini irotaki itsipatakari pairani. Tsimaatsi okaratsi mava iritsiro naviri iroñaaka.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iroñaa1ka iritsiro shimashiri irotaki iritsiro okaakini irotaki itsipatakari pairani. Tsimaatsi okaratsi mava iritsiro naviri iroñaaka.</sentence>
         <sentence lang="es">Ahora su hermana Hoja de pescado es la hermana cercana con quien se acompaño antes. Tenía tres hermanas el hombre transformador.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
@@ -1108,7 +1112,7 @@ otsomi	[o-][NPers][3n.m.poss+][--][=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: 
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.170">
-        <sentence lang="prq" normalizationlevel="none">Tsimaatsi aparoni ikantsiri icharini ipaita poiyotsi, iritaki itsipaantari. Ari intanakari iroñaaka ipiantayetanaki  arika iñaapaki tsika paitarika inkantaki Afuu, ichaponkitsi pinpiya.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Tsimaatsi aparoni ikantsiri icharini ipaita poiyotsi, iritaki itsipaantari. Ari intanakari iroñaaka ipiantayetanaki arika iñaapaki tsika paitarika inkantaki Afuu, ichaponkitsi pinpiya.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Tsimaatsi aparoni ikantsiri icharini ipaita poiyotsi, iritaki itsipaantari. Ari intanakari ironyaaka ipiantayetanaki arika inyaapaki tsika paitarika inkantaki Afuu, ichaponkitsi pimpiya.</sentence>
         <sentence lang="es">Tenía una persona a quien le decía que era su nieto se llamaba cabeza blanca él era su compañero ahí comenzó ahora a transformar a otras personas cuando iba a otros sitios y veía cualquier cosa decía así sea tronco de un árbol conviértete.</sentence>
         <morphology format="" analysislevel=""/>
@@ -1122,8 +1126,8 @@ otsomi	[o-][NPers][3n.m.poss+][--][=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: 
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.172">
-        <sentence lang="prq" normalizationlevel="none">Tsika ijate, tsika paita iñaapaki,  ari inkantya, ari inkantya, iyoitsi arika impoki ikantsi korakitaintsi naviriri.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">Tsika ihate, tsika paita inyaapaki,  ari inkantya, ari inkantya, iyoitsi arika impoki ikantsi korakitaintsi naviriri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Tsika ijate, tsika paita iñaapaki, ari inkantya, ari inkantya, iyoitsi arika impoki ikantsi korakitaintsi naviriri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Tsika ihate, tsika paita inyaapaki, ari inkantya, ari inkantya, iyoitsi arika impoki ikantsi korakitaintsi naviriri.</sentence>
         <sentence lang="es">Donde iba lo que veía así era, así era, sabían cuando venia decían ya viene el transformador.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
@@ -1136,8 +1140,8 @@ otsomi	[o-][NPers][3n.m.poss+][--][=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: 
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.174">
-        <sentence lang="prq" normalizationlevel="none">Tsimaatsi  aparoni akantakiri poiyotsi, iritaki aminavaitatsi. Ikiiri itapiiki, yaminayetsi jaka, impitsokaki jaka.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">Tsimaatsi  aparoni akantakiri poiyotsi, iritaki aminavaitatsi. Ikiiri itapiiki, yaminayetsi haka, impitsokaki haka.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Tsimaatsi aparoni akantakiri poiyotsi, iritaki aminavaitatsi. Ikiiri itapiiki, yaminayetsi jaka, impitsokaki jaka.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Tsimaatsi aparoni akantakiri poiyotsi, iritaki aminavaitatsi. Ikiiri itapiiki, yaminayetsi haka, impitsokaki haka.</sentence>
         <sentence lang="es">Había uno lo que decimos cabeza blanca él era quien miraba lo cargaba miraba acá volteaba allá.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
@@ -1192,8 +1196,8 @@ otsomi	[o-][NPers][3n.m.poss+][--][=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: 
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.182">
-        <sentence lang="prq" normalizationlevel="none">Imavitatya ipirintanaka ikanta iraataita  guaii, guaii, guaii iposhenkavitari, te inkimi isamakari, ikantsi.  Afuu, mapi pimpiataitya, Pianaka mapi. Opokapaji irinirora okantsiri tsikama pikantatyaka yaaya.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">Imavitatya ipirintanaka ikanta iraataita  guaii, guaii, guaii iposhenkavitari, te inkimi isamakari, ikantsi.  Afuu, mapi pimpiataitya, Pianaka mapi. Opokapaji irinirora okantsiri tsikama pikantatyaka yaaya.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Imavitatya ipirintanaka ikanta iraataita guaii, guaii, guaii iposhenkavitari, te inkimi isamakari, ikantsi. Afuu, mapi pimpiataitya, Pianaka mapi. Opokapaji irinirora okantsiri tsikama pikantatyaka yaaya.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Imavitatya ipirintanaka ikanta iraataita guaii, guaii, guaii iposhenkavitari, te inkimi isamakari, ikantsi. Afuu, mapi pimpiataitya, Pianaka mapi. Opokapaji irinirora okantsiri tsikama pikantatyaka yaaya.</sentence>
         <sentence lang="es">Estaba durmiendo, cuando despertó comenzó a llorar, le hacía callar no le hacía caso se aburrió de él (del bebe) dijo así sea piedra serás y se transformo en piedra. Cuando su hermana vino le dijo como eres así hermano.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
@@ -1220,8 +1224,8 @@ otsomi	[o-][NPers][3n.m.poss+][--][=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: 
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.186">
-        }}
-        <sentence lang="prq" normalizationlevel="none">jaitetaki kirinka ikiyi ikiyaki chek chek, ikantanakiro iina Arika nompiakia mava kashiri piyajana, oyotaki iroñaaka iinara iyovantapajiari kashiri, pashini kashiri.</sentence>
+    }}
+    <sentence lang="prq" normalizationlevel="none">jaitetaki kirinka ikiyi ikiyaki chek chek, ikantanakiro iina Arika nompiakia mava kashiri piyajana, oyotaki iroñaaka iinara iyovantapajiari kashiri, pashini kashiri.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">haitetaki kirinka ikiyi ikiyaki chek chek, ikantanakiro iina Arika nompiakia mava kashiri piyajana, oyotaki ironyaaka iinara iyovantapahiari kashiri, pashini kashiri.</sentence>
         <sentence lang="es">Se fue adentro a escarbar, le dijo a su esposa cuando me demoro tres meses ya he estaré de vuelta, ya sabía ahora su esposa cuando iba a salir la luna, otra luna.</sentence>
         <morphology format="" analysislevel=""/>

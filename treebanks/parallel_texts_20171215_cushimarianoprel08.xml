@@ -16796,6 +16796,11 @@ homintsaavakeri	[h-][VPers][3m.S/A+][--][omin=][AGT.CAUS+][--][=tsaav][VRoot][=t
 kashekari	[=kashekari+m.][NRoot][=jaguar (phon.tat.: [ka.ˈʃɛ.ka.ɾɪ]; a.manitzi.that.has.devoured.a.human; ES: jaguar); tiger (ES: tigre)]
 
 </morphology>
+        <morphology format="morfessor">
+
+1 h + omin + tsaav + ak + e + ri
+1 kashekari
+</morphology>
         <parsing/>
     </text>
     <text id="EOS4">
@@ -16812,6 +16817,12 @@ antari	[=antari+m.][AdjRoot][=big; mature]
 
 maranke	[=maranke+m.][NRoot][=snake.sp., serpent]
 
+</morphology>
+        <morphology format="morfessor" analysislevel="fully">
+
+1 i + tsaav + aka + ak + a + ri
+1 antari
+1 maranke
 </morphology>
         <parsing/>
     </text>

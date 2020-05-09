@@ -7,6 +7,7 @@
     <xs:simpleType name="morphologicalanalysisformat">
         <xs:restriction base="xs:string">
             <xs:enumeration value="ashaninkamorph"/>
+            <xs:enumeration value="morfessor"/>
         </xs:restriction>
     </xs:simpleType>
     <xs:simpleType name="analysislevel">
@@ -127,7 +128,7 @@
                             <xs:element name="es" minOccurs="0" maxOccurs="1"/>
                             <xs:element name="en" minOccurs="1" maxOccurs="1"/>
                             -->
-                            <xs:element name="morphology" minOccurs="0" maxOccurs="1" nillable="true">
+                            <xs:element name="morphology" minOccurs="0" maxOccurs="2" nillable="true">
                                 <xs:complexType>
                                     <xs:simpleContent>
                                         <xs:extension base="NameBaseType">
