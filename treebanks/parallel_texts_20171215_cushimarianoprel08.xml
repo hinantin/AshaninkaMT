@@ -16304,6 +16304,7 @@ opochatati	[o-][VPers][3n.m.S/A+][--][=pocha][VRoot][=to.be.sweet (ES: ser.dulce
         <sentence lang="prq" normalizationlevel="none">Ayiro tsinanepaye tsoompirontsi okiantyariri otomipaye.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ayiro tsinanepaye tsoompirontsi okiantyariri otomipaye.</sentence>
         <sentence lang="es">Las mujeres llevan la aparina para cargar a sus hijos.</sentence>
+        <sentence lang="en">Women carry the blanket to carry their children.</sentence>
         <morphology>
 
 
@@ -16327,6 +16328,7 @@ otomipaye	[o-][NPers][3n.m.poss+][--][=tomi+m.+inal@tsi.][NRoot][=son (kin.of.a.
         <sentence lang="prq" normalizationlevel="none">Robakabo tsoori mapocha.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovakavo tsoori mapocha.</sentence>
         <sentence lang="es">El paucar comió la papaya.</sentence>
+        <sentence lang="en">The paucar-bird ate the papaya.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -16345,6 +16347,7 @@ mapocha	[=mapocha+n.m.+poss@ti.][NRoot][=papaya (botany.nm.: carica.papaya)]
         <sentence lang="prq" normalizationlevel="none">Itsopaakero Apeti iraiki te ramabetapajero iyatsinka.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Itsopaakero Apeti iraiki te ramavetapahero iyatsinka.</sentence>
         <sentence lang="es">Apeti sacó su muela porque ya no soportó el dolor.</sentence>
+        <sentence lang="en">Apeti pulled out his tooth because he could no longer bear the pain.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -16791,7 +16794,7 @@ antamimashiki	[=antami][NRoot][=dense.tropical.forest][--][-mashi][+CL:vast.spac
         <sentence lang="prq" normalizationlevel="none">jominthaawakeri kashekari</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">homintsaavakeri kashekari</sentence>
         <sentence lang="es">el jaguar que lo asustó.</sentence>
-        <sentence lang="en">the jaguar frightened him</sentence>
+        <sentence lang="en">the jaguar frightened him.</sentence>
         <!-- lit.: the jaguar made him scared -->
         <!-- e.g.: the jaguar was pusuing him or jumped at him -->
         <morphology format="ashaninkamorph" analysislevel="not-fully">
