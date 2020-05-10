@@ -16779,6 +16779,12 @@ antamimashiki	[=antami][NRoot][=dense.tropical.forest][--][-mashi][+CL:vast.spac
 .	.[$.]
 
 </morphology>
+        <morphology format="morfessor">
+
+1 apinka
+1 y + aree + t + a
+1 antami + mashi + ki
+</morphology>
         <parsing/>
     </text>
     <text id="EOS3">
