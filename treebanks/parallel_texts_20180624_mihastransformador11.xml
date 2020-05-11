@@ -110,79 +110,92 @@ otsomi	[o-][NPers][3n.m.poss+][--][=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: 
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.4">
-        <sentence lang="prq">ikiashitakairo ikintakayetsiro tsimiri, ari okantatya, irojatsi oyanitapaakini, irojatsita antarotantaka</sentence>
+        <sentence lang="prq" normalizationlevel="none">ikiashitakairo ikintakayetsiro tsimiri, ari okantatya, irojatsi oyanitapaakini, irojatsita antarotantaka</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">ikiashitakairo ikintakayetsiro tsimiri, ari okantatya, irohatsi oyanitapaakini, irohatsita antarotantaka</sentence>
         <sentence lang="es">Entraban en la choza, le hacía picar pajaritos, así era, desde que era niña hasta que fue señorita o grande.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.5">
-        <sentence lang="prq">Ari ijatsi inkiashitakairo, ari okantatya otsipatyari oyariri, apite shirampari aparoni kooya.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ari ijatsi inkiashitakairo, ari okantatya otsipatyari oyariri, apite shirampari aparoni kooya.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ari ihatsi inkiashitakairo, ari okantatya otsipatyari oyariri, apite shirampari aparoni kooya.</sentence>
         <sentence lang="es">Así era cuando él lo llevaba se metían a la choza, así iba acompañado de su hermano dos hombres y una mujer.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.6">
-        <sentence lang="prq">Iroñaaka kooyara nivintaka, oyariri apiteroiteni irori apaniroini ari okantatya</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iroñaaka kooyara nivintaka, oyariri apiteroiteni irori apaniroini ari okantatya</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ironyaaka kooyara nivintaka, oyariri apiteroiteni irori apaniroini ari okantatya</sentence>
         <sentence lang="es">Ahora la mujer estaba lista para ser madre, su hermano los dos ella solita así era</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.7">
-        <sentence lang="prq">iroñaaka nivintaka kooyara iritsirora,  ojataki antamiki ipankoshitakaiyaro.</sentence>
+        <sentence lang="prq" normalizationlevel="none">iroñaaka nivintaka kooyara iritsirora, ojataki antamiki ipankoshitakaiyaro.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">ironyaaka nivintaka kooyara iritsirora, ohataki antamiki ipankoshitakaiyaro.</sentence>
         <sentence lang="es">Ahora como esta lista para ser madre esa mujer la hermana, se fue al monte a preparar su choza.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.8">
-        <sentence lang="prq">Iñaapakiro impiritaki inchatyaaki okantakota otsataka, okantsiri oyariri, yayaa payinaro inchatyakira kameetsakiitaki</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iñaapakiro impiritaki inchatyaaki okantakota otsataka, okantsiri oyariri, yayaa payinaro inchatyakira kameetsakiitaki</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Inyaapakiro impiritaki inchatyaaki okantakota otsataka, okantsiri oyariri, yayaa payinaro inchatyakira kameetsakiitaki</sentence>
         <sentence lang="es">Vio en una roca una flor que estaba colgada, le dijo a su hermano, hermano cójamelo a esa flor que está bien hermosa.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.9">
-        <sentence lang="prq">Ikantsiro te okantyaata, okantsiri te nonintakiro payiiro.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikantsiro te okantyaata, okantsiri te nonintakiro payiiro.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikantsiro te okantyaata, okantsiri te nonintakiro payiiro.</sentence>
         <sentence lang="es">Le dijo no así nomas lo, ella le dijo no yo lo quiero cójalo</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.10">
-        <sentence lang="prq">Iroñaaka yaminakiro itsinkavitaro ikantsiro, poñaa yaminaki inchaki</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iroñaaka yaminakiro itsinkavitaro ikantsiro, poñaa yaminaki inchaki</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ironyaaka yaminakiro itsinkavitaro ikantsiro, ponyaa yaminaki inchaki</sentence>
         <sentence lang="es">Ahora lo miro, lo había hincado lo intentaba, después busco un palo</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.11">
-        <sentence lang="prq">Itsikotakiro, ikarakotakiro, poñaa ikarakiro okaratsira inchatyaki</sentence>
+        <sentence lang="prq" normalizationlevel="none">Itsikotakiro, ikarakotakiro, poñaa ikarakiro okaratsira inchatyaki</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Itsikotakiro, ikarakotakiro, ponyaa ikarakiro okaratsira inchatyaki</sentence>
         <sentence lang="es">Lo cogió con gancho, lo rompió, después lo rompió hasta donde estaba la flor</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.12">
-        <sentence lang="prq">ipakiro ikantsiro niiroka chooki, iroñaka ari nanakiro, maatsi ochanpiro aanakiro</sentence>
+        <sentence lang="prq" normalizationlevel="none">ipakiro ikantsiro niiroka chooki, iroñaka ari nanakiro, maatsi ochanpiro aanakiro</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">ipakiro ikantsiro niiroka chooki, ironyaka ari nanakiro, maatsi ochanpiro aanakiro</sentence>
         <sentence lang="es">Le dio a la hermana diciéndole aquí esta hermana, ahora voy ha llevarlo, dijo la hermana. Tenía una banda</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.13">
-        <sentence lang="prq">Osatetakaro jaka inchatyakira, okaratsi apite inchatyaaki</sentence>
+        <sentence lang="prq" normalizationlevel="none">Osatetakaro jaka inchatyakira, okaratsi apite inchatyaaki</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Osatetakaro haka inchatyakira, okaratsi apite inchatyaaki</sentence>
         <sentence lang="es">Lo lleno aquí debajo las axilas esa flor, eran dos flores</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.14">
-        <sentence lang="prq">Otetanakiro jaka ochampiroki oneekika, jaitetsi iroñaka</sentence>
+        <sentence lang="prq" normalizationlevel="none">Otetanakiro jaka ochampiroki oneekika, jaitetsi iroñaka</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Otetanakiro haka ochampiroki oneekika, haitetsi ironyaka</sentence>
         <sentence lang="es">Lo lleno aquí cerca a las axilas en su banda, en su pecho, se fue ahora</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.15">
-        <sentence lang="prq">Iñaapakiro pooriki ikantsiro, ari ampankoshityari jaka chooki</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iñaapakiro pooriki ikantsiro, ari ampankoshityari jaka chooki</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Inyaapakiro pooriki ikantsiro, ari ampankoshityari haka chooki</sentence>
         <sentence lang="es">Vio un árbol de jaboncillo le dijo, aquí vamos hacer nuestra choza Hermana.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.16">
-        <sentence lang="prq">Ichekapaaki kompiroshi, ichekavaitsi, cheki, cheki, ipankoshitaka itsonkakiro</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ichekapaaki kompiroshi, ichekavaitsi, cheki, cheki, ipankoshitaka itsonkakiro</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ichekapaaki kompiroshi, ichekavaitsi, cheki, cheki, ipankoshitaka itsonkakiro</sentence>
         <sentence lang="es">Corto hojas de humiro, cortaba, cortaba (cheki, sonido del corte) hizo su choza y lo termino</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
