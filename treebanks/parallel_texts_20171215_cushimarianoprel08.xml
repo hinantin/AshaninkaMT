@@ -1413,7 +1413,7 @@ tapetsa	[=tapetsa][NRoot][=vine.sp. (ES: tamshi, tamishi, támishi)]
     <text id="47">
         <!-- Ikantapaakeri konki itsipamintsare ibashiyari: ¿Añaatsimi ani? -->
         <sentence lang="prq" normalizationlevel="none">Ikantapaakeri konki itsipamintsare ibashiyari: ¿Añaatsini ani?</sentence>
-        <sentence lang="prq" normalizationlevel="none">Ikantapaakeri konki itsipamintsare ivashiyari: ¿Anyaatsini ani?</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikantapaakeri konki itsipamintsare ivashiyari: ¿Anyaatsini ani?</sentence>
         <sentence lang="es">Mi suegro le dijo a su amigo en broma: “Cuñado, ¿aún estas vivo?”</sentence>
         <sentence lang="en">Father-in-law jokingly said to his friend: "Son-in-law, are you sill alive?"</sentence>
         <morphology>
@@ -3612,7 +3612,7 @@ piarentsi	[=pyare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato)][--][-ntsi+a
         <sentence lang="prq" normalizationlevel="none">Noñaake iitsoki shempiri ijeki ocheraki nija.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Nonyaake iitsoki shempiri iheki ocheraki niha.</sentence>
         <sentence lang="es">Encontré huevos de taricaya en la orilla del río.</sentence>
-        <sentence lang="es">I saw charapa-turtle eggs that are in the river shore.</sentence>
+        <sentence lang="en">I saw charapa-turtle eggs that are in the river shore.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -6303,7 +6303,7 @@ otsipa	[o-][NPers][3n.m.poss+][--][=otsipa+n.m.][NRoot][=other, another]
         <sentence lang="prq" normalizationlevel="none">Aashitakari choeni shirampari kayetsi.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Aashitakari choeni shirampari kayetsi.</sentence>
         <sentence lang="es">El que preñó a mi hermana es un hombre afasi</sentence>
-        <!--<sentence lang="es">Mi hermana se casó con un hombre afasi.</sentence>-->
+        <!--Mi hermana se casó con un hombre afasi.-->
         <sentence lang="en">The one who impregnated my sister is a bad hunter.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
@@ -13709,7 +13709,6 @@ koshiripaye	[=koshiri+m.+poss@ti.][NRoot][=monkey.sp., white.monkey.sp. (ES: mac
     <text id="558.2">
         <sentence lang="prq" normalizationlevel="none">Amake Shimashiri osheki kemi onkotsiteri.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Amake Shimashiri osheki kemi onkotsiteri.</sentence>
-        <sentence lang="prq">Amake Shimashiri osheki kemi onkotsiteri.</sentence>
         <sentence lang="es">Shimashiri trajo muchos zapallos para cocinar.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
@@ -14630,7 +14629,7 @@ tonkaareki	[=tonkaare+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas]
         <!-- Itanjonkakero peyari komatire otantoki. -->
         <sentence lang="prq" normalizationlevel="none">Itajonkakero peyari komatire otantoki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Itahonkakero peyari komatire otantoki.</sentence>
-        <sentence lang="es">El díablo sopló a mi comadre en su cuarto.</sentence>s
+        <sentence lang="es">El díablo sopló a mi comadre en su cuarto.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -15448,7 +15447,7 @@ koteri	[=koteri][NRoot][=bird.sp. (ES: unchala)]
         <sentence lang="prq" normalizationlevel="none">Aririka piñeri tsaampi inkie pipankoki raretatyea atiri.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Aririka pinyeri tsaampi inkie pipankoki raretatyea atiri.</sentence>
         <sentence lang="es">Si ves entrar una mariposa a tu casa, tendrás una visita.</sentence>
-        <sentence lang="es">Dice la gente que cuando una mariposa entra a la casa, pronto llegará un visitante.</sentence>
+        <!-- Dice la gente que cuando una mariposa entra a la casa, pronto llegará un visitante. -->
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -16783,12 +16782,6 @@ antamimashiki	[=antami][NRoot][=dense.tropical.forest][--][-mashi][+CL:vast.spac
 .	.[$.]
 
 </morphology>
-        <morphology format="morfessor">
-
-1 apinka
-1 y + aree + t + a
-1 antami + mashi + ki
-</morphology>
         <parsing/>
     </text>
     <text id="EOS3">
@@ -16806,11 +16799,6 @@ homintsaavakeri	[h-][VPers][3m.S/A+][--][omin=][AGT.CAUS+][--][=tsaav][VRoot][=t
 kashekari	[=kashekari+m.][NRoot][=jaguar (phon.tat.: [ka.ˈʃɛ.ka.ɾɪ]; a.manitzi.that.has.devoured.a.human; ES: jaguar); tiger (ES: tigre)]
 
 </morphology>
-        <morphology format="morfessor">
-
-1 h + omin + tsaav + ak + e + ri
-1 kashekari
-</morphology>
         <parsing/>
     </text>
     <text id="EOS4">
@@ -16827,12 +16815,6 @@ antari	[=antari+m.][AdjRoot][=big; mature]
 
 maranke	[=maranke+m.][NRoot][=snake.sp., serpent]
 
-</morphology>
-        <morphology format="morfessor" analysislevel="fully">
-
-1 i + tsaav + aka + ak + a + ri
-1 antari
-1 maranke
 </morphology>
         <parsing/>
     </text>
