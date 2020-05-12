@@ -16746,6 +16746,7 @@ riyotantyaari	[r-][VPers][3m.S/A+][--][=iyot][VRoot][=to.know, to.understand (ES
 .	.[$.]
 
 </morphology>
+        <segmentation format="subword-nmt">iya@@ t@@ aey@@ e@@ ni iriani@@ paye yot@@ aantsi@@ panko@@ ki r@@ iyot@@ ant@@ yaa@@ ri</segmentation>
         <parsing/>
     </text>
     <!-- ***********************************************
@@ -16764,6 +16765,7 @@ ashi	[=ashi][PrnPoss][+1PL]
 
 añane	[a-][NPers][1PL.poss+][--][=nya+n.m.+inal@ntsi.+poss@ne.][NRoot][=word (ES: palabra), language][--][-ne][Gen][+aln.poss.]ne
 </morphology>
+        <segmentation format="subword-nmt">ashi a@@ nya@@ ne</segmentation>
     </text>
     <text id="EOS2">
         <sentence lang="prq" normalizationlevel="none">Apinka yareeta antamimashiki.</sentence>
@@ -16782,6 +16784,7 @@ antamimashiki	[=antami][NRoot][=dense.tropical.forest][--][-mashi][+CL:vast.spac
 .	.[$.]
 
 </morphology>
+        <segmentation format="subword-nmt">apinka y@@ aree@@ t@@ a antami@@ mashi@@ ki</segmentation>
         <parsing/>
     </text>
     <text id="EOS3">
@@ -16799,6 +16802,7 @@ homintsaavakeri	[h-][VPers][3m.S/A+][--][omin=][AGT.CAUS+][--][=tsaav][VRoot][=t
 kashekari	[=kashekari+m.][NRoot][=jaguar (phon.tat.: [ka.ˈʃɛ.ka.ɾɪ]; a.manitzi.that.has.devoured.a.human; ES: jaguar); tiger (ES: tigre)]
 
 </morphology>
+        <segmentation format="subword-nmt">h@@ omin@@ tsaav@@ ak@@ e@@ ri kashekari</segmentation>
         <parsing/>
     </text>
     <text id="EOS4">
@@ -16816,6 +16820,7 @@ antari	[=antari+m.][AdjRoot][=big; mature]
 maranke	[=maranke+m.][NRoot][=snake.sp., serpent]
 
 </morphology>
+        <segmentation format="subword-nmt">i@@ tsaav@@ aka@@ ak@@ a@@ ri antari maranke</segmentation>
         <parsing/>
     </text>
 </parallel>

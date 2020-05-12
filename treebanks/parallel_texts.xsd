@@ -16,6 +16,13 @@
             <xs:enumeration value="fully"/>
         </xs:restriction>
     </xs:simpleType>
+    <xs:simpleType name="segmentationformat">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="sentencepiece"/>
+            <xs:enumeration value="morfessor"/>
+            <xs:enumeration value="subword-nmt"/>
+        </xs:restriction>
+    </xs:simpleType>
     <xs:simpleType name="parsingoutputformat">
         <xs:restriction base="xs:string">
             <xs:enumeration value="CoNLL"/>
@@ -134,6 +141,15 @@
                                         <xs:extension base="NameBaseType">
                                             <xs:attribute type="morphologicalanalysisformat" name="format" use="optional"/>
                                             <xs:attribute type="analysislevel" name="analysislevel" use="optional"/>
+                                        </xs:extension>
+                                    </xs:simpleContent>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="segmentation" minOccurs="0" maxOccurs="2" nillable="true">
+                                <xs:complexType>
+                                    <xs:simpleContent>
+                                        <xs:extension base="NameBaseType">
+                                            <xs:attribute type="segmentationformat" name="format" use="optional"/>
                                         </xs:extension>
                                     </xs:simpleContent>
                                 </xs:complexType>

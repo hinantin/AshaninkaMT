@@ -201,7 +201,8 @@ otsomi	[o-][NPers][3n.m.poss+][--][=tsomi+inal@tsi.][NRoot][=breast, bosom (ES: 
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.17">
-        <sentence lang="prq">ipankoshitaka kiaki iroñaaka ivankoshikira.Poñaa okantsiri yayaa</sentence>
+        <sentence lang="prq" normalizationlevel="none">ipankoshitaka kiaki iroñaaka ivankoshikira.Poñaa okantsiri yayaa</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">ipankoshitaka kiaki ironyaaka ivankoshikira.Ponyaa okantsiri yayaa</sentence>
         <sentence lang="es">Hizo su choza ingresó en su choza,luego le dijo su Hermana ,hermano.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
