@@ -16699,6 +16699,7 @@ pivaero	[pi-][NPers][2poss+][--][=vaero+n.m.+inal@ntsi.][NRoot][=name (ES: nombr
 .	.[$.]
 
 </morphology>
+        <segmentation format="subword-nmt">o@@ tim@@ aty@@ e p@@ iyot@@ e pi@@ hankena@@ t@@ e pi@@ vaero .</segmentation>
         <parsing/>
     </text>
     <text id="687.3">
@@ -16724,6 +16725,7 @@ mantsiyare	[=mantsiya][VRoot][=to.be.sick (ES: enfermar(se))][--][-re+m.][NS][+N
 .	.[$.]
 
 </morphology>
+        <segmentation format="subword-nmt">p@@ amitako@@ t@@ ant@@ yaa@@ ri@@ ri mantsiya@@ re .</segmentation>
         <parsing/>
     </text>
     <text id="688">
@@ -16739,14 +16741,14 @@ iyataeyeni	[=iya][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-aey][+PL]aey[--][-e
 
 irianipaye	[=iriani+m.][AdjRoot][=small][--][-paye][Num][+PL_DIST]
 
-yotaantsipankoki	[y-][NPers][3m.poss+][--][=o][VRoot][=to.eat (ES: comer)][--][-t][+EP]t[--][-aantsi][NS][+NMZ.INF]aantsi[--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)][--][-ki][Cas][+LOC_LOC.T]
+yotaantsipankoki	[=yo+INF@/EP:t/aantsi:/EP:t/agaantsi.][VRoot][=to.learn (ES: aprender); to.know (ES: conocer, saber)][--][-t][+EP]t[--][-aantsi][NS][+NMZ.INF]aantsi[--][=panko+gndr@n.m.+inal@tsi.+mrph.phon@LEN:^p→^v.][NRoot][=house, home (ES: casa);| tambo (QU: tampu)][--][-ki][Cas][+LOC_LOC.T][=LOC:motion.to/motion.from; LOC.T:during/over]
 
 riyotantyaari	[r-][VPers][3m.S/A+][--][=iyot][VRoot][=to.know, to.understand (ES: saber, entender)][--][-ant][Asp][+APPL.REAS][=in.order.to]ant[--][-yaa][+IRR]yaa[--][=ri][NS][+REL]
 
 .	.[$.]
 
 </morphology>
-        <segmentation format="subword-nmt">iya@@ t@@ aey@@ e@@ ni iriani@@ paye yot@@ aantsi@@ panko@@ ki r@@ iyot@@ ant@@ yaa@@ ri</segmentation>
+        <segmentation format="subword-nmt">iya@@ t@@ aey@@ e@@ ni iriani@@ paye yo@@ t@@ aantsi@@ panko@@ ki r@@ iyot@@ ant@@ yaa@@ ri .</segmentation>
         <parsing/>
     </text>
     <!-- ***********************************************
@@ -16784,7 +16786,7 @@ antamimashiki	[=antami][NRoot][=dense.tropical.forest][--][-mashi][+CL:vast.spac
 .	.[$.]
 
 </morphology>
-        <segmentation format="subword-nmt">apinka y@@ aree@@ t@@ a antami@@ mashi@@ ki</segmentation>
+        <segmentation format="subword-nmt">apinka y@@ aree@@ t@@ a antami@@ mashi@@ ki .</segmentation>
         <parsing/>
     </text>
     <text id="EOS3">
@@ -16819,8 +16821,10 @@ antari	[=antari+m.][AdjRoot][=big; mature]
 
 maranke	[=maranke+m.][NRoot][=snake.sp., serpent]
 
+.	.[$.]
+
 </morphology>
-        <segmentation format="subword-nmt">i@@ tsaav@@ aka@@ ak@@ a@@ ri antari maranke</segmentation>
+        <segmentation format="subword-nmt">i@@ tsaav@@ aka@@ ak@@ a@@ ri antari maranke .</segmentation>
         <parsing/>
     </text>
 </parallel>
