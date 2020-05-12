@@ -16678,6 +16678,7 @@ hantariki	[=hantari+n.m.][NRoot][=timber.tree.sp. (ES: árbol.(maderable), cedro
 .	.[$.]
 
 </morphology>
+        <segmentation format="subword-nmt">no@@ yome@@ t@@ a@@ e@@ mi p@@ ant@@ e@@ ri ari@@ rika p@@ iyaa@@ t@@ ak@@ e hantari@@ ki .</segmentation>
         <parsing/>
     </text>
     <text id="687.2">
