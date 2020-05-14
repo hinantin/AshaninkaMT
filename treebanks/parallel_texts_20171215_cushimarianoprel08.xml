@@ -16205,6 +16205,7 @@ itomi	[i-][NPers][3m.poss+][--][=tomi+m.+inal@tsi.][NRoot][=son (kin.of.a.fe/mal
 .	.[$.]
 
 </morphology>
+        <segmentation format="subword-nmt">r@@ a@@ ak@@ e@@ ro aventyari o@@ kashi tsomanto r@@ ant@@ ya@@ ri@@ ri i@@ patsaa@@ vo i@@ tomi .</segmentation>
         <parsing/>
     </text>
     <text id="667">
@@ -16227,6 +16228,7 @@ niha	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
 .	.[$.]
 
 </morphology>
+        <segmentation format="subword-nmt">i@@ kent@@ a@@ vae@@ t@@ i tsompari i@@ shima@@ ne o@@ tsapya@@ ki niha .</segmentation>
         <parsing/>
     </text>
     <text id="668">
@@ -16247,6 +16249,7 @@ kaniri	[=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: y
 .	.[$.]
 
 </morphology>
+        <segmentation format="subword-nmt">o@@ tsonk@@ ak@@ e@@ ro tsinane@@ paye o@@ taki@@ ri@@ ro kaniri .</segmentation>
         <parsing/>
     </text>
     <text id="669">
@@ -16271,6 +16274,7 @@ inchateyaki	[=incha][NRoot][=plant][--][-teyaki][+CL:flower][=flower]
 .	.[$.]
 
 </morphology>
+        <segmentation format="subword-nmt"> r@@ atso@@ t@@ i@@ ro o@@ vochari@@ te incha@@ teyaki .</segmentation>
         <parsing/>
     </text>
     <text id="670">
