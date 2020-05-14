@@ -16297,6 +16297,7 @@ opochatati	[o-][VPers][3n.m.S/A+][--][=pocha][VRoot][=to.be.sweet (ES: ser.dulce
 .	.[$.]
 
 </morphology>
+        <segmentation format="subword-nmt">osheki no@@ nyaama@@ t@@ a@@ vo n@@ ov@@ a@@ vo tsonkitiroki tema o@@ pocha@@ t@@ ati .</segmentation>
         <parsing/>
     </text>
     <text id="671">
@@ -16322,6 +16323,7 @@ otomipaye	[o-][NPers][3n.m.poss+][--][=tomi+m.+inal@tsi.][NRoot][=son (kin.of.a.
 .	.[$.]
 
 </morphology>
+        <segmentation format="subword-nmt">ay@@ i@@ ro tsinane@@ paye tsoompi@@ ro@@ ntsi o@@ ki@@ ant@@ ya@@ ri@@ ri o@@ tomi@@ paye .</segmentation>
         <parsing/>
     </text>
     <text id="672">
@@ -16341,6 +16343,7 @@ mapocha	[=mapocha+n.m.+poss@ti.][NRoot][=papaya (botany.nm.: carica.papaya)]
 .	.[$.]
 
 </morphology>
+        <segmentation format="subword-nmt">r@@ ov@@ ak@@ a@@ vo tsoori mapocha .</segmentation>
         <parsing/>
     </text>
     <text id="673">
@@ -16367,6 +16370,7 @@ iyatsinka	[i-][NPers][3m.poss+][--][=katsi][VRoot][=to.feel.pain; to.be.in.pain;
 .	.[$.]
 
 </morphology>
+        <segmentation format="subword-nmt">i@@ tsop@@ a@@ ak@@ e@@ ro apeti ir@@ aiki te r@@ ama@@ ve@@ t@@ ap@@ ah@@ e@@ ro i@@ katsi@@ nka .</segmentation>
         <parsing/>
     </text>
     <text id="674">
@@ -16386,10 +16390,12 @@ antari	[=antari+m.][AdjRoot][=big; mature]
 tsopiro	[=tsopiro+m.][NRoot][=big.armored.catfish.sp. (ES: carachama.grande/alargada)]
 
 ???
+oshirantaaki	[o-][NPers][3n.m.poss+][--][=shiranta+gndr@n.m.][NRoot][=flagstone, flag, flat.stone (ES: laja, roca.plana); boulder (ES: peña.dentro.del.agua)][--][-a][+CL:liquid][=liquid][--][-ki][Cas][+LOC_LOC.T][=LOC:motion.to/motion.from; LOC.T:during/over]
 
 .	.[$.]
 
 </morphology>
+        <segmentation format="subword-nmt">i@@ pashikaa@@ t@@ ak@@ e marinkama antari tsopiro o@@ shiranta@@ a@@ ki .</segmentation>
         <parsing/>
     </text>
     <text id="675">
@@ -16411,6 +16417,7 @@ mapi	[=mapi+n.m.+poss@ni:ne.][NRoot][=stone; rock]
 .	.[$.]
 
 </morphology>
+        <segmentation format="subword-nmt">r@@ atso@@ t@@ i@@ ro shima o@@ hampovatsa@@ te mapi .</segmentation>
     </text>
     <text id="676">
         <sentence lang="prq" normalizationlevel="none">Ityaakero yeye antabo inchato.</sentence>
@@ -16431,6 +16438,7 @@ inchato	[=inchato+n.m.][NRoot][=tree (ES: árbol)]
 .	.[$.]
 
 </morphology>
+        <segmentation format="subword-nmt">i@@ ty@@ a@@ ak@@ e@@ ro yeye antavo inchato .</segmentation>
         <parsing/>
     </text>
     <text id="677">
@@ -16450,6 +16458,7 @@ antamiki	[=antami][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.for
 .	.[$.]
 
 </morphology>
+        <segmentation format="subword-nmt">oitsok@@ ak@@ e tyaapa antami@@ ki</segmentation>
         <parsing/>
     </text>
     <text id="678">
@@ -16474,6 +16483,7 @@ tyaapaniki	[=tyaapa+n.m.+poss@te.][NRoot][=hen (ES: gallina); chicken][--][-niki
 .	.[$.]
 
 </morphology>
+        <segmentation format="subword-nmt">tahako@@ t@@ ak@@ e i@@ itsoki tyaapa shitov@@ an@@ ak@@ e tyaapa@@ niki .</segmentation>
         <parsing/>
     </text>
     <text id="679">
@@ -16489,6 +16499,7 @@ kiake	[=ki][VRoot][=to.enter (ES: ingresar)][--][-ak][ASP][+PRF][=completed.actn
 tyaapapankoki	[=tyaapa+n.m.+poss@te.][NRoot][=hen (ES: gallina); chicken][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)][--][-ki][Cas][+LOC_LOC.T]
 
 ???
+maretyakintsi	[=mare+gndr@n.m.+inal@n/tsi.][NRoot][=wristband (ES: pulsera, brazalete)][--][-tyaki][+CL:flower][=flower][--][-ntsi+poss@alien.+syl@&gt;poly.][Gen][+nposs]ntsi
 
 rova	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-a+fut.][+IRR]a
 
@@ -16497,6 +16508,7 @@ iitsoki	[i-][NPers][3m.poss+][--][=kitsoki][NRoot][=egg (huevo); seed (ES: semil
 .	.[$.]
 
 </morphology>
+        <segmentation format="subword-nmt">ki@@ ak@@ e tyaapa@@ panko@@ ki mare@@ tyaki@@ ntsi r@@ ov@@ a i@@ itsoki .</segmentation>
         <parsing/>
     </text>
     <text id="680">
@@ -16518,6 +16530,7 @@ kaniri	[=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: y
 .	.[$.]
 
 </morphology>
+        <segmentation format="subword-nmt">oninti impaneki@@ ki kaniri tyonkiro.</segmentation>
         <parsing/>
     </text>
     <text id="681">
@@ -16537,6 +16550,7 @@ ovametantatsiri	[=ovame][VRoot][=to.teach (ES: enseñar)][--][-t][+EP]t[--][-ant
 .	.[$.]
 
 </morphology>
+        <segmentation format="subword-nmt">i@@ kaem@@ ak@@ ant@@ aet@@ ak@@ e@@ ri ovame@@ ant@@ atsi@@ ri yempi@@ pa@@ vae@@ ro@@ ntsi@@ ki .</segmentation>
         <parsing/>
     </text>
     <text id="682">
@@ -16560,6 +16574,7 @@ intaena	[=intaena+sem@loc.][AdvRoot][=far.away (ES: muy.lejos)]
 .	.[$.]
 
 </morphology>
+        <segmentation format="subword-nmt">antavo i@@ yempita otsiti i@@ kem@@ ant@@ a@@ ri intaena .</segmentation>
         <parsing/>
     </text>
     <text id="683">
@@ -16583,6 +16598,7 @@ ityerovi	[i-][VPers][3m.S/A+][--][=tyerov][VRoot][=to.kneel.down (ES: arrodillar
 .	.[$.]
 
 </morphology>
+        <segmentation format="subword-nmt">katsit@@ ak@@ e i@@ yereto charine o@@ kant@@ aka@@ ant@@ i@@ ro i@@ tyerov@@ i .</segmentation>
         <parsing/>
     </text>
     <text id="684">
@@ -16611,6 +16627,7 @@ intsipaite	[i-][VPers][3m.S/A+][--][N=][IRR+][--][=tsipa][VRoot][=to.accompany; 
 .	.[$.]
 
 </morphology>
+        <segmentation format="subword-nmt">no@@ kant@@ ak@@ e@@ ri yeye : p@@ amitako@@ t@@ e@@ na no@@ panko@@ ki no@@ tsonk@@ ant@@ yaa@@ vo@@ ri i@@ n@@ tsipa@@ it@@ e .</segmentation>
         <parsing/>
     </text>
     <text id="685">
@@ -16634,6 +16651,7 @@ hantari	[=hantari+n.m.][NRoot][=timber.tree.sp. (ES: árbol.(maderable), cedro; 
 .	.[$.]
 
 </morphology>
+        <segmentation format="subword-nmt">r@@ ay@@ i@@ ro pinkatsare yomaa@@ re@@ ntsi ri@@ yoma@@ t@@ ant@@ ya@@ vo@@ ri hantari .</segmentation>
         <parsing/>
     </text>
     <text id="686">
@@ -16655,6 +16673,7 @@ oharentsite	[o-][VPers][3n.m.S/A+][--][=harentsi+m.][NRoot][=year (ES: año); dr
 .	.[$.]
 
 </morphology>
+        <segmentation format="subword-nmt">osheki yoosara ari@@ rika o@@ harentsi t@@ e .</segmentation>
         <parsing/>
     </text>
     <text id="687.1">
