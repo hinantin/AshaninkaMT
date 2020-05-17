@@ -15819,6 +15819,7 @@ ishinkana	[i-][NPers][3m.poss+][--][=shinkana][NRoot][=bile (ES: hiel)]
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">r@@ a@@ ati yeye tsikontoche r@@ ir@@ a@@ ashi@@ t@@ e@@ ro@@ ri i@@ shinkana .</segmentation>
         <parsing/>
     </text>
     <text id="650">
@@ -15839,6 +15840,7 @@ irakaentsiri	[=irak][VRoot][=to.be.ripe (fruit; ES: madurar), to.ripen][--][-aen
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">i@@ tsiko@@ t@@ i@@ ro yeye kiri irak@@ aentsi@@ ri .</segmentation>
         <parsing/>
     </text>
     <text id="651">
@@ -15859,6 +15861,7 @@ otsimankitye	[o-][VPers][3n.m.S/A+][--][=tsimank][VRoot][=to.cast.a.shadow (ES: 
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">o@@ mako@@ ri@@ ati isheni inchato@@ ki o@@ tsimank@@ it@@ ye .</segmentation>
         <parsing/>
     </text>
     <text id="652">
@@ -15881,6 +15884,7 @@ tsimenkito	[=tsimenkito+m.+poss@te.][NRoot][=carbon (ES: carbón)]
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">i@@ ta@@ ati tyoviri meshiyanto r@@ ant@@ ant@@ ya@@ ri tsimenkito .</segmentation>
         <parsing/>
     </text>
     <text id="653.1">
@@ -15901,6 +15905,7 @@ ohaviki	[=ohaviki][NRoot][=floor, first.floor]
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">i@@ tsinampa@@ it@@ ak@@ e@@ ri kishokiri r@@ ooka@@ it@@ ak@@ e@@ ri ohaviki .</segmentation>
         <parsing/>
     </text>
     <text id="653.2">
@@ -15921,6 +15926,7 @@ ikantiro	[i-][VPers][3m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.hap
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">i@@ tsinampa@@ ak@@ e@@ ro pava@@ chori i@@ ina@@ tsori i@@ kant@@ i@@ ro .</segmentation>
         <parsing/>
     </text>
     <text id="654">
@@ -15943,6 +15949,7 @@ irihaniki	[=irihani+m.][AdjRoot][=small][--][-ki][+CL:S.R.H][=small,round(ed);ha
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">roohati i@@ tsint@@ i@@ ro i@@ chenko yeye irihani@@ ki .</segmentation>
         <parsing/>
     </text>
     <text id="655">
@@ -15965,6 +15972,7 @@ shima	[=shima+m.+poss@ni.][NRoot][=fish; fish.sp., boquichico-fish (ES: boquichi
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">r@@ a@@ it@@ i@@ ro o@@ shi tsipana akipa@@ t@@ ant@@ yaa@@ ri shima .</segmentation>
         <parsing/>
     </text>
     <text id="656">
@@ -15987,6 +15995,7 @@ aishi	[a-][NPers][1PL.poss+][--][=kishi+n.m.+inal@tsi.][NRoot][=hair (ES: cabell
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">r@@ a@@ et@@ i@@ ro o@@ yeenka tsireentsi o@@ karentsa@@ t@@ ant@@ ya@@ ri a@@ ishi .</segmentation>
         <parsing/>
     </text>
     <text id="657">
@@ -16009,6 +16018,7 @@ iina	[i-][NPers][3m.poss+][--][=ina+n.m.+inal@tsi.+voc.][NRoot][=mother; wife (k
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">r@@ amanant@@ ak@@ e yompiri tsire@@ ntsi@@ tonki r@@ a@@ an@@ ah@@ e@@ ni@@ ro i@@ ina .</segmentation>
         <parsing/>
     </text>
     <text id="658">
@@ -16029,6 +16039,7 @@ ikomintsatantyaari	[i-][VPers][3m.S/A+][--][=komintsa][VRoot][=to.hunt (ES: caza
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">i@@ p@@ a@@ yee@@ t@@ i@@ ri kayetsi tsirikana i@@ komintsa@@ t@@ ant@@ yaa@@ ri .</segmentation>
         <parsing/>
     </text>
     <text id="659">
@@ -16052,6 +16063,7 @@ omorekantari	[o-][VPers][3n.m.S/A+][--][=morek][VRoot][=to.burn (ES: arder)][--]
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">iroka tsitsi piri@@ a@@ pero@@ t@@ ak@@ e iro o@@ morek@@ ant@@ a@@ ri .</segmentation>
         <parsing/>
     </text>
     <text id="660">
@@ -16074,6 +16086,7 @@ mamori	[=mamori+m.][NRoot][=fish.sp., sabalo (ES: sábalo; sci.nm.: brycon.sp.)]
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">n@@ a@@ ak@@ e osheki tsitsiri n@@ akacha@@ t@@ ant@@ ya@@ ri mamori .</segmentation>
         <parsing/>
     </text>
     <text id="661">
@@ -16094,6 +16107,7 @@ chapitsi	[=chapitsi][NRoot][=worm.sp. (ES: especie.de.gusano)]
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">osheki r@@ ov@@ a@@ ri tsiya chapitsi .</segmentation>
         <parsing/>
     </text>
     <text id="662">
@@ -16114,6 +16128,7 @@ tsiyaroki	[=tsiyaro+n.m.][NRoot][=palm.tree.sp. (ES: shapaja, shebón; sci.nm.: 
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">r@@ ov@@ a@@ vo meyiri o@@ itsoki tsiyaro@@ ki .</segmentation>
         <parsing/>
     </text>
     <text id="663">
@@ -16135,6 +16150,7 @@ antamiki	[=antami][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.for
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">r@@ apato@@ t@@ a tsiyeri r@@ anashi@@ t@@ ant@@ yaa@@ ri antami@@ ki .</segmentation>
         <parsing/>
     </text>
     <text id="664">
@@ -16157,6 +16173,7 @@ chompita	[=chompita+m.][NRoot][=cockroach.sp. (ES: sp.de.cucaracha)]
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">antavo i@@ shetaki tsovo r@@ otey@@ ant@@ yaa@@ ri@@ ri chompita .</segmentation>
         <parsing/>
     </text>
     <text id="665">
@@ -16179,6 +16196,7 @@ tonkareki	[=tonkare+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas][+
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">oyaa@@ i choeni o@@ tsok@@ i kaniri tonkare@@ ki .</segmentation>
         <parsing/>
     </text>
     <text id="666">
