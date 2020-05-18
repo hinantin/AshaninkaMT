@@ -15027,7 +15027,6 @@ kapichoki	[=kapichoki][AdvRoot][=a.little (ES: poco)]
 
 timpinare	[=timpinare][NRoot][=swallow.sp. (ES: sp.de.golondrina)]
 
-
 opariatye	[o-][VPers][3n.m.S/A+][--][=pary][VRoot][=to.fall (ES: caer)][--][-aty][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]aty[--][-e+fut.][+IRR]e
 
 inkani	[=inkani+n.m.][NRoot][=rain (ES: lluvia)]
@@ -15035,6 +15034,7 @@ inkani	[=inkani+n.m.][NRoot][=rain (ES: lluvia)]
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">tyoent@@ ak@@ a timpinare o@@ pary@@ aty@@ e inkani .</segmentation>
         <parsing/>
     </text>
     <text id="615.2">
@@ -15059,6 +15059,7 @@ antamiki	[=antami][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.for
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">i@@ ny@@ a@@ ak@@ e@@ ri shevankori timpin@@ a@@ re i@@ heek@@ i ir@@ a@@ vae@@ t@@ a antami@@ ki .</segmentation>
         <parsing/>
     </text>
     <text id="616">
@@ -15076,11 +15077,12 @@ charava	[=charava][NRoot][=fish.sp. (ES: súngaro, pez.saltón); gilded.catfish.
 
 rotetantyaariri	[r-][VPers][3m.S/A+][--][=ote][VRoot][=to.take.sth., to.catch.sth. (ES: agarrar); to.insert (ES: meter.(en.un.envase)); to.get.in; to.board][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-yaa+fut.][+IRR]yaa[--][=ri][+3m.O][--][=ri][NS][+REL]
 
-ivitoki	[i-][NPers][3m.poss+][--][= +n.m.+inal@tsi.+poss@ni.][NRoot][=canoe (ES: canoa)][--][-ki][Cas][+LOC_LOC.T]
+ivitoki	[i-][NPers][3m.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe (ES: canoa)][--][-ki][Cas][+LOC_LOC.T]
 
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">i@@ tina@@ e@@ ri ani charava r@@ ote@@ t@@ ant@@ yaa@@ ri@@ ri i@@ vito@@ ki .</segmentation>
         <parsing/>
     </text>
     <text id="617">
@@ -15097,6 +15099,7 @@ antyashipavotaki	[=antyashipavo+n.m.][NRoot][=elderly.woman, old.woman][--][-tak
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">antyashipavo@@ taki no@@ tina@@ vo .</segmentation>
         <parsing/>
     </text>
     <text id="618">
@@ -15117,6 +15120,7 @@ inchaki	[=inchaki+poss@ri.][NRoot][=pole (ES: palo)]
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">eero p@@ am@@ i@@ ro inchaki tipi@@ ro .</segmentation>
         <parsing/>
     </text>
     <text id="619">
@@ -15139,6 +15143,7 @@ ipanko	[i-][NPers][3m.poss+][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa)
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">i@@ tipi@@ ati pava@@ chori kompiroshi r@@ ant@@ ant@@ ya@@ ri i@@ panko .</segmentation>
         <parsing/>
     </text>
     <text id="620">
@@ -15155,12 +15160,14 @@ kovashito	[=kovashito][NRoot][=person's.name, NP]
 tiri	[=tiri+m.+poss@ni.][NRoot][=tar (ES: brea)]
 
 ???
+rovatsikantyavori	[ro-][VPers][3n.m.S/A+][--][v=][AGT.CAUS+][--][=atsik+INF@aantsi.][VRoot][=to.bite (ES: morder.(sujeto.animado))][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-t][+EP]t[--][-ia~iya+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]iya[--][=vo][+3n.m.O/P][--][=ri+tns@n.fut.][NS][+REL][=REAL]
 
 ichakopite	[i-][NPers][3m.poss+][--][=chakopi+n.m.+poss@te:ti.][NRoot][=arrow (ES: flecha); small.cane (ES: cañabrava.pequeña)][--][-te][Gen][+aln.poss.]te
 
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">r@@ a@@ atsi kovashito tiri ro@@ v@@ atsik@@ an@@ t@@ ya@@ vo@@ ri i@@ chakopi@@ te .</segmentation>
         <parsing/>
     </text>
     <text id="621">
@@ -15185,6 +15192,7 @@ itomi	[i-][NPers][3m.poss+][--][=tomi+m.+inal@tsi.][NRoot][=son (kin.of.a.fe/mal
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">r@@ a@@ atsi  konki tiroki@@ tsa r@@ aavint@@ ant@@ ya@@ ri i@@ tink@@ aa@@ vo i@@ tomi .</segmentation>
         <parsing/>
     </text>
     <text id="622">
@@ -15203,6 +15211,7 @@ tiroti	[=tiroti+n.m.][NRoot][=palm.tree.sp.with.black.thorns (ES: huicungo; sci.
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">r@@ ov@@ a@@ vo shintori tiroti .</segmentation>
         <parsing/>
     </text>
     <text id="623">
@@ -15221,6 +15230,7 @@ eniki	[=Eni][NP][=river (Ene.river)][--][-ki][Cas][+LOC_LOC.T]
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">tiyaat@@ an@@ ah@@ a ovame@@ t@@ ant@@ atsi@@ ri eni@@ ki .</segmentation>
         <parsing/>
     </text>
     <text id="624">
@@ -15247,6 +15257,7 @@ piyaariri	[pi-][NPers][2poss+][--][=yaari+m.+poss@ri.][NRoot][=brother (kin.of.a
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">o@@ kant@@ i@@ ro ina choeni : p@@ ook@@ e@@ ro i@@ tiya pi@@ yaari@@ ri .</segmentation>
         <parsing/>
     </text>
     <text id="625">
@@ -15265,6 +15276,7 @@ inchato	[=inchato+n.m.][NRoot][=tree (ES: árbol)]
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">i@@ tov@@ ak@@ e@@ ro yeye inchato .</segmentation>
         <parsing/>
     </text>
     <text id="626">
@@ -15283,6 +15295,7 @@ inkaareki	[=inkaare+n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)][--][-ki][
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">o@@ shok@@ i toniro inkaare@@ ki .</segmentation>
         <parsing/>
     </text>
     <text id="627">
@@ -15308,6 +15321,7 @@ ovantsipooshiki	[=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">i@@ tonk@@ ak@@ e shoshokiri shavo r@@ ov@@ a@@ ve@@ t@@ a kaniri ova@@ ntsi@@ pooshi@@ ki .</segmentation>
         <parsing/>
     </text>
     <text id="628">
@@ -15330,6 +15344,7 @@ kepaye	[=kepaye+n.m.][NRoot][=very_hard/thick.wood.sp. (ES: horcón, poste,, shu
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">mako@@ t@@ ak@@ e@@ na n@@ ani@@ t@@ i@@ ro tonkaare n@@ a@@ ant@@ a@@ vo@@ ri kepaye .</segmentation>
         <parsing/>
     </text>
     <text id="629">
