@@ -15576,6 +15576,7 @@ charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male);
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">o@@ tashi@@ t@@ ak@@ e ameeni tsanavo o@@ p@@ e@@ ri@@ ri charine .</segmentation>
         <parsing/>
     </text>
     <text id="640">
@@ -15599,6 +15600,7 @@ iporeriaati	[i-][VPers][3m.S/A+][--][=porery][VRoot][=to.shine (ES: brillar)][--
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">i@@ nee@@ ki tsonkiri keme@@ t@@ ak@@ a tsano@@ ere@@ ntsi i@@ porery@@ a@@ ati .</segmentation>
         <parsing/>
     </text>
     <text id="641">
@@ -15617,6 +15619,7 @@ tsompari	[=tsompari+m.][NRoot][=heron.sp., crane (ES: sp.de.garza); great.egret 
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">hantsa@@ re i@@ tsano tsompari .</segmentation>
         <parsing/>
     </text>
     <text id="642.1">
@@ -15637,6 +15640,7 @@ inchato	[=inchato+n.m.][NRoot][=tree (ES: árbol)]
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">tsa@@ t@@ ak@@ a koshiri oteva@@ ki inchato .</segmentation>
         <parsing/>
     </text>
     <text id="642.2">
@@ -15663,6 +15667,7 @@ avihatsiri	[=avih][VRoot][=to.pass, to.move.past/to_the_other_side_of.sb/sth. (E
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">i@@ tsa@@ t@@ i otsiti tsireniri , ari@@ rika i@@ ny@@ a@@ ye@@ t@@ i@@ ri avih@@ atsi@@ ri .</segmentation>
         <parsing/>
     </text>
     <text id="643">
@@ -15685,6 +15690,7 @@ itseyantari	[i-][VPers][3m.S/A+][--][=tsey][VRoot][=to.lie (ES: mentir)][--][-an
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">r@@ ant@@ ak@@ e@@ ri eentsi tseeri irotake i@@ tsey@@ ant@@ a@@ ri .</segmentation>
         <parsing/>
     </text>
     <text id="644">
@@ -15713,6 +15719,7 @@ nompiyahe	[no-][VPers][1SG.S/A+][--][N=][IRR+][--][=piy][VRoot][=to.return, to.c
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">i@@ tseey@@ ak@@ a ovame@@ t@@ ant@@ atsi@@ ri kamaiteri i@@ kant@@ an@@ ak@@ e@@ ri ashitaaniyetatsiri : inkaamani no@@ m@@ piy@@ ah@@ e .</segmentation>
         <parsing/>
     </text>
     <text id="645">
@@ -15731,6 +15738,7 @@ ootamentotsi	[=oot][VRoot][=to.light (ES: alumbrar, encender)][--][-a][+CL:liqui
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">o@@ tsivak@@ ak@@ e@@ ro tampia oot@@ a@@ mento@@ tsi .</segmentation>
         <parsing/>
     </text>
     <text id="646">
@@ -15753,6 +15761,7 @@ nihaaki	[=nihaa+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)][--]
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">i@@ kent@@ ak@@ e@@ ri tsiveta n@@ ani i@@ kaavoshi@@ ve@@ t@@ a nihaa@@ ki .</segmentation>
         <parsing/>
     </text>
     <text id="647">
@@ -15777,6 +15786,7 @@ rovaneki	[r-][NPers][3m.poss+][--][=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.f
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">r@@ ant@@ a@@ vae@@ t@@ ant@@ a@@ ri r@@ ova@@ ne@@ ki .</segmentation>
         <parsing/>
     </text>
     <text id="648">
