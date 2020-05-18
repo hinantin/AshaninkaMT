@@ -15350,6 +15350,7 @@ tonkamentotsiki	[=tonk][VRoot][=to.shoot (ES: balear); to.burst][--][-a][+EP]a[-
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">i@@ mana@@ t@@ ak@@ e@@ ri yeye shonkiri tonk@@ a@@ mento@@ tsi@@ ki .</segmentation>
         <parsing/>
     </text>
     <text id="630">
@@ -15373,6 +15374,7 @@ shinkia	[=shinki+m.+poss@ne:ni.][NRoot][=corn, maize (ES: maíz, botany.nm.: zea
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">a@@ toonk@@ aty@@ ee@@ ro shinki honkoki ant@@ ant@@ yaa@@ ri shinki@@ a .</segmentation>
         <parsing/>
     </text>
     <text id="631">
@@ -15395,6 +15397,7 @@ oshinchaaki	[o-][NPers][3n.m.poss+][--][=shincha+n.m.][NRoot][=(river).current (
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">i@@ pashikaa@@ t@@ ak@@ e@@ ri yeye antari tooso o@@ shincha@@ a@@ ki .</segmentation>
         <parsing/>
     </text>
     <text id="632">
@@ -15415,6 +15418,7 @@ rantivatantanakari	[r-][VPers][3m.S/A+][--][=antiva][VRoot][=to.trip.(over.sth.)
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">i@@ tot@@ an@@ ak@@ e@@ ri i@@ taki totiroki r@@ antiva@@ t@@ ant@@ an@@ ak@@ a@@ ri .</segmentation>
         <parsing/>
     </text>
     <text id="633">
@@ -15441,6 +15445,7 @@ koteri	[=koteri][NRoot][=bird.sp. (ES: unchala)]
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">i@@ heek@@ i inkaare@@ ki osheki totiroki rootake r@@ ov@@ a@@ na@@ vo koteri .</segmentation>
         <parsing/>
     </text>
     <text id="634">
@@ -15468,6 +15473,7 @@ atiri	[=atiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">ari@@ rika pi@@ ny@@ e@@ ri tsaampi i@@ n@@ ki@@ e pi@@ panko@@ ki r@@ are@@ t@@ aty@@ ea atiri .</segmentation>
         <parsing/>
     </text>
     <text id="635">
@@ -15488,6 +15494,7 @@ ovantsipooshiki	[=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">i@@ tsaa@@ t@@ ak@@ e@@ ri otsiti hamani ova@@ ntsi@@ pooshi@@ ki .</segmentation>
         <parsing/>
     </text>
     <text id="636">
