@@ -14906,6 +14906,7 @@ ivaneki	[i-][NPers][3m.poss+][--][=va+n.m.+poss@ni:ne.+voc@1SG.][NRoot][=sown.fi
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">i@@ panki@@ t@@ ak@@ e koshanti tivana i@@ va@@ ne@@ ki .</segmentation>
         <parsing/>
     </text>
     <text id="610">
@@ -14928,6 +14929,7 @@ ochempeki	[=ochempe][NRoot][=hill (ES: cerro)][--][-ki][+CL:human.populated][=pl
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">atiri r@@ iya@@ t@@ i r@@ ay@@ i tivi ochempe@@ ki .</segmentation>
         <parsing/>
     </text>
     <text id="611">
@@ -14949,6 +14951,7 @@ iyomoneerote	[i-][NPers][3m.poss+][--][=comunero/komoneero+poss@te.][NRootEs][=v
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">tivo@@ t@@ ak@@ e pinkatsari i@@ kaem@@ ant@@ a@@ ri@@ ri i@@ yomoneero@@ te .</segmentation>
         <parsing/>
     </text>
     <text id="612">
