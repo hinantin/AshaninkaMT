@@ -15508,6 +15508,7 @@ itsaatoki	[i-][NPers][3m.poss+][--][=tsaato+n.m.][NRoot][=bag, backpack (ES: moc
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">r@@ ay@@ i@@ ro sheripiare i@@ yoka@@ ne i@@ tsaato@@ ki .</segmentation>
         <parsing/>
     </text>
     <text id="637">
@@ -15530,6 +15531,7 @@ inchashipaye	[i-][NPers][3m.poss+][--][=inchashi+n.m.][NRoot][=herb (ES: hierba)
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">i@@ tsamae@@ t@@ i@@ ro mishari r@@ ova@@ ne shook@@ ak@@ e i@@ inchashi@@ paye .</segmentation>
         <parsing/>
     </text>
     <text id="638">
@@ -15554,6 +15556,7 @@ imentaina	[i-][NPers][3m.poss+][--][=menta+n.m.+inal@tsi.][NRoot][=fin.of.tree (
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">n@@ iyot@@ av@@ ak@@ e@@ ri iritake tsamiri o@@ kityonka@@ t@@ i i@@ menta@@ ina .</segmentation>
         <parsing/>
     </text>
     <text id="639">
