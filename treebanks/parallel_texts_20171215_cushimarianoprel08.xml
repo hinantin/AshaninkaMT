@@ -14969,6 +14969,7 @@ shoshokiri	[=shoshokiri][NRoot][=NP, person's.name]
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">o@@ tih@@ av@@ ak@@ e@@ ri kitoche i@@ itsare@@ shoshokiri .</segmentation>
         <parsing/>
     </text>
     <text id="613">
@@ -14994,6 +14995,7 @@ royaari	[r-][VPers][3m.S/A+][--][=oy][VRoot][=to.eat (ES: comer)][--][-a][+EP]a[
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">i@@ hek@@ i tiho incha@@ pooki@@ ki r@@ amen@@ a@@ ye@@ t@@ i ii@@ t@@ a r@@ oy@@ a@@ a@@ ri .</segmentation>
         <parsing/>
     </text>
     <text id="614">
@@ -15014,6 +15016,7 @@ kapichoki	[=kapichoki][AdvRoot][=a.little (ES: poco)]
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">timatsi pi@@ viari pi@@ p@@ av@@ ak@@ e@@ na kapichoki .</segmentation>
         <parsing/>
     </text>
     <text id="615.1">
