@@ -25,6 +25,11 @@
         <sdef n="num"    c="number +1SG, +2SG, 3SG, 1PL. 2PL, 3PL"/>
         <sdef n="kinship"    c="+m.ego, +n.m.ego"/>
         <sdef n="inf"    c="infinitive: aantsi, antsi, agaantsi"/>
+		<sdef n="pragm.func"    c="..."/>
+		<sdef n="i-conj"    c="..."/>
+		<sdef n="mrph.phon"    c="..."/>
+		<sdef n="sem"    c="..."/>
+		<sdef n="kin"    c="..."/>
         <!-- Location -->
         <sdef n="loc"    c="location"/>
         <sdef n="verbmi"    c="verbal morphology needed for generation"/>
