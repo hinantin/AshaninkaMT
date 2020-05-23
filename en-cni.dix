@@ -25,6 +25,7 @@
         <sdef n="num"    c="number +1SG, +2SG, 3SG, 1PL. 2PL, 3PL"/>
         <sdef n="kinship"    c="+m.ego, +n.m.ego"/>
 		<sdef n="pragm_func"    c="..."/>
+		<sdef n="i-conj"    c="..."/>
         <sdef n="inf"    c="infinitive: aantsi, antsi, agaantsi"/>
         <!-- Location -->
         <sdef n="loc"    c="location"/>
