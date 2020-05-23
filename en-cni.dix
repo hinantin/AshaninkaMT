@@ -24,6 +24,7 @@
         <sdef n="voc"    c="vocative FLAGS +N (None). +1SG, +2SG, +3SG, +1PL, +2PL, +3PL"/>
         <sdef n="num"    c="number +1SG, +2SG, 3SG, 1PL. 2PL, 3PL"/>
         <sdef n="kinship"    c="+m.ego, +n.m.ego"/>
+		<sdef n="pragm.func"    c="..."/>
         <sdef n="inf"    c="infinitive: aantsi, antsi, agaantsi"/>
         <!-- Location -->
         <sdef n="loc"    c="location"/>
@@ -122,13 +123,13 @@
     </pardefs>
     <section id="personal_pronouns" type="standard">
 <!--POINTERPRNPERS-->
-        <e><p><l>I</l><r>naro<s n="pragm.func"/>+cont.d.TOP.<s n="num"/>+1SG</r></p><par n="Personal_pronouns"/></e>
-        <e><p><l>I</l><r>naaka<s n="pragm.func"/>+cont.d.TOP.<s n="num"/>+1SG.EXCL.</r></p><par n="Personal_pronouns"/></e>
-        <e><p><l>I</l><r>naka<s n="pragm.func"/>+cont.d.TOP.<s n="num"/>+1SG.EXCL.</r></p><par n="Personal_pronouns"/></e>
-        <e><p><l>he</l><r>iri<s n="pragm.func"/>+cont.d.TOP.<s n="num"/>+3SG<s n="gndr"/>+m.</r></p><par n="Personal_pronouns"/></e>
-        <e><p><l>he</l><r>iriro<s n="pragm.func"/>+cont.d.TOP.<s n="num"/>+3SG<s n="gndr"/>+m.</r></p><par n="Personal_pronouns"/></e>
-        <e><p><l>you</l><r>eroka<s n="pragm.func"/>+cont.d.TOP.<s n="num"/>+2SG</r></p><par n="Personal_pronouns"/></e>
-        <e><p><l>you</l><r>aviro<s n="pragm.func"/>+cont.d.TOP.<s n="num"/>+2SG</r></p><par n="Personal_pronouns"/></e>
+        <e><p><l>I</l><r>naro<s n="pragm_func"/>+cont.d.TOP.<s n="num"/>+1SG</r></p><par n="Personal_pronoun"/></e>
+        <e><p><l>I</l><r>naaka<s n="pragm_func"/>+cont.d.TOP.<s n="num"/>+1SG.EXCL.</r></p><par n="Personal_pronoun"/></e>
+        <e><p><l>I</l><r>naka<s n="pragm_func"/>+cont.d.TOP.<s n="num"/>+1SG.EXCL.</r></p><par n="Personal_pronoun"/></e>
+        <e><p><l>he</l><r>iri<s n="pragm_func"/>+cont.d.TOP.<s n="num"/>+3SG<s n="gndr"/>+m.</r></p><par n="Personal_pronoun"/></e>
+        <e><p><l>he</l><r>iriro<s n="pragm_func"/>+cont.d.TOP.<s n="num"/>+3SG<s n="gndr"/>+m.</r></p><par n="Personal_pronoun"/></e>
+        <e><p><l>you</l><r>eroka<s n="pragm_func"/>+cont.d.TOP.<s n="num"/>+2SG</r></p><par n="Personal_pronoun"/></e>
+        <e><p><l>you</l><r>aviro<s n="pragm_func"/>+cont.d.TOP.<s n="num"/>+2SG</r></p><par n="Personal_pronoun"/></e>
         <!--  -->
         <e><p><l>i</l><r>naaka</r></p><par n="Personal_pronoun"/></e>
         <e><p><l>i</l><r>naka</r></p><par n="Personal_pronoun"/></e>
