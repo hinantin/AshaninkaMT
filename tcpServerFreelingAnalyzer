@@ -1,6 +1,6 @@
 #!/bin/sh
 ### BEGIN INIT INFO
-# Provides: tcpserverAnalyze
+# Provides: tcpServerFreelingAnalyzer
 # Required-Start:    $remote_fs $syslog
 # Required-Stop:     $remote_fs $syslog
 # Default-Start:     2 3 4 5
@@ -9,18 +9,19 @@
 # Description:       Enable service provided by daemon.
 ### END INIT INFO
 
-export FREELINGSHARE=/usr/local/share/freeling
-export LD_LIBRARY_PATH=/usr/local/lib
-CONFIG=/usr/local/share/freeling/config
+FREELINGINSTALLPATH=/home/hinantin/FreeLing_install
+export FREELINGSHARE=$FREELINGINSTALLPATH/share/freeling
+export LD_LIBRARY_PATH=$FREELINGINSTALLPATH/lib
+CONFIG=$FREELINGINSTALLPATH/share/freeling/config
 
-dir="/usr/local/bin"
-dictPath="/usr/share/squoia/"
+dir="$FREELINGINSTALLPATH/bin/"
+port="50005"
 user="root"
 
-cmd="analyze -f $CONFIG/en.cfg --server --port 50005"
+cmd="analyzer --server -p $port -f $FREELINGINSTALLPATH/share/freeling/config/en.cfg --outlv dep --output conll"
 
 #name=`basename $0`
-name="tcpserServerAnalyze"
+name="tcpServerFreelingAnalyzer"
 pid_file="/var/run/$name.pid"
 stdout_log="/var/log/$name.log"
 stderr_log="/var/log/$name.err"
