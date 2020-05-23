@@ -12,7 +12,7 @@ enbilingualvocab:
 	@sed -i -e '/POINTERPRNPOSS/r file1' en-cni.dix 
 	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/vroot.prq.foma --file ../AshaninkaMorph/oroot.prq.foma --file ../AshaninkaMorph/neg.prq.foma > file1
 	@sed -i -e '/POINTERVROOT/r file1' en-cni.dix 
-	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/nroot.prq.foma --file ../AshaninkaMorph/vroot.prq.foma --file ../AshaninkaMorph/aroot.prq.foma --label "@section:noun@" --rootlabel "NRoot" --section "Noun" > file1
+	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/nroot.prq.foma --file ../AshaninkaMorph/vroot.prq.foma --file ../AshaninkaMorph/aroot.prq.foma --file ../AshaninkaMorph/nroot.es.foma --label "@section:noun@" --rootlabel "NRoot" --section "Noun" > file1
 	@sed -i -e '/POINTERNROOT/r file1' en-cni.dix 
 	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/prnpers.prq.foma --label "@section:prnpers@" --rootlabel "PrnPers" --section "Personal_pronoun" > file1
 	@sed -i -e '/POINTERPRNPERS/r file1' en-cni.dix 
@@ -48,5 +48,5 @@ compile:
 	@cp /usr/local/share/freeling/pt/locucions.dat freeling/pt
 
 # (cd /home/hinantin/ashaninka/AshaninkaMT && make enbilingualvocab; git commit -a -m "Adding changes"; git push -u origin master; lt-comp lr en-cni.dix en-cni.bin)
-
+# (cd /home/hinantin/ashaninka/AshaninkaMT && bash translate.sh "machine translation")
 
