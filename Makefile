@@ -47,6 +47,6 @@ compile:
 	@lt-comp lr prq.monodix prq-monodix.bin
 	@cp /usr/local/share/freeling/pt/locucions.dat freeling/pt
 
-
+# (cd /home/hinantin/ashaninka/AshaninkaMT && make enbilingualvocab; git commit -a -m "Adding changes"; git push -u origin master; lt-comp lr en-cni.dix en-cni.bin)
 
 
