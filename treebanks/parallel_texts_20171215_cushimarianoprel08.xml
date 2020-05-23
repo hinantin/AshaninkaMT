@@ -14623,6 +14623,7 @@ tonkaareki	[=tonkaare+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas]
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">i@@ ta@@ ak@@ e@@ ro ani r@@ ova@@ ne tonkaare@@ ki .</segmentation>
         <parsing/>
     </text>
     <text id="596">
@@ -14644,6 +14645,7 @@ otantoki	[o-][NPers][3n.m.poss+][--][=tanto+n.m.+inal@tsi.][NRoot][=wall (ES: pa
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">i@@ tahonk@@ ak@@ e@@ ro peyari komatire o@@ tanto@@ ki .</segmentation>
         <parsing/>
     </text>
     <text id="597">
@@ -14666,6 +14668,7 @@ piarentsi	[=piare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">o@@ taki@@ ri@@ ati inyeni kaniri ant@@ ant@@ ya@@ ri piare@@ ntsi .</segmentation>
         <parsing/>
     </text>
     <text id="598">
@@ -14691,6 +14694,7 @@ inkani	[=inkani+n.m.][NRoot][=rain (ES: lluvia)]
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">ari@@ rika o@@ tampia@@ t@@ e osheki eero o@@ pare@@ e inkani .</segmentation>
         <parsing/>
     </text>
     <text id="599">
@@ -14709,6 +14713,7 @@ ishinkitantari	[i-][VPers][3m.S/A+][--][=shinki][VRoot][=to.get.drunk; to.intoxi
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">tampoo@@ t@@ ak@@ e charine i@@ shinki@@ t@@ ant@@ a@@ ri .</segmentation>
         <parsing/>
     </text>
     <text id="600">
@@ -14728,6 +14733,7 @@ itanto	[i-][NPers][3m.poss+][--][=tanto+n.m.+inal@tsi.][NRoot][=wall (ES: pared)
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">i@@ tanto@@ ri@@ a@@ ak@@ e@@ ro pava@@ chori i@@ tanto .</segmentation>
         <parsing/>
     </text>
     <text id="601">
@@ -14750,6 +14756,7 @@ ityaapapankote	[i-][NPers][3m.poss+][--][=tyaapa+n.m.+poss@te.][NRoot][=hen (ES:
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">i@@ poonk@@ ak@@ e n@@ ani kampona i@@ tanto@@ t@@ ant@@ yaa@@ vo@@ ri i@@ tyaapa@@ panko@@ te .</segmentation>
         <parsing/>
     </text>
     <text id="603">
@@ -14772,6 +14779,7 @@ areetinkari	[=aree][VRoot][=to.arrive (ES: llegar); to.visit.with.sb. (ES: visit
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">p@@ am@@ ak@@ e@@ ri shima tashi@@ re@@ ntsi r@@ ov@@ av@@ ak@@ ia aree@@ tinkari .</segmentation>
         <parsing/>
     </text>
     <text id="604">
@@ -14795,6 +14803,7 @@ pavachori	[=pava+m.+poss@ni.][NRoot][=solar.deity; god (ES: dios); creator (PT: 
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">o@@ tashi@@ t@@ ak@@ e@@ ri ina hetari i@@ pahakaa@@ t@@ ak@@ e@@ ri pava@@ chori .</segmentation>
         <parsing/>
     </text>
     <text id="605">
@@ -14824,6 +14833,7 @@ tsitsi	[=tsitsi+n.m.+voc.][NRoot][=firewood (ES: leña)]
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">i@@ kant@@ ak@@ e entsi piyatsa@@ re : tee n@@ iyaa@@ t@@ e n@@ ay@@ e tsi@@ tsi .</segmentation>
         <parsing/>
     </text>
     <text id="606">
@@ -14844,6 +14854,7 @@ novito	[no-][NPers][1SG.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe 
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">tekira@@ ta no@@ n@@tsonk@@ e@@ ro tekira@@ ta no@@ n@@tsonk@@ e@@ ro n@@ ant@@ e no@@ vito .</segmentation>
         <parsing/>
     </text>
     <text id="607">
@@ -14864,6 +14875,7 @@ iteni	[i-][NPers][3m.poss+][--][=teni+n.m.+inal@tsi.][NRoot][=breast, bosom (ES:
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">ira@@ ak@@ a iriani ira@@ ako@@ t@@ a@@ vo i@@ teni .</segmentation>
         <parsing/>
     </text>
     <text id="608">
@@ -14886,6 +14898,7 @@ impaneki	[=iNpaneki+n.m.][NRoot][=fine.sand, sand.made.of.very.small.grains (ES:
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">i@@ heek@@ i i@@ itsoki teparo intsomoeki impaneki .</segmentation>
         <parsing/>
     </text>
     <text id="609">
