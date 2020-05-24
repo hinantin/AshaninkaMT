@@ -14436,12 +14436,14 @@ shiyakaantsipaye	[=shiyak][VRoot][=to.take.a.picture (ES: tomar.una.foto)][--][-
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">r@@ amin@@ i@@ ro pava@@ chori shiyak@@ aantsi@@ paye .</segmentation>
         <parsing/>
     </text>
     <text id="588.1">
         <sentence lang="prq" normalizationlevel="none">Osheki shiyakomentotsi antaboki nampitsiki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Osheki shiyakomentotsi antavoki nampitsiki.</sentence>
         <sentence lang="es">Hay muchos carros en las ciudades grandes.</sentence>
+        <sentence lang="en">There are many cars in big cities.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -14457,12 +14459,14 @@ nampitsiki	[=nampi+n.m.+inal@tsi.][NRoot][=village (ES: aldea; PT: aldeia); plac
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">osheki shiy@@ ako@@ mento@@ tsi antavo@@ ki nampi@@ tsi@@ ki .</segmentation>
         <parsing/>
     </text>
     <text id="588.2">
         <sentence lang="prq" normalizationlevel="none">Ramanantake obaeyirori iñaane Paba ishiyakomento iyaatantyari Tampoki. </sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ramanantake ovaeyirori inyaane Pava ishiyakomento iyaatantyari Tampoki. </sentence>
         <sentence lang="es">El pastor compró un bote a motor para viajar en el río Tambo.</sentence>
+        <sentence lang="en">The pastor bought a motor boat to travel on the Tambo River.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -14483,12 +14487,14 @@ tampoki	[=tampo+poss@ne.][NRoot][=main.river, Tambo.river][--][-ki][Cas][+LOC_LO
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">r@@ amanant@@ ak@@ e ov@@ aey@@ i@@ ro@@ ri i@@ nyaa@@ ne pava i@@ shiy@@ ako@@ mento iyaa@@ t@@ ant@@ ya@@ ri tampo@@ ki .</segmentation>
         <parsing/>
     </text>
     <text id="589">
         <sentence lang="prq" normalizationlevel="none">Iyotiro konki rantiro shobirentsi.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Iyotiro konki rantiro shovirentsi.</sentence>
         <sentence lang="es">Mi suegro es experto en hacer quenas.</sentence>
+        <sentence lang="en">My father-in-law is an expert in making quenas.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -14503,12 +14509,14 @@ shovirentsi	[=shovire+n.m.+inal@ntsi.][NRoot][=(single-flute).flute (ES: quena),
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">iyot@@ i@@ ro konki r@@ ant@@ i@@ ro shovire@@ ntsi .</segmentation>
         <parsing/>
     </text>
     <text id="590">
         <sentence lang="prq" normalizationlevel="none">Ijeeki shompoti inkaareki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Iheeki shompoti inkaareki.</sentence>
         <sentence lang="es">El bujurqui vive en la cocha.</sentence>
+        <sentence lang="en">The bujurqui-fish lives in the lake.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -14521,12 +14529,14 @@ inkaareki	[=inkaare+n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)][--][-ki][
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">i@@ heek@@ i shompoti inkaare@@ ki .</segmentation>
         <parsing/>
     </text>
     <text id="591">
         <sentence lang="prq" normalizationlevel="none">Motake shonkiri tonkareki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Motake shonkiri tonkareki.</sentence>
         <sentence lang="es">La perdiz cantó en la loma.</sentence>
+        <sentence lang="en">The partridge sang on the hill.</sentence>
         <morphology format="ashaninkamorph">
 
 
@@ -14539,12 +14549,14 @@ tonkareki	[=tonkare+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas][+
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">mot@@ ak@@ e shonkiri tonkare@@ ki .</segmentation>
         <parsing/>
     </text>
     <text id="592">
         <sentence lang="prq" normalizationlevel="none">Ipatimatiri eentsi shonkoro ikentantyaariri.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ipatimatiri eentsi shonkoro ikentantyaariri.</sentence>
         <sentence lang="es">Los niños persiguen lagartijas para picarlas.</sentence>
+        <sentence lang="en">Children chase lizards to sting them.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -14561,12 +14573,14 @@ ikentantyaariri	[i-][VPers][3m.S/A+][--][=kent][VRoot][=to.pierce.with.arrows, t
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">i@@ pat@@ ima@@ t@@ i@@ ri eentsi shonkoro i@@ kent@@ ant@@ yaa@@ ri@@ ri .</segmentation>
         <parsing/>
     </text>
     <text id="593">
         <sentence lang="prq" normalizationlevel="none">Opankitake noshabo shoñaki obaantsiki obakerari.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Opankitake noshavo shonyaki ovaantsiki ovakerari.</sentence>
         <sentence lang="es">Mi nieta sembró daledale en la chacra nueva.</sentence>
+        <sentence lang="en">My granddaughter planted daledale-plant in the new sown-field.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -14581,12 +14595,14 @@ ovaantsiki	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.lan
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">o@@ panki@@ t@@ ak@@ e no@@ shavo shonyaki ovaa@@ ntsi@@ ki .</segmentation>
         <parsing/>
     </text>
     <text id="594">
         <sentence lang="prq" normalizationlevel="none">Shookake ishinkine apa ipankitakeri obantsiki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Shookake ishinkine apa ipankitakeri ovantsiki.</sentence>
         <sentence lang="es">El maíz que mi papá sembró en la chacra está creciendo.</sentence>
+        <sentence lang="en">The corn my dad planted in the sown-field is growing.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -14603,12 +14619,14 @@ ovantsiki	[=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land 
 .	.[$.]
 
 </morphology>
+        <segmentation format="morfessor">shook@@ ak@@ e i@@ shinki@@ ne apa i@@ panki@@ t@@ ak@@ e@@ ri ova@@ ntsi@@ ki .</segmentation>
         <parsing/>
     </text>
     <text id="595">
         <sentence lang="prq" normalizationlevel="none">Itaakero ani robane tonkaareki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Itaakero ani rovane tonkaareki.</sentence>
         <sentence lang="es">Mi cuñado quemó la chacra en la loma.</sentence>
+        <sentence lang="en">My brother-in-law burned the sown-field on the hill.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -14631,6 +14649,7 @@ tonkaareki	[=tonkaare+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas]
         <sentence lang="prq" normalizationlevel="none">Itajonkakero peyari komatire otantoki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Itahonkakero peyari komatire otantoki.</sentence>
         <sentence lang="es">El díablo sopló a mi comadre en su cuarto.</sentence>
+        <sentence lang="en">The devil blew my child's godmother in her room.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
