@@ -1,0 +1,9 @@
+Binary write mode is NOT selected
+Scorer type: BLEU
+name: case value: true
+Loading reference from /home/hinantin/ashaninka/AshaninkaMT/moses/corpus/sentences.test.true.pan-ashaninka
+Data::m_score_type BLEU
+Data::Scorer type from Scorer: BLEU
+loading nbest from run1.best100.out.gz
+Exception: mert/BleuScorer.cpp:167 in virtual void MosesTuning::BleuScorer::prepareStats(size_t, const string&, MosesTuning::ScoreStats&) threw util::Exception because `sid >= m_references.size()'.
+Sentence id (47) not found in reference set

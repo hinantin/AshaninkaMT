@@ -1,0 +1,44 @@
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_TIME = "es_PE.UTF-8",
+	LC_MONETARY = "es_PE.UTF-8",
+	LC_ADDRESS = "es_PE.UTF-8",
+	LC_TELEPHONE = "es_PE.UTF-8",
+	LC_NAME = "es_PE.UTF-8",
+	LC_MEASUREMENT = "es_PE.UTF-8",
+	LC_IDENTIFICATION = "es_PE.UTF-8",
+	LC_NUMERIC = "es_PE.UTF-8",
+	LC_PAPER = "es_PE.UTF-8",
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to a fallback locale ("en_US.UTF-8").
+Executing: mkdir -p /home/hinantin/ashaninka/AshaninkaMT/moses/working/mert-work/filtered
+Stripping XML...
+Executing: /home/hinantin/ashaninka/mosesdecoder/scripts/training/../generic/strip-xml.perl < /home/hinantin/ashaninka/AshaninkaMT/moses/corpus/sentences.test.true.spanish > /home/hinantin/ashaninka/AshaninkaMT/moses/working/mert-work/filtered/input.17907
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_PAPER = "es_PE.UTF-8",
+	LC_ADDRESS = "es_PE.UTF-8",
+	LC_MONETARY = "es_PE.UTF-8",
+	LC_NUMERIC = "es_PE.UTF-8",
+	LC_TELEPHONE = "es_PE.UTF-8",
+	LC_IDENTIFICATION = "es_PE.UTF-8",
+	LC_MEASUREMENT = "es_PE.UTF-8",
+	LC_TIME = "es_PE.UTF-8",
+	LC_NAME = "es_PE.UTF-8",
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to a fallback locale ("en_US.UTF-8").
+pt:PhraseDictionaryMemory name=TranslationModel0 num-features=4 path=/home/hinantin/ashaninka/AshaninkaMT/moses/working/train/model/phrase-table.gz input-factor=0 output-factor=0
+Considering factor 0
+ro:LexicalReordering name=LexicalReordering0 num-features=6 type=wbe-msd-bidirectional-fe-allff input-factor=0 output-factor=0 path=/home/hinantin/ashaninka/AshaninkaMT/moses/working/train/model/reordering-table.wbe-msd-bidirectional-fe.gz
+Considering factor 0
+Filtering files...
+filtering /home/hinantin/ashaninka/AshaninkaMT/moses/working/train/model/phrase-table.gz -> /home/hinantin/ashaninka/AshaninkaMT/moses/working/mert-work/filtered/phrase-table.0-0.1.1.gz...
+382 of 6322 phrases pairs used (6.04%) - note: max length 10
+filtering /home/hinantin/ashaninka/AshaninkaMT/moses/working/train/model/reordering-table.wbe-msd-bidirectional-fe.gz -> /home/hinantin/ashaninka/AshaninkaMT/moses/working/mert-work/filtered/reordering-table.wbe-msd-bidirectional-fe.0-0.1...
+382 of 6322 phrases pairs used (6.04%) - note: max length 10

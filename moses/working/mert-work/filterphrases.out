@@ -1,0 +1,2 @@
+To run the decoder, please call:
+  moses -f /home/hinantin/ashaninka/AshaninkaMT/moses/working/mert-work/filtered/moses.ini -i /home/hinantin/ashaninka/AshaninkaMT/moses/working/mert-work/filtered/input.17907
