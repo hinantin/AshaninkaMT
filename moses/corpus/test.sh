@@ -57,4 +57,4 @@ cd /home/hinantin/ashaninka/AshaninkaMT/moses/working && \
 
 # /home/hinantin/ashaninka/mosesdecoder/bin/moses -f /home/hinantin/ashaninka/AshaninkaMT/moses/working/binarised-model/moses.ini
 
-# /home/hinantin/ashaninka/mosesdecoder/bin/moses -f /home/hinantin/ashaninka/AshaninkaMT/moses/working/binarised-model/moses.ini -i input-file 
+# /home/hinantin/ashaninka/mosesdecoder/bin/moses -f /home/hinantin/ashaninka/AshaninkaMT/moses/working/binarised-model/moses.ini -i input-file 7
