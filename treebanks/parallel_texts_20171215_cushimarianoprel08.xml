@@ -16971,4 +16971,24 @@ namitakotemiri	[n-][VPers][1SG.S/A+][--][=amitako+INF@/EP:t/aantsi.][VRoot][=to.
 </morphology>
         <segmentation format="subword-nmt">¿ oeta n@@amitako@@t@@e@@mi@@ri ? </segmentation>
     </text>
+    <text id="EOS7">
+        <sentence lang="prq" normalizationlevel="none">iitaa owaero awintawontsi raashitakemi?</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">iitaa ovaero avintavontsi raashitakemi?</sentence>
+        <!-- lit.: 'que.remedio.comiste..él.te.dio.de.brebaje' -->
+        <sentence lang="es">¿Con que remedio te ha curado?</sentence>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+iitaa	[=iitaa][WhPrn][=WH (EN: ,, lit.: it.is.called; ES: ,, lit.: él.es)]
+
+ovaero	[o-][NPers][3n.m.poss+][--][=vaero+gndr@n.m.+inal@ntsi.][NRoot][=name (ES: nombre)]
+
+avintavontsi	[=avint+INF@antsi.][VRoot][=to.cure (ES: curar)][--][-a][+VERB.CL:liquid][=liquid]a[--][-vo+gndr@n.m.][NS][+NMZ]vo[--][-ntsi+poss@alien.+syl@&gt;poly.][Gen][+nposs]ntsi
+
+raashitakemi	[Ø-][VPers][3m.S/A+][--][r=][IRR+][--][=aashi+~{V:/'to.take':aa/}{CL:/'leaf':shi/}+INF@/EP:t/aantsi.+I-Conj@act.v.][VRoot][=to.give.a.concoction/potion.to.sb. (ES: pusanguear,, dar.brebaje, ,, embrujar)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e[--][=mi][+2SG.O/P][=you (ES: te)]
+
+?	?[$.]
+
+</morphology>
+    </text>
 </parallel>
