@@ -400,7 +400,7 @@ eentsi	[=eentsi+n./m.+poss@te.][NRoot][=child (ES: niño)]
 
 abentyari	[=aventyari+m.][NRoot][=cry.baby (ES: llorón)]
 
-osheki	[=osheki][AdjRoot][=a.lot]
+osheki	[=osheki][NRoot][=a.lot]
 
 ikaimi	[i-][VPers][3m.S+][--][=kaim][VRoot][=to.scream (ES: gritar)][--][-i][+IRR]i
 
@@ -415,7 +415,7 @@ tsireniriki	[=tsireniri][NRoot][=night][--][-ki][Cas][+LOC.T]
 1	=irika	_	Root	Root	Root=PrnDem|trans=this|gndr=+m.|sem=+proximal	2	det	_	_
 2	=eentsi	_	Root	Root	Root=NRoot|trans=child|gndr=+n./m.|poss=+te	5	s-arg	_	_
 3	=aventyari	_	Root	Root	Root=NRoot|trans=cry.baby|gndr=+m.	2	adj-mod	_	_
-4	=osheki	_	Root	Root	Root=AdjRoot|trans=a.lot	6	adv	_	_
+4	=osheki	_	Root	Root	Root=NRoot|trans=a.lot	6	adv	_	_
 5	i-	_	VPers	VPers	VPers=3m.S+	6	s-subj	_	_
 6	=kaim	_	Root	Root	Root=VRoot|trans=to.call.sb.	11	s-arg-claus	_	_
 7	-i	_	STATUS	STATUS	STATUS=+IRR	6	status	_	_
@@ -477,7 +477,7 @@ jaka	[=haka+proximal.b.][PrnDem][=here, close.to.the.speaker (ES: aquí)]
         <sentence lang="en">The tatatao-vulture warns when it sees somebody approaching.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
-osheki	[=osheki][AdjRoot][=a.lot]
+osheki	[=osheki][NRoot][=a.lot]
 
 itsaati	[i-][VPers][3m.S+][--][=tsa][VRoot][=to.bark (ES: ladrar)][--][-a][+REP][=again.and.again]a[--][-t][+EP]t[--][-i][+IRR]i
 
@@ -494,7 +494,7 @@ pokatsiri	[=pok][VRoot][=to.come (ES: venir), to.arrive][--][-atsi][Asp][+STAT.I
         <parsing format="CoNLL" analysislevel="not-fully">
 
 
-1	=osheki	_	Root	Root	Root=AdjRoot|trans=a.lot	3	neg	_	_
+1	=osheki	_	Root	Root	Root=NRoot|trans=a.lot	3	neg	_	_
 2	i-	_	VPers	VPers	VPers=3m.S+	3	s-subj	_	_
 3	=tsa	_	Root	Root	Root=VRoot|trans=to.bark	15	sntc	_	_
 4	-at	_	
@@ -561,7 +561,7 @@ kempityaariki	[=kempityaari][NRoot][=NP][--][-ki][Cas][+LOC]
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-ijampitiro	[i-][VPers][3m.A+][--][=hampi][VRoot][=to.ask.(about.sth.) (ES: preguntar)][--][-t][+EP]t[--][-i][+IRR]i[--][=ro][+3n.m.O
+ijampitiro	[i-][VPers][3m.A+][--][=hampi][VRoot][=to.ask.(about.sth.) (ES: preguntar)][--][-t][+EP]t[--][-i][+IRR]i[--][=ro][+3n.m.O]
 
 charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]
 
@@ -589,7 +589,7 @@ nireri	[n-][VPers][1SG.S/A+][--][=ir][VRoot][=to.drink (ES: beber)][--][-e][+IRR
         <sentence lang="es">Koriari se cuelga vainilla en la espalda para estar perfumado.</sentence>
         <sentence lang="en">Koriari wears an aromatic love amulet on his back in order to be perfumed.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
-            
+
 
 itsatakiro	[i-][VPers][3m.A+][--][=tsa][VRoot][=to.hung.from.sth. (ES: colgarse)][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-i][+REAL]i[--][-ro][+3n.m.O]
 
@@ -601,7 +601,7 @@ ikajankantyaari	[i-][VPers][3m.S+][--][=kahank][VRoot][=to.perfume (ES: perfumar
 
 .	.[$.]
 
-            </morphology>
+</morphology>
         <parsing format="CoNLL" analysislevel="not-fully">
 
 
@@ -629,7 +629,7 @@ ikajankantyaari	[i-][VPers][3m.S+][--][=kahank][VRoot][=to.perfume (ES: perfumar
         <sentence lang="es">Responde a tu tío, te está llamando.</sentence>
         <sentence lang="en">Answer back to your uncle, he is calling you.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
-            
+
 
 pakeri	[p-][VPers][2A+][--][=ak][VRoot][=to.answer.back (ES: contestar, responder)][--][-e][+IRR]e[--][=ri][+3m.O]
 
@@ -641,7 +641,7 @@ ikaematimi	[i-][VPers][3m.S+][--][=kaem][VRoot][=to.call.sb.][--][-ati][ASP][+PR
 
 .	.[$.]
 
-            </morphology>
+</morphology>
         <parsing format="CoNLL" analysislevel="not-fully"/>
     </text>
     <text id="15">
@@ -658,7 +658,7 @@ nirentitsori	[n-][NPers][1SG.poss+][--][=irenti+m.][NRoot][=brother (kin.of.a.ma
 
 :	:[$.]
 
-[p-][VPers][2S+][--][=oy][VRoot][=to.eat (ES: comer)][--][-a][+IRR]a
+poya	[p-][VPers][2S+][--][=oy][VRoot][=to.eat (ES: comer)][--][-a][+IRR]a
 
 mamori	[=mamori+m.][NRoot][=fish.sp., sabalo (sci.nm.: brycon.sp.)]
 
@@ -675,6 +675,7 @@ akacharentsi	[=akacha][VRoot][=to.fish.with.a.line.and.a.hook, to.angle (ES: ans
         <sentence lang="es">Compré un anzuelo para pescar sábalos.</sentence>
         <sentence lang="en">I bought a hook in order to fish sabalo-fishes.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
+
 
 namanantake	[n-][VPers][1SG.S+][--][=amanant][VRoot][=to.buy (ES: comprar)][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e
 
@@ -1031,11 +1032,10 @@ rapatotya	[r-][VPers][3m.S/A+][--][=apato][VRoot][=to.gather (ES: juntar), to.me
 
 okantakena	[o-][VPers][3n.m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be; to.be.able][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=na][+1SG.O]
 
-oriani	[=oriani+n.m.][AdjRoot][=small]
+oriani	[=oriani+n.m.][NRoot][=small]
 
 :	:[$.]
 
-???
 nareetakitakabo	[n-][VPers][1SG.S/A+][--][=aree][VRoot][=to.arrive (ES: llegar); to.visit.with.sb. (ES: visitar.a.algn.)][--][-t][+EP]t[--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-it][Asp][+ANT][=past/non-past.action:before]it[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a+n.fut.][+REAL]a[--][=vo][+3n.m.O]
 
 ameeni	[=ameeni+n.m.+poss@ti.][NRoot][=grandmother (fem.ego); granddaughter (fem.ego)]
@@ -1057,7 +1057,7 @@ noñakiri	[no-][VPers][1SG.S/A+][--][=ny][VRoot][=to.see, to.look.for; to.visit]
 
 antamiki	[=antami][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.forest][--][-ki][Cas][+LOC_LOC.T]
 
-antari	[=antari+m.][AdjRoot][=big; mature]
+antari	[=antari+m.][NRoot][=big; mature]
 
 amempori	[=amempori+m.][NRoot][=vulture (ES: buitre); condor; king.vulture (sarcoramphus.papa)]
 
@@ -1170,7 +1170,7 @@ obaantsiki	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.lan
 
 itotakero	[i-][VPers][3m.S/A+][--][=to][VRoot][=to.cut (ES: cortar)][--][-t][+EP]t[--][-ak][+CAUS.SOC]ak[--][-e][+REAL]e[--][=ro][+3n.m.O]
 
-???
+hataantaneri	[=ha+INF@/EP:t/aantsi.][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-a][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]a[--][-ant][Asp][+APPL.REAS][=REAS (EN: in.order.to, so.that; ES: para.que); INST (EN: that.with.which.sb.does.sth., sb's.tool)]ant[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ni~ne][+3SG.O/P][=it/him/her (ES: le/lo/la)][--][=ri+tns@n.fut.][NS][+REL][=REAL]
 
 amporetsate	[a-][NPers][3n.m.poss+][--][=amporetsa][NRoot][=intestine][--][-te][Gen][+aln.poss.]te
 
@@ -1187,7 +1187,7 @@ isheeni	[=isheeni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
         <sentence lang="es">La mujer trae huito verde para teñirse el cabello.</sentence>
         <sentence lang="en">The woman brings green huito to dye her hair.</sentence>
         <morphology>
-            
+
 amiro	[=am][VRoot][=to.bring (ES: traer)][--][-i][+IRR]i[--][=ro][+3n.m.O]
 
 tsinane	[=tsinane+n.m.][NRoot][=woman]
@@ -1201,7 +1201,7 @@ otiritantyaabori	[o-][VPers][3n.m.A+][--][=tiri][VRoot][=to.anoint (ES: frotar)]
 oishi	[o-][NPers][3n.m.poss+][--][=kishi+n.m.+inal@tsi.][NRoot][=hair]
 
 .	.[$.]
-            </morphology>
+</morphology>
     </text>
     <text id="38">
         <sentence lang="prq" normalizationlevel="none">Noñaakeri maniro raniiti antamiki.</sentence>
@@ -1680,7 +1680,7 @@ sheripiari	[=sheripiari+m.+sem@healer.][NRoot][=shaman (ES: curandero; tabaquero
 
 maniti	[=maniti][NRoot][=tiger (ES: tigre); jaguar (sci.nm.: panthera.onca)]
 
-antari	[=antari+m.][AdjRoot][=big; mature]
+antari	[=antari+m.][NRoot][=big; mature]
 
 omoonaki	[=omoona][NRoot][=hole][--][-ki][Cas][+LOC_LOC.T]
 
@@ -1703,7 +1703,7 @@ ashiyakero	[=ashiy][VRoot][=to.suck (prbly.sugar.cane)][--][-ak][+CAUS.SOC]ak[--
 
 isheni	[=isheni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
 
-pochari	[=pochari][AdjRoot][=sweet (ES: dulce)]
+pochari	[=pochari][NRoot][=sweet (ES: dulce)]
 
 janko	[=hanko+n.m.][NRoot][=sugar.cane (ES: caña.de.azucar; botany.nm.: saccharum.officinale)]
 
@@ -1965,7 +1965,7 @@ shirampari	[=shirampari+m.][NRoot][=male (ES: hombre)]
 
 batsanti	[=vatsa][VRoot][=to.get.fat, to.gain.weight (ES: engordar)][--][-nti+m.][NS][+ADJ.PARTIC]nti
 
-oshekini	[=osheki][AdjRoot][=much][--][-ni][DEGR][+AUG_INTNS]
+oshekini	[=osheki][NRoot][=much][--][-ni][DEGR][+AUG_INTNS]
 
 iyeenka	[i-][NPers][3m.poss+][--][=yeenka+n.m.+inal@ntsi.][NRoot][=fat, lard, grease (ES: manteca, grasa, cebo); body.fat]
 
@@ -2073,7 +2073,7 @@ pabachori	[=pavachori+m.+poss@ti.][NRoot][=uncle (kin.of.a.male)]
         <morphology>
 
 
-oshekini	[=osheki][AdjRoot][=many][--][-ni][DEGR][+AUG_INTNS]
+oshekini	[=osheki][NRoot][=many][--][-ni][DEGR][+AUG_INTNS]
 
 ibiti	[i-][NPers][3m.poss+][--][=viti+n.m.+inal@tsi.][NRoot][=feather (ES: pluma)]
 
@@ -2092,7 +2092,7 @@ shonkiri	[=shonkiri+poss@ti.][NRoot][=big.partridge.sp. (ES: perdiz)]
         <morphology>
 
 
-osheki	[=osheki][AdjRoot][=a.lot]
+osheki	[=osheki][NRoot][=a.lot]
 
 ibiti	[i-][NPers][3m.poss+][--][=viti+n.m.+inal@tsi.][NRoot][=bristle (ES: cerda)]
 
@@ -2117,7 +2117,7 @@ ibiti	[i-][NPers][3m.poss+][--][=viti+n.m.+inal@tsi.][NRoot][=hair (ES: vello, p
 
 ani	[=ani+m.+poss@ri.][NRoot][=brother.in.law (kin.of.a.male)]
 
-maaroni	[=maaroni][AdjRoot][=entire]
+maaroni	[=maaroni][NRoot][=entire]
 
 ibatsaki	[i-][NPers][3m.poss+][--][=vatsa+n./m.+inal@tsi.][NRoot][=flesh, body (ES: cuerpo)][--][-ki][Cas][+LOC_LOC.T]
 
@@ -2267,7 +2267,7 @@ inoshikake	[i-][VPers][3m.S/A+][--][=noshik][VRoot][=to.pull.sth. (ES: jalar)][-
 
 notsipamintsare	[no-][NPers][1SG.poss+][--][=tsipamintsare][NRoot][=friend (ES: amigo)]
 
-antari	[=antari+m.][AdjRoot][=big]
+antari	[=antari+m.][NRoot][=big]
 
 charaba	[=charava][NRoot][=zungaro-fish (ES: súngaro)]
 
@@ -2311,7 +2311,7 @@ imintsaabakero	[i-][VPers][3m.S/A+][--][min=][M.CAUS+][--][=tsaav][VRoot][=to.fe
 
 nana	[=nana+n.m.+voc.+poss@te:ti.][NRoot][=mom, mother (kin.of.a.fe/male; ES: mamá)]
 
-antari	[=antari+m.][AdjRoot][=big; mature]
+antari	[=antari+m.][NRoot][=big; mature]
 
 chebiro	[=cheviro+m.][NRoot][=fish.sp. (ES: macana, porra)]
 
@@ -2392,7 +2392,7 @@ cheenti	[=cheenti][NRoot][=(barbed-mouth).armored.catfish.sp. (ES: sp.de.caracha
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-oshekini	[=osheki][AdjRoot][=many][--][-ni][AS][+ADV]
+oshekini	[=osheki][NRoot][=many][--][-ni][AS][+ADV]
 
 iche	[i-][NPers][3m.poss+][--][=che+m.+inal@tsi.][NRoot][=thorn, spiny.thorn]
 
@@ -2619,7 +2619,7 @@ tsireniriki	[=tsireniri][NRoot][=night (ES: noche)][--][-ki][Cas][+LOC.T]
         <sentence lang="es">Mi abuelo tiene labios gruesos.</sentence>
         <sentence lang="en">My grandfather has thick lips.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
-            
+
 
 Antabotonaatake	[=antavo+gndr@n.m.+poss@nposs.adj.][NRoot][=big; mature][^VBZ][--][=tonaa+gndr@n.m.+inal@tsi.][IncNRoot][=snout (ES: hocico)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i~e+tns@n.fut.+C.I@act.v.+RSS@00][MODALITY][+REAL][=after.-ak/-ah]e
 
@@ -2868,7 +2868,7 @@ payanti	[=payanti+n.m.+poss@te:ti.][NRoot][=plantain (banana-like.fruit.that.nee
         <morphology>
 
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 ikemaenkatiro	[i-][VPers][3m.S/A+][--][=kem][VRoot][=to.hear, to.listen; to.sense (ES: sentir)][--][-a][+EP]a[--][=enka][NRoot][=voice (ES: voz), speech.sound (inmaterial); odor (ES: olor)]enka[--][-t][+EP]t[--][-i][+REAL]i[--][=ro][+3n.m.O]
 
@@ -2981,7 +2981,7 @@ atiri	[=atiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]
 
 ebankari	[=evankari+m.][NRoot][=young.man, adolescent]
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 iperata	[i-][VPers][3m.S/A+][--][=per][VRoot][=to.be.idle/lazy, to.laze.around (ES: estar.con.pereza); to.bum.around (ES: vagar)][--][-a][+REAL]a[--][=ta][MODAL][+OPT_SUBJ]
 
@@ -3041,7 +3041,7 @@ pebonkiritsi	[p-][VPers][2S/A+][--][=evonkiri+m.][NRoot][=medium; small (ES: med
 
 te	[=te+future.neg.][Neg][=NEG.REAL]
 
-pantarite	[p-][VPers][2S/A+][--][=antari+m.][AdjRoot][=big; mature]+vbz.[--][-t][+EP]t[--][-e][+IRR]e
+pantarite	[p-][VPers][2S/A+][--][=antari+m.][NRoot][=big; mature]+vbz.[--][-t][+EP]t[--][-e][+IRR]e
 
 .	.[$.]
 
@@ -3083,7 +3083,7 @@ itonkake	[i-][VPers][3m.S/A+][--][=tonk][VRoot][=to.shoot (ES: balear); to.burst
 
 pabachori	[=pavachori+m.+poss@ti.][NRoot][=uncle (kin.of.a.male)]
 
-antari	[=antari+m.][AdjRoot][=big; mature]
+antari	[=antari+m.][NRoot][=big; mature]
 
 maniro	[=maniro+m.][NRoot][=deer (ES: venado); red.deer (ES: venado.rojo; sci.nm.: mazama.americana); gray.deer (ES: venado.gris; sci.nm.: mazama.gouazoubira)]
 
@@ -3300,7 +3300,7 @@ akonkire	[a-][NPers][1PL.poss+][--][=konki+m.+poss@ri:re.][NRoot][=father.in.law
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 rakabaantetae	[r-][VPers][3m.S/A+][--][=ak][VRoot][=to.answer.back (ES: contestar, responder)][--][-av][+RCP]av[--][-a][+EP]a[--][-ant][Asp][+APPL.REAS][=in.order.to]ant[--][-e][+IRR]e[--][-t][+EP]t[--][=ae][+1INCL.PL.O]ae
 
@@ -3715,7 +3715,7 @@ imooshiki	[i-][NPers][3m.poss+][--][=moo+n.m.+inal@tsi.][NRoot][=hole (ES: hueco
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 impaneki	[=iNpaneki+n.m.][NRoot][=fine.sand, sand.made.of.very.small.grains (ES: arena)]
 
@@ -3765,7 +3765,7 @@ impanekiki	[=iNpaneki+n.m.][NRoot][=fine.sand, sand.made.of.very.small.grains (E
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 impokiro	[=impokiro+m.][NRoot][=star (ES: estrella)]
 
@@ -3788,7 +3788,7 @@ oharentsite	[o-][VPers][3n.m.S/A+][--][=harentsi+m.][NRoot][=year (ES: año); dr
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 okaminaena	[o-][VPers][3n.m.S/A+][--][=kamin][VRoot][=to.advise; to.give.advice][--][-a][+EP]a[--][-e][+REAL]e[--][=na][+1SG.O]
 
@@ -3950,7 +3950,7 @@ inyaakeri	[i-][VPers][3m.S/A+][--][=ny][VRoot][=to.see, to.look.for; to.visit][-
 
 konki	[=konki+m.][NRoot][=father; father.in.law; uncle (kin.of.a.male; ES: suegro)]
 
-antari	[=antari+m.][AdjRoot][=big; mature]
+antari	[=antari+m.][NRoot][=big; mature]
 
 noonki	[=noonki+m.][NRoot][=boa]
 
@@ -4190,14 +4190,14 @@ apa	[=apa+m.][NRoot][=father (kin.of.a.fe/male)]
         <sentence lang="en">Kamanyari tripped over, he bled a lot [lit. a lot of his blod came out].</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
-[
+
 rantivataka	[r-][VPers][3m.S/A+][--][=antiva][VRoot][=to.trip.(over.sth.) (ES: tropezar)][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-a][+REAL]a
 
 kamanyari	[=kamanyari][NRoot][=NP, person's.name]
 
 shitovanake	[=shitov][VRoot][=to.leave (ES: salir); to.escape][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 irira	[ir-][NPers][3m.poss+][--][=ira+n.m.+inal@ntsi.+poss@ni.][NRoot][=blood (ES: sangre)]
 
@@ -4248,7 +4248,7 @@ yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: h
 
 iraenkari	[=ir][VRoot][=to.drink (ES: beber)][--][-a][+EP]a[--][-enka][NS][+NMZ.QLTY]enka[--][-ri+m.][NS][+NMZ]
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 rantabaeshiti	[r-][VPers][3m.S/A+][--][=ant][VRoot][=to.beat, to.hit; to.build, to.do, to.make][--][-a][+EP]a[--][-vae][ASP][+DUR]vae[--][-shi][+APPL.INT][=purpose,(with.the).intent]shi[--][-t][+EP]t[--][-i][+IRR]i
 
@@ -4311,7 +4311,7 @@ pamakenavo	[p-][VPers][2S/A+][--][=am][VRoot][=to.bring (ES: traer)][--][-ak][+C
 
 kotsironaki	[=kotsi][VRoot][=to.cook (ES: cocinar)][--][-ro+n.m.][NS][+NMZ]ro[--][-naki][+CL:round.hollow][=round,hollow;interior.space;vacuous,round]
 
-oriani	[=oriani+n.m.][AdjRoot][=small]
+oriani	[=oriani+n.m.][NRoot][=small]
 
 .	.[$.]
 
@@ -4722,7 +4722,7 @@ hampovatsa	[=hampovatsa+n.m.+poss@te.][NRoot][=mud (ES: barro); clay; swamp-like
 
 ikentakeri	[i-][VPers][3m.S/A+][--][=kent][VRoot][=to.pierce.with.arrows, to.shoot.arrows; to.sting (ES: picar)][--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=ri][+3m.O]
 
-antari	[=antari+m.][AdjRoot][=big; mature]
+antari	[=antari+m.][NRoot][=big; mature]
 
 hani	[=hani+m.][NRoot][=wasp]
 
@@ -5055,7 +5055,7 @@ koshitakeriri	[=koshi][VRoot][=to.steal; to.rob (ES: robar)][--][-t][+EP]t[--][-
         <morphology>
 
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 haye	[=haye][NRoot][=ant.sp. (shirataco)]
 
@@ -6024,7 +6024,7 @@ pitivine	[pi-][NPers][2poss+][--][=tivi+n.m.+poss@ni:ne.][NRoot][=salt (ES: sal)
         <sentence lang="prq" normalizationlevel="none">Pincheke kapiro nakijeekakotantyari jetari.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Pincheke kapiro nakiheekakotantyari hetari.</sentence>
         <sentence lang="es">Corta paca para cocinar la carachama.</sentence>
-        <sentence lang="en">???</sentence>
+        <sentence lang="en">Cut paca-bamboo to cook the carachama-catfish.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -6221,7 +6221,7 @@ iyaniri	[i-][NPers][3m.poss+][--][=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yuc
 
 irika	[=irika+m.+proximal][PrnDem][=this (ES: este)]
 
-katsimari	[=katsimari][AdjRoot][=bad (ES: malo); fierce, rabid (ES: bravo, rabioso)]
+katsimari	[=katsimari][NRoot][=bad (ES: malo); fierce, rabid (ES: bravo, rabioso)]
 
 otsitsi	[=otsitsi+m.+poss@te.][NRoot][=dog (ES: perro)]
 
@@ -6246,7 +6246,7 @@ entsi	[=entsi+n./m.+poss@te.][NRoot][=child (ES: niño)]
 
 nokemakero	[no-][VPers][1SG.S/A+][--][=kem][VRoot][=to.hear, to.listen; to.sense (ES: sentir)][--][-ak][ASP][+PRF]ak[--][-e][+REAL]e[--][=ro][+3n.m.O]
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 katsinkaiteri	[=katsinkaite][VRoot][=to.be.cold][--][-ri+m.][NS][+NMZ]ri
 
@@ -6472,7 +6472,7 @@ ani	[=ani+m.+poss@ri.][NRoot][=brother.in.law (kin.of.a.male)]
 
 kemi	[=kemi+n.m.+poss@ne.][NRoot][=pumpkin.sp. (ES: zapallo, calabaza; botany.nm.: cucurbita.sp.); squash]
 
-tashirentsi	[=tashire+n./m.+inal.][AdjRoot][=roasted (i.e.: kaniri/manioc, shima/fish, kemi/pumpkin)][--][-ntsi+alien.][Gen][+nposs]ntsi
+tashirentsi	[=tashire+n./m.+inal.][NRoot][=roasted (i.e.: kaniri/manioc, shima/fish, kemi/pumpkin)][--][-ntsi+alien.][Gen][+nposs]ntsi
 
 .	.[$.]
 
@@ -6560,7 +6560,7 @@ otsiti	[=otsiti+m.+poss@te.][NRoot][=dog (ES: perro)]
 
 iitiki	[i-][NPers][3m.poss+][--][=iti+n.m.+inal@ntsi.][NRoot][=foot (ES: pie)][--][-ki][Cas][+LOC_LOC.T]
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 kenitsi	[=keni+m.+inal@tsi.][NRoot][=red.mite (ES: pique, nigua); decomposition.worm.sp.; hookworm (ES: gusano)][--][-tsi+alien.][Gen][+nposs]tsi
 
@@ -6606,7 +6606,7 @@ antavaerontsi	[=antavae][VRoot][=to.work (ES: trabajar)][--][-ro+n.m.][NS][+NMZ]
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 ikenkishiriaka	[i-][VPers][3m.S/A+][--][=kenkishiri][VRoot][=to.believe, to.think][--][-ak][ASP][+PRF]ak[--][-a][+IRR]a
 
@@ -6930,7 +6930,7 @@ yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: h
 
 raaki	[r-][VPers][3m.S/A+][--][=a][VRoot][=to.get][--][-ak][ASP][+PRF]ak[--][-i][+REAL]i
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 shima	[=shima+m.+poss@ni.][NRoot][=fish; fish.sp., boquichico-fish (ES: boquichico, chupadora; sci.nm.: prochilodus.nigricans)]
 
@@ -6974,7 +6974,7 @@ iheekaeyeni	[i-][VPers][3m.S/A+][--][=heek][VRoot][=to.live, to.dwell, to.inhabi
 
 kipatsiki	[=kipatsi+n.m.+poss@te:ti.][NRoot][=ground, earth (ES: tierra); mud; land][--][-ki][Cas][+LOC_LOC.T]
 
-mavoeni	[=mavoeni][AdjRoot][=everybody, all (ES: todos)]
+mavoeni	[=mavoeni][NRoot][=everybody, all (ES: todos)]
 
 anyiinkari	[=anyi][VRoot][=to.live (ES: vivir)][--][-inka][NS][+NMZ.QLTY]inka[--][-ri+m.][NS][+NMZ]
 
@@ -7665,7 +7665,7 @@ atiri	[=atiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]
 
 komintsare	[=komintsa][VRoot][=to.hunt (ES: cazar)][--][-re+m.][NS][+ADJ.NMZ]re
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 ikobaaetiri	[i-][VPers][3m.S/A+][--][=kov][VRoot][=to.want][--][-a][+EP]a[--][-ae][+IMP.P]ae[--][-t][+EP]t[--][-i][+REAL]i[--][=ri][+3m.O]
 
@@ -7711,7 +7711,7 @@ raake	[r-][VPers][3m.S/A+][--][=a][VRoot][=to.take (ES: agarrar)][--][-ak][ASP][
 
 apa	[=apa+m.][NRoot][=father (kin.of.a.fe/male)]
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 kompiroshi	[=kompiroshi][NRoot][=leaf.from.yarina-tree (ES: hoja.de.la.yarina)]
 
@@ -7934,7 +7934,7 @@ nonampiki	[no-][NPers][1SG.poss+][--][=nampi+n.m.+inal@tsi.][NRoot][=village (ES
 
 aayetirori	[=aa][VRoot][=to.take (ES: agarrar)][--][-ye][+DIST]ye[--][-t][+EP]t[--][-i][+REAL]i[--][=ro][+3n.m.O][--][=ri][NS][+REL]
 
-maaroni	[=maaroni][AdjRoot][=everybody, all, entire]
+maaroni	[=maaroni][NRoot][=everybody, all, entire]
 
 ???
 inyaayetiri	[i-][VPers][3m.S/A+][--][=ny][VRoot][=to.see, to.look.for; to.visit][--][-aa][+CL:liquid][=liquid]aa[--][-ye][+DIST]ye[--][-t][+EP]t[--][-i][+REAL]i[--][=ri][NS][+REL]
@@ -8001,7 +8001,7 @@ koshoshiko	[=koshoshiko][NRoot][=dolphin.sp. (ES: bufeo,delfin)]
 ???
 omotyaaki	[=omo][NRoot][=hole (ES: hueco)][--][-tyaaki][+CL:flower][=flower]
 
-antavoki	[=antavo+n.m.][AdjRoot][=big; mature][--][-ki][Cas][+LOC_LOC.T]
+antavoki	[=antavo+n.m.][NRoot][=big; mature][--][-ki][Cas][+LOC_LOC.T]
 
 nihaa	[=nihaa+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
 
@@ -8085,6 +8085,7 @@ oyanire	[o-][NPers][3n.m.poss+][--][=kanire+n.m.+voc@nposs.][NRoot][=(sweet).man
         <sentence lang="prq" normalizationlevel="none">Riyaatatye konki Jatipoki raanatyeero maboeni ishintopaye.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Riyaatatye konki Hatipoki raanatyeero mavoeni ishintopaye.</sentence>
         <sentence lang="es">Mi suegro va a viajar a Satipo llevando a todas sus hijas.</sentence>
+        <sentence lang="en">My father-in-law is going to travel to Satipo carrying all his daughters.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -8096,7 +8097,7 @@ hatipoki	[=hatipo][NRoot][=NP, Satipo.province][--][-ki][Cas][+LOC_LOC.T]
 
 raanatyeero	[r-][VPers][3m.S/A+][--][=a][VRoot][=to.take (ES: agarrar)][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-aty][ASP][+PROG]aty[--][-ee][+REAL]ee[--][=ro][+3n.m.O]
 
-mavoeni	[=mavoeni][AdjRoot][=everybody, all (ES: todos)]
+mavoeni	[=mavoeni][NRoot][=everybody, all (ES: todos)]
 
 ishintopaye	[i-][NPers][3m.poss+][--][=shinto+n.m.+inal@tsi.][NRoot][=daughter (kin.of.a.fe/male)][--][-paye][Num][+PL_DIST]
 
@@ -8109,6 +8110,7 @@ ishintopaye	[i-][NPers][3m.poss+][--][=shinto+n.m.+inal@tsi.][NRoot][=daughter (
         <sentence lang="prq" normalizationlevel="none">Robakabo maakookaba roretane nani.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Rovakavo maakookava roretane nani.</sentence>
         <sentence lang="es">La panguana comió el comedero de mi papá.</sentence>
+        <sentence lang="en">The panguana ate my dad's trough-food.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -8339,7 +8341,7 @@ antaiki	[N=][IRR+][--][=atai][VRoot][=to.go.up (ES: subir); to.climb (ES: trepar
 
 kashiri	[=kashiri+m.][NRoot][=moon (ES: luna); month (ES: mes); lunar.deity]
 
-antavotantyaari	[=antavo+n.m.][AdjRoot][=big; mature]+vbz.[--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-yaa][+IRR]yaa[--][=ri][NS][+REL]
+antavotantyaari	[=antavo+n.m.][NRoot][=big; mature]+vbz.[--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-yaa][+IRR]yaa[--][=ri][NS][+REL]
 
 ovatsa	[o-][NPers][3n.m.poss+][--][=vatsa+n./m.+inal@tsi.][NRoot][=meat (ES: carne), mass; flesh, body (ES: cuerpo); inner.part.of.sth. (tender.part, cogollo)]
 
@@ -8547,7 +8549,7 @@ inoshikakeri	[i-][VPers][3m.S/A+][--][=noshik][VRoot][=to.pull.sth. (ES: jalar);
 
 pava	[=pava+m.+poss@ni.][NRoot][=solar.deity; god (ES: dios); creator (PT: Deus.solar,, o.demiurgo.ashaninka); dad, father]
 
-antari	[=antari+m.][AdjRoot][=big; mature]
+antari	[=antari+m.][NRoot][=big; mature]
 
 mamori	[=mamori+m.][NRoot][=fish.sp., sabalo (sci.nm.: brycon.sp.)]
 
@@ -9165,7 +9167,7 @@ irinta	[=irinta+m.+distal][PrnDem][=~]
 
 mayempiri	[=mayempiri+m.][NRoot][=womanizer (ES: mujeriego)]
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 yookakaantake	[y-][VPers][3m.S/A+][--][=ook][VRoot][=to.abandon; to.leave (ES: dejar); to.throw; to.throw.away/out (ES: botar)][--][-aka][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]aka[--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e
 
@@ -9211,7 +9213,7 @@ imenkotake	[i-][VPers][3m.S/A+][--][=menko][VRoot][=to.smoke.sth. (e.g.: fish; E
 
 koriari	[=koriari][NRoot][=person's.name, NP]
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 shima	[=shima+m.+poss@ni.][NRoot][=fish; fish.sp., boquichico-fish (ES: boquichico, chupadora; sci.nm.: prochilodus.nigricans)]
 
@@ -9275,7 +9277,7 @@ rakachaatake	[r-][VPers][3m.S/A+][--][=akachaa][VRoot][=to.fish.with.a.line.and.
 
 nani	[n-][NPers][1SG.poss+][--][=ani+m.+poss@ri.][NRoot][=brother.in.law (kin.of.a.male)]
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 mereto	[=mereto+m.][NRoot][=fish.sp., mojarra-fish (ES: anchoveta, mojarra; sci.nm.: astyanax.fasciatus)]
 
@@ -9662,7 +9664,7 @@ ominkiake	[o-][VPers][3n.m.S/A+][--][=minki][VRoot][=to.put][--][-ak][ASP][+PRF]
 
 isheni	[=isheni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 tsitsi	[=tsi+poss@ma.+voc.][NRoot][=firewood (ES: leña)][--][-tsi+alien.][Gen][+nposs]tsi
 
@@ -9684,7 +9686,7 @@ eentsi	[=eentsi+n./m.+poss@te.][NRoot][=child (ES: niño)]
 
 motinti	[=motinti+m.][NRoot][=paunchy]
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 ishitsane	[i-][NPers][3m.poss+][--][=shitsane+m.+inal@ntsi.][NRoot][=pinworm (ES: bicho), intestinal.worm (ES: lombríz.intestinal)]
 
@@ -9823,7 +9825,7 @@ niravake	[n-][VPers][1SG.S/A+][--][=ir][VRoot][=to.cry][--][-av+object.oriented]
 
 ,	,[$.]
 
-oshekini	[=osheki][AdjRoot][=many; much; a.lot][--][-ni][AS][+ADV]
+oshekini	[=osheki][NRoot][=many; much; a.lot][--][-ni][AS][+ADV]
 
 nomire	[n-][VPers][1SG.S/A+][--][om=][AGT.CAUS+][--][=ir][VRoot][=to.drink (ES: beber)][--][-e][+REAL]e
 
@@ -9849,7 +9851,7 @@ tsinane	[=tsinane+n.m.][NRoot][=female, woman (ES: mujer); young.girl]
 
 nonintakemi	[no-][VPers][1SG.S/A+][--][=nint][VRoot][=to.want (ES: gustar); to.love][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e[--][=mi][+2SG.O]
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 ,	,[$.]
 
@@ -9934,7 +9936,7 @@ ovaantsiki	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.lan
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-antari	[=antari+m.][AdjRoot][=big; mature]
+antari	[=antari+m.][NRoot][=big; mature]
 
 noonki	[=noonki+m.][NRoot][=boa]
 
@@ -10025,7 +10027,7 @@ aririka	[=ari][PostPol][=PP][--][=rika][+COND]::[=when (temporal.simultaneity), 
 ???
 oshaaviityaanake	[=oshaaviityaanake][AdvRoot][=afternoon (ES: tarde)]
 
-oshekini	[=osheki][AdjRoot][=many; much; a.lot][--][-ni][AS][+ADV]
+oshekini	[=osheki][NRoot][=many; much; a.lot][--][-ni][AS][+ADV]
 
 amampaantsi	[=amamp][VRoot][=to.sing (ES: cantar)][--][-aantsi][NS][+NMZ.INF]aantsi
 
@@ -10242,7 +10244,7 @@ irika	[=irika+m.+proximal][PrnDem][=this (ES: este)]
 
 ovametantatsiri	[=ovame][VRoot][=to.teach (ES: enseñar)][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-atsi][Asp][+STAT.IPRF]atsi[--][=ri][NS][+REL]
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 ???
 
@@ -10372,7 +10374,7 @@ kaminirio	[=kaminirio][NRoot][=person's.name, NP]
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 oveenikentsi	[=oveenikentsi][NRoot][=flea (ES: pulga)]
 
@@ -10658,7 +10660,7 @@ inchato	[=inchato+n.m.][NRoot][=tree (ES: árbol)]
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-antavo	[=antavo+n.m.][AdjRoot][=big; mature]
+antavo	[=antavo+n.m.][NRoot][=big; mature]
 
 omoti	[o-][NPers][3n.m.poss+][--][=moti+inal@tsi.][NRoot][=stomach, belly]
 
@@ -10745,7 +10747,7 @@ isheni	[=isheni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 ???
 
@@ -10875,7 +10877,7 @@ imoti	[i-][NPers][3m.poss+][--][=moti+inal@tsi.][NRoot][=stomach, belly]
 
 eentsi	[=eentsi+n./m.+poss@te.][NRoot][=child (ES: niño)]
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 rovaka	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a][+REAL]a
 
@@ -10911,7 +10913,7 @@ ootamentotsi	[=ootamentotsi][NRoot][=lighter (ES: mechero), kerosene.lamp, paraf
         <morphology format="ashaninkamorph">
 
 
-oshekini	[=osheki][AdjRoot][=many; much; a.lot][--][-ni][AS][+ADV]
+oshekini	[=osheki][NRoot][=many; much; a.lot][--][-ni][AS][+ADV]
 
 opane	[o-][NPers][3n.m.poss+][--][=pane+poss@tsi.][NRoot][=dust (ES: polvo)]
 
@@ -10935,7 +10937,7 @@ atoonkiro	[a-][VPers][1PL.S/A+][--][=toonk][VRoot][=to.grind.sth. (ES: moler); t
 
 enitatsi	[=enitatsi][VRoot][=EXIST (ES: hay); POSSESS; CONT.POSS (ES: aún.tiene)]
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 oparetsa	[o-][NPers][3n.m.poss+][--][=paretsa+n.m.+inal@ntsi.][NRoot][=tree.root (ES: raíz)]
 
@@ -11051,7 +11053,7 @@ ovantsiki	[=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land 
         <morphology>
 
 
-oshekipero	[=osheki][AdjRoot][=many; much; a.lot][--][-pero][DEGR][+AUG]
+oshekipero	[=osheki][NRoot][=many; much; a.lot][--][-pero][DEGR][+AUG]
 
 okatyokakero	[o-][VPers][3n.m.S/A+][--][=katyok][VRoot][=to.salt.meat; to.be.salted][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e[--][=ro][+3n.m.O]
 
@@ -11089,7 +11091,7 @@ oshero	[=oshero+m.][NRoot][=crab.sp. (ES: cangrejo)]
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 ???
 
@@ -11186,7 +11188,7 @@ oshoki	[o-][VPers][3n.m.S/A+][--][=shok][VRoot][=to.grow (ES: crecer)][--][-i][+
 
 shariva	[=shariva][NRoot][=person's.name]
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 ishipatona	[i-][NPers][3m.poss+][--][=shipatona+n.m.+inal@ntsi.][NRoot][=beard, moustache (ES: barba, bigote)]
 
@@ -11810,7 +11812,7 @@ areetinkari	[=aree][VRoot][=to.arrive (ES: llegar); to.visit.with.sb.][--][-tink
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-antavo	[=antavo+n.m.][AdjRoot][=big; mature]
+antavo	[=antavo+n.m.][NRoot][=big; mature]
 
 ipante	[i-][NPers][3m.poss+][--][=pante+n.m.+inal@ntsi.][NRoot][=mouth (ES: boca)]
 
@@ -12059,7 +12061,7 @@ ochempeki	[=ochempe][NRoot][=hill (ES: cerro)][--][-ki][Cas][+LOC_LOC.T]
 
 otimi	[o-][VPers][3n.m.S/A+][--][=tim][VRoot][=POSSESS (EN: to.have; ES: tener); to.give.birth][--][-i][+REAL]i
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 ipatsavo	[i-][NPers][3m.poss+][--][=patsa][VRoot][=to.have.a.skin.sore, to.have.a.wound; to.rot; to.have.a.wet.wound.with.pus][--][-vo+n.m.][NS][+NMZ]vo
 
@@ -12139,7 +12141,7 @@ novaneki	[n-][NPers][1SG.poss+][--][=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ayi isheeni payantishi opashikakotantyaavori opiare.</sentence>
         <sentence lang="es">La abuela trae hojas de plátano para tapar el masato.</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
-aaa|AAAAAAAA
+
 
 ayi	[=ay][VRoot][=to.get][--][-i][+REAL]i
 
@@ -12727,7 +12729,7 @@ aavintavontsi	[=aavint][VRoot][=to.cure (ES: curar)][--][-a][+EP]a[--][-vo+n.m.]
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-pochari	[=pochari][AdjRoot][=sweet (ES: dulce)]
+pochari	[=pochari][NRoot][=sweet (ES: dulce)]
 
 tivana	[=tivana+n.m.+poss@ti.][NRoot][=pineapple (ES: piña; botany.nm.: ananas.comosus)]
 
@@ -12755,7 +12757,7 @@ ari	[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es)
 
 nopochokiti	[no-][VPers][1SG.S/A+][--][=pochoki][VRoot][=to.dream (ES: tener.sueño)][--][-t][+EP]t[--][-i][+REAL]i
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 .	.[$.]
 
@@ -12836,7 +12838,7 @@ ashisho	[=ashisho][NRoot][=person's.name; NP]
 opokake	[o-][VPers][3n.m.S/A+][--][=pok][VRoot][=to.come (ES: venir), to.arrive][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
 
 ???
-natoto?
+natoto	[=natoto+gndr@n.m.+voc@1SG:2SG:3SGn.m.:1PL.+kin@fem.ego][NRoot][=sister.in.law (ES: cuñada)]
 
 intakeronta	[=intakeronta][NRoot][=the.other.side.of.the.brook/river (ES: el.otro.lado.de.la.quebrada/río)]
 
@@ -13184,7 +13186,7 @@ oshinkitantakari	[o-][VPers][3n.m.S/A+][--][=shinki][VRoot][=to.get.drunk; to.in
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 ikaemi	[i-][VPers][3m.S/A+][--][=kaem][VRoot][=to.scream (ES: gritar); to.call.sb. (to.inform.of.sth.; ES: llamar)][--][-i][+REAL]i
 
@@ -13299,9 +13301,9 @@ ashavokiite	[a-][VPers][1PL.S/A+][--][=shavoki][VRoot][=to.dance (ES: bailar)][-
 
 timatsi	[=tim][VRoot][=POSSESS (EN: to.have; ES: tener); to.give.birth][--][-atsi][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]atsi
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
-pochari	[=pochari][AdjRoot][=sweet (ES: dulce)]
+pochari	[=pochari][NRoot][=sweet (ES: dulce)]
 
 shevantoki	[=shevantoki+n.m.][NRoot][=uvilla-tree (sci.nm.: coussapoa.sp.); wild.little_grape (ES: uvilla.silvestre)]
 
@@ -13392,7 +13394,7 @@ shenonti	[=shenonti][NRoot][=monkey.sp. (ES: mono.coto)]
 
 itsipatavo	[i-][VPers][3m.S/A+][--][=tsipat][VRoot][=to.accompany; to.join; to.combine (ES: combinar)][--][-a][+REAL]a[--][=vo][+3n.m.O]
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 iina	[i-][NPers][3m.poss+][--][=ina+n.m.+inal@tsi.+voc.][NRoot][=mother; wife (kin.of.a.fe/male)]
 
@@ -13487,7 +13489,7 @@ shimashiri	[=shimashiri+n.m.][NRoot][=flowering.tree.sp., plant.sp. (ES: Pino.ch
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-antavo	[=antavo+n.m.][AdjRoot][=big; mature]
+antavo	[=antavo+n.m.][NRoot][=big; mature]
 
 ishetaki	[i-][NPers][3m.poss+][--][=shetaki+n.m.+inal@ntsi.][NRoot][=fingernail (ES: uña); claw (ES: garra)]
 
@@ -13645,7 +13647,7 @@ koshiri	[=koshiri+m.+poss@ti.][NRoot][=monkey.sp., white.monkey.sp. (ES: machín
 
 shitovanake	[=shitov][VRoot][=to.leave (ES: salir); to.escape][--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 shiketi	[=shiketi][NRoot][=(small).armored.catfish.sp. (ES: carachama.pequeña), fish.sp.]
 
@@ -13667,7 +13669,7 @@ ocheva	[o-][NPers][3n.m.poss+][--][=cheva][NRoot][=(river's).branch, distributar
 
 pokake	[=pok][VRoot][=to.come (ES: venir), to.arrive][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 shikiri	[=shikiri][NRoot][=triangular.wings.fly (ES: sp.de.mosca); mosquito.sp.]
 
@@ -13717,7 +13719,7 @@ amake	[=am][VRoot][=to.bring (ES: traer)][--][-ak][ASP][+PRF][=completed.actn.; 
 
 shimashiri	[=shimashiri+n.m.][NRoot][=flowering.tree.sp., plant.sp. (ES: Pino.chuncho, flor.de.mayo; sci.nm.: schizolobium.amazoni.cum); person's.name, NP]
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 kemi	[=kemi+n.m.+poss@ne.][NRoot][=pumpkin.sp. (ES: zapallo, calabaza; botany.nm.: cucurbita.sp.); squash]
 
@@ -13743,7 +13745,7 @@ niha	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
 
 amake	[=am][VRoot][=to.bring (ES: traer)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 oshimore	[o-][NPers][3n.m.poss+][--][=shimore+n.m.+inal@ntsi.][NRoot][=saliva, spit(tle) (ES: saliva); foam (ES: espuma)]
 
@@ -13781,7 +13783,7 @@ shimapaye	[=shima+m.+poss@ni.][NRoot][=fish; fish.sp., boquichico-fish (ES: boqu
         <morphology>
 
 
-oshekini	[=osheki][AdjRoot][=many; much; a.lot][--][-ni][AS][+ADV]
+oshekini	[=osheki][NRoot][=many; much; a.lot][--][-ni][AS][+ADV]
 
 shimpoki	[=shimpoki][NRoot][=horsefly (ES: tábano)]
 
@@ -14161,7 +14163,7 @@ ovityo	[=ovityo][NRoot][=person's.name, NP]
 
 rotsitsite	[r-][NPers][3m.poss+][--][=otsitsi+m.+poss@te.][NRoot][=dog (ES: perro; PT: cachorro.caçador)][--][-te][Gen][+aln.poss.]te
 
-katsimari	[=katsimari][AdjRoot][=bad (ES: malo); fierce, rabid (ES: bravo, rabioso)]
+katsimari	[=katsimari][NRoot][=bad (ES: malo); fierce, rabid (ES: bravo, rabioso)]
 katsimari	[=katsima][VRoot][=to.get.angry, to.be.wild, to.be.savage; to.hate; to.feel.pain][--][-ri+m.][NS][+ADJ.NMZ]ri
 
 .	.[$.]
@@ -14203,7 +14205,7 @@ oshirontaka	[o-][VPers][3n.m.S/A+][--][=shiron][VRoot][=to.laugh.at.sb.][--][-t]
 
 tsinane	[=tsinane+n.m.][NRoot][=female, woman (ES: mujer); young.girl]
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 oshinkitantari	[o-][VPers][3n.m.S/A+][--][=shinki][VRoot][=to.get.drunk; to.intoxicate][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-a][+REAL.RFL]a[--][=ri][NS][+REL]
 
@@ -14370,7 +14372,7 @@ nihateniki	[=nihateni][NRoot][=brook; creek (ES: quebrada, arroyo)][--][-ki][Cas
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 oshitsapaereki	[o-][NPers][3n.m.poss+][--][=shi][VRoot][=to.defecate.on.sth. (ES: defecar)][--][-tsa][+CL:long.flexible.thin][=long,flexible,thin; liana.(like); tree_bark; curvilinear]tsa[--][-paere][+CL:root][=root][--][-ki][Cas][+LOC_LOC.T]
 
@@ -14436,7 +14438,7 @@ shiyakaantsipaye	[=shiyak][VRoot][=to.take.a.picture (ES: tomar.una.foto)][--][-
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">r@@ amin@@ i@@ ro pava@@ chori shiyak@@ aantsi@@ paye .</segmentation>
+        <segmentation format="morfessor">r@@amin@@i@@ro pava@@chori shiyak@@aantsi@@paye .</segmentation>
         <parsing/>
     </text>
     <text id="588.1">
@@ -14447,7 +14449,7 @@ shiyakaantsipaye	[=shiyak][VRoot][=to.take.a.picture (ES: tomar.una.foto)][--][-
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 shiyakomentotsi	[=shiy][VRoot][=to.escape, to.run (ES: escapar)][--][-ako][VS][+APPL.GEN][=GEN: with.reference.to.sth., about.sth.; INDR: action.affects.sth.in.an.indirect.manner]ako[--][-mento+n.m.][NS][+NMZ.CONCR]mento[--][-tsi+alien.][Gen][+nposs]tsi
 
@@ -14459,7 +14461,7 @@ nampitsiki	[=nampi+n.m.+inal@tsi.][NRoot][=village (ES: aldea; PT: aldeia); plac
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">osheki shiy@@ ako@@ mento@@ tsi antavo@@ ki nampi@@ tsi@@ ki .</segmentation>
+        <segmentation format="morfessor">osheki shiy@@ako@@mento@@tsi antavo@@ki nampi@@tsi@@ki .</segmentation>
         <parsing/>
     </text>
     <text id="588.2">
@@ -14487,7 +14489,7 @@ tampoki	[=tampo+poss@ne.][NRoot][=main.river, Tambo.river][--][-ki][Cas][+LOC_LO
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">r@@ amanant@@ ak@@ e ov@@ aey@@ i@@ ro@@ ri i@@ nyaa@@ ne pava i@@ shiy@@ ako@@ mento iyaa@@ t@@ ant@@ ya@@ ri tampo@@ ki .</segmentation>
+        <segmentation format="morfessor">r@@amanant@@ak@@e ov@@aey@@i@@ro@@ri i@@nyaa@@ne pava i@@shiy@@ako@@mento iyaa@@t@@ant@@ya@@ri tampo@@ki .</segmentation>
         <parsing/>
     </text>
     <text id="589">
@@ -14509,7 +14511,7 @@ shovirentsi	[=shovire+n.m.+inal@ntsi.][NRoot][=(single-flute).flute (ES: quena),
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">iyot@@ i@@ ro konki r@@ ant@@ i@@ ro shovire@@ ntsi .</segmentation>
+        <segmentation format="morfessor">iyot@@i@@ro konki r@@ant@@i@@ro shovire@@ntsi .</segmentation>
         <parsing/>
     </text>
     <text id="590">
@@ -14529,7 +14531,7 @@ inkaareki	[=inkaare+n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)][--][-ki][
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">i@@ heek@@ i shompoti inkaare@@ ki .</segmentation>
+        <segmentation format="morfessor">i@@heek@@i shompoti inkaare@@ki .</segmentation>
         <parsing/>
     </text>
     <text id="591">
@@ -14549,7 +14551,7 @@ tonkareki	[=tonkare+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas][+
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">mot@@ ak@@ e shonkiri tonkare@@ ki .</segmentation>
+        <segmentation format="morfessor">mot@@ak@@e shonkiri tonkare@@ki .</segmentation>
         <parsing/>
     </text>
     <text id="592">
@@ -14573,7 +14575,7 @@ ikentantyaariri	[i-][VPers][3m.S/A+][--][=kent][VRoot][=to.pierce.with.arrows, t
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">i@@ pat@@ ima@@ t@@ i@@ ri eentsi shonkoro i@@ kent@@ ant@@ yaa@@ ri@@ ri .</segmentation>
+        <segmentation format="morfessor">i@@pat@@ima@@t@@i@@ri eentsi shonkoro i@@kent@@ant@@yaa@@ri@@ri .</segmentation>
         <parsing/>
     </text>
     <text id="593">
@@ -14595,7 +14597,7 @@ ovaantsiki	[=ovaa+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.lan
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">o@@ panki@@ t@@ ak@@ e no@@ shavo shonyaki ovaa@@ ntsi@@ ki .</segmentation>
+        <segmentation format="morfessor">o@@panki@@t@@ak@@e no@@shavo shonyaki ovaa@@ntsi@@ki .</segmentation>
         <parsing/>
     </text>
     <text id="594">
@@ -14619,7 +14621,7 @@ ovantsiki	[=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land 
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">shook@@ ak@@ e i@@ shinki@@ ne apa i@@ panki@@ t@@ ak@@ e@@ ri ova@@ ntsi@@ ki .</segmentation>
+        <segmentation format="morfessor">shook@@ak@@e i@@shinki@@ne apa i@@panki@@t@@ak@@e@@ri ova@@ntsi@@ki .</segmentation>
         <parsing/>
     </text>
     <text id="595">
@@ -14641,7 +14643,7 @@ tonkaareki	[=tonkaare+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas]
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">i@@ ta@@ ak@@ e@@ ro ani r@@ ova@@ ne tonkaare@@ ki .</segmentation>
+        <segmentation format="morfessor">i@@ta@@ak@@e@@ro ani r@@ova@@ne tonkaare@@ki .</segmentation>
         <parsing/>
     </text>
     <text id="596">
@@ -14664,7 +14666,7 @@ otantoki	[o-][NPers][3n.m.poss+][--][=tanto+n.m.+inal@tsi.][NRoot][=wall (ES: pa
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">i@@ tahonk@@ ak@@ e@@ ro peyari komatire o@@ tanto@@ ki .</segmentation>
+        <segmentation format="morfessor">i@@tahonk@@ak@@e@@ro peyari komatire o@@tanto@@ki .</segmentation>
         <parsing/>
     </text>
     <text id="597">
@@ -14687,7 +14689,7 @@ piarentsi	[=piare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">o@@ taki@@ ri@@ ati inyeni kaniri ant@@ ant@@ ya@@ ri piare@@ ntsi .</segmentation>
+        <segmentation format="morfessor">o@@taki@@ri@@ati inyeni kaniri ant@@ant@@ya@@ri piare@@ntsi .</segmentation>
         <parsing/>
     </text>
     <text id="598">
@@ -14701,7 +14703,7 @@ aririka	[=ari][PostPol][=PP][--][=rika][+COND]::[=when (temporal.simultaneity), 
 
 otampiate	[o-][VPers][3n.m.S/A+][--][=tampia+n.m.][NRoot][=wind (ES: viento)]::[=to.be.windy (ES: hacer.viento)]+vbz.[--][-t][+EP]t[--][-e+fut.][+IRR]e
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 eero	[=eero][Neg][=NEG.IRR]
 
@@ -14713,7 +14715,7 @@ inkani	[=inkani+n.m.][NRoot][=rain (ES: lluvia)]
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">ari@@ rika o@@ tampia@@ t@@ e osheki eero o@@ pare@@ e inkani .</segmentation>
+        <segmentation format="morfessor">ari@@rika o@@tampia@@t@@e osheki eero o@@pare@@e inkani .</segmentation>
         <parsing/>
     </text>
     <text id="599">
@@ -14732,7 +14734,7 @@ ishinkitantari	[i-][VPers][3m.S/A+][--][=shinki][VRoot][=to.get.drunk; to.intoxi
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">tampoo@@ t@@ ak@@ e charine i@@ shinki@@ t@@ ant@@ a@@ ri .</segmentation>
+        <segmentation format="morfessor">tampoo@@t@@ak@@e charine i@@shinki@@t@@ant@@a@@ri .</segmentation>
         <parsing/>
     </text>
     <text id="600">
@@ -14752,7 +14754,7 @@ itanto	[i-][NPers][3m.poss+][--][=tanto+n.m.+inal@tsi.][NRoot][=wall (ES: pared)
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">i@@ tanto@@ ri@@ a@@ ak@@ e@@ ro pava@@ chori i@@ tanto .</segmentation>
+        <segmentation format="morfessor">i@@tanto@@ri@@a@@ak@@e@@ro pava@@chori i@@tanto .</segmentation>
         <parsing/>
     </text>
     <text id="601">
@@ -14775,7 +14777,7 @@ ityaapapankote	[i-][NPers][3m.poss+][--][=tyaapa+n.m.+poss@te.][NRoot][=hen (ES:
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">i@@ poonk@@ ak@@ e n@@ ani kampona i@@ tanto@@ t@@ ant@@ yaa@@ vo@@ ri i@@ tyaapa@@ panko@@ te .</segmentation>
+        <segmentation format="morfessor">i@@poonk@@ak@@e n@@ani kampona i@@tanto@@t@@ant@@yaa@@vo@@ri i@@tyaapa@@panko@@te .</segmentation>
         <parsing/>
     </text>
     <text id="603">
@@ -14789,7 +14791,7 @@ pamakeri	[p-][VPers][2S/A+][--][=am][VRoot][=to.bring (ES: traer)][--][-ak][ASP]
 
 shima	[=shima+m.+poss@ni.][NRoot][=fish; fish.sp., boquichico-fish (ES: boquichico, chupadora; sci.nm.: prochilodus.nigricans)]
 
-tashirentsi	[=tashire+n./m.+inal.][AdjRoot][=roasted (i.e.: kaniri/manioc, shima/fish, kemi/pumpkin)][--][-ntsi+alien.][Gen][+nposs]ntsi
+tashirentsi	[=tashire+n./m.+inal.][NRoot][=roasted (i.e.: kaniri/manioc, shima/fish, kemi/pumpkin)][--][-ntsi+alien.][Gen][+nposs]ntsi
 
 rovavakia	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-av+object.oriented][ADV][+DIR][=contrary,opposite; RCVG:object.arriving.at.the.location.of.the.subject]av[--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-ia+fut.][+IRR]ia
 
@@ -14798,7 +14800,7 @@ areetinkari	[=aree][VRoot][=to.arrive (ES: llegar); to.visit.with.sb. (ES: visit
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">p@@ am@@ ak@@ e@@ ri shima tashi@@ re@@ ntsi r@@ ov@@ av@@ ak@@ ia aree@@ tinkari .</segmentation>
+        <segmentation format="morfessor">p@@am@@ak@@e@@ri shima tashi@@re@@ntsi r@@ov@@av@@ak@@ia aree@@tinkari .</segmentation>
         <parsing/>
     </text>
     <text id="604">
@@ -14822,7 +14824,7 @@ pavachori	[=pava+m.+poss@ni.][NRoot][=solar.deity; god (ES: dios); creator (PT: 
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">o@@ tashi@@ t@@ ak@@ e@@ ri ina hetari i@@ pahakaa@@ t@@ ak@@ e@@ ri pava@@ chori .</segmentation>
+        <segmentation format="morfessor">o@@tashi@@t@@ak@@e@@ri ina hetari i@@pahakaa@@t@@ak@@e@@ri pava@@chori .</segmentation>
         <parsing/>
     </text>
     <text id="605">
@@ -14852,7 +14854,7 @@ tsitsi	[=tsitsi+n.m.+voc.][NRoot][=firewood (ES: leña)]
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">i@@ kant@@ ak@@ e entsi piyatsa@@ re : tee n@@ iyaa@@ t@@ e n@@ ay@@ e tsi@@ tsi .</segmentation>
+        <segmentation format="morfessor">i@@kant@@ak@@e entsi piyatsa@@re : tee n@@iyaa@@t@@e n@@ay@@e tsi@@tsi .</segmentation>
         <parsing/>
     </text>
     <text id="606">
@@ -14873,7 +14875,7 @@ novito	[no-][NPers][1SG.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe 
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">tekira@@ ta no@@ n@@tsonk@@ e@@ ro tekira@@ ta no@@ n@@tsonk@@ e@@ ro n@@ ant@@ e no@@ vito .</segmentation>
+        <segmentation format="morfessor">tekira@@ta no@@n@@tsonk@@e@@ro tekira@@ta no@@n@@tsonk@@e@@ro n@@ant@@e no@@vito .</segmentation>
         <parsing/>
     </text>
     <text id="607">
@@ -14894,7 +14896,7 @@ iteni	[i-][NPers][3m.poss+][--][=teni+n.m.+inal@tsi.][NRoot][=breast, bosom (ES:
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">ira@@ ak@@ a iriani ira@@ ako@@ t@@ a@@ vo i@@ teni .</segmentation>
+        <segmentation format="morfessor">ira@@ak@@a iriani ira@@ako@@t@@a@@vo i@@teni .</segmentation>
         <parsing/>
     </text>
     <text id="608">
@@ -14917,7 +14919,7 @@ impaneki	[=iNpaneki+n.m.][NRoot][=fine.sand, sand.made.of.very.small.grains (ES:
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">i@@ heek@@ i i@@ itsoki teparo intsomoeki impaneki .</segmentation>
+        <segmentation format="morfessor">i@@heek@@i i@@itsoki teparo intsomoeki impaneki .</segmentation>
         <parsing/>
     </text>
     <text id="609">
@@ -14938,7 +14940,7 @@ ivaneki	[i-][NPers][3m.poss+][--][=va+n.m.+poss@ni:ne.+voc@1SG.][NRoot][=sown.fi
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">i@@ panki@@ t@@ ak@@ e koshanti tivana i@@ va@@ ne@@ ki .</segmentation>
+        <segmentation format="morfessor">i@@panki@@t@@ak@@e koshanti tivana i@@va@@ne@@ki .</segmentation>
         <parsing/>
     </text>
     <text id="610">
@@ -14961,7 +14963,7 @@ ochempeki	[=ochempe][NRoot][=hill (ES: cerro)][--][-ki][+CL:human.populated][=pl
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">atiri r@@ iya@@ t@@ i r@@ ay@@ i tivi ochempe@@ ki .</segmentation>
+        <segmentation format="morfessor">atiri r@@iya@@t@@i r@@ay@@i tivi ochempe@@ki .</segmentation>
         <parsing/>
     </text>
     <text id="611">
@@ -14983,7 +14985,7 @@ iyomoneerote	[i-][NPers][3m.poss+][--][=comunero/komoneero+poss@te.][NRootEs][=v
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">tivo@@ t@@ ak@@ e pinkatsari i@@ kaem@@ ant@@ a@@ ri@@ ri i@@ yomoneero@@ te .</segmentation>
+        <segmentation format="morfessor">tivo@@t@@ak@@e pinkatsari i@@kaem@@ant@@a@@ri@@ri i@@yomoneero@@te .</segmentation>
         <parsing/>
     </text>
     <text id="612">
@@ -15004,7 +15006,7 @@ shoshokiri	[=shoshokiri][NRoot][=NP, person's.name]
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">o@@ tih@@ av@@ ak@@ e@@ ri kitoche i@@ itsare@@ shoshokiri .</segmentation>
+        <segmentation format="morfessor">o@@tih@@av@@ak@@e@@ri kitoche i@@itsare@@shoshokiri .</segmentation>
         <parsing/>
     </text>
     <text id="613">
@@ -15030,7 +15032,7 @@ royaari	[r-][VPers][3m.S/A+][--][=oy][VRoot][=to.eat (ES: comer)][--][-a][+EP]a[
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">i@@ hek@@ i tiho incha@@ pooki@@ ki r@@ amen@@ a@@ ye@@ t@@ i ii@@ t@@ a r@@ oy@@ a@@ a@@ ri .</segmentation>
+        <segmentation format="morfessor">i@@hek@@i tiho incha@@pooki@@ki r@@amen@@a@@ye@@t@@i ii@@t@@a r@@oy@@a@@a@@ri .</segmentation>
         <parsing/>
     </text>
     <text id="614">
@@ -15051,7 +15053,7 @@ kapichoki	[=kapichoki][AdvRoot][=a.little (ES: poco)]
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">timatsi pi@@ viari pi@@ p@@ av@@ ak@@ e@@ na kapichoki .</segmentation>
+        <segmentation format="morfessor">timatsi pi@@viari pi@@p@@av@@ak@@e@@na kapichoki .</segmentation>
         <parsing/>
     </text>
     <text id="615.1">
@@ -15072,7 +15074,7 @@ inkani	[=inkani+n.m.][NRoot][=rain (ES: lluvia)]
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">tyoent@@ ak@@ a timpinare o@@ pary@@ aty@@ e inkani .</segmentation>
+        <segmentation format="morfessor">tyoent@@ak@@a timpinare o@@pary@@aty@@e inkani .</segmentation>
         <parsing/>
     </text>
     <text id="615.2">
@@ -15097,7 +15099,7 @@ antamiki	[=antami][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.for
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">i@@ ny@@ a@@ ak@@ e@@ ri shevankori timpin@@ a@@ re i@@ heek@@ i ir@@ a@@ vae@@ t@@ a antami@@ ki .</segmentation>
+        <segmentation format="morfessor">i@@ny@@a@@ak@@e@@ri shevankori timpin@@a@@re i@@heek@@i ir@@a@@vae@@t@@a antami@@ki .</segmentation>
         <parsing/>
     </text>
     <text id="616">
@@ -15120,7 +15122,7 @@ ivitoki	[i-][NPers][3m.poss+][--][=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe (
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">i@@ tina@@ e@@ ri ani charava r@@ ote@@ t@@ ant@@ yaa@@ ri@@ ri i@@ vito@@ ki .</segmentation>
+        <segmentation format="morfessor">i@@tina@@e@@ri ani charava r@@ote@@t@@ant@@yaa@@ri@@ri i@@vito@@ki .</segmentation>
         <parsing/>
     </text>
     <text id="617">
@@ -15137,7 +15139,7 @@ antyashipavotaki	[=antyashipavo+n.m.][NRoot][=elderly.woman, old.woman][--][-tak
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">antyashipavo@@ taki no@@ tina@@ vo .</segmentation>
+        <segmentation format="morfessor">antyashipavo@@taki no@@tina@@vo .</segmentation>
         <parsing/>
     </text>
     <text id="618">
@@ -15158,7 +15160,7 @@ inchaki	[=inchaki+poss@ri.][NRoot][=pole (ES: palo)]
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">eero p@@ am@@ i@@ ro inchaki tipi@@ ro .</segmentation>
+        <segmentation format="morfessor">eero p@@am@@i@@ro inchaki tipi@@ro .</segmentation>
         <parsing/>
     </text>
     <text id="619">
@@ -15181,7 +15183,7 @@ ipanko	[i-][NPers][3m.poss+][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa)
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">i@@ tipi@@ ati pava@@ chori kompiroshi r@@ ant@@ ant@@ ya@@ ri i@@ panko .</segmentation>
+        <segmentation format="morfessor">i@@tipi@@ati pava@@chori kompiroshi r@@ant@@ant@@ya@@ri i@@panko .</segmentation>
         <parsing/>
     </text>
     <text id="620">
@@ -15205,7 +15207,7 @@ ichakopite	[i-][NPers][3m.poss+][--][=chakopi+n.m.+poss@te:ti.][NRoot][=arrow (E
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">r@@ a@@ atsi kovashito tiri ro@@ v@@ atsik@@ an@@ t@@ ya@@ vo@@ ri i@@ chakopi@@ te .</segmentation>
+        <segmentation format="morfessor">r@@a@@atsi kovashito tiri ro@@v@@atsik@@an@@t@@ya@@vo@@ri i@@chakopi@@te .</segmentation>
         <parsing/>
     </text>
     <text id="621">
@@ -15230,7 +15232,7 @@ itomi	[i-][NPers][3m.poss+][--][=tomi+m.+inal@tsi.][NRoot][=son (kin.of.a.fe/mal
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">r@@ a@@ atsi  konki tiroki@@ tsa r@@ aavint@@ ant@@ ya@@ ri i@@ tink@@ aa@@ vo i@@ tomi .</segmentation>
+        <segmentation format="morfessor">r@@a@@atsi  konki tiroki@@tsa r@@aavint@@ant@@ya@@ri i@@tink@@aa@@vo i@@tomi .</segmentation>
         <parsing/>
     </text>
     <text id="622">
@@ -15249,7 +15251,7 @@ tiroti	[=tiroti+n.m.][NRoot][=palm.tree.sp.with.black.thorns (ES: huicungo; sci.
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">r@@ ov@@ a@@ vo shintori tiroti .</segmentation>
+        <segmentation format="morfessor">r@@ov@@a@@vo shintori tiroti .</segmentation>
         <parsing/>
     </text>
     <text id="623">
@@ -15268,7 +15270,7 @@ eniki	[=Eni][NP][=river (Ene.river)][--][-ki][Cas][+LOC_LOC.T]
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">tiyaat@@ an@@ ah@@ a ovame@@ t@@ ant@@ atsi@@ ri eni@@ ki .</segmentation>
+        <segmentation format="morfessor">tiyaat@@an@@ah@@a ovame@@t@@ant@@atsi@@ri eni@@ki .</segmentation>
         <parsing/>
     </text>
     <text id="624">
@@ -15295,7 +15297,7 @@ piyaariri	[pi-][NPers][2poss+][--][=yaari+m.+poss@ri.][NRoot][=brother (kin.of.a
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">o@@ kant@@ i@@ ro ina choeni : p@@ ook@@ e@@ ro i@@ tiya pi@@ yaari@@ ri .</segmentation>
+        <segmentation format="morfessor">o@@kant@@i@@ro ina choeni : p@@ook@@e@@ro i@@tiya pi@@yaari@@ri .</segmentation>
         <parsing/>
     </text>
     <text id="625">
@@ -15314,7 +15316,7 @@ inchato	[=inchato+n.m.][NRoot][=tree (ES: árbol)]
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">i@@ tov@@ ak@@ e@@ ro yeye inchato .</segmentation>
+        <segmentation format="morfessor">i@@tov@@ak@@e@@ro yeye inchato .</segmentation>
         <parsing/>
     </text>
     <text id="626">
@@ -15333,7 +15335,7 @@ inkaareki	[=inkaare+n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)][--][-ki][
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">o@@ shok@@ i toniro inkaare@@ ki .</segmentation>
+        <segmentation format="morfessor">o@@shok@@i toniro inkaare@@ki .</segmentation>
         <parsing/>
     </text>
     <text id="627">
@@ -15359,7 +15361,7 @@ ovantsipooshiki	[=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">i@@ tonk@@ ak@@ e shoshokiri shavo r@@ ov@@ a@@ ve@@ t@@ a kaniri ova@@ ntsi@@ pooshi@@ ki .</segmentation>
+        <segmentation format="morfessor">i@@tonk@@ak@@e shoshokiri shavo r@@ov@@a@@ve@@t@@a kaniri ova@@ntsi@@pooshi@@ki .</segmentation>
         <parsing/>
     </text>
     <text id="628">
@@ -15382,7 +15384,7 @@ kepaye	[=kepaye+n.m.][NRoot][=very_hard/thick.wood.sp. (ES: horcón, poste,, shu
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">mako@@ t@@ ak@@ e@@ na n@@ ani@@ t@@ i@@ ro tonkaare n@@ a@@ ant@@ a@@ vo@@ ri kepaye .</segmentation>
+        <segmentation format="morfessor">mako@@t@@ak@@e@@na n@@ani@@t@@i@@ro tonkaare n@@a@@ant@@a@@vo@@ri kepaye .</segmentation>
         <parsing/>
     </text>
     <text id="629">
@@ -15403,7 +15405,7 @@ tonkamentotsiki	[=tonk][VRoot][=to.shoot (ES: balear); to.burst][--][-a][+EP]a[-
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">i@@ mana@@ t@@ ak@@ e@@ ri yeye shonkiri tonk@@ a@@ mento@@ tsi@@ ki .</segmentation>
+        <segmentation format="morfessor">i@@mana@@t@@ak@@e@@ri yeye shonkiri tonk@@a@@mento@@tsi@@ki .</segmentation>
         <parsing/>
     </text>
     <text id="630">
@@ -15427,7 +15429,7 @@ shinkia	[=shinki+m.+poss@ne:ni.][NRoot][=corn, maize (ES: maíz, botany.nm.: zea
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">a@@ toonk@@ aty@@ ee@@ ro shinki honkoki ant@@ ant@@ yaa@@ ri shinki@@ a .</segmentation>
+        <segmentation format="morfessor">a@@toonk@@aty@@ee@@ro shinki honkoki ant@@ant@@yaa@@ri shinki@@a .</segmentation>
         <parsing/>
     </text>
     <text id="631">
@@ -15441,7 +15443,7 @@ ipashikaatakeri	[i-][VPers][3m.S/A+][--][=pashikaa][VRoot][=to.cover (ES: cubrir
 
 yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
 
-antari	[=antari+m.][AdjRoot][=big; mature]
+antari	[=antari+m.][NRoot][=big; mature]
 
 tooso	[=tooso][NRoot][=fish.sp. (ES: turushuqui, sp.de.súngaro; pez.motosierra)]
 
@@ -15450,7 +15452,7 @@ oshinchaaki	[o-][NPers][3n.m.poss+][--][=shincha+n.m.][NRoot][=(river).current (
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">i@@ pashikaa@@ t@@ ak@@ e@@ ri yeye antari tooso o@@ shincha@@ a@@ ki .</segmentation>
+        <segmentation format="morfessor">i@@pashikaa@@t@@ak@@e@@ri yeye antari tooso o@@shincha@@a@@ki .</segmentation>
         <parsing/>
     </text>
     <text id="632">
@@ -15471,7 +15473,7 @@ rantivatantanakari	[r-][VPers][3m.S/A+][--][=antiva][VRoot][=to.trip.(over.sth.)
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">i@@ tot@@ an@@ ak@@ e@@ ri i@@ taki totiroki r@@ antiva@@ t@@ ant@@ an@@ ak@@ a@@ ri .</segmentation>
+        <segmentation format="morfessor">i@@tot@@an@@ak@@e@@ri i@@taki totiroki r@@antiva@@t@@ant@@an@@ak@@a@@ri .</segmentation>
         <parsing/>
     </text>
     <text id="633">
@@ -15485,7 +15487,7 @@ iheeki	[i-][VPers][3m.S/A+][--][=heek][VRoot][=to.live, to.dwell, to.inhabit (ES
 
 inkaareki	[=inkaare+n.m.][NRoot][=lake, cocha (QU: qucha, ES: laguna)][--][-ki][Cas][+LOC_LOC.T]
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 totiroki	[=totiroki][NRoot][=aquatic.snail.sp. (ES: caracol.acuático, caracol.churo)]
 
@@ -15498,7 +15500,7 @@ koteri	[=koteri][NRoot][=bird.sp. (ES: unchala)]
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">i@@ heek@@ i inkaare@@ ki osheki totiroki rootake r@@ ov@@ a@@ na@@ vo koteri .</segmentation>
+        <segmentation format="morfessor">i@@heek@@i inkaare@@ki osheki totiroki rootake r@@ov@@a@@na@@vo koteri .</segmentation>
         <parsing/>
     </text>
     <text id="634">
@@ -15526,7 +15528,7 @@ atiri	[=atiri+m.+poss@te.][NRoot][=person, individual, human (ES: gente)]
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">ari@@ rika pi@@ ny@@ e@@ ri tsaampi i@@ n@@ ki@@ e pi@@ panko@@ ki r@@ are@@ t@@ aty@@ ea atiri .</segmentation>
+        <segmentation format="morfessor">ari@@rika pi@@ny@@e@@ri tsaampi i@@n@@ki@@e pi@@panko@@ki r@@are@@t@@aty@@ea atiri .</segmentation>
         <parsing/>
     </text>
     <text id="635">
@@ -15547,7 +15549,7 @@ ovantsipooshiki	[=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">i@@ tsaa@@ t@@ ak@@ e@@ ri otsiti hamani ova@@ ntsi@@ pooshi@@ ki .</segmentation>
+        <segmentation format="morfessor">i@@tsaa@@t@@ak@@e@@ri otsiti hamani ova@@ntsi@@pooshi@@ki .</segmentation>
         <parsing/>
     </text>
     <text id="636">
@@ -15568,7 +15570,7 @@ itsaatoki	[i-][NPers][3m.poss+][--][=tsaato+n.m.][NRoot][=bag, backpack (ES: moc
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">r@@ ay@@ i@@ ro sheripiare i@@ yoka@@ ne i@@ tsaato@@ ki .</segmentation>
+        <segmentation format="morfessor">r@@ay@@i@@ro sheripiare i@@yoka@@ne i@@tsaato@@ki .</segmentation>
         <parsing/>
     </text>
     <text id="637">
@@ -15591,7 +15593,7 @@ inchashipaye	[i-][NPers][3m.poss+][--][=inchashi+n.m.][NRoot][=herb (ES: hierba)
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">i@@ tsamae@@ t@@ i@@ ro mishari r@@ ova@@ ne shook@@ ak@@ e i@@ inchashi@@ paye .</segmentation>
+        <segmentation format="morfessor">i@@tsamae@@t@@i@@ro mishari r@@ova@@ne shook@@ak@@e i@@inchashi@@paye .</segmentation>
         <parsing/>
     </text>
     <text id="638">
@@ -15616,7 +15618,7 @@ imentaina	[i-][NPers][3m.poss+][--][=menta+n.m.+inal@tsi.][NRoot][=fin.of.tree (
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">n@@ iyot@@ av@@ ak@@ e@@ ri iritake tsamiri o@@ kityonka@@ t@@ i i@@ menta@@ ina .</segmentation>
+        <segmentation format="morfessor">n@@iyot@@av@@ak@@e@@ri iritake tsamiri o@@kityonka@@t@@i i@@menta@@ina .</segmentation>
         <parsing/>
     </text>
     <text id="639">
@@ -15639,7 +15641,7 @@ charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male);
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">o@@ tashi@@ t@@ ak@@ e ameeni tsanavo o@@ p@@ e@@ ri@@ ri charine .</segmentation>
+        <segmentation format="morfessor">o@@tashi@@t@@ak@@e ameeni tsanavo o@@p@@e@@ri@@ri charine .</segmentation>
         <parsing/>
     </text>
     <text id="640">
@@ -15663,7 +15665,7 @@ iporeriaati	[i-][VPers][3m.S/A+][--][=porery][VRoot][=to.shine (ES: brillar)][--
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">i@@ nee@@ ki tsonkiri keme@@ t@@ ak@@ a tsano@@ ere@@ ntsi i@@ porery@@ a@@ ati .</segmentation>
+        <segmentation format="morfessor">i@@nee@@ki tsonkiri keme@@t@@ak@@a tsano@@ere@@ntsi i@@porery@@a@@ati .</segmentation>
         <parsing/>
     </text>
     <text id="641">
@@ -15682,7 +15684,7 @@ tsompari	[=tsompari+m.][NRoot][=heron.sp., crane (ES: sp.de.garza); great.egret 
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">hantsa@@ re i@@ tsano tsompari .</segmentation>
+        <segmentation format="morfessor">hantsa@@re i@@tsano tsompari .</segmentation>
         <parsing/>
     </text>
     <text id="642.1">
@@ -15703,7 +15705,7 @@ inchato	[=inchato+n.m.][NRoot][=tree (ES: árbol)]
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">tsa@@ t@@ ak@@ a koshiri oteva@@ ki inchato .</segmentation>
+        <segmentation format="morfessor">tsa@@t@@ak@@a koshiri oteva@@ki inchato .</segmentation>
         <parsing/>
     </text>
     <text id="642.2">
@@ -15730,7 +15732,7 @@ avihatsiri	[=avih][VRoot][=to.pass, to.move.past/to_the_other_side_of.sb/sth. (E
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">i@@ tsa@@ t@@ i otsiti tsireniri , ari@@ rika i@@ ny@@ a@@ ye@@ t@@ i@@ ri avih@@ atsi@@ ri .</segmentation>
+        <segmentation format="morfessor">i@@tsa@@t@@i otsiti tsireniri , ari@@rika i@@ny@@a@@ye@@t@@i@@ri avih@@atsi@@ri .</segmentation>
         <parsing/>
     </text>
     <text id="643">
@@ -15753,7 +15755,7 @@ itseyantari	[i-][VPers][3m.S/A+][--][=tsey][VRoot][=to.lie (ES: mentir)][--][-an
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">r@@ ant@@ ak@@ e@@ ri eentsi tseeri irotake i@@ tsey@@ ant@@ a@@ ri .</segmentation>
+        <segmentation format="morfessor">r@@ant@@ak@@e@@ri eentsi tseeri irotake i@@tsey@@ant@@a@@ri .</segmentation>
         <parsing/>
     </text>
     <text id="644">
@@ -15782,7 +15784,7 @@ nompiyahe	[no-][VPers][1SG.S/A+][--][N=][IRR+][--][=piy][VRoot][=to.return, to.c
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">i@@ tseey@@ ak@@ a ovame@@ t@@ ant@@ atsi@@ ri kamaiteri i@@ kant@@ an@@ ak@@ e@@ ri ashitaaniyetatsiri : inkaamani no@@ m@@ piy@@ ah@@ e .</segmentation>
+        <segmentation format="morfessor">i@@tseey@@ak@@a ovame@@t@@ant@@atsi@@ri kamaiteri i@@kant@@an@@ak@@e@@ri ashitaaniyetatsiri : inkaamani no@@m@@piy@@ah@@e .</segmentation>
         <parsing/>
     </text>
     <text id="645">
@@ -15801,7 +15803,7 @@ ootamentotsi	[=oot][VRoot][=to.light (ES: alumbrar, encender)][--][-a][+CL:liqui
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">o@@ tsivak@@ ak@@ e@@ ro tampia oot@@ a@@ mento@@ tsi .</segmentation>
+        <segmentation format="morfessor">o@@tsivak@@ak@@e@@ro tampia oot@@a@@mento@@tsi .</segmentation>
         <parsing/>
     </text>
     <text id="646">
@@ -15824,7 +15826,7 @@ nihaaki	[=nihaa+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)][--]
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">i@@ kent@@ ak@@ e@@ ri tsiveta n@@ ani i@@ kaavoshi@@ ve@@ t@@ a nihaa@@ ki .</segmentation>
+        <segmentation format="morfessor">i@@kent@@ak@@e@@ri tsiveta n@@ani i@@kaavoshi@@ve@@t@@a nihaa@@ki .</segmentation>
         <parsing/>
     </text>
     <text id="647">
@@ -15849,7 +15851,7 @@ rovaneki	[r-][NPers][3m.poss+][--][=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.f
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">r@@ ant@@ a@@ vae@@ t@@ ant@@ a@@ ri r@@ ova@@ ne@@ ki .</segmentation>
+        <segmentation format="morfessor">r@@ant@@a@@vae@@t@@ant@@a@@ri r@@ova@@ne@@ki .</segmentation>
         <parsing/>
     </text>
     <text id="648">
@@ -15870,7 +15872,7 @@ piarentsi	[=piare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">p@@ am@@ ak@@ e@@ na@@ vo tsika@@ mento@@ tsi no@@ n@@ tsikaa@@ t@@ av@@ ak@@ e piare@@ ntsi .</segmentation>
+        <segmentation format="morfessor">p@@am@@ak@@e@@na@@vo tsika@@mento@@tsi no@@n@@tsikaa@@t@@av@@ak@@e piare@@ntsi .</segmentation>
         <parsing/>
     </text>
     <text id="649">
@@ -15893,7 +15895,7 @@ ishinkana	[i-][NPers][3m.poss+][--][=shinkana][NRoot][=bile (ES: hiel)]
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">r@@ a@@ ati yeye tsikontoche r@@ ir@@ a@@ ashi@@ t@@ e@@ ro@@ ri i@@ shinkana .</segmentation>
+        <segmentation format="morfessor">r@@a@@ati yeye tsikontoche r@@ir@@a@@ashi@@t@@e@@ro@@ri i@@shinkana .</segmentation>
         <parsing/>
     </text>
     <text id="650">
@@ -15914,7 +15916,7 @@ irakaentsiri	[=irak][VRoot][=to.be.ripe (fruit; ES: madurar), to.ripen][--][-aen
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">i@@ tsiko@@ t@@ i@@ ro yeye kiri irak@@ aentsi@@ ri .</segmentation>
+        <segmentation format="morfessor">i@@tsiko@@t@@i@@ro yeye kiri irak@@aentsi@@ri .</segmentation>
         <parsing/>
     </text>
     <text id="651">
@@ -15935,7 +15937,7 @@ otsimankitye	[o-][VPers][3n.m.S/A+][--][=tsimank][VRoot][=to.cast.a.shadow (ES: 
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">o@@ mako@@ ri@@ ati isheni inchato@@ ki o@@ tsimank@@ it@@ ye .</segmentation>
+        <segmentation format="morfessor">o@@mako@@ri@@ati isheni inchato@@ki o@@tsimank@@it@@ye .</segmentation>
         <parsing/>
     </text>
     <text id="652">
@@ -15958,7 +15960,7 @@ tsimenkito	[=tsimenkito+m.+poss@te.][NRoot][=carbon (ES: carbón)]
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">i@@ ta@@ ati tyoviri meshiyanto r@@ ant@@ ant@@ ya@@ ri tsimenkito .</segmentation>
+        <segmentation format="morfessor">i@@ta@@ati tyoviri meshiyanto r@@ant@@ant@@ya@@ri tsimenkito .</segmentation>
         <parsing/>
     </text>
     <text id="653.1">
@@ -15979,7 +15981,7 @@ ohaviki	[=ohaviki][NRoot][=floor, first.floor]
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">i@@ tsinampa@@ it@@ ak@@ e@@ ri kishokiri r@@ ooka@@ it@@ ak@@ e@@ ri ohaviki .</segmentation>
+        <segmentation format="morfessor">i@@tsinampa@@it@@ak@@e@@ri kishokiri r@@ooka@@it@@ak@@e@@ri ohaviki .</segmentation>
         <parsing/>
     </text>
     <text id="653.2">
@@ -16000,7 +16002,7 @@ ikantiro	[i-][VPers][3m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.hap
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">i@@ tsinampa@@ ak@@ e@@ ro pava@@ chori i@@ ina@@ tsori i@@ kant@@ i@@ ro .</segmentation>
+        <segmentation format="morfessor">i@@tsinampa@@ak@@e@@ro pava@@chori i@@ina@@tsori i@@kant@@i@@ro .</segmentation>
         <parsing/>
     </text>
     <text id="654">
@@ -16018,12 +16020,12 @@ ichenko	[i-][NPers][3m.poss+][--][=chenko+n.m.+inal@tsi.][NRoot][=trousers, pant
 
 yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
 
-irihaniki	[=irihani+m.][AdjRoot][=small][--][-ki][+CL:S.R.H][=small,round(ed);hard;seed-like]
+irihaniki	[=irihani+m.][NRoot][=small][--][-ki][+CL:S.R.H][=small,round(ed);hard;seed-like]
 
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">roohati i@@ tsint@@ i@@ ro i@@ chenko yeye irihani@@ ki .</segmentation>
+        <segmentation format="morfessor">roohati i@@tsint@@i@@ro i@@chenko yeye irihani@@ki .</segmentation>
         <parsing/>
     </text>
     <text id="655">
@@ -16046,7 +16048,7 @@ shima	[=shima+m.+poss@ni.][NRoot][=fish; fish.sp., boquichico-fish (ES: boquichi
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">r@@ a@@ it@@ i@@ ro o@@ shi tsipana akipa@@ t@@ ant@@ yaa@@ ri shima .</segmentation>
+        <segmentation format="morfessor">r@@a@@it@@i@@ro o@@shi tsipana akipa@@t@@ant@@yaa@@ri shima .</segmentation>
         <parsing/>
     </text>
     <text id="656">
@@ -16069,7 +16071,7 @@ aishi	[a-][NPers][1PL.poss+][--][=kishi+n.m.+inal@tsi.][NRoot][=hair (ES: cabell
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">r@@ a@@ et@@ i@@ ro o@@ yeenka tsireentsi o@@ karentsa@@ t@@ ant@@ ya@@ ri a@@ ishi .</segmentation>
+        <segmentation format="morfessor">r@@a@@et@@i@@ro o@@yeenka tsireentsi o@@karentsa@@t@@ant@@ya@@ri a@@ishi .</segmentation>
         <parsing/>
     </text>
     <text id="657">
@@ -16092,7 +16094,7 @@ iina	[i-][NPers][3m.poss+][--][=ina+n.m.+inal@tsi.+voc.][NRoot][=mother; wife (k
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">r@@ amanant@@ ak@@ e yompiri tsire@@ ntsi@@ tonki r@@ a@@ an@@ ah@@ e@@ ni@@ ro i@@ ina .</segmentation>
+        <segmentation format="morfessor">r@@amanant@@ak@@e yompiri tsire@@ntsi@@tonki r@@a@@an@@ah@@e@@ni@@ro i@@ina .</segmentation>
         <parsing/>
     </text>
     <text id="658">
@@ -16113,7 +16115,7 @@ ikomintsatantyaari	[i-][VPers][3m.S/A+][--][=komintsa][VRoot][=to.hunt (ES: caza
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">i@@ p@@ a@@ yee@@ t@@ i@@ ri kayetsi tsirikana i@@ komintsa@@ t@@ ant@@ yaa@@ ri .</segmentation>
+        <segmentation format="morfessor">i@@p@@a@@yee@@t@@i@@ri kayetsi tsirikana i@@komintsa@@t@@ant@@yaa@@ri .</segmentation>
         <parsing/>
     </text>
     <text id="659">
@@ -16137,7 +16139,7 @@ omorekantari	[o-][VPers][3n.m.S/A+][--][=morek][VRoot][=to.burn (ES: arder)][--]
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">iroka tsitsi piri@@ a@@ pero@@ t@@ ak@@ e iro o@@ morek@@ ant@@ a@@ ri .</segmentation>
+        <segmentation format="morfessor">iroka tsitsi piri@@a@@pero@@t@@ak@@e iro o@@morek@@ant@@a@@ri .</segmentation>
         <parsing/>
     </text>
     <text id="660">
@@ -16149,7 +16151,7 @@ omorekantari	[o-][VPers][3n.m.S/A+][--][=morek][VRoot][=to.burn (ES: arder)][--]
 
 naake	[n-][VPers][1SG.S/A+][--][=a][VRoot][=to.take (ES: agarrar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 tsitsiri	[=tsitsiri+m.][NRoot][=cricket (ES: grillo)]
 
@@ -16160,7 +16162,7 @@ mamori	[=mamori+m.][NRoot][=fish.sp., sabalo (ES: sábalo; sci.nm.: brycon.sp.)]
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">n@@ a@@ ak@@ e osheki tsitsiri n@@ akacha@@ t@@ ant@@ ya@@ ri mamori .</segmentation>
+        <segmentation format="morfessor">n@@a@@ak@@e osheki tsitsiri n@@akacha@@t@@ant@@ya@@ri mamori .</segmentation>
         <parsing/>
     </text>
     <text id="661">
@@ -16170,7 +16172,7 @@ mamori	[=mamori+m.][NRoot][=fish.sp., sabalo (ES: sábalo; sci.nm.: brycon.sp.)]
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 rovari	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-a+n.fut.][+REAL]a[--][=ri][+3m.O]
 
@@ -16181,7 +16183,7 @@ chapitsi	[=chapitsi][NRoot][=worm.sp. (ES: especie.de.gusano)]
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">osheki r@@ ov@@ a@@ ri tsiya chapitsi .</segmentation>
+        <segmentation format="morfessor">osheki r@@ov@@a@@ri tsiya chapitsi .</segmentation>
         <parsing/>
     </text>
     <text id="662">
@@ -16202,7 +16204,7 @@ tsiyaroki	[=tsiyaro+n.m.][NRoot][=palm.tree.sp. (ES: shapaja, shebón; sci.nm.: 
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">r@@ ov@@ a@@ vo meyiri o@@ itsoki tsiyaro@@ ki .</segmentation>
+        <segmentation format="morfessor">r@@ov@@a@@vo meyiri o@@itsoki tsiyaro@@ki .</segmentation>
         <parsing/>
     </text>
     <text id="663">
@@ -16224,7 +16226,7 @@ antamiki	[=antami][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.for
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">r@@ apato@@ t@@ a tsiyeri r@@ anashi@@ t@@ ant@@ yaa@@ ri antami@@ ki .</segmentation>
+        <segmentation format="morfessor">r@@apato@@t@@a tsiyeri r@@anashi@@t@@ant@@yaa@@ri antami@@ki .</segmentation>
         <parsing/>
     </text>
     <text id="664">
@@ -16234,7 +16236,7 @@ antamiki	[=antami][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.for
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-antavo	[=antavo+n.m.][AdjRoot][=big; mature]
+antavo	[=antavo+n.m.][NRoot][=big; mature]
 
 ishetaki	[i-][NPers][3m.poss+][--][=shetaki+n.m.+inal@ntsi.][NRoot][=fingernail (ES: uña); claw (ES: garra)]
 
@@ -16247,7 +16249,7 @@ chompita	[=chompita+m.][NRoot][=cockroach.sp. (ES: sp.de.cucaracha)]
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">antavo i@@ shetaki tsovo r@@ otey@@ ant@@ yaa@@ ri@@ ri chompita .</segmentation>
+        <segmentation format="morfessor">antavo i@@shetaki tsovo r@@otey@@ant@@yaa@@ri@@ri chompita .</segmentation>
         <parsing/>
     </text>
     <text id="665">
@@ -16270,7 +16272,7 @@ tonkareki	[=tonkare+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas][+
 .	.[$.]
 
 </morphology>
-        <segmentation format="morfessor">oyaa@@ i choeni o@@ tsok@@ i kaniri tonkare@@ ki .</segmentation>
+        <segmentation format="morfessor">oyaa@@i choeni o@@tsok@@i kaniri tonkare@@ki .</segmentation>
         <parsing/>
     </text>
     <text id="666">
@@ -16297,7 +16299,7 @@ itomi	[i-][NPers][3m.poss+][--][=tomi+m.+inal@tsi.][NRoot][=son (kin.of.a.fe/mal
 .	.[$.]
 
 </morphology>
-        <segmentation format="subword-nmt">r@@ a@@ ak@@ e@@ ro aventyari o@@ kashi tsomanto r@@ ant@@ ya@@ ri@@ ri i@@ patsaa@@ vo i@@ tomi .</segmentation>
+        <segmentation format="subword-nmt">r@@a@@ak@@e@@ro aventyari o@@kashi tsomanto r@@ant@@ya@@ri@@ri i@@patsaa@@vo i@@tomi .</segmentation>
         <parsing/>
     </text>
     <text id="667">
@@ -16320,7 +16322,7 @@ niha	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
 .	.[$.]
 
 </morphology>
-        <segmentation format="subword-nmt">i@@ kent@@ a@@ vae@@ t@@ i tsompari i@@ shima@@ ne o@@ tsapya@@ ki niha .</segmentation>
+        <segmentation format="subword-nmt">i@@kent@@a@@vae@@t@@i tsompari i@@shima@@ne o@@tsapya@@ki niha .</segmentation>
         <parsing/>
     </text>
     <text id="668">
@@ -16341,7 +16343,7 @@ kaniri	[=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: y
 .	.[$.]
 
 </morphology>
-        <segmentation format="subword-nmt">o@@ tsonk@@ ak@@ e@@ ro tsinane@@ paye o@@ taki@@ ri@@ ro kaniri .</segmentation>
+        <segmentation format="subword-nmt">o@@tsonk@@ak@@e@@ro tsinane@@paye o@@taki@@ri@@ro kaniri .</segmentation>
         <parsing/>
     </text>
     <text id="669">
@@ -16351,7 +16353,7 @@ kaniri	[=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: y
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 inyaamatavo	[i-][VPers][3m.S/A+][--][=nyaama][VRoot][=to.covet.sth. (ES: codiciar); to.like.sth. (ES: gustar)][--][-t][+EP]t[--][-a+n.fut.][+REAL]a[--][=vo][+3n.m.O]
 
@@ -16359,14 +16361,14 @@ tsonkiri	[=tsonkiri+poss@ti.][NRoot][=hummingbird.sp.; blue-fronted.lancebill (s
 
 ratsotiro	[r-][VPers][3m.S/A+][--][=atso][VRoot][=to.suck (prbly.cacao/kemito,tobacco/sheri; ES: chupar)][--][-t][+EP]t[--][-i+n.fut.][+REAL]i[--][=ro][+3n.m.O]
 
-ovocharite	[o-][NPers][3n.m.poss+][--][=pochari][AdjRoot][=sweet (ES: dulce)][--][-te][Gen][+aln.poss.]te
+ovocharite	[o-][NPers][3n.m.poss+][--][=pochari][NRoot][=sweet (ES: dulce)][--][-te][Gen][+aln.poss.]te
 
 inchateyaki	[=incha][NRoot][=plant][--][-teyaki][+CL:flower][=flower]
 
 .	.[$.]
 
 </morphology>
-        <segmentation format="subword-nmt"> r@@ atso@@ t@@ i@@ ro o@@ vochari@@ te incha@@ teyaki .</segmentation>
+        <segmentation format="subword-nmt">osheki i@@nyaama@@t@@a@@vo tsonkiri r@@atso@@t@@i@@ro o@@vochari@@te incha@@teyaki .</segmentation>
         <parsing/>
     </text>
     <text id="670">
@@ -16377,7 +16379,7 @@ inchateyaki	[=incha][NRoot][=plant][--][-teyaki][+CL:flower][=flower]
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 nonyaamatavo	[no-][VPers][1SG.S/A+][--][=nyaama][VRoot][=to.covet.sth. (ES: codiciar); to.like.sth. (ES: gustar)][--][-t][+EP]t[--][-a+n.fut.][+REAL.RFL]a[--][=vo][+3n.m.O]
 
@@ -16393,7 +16395,7 @@ opochatati	[o-][VPers][3n.m.S/A+][--][=pocha][VRoot][=to.be.sweet (ES: ser.dulce
 .	.[$.]
 
 </morphology>
-        <segmentation format="subword-nmt">osheki no@@ nyaama@@ t@@ a@@ vo n@@ ov@@ a@@ vo tsonkitiroki tema o@@ pocha@@ t@@ ati .</segmentation>
+        <segmentation format="subword-nmt">osheki no@@nyaama@@t@@a@@vo n@@ov@@a@@vo tsonkitiroki tema o@@pocha@@t@@ati .</segmentation>
         <parsing/>
     </text>
     <text id="671">
@@ -16419,7 +16421,7 @@ otomipaye	[o-][NPers][3n.m.poss+][--][=tomi+m.+inal@tsi.][NRoot][=son (kin.of.a.
 .	.[$.]
 
 </morphology>
-        <segmentation format="subword-nmt">ay@@ i@@ ro tsinane@@ paye tsoompi@@ ro@@ ntsi o@@ ki@@ ant@@ ya@@ ri@@ ri o@@ tomi@@ paye .</segmentation>
+        <segmentation format="subword-nmt">ay@@i@@ro tsinane@@paye tsoompi@@ro@@ntsi o@@ki@@ant@@ya@@ri@@ri o@@tomi@@paye .</segmentation>
         <parsing/>
     </text>
     <text id="672">
@@ -16439,7 +16441,7 @@ mapocha	[=mapocha+n.m.+poss@ti.][NRoot][=papaya (botany.nm.: carica.papaya)]
 .	.[$.]
 
 </morphology>
-        <segmentation format="subword-nmt">r@@ ov@@ ak@@ a@@ vo tsoori mapocha .</segmentation>
+        <segmentation format="subword-nmt">r@@ov@@ak@@a@@vo tsoori mapocha .</segmentation>
         <parsing/>
     </text>
     <text id="673">
@@ -16466,7 +16468,7 @@ iyatsinka	[i-][NPers][3m.poss+][--][=katsi][VRoot][=to.feel.pain; to.be.in.pain;
 .	.[$.]
 
 </morphology>
-        <segmentation format="subword-nmt">i@@ tsop@@ a@@ ak@@ e@@ ro apeti ir@@ aiki te r@@ ama@@ ve@@ t@@ ap@@ ah@@ e@@ ro i@@ katsi@@ nka .</segmentation>
+        <segmentation format="subword-nmt">i@@tsop@@a@@ak@@e@@ro apeti ir@@aiki te r@@ama@@ve@@t@@ap@@ah@@e@@ro i@@katsi@@nka .</segmentation>
         <parsing/>
     </text>
     <text id="674">
@@ -16481,17 +16483,16 @@ ipashikaatake	[i-][VPers][3m.S/A+][--][=pashikaa][VRoot][=to.cover (ES: cubrir, 
 
 marinkama	[=marinkama][NRoot][=cultural.hero; person's.name, NP]
 
-antari	[=antari+m.][AdjRoot][=big; mature]
+antari	[=antari+m.][NRoot][=big; mature]
 
 tsopiro	[=tsopiro+m.][NRoot][=big.armored.catfish.sp. (ES: carachama.grande/alargada)]
 
-???
 oshirantaaki	[o-][NPers][3n.m.poss+][--][=shiranta+gndr@n.m.][NRoot][=flagstone, flag, flat.stone (ES: laja, roca.plana); boulder (ES: peña.dentro.del.agua)][--][-a][+CL:liquid][=liquid][--][-ki][Cas][+LOC_LOC.T][=LOC:motion.to/motion.from; LOC.T:during/over]
 
 .	.[$.]
 
 </morphology>
-        <segmentation format="subword-nmt">i@@ pashikaa@@ t@@ ak@@ e marinkama antari tsopiro o@@ shiranta@@ a@@ ki .</segmentation>
+        <segmentation format="subword-nmt">i@@pashikaa@@t@@ak@@e marinkama antari tsopiro o@@shiranta@@a@@ki .</segmentation>
         <parsing/>
     </text>
     <text id="675">
@@ -16513,7 +16514,7 @@ mapi	[=mapi+n.m.+poss@ni:ne.][NRoot][=stone; rock]
 .	.[$.]
 
 </morphology>
-        <segmentation format="subword-nmt">r@@ atso@@ t@@ i@@ ro shima o@@ hampovatsa@@ te mapi .</segmentation>
+        <segmentation format="subword-nmt">r@@atso@@t@@i@@ro shima o@@hampovatsa@@te mapi .</segmentation>
     </text>
     <text id="676">
         <sentence lang="prq" normalizationlevel="none">Ityaakero yeye antabo inchato.</sentence>
@@ -16527,14 +16528,14 @@ ityaakero	[i-][VPers][3m.S/A+][--][=ty][VRoot][=to.fell, to.cut.down (e.g.: a.tr
 
 yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
 
-antavo	[=antavo+n.m.][AdjRoot][=big; mature]
+antavo	[=antavo+n.m.][NRoot][=big; mature]
 
 inchato	[=inchato+n.m.][NRoot][=tree (ES: árbol)]
 
 .	.[$.]
 
 </morphology>
-        <segmentation format="subword-nmt">i@@ ty@@ a@@ ak@@ e@@ ro yeye antavo inchato .</segmentation>
+        <segmentation format="subword-nmt">i@@ty@@a@@ak@@e@@ro yeye antavo inchato .</segmentation>
         <parsing/>
     </text>
     <text id="677">
@@ -16554,7 +16555,7 @@ antamiki	[=antami][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.for
 .	.[$.]
 
 </morphology>
-        <segmentation format="subword-nmt">oitsok@@ ak@@ e tyaapa antami@@ ki</segmentation>
+        <segmentation format="subword-nmt">oitsok@@ak@@e tyaapa antami@@ki</segmentation>
         <parsing/>
     </text>
     <text id="678">
@@ -16565,7 +16566,6 @@ antamiki	[=antami][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.for
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-???
 tahakotake	[=tahako][VRoot][=to.hatch (ES: eclosionar; reventar, hacer.pedazos)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e+n.fut.][+REAL]e
 
 iitsoki	[i-][NPers][3m.poss+][--][=kitsoki][NRoot][=egg (huevo); seed (ES: semilla)]
@@ -16579,7 +16579,7 @@ tyaapaniki	[=tyaapa+n.m.+poss@te.][NRoot][=hen (ES: gallina); chicken][--][-niki
 .	.[$.]
 
 </morphology>
-        <segmentation format="subword-nmt">tahako@@ t@@ ak@@ e i@@ itsoki tyaapa shitov@@ an@@ ak@@ e tyaapa@@ niki .</segmentation>
+        <segmentation format="subword-nmt">tahako@@t@@ak@@e i@@itsoki tyaapa shitov@@an@@ak@@e tyaapa@@niki .</segmentation>
         <parsing/>
     </text>
     <text id="679">
@@ -16594,7 +16594,6 @@ kiake	[=ki][VRoot][=to.enter (ES: ingresar)][--][-ak][ASP][+PRF][=completed.actn
 
 tyaapapankoki	[=tyaapa+n.m.+poss@te.][NRoot][=hen (ES: gallina); chicken][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)][--][-ki][Cas][+LOC_LOC.T]
 
-???
 maretyakintsi	[=mare+gndr@n.m.+inal@n/tsi.][NRoot][=wristband (ES: pulsera, brazalete)][--][-tyaki][+CL:flower][=flower][--][-ntsi+poss@alien.+syl@&gt;poly.][Gen][+nposs]ntsi
 
 rova	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-a+fut.][+IRR]a
@@ -16604,7 +16603,7 @@ iitsoki	[i-][NPers][3m.poss+][--][=kitsoki][NRoot][=egg (huevo); seed (ES: semil
 .	.[$.]
 
 </morphology>
-        <segmentation format="subword-nmt">ki@@ ak@@ e tyaapa@@ panko@@ ki mare@@ tyaki@@ ntsi r@@ ov@@ a i@@ itsoki .</segmentation>
+        <segmentation format="subword-nmt">ki@@ak@@e tyaapa@@panko@@ki mare@@tyaki@@ntsi r@@ov@@a i@@itsoki .</segmentation>
         <parsing/>
     </text>
     <text id="680">
@@ -16626,7 +16625,7 @@ kaniri	[=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: y
 .	.[$.]
 
 </morphology>
-        <segmentation format="subword-nmt">oninti impaneki@@ ki kaniri tyonkiro.</segmentation>
+        <segmentation format="subword-nmt">oninti impaneki@@ki kaniri tyonkiro.</segmentation>
         <parsing/>
     </text>
     <text id="681">
@@ -16646,7 +16645,7 @@ ovametantatsiri	[=ovame][VRoot][=to.teach (ES: enseñar)][--][-t][+EP]t[--][-ant
 .	.[$.]
 
 </morphology>
-        <segmentation format="subword-nmt">i@@ kaem@@ ak@@ ant@@ aet@@ ak@@ e@@ ri ovame@@ ant@@ atsi@@ ri yempi@@ pa@@ vae@@ ro@@ ntsi@@ ki .</segmentation>
+        <segmentation format="subword-nmt">i@@kaem@@ak@@ant@@aet@@ak@@e@@ri ovame@@ant@@atsi@@ri yempi@@pa@@vae@@ro@@ntsi@@ki .</segmentation>
         <parsing/>
     </text>
     <text id="682">
@@ -16657,7 +16656,7 @@ ovametantatsiri	[=ovame][VRoot][=to.teach (ES: enseñar)][--][-t][+EP]t[--][-ant
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-antavo	[=antavo+n.m.][AdjRoot][=big; mature]
+antavo	[=antavo+n.m.][NRoot][=big; mature]
 
 iyempita	[i-][NPers][3m.poss+][--][=kempita+n.m.+inal@ntsi.][NRoot][=ear (ES: oreja, oído)]
 
@@ -16670,7 +16669,7 @@ intaena	[=intaena+sem@loc.][AdvRoot][=far.away (ES: muy.lejos)]
 .	.[$.]
 
 </morphology>
-        <segmentation format="subword-nmt">antavo i@@ yempita otsiti i@@ kem@@ ant@@ a@@ ri intaena .</segmentation>
+        <segmentation format="subword-nmt">antavo i@@yempita otsiti i@@kem@@ant@@a@@ri intaena .</segmentation>
         <parsing/>
     </text>
     <text id="683">
@@ -16694,7 +16693,7 @@ ityerovi	[i-][VPers][3m.S/A+][--][=tyerov][VRoot][=to.kneel.down (ES: arrodillar
 .	.[$.]
 
 </morphology>
-        <segmentation format="subword-nmt">katsit@@ ak@@ e i@@ yereto charine o@@ kant@@ aka@@ ant@@ i@@ ro i@@ tyerov@@ i .</segmentation>
+        <segmentation format="subword-nmt">katsit@@ak@@e i@@yereto charine o@@kant@@aka@@ant@@i@@ro i@@tyerov@@i .</segmentation>
         <parsing/>
     </text>
     <text id="684">
@@ -16717,13 +16716,12 @@ nopankoki	[no-][NPers][1SG.poss+][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: 
 
 notsonkantyaavori	[no-][VPers][1SG.S/A+][--][=tsonk][VRoot][=to.finish (ES: terminar)][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-yaa+fut.][+IRR]yaa[--][=vo][+3n.m.O][--][=ri][NS][+REL]
 
-???
 intsipaite	[i-][VPers][3m.S/A+][--][N=][IRR+][--][=tsipa][VRoot][=to.accompany; to.be.together; to.join][--][-it][Asp][+ANT][=past/non-past.action:before]it[--][-e+fut.][+IRR]e
 
 .	.[$.]
 
 </morphology>
-        <segmentation format="subword-nmt">no@@ kant@@ ak@@ e@@ ri yeye : p@@ amitako@@ t@@ e@@ na no@@ panko@@ ki no@@ tsonk@@ ant@@ yaa@@ vo@@ ri i@@ n@@ tsipa@@ it@@ e .</segmentation>
+        <segmentation format="subword-nmt">no@@kant@@ak@@e@@ri yeye : p@@amitako@@t@@e@@na no@@panko@@ki no@@tsonk@@ant@@yaa@@vo@@ri i@@n@@tsipa@@it@@e .</segmentation>
         <parsing/>
     </text>
     <text id="685">
@@ -16747,7 +16745,7 @@ hantari	[=hantari+n.m.][NRoot][=timber.tree.sp. (ES: árbol.(maderable), cedro; 
 .	.[$.]
 
 </morphology>
-        <segmentation format="subword-nmt">r@@ ay@@ i@@ ro pinkatsare yomaa@@ re@@ ntsi ri@@ yoma@@ t@@ ant@@ ya@@ vo@@ ri hantari .</segmentation>
+        <segmentation format="subword-nmt">r@@ay@@i@@ro pinkatsare yomaa@@re@@ntsi ri@@yoma@@t@@ant@@ya@@vo@@ri hantari .</segmentation>
         <parsing/>
     </text>
     <text id="686">
@@ -16758,7 +16756,7 @@ hantari	[=hantari+n.m.][NRoot][=timber.tree.sp. (ES: árbol.(maderable), cedro; 
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-osheki	[=osheki][AdjRoot][=many; much; a.lot]
+osheki	[=osheki][NRoot][=many; much; a.lot]
 
 yoosara	[=yoosara+m.][NRoot][=fly.sp. (ES: manta.blanca)]
 
@@ -16769,7 +16767,7 @@ oharentsite	[o-][VPers][3n.m.S/A+][--][=harentsi+m.][NRoot][=year (ES: año); dr
 .	.[$.]
 
 </morphology>
-        <segmentation format="subword-nmt">osheki yoosara ari@@ rika o@@ harentsi t@@ e .</segmentation>
+        <segmentation format="subword-nmt">osheki yoosara ari@@rika o@@harentsi t@@e .</segmentation>
         <parsing/>
     </text>
     <text id="687.1">
@@ -16793,7 +16791,7 @@ hantariki	[=hantari+n.m.][NRoot][=timber.tree.sp. (ES: árbol.(maderable), cedro
 .	.[$.]
 
 </morphology>
-        <segmentation format="subword-nmt">no@@ yome@@ t@@ a@@ e@@ mi p@@ ant@@ e@@ ri ari@@ rika p@@ iyaa@@ t@@ ak@@ e hantari@@ ki .</segmentation>
+        <segmentation format="subword-nmt">no@@yome@@t@@a@@e@@mi p@@ant@@e@@ri ari@@rika p@@iyaa@@t@@ak@@e hantari@@ki .</segmentation>
         <parsing/>
     </text>
     <text id="687.2">
@@ -16815,7 +16813,7 @@ pivaero	[pi-][NPers][2poss+][--][=vaero+n.m.+inal@ntsi.][NRoot][=name (ES: nombr
 .	.[$.]
 
 </morphology>
-        <segmentation format="subword-nmt">o@@ tim@@ aty@@ e p@@ iyot@@ e pi@@ hankena@@ t@@ e pi@@ vaero .</segmentation>
+        <segmentation format="subword-nmt">o@@tim@@aty@@e p@@iyot@@e pi@@hankena@@t@@e pi@@vaero .</segmentation>
         <parsing/>
     </text>
     <text id="687.3">
@@ -16841,7 +16839,7 @@ mantsiyare	[=mantsiya][VRoot][=to.be.sick (ES: enfermar(se))][--][-re+m.][NS][+N
 .	.[$.]
 
 </morphology>
-        <segmentation format="subword-nmt">p@@ amitako@@ t@@ ant@@ yaa@@ ri@@ ri mantsiya@@ re .</segmentation>
+        <segmentation format="subword-nmt">p@@amitako@@t@@ant@@yaa@@ri@@ri mantsiya@@re .</segmentation>
         <parsing/>
     </text>
     <text id="688">
@@ -16855,7 +16853,7 @@ mantsiyare	[=mantsiya][VRoot][=to.be.sick (ES: enfermar(se))][--][-re+m.][NS][+N
 
 iyataeyeni	[=iya][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-aey][+PL]aey[--][-e][+IRR]e[--][-ni+circumfixing][+PL]
 
-irianipaye	[=iriani+m.][AdjRoot][=small][--][-paye][Num][+PL_DIST]
+irianipaye	[=iriani+m.][NRoot][=small][--][-paye][Num][+PL_DIST]
 
 yotaantsipankoki	[=yo+INF@/EP:t/aantsi:/EP:t/agaantsi.][VRoot][=to.learn (ES: aprender); to.know (ES: conocer, saber)][--][-t][+EP]t[--][-aantsi][NS][+NMZ.INF]aantsi[--][=panko+gndr@n.m.+inal@tsi.+mrph.phon@LEN:^p→^v.][NRoot][=house, home (ES: casa);| tambo (QU: tampu)][--][-ki][Cas][+LOC_LOC.T][=LOC:motion.to/motion.from; LOC.T:during/over]
 
@@ -16864,7 +16862,7 @@ riyotantyaari	[r-][VPers][3m.S/A+][--][=iyot][VRoot][=to.know, to.understand (ES
 .	.[$.]
 
 </morphology>
-        <segmentation format="subword-nmt">iya@@ t@@ aey@@ e@@ ni iriani@@ paye yo@@ t@@ aantsi@@ panko@@ ki r@@ iyot@@ ant@@ yaa@@ ri .</segmentation>
+        <segmentation format="subword-nmt">iya@@t@@aey@@e@@ni iriani@@paye yo@@t@@aantsi@@panko@@ki r@@iyot@@ant@@yaa@@ri .</segmentation>
         <parsing/>
     </text>
     <!-- ***********************************************
@@ -16883,7 +16881,7 @@ ashi	[=ashi][PrnPoss][+1PL]
 
 añane	[a-][NPers][1PL.poss+][--][=nya+n.m.+inal@ntsi.+poss@ne.][NRoot][=word (ES: palabra), language][--][-ne][Gen][+aln.poss.]ne
 </morphology>
-        <segmentation format="subword-nmt">ashi a@@ nya@@ ne</segmentation>
+        <segmentation format="subword-nmt">ashi a@@nya@@ne</segmentation>
     </text>
     <text id="EOS2">
         <sentence lang="prq" normalizationlevel="none">Apinka yareeta antamimashiki.</sentence>
@@ -16902,7 +16900,7 @@ antamimashiki	[=antami][NRoot][=dense.tropical.forest][--][-mashi][+CL:vast.spac
 .	.[$.]
 
 </morphology>
-        <segmentation format="subword-nmt">apinka y@@ aree@@ t@@ a antami@@ mashi@@ ki .</segmentation>
+        <segmentation format="subword-nmt">apinka y@@aree@@t@@a antami@@mashi@@ki .</segmentation>
         <parsing/>
     </text>
     <text id="EOS3">
@@ -16920,7 +16918,7 @@ homintsaavakeri	[h-][VPers][3m.S/A+][--][omin=][AGT.CAUS+][--][=tsaav][VRoot][=t
 kashekari	[=kashekari+m.][NRoot][=jaguar (phon.tat.: [ka.ˈʃɛ.ka.ɾɪ]; a.manitzi.that.has.devoured.a.human; ES: jaguar); tiger (ES: tigre)]
 
 </morphology>
-        <segmentation format="subword-nmt">h@@ omin@@ tsaav@@ ak@@ e@@ ri kashekari</segmentation>
+        <segmentation format="subword-nmt">h@@omin@@tsaav@@ak@@e@@ri kashekari</segmentation>
         <parsing/>
     </text>
     <text id="EOS4">
@@ -16933,14 +16931,27 @@ kashekari	[=kashekari+m.][NRoot][=jaguar (phon.tat.: [ka.ˈʃɛ.ka.ɾɪ]; a.mani
 
 itsaavakaakari	[i-][VPers][3m.S/A+][--][=tsaav][VRoot][=to.fear. to.be.afraid (ES: tener.miedo)][--][-aka][+CAUS.SOC]aka[--][-ak][ASP][+PRF]ak[--][-a][+REAL.RFL]a[--][=ri][NS][+REL]
 
-antari	[=antari+m.][AdjRoot][=big; mature]
+antari	[=antari+m.][NRoot][=big; mature]
 
 maranke	[=maranke+m.][NRoot][=snake.sp., serpent]
 
 .	.[$.]
 
 </morphology>
-        <segmentation format="subword-nmt">i@@ tsaav@@ aka@@ ak@@ a@@ ri antari maranke .</segmentation>
+        <segmentation format="subword-nmt">i@@tsaav@@aka@@ak@@a@@ri antari maranke .</segmentation>
         <parsing/>
+    </text>
+    <text id="EOS5">
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">tsikarika isaiki</sentence>
+        <sentence lang="en">wherever they were living</sentence>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+tsikarika	[=tsika][WhPrn][=WH][--][-rika][+COND]::[=whatever; wherever]
+
+isaiki	[i-][VPers][3m.S/A+][--][=saik+INF@aantsi.][VRoot][=to.be, to.be.at, to.be.in; to.sit (ES: sentarse); to.live][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+</morphology>
+        <segmentation format="subword-nmt">tsika@@rika i@@saik@@i</segmentation>
     </text>
 </parallel>
