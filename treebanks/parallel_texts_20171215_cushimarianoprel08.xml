@@ -16992,4 +16992,22 @@ raashitakemi	[Ø-][VPers][3m.S/A+][--][r=][IRR+][--][=aashi+~{V:/'to.take':aa/}{
 </morphology>
         <segmentation format="subword-nmt">iitaa o@@vaero avint@@a@@vo@@ntsi ø@@r@@aashi@@t@@ak@@e@@mi ?</segmentation>
     </text>
+    <text id="">
+        <sentence lang="prq" normalizationlevel="none">¡Ikimoshirejeiti apa!</sentence>
+        <sentence lang="prq" normalizationlevel="none">¡Ikimoshireheiti apa!</sentence>
+        <sentence lang="es">¡Feliz Día Papá!</sentence>
+        <sentence lang="en">Happy Father's Day!</sentence>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+¡	¡[$.]
+
+Ikimoshireheiti	[i-][VPers][3m.S/A+][--][=kimoshire+INF@/EP:t/aantsi.][VRoot][=to.be.happy, to.be.glad (ES: alegrarse)][--][-hei][NUM][+PL][=PL.S/A+; INTR: PL.S/A+; TR: PL.S/A+.or.+PL.O]hei[--][-t][+EP]t[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+apa	[=apa+gndr@m.+kin@fe/male.ego][NRoot][=father (ES: padre)]
+
+!	![$.]
+
+</morphology>
+    </text>
 </parallel>
