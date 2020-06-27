@@ -312,14 +312,52 @@ payiiro	[p-][VPers][2S/A+][--][=a+INF@/DEL:a/gaantsi.+I-Conj@act.v.][VRoot][=to.
         <sentence lang="prq" normalizationlevel="none">Iroñaaka yaminakiro itsinkavitaro ikantsiro, poñaa yaminaki inchaki</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ironyaaka yaminakiro itsinkavitaro ikantsiro, ponyaa yaminaki inchaki</sentence>
         <sentence lang="es">Ahora lo miro, lo había hincado lo intentaba, después busco un palo</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ironyaaka	[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+yaminakiro		[y-][VPers][3m.S/A+][--][=amin+INF@aantsi.][VRoot][=to.treat ][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+itsinkavitaro		[i-][VPers][3m.S/A+][--][=tsink+INF@V.][VRoot][=to.(crush|mash).sth.with.wooden.pestle (prbly.boiled.yucca);| to.pound.sth. (ES: machacar)][--][-a][+EP]a[--][-vi][+FRUS][=unsuccessful/interrupted.action/state (EN: in.vain; ES: casi); action.that.didn't.achieve.the.desired.result]vi[--][-t][+EP]t[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ro][+3n.m.O/P]
+
+ikantsiro	[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;;| to.do;| to.happen;;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+,	,[$.]
+
+ponyaa	[=ponyaa][AdvRoot][=CONN (EN: then, later)]
+
+yaminaki		[y-][VPers][3m.S/A+][--][=amin+INF@aantsi.][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+inchaki		[=inchaki+~{N:/'plant':incha/}{CL:/'hard':ki/}+poss@ri.][NRoot][=pole (ES: palo)]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.11">
         <sentence lang="prq" normalizationlevel="none">Itsikotakiro, ikarakotakiro, poñaa ikarakiro okaratsira inchatyaki</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Itsikotakiro, ikarakotakiro, ponyaa ikarakiro okaratsira inchatyaki</sentence>
         <sentence lang="es">Lo cogió con gancho, lo rompió, después lo rompió hasta donde estaba la flor</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+itsikotakiro		[i-][VPers][3m.S/A+][--][=tsiko+INF@/EP:t/aantsi.][VRoot][=to.hook (ES: enganchar);| to.take.hold][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+,	,[$.]
+
+ikarakotakiro		[i-][VPers][3m.S/A+][--][=kar][VRoot][=to.break (ES: quebrar)][--][-ako][VS][+APPL.GEN][=GEN (EN: with.reference.to.sth., about.sth.); INDR (EN: action.affects.sth.in.an.indirect.manner)]ako[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+,	,[$.]
+
+ponyaa	[=ponyaa][AdvRoot][=CONN (EN: then, later)]
+
+ikarakiro		[i-][VPers][3m.S/A+][--][=kar][VRoot][=to.break (ES: quebrar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+okaratsira		[o-][VPers][3n.m.S/A+][--][=kara+INF@/EP:t/aantsi.][VRoot][=to.contain, to.finish][--][-ts][+EP]ts[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][-ra+loc@medial.][+ADV]ra
+
+inchatyaki		[=incha][NRoot][=plant (ES: planta)][--][-tyaki][+CL:flower][=flower]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.12">
