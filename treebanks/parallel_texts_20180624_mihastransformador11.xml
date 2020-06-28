@@ -446,7 +446,26 @@ ironyaka	[=ironyaka][AdvRoot][=now (ES: ahora)]
         <sentence lang="prq" normalizationlevel="none">Iñaapakiro pooriki ikantsiro, ari ampankoshityari jaka chooki</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Inyaapakiro pooriki ikantsiro, ari ampankoshityari haka chooki</sentence>
         <sentence lang="es">Vio un árbol de jaboncillo le dijo, aquí vamos hacer nuestra choza Hermana.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+inyaapakiro		[i-][VPers][3m.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-a][+EP]a[--][-ap+dir@goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+pooriki		[=pooriki+gndr@n.m.][NRoot][=tree.sp. (ES: árbol.de.jaboncillo)]
+
+ikantsiro	[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;;| to.do;| to.happen;;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+,	,[$.]
+
+ari	[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+ampankoshityari		[a-][VPers][1PL.S/A+][--][N=][IRR+][--][=pankoshi+INF@/EP:t/aantsi.][VRoot][=to.build.a.tampu (ES: construir.un.tampu/tambo)][--][-t][+EP]t[--][-ya+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]ya[--][=ri][+3m.O/P]
+
+haka		[=haka+loc@proximal.b.][PrnDem][=DEM.ADV. (EN: here, close.to.the.speaker; ES: aquí)]
+
+chooki		[=chooki+gndr@n.m.+voc.+kin@male.ego][NRoot][=sister (ES: hermana)]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.16">
