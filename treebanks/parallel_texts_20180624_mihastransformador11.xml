@@ -317,9 +317,9 @@ payiiro	[p-][VPers][2S/A+][--][=a+INF@/DEL:a/gaantsi.+I-Conj@act.v.][VRoot][=to.
 
 ironyaaka	[=ironyaaka][AdvRoot][=now (ES: ahora)]
 
-yaminakiro		[y-][VPers][3m.S/A+][--][=amin+INF@aantsi.][VRoot][=to.treat ][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+yaminakiro	[y-][VPers][3m.S/A+][--][=amin+INF@aantsi.][VRoot][=to.treat ][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
 
-itsinkavitaro		[i-][VPers][3m.S/A+][--][=tsink+INF@V.][VRoot][=to.(crush|mash).sth.with.wooden.pestle (prbly.boiled.yucca);| to.pound.sth. (ES: machacar)][--][-a][+EP]a[--][-vi][+FRUS][=unsuccessful/interrupted.action/state (EN: in.vain; ES: casi); action.that.didn't.achieve.the.desired.result]vi[--][-t][+EP]t[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ro][+3n.m.O/P]
+itsinkavitaro	[i-][VPers][3m.S/A+][--][=tsink+INF@V.][VRoot][=to.(crush|mash).sth.with.wooden.pestle (prbly.boiled.yucca);| to.pound.sth. (ES: machacar)][--][-a][+EP]a[--][-vi][+FRUS][=unsuccessful/interrupted.action/state (EN: in.vain; ES: casi); action.that.didn't.achieve.the.desired.result]vi[--][-t][+EP]t[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ro][+3n.m.O/P]
 
 ikantsiro	[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;;| to.do;| to.happen;;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
 
@@ -327,9 +327,9 @@ ikantsiro	[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;;
 
 ponyaa	[=ponyaa][AdvRoot][=CONN (EN: then, later)]
 
-yaminaki		[y-][VPers][3m.S/A+][--][=amin+INF@aantsi.][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+yaminaki	[y-][VPers][3m.S/A+][--][=amin+INF@aantsi.][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
 
-inchaki		[=inchaki+~{N:/'plant':incha/}{CL:/'hard':ki/}+poss@ri.][NRoot][=pole (ES: palo)]
+inchaki	[=inchaki+~{N:/'plant':incha/}{CL:/'hard':ki/}+poss@ri.][NRoot][=pole (ES: palo)]
 
 </morphology>
         <parsing format="" analysislevel=""/>
@@ -341,30 +341,57 @@ inchaki		[=inchaki+~{N:/'plant':incha/}{CL:/'hard':ki/}+poss@ri.][NRoot][=pole (
         <morphology format="ashaninkamorph" analysislevel="fully">
 
 
-itsikotakiro		[i-][VPers][3m.S/A+][--][=tsiko+INF@/EP:t/aantsi.][VRoot][=to.hook (ES: enganchar);| to.take.hold][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+itsikotakiro	[i-][VPers][3m.S/A+][--][=tsiko+INF@/EP:t/aantsi.][VRoot][=to.hook (ES: enganchar);| to.take.hold][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
 
 ,	,[$.]
 
-ikarakotakiro		[i-][VPers][3m.S/A+][--][=kar][VRoot][=to.break (ES: quebrar)][--][-ako][VS][+APPL.GEN][=GEN (EN: with.reference.to.sth., about.sth.); INDR (EN: action.affects.sth.in.an.indirect.manner)]ako[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+ikarakotakiro	[i-][VPers][3m.S/A+][--][=kar][VRoot][=to.break (ES: quebrar)][--][-ako][VS][+APPL.GEN][=GEN (EN: with.reference.to.sth., about.sth.); INDR (EN: action.affects.sth.in.an.indirect.manner)]ako[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
 
 ,	,[$.]
 
 ponyaa	[=ponyaa][AdvRoot][=CONN (EN: then, later)]
 
-ikarakiro		[i-][VPers][3m.S/A+][--][=kar][VRoot][=to.break (ES: quebrar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+ikarakiro	[i-][VPers][3m.S/A+][--][=kar][VRoot][=to.break (ES: quebrar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
 
-okaratsira		[o-][VPers][3n.m.S/A+][--][=kara+INF@/EP:t/aantsi.][VRoot][=to.contain, to.finish][--][-ts][+EP]ts[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][-ra+loc@medial.][+ADV]ra
+okaratsira	[o-][VPers][3n.m.S/A+][--][=kara+INF@/EP:t/aantsi.][VRoot][=to.contain, to.finish][--][-ts][+EP]ts[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][-ra+loc@medial.][+ADV]ra
 
-inchatyaki		[=incha][NRoot][=plant (ES: planta)][--][-tyaki][+CL:flower][=flower]
+inchatyaki	[=incha][NRoot][=plant (ES: planta)][--][-tyaki][+CL:flower][=flower]
 
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.12">
         <sentence lang="prq" normalizationlevel="none">ipakiro ikantsiro niiroka chooki, iroñaka ari nanakiro, maatsi ochanpiro aanakiro</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">ipakiro ikantsiro niiroka chooki, ironyaka ari nanakiro, maatsi ochanpiro aanakiro</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">ipakiro ikantsiro niiroka chooki, ironyaka ari nanakiro, maatsi ochampiro aanakiro</sentence>
         <sentence lang="es">Le dio a la hermana diciéndole aquí esta hermana, ahora voy ha llevarlo, dijo la hermana. Tenía una banda</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ipakiro		[i-][VPers][3m.S/A+][--][=p+INF@aantsi.][VRoot][=to.give (ES: dar); to.feed (ES: alimentar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+ikantsiro	[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;;| to.do;| to.happen;;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+niiroka		[=n+INF@aantsi][VRoot][=to.be (ES: ser,, estar)][--][-ii+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]ii[--][=ro][+3n.m.O/P][--][-ka+loc@proximal.][+ADV]ka
+
+chooki		[=chooki+gndr@n.m.+voc.+kin@male.ego][NRoot][=sister (ES: hermana)]
+
+,	,[$.]
+
+ironyaka	[=ironyaka][AdvRoot][=now (ES: ahora)]
+
+ari	[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+nanaakiro		[n-][VPers][1SG.S/A+][--][=ana+INF@/EP:t/aantsi.][VRoot][=to.carry.over.the.shoulder (ES: cargar.sobre.el.hombro)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+,	,[$.]
+
+maatsi		[=maatsi][VRoot][=EXIST (EN: there.is/are); POSSESS (EN: has)]
+
+ochampiro		[o-][NPers][3n.m.poss+][--][=champiro+gndr@n.m.+inal@ntsi.][NRoot][=fabric.to.carry.a.baby (ES: faja.para.cargar.bebes; QU: aparina); sling (ES: cabestrillo)]
+
+aanakiro		[=a+INF@/DEL:a/gaantsi.+I-Conj@act.v.][VRoot][=to.take (ES: agarrar)][--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.13">
