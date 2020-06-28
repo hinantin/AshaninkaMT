@@ -367,13 +367,13 @@ inchatyaki	[=incha][NRoot][=plant (ES: planta)][--][-tyaki][+CL:flower][=flower]
         <morphology format="ashaninkamorph" analysislevel="fully">
 
 
-ipakiro		[i-][VPers][3m.S/A+][--][=p+INF@aantsi.][VRoot][=to.give (ES: dar); to.feed (ES: alimentar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+ipakiro	[i-][VPers][3m.S/A+][--][=p+INF@aantsi.][VRoot][=to.give (ES: dar); to.feed (ES: alimentar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
 
 ikantsiro	[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;;| to.do;| to.happen;;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
 
-niiroka		[=n+INF@aantsi][VRoot][=to.be (ES: ser,, estar)][--][-ii+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]ii[--][=ro][+3n.m.O/P][--][-ka+loc@proximal.][+ADV]ka
+niiroka	[=n+INF@aantsi][VRoot][=to.be (ES: ser,, estar)][--][-ii+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]ii[--][=ro][+3n.m.O/P][--][-ka+loc@proximal.][+ADV]ka
 
-chooki		[=chooki+gndr@n.m.+voc.+kin@male.ego][NRoot][=sister (ES: hermana)]
+chooki	[=chooki+gndr@n.m.+voc.+kin@male.ego][NRoot][=sister (ES: hermana)]
 
 ,	,[$.]
 
@@ -381,15 +381,15 @@ ironyaka	[=ironyaka][AdvRoot][=now (ES: ahora)]
 
 ari	[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
 
-nanaakiro		[n-][VPers][1SG.S/A+][--][=ana+INF@/EP:t/aantsi.][VRoot][=to.carry.over.the.shoulder (ES: cargar.sobre.el.hombro)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+nanaakiro	[n-][VPers][1SG.S/A+][--][=ana+INF@/EP:t/aantsi.][VRoot][=to.carry.over.the.shoulder (ES: cargar.sobre.el.hombro)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
 
 ,	,[$.]
 
-maatsi		[=maatsi][VRoot][=EXIST (EN: there.is/are); POSSESS (EN: has)]
+maatsi	[=maatsi][VRoot][=EXIST (EN: there.is/are); POSSESS (EN: has)]
 
-ochampiro		[o-][NPers][3n.m.poss+][--][=champiro+gndr@n.m.+inal@ntsi.][NRoot][=fabric.to.carry.a.baby (ES: faja.para.cargar.bebes; QU: aparina); sling (ES: cabestrillo)]
+ochampiro	[o-][NPers][3n.m.poss+][--][=champiro+gndr@n.m.+inal@ntsi.][NRoot][=fabric.to.carry.a.baby (ES: faja.para.cargar.bebes; QU: aparina); sling (ES: cabestrillo)]
 
-aanakiro		[=a+INF@/DEL:a/gaantsi.+I-Conj@act.v.][VRoot][=to.take (ES: agarrar)][--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+aanakiro	[=a+INF@/DEL:a/gaantsi.+I-Conj@act.v.][VRoot][=to.take (ES: agarrar)][--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
 
 </morphology>
         <parsing format="" analysislevel=""/>
@@ -398,7 +398,24 @@ aanakiro		[=a+INF@/DEL:a/gaantsi.+I-Conj@act.v.][VRoot][=to.take (ES: agarrar)][
         <sentence lang="prq" normalizationlevel="none">Osatetakaro jaka inchatyakira, okaratsi apite inchatyaaki</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Osatetakaro haka inchatyakira, okaratsi apite inchatyaaki</sentence>
         <sentence lang="es">Lo lleno aquí debajo las axilas esa flor, eran dos flores</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+osatetakaro	[o-][VPers][3n.m.S/A+][--][=sat+INF@aantsi.][VRoot][=to.stick.sth.into.sth./sb.; to.knife.sb. (ES: acuchillar); to.stab.sb. (ES: apuñalar)][--][-et+allomorph@it.][Asp][+ICPL][=actn/event.that.was.begun.but.not.completed]et[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL.RFL]a[--][=ro][+3n.m.O/P]
+
+haka	[=haka+loc@proximal.b.][PrnDem][=DEM.ADV. (EN: here, close.to.the.speaker; ES: aquí)]
+
+inchatyakira	[=incha][NRoot][=plant (ES: planta)][--][-tyaki][+CL:flower][=flower][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+,	,[$.]
+
+okaratsi	[o-][VPers][3n.m.S/A+][--][=kara+INF@/EP:t/aantsi.][VRoot][=COP.CAP (EN: the.amount,, to.be.Nº/#.in.number/quantity_of_sth.)][--][-ts][+EP]ts[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+apite	[=apite][Numeral:PRQ][=2 ~ two (ES: dos)]
+
+inchatyaaki	[=incha][NRoot][=plant (ES: planta)][--][-tyaaki][+CL:flower][=flower]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.14">
