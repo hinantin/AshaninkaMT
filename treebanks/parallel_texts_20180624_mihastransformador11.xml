@@ -422,7 +422,24 @@ inchatyaaki	[=incha][NRoot][=plant (ES: planta)][--][-tyaaki][+CL:flower][=flowe
         <sentence lang="prq" normalizationlevel="none">Otetanakiro jaka ochampiroki oneekika, jaitetsi iroñaka</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Otetanakiro haka ochampiroki oneekika, haitetsi ironyaka</sentence>
         <sentence lang="es">Lo lleno aquí cerca a las axilas en su banda, en su pecho, se fue ahora</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+otetanakiro		[o-][VPers][3n.m.S/A+][--][=tet+INF@aantsi.][VRoot][=to.fill, to.enclose.sth.in/with.sth.][--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+haka		[=haka+loc@proximal.b.][PrnDem][=DEM.ADV. (EN: here, close.to.the.speaker; ES: aquí)]
+
+ochampiroki		[o-][NPers][3n.m.poss+][--][=champiro+gndr@n.m.+inal@ntsi.][NRoot][=fabric.to.carry.a.baby (ES: faja.para.cargar.bebes; QU: aparina); sling (ES: cabestrillo)][--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)]
+
+oneekika		[o-][NPers][3n.m.poss+][--][=nee+sem@b.p.][NRoot][=chest (ES: pecho)][--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)][--][=ka+mrph.cath@proximal.b.][AS][+DEM.NOM][=DEM (EN: here, close.to.the.speaker)]
+
+,	,[$.]
+
+haitetzi		[=ha+INF@/EP:t/aantsi.][VRoot][=to.go (ES: ir)][--][-ite][Asp][+CMPL][=completion.of.an.event]ite[--][-ts][+EP]ts[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.15">
