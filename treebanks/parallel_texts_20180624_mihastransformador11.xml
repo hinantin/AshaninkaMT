@@ -617,9 +617,39 @@ ahatanahi		[a-][VPers][1PL.S/A+][--][=hat+INF@aantsi.][VRoot][=to.go (ES: ir)][-
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.21">
-        <sentence lang="prq">Ari isaiki iñaatsiri ikinapaaki shirintsi, kintsori, ikentayetavakiri, poña yaminakiri ooriatsiri</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ari isaiki iñaatsiri ikinapaaki shirintsi, kintsori, ikentayetavakiri, poña yaminakiri ooriatsiri</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ari isaiki inyaatsiri ikinapaaki shirintsi, kintsori, ikentayetavakiri, ponya yaminakiri ooriatsiri</sentence>
         <sentence lang="es">Ahí estaba sentado, luego vio venir una perdiz, una pava todito lo pico con su flecha. Luego miro al sol</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ari		[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+isaiki		[i-][VPers][3m.S/A+][--][=saik+INF@aantsi.][VRoot][=to.be, to.be.at, to.be.in; to.sit (ES: sentarse); to.live][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+inyaatsiri		[i-][VPers][3m.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-a][+EP]a[--][-atsi][Asp][+STAT.IPRF][=ongoing.&amp;.non-evolving.state]atsi[--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+ikinapaaki		[i-][VPers][3m.S/A+][--][=kin+INF@aantsi.][VRoot][=to.go.by.trail, to.go (ES: ir); to.pass (ES: pasar); to.walk, to.come][--][-ap+dir@goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-a][+EP]a[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+shirintsi		[=shirintsi+gndr@m.+sem@bird][NRoot][=small.partridge.sp. (ES: firirín, perdíz.pequeña; sci.nm.: crypturellus.soui)]
+
+,	,[$.]
+
+kintsori		[=kintsori+poss@ti.][NRoot][=blue.partridge/quail.sp. (ES: perdiz.azul)]
+
+,	,[$.]
+
+ikentayetavakiri		[i-][VPers][3m.S/A+][--][=kent+INF@aantsi.][VRoot][=to.pierce.with.arrows, to.shoot.arrows; to.sting (ES: picar)][--][-a][+EP]a[--][-ye][+DIST][=PL.S/A+.who.are.separated.into.groups.in.≠.locations]ye[--][-t][+EP]t[--][-av+dir@object.oriented][ADV][+DIR][=contrary,opposite; RCVG:object.arriving.at.the.location.of.the.subject]av[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+,	,[$.]
+
+ponya		[=ponya][AdvRoot][=CONN (EN: then, later)]
+
+yaminakiri		[y-][VPers][3m.S/A+][--][=amin+INF@aantsi.][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+ooriatsiri		[=ooriatsiri+gndr@m.][NRoot][=shining.sun, strong.sun; the.sun; solar.divinity]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.22">
