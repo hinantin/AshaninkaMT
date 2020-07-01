@@ -726,25 +726,33 @@ iritsiro	[iri-][NPers][3m.poss+][--][=tsiro+gndr@n.m.+kin@male.ego][NRoot][=sist
 
 tetya	[=te][Neg][=NEG.REAL][--][=tya][+N.C.FOC][=yet]::[=not.at.all; not…until.now, not…yet]
 
-kaari		[=kaari][Neg][=NEG.COP (EN: not.be, this.is.not.so; ES: no.es,, ¿por.qué.no?,, ¿no.es?)]
+kaari	[=kaari][Neg][=NEG.COP (EN: not.be, this.is.not.so; ES: no.es,, ¿por.qué.no?,, ¿no.es?)]
 
-anyiiro		[a-][VPers][1PL.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-ii+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]ii[--][=ro][+3n.m.O/P]
+anyiiro	[a-][VPers][1PL.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-ii+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]ii[--][=ro][+3n.m.O/P]
 
-ironyaakakia		[=ironyaa][NRoot][=now (ES: ahora)][--][-ka][+EMPH][=EMPH; ASSERT (EN: state.clearly-&amp;-firmly.that.sth.is.true)][--][-kia][+EMPH][=EMPH; ASSERT (EN: state.clearly-&amp;-firmly.that.sth.is.true)]
-
-,	,[$.]
-
-ariitaha		[=arii+INF@/EP:t/aantsi.][VRoot][=to.arrive (ES: llegar); to.visit.with.sb. (ES: visitar.a.algn.)][--][-t][+EP]t[--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
-
-iniroki		[i-][NPers][3m.poss+][--][=niro+gndr@n.m.+kin@fe/male.ego+voc@1SG:2SG:3SG.][NRoot][=mother][--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)]
+ironyaakakia	[=ironyaa][NRoot][=now (ES: ahora)][--][-ka][+EMPH][=EMPH; ASSERT (EN: state.clearly-&amp;-firmly.that.sth.is.true)][--][-kia][+EMPH][=EMPH; ASSERT (EN: state.clearly-&amp;-firmly.that.sth.is.true)]
 
 ,	,[$.]
 
-iriki		[i-][NPers][3m.poss+][--][=iri+gndr@m.+kin@fe/male.ego][NRoot][=father (ES: papá)][--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)]
+ariitaha	[=arii+INF@/EP:t/aantsi.][VRoot][=to.arrive (ES: llegar); to.visit.with.sb. (ES: visitar.a.algn.)][--][-t][+EP]t[--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+iniroki	[i-][NPers][3m.poss+][--][=niro+gndr@n.m.+kin@fe/male.ego+voc@1SG:2SG:3SG.][NRoot][=mother][--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)]
+
+,	,[$.]
+
+iriki	[i-][NPers][3m.poss+][--][=iri+gndr@m.+kin@fe/male.ego][NRoot][=father (ES: papá)][--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)]
 
 ,	,[$.]
 
 okantsiri	[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;;| to.do;| to.happen;;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+apaa	[=apaa+gndr@m.+kin@fe/male.ego][NRoot][=father (ES: padre)]
+
+,	,[$.]
+
+nonkotsitavakiita	[no-][VPers][1SG.S/A+][--][N=][IRR+][--][=kotsi+INF@antsi.][VRoot][=to.cook (ES: cocinar, preparar.comida)][--][-t][+EP]t[--][-av+dir@object.oriented][ADV][+DIR][=contrary,opposite; RCVG:object.arriving.at.the.location.of.the.subject]av[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-ii+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]ii[--][=ta][MODAL][+OPT_SUBJ][CONTG: actn.that.depends.on.sth.that.may.or.may.not.happen; HYPOTH: actn.that.is.possible.&amp;.imagined.rather.than.real.&amp;.true]
+
+tsimiri	[=tsimiri+gndr@m.+poss@ti.+sem@bird][NRoot][=bird, little.bird (ES: ave, pájaro)]
 
 </morphology>
         <parsing format="" analysislevel=""/>
