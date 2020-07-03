@@ -802,9 +802,41 @@ oyariri		[o-][NPers][3n.m.poss+][--][=yari+gndr@m.+poss@ri.+kin@fem.ego][NRoot][
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.27">
-        <sentence lang="prq">Aparonitaki kashiri, iroñaaka kooyara motyaataki, okanta, okanta, poñaa okantsiri oyariri</sentence>
+        <sentence lang="prq" normalizationlevel="none">Aparonitaki kashiri, iroñaaka kooyara motyaataki, okanta, okanta, poñaa okantsiri oyariri</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Aparonitaki kashiri, ironyaaka kooyara motyaataki, okanta, okanta, ponyaa okantsiri oyariri</sentence>
         <sentence lang="es">Ya pasaron un mes, ahora la chica estaba gestando, así pasaba, así pasaba, le dijo a su hermano</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+aparonitaki		[=aparoni+~{'one':apa}{NMZ:ro}{ADV:ni}][Numeral:PRQ][=1 ~ one (ES: uno)][^VBZ][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+kashiri		[=kashiri+gndr@m.+poss@te.][NRoot][=moon (ES: luna); month (ES: mes); lunar.deity]
+
+,	,[$.]
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+kooyara		[=kooya+gndr@n.m.][NRoot][=woman (ES: mujer; QU: quya)][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+motyaataki		[=motya+sem@b.p.][NRoot][=stomach, belly]::[=to.get.pregnant (ES: embarazarse)][^VBZ][--][-a][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]a[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+,	,[$.]
+
+okanta		[=okanta][ConnRoot][=in.the.meantime]
+
+,	,[$.]
+
+okanta		[=okanta][ConnRoot][=in.the.meantime]
+
+,	,[$.]
+
+ponyaa		[=ponyaa][AdvRoot][=CONN (EN: then, later)]
+
+okantsiri	[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;;| to.do;| to.happen;;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+oyariri		[o-][NPers][3n.m.poss+][--][=yari+gndr@m.+poss@ri.+kin@fem.ego][NRoot][=brother (ES: hermano; PT: irmão)][--][-ri][Gen][+aln.poss.]ri
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.28">
