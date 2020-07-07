@@ -133,7 +133,7 @@ tsimiri	[=tsimiri+gndr@m.+poss@ti.+sem@bird][NRoot][=bird, little.bird (ES: ave,
 
 ari	[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
 
-okantatya	[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;;| to.do;| to.happen;;| to.be (ES: ser);| to.be.able][--][-atiy][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]atiy[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+okantatya	[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-atiy][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]atiy[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
 
 ,	,[$.]
 
@@ -166,7 +166,7 @@ inkiashitakairo	[i-][VPers][3m.S/A+][--][N=][IRR+][--][=ki][VRoot][=to.enter (ES
 
 ari	[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
 
-okantatya	[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;;| to.do;| to.happen;;| to.be (ES: ser);| to.be.able][--][-aty][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]aty[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+okantatya	[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-aty][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]aty[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
 
 otsipatyari	[o-][VPers][3n.m.S/A+][--][=tsipa+INF@/EP:t/aantsi.][VRoot][=to.accompany (ES: acompañar);| to.be.together (ES: tener.pareja);| to.join (ES: juntarse)][--][-t][+EP]t[--][-ya+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]ya[--][=ri+tns@n.fut.][NS][+REL][=REAL]
 
@@ -211,7 +211,7 @@ apaniroini	[=apaniro][NRoot][=on.one's.own][--][-ini][+ADV]::[=solely]
 
 ari	[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
 
-okantatya	[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;;| to.do;| to.happen;;| to.be (ES: ser);| to.be.able][--][-aty][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]aty[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+okantatya	[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-aty][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]aty[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
 
 </morphology>
         <parsing format="" analysislevel=""/>
@@ -257,13 +257,13 @@ impiritaki	[=iNpirita/impirita+gndr@n.m.][NRoot][=rock (ES: roca); cave; crag][-
 
 inchatyaaki	[i-][NPers][3m.poss+][--][=incha][NRoot][=plant (ES: planta)][--][-tyaaki][+CL:flower][=flower]
 
-okantakota	[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;;| to.do;| to.happen;;| to.be (ES: ser);| to.be.able][--][-ako][VS][+APPL.GEN][=GEN (EN: with.reference.to.sth., about.sth.); INDR (EN: action.affects.sth.in.an.indirect.manner)]ako[--][-t][+EP]t[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+okantakota	[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-ako][VS][+APPL.GEN][=GEN (EN: with.reference.to.sth., about.sth.); INDR (EN: action.affects.sth.in.an.indirect.manner)]ako[--][-t][+EP]t[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
 
 otsataka	[o-][VPers][3n.m.S/A+][--][=tsa+INF@/EP:t/aantsi.][VRoot][=to.tie, to.moor; to.hung.up (ES: colgar); to.hung.from.sth. (ES: colgarse)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
 
 ,	,[$.]
 
-okantsiri	[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;;| to.do;| to.happen;;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+okantsiri	[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
 
 oyariri	[o-][NPers][3n.m.poss+][--][=yari+gndr@m.+poss@ri.+kin@fem.ego][NRoot][=brother (ES: hermano; PT: irmão)][--][-ri][Gen][+aln.poss.]ri
 
@@ -287,15 +287,15 @@ kameetsakiitaki	[=kameetsa+INF@/EP:t/VC.][VRoot][=to.be.good][--][-kii][+VERB.CL
         <morphology format="ashaninkamorph" analysislevel="fully">
 
 
-ikantsiro	[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;;| to.do;| to.happen;;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+ikantsiro	[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
 
 te	[=te+tns@future.neg.][Neg][=NEG.REAL]
 
-okantyaata	[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;;| to.do;| to.happen;;| to.be (ES: ser);| to.be.able][--][-yaa+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]yaa[--][=ta][MODAL][+OPT_SUBJ][CONTG: actn.that.depends.on.sth.that.may.or.may.not.happen; HYPOTH: actn.that.is.possible.&amp;.imagined.rather.than.real.&amp;.true]
+okantyaata	[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-yaa+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]yaa[--][=ta][MODAL][+OPT_SUBJ][CONTG: actn.that.depends.on.sth.that.may.or.may.not.happen; HYPOTH: actn.that.is.possible.&amp;.imagined.rather.than.real.&amp;.true]
 
 ,	,[$.]
 
-okantsiri	[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;;| to.do;| to.happen;;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+okantsiri	[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
 
 te	[=te+tns@future.neg.][Neg][=NEG.REAL]
 
@@ -321,7 +321,7 @@ yaminakiro	[y-][VPers][3m.S/A+][--][=amin+INF@aantsi.][VRoot][=to.treat ][--][-a
 
 itsinkavitaro	[i-][VPers][3m.S/A+][--][=tsink+INF@V.][VRoot][=to.(crush|mash).sth.with.wooden.pestle (prbly.boiled.yucca);| to.pound.sth. (ES: machacar)][--][-a][+EP]a[--][-vi][+FRUS][=unsuccessful/interrupted.action/state (EN: in.vain; ES: casi); action.that.didn't.achieve.the.desired.result]vi[--][-t][+EP]t[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ro][+3n.m.O/P]
 
-ikantsiro	[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;;| to.do;| to.happen;;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+ikantsiro	[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
 
 ,	,[$.]
 
@@ -369,7 +369,7 @@ inchatyaki	[=incha][NRoot][=plant (ES: planta)][--][-tyaki][+CL:flower][=flower]
 
 ipakiro	[i-][VPers][3m.S/A+][--][=p+INF@aantsi.][VRoot][=to.give (ES: dar); to.feed (ES: alimentar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
 
-ikantsiro	[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;;| to.do;| to.happen;;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+ikantsiro	[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
 
 niiroka	[=n+INF@aantsi][VRoot][=to.be (ES: ser,, estar)][--][-ii+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]ii[--][=ro][+3n.m.O/P][--][-ka+loc@proximal.][+ADV]ka
 
@@ -453,7 +453,7 @@ inyaapakiro	[i-][VPers][3m.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRo
 
 pooriki	[=pooriki+gndr@n.m.][NRoot][=tree.sp. (ES: árbol.de.jaboncillo)]
 
-ikantsiro	[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;;| to.do;| to.happen;;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+ikantsiro	[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
 
 ,	,[$.]
 
@@ -519,7 +519,7 @@ ivankoshikira	[i-][NPers][3m.poss+][--][=pankoshi~{'house':panko}{CL:/'leaf':shi
 
 ponyaa	[=ponyaa][AdvRoot][=CONN (EN: then, later)]
 
-okantsiri	[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;;| to.do;| to.happen;;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+okantsiri	[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
 
 yayaa	[=yayaa+gndr@m.+kin@fem.ego][NRoot][=brother (ES: hermano.de.mujer)]
 
@@ -546,7 +546,7 @@ anyaahiro	[a-][VPers][1PL.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoo
 
 -	-[$.]
 
-ikantsi	[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;;| to.do;| to.happen;;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+ikantsi	[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
 
 arima	[=ari][PostPol][=PP][--][=ma][+DUB]::[= (ES: ¿verdad?); perhaps]
 
@@ -580,7 +580,7 @@ nonkimiro	[no-][VPers][1SG.S/A+][--][N=][IRR+][--][=kim+INF@aantsi.][VRoot][=to.
 
 tsika	[=tsika+periphrasis@=saik.][WhPrn][=WH (EN: where,, what,, which,, how,, why)]
 
-okanta	[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;;| to.do;| to.happen;;| to.be (ES: ser);| to.be.able][--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+okanta	[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
 
 opariantanakari	[o-][VPers][3n.m.S/A+][--][=pari][VRoot][=to.fall (ES: caer)][--][-ant][Asp][+APPL.REAS][=REAS (EN: in.order.to, so.that; ES: para.que); INST (EN: that.with.which.sb.does.sth., sb's.tool)]ant[--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL.RFL]a[--][=ri][+3m.O/P]
 
@@ -597,7 +597,7 @@ opariantanakari	[o-][VPers][3n.m.S/A+][--][=pari][VRoot][=to.fall (ES: caer)][--
 
 ponyaa	[=ponyaa][AdvRoot][=CONN (EN: then, later)]
 
-ikantsiro	[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;;| to.do;| to.happen;;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+ikantsiro	[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
 
 okantakata	[=ok][VRoot][=to.abandon; to.leave (ES: dejar); to.throw; to.throw.away/out (ES: botar)][--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ta][MODAL][+OPT_SUBJ][CONTG: actn.that.depends.on.sth.that.may.or.may.not.happen; HYPOTH: actn.that.is.possible.&amp;.imagined.rather.than.real.&amp;.true]
 
@@ -664,7 +664,7 @@ sheetyaki	[=sheet][VRoot][=to.be.afternoon; to.get.dark (time.of.day)][--][-iy][
 
 ,	,[$.]
 
-ikantsiro	[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;;| to.do;| to.happen;;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+ikantsiro	[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
 
 tsame	[=tsame+prop@standalone.][VRoot][=COME.ON, LET'S.GO (ES: vamos)]
 
@@ -710,7 +710,7 @@ inchatyaakiranki	[i-][NPers][3m.poss+][--][=incha][NRoot][=plant (ES: planta)][-
 
 .	.[$.]
 
-ikantsiro	[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;;| to.do;| to.happen;;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+ikantsiro	[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
 
 iritsiro	[iri-][NPers][3m.poss+][--][=tsiro+gndr@n.m.+kin@male.ego][NRoot][=sister]
 
@@ -744,7 +744,7 @@ iriki	[i-][NPers][3m.poss+][--][=iri+gndr@m.+kin@fe/male.ego][NRoot][=father (ES
 
 ,	,[$.]
 
-okantsiri	[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;;| to.do;| to.happen;;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+okantsiri	[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
 
 apaa	[=apaa+gndr@m.+kin@fe/male.ego][NRoot][=father (ES: padre)]
 
@@ -832,7 +832,7 @@ okanta	[=okanta][ConnRoot][=in.the.meantime]
 
 ponyaa	[=ponyaa][AdvRoot][=CONN (EN: then, later)]
 
-okantsiri	[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;;| to.do;| to.happen;;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+okantsiri	[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
 
 oyariri	[o-][NPers][3n.m.poss+][--][=yari+gndr@m.+poss@ri.+kin@fem.ego][NRoot][=brother (ES: hermano; PT: irmão)][--][-ri][Gen][+aln.poss.]ri
 
@@ -855,11 +855,11 @@ nomotyaakika	[no-][NPers][1SG.poss+][--][=motya+sem@b.p.][NRoot][=stomach, belly
 
 ,	,[$.]
 
-ikantsiro	[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;;| to.do;| to.happen;;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+ikantsiro	[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
 
 tsika	[=tsika+periphrasis@=saik.][WhPrn][=WH (EN: where,, what,, which,, how,, why)]
 
-pikantakakia	[pi-][VPers][2S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;;| to.do;| to.happen;;| to.be (ES: ser);| to.be.able][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=kia][MODAL][+EMPH]
+pikantakakia	[pi-][VPers][2S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=kia][MODAL][+EMPH]
 
 ,	,[$.]
 
@@ -873,33 +873,169 @@ tan	[=tan][Neg][=NEG.W (ES: no.sé)]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.29">
-        <sentence lang="prq">iroñaaka okamantakiro iniro okantsiro inaa paitaratya antakinarika nomotyaakika.</sentence>
+        <sentence lang="prq" normalizationlevel="none">iroñaaka okamantakiro iniro okantsiro inaa paitaratya antakinarika nomotyaakika.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">ironyaaka okamantakiro iniro okantsiro inaa paitaratya antakinarika nomotyaakika.</sentence>
         <sentence lang="es">-Ahora ella lo aviso a su mamá, le dijo mamá, no se que es lo que tendré en mi estomago.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ironyaaka	[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+okamantakiro	[o-][VPers][3n.m.S/A+][--][=kamant+INF@aantsi.][VRoot][=to.inform (ES: informar, avisar);| to.advise][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+iniro	[i-][NPers][3m.poss+][--][=niro+gndr@n.m.+kin@fe/male.ego+voc@1SG:2SG:3SG.][NRoot][=mother]
+
+okantsiro	[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+inaa	[=inaa+gndr@n.m.+inal@tsi.+kin@fe/male.ego][NRoot][=mother (ES: mamá); wife]
+
+paitaratya	[=pai+INF@/EP:t/aantsi.][VRoot][=to.be.called; to.call, to.name (ES: nombrar); to.get.white.hair, to.have.gray.hair][--][-t][+EP]t[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][-ra+loc@medial.][+ADV]ra[--][=tya][MODAL][+EMPH][=urgency, impatience, surprise, exasperation (non-contradictory.emphasis); almost (with.time.adverbs)]
+
+antakinarika	[=ant+INF@aantsi.+poss@ane.][VRoot][=to.beat, to.hit (ES: pegar); to.build, to.do, to.make (ES: hacer)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=na][+1SG.O/P][=me (ES: me)][--][=rika][MODAL][+COND][=if (expresses.possible.condition); like (comparison)]
+
+nomotyaakika	[no-][NPers][1SG.poss+][--][=motya+sem@b.p.][NRoot][=stomach, belly][--][-a][+CL:liquid][=liquid][--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)][--][=ka+mrph.cath@proximal.b.][AS][+DEM.NOM][=DEM (EN: here, close.to.the.speaker)]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.30">
-        <sentence lang="prq">okantsiro iniro pimotyaatatsi iroñaaka, yantavintsavaitatsimi piyariri</sentence>
+        <sentence lang="prq" normalizationlevel="none">okantsiro iniro pimotyaatatsi iroñaaka, yantavintsavaitatsimi piyariri</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">okantsiro iniro pimotyaatatsi ironyaaka, yantavintsavaitatsimi piyariri</sentence>
         <sentence lang="es">Le dijo su madre estarás gestando ahora, te ha fastidiado tu hermano</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+okantsiro	[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+iniro	[i-][NPers][3m.poss+][--][=niro+gndr@n.m.+kin@fe/male.ego+voc@1SG:2SG:3SG.][NRoot][=mother (ES: mamá)]
+
+pimotyaatatsi	[pi-][VPers][2S/A+][--][=motya+sem@b.p.][NRoot][=stomach, belly]::[=to.get.pregnant (ES: embarazarse)][^VBZ][--][-a][+VERB.CL:liquid][=liquid]a[--][-t][+EP]t[--][-atsi][Asp][+STAT.IPRF][=ongoing.&amp;.non-evolving.state]atsi
+
+ironyaaka	[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+,	,[$.]
+
+yantavintsavaitatsimi	yantavintsavaitatsimi	+?
+
+piyariri	[pi-][NPers][2poss+][--][=yari+gndr@m.+poss@ri.+kin@fem.ego][NRoot][=brother (ES: hermano; PT: irmão)][--][-ri][Gen][+aln.poss.]ri
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.31">
-        <sentence lang="prq">okamantakiri irii iroñaaka inirora, poñaa ikisanaka irira ipasatakiri itomi</sentence>
+        <sentence lang="prq" normalizationlevel="none">okamantakiri irii iroñaaka inirora, poñaa ikisanaka irira ipasatakiri itomi</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">okamantakiri irii ironyaaka inirora, ponyaa ikisanaka irira ipasatakiri itomi</sentence>
         <sentence lang="es">Le aviso ahora al padre la mamá, después el padre se enojo castigo a sus hijos</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+okamantakiri	[o-][VPers][3n.m.S/A+][--][=kamant+INF@aantsi.][VRoot][=to.inform (ES: informar, avisar);| to.advise][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+irii	[=irii+gndr@m.+kin@fe/male.ego][NRoot][=father (ES: papá)]
+
+ironyaaka	[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+inirora	[i-][NPers][3m.poss+][--][=niro+gndr@n.m.+kin@fe/male.ego+voc@1SG:2SG:3SG.][NRoot][=mother (ES: mamá)][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+,	,[$.]
+
+ponyaa	[=ponyaa][AdvRoot][=CONN (EN: then, later)]
+
+ikisanaka	[i-][VPers][3m.S/A+][--][=kis+INF@aantsi.+poss@ane.][VRoot][=to.be.angry/furious, to.get.upset/angry (ES: estar.molesto)][--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+irira	[=iri+gndr@m.+kin@fe/male.ego][NRoot][=father (ES: papá)][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+ipasatakiri	[i-][VPers][3m.S/A+][--][=pasa+INF@/EP:t/aantsi.][VRoot][=to.punish; to.hit, to.beat.up][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+itomi	[i-][NPers][3m.poss+][--][=tomi+gndr@m.+inal@tsi.+kin@fe/male.ego][NRoot][=son (ES: hijo)]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.32">
-        <sentence lang="prq">ipasatakiro irori, poñaa okantsiri irii apaa, tetya noñiri yantaventsavaitena yaaya, pashininta aisatsi pashininta te noñiiri yantaventsavaitena.</sentence>
+        <sentence lang="prq" normalizationlevel="none">ipasatakiro irori, poñaa okantsiri irii apaa, tetya noñiri yantaventsavaitena yaaya, pashininta aisatsi pashininta te noñiiri yantaventsavaitena.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">ipasatakiro irori, ponyaa okantsiri irii apaa, tetya nonyiri yantaventsavaitena yaaya, pashininta aisatsi pashininta te nonyiiri yantaventsavaitena.</sentence>
         <sentence lang="es">Le castigó a ella también, luego le dijo papá, nunca lo he visto a mi hermano fastidiarme así como el, ni el otro nunca me han fastidiado.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ipasatakiro	[i-][VPers][3m.S/A+][--][=pasa+INF@/EP:t/aantsi.][VRoot][=to.punish; to.hit, to.beat.up][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+irori	[=irori+pragm.func@cntr.add.l.FOC.+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella)]
+
+,	,[$.]
+
+ponyaa	[=ponyaa][AdvRoot][=CONN (EN: then, later)]
+
+okantsiri	[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+irii	[=irii+gndr@m.+kin@fe/male.ego][NRoot][=father (ES: papá)]
+
+apaa	[=apaa+gndr@m.+kin@fe/male.ego][NRoot][=father (ES: padre)]
+
+,	,[$.]
+
+tetya	[=te][Neg][=NEG.REAL][--][=tya][+N.C.FOC][=yet]::[=not.at.all; not…until.now, not…yet]
+
+nonyiri	[no-][VPers][1SG.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+yantaventsavaitena	[y-][VPers][3m.S/A+][--][=antaventsa+~{V:/'to.fight':ant/}{EP:a}{DLMT:ventsa}][VRoot][=to.annoy (prbly.with.jokes; ES: fastidiar.a.algn.)][--][-vai][ASP][+DUR][=action/state.endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]vai[--][-t][+EP]t[--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e[--][=na][+1SG.O/P][=me (ES: me)]
+
+yaaya	[=yaaya+gndr@m.+kin@fem.ego][NRoot][=brother (ES: hermano.de.mujer)]
+
+,	,[$
+
+pashininta	[=pashini][NRoot][=other, another (ES: otro); few][--][=nta+mrph.cath@distal.b.][AS][+DEM.NOM][=DEM (EN: there, far.from.the.speaker (bounded))]
+
+aisatsi	[=aisatsi][ConnRoot][=CONN (EN: also)]
+
+pashininta	[=pashini][NRoot][=other, another (ES: otro); few][--][=nta+mrph.cath@distal.b.][AS][+DEM.NOM][=DEM (EN: there, far.from.the.speaker (bounded))]
+
+te	[=te+tns@future.neg.][Neg][=NEG.REAL]
+
+nonyiiri	[no-][VPers][1SG.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-ii+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]ii[--][=ri][+3m.O/P]
+
+yantaventsavaitena	[y-][VPers][3m.S/A+][--][=antaventsa+~{V:/'to.fight':ant/}{EP:a}{DLMT:ventsa}][VRoot][=to.annoy (prbly.with.jokes; ES: fastidiar.a.algn.)][--][-vai][ASP][+DUR][=action/state.endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]vai[--][-t][+EP]t[--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e[--][=na][+1SG.O/P][=me (ES: me)]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.33">
-        <sentence lang="prq">ikantsiro, ninka iroñaaka ashitakakamiri itsimantakari peentsite, okantsiri te noyoteri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">ikantsiro, ninka iroñaaka ashitakakamiri itsimantakari peentsite, okantsiri te noyoteri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">ikantsiro, ninka ironyaaka ashitakakamiri itsimantakari peentsite, okantsiri te noyoteri.</sentence>
         <sentence lang="es">Le dijo, quien es ahora, el padre para que tengas tu bebe, ella dijo no lo conozco.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ikantsiro	[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+,	,[$.]
+
+ninka		[=ninka+periphrasis@=ashi.][WhPrn][=WH (EN: who, whom)]
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+ashitakakamiri		[=ashitak+~{V:/'to.have':ashi/}{EP:t}{APPL.CAUS.SOC:ak}+INF@VC.][VRoot][=to.impregnate, to.make.pregnant (ES: preñar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=mi][+2SG.O/P][=you (ES: te)][--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+itsimantakari		[i-][VPers][3m.S/A+][--][=tsim][VRoot][=POSSESS (EN: to.have; ES: tener); EXIST (EN: to.be.born, to.exist; ES: nacer)][--][-ant][Asp][+APPL.REAS][=REAS (EN: in.order.to, so.that; ES: para.que); INST (EN: that.with.which.sb.does.sth., sb's.tool)]ant[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+peentsite		[p-][NPers][2poss+][--][=eentsi+gndr@n./m.+poss@te.][NRoot][=child (ES: niño)][--][-te+syl@&gt;tri.][Gen][+aln.poss.]te
+
+,	,[$.]
+
+okantsiri	[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+te		[=te+tns@future.neg.][Neg][=NEG.REAL]
+
+noyoteri		[no-][VPers][1SG.S/A+][--][=yot+INF@(a)antsi:agaantsi.][VRoot][=to.know (ES: conocer, saber)][--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e[--][=ri][+3m.O/P]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.34">
