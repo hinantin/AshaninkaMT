@@ -1039,15 +1039,60 @@ noyoteri		[no-][VPers][1SG.S/A+][--][=yot+INF@(a)antsi:agaantsi.][VRoot][=to.kno
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.34">
-        <sentence lang="prq">pipasavaishitakari noyariri, te, te noñiri yantaventsavaitena.</sentence>
+        <sentence lang="prq" normalizationlevel="none">pipasavaishitakari noyariri, te, te noñiri yantaventsavaitena.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">pipasavaishitakari noyariri, te, te nonyiri yantaventsavaitena.</sentence>
         <sentence lang="es">En vano castigaste a mi hermano, nunca lo he visto que me fastidie.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+pipasavaishitakari	pipasavaishitakari	+?
+
+noyariri		[no-][NPers][1SG.poss+][--][=yari+gndr@m.+poss@ri.+kin@fem.ego][NRoot][=brother (ES: hermano; PT: irmão)][--][-ri][Gen][+aln.poss.]ri
+
+,	,[$.]
+
+te		[=te+tns@future.neg.][Neg][=NEG.REAL]
+
+,	,[$.]
+
+nonyiri		[no-][VPers][1SG.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+yantaventsavaitena		[y-][VPers][3m.S/A+][--][=antaventsa+~{V:/'to.fight':ant/}{EP:a}{DLMT:ventsa}][VRoot][=to.annoy (prbly.with.jokes; ES: fastidiar.a.algn.)][--][-vai][ASP][+DUR][=action/state.endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]vai[--][-t][+EP]t[--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e[--][=na][+1SG.O/P][=me (ES: me)]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.35">
-        <sentence lang="prq">notsipamtari kameetsa notsipamtari, te noñiri yantaventsavaitena tsikarika janta inkantavaitena.</sentence>
+        <!-- notsipantari kameetsa notsipantari, te noñiri yantaventsavaitena tsikarika janta inkantavaitena. -->
+        <sentence lang="prq" normalizationlevel="none">notsipantari kameetsa notsipantari, te noñiri yantaventsavaitena tsikarika janta inkantavaitena.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">notsipantari kameetsa notsipantari, te nonyiri yantaventsavaitena tsikarika hanta inkantavaitena.</sentence>
         <sentence lang="es">Me acompaño, bien me acompaño, nunca me ha fastidiado en ningún lugar o me hace cualquier cosa.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+notsipantari		[no-][VPers][1SG.S/A+][--][=tsip][VRoot][=to.accompany (ES: acompañar); to.be.together (ES: tener.pareja); to.join (ES: juntarse)][--][-ant][Asp][+APPL.REAS][=REAS (EN: in.order.to, so.that; ES: para.que); INST (EN: that.with.which.sb.does.sth., sb's.tool)]ant[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ri][+3m.O/P]
+
+kameetsa		[=kameetsa][NRoot][=well (ES: bien)]
+
+notsipantari		[no-][VPers][1SG.S/A+][--][=tsip][VRoot][=to.accompany (ES: acompañar); to.be.together (ES: tener.pareja); to.join (ES: juntarse)][--][-ant][Asp][+APPL.REAS][=REAS (EN: in.order.to, so.that; ES: para.que); INST (EN: that.with.which.sb.does.sth., sb's.tool)]ant[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ri][+3m.O/P]
+
+,	,[$.]
+
+te		[=te+tns@future.neg.][Neg][=NEG.REAL]
+
+nonyiri		[no-][VPers][1SG.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+yantaventsavaitena		[y-][VPers][3m.S/A+][--][=antaventsa+~{V:/'to.fight':ant/}{EP:a}{DLMT:ventsa}][VRoot][=to.annoy (prbly.with.jokes; ES: fastidiar.a.algn.)][--][-vai][ASP][+DUR][=action/state.endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]vai[--][-t][+EP]t[--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e[--][=na][+1SG.O/P][=me (ES: me)]
+
+tsikarika		[=tsika][WhPrn][=WH][--][-rika][+COND]::[=whatever; wherever]
+
+hanta		[=hanta+loc@distal.b.][PrnDem][=DEM.ADV.: there (ES: allí.(está)), far.from.the.speaker (bounded; ES: allá, allí)]
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.36">
