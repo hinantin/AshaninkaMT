@@ -2170,7 +2170,7 @@ otishiki	[=otishi+n.m.][NRoot][=row; hill (ES: cerro)][--][-ki][Cas][+LOC]
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ipeyakero nani ichakopite antamiki.</sentence>
         <sentence lang="es">Mi cuñado perdió su flecha en el monte.</sentence>
         <sentence lang="en">My brother-in-law lost his arrow in the woods.</sentence>
-        <!-- check antami monte = woods ??? -->
+        <!-- check antami monte = woods  -->
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
@@ -4436,7 +4436,7 @@ piarentsi	[=pyare+n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato)][--][-ntsi+a
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-???
+roviintakero	+?
 
 charine	[=charine+m.][NRoot][=grandpa, grandfather, grandparents (kin.of.a.male)]
 
@@ -4728,7 +4728,7 @@ iyempitaki	[i-][NPers][3m.poss+][--][=yempita+n.m.+inal@ntsi.][NRoot][=ear (ES: 
 
 eentsi	[=eentsi+n./m.+poss@te.][NRoot][=child (ES: niño)]
 
-???
+antavaeshiri	+?
 
 .	.[$.]
 
@@ -5134,7 +5134,7 @@ pavaeni	[=pavaeni+m.][NRoot][=uncle (ES: tío)]
 
 ihampitakena	[i-][VPers][3m.S/A+][--][=hampi][VRoot][=to.ask.(about.sth.) (ES: preguntar)][--][-t][+EP]t[--][-ak][ASP][+PRF]ak[--][-e][+IRR]e[--][=na][+1SG.O]
 
-???
+hatantaneri	+?
 
 hempe	[=hempe][IndfSpecif][=where]
 
@@ -6030,7 +6030,7 @@ pincheke	[pi-][VPers][2S/A+][--][N=][IRR+][--][=chek][VRoot][=to.cut (ES: cortar
 
 kapiro	[=kapiro][NRoot][=bamboo.sp. (ES: paca, especie.de.bambú)]
 
-???
+nakiheekakotantyari	+?
 
 hetari	[=hetari+m.][NRoot][=small.suckermouth.armored.catfish.sp. (ES: carachama; sci.nm.: aphanotorulus.unicolor)]
 
@@ -6194,7 +6194,7 @@ nihaaki	[=nihaa+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)][--]
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-???
+ihaantakoti	+?
 
 konki	[=konki+m.][NRoot][=father; father.in.law; uncle (kin.of.a.male; ES: suegro)]
 
@@ -6905,7 +6905,7 @@ kimoshiretanaki	[=kimoshire][VRoot][=to.be.happy, to.be.glad][--][-t][+EP]t[--][
 
 apa	[=apa+m.][NRoot][=father (kin.of.a.fe/male)]
 
-???
+ipaetantakariri	+?
 
 pitotsi	[=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe (ES: canoa)][--][-tsi+alien.][Gen][+nposs]tsi
 
@@ -7188,7 +7188,6 @@ pamananteri	[p-][VPers][2S/A+][--][=amanant][VRoot][=to.buy (ES: comprar)][--][-
 
 pitomi	[pi-][NPers][2poss+][--][=tomi+m.+inal@tsi.][NRoot][=son (kin.of.a.fe/male)]
 
-???
 ikitamaaripetate	[i-][NPers][3m.poss+][--][=kitamaari+m.+sem@color.][NRoot][=white][--][-peta][+DIM][--][-te][Gen][+aln.poss.]te
 
 ihankenatantantyari	[i-][VPers][3m.S/A+][--][=hankena][VRoot][=to.write, to.draw][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-t][+EP]t[--][-eya][+IRR.RFL]eya[--][=ri][NS][+REL]
@@ -7227,7 +7226,7 @@ kitamaari	[=kitamaari+m.+sem@color.][NRoot][=white]
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-???
+kiteriatake	+?
 
 niha	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
 
@@ -7934,7 +7933,6 @@ aayetirori	[=aa][VRoot][=to.take (ES: agarrar)][--][-ye][+DIST]ye[--][-t][+EP]t[
 
 maaroni	[=maaroni][NRoot][=everybody, all, entire]
 
-???
 inyaayetiri	[i-][VPers][3m.S/A+][--][=ny][VRoot][=to.see, to.look.for; to.visit][--][-aa][+CL:liquid][=liquid]aa[--][-ye][+DIST]ye[--][-t][+EP]t[--][-i][+REAL]i[--][=ri][NS][+REL]
 
 .	.[$.]
@@ -7996,7 +7994,6 @@ iheeki	[i-][VPers][3m.S/A+][--][=heek][VRoot][=to.live, to.dwell, to.inhabit (ES
 
 koshoshiko	[=koshoshiko][NRoot][=dolphin.sp. (ES: bufeo,delfin)]
 
-???
 omotyaaki	[=omo][NRoot][=hole (ES: hueco)][--][-tyaaki][+CL:flower][=flower]
 
 antavoki	[=antavo+n.m.][NRoot][=big; mature][--][-ki][Cas][+LOC_LOC.T]
@@ -8116,7 +8113,7 @@ rovakavo	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.save.sth.in.sth. (ES: guardar.
 
 maakookava	[=maakookava][NRoot][=partridge.sp. (ES: panguana, perdiz)]
 
-???
+roretane	+?
 
 nani	[n-][NPers][1SG.poss+][--][=ani+m.][NRoot][=grandpa, grandfather (kin.of.a.male)]
 
@@ -8164,7 +8161,7 @@ konki	[=konki+m.+poss@ri:re.][NRoot][=father; father.in.law; uncle (kin.of.a.mal
 
 maaniri	[=maaniri+n.m.][NRoot][=black.cinnamon.sp., medicinal.tree.sp.]
 
-???
+roetantyaariri	+?
 
 itomi	[i-][NPers][3m.poss+][--][=tomi+m.+inal@tsi.][NRoot][=son (kin.of.a.fe/male)]
 
@@ -8334,7 +8331,6 @@ ipankitaitiro	[i-][VPers][3m.S/A+][--][=panki][VRoot][=to.plant, to.sow (ES: sem
 
 mavona	[=mavona+n.m.][NRoot][=potato.sp., edible.tuber; yam-vegetable (QU: sach'a.papa; sci.nm.: arachis.hypogaea)]
 
-???
 antaiki	[N=][IRR+][--][=atai][VRoot][=to.go.up (ES: subir); to.climb (ES: trepar)][--][-ki][+CL:S.R.H][=small,round(ed);hard;seed-like]ki
 
 kashiri	[=kashiri+m.][NRoot][=moon (ES: luna); month (ES: mes); lunar.deity]
@@ -8400,7 +8396,6 @@ tsireentsi	[=tsireentsi+n.m.][NRoot][=palm.tree.sp. (ES: huasaí, chonta)]
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-???
 maeyakeni	[=maey][VRoot][=to.sleep (ES: dormir)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e[--][-ni+circumfixing][+PL]
 
 shinkirentipaye	[=shinki][VRoot][=to.get.drunk; to.intoxicate][--][-renti+m.][NS][+ADJ.CAPABLE]renti[--][-paye][Num][+PL_DIST]
@@ -8625,7 +8620,6 @@ roohotantyaavori	[r-][VPers][3m.S/A+][--][=ooho][VRoot][=to.tie (ES: atar), to.t
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-???
 itsonkatakeri	[i-][VPers][3m.S/A+][--][=tsonk][VRoot][=to.finish (ES: terminar)][--][-a][+CL:liquid][=liquid]a[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e[--][=ri][+3m.O]
 
 notyomi	[no-][NPers][1SG.poss+][--][=tyomi+m.+inal@tsi.][NRoot][=son (kin.of.a.male)]
@@ -8829,7 +8823,7 @@ omantsiyare	[o-][NPers][3n.m.poss+][--][=mantsiya][VRoot][=to.be.sick (ES: enfer
 
 te	[=te+future.neg.][Neg][=NEG.REAL]
 
-???
+ariaheniti	+?
 
 .	.[$.]
 
@@ -8895,7 +8889,7 @@ tonkaareki	[=tonkaare+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas]
 
 riyotiro	[ri-][VPers][3m.S/A+][--][=yot][VRoot][=to.know (ES: conocer, saber)][--][-i][+IRR]i[--][=ro][+3n.m.O]
 
-???
+kitaeheri	+?
 
 .	.[$.]
 
@@ -8996,7 +8990,7 @@ rayi	[r-][VPers][3m.S/A+][--][=ay][VRoot][=to.get][--][-i][+IRR]i
 
 mata	[=mata][NRoot][=worm.sp. (ES: sp.de.gusano)]
 
-???
+iyontaachari	+?
 
 pashiitoki	[=pashiitoki][NRoot][=tree.sp. (ES: topa); balsa.stick]
 
@@ -9103,7 +9097,7 @@ rovametakeri	[r-][VPers][3m.S/A+][--][=ovame][VRoot][=to.teach (ES: enseñar)][-
 
 charini	[=charini+m.+poss@te.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male)]
 
-???
+imatsini	+?
 
 icharine	[i-][NPers][3m.poss+][--][=charine+m.][NRoot][=grandpa, grandfather, grandparent (kin.of.a.male); grandson (ES: nieto)]
 
@@ -9253,7 +9247,7 @@ okaakini	[=okaakini+sem@loc.][AdvRoot][=in.close.proximity, closeby]
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-???
+menkoriityaake	+?
 
 iroka	[=iroka+n.m.+proximal.b.][PrnDem][=this (ES: esta)]
 
@@ -9318,7 +9312,7 @@ antamiki	[=antami][NRoot][=woods, forest (ES: monte, bosque); dense.tropical.for
 
 aririka	[=ari][PostPol][=PP][--][=rika][+COND]::[=when (temporal.simultaneity), if (expresses.possible.condition)]
 
-???
+omakaatake	+?
 
 meshinto	[=meshinto+n.m.][NRoot][=capirona-tree, tree.sp.]
 
@@ -9447,9 +9441,9 @@ omishitakeri	[o-][VPers][3n.m.S/A+][--][=mishi][VRoot][=to.dream (ES: soñar)][-
 
 tsinane	[=tsinane+n.m.][NRoot][=female, woman (ES: mujer); young.girl]
 
-???
+oshirontane	+?
 
-???
+ratsovootiro	+?
 
 .	.[$.]
 
@@ -9526,7 +9520,7 @@ rakachaare	[r-][NPers][3m.poss+][--][=akachaa][VRoot][=to.fish.with.a.line.and.a
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-???
+patsake	+?
 
 imoito	[i-][NPers][3m.poss+][--][=moito+n.m.+inal@n/tsi.][NRoot][=navel (ES: ombligo); umbilical.cord (ES: cordón.umbilical)]
 
@@ -9570,7 +9564,7 @@ imonkaatakero	[i-][VPers][3m.S/A+][--][=monkaa][VRoot][=to.measure; to.fulfill][
 
 yeye	[=yeye+m.+poss@te.][NRoot][=brother, cousin (kin.of.a.male, male.ego; ES: hermano)]
 
-???
+iheetiro	+?
 
 niha	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
 
@@ -9618,7 +9612,7 @@ pinkatsari	[=pinkatsari+m.+voc.+poss@te.][NRoot][=chief (ES: jefe); regional.lea
 
 :	:[$.]
 
-???
+pomonkeri	+?
 
 koshinti	[=koshinti+m.][NRoot][=thief, robber (ES: ratero, ladrón)]
 
@@ -9777,7 +9771,7 @@ nenkitsiki	[=nenkitsi][NRoot][=plant.sp. (ES: mullo)][--][-ki][+CL:S.R.H][=small
 
 nantantyaari	[n-][VPers][1SG.S/A+][--][=ant][VRoot][=to.beat, to.hit; to.build, to.do, to.make][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-yaa][+REAL]yaa[--][=ri][+3m.O]
 
-???
+amarentsipaye	+?
 
 .	.[$.]
 
@@ -10022,7 +10016,6 @@ pankotsiki	[=panko+n.m.+inal@tsi.][NRoot][=house (ES: casa); tambo (QU: tampu)][
 
 aririka	[=ari][PostPol][=PP][--][=rika][+COND]::[=when (temporal.simultaneity), if (expresses.possible.condition)]
 
-???
 oshaaviityaanake	[=oshaaviityaanake][AdvRoot][=afternoon (ES: tarde)]
 
 oshekini	[=osheki][NRoot][=many; much; a.lot][--][-ni][AS][+ADV]
@@ -10043,7 +10036,7 @@ nyaavaementotsiki	[=nyaa][VRoot][=to.speak][--][-vae][ASP][+DUR][=action/state.e
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-???
+ikaemakantaetiri	+?
 
 yompiri	[=Yompiri][NRoot][=stone.divinity; proper.name]
 
@@ -10082,7 +10075,7 @@ yotaantsipankoki	[=yot][VRoot][=to.know (ES: conocer, saber)][--][-aantsi][NS][+
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-???
+ihaatakero	+?
 
 eentsi	[=eentsi+n./m.+poss@te.][NRoot][=child (ES: niño)]
 
@@ -10215,7 +10208,6 @@ impetaki	[=iNpeta+n.m.][NRoot][=rock (ES: roca); (rocky).cave (ES: cueva/tunel.r
 
 otimatye	[o-][VPers][3n.m.S/A+][--][=tim][VRoot][=POSSESS (EN: to.have; ES: tener); to.give.birth][--][-aty][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]aty[--][-e][+IRR]e
 
-???
 ovametaeri	[=ovame][VRoot][=to.teach (ES: enseñar)][--][-t][+EP]t[--][=ae][+1INCL.PL.O][=(to).us (ES: (a).nosotros)]ae[--][=ri][NS][+REL]
 
 atomipaye	[a-][NPers][1PL.poss+][--][=tomi+m.+inal@tsi.][NRoot][=son (kin.of.a.fe/male)][--][-paye][Num][+PL_DIST]
@@ -10244,7 +10236,7 @@ ovametantatsiri	[=ovame][VRoot][=to.teach (ES: enseñar)][--][-t][+EP]t[--][-ant
 
 osheki	[=osheki][NRoot][=many; much; a.lot]
 
-???
+inintaitiri	+?
 
 nampitsiki	[=nampi][NRoot][=big.quantity][--][-tsi+alien.][Gen][+nposs]tsi[--][-ki][Cas][+LOC_LOC.T]
 
@@ -10472,7 +10464,7 @@ ocheempeki	[=ocheempe][NRoot][=hill (ES: cerro)][--][-ki][Cas][+LOC_LOC.T]
 
 oitaka	[=oitaka][ORoot][=WH (ES: qué; EN: what)]
 
-???
+ovakemiri	+?
 
 petakovaetantari	[p-][VPers][2S/A+][--][=etako][VRoot][=to.love (ES: amar, estimar, favorecer); to.suffer.for.love (ES: sufrir.(de.amor))][--][-vae][ASP][+DUR][=action/state.endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]vae[--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-a][+REAL]a[--][=ri][NS][+REL]
 
@@ -10528,7 +10520,7 @@ nihapaye	[=niha+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)][--]
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-???
+inyampoeretakeri	+?
 
 shevankori	[=shevankori][NRoot][=NP, person's.name]
 
@@ -10594,7 +10586,7 @@ rovaneki	[r-][NPers][3m.poss+][--][=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.f
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-???
+raetiro	+?
 
 omenta	[o-][NPers][3n.m.poss+][--][=menta+n.m.+inal@tsi.][NRoot][=fin.of.tree (ES: aleta.de.árbol); wedge, buttress.root.of.a.tree]
 
@@ -10724,11 +10716,10 @@ shivitsa	[=shivitsa+poss@ti.][NRoot][=(wild).rope; liana.fiber (ES: fibra.de.bej
         <morphology format="ashaninkamorph">
 
 
-???
+rapeyakero	+?
 
 onkiro	[=oNkiro+m.][NRoot][=big.mouse (ES: ratón)]
 
-???
 okirikakeri	[o-][VPers][3n.m.S/A+][--][=kirik][VRoot][=to.weave; to.spin.(thread) (ES: hilar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e[--][=ri][NS][+REL]
 
 isheni	[=isheni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
@@ -10747,7 +10738,7 @@ isheni	[=isheni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
 
 osheki	[=osheki][NRoot][=many; much; a.lot]
 
-???
+oneeki	+?
 
 onkona	[=oNkona][NRoot][=cecropia.sp., tree.sp. (ES: cetico, siteco)]
 
@@ -10869,7 +10860,7 @@ nihaatenipaye	[=nihaa+n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-???
+oonkaka	+?
 
 imoti	[i-][NPers][3m.poss+][--][=moti+inal@tsi.][NRoot][=stomach, belly]
 
@@ -11091,7 +11082,7 @@ oshero	[=oshero+m.][NRoot][=crab.sp. (ES: cangrejo)]
 
 osheki	[=osheki][NRoot][=many; much; a.lot]
 
-???
+rantyavaeshiti	+?
 
 osheto	[=osheto+m.][NRoot][=monkey.sp. (ES: maquisapa, mono.choro; QU: makisapa; PT: macaco.barrigudo; sci.nm.: ateles.paniscus)]
 
@@ -11111,7 +11102,6 @@ ramanantake	[r-][VPers][3m.S/A+][--][=amanant][VRoot][=to.buy (ES: comprar)][--]
 
 ovametantatsiri	[=ovame][VRoot][=to.teach (ES: enseñar)][--][-t][+EP]t[--][-ant][+APPL.INST][=reason,instrumentality;in.order.to]ant[--][-atsi][Asp][+STAT.IPRF]atsi[--][=ri][NS][+REL]
 
-???
 oshiyakaantsi	[o-][NPers][3n.m.poss+][--][=shiyak][VRoot][=to.take.a.picture (ES: tomar.una.foto)][--][-aantsi][NS][+NMZ.INF]aantsi
 
 roshiyakantantyariri	[r-][VPers][3m.S/A+][--][o=][AGT.CAUS+][--][=shiyak][VRoot][=to.take.a.picture (ES: tomar.una.foto)][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-an+source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-t][+EP]t[--][-ya][+REAL]ya[--][=ri][+3m.O][--][=ri][NS][+REL]
@@ -11156,7 +11146,7 @@ rovantyaavori	[r-][VPers][3m.S/A+][--][=ov][VRoot][=to.eat (ES: comer)][--][-ant
 
 ikoveme	[i-][VPers][3m.S/A+][--][=kov][VRoot][=to.want][--][-e][+IRR]e[--][=me][MODAL][+SUBJ][=not.to.achieve/realize.an.action/idea (ES: para.bien/mal.las.acciones/ideas.expresadas.no.se.realizaron)]
 
-???
+inkie	+?
 
 chompita	[=chompita+m.][NRoot][=cockroach.sp. (ES: sp.de.cucaracha)]
 
@@ -11212,7 +11202,7 @@ apani	[=apani][NumeralPRQ][=one]
 
 te	[=te+future.neg.][Neg][=NEG.REAL]
 
-???
+inyaakota	+?
 
 okantakantiro	[o-][VPers][3n.m.S/A+][--][=kant][VRoot][=to.say; to.call;; to.do; to.happen;; to.be (ES: ser); to.be.able][--][-ak][+CAUS.SOC][=to.cause.sth/sb.to.do.sth.; to.make.sth/sb.to.do.sth.]ak[--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-i][+REAL]i[--][=ro][+3n.m.O]
 
@@ -11360,7 +11350,6 @@ ovantsi	[=ova+n.m.+inal@ntsi.+poss@ni.][NRoot][=sown.field, sown.plot.of.land (E
 
 ratsikavetakari	[r-][VPers][3m.S/A+][--][=atsik][VRoot][=to.bite (ES: morder.(sujeto.animado))][--][-a][+EP]a[--][-ve][+FRUS][=unsuccessful/interrupted.action/state (EN: in.vain; ES: casi); action.that.didn't.achieve.the.desired.result]ve[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-a][+REAL]a[--][=ri][+3m.O]
 
-???
 otsimapookiri	[o-][NPers][3n.m.poss+][--][=tsima][NRoot][=wood][--][-pooki][+CL:quantity][=bunch,group;group.of.tiny.objects][--][-ri][Gen][+aln.poss.]ri
 
 iitiki	[i-][NPers][3m.poss+][--][=iti+n.m.+inal@ntsi.][NRoot][=foot (ES: pie)][--][-ki][Cas][+LOC_LOC.T]
@@ -11451,7 +11440,6 @@ oyiitakero	[o-][VPers][3n.m.S/A+][--][=yiit][VRoot][=to.serve (e.g.: liquid, foo
 
 isheni	[=isheni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
 
-???
 oyaniri	[o-][NPers][3n.m.poss+][--][=kaniri+n.m.+voc.][NRoot][=(sweet).manioc, yucca ([ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]
 
 pohare	[=poha][VRoot][=to.be.cooked (ES: estar.cocinado), to.be.ready.(food) (ES: estar.lista.(la.comida)); to.roast][--][-re+m.][NS][+ADJ.NMZ]re
@@ -11718,7 +11706,7 @@ tonkareki	[=tonkare+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas][+
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-???
+makaatake	+?
 
 pampiamentotsi	[=pampia][VRoot][=to.cross.river (by.boat/canoe/a_bridge)][--][-mento+n.m.][NS][+NMZ.CONCR]mento[--][-tsi+alien.][Gen][+nposs]tsi
 
@@ -11742,12 +11730,11 @@ iroka	[=iroka+n.m.+proximal.b.][PrnDem][=this (ES: esta)]
 
 evankavo	[=evankavo+n.m.][NRoot][=young.woman, adolescent]
 
-???
 pankivaerento	[=panki][VRoot][=to.plant, to.sow (ES: sembrar)][--][-vae][ASP][+DUR][=action/state.endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]vae[--][-rento+n.m.][NS][+ADJ.CAPABLE]rento
 
 te	[=te+future.neg.][Neg][=NEG.REAL]
 
-???
+omakoneti	+?
 
 antavaeti	[=antavae][VRoot][=to.work (ES: trabajar)][--][-t][+EP]t[--][-i][+IRR]i
 
@@ -12000,7 +11987,6 @@ iroka	[=iroka+n.m.+proximal.b.][PrnDem][=this (ES: esta)]
 
 pashikavontsi	[=pashikavo+n.m.+inal@ntsi.][NRoot][=blanket (ES: colcha, cobija)][--][-ntsi+alien.][Gen][+nposs]ntsi
 
-???
 ovakerari	[=ovakerari][NRoot][=new, recent]
 
 ohaavati	[o-][VPers][3n.m.S/A+][--][=haava][VRoot][=to.heat (ES: hacer.hervir); to.incubate (ES: incubar)][--][-t][+EP]t[--][-i][+REAL]i
@@ -12263,7 +12249,7 @@ ivane	[i-][NPers][3m.poss+][--][=va+n.m.+poss@ni:ne.+voc@1SG.][NRoot][=sown.fiel
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-???
+rapeyakero	+?
 
 periki	[=periki][NRoot][=moth.sp. (ES: sp.de.polilla)]
 
@@ -12333,7 +12319,6 @@ imantsiyatantanakari	[i-][VPers][3m.S/A+][--][=mantsiya][VRoot][=to.be.sick (ES:
 
 naake	[n-][VPers][1SG.S/A+][--][=a][VRoot][=to.take (ES: agarrar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
 
-???
 kirikotaki	[=kiri][NRoot][=palm.tree.sp. (ES: pijuayo, pifayo, chonta; sci.nm.: juania.australis)][--][-kota][+CL:piece][=piece; split.plank-like; small,flat,thin][--][-ki][+CL:S.R.H][=small,round(ed);hard;seed-like]
 
 nantantyaari	[n-][VPers][1SG.S/A+][--][=ant][VRoot][=to.beat, to.hit; to.build, to.do, to.make][--][-ant][Asp][+APPL.REAS][=in.order.to, so.that (ES: para.que)]ant[--][-yaa][+IRR]yaa[--][=ri][+3m.O]
@@ -12400,7 +12385,7 @@ pinkatsari	[=pinkatsari+m.+voc.+poss@te.][NRoot][=chief (ES: jefe); regional.lea
 
 pipoke	[pi-][VPers][2S/A+][--][=pok][VRoot][=to.come (ES: venir), to.arrive][--][-e][+IRR]e
 
-???
+pimpichenkero	+?
 
 ohankenamento	[o-][NPers][3n.m.poss+][--][=hankena][VRoot][=to.write, to.draw][--][-mento+n.m.][NS][+NMZ.CONCR]mento
 
@@ -12440,7 +12425,7 @@ pitotsi	[=pito+n.m.+inal@tsi.+poss@ni.][NRoot][=canoe (ES: canoa)][--][-tsi+alie
 
 pinavontsini	[=pina][VRoot][=to.pay, to.pay.off (a_debt), to.be.free.of.debt; to.cost (ES: costar, valer); to.give][--][-vo+n.m.][NS][+NMZ]vo[--][-ntsi+alien.][Gen][+nposs]ntsi[--][-ni][DEGR][+AUG_INTNS]
 
-???
+ovaravontsi	+?
 
 ipimantayetiri	[i-][VPers][3m.S/A+][--][=pimanta][VRoot][=to.sell][--][-ye][+DIST][=in.addition]ye[--][-t][+EP]t[--][-i][+REAL]i[--][=ri][NS][+REL]
 
@@ -12689,7 +12674,6 @@ hampovatsa	[=hampovatsa+n.m.+poss@te.][NRoot][=mud (ES: barro); clay; swamp-like
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-???
 opitsitsayetiro	[o-][VPers][3n.m.S/A+][--][=pitsi][VRoot][=to.be.dirty (ES: ensuciar)][--][-tsa][+CL:long.flexible.thin][=long,flexible,thin; liana.(like); tree_bark; curvilinear]tsa[--][-ye][+DIST][=in.addition]ye[--][-t][+EP]t[--][-i][+REAL]i[--][=ro][+3n.m.O]
 
 isheni	[=isheni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
@@ -12708,7 +12692,6 @@ oitsare	[o-][NPers][3n.m.poss+][--][=kitsare+m.+inal@ntsi.][NRoot][=dress, cushm
         <morphology format="ashaninkamorph" analysislevel="not-fully">
 
 
-???
 opiyiro	[o-][VPers][3n.m.S/A+][--][=piy][VRoot][=to.poison (ES: envenenar)][--][-i][+IRR]i[--][=ro][+3n.m.O]
 
 isheni	[=isheni+n.m.+voc.][NRoot][=grandma, grandmother (kin.of.a.male)]
@@ -12836,7 +12819,6 @@ ashisho	[=ashisho][NRoot][=person's.name; NP]
 
 opokake	[o-][VPers][3n.m.S/A+][--][=pok][VRoot][=to.come (ES: venir), to.arrive][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
 
-???
 natoto	[=natoto+gndr@n.m.+voc@1SG:2SG:3SGn.m.:1PL.+kin@fem.ego][NRoot][=sister.in.law (ES: cuñada)]
 
 intakeronta	[=intakeronta][NRoot][=the.other.side.of.the.brook/river (ES: el.otro.lado.de.la.quebrada/río)]
@@ -12995,7 +12977,6 @@ nopankoki	[no-][NPers][1SG.poss+][--][=panko+n.m.+inal@tsi.][NRoot][=house (ES: 
 
 shitovake	[=shitov][VRoot][=to.leave (ES: salir); to.escape][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+REAL]e
 
-???
 ohompo	[o-][NPers][3n.m.poss+][--][=hompo+inal@tsi.][NRoot][=tumor; boil (ES: tumor, chupo)]
 
 oporiki	[o-][NPers][3n.m.poss+][--][=pori+n.m.+inal@tsi.][NRoot][=leg (ES: pierna); thigh][--][-ki][Cas][+LOC_LOC.T]
@@ -13108,7 +13089,7 @@ nana	[=nana+n.m.+voc.+poss@te:ti.][NRoot][=mom, mother (kin.of.a.fe/male; ES: ma
 
 :	:[$.]
 
-???
+pirevoshitya	+?
 
 chetakitakemi	[=chetaki+inal@ntsi.][NRoot][=rheum (ES: legaña)]::[=to.have.rheum.in.the.eye (ES: tener.legaña, estar.legañoso)]+vbz.[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed]ak[--][-e][+IRR]e[--][=mi][+2SG.O]
 
