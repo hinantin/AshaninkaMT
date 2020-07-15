@@ -1328,9 +1328,31 @@ opoki	[o-][VPers][3n.m.S/A+][--][=pok+INF@aantsi;VC.][VRoot][=to.come (ES: venir
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.42">
-        <sentence lang="prq">Apanirionira iroñaaka opoki, oyarirepayeranki, imishiyakiri irira ipasavaitakirinaki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Apanirionira iroñaaka opoki, oyarirepayeranki, imishiyakiri irira ipasavaitakirinaki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Apanirionira ironyaaka opoki, oyarirepayeranki, imishiyakiri irira ipasavaitakirinaki.</sentence>
         <sentence lang="es">Como solita venia, sus hermanos, los hizo huir, cuando su padre al castigarles.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+apanirionira	+?
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+opoki	[o-][VPers][3n.m.S/A+][--][=pok+INF@aantsi;VC.][VRoot][=to.come (ES: venir), to.arrive][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+,	,[$.]
+
+oyarirepayeranki		[o-][NPers][3n.m.poss+][--][=yari+gndr@m.+poss@ri.+kin@fem.ego][NRoot][=brother (ES: hermano; PT: irmão)][--][-re][Gen][+aln.poss.]re[--][-paye][Num][+PL][=PL; DIST][--][-ranki][Adv][+TEMP][=TP.PREC; CHG.ST; ABSNT; RCG.DEM; RCG.REL]
+
+,	,[$.]
+
+imishiyakiri	+?
+
+irira		[=iri+gndr@m.+kin@fe/male.ego][NRoot][=father (ES: papá)][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+ipasavaitakirinaki	+?
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.43">
