@@ -1356,15 +1356,71 @@ ipasavaitakirinaki	+?
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.43">
-        <sentence lang="prq">Te isaikanaji ivankoki irirorite, iroñaaka opokakira, opoki, opoki, aritakaro ovanko aparoni ishaa ashoshi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Te isaikanaji ivankoki irirorite, iroñaaka opokakira, opoki, opoki, aritakaro ovanko aparoni ishaa ashoshi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Te isaikanahi ivankoki irirorite, ironyaaka opokakira, opoki, opoki, aritakaro ovanko aparoni ishaa ashoshi.</sentence>
         <sentence lang="es">Ya no estaban en su casa ellos también, ahora como ella vino hacia aquí venia, venia, llego a la casa de una abuela, armadillo.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+te		[=te+tns@future.neg.][Neg][=NEG.REAL]
+
+isaikanahi		[i-][VPers][3m.S/A+][--][=saik+INF@aantsi.][VRoot][=to.be, to.be.at, to.be.in; to.sit (ES: sentarse); to.live][--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+ivankoki		[i-][NPers][3m.poss+][--][=panko+gndr@n.m.+inal@tsi.+mrph.phon@LEN:^p→^v.][NRoot][=house, home (ES: casa);| tambo (QU: tampu)][--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)]
+
+irirorite		[=irirorite+pragm.func@cont.d.TOP.+num@3PL.EXCL.+gndr@m.][PrnPers][=they.(all)]
+
+,	,[$.]
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+opokakira		[o-][VPers][3n.m.S/A+][--][=pok+INF@aantsi;VC.][VRoot][=to.come (ES: venir), to.arrive][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ra][+SUB][=Temporal:when;Location:where(place);Denoting.a.cause/motive/reason:since;Epist.uncertainty:Okay?]
+
+,	,[$.]
+
+opoki	[o-][VPers][3n.m.S/A+][--][=pok+INF@aantsi;VC.][VRoot][=to.come (ES: venir), to.arrive][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+,	,[$.]
+
+opoki	[o-][VPers][3n.m.S/A+][--][=pok+INF@aantsi;VC.][VRoot][=to.come (ES: venir), to.arrive][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+,	,[$.]
+
+ariitakaro		[=arii+INF@/EP:t/aantsi.][VRoot][=to.arrive (ES: llegar); to.visit.with.sb. (ES: visitar.a.algn.)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ro][+3n.m.O/P]
+
+ovanko		[o-][NPers][3n.m.poss+][--][=panko+gndr@n.m.+inal@tsi.+mrph.phon@LEN:^p→^v.][NRoot][=house, home (ES: casa);| tambo (QU: tampu)]
+
+aparoni		[=aparoni+~{'one':apa}{NMZ:ro}{ADV:ni}][Numeral:PRQ][=1 ~ one (ES: uno)]
+
+ishaa		[=ishaa+gndr@n.m.+voc.+kin@fe/male.ego][NRoot][=grandma, grandmother]
+
+ashoshi		[=ashoshi+gndr@m.+sem@NP.person;wild.anim.][NRoot][=armadillo (ES: armadillo)]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.44">
-        <sentence lang="prq">Ashoshi onatsi ishara, tsika oviraka aka akantsiro totsirani, aritaima, totsirani kirinkaininta, ari osaikiri ovanko ashoshira.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ashoshi onatsi ishara, tsika oviraka aka akantsiro totsirani, aritaima, totsirani kirinkaininta, ari osaikiri ovanko ashoshira.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ashoshi onatsi ishara, tsika oviraka aka akantsiro totsirani, aritaima, totsirani kirinkaininta, ari osaikiri ovanko ashoshira.</sentence>
         <sentence lang="es">La abuela era armadillo, donde habrá estado aquí lo que decimos Toterani, tal vez  la casa de la abuela se encuentra un poco abajito de Toterani.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ashoshi		[=ashoshi+gndr@m.+sem@NP.person;wild.anim.][NRoot][=armadillo (ES: armadillo)]
+
+onatsi		[o-][VPers][3n.m.S/A+][--][=n+INF@aantsi][VRoot][=to.be (ES: ser,, estar)][--][-atsi][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]atsi
+
+ishara		[=isha+gndr@n.m.+voc.+kin@fe/male.ego][NRoot][=grandma, grandmother][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+,	,[$.]
+
+tsika		[=tsika+periphrasis@=saik.][WhPrn][=WH (EN: where,, what,, which,, how,, why)]
+
+oviraka		[o-][VPers][3n.m.S/A+][--][=vir+INF@aantsi:agaantsi.][VRoot][=to.stop.doing.sth. (ES: dejar.de.hacer); to.end.sth.; to.advance.towards.sth. (ES: llegar/progresar/avanzar.hasta)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.45">
