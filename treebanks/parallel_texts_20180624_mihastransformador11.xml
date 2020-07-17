@@ -1420,6 +1420,26 @@ tsika		[=tsika+periphrasis@=saik.][WhPrn][=WH (EN: where,, what,, which,, how,, 
 
 oviraka		[o-][VPers][3n.m.S/A+][--][=vir+INF@aantsi:agaantsi.][VRoot][=to.stop.doing.sth. (ES: dejar.de.hacer); to.end.sth.; to.advance.towards.sth. (ES: llegar/progresar/avanzar.hasta)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
 
+aka		[=aka+loc@proximal.b.][PrnDem][=DEM.ADV. (EN: here, close.to.the.speaker)]
+
+akantsiro		[a-][VPers][1PL.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+totsirani		[=totsirani+sem@NP.place][NRoot][=the.stream.where.totziroki/aquatic_snail.is.abundant]
+
+,	,[$.]
+
+aritaima		[=ari][PostPol][=PP][--][=taima][+DUB]::[=perhaps]
+
+,	,[$.]
+
+totsirani		[=totsirani+sem@NP.place][NRoot][=the.stream.where.totziroki/aquatic_snail.is.abundant]
+
+kirinkaininta		[=kirinka][NRoot][=down.river, downstream (ES: río.abajo); central.part.of.the.jungle][--][-ini][+DIM][--][=nta+mrph.cath@distal.b.][AS][+DEM.NOM][=DEM (EN: there, far.from.the.speaker (bounded))]
+
+,	,[$.]
+
+
+
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
