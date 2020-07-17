@@ -1442,16 +1442,36 @@ ari		[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es
 
 osaikiri		[o-][VPers][3n.m.S/A+][--][=saik+INF@aantsi.][VRoot][=to.be, to.be.at, to.be.in; to.sit (ES: sentarse); to.live][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri+tns@n.fut.][NS][+REL][=REAL]
 
+ovanko		[o-][NPers][3n.m.poss+][--][=panko+gndr@n.m.+inal@tsi.+mrph.phon@LEN:^p→^v.][NRoot][=house, home (ES: casa);| tambo (QU: tampu)]
 
+ashoshira		[=ashoshi+gndr@m.+sem@NP.person;wild.anim.][NRoot][=armadillo (ES: armadillo)][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
 
+.	.[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.45">
-        <sentence lang="prq">Aritaka iroñaaka sheeteni, okantapaakiro – Naaka ishaa,- aviró noshayo,- tsika pipoñaaka iroñaaka Noshayo,- nopoña kirinka,- Tsika pijateka iroññaka,- nojatatye katonko</sentence>
+        <!-- Aritaka iroñaaka sheeteni, okantapaakiro – Naaka ishaa,- aviró noshayo,- tsika pipoñaaka iroñaaka Noshayo,- nopoña kirinka,- Tsika pijateka iroññaka,- nojatatye katonko -->
+        <sentence lang="prq" normalizationlevel="none">Aritaka iroñaaka sheeteni, okantapaakiro – Naaka ishaa,- aviró noshayo,- tsika pipoñaaka iroñaaka Noshayo,- nopoña kirinka,- Tsika pijateka iroñaaka,- nojatatye katonko</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Aritaka ironyaaka sheeteni, okantapaakiro – Naaka ishaa,- aviro noshayo,- tsika piponyaaka ironyaaka Noshayo,- noponya kirinka,- Tsika pihateka iroñaaka,- nohatatye katonko</sentence>
         <sentence lang="es">Ahora llego en la tarde, le dijo a la abuela – yo soy abuela,- ella le contesto eres tu mi nieta.- de dónde vienes ahora nieta,- yo vengo de adentro,- donde vas a ir ahora ,- voy a irme hacia la altura o afuera</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ariitaka		[=arii+INF@/EP:t/aantsi.][VRoot][=to.arrive (ES: llegar); to.visit.with.sb. (ES: visitar.a.algn.)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+sheeteni		[=sheeteni][NRoot][=day]
+
+,	,[$.]
+
+okantapaakiro		[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-ap+dir@goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-a][+EP]a[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.46">
