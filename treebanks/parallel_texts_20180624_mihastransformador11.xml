@@ -1660,61 +1660,397 @@ okotsitapaakiro		[o-][VPers][3n.m.S/A+][--][=kotsi+INF@antsi.][VRoot][=to.cook (
         <sentence lang="prq" normalizationlevel="none">Okantsiro piyaa noshayo ,ovaaka kooyara .Poñaa okantsiro,airo okantsi pishiritaro parityaro katonko,</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Okantsiro piyaa noshayo ,ovaaka kooyara .Ponyaa okantsiro,airo okantsi pishiritaro parityaro katonko,</sentence>
         <sentence lang="es">Le dijo come nieta, comió la chica. Despues la abuela le dijo ,no vayas ha pensar llegar a la altura</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+okantsiro	[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+piyaa	+?
+
+noshayo		[no-][NPers][1SG.poss+][--][=shayo+gndr@n.m.+kin@fem.ego][NRoot][=granddaughter (ES: nieta)]
+
+,	,[$.]
+
+ovaaka		[=ov+INF@(a)antsi.][VRoot][=to.eat (ES: comer)][--][-a][+EP]a[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+kooyara		[=kooya+gndr@n.m.][NRoot][=woman (ES: mujer; QU: quya)][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+.	.[$.]
+
+ponyaa		[=ponyaa][AdvRoot][=CONN (EN: then, later)]
+
+okantsiro		[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+,	,[$.]
+
+airo		[=airo][Neg][=NEG.IRR]
+
+okantsi		[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+pishiritaro		[pi-][VPers][2S/A+][--][=shiri+INF@/EP:t/aantsi.][VRoot][=to.believe (ES: creer, tener.fe); to.think][--][-t][+EP]t[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ro][+3n.m.O/P]
+
+pariityaro		[p-][VPers][2S/A+][--][=arii+INF@/EP:t/aantsi.][VRoot][=to.arrive (ES: llegar); to.visit.with.sb. (ES: visitar.a.algn.)][--][-t][+EP]t[--][-ya+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]ya[--][=ro][+3n.m.O/P]
+
+katonko		[=katonko+poss@te.][NRoot][=up.river, upstream (ES: río.arriba)]
+
+,	,[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.50">
-        <sentence lang="prq">Airo pavishi, ari katyonkoinira, ari isaiki jainaite, ari intsonkavakimi iyaami, poñaa ari osaikavaitsi,</sentence>
+        <sentence lang="prq" normalizationlevel="none">Airo pavishi, ari katyonkoinira, ari isaiki jainaite, ari intsonkavakimi iyaami, poñaa ari osaikavaitsi,</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Airo pavishi, ari katyonkoinira, ari isaiki hainaite, ari intsonkavakimi iyaami, ponyaa ari osaikavaitsi,</sentence>
         <sentence lang="es">No vas a pasar, ahí arribita, ahí vive el hombre que come carne humana,te va acabar de comer ,después ahí se había quedado.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+airo		[=airo][Neg][=NEG.IRR]
+
+pavishi		[p-][VPers][2S/A+][--][=avish][VRoot][=to.pass, to.move.past/to_the_other_side_of.sb/sth. (ES: pasar); to.happen (ES: ocurrir, acontecer)][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+,	,[$.]
+
+ari		[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+katyonkoinira		[=katyonko+poss@te.][NRoot][=up.river, upstream (ES: río.arriba)][--][-ini][+DIM][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+,	,[$.]
+
+ari		[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+isaiki		[i-][VPers][3m.S/A+][--][=saik+INF@aantsi.][VRoot][=to.be, to.be.at, to.be.in; to.sit (ES: sentarse); to.live][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+hainaite	hainaite	+?
+
+,	,[$.]
+
+ari		[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+intsonkavakimi		[i-][VPers][3m.S/A+][--][N=][IRR+][--][=tsonk+INF@antsi.][VRoot][=to.finish.(off) (ES: terminar)][--][-av+dir@object.oriented][ADV][+DIR][=contrary,opposite; RCVG:object.arriving.at.the.location.of.the.subject]av[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=mi][+2SG.O/P][=you (ES: te)]
+
+iyaami	+?
+
+,	,[$.]
+
+ponyaa		[=ponyaa][AdvRoot][=CONN (EN: then, later)]
+
+ari		[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+osaikavaitsi		[o-][VPers][3n.m.S/A+][--][=saik+INF@aantsi.][VRoot][=to.be, to.be.at, to.be.in; to.sit (ES: sentarse); to.live][--][-a][+EP]a[--][-vai][ASP][+DUR][=action/state.endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]vai[--][-ts][+EP]ts[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+,	,[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.51">
-        <sentence lang="prq">Osaiki, osaiki, poñaa okantsi .Te airo okantsi nosaiki ishaa aritaki nokantaki navhsi ,nopintsata nojate katonko parinini.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Osaiki, osaiki, poñaa okantsi .Te airo okantsi nosaiki ishaa aritaki nokantaki navhsi ,nopintsata nojate katonko parinini.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Osaiki, osaiki, ponyaa okantsi .Te airo okantsi nosaiki ishaa aritaki nokantaki navhsi ,nopintsata nohate katonko parinini.</sentence>
         <sentence lang="es">Ahí, Estaba, ahí estaba, Después dijo .No yo no me voy a quedarme aquí abuela yo voy ha poder pasar yo pienso ir hacia la cabecera del rio.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+osaiki		[o-][VPers][3n.m.S/A+][--][=saik+INF@aantsi.][VRoot][=to.be, to.be.at, to.be.in; to.sit (ES: sentarse); to.live][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+,	,[$.]
+
+osaiki		[o-][VPers][3n.m.S/A+][--][=saik+INF@aantsi.][VRoot][=to.be, to.be.at, to.be.in; to.sit (ES: sentarse); to.live][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+,	,[$.]
+
+ponyaa		[=ponyaa][AdvRoot][=CONN (EN: then, later)]
+
+okantsi		[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+.	.[$.]
+
+te		[=te+tns@future.neg.][Neg][=NEG.REAL]
+
+airo		[=airo][Neg][=NEG.IRR]
+
+okantsi		[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+ishaa		[=ishaa+gndr@n.m.+voc.+kin@fe/male.ego][NRoot][=grandma, grandmother]
+
+aritaki		[=ari][VRoot][=to.be.the.case (ES: ser.así); to.be.true][--][-t][+EP]t[--][-ak][+APPL.CAUS.SOC][=A+(causer).causes.sth/sb(causee).to.do.sth.&amp;.A+.also.participates.in.the.actn.; to.make.sth/sb.do.sth.]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+nokantaki		[no-][VPers][1SG.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+navhsi	+?
+
+,	,[$.]
+
+nopintsata		[no-][VPers][1SG.S/A+][--][=pintsa][VRoot][=to.decide][--][-t][+EP]t[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+nohate		[no-][VPers][1SG.S/A+][--][=hat+INF@aantsi.][VRoot][=to.go (ES: ir)][--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e
+
+katonko		[=katonko+poss@te.][NRoot][=up.river, upstream (ES: río.arriba)]
+
+parinini		[=parini+sem@NP.river][NRoot][=river, Perené.river][--][-ni+place][+CL:watercourse][=watercourse, running.water.feature]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.52">
-        <sentence lang="prq">Poñaa pashiniki kitaiteri, te añiiro tsika okinanaki ashoshira. Te oshinitero ashoshi avishi kooyara</sentence>
+        <sentence lang="prq" normalizationlevel="none">Poñaa pashiniki kitaiteri, te añiiro tsika okinanaki ashoshira. Te oshinitero ashoshi avishi kooyara</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ponyaa pashiniki kitaiteri, te anyiiro tsika okinanaki ashoshira. Te oshinitero ashoshi avishi kooyara</sentence>
         <sentence lang="es">Después otro día, no estaba donde se habrá ido la armadillo. No le dejaba la armadillo para a la chica.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ponyaa		[=ponyaa][AdvRoot][=CONN (EN: then, later)]
+
+pashiniki		[=pashini][NRoot][=other, another (ES: otro); few][--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)]
+
+kitaiteri		[=kitaiteri][NRoot][=day (ES: día; PT: dia; QU: p'unchay, p'unchaw)]
+
+,	,[$.]
+
+te		[=te+tns@future.neg.][Neg][=NEG.REAL]
+
+anyiiro		[=any+INF@(a)antsi.][VRoot][=to.live, to.be.alive (ES: vivir)][--][-ii+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]ii[--][=ro][+3n.m.O/P]
+
+tsika		[=tsika+periphrasis@=saik.][WhPrn][=WH (EN: where,, what,, which,, how,, why)]
+
+okinanaki		[o-][VPers][3n.m.S/A+][--][=kin+INF@aantsi.][VRoot][=to.go.by.trail, to.go (ES: ir); to.pass (ES: pasar); to.walk, to.come][--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+ashoshira		[=ashoshi+gndr@m.+sem@NP.person;wild.anim.][NRoot][=armadillo (ES: armadillo)][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+.	.[$.]
+
+te		[=te+tns@future.neg.][Neg][=NEG.REAL]
+
+oshinitero		[o-][VPers][3n.m.S/A+][--][=shini+INF@/EP:t/VC.][VRoot][=to.allow (ES: permitir)][--][-t][+EP]t[--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e[--][=ro][+3n.m.O/P]
+
+ashoshi		[=ashoshi+gndr@m.+sem@NP.person;wild.anim.][NRoot][=armadillo (ES: armadillo)]
+
+avishi		[=avish][VRoot][=to.pass, to.move.past/to_the_other_side_of.sb/sth. (ES: pasar); to.happen (ES: ocurrir, acontecer)][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+kooyara		[=kooya+gndr@n.m.][NRoot][=woman (ES: mujer; QU: quya)][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.53">
-        <sentence lang="prq">okantsi tsikaratya okinanakika ishaaranki ojateta.pianaka iroñaaka.</sentence>
+        <sentence lang="prq" normalizationlevel="none">okantsi tsikaratya okinanakika ishaaranki ojateta.pianaka iroñaaka.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">okantsi tsikaratya okinanakika ishaaranki ohateta.pianaka ironyaaka.</sentence>
         <sentence lang="es">Dijo la chica, dónde se habrá ido la abuela, que se vaya, desapareció ahora</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+okantsi		[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+tsikaratya		[=tsika][WhPrn][=WH][--][-ra+medial.b.][+DEM][--][-tya][+EMPH]
+
+okinanakika		[o-][VPers][3n.m.S/A+][--][=kin+INF@aantsi.][VRoot][=to.go.by.trail, to.go (ES: ir); to.pass (ES: pasar); to.walk, to.come][--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ka][+Q]
+
+ishaaranki		[=ishaa+gndr@n.m.+voc.+kin@fe/male.ego][NRoot][=grandma, grandmother][--][-ranki][Adv][+TEMP][=TP.PREC; CHG.ST; ABSNT; RCG.DEM; RCG.REL]
+
+ohateta		[o-][VPers][3n.m.S/A+][--][=hat+INF@aantsi.][VRoot][=to.go (ES: ir)][--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e[--][=ta][MODAL][+OPT_SUBJ][CONTG: actn.that.depends.on.sth.that.may.or.may.not.happen; HYPOTH: actn.that.is.possible.&amp;.imagined.rather.than.real.&amp;.true]
+
+.	.[$.]
+
+pianaka		[=pi][VRoot][=to.disappear (ES: desaparecer)][--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.54">
-        <sentence lang="prq">Okatsiyanaka irori, jatsi.. Okanta, okanta oñapatsiro iroñaaka iriniro jainaite, irojatsi ishaa.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Okatsiyanaka irori, jatsi.. Okanta, okanta oñapatsiro iroñaaka iriniro jainaite, irojatsi ishaa.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Okatsiyanaka irori, hatsi.. Okanta, okanta onyapatsiro ironyaaka iriniro hainaite, irohatsi ishaa.</sentence>
         <sentence lang="es">Ella se levanto, se fue, se fue, se fue y luego vio a la mamá del hombre que come carne humana, ella también era abuela</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+okatsiyanaka	+?
+
+irori		[=irori+pragm.func@cntr.add.l.FOC.+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella)]
+
+,	,[$.]
+
+hatzi		[=ha+INF@/EP:t/aantsi.][VRoot][=to.go (ES: ir)][--][-ts][+EP]ts[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+.	.[$.]
+
+.	.[$.]
+
+okanta		[=okanta][ConnRoot][=so.that]
+
+,	,[$.]
+
+okanta		[=okanta][ConnRoot][=so.that]
+
+onyapatziro		[o-][VPers][3n.m.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-ap+dir@goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-atz][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]atz[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+iriniro		[iri-][NPers][3m.poss+][--][=niro+gndr@n.m.+kin@fe/male.ego+voc@1SG:2SG:3SG.][NRoot][=mother (ES: mamá)]
+
+hainaite		[=hainaite][NRoot][=cannibal (ES: caníbal)]
+
+,	,[$.]
+
+irohatsi		[=irohatsi][ConnRoot][=also (ES: también)]
+
+ishaa		[=ishaa+gndr@n.m.+voc.+kin@fe/male.ego][NRoot][=grandma, grandmother]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.55">
-        <sentence lang="prq">Oñaapatsiro iroñaaka okantapaakiro,- Naaka ishaa,- aviró noshayo - tsika pipoñaaka – nopoñaa kirinka – tsika pijateka-nojate katonko parinini.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Oñaapatsiro iroñaaka okantapaakiro,- Naaka ishaa,- aviró noshayo - tsika pipoñaaka – nopoñaa kirinka – tsika pijateka-nojate katonko parinini.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Onyaapatsiro ironyaaka okantapaakiro,- Naaka ishaa,- aviro noshayo - tsika piponyaaka – noponyaa kirinka – tsika pihateka-nohate katonko parinini.</sentence>
         <sentence lang="es">Lo vio ahora y le dijo,- Yo soy abuela – eres tú nieta – de dónde vienes – vengo de adentro – donde vas a ir- voy hacia la cabecera del rio.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+onyaapatsiro		[o-][VPers][3n.m.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-a][+EP]a[--][-ap+dir@goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-ats][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]ats[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+okantapaakiro		[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-ap+dir@goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-aak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]aak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+,	,[$.]
+
+-	-[$.]
+
+naaka		[=naaka+pragm.func@cont.d.TOP.+num@1SG.EXCL.][PrnPers][=I (ES: yo; PT: eu; QU: ñuqa)]
+
+ishaa		[=ishaa+gndr@n.m.+voc.+kin@fe/male.ego][NRoot][=grandma, grandmother]
+
+,	,[$.]
+
+-	-[$.]
+
+aviro		[=aviro+pragm.func@cont.d.TOP.+num@2SG][PrnPers][=you (ES: tú)]
+
+noshayo		[no-][NPers][1SG.poss+][--][=shayo+gndr@n.m.+kin@fem.ego][NRoot][=granddaughter (ES: nieta)]
+
+-	-[$.]
+
+tsika		[=tsika+periphrasis@=saik.][WhPrn][=WH (EN: where,, what,, which,, how,, why)]
+
+piponyaaka		[pi-][VPers][2S/A+][--][=pony+INF@VC.][VRoot][=to.come.from.(some_place) (ES: venir.de.algún_lugar)][--][-aa+allomorph@a.+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]aa[--][=ka][+Q]
+-	-[$.]
+
+noponyaa		[no-][VPers][1SG.S/A+][--][=pony+INF@VC.][VRoot][=to.come.from.(some_place) (ES: venir.de.algún_lugar)][--][-aa+allomorph@a.+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]aa
+
+kirinka		[=kirinka][NRoot][=down.river, downstream (ES: río.abajo); central.part.of.the.jungle]
+
+-	-[$.]
+
+tsika		[=tsika+periphrasis@=saik.][WhPrn][=WH (EN: where,, what,, which,, how,, why)]
+
+pihateka		[pi-][VPers][2S/A+][--][=hat+INF@aantsi.][VRoot][=to.go (ES: ir)][--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e[--][=ka][+Q]
+
+-	-[$.]
+
+nohate		[no-][VPers][1SG.S/A+][--][=hat+INF@aantsi.][VRoot][=to.go (ES: ir)][--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e
+
+katonko		[=katonko+poss@te.][NRoot][=up.river, upstream (ES: río.arriba)]
+
+parinini		[=parini+sem@NP.river][NRoot][=river, Perené.river][--][-ni+place][+CL:watercourse][=watercourse, running.water.feature]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.56">
-        <sentence lang="prq">ari okaakitapaakiini irotaintsi parityaro ,okatonkotsi parinini.</sentence>
+        <sentence lang="prq" normalizationlevel="none">ari okaakitapaakiini irotaintsi parityaro ,okatonkotsi parinini.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">ari okaakitapaakiini irotaintsi parityaro ,okatonkotsi parinini.</sentence>
         <sentence lang="es">Ya es cerca ya vas a llegar, la cabecera del rio o donde nace el rio.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ari		[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+okaakitapaakiini		[=okaaki+INF@/EP:t/aantsi.][VRoot][=to.approach, to.get.closer, to.come.near][--][-t][+EP]t[--][-ap+dir@goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-aak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]aak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][-ini][AS][+ADV]ini
+
+irotaintsi		[=irotaintsi][ConnRoot][=CONN: soon.(still.far) (ES: casi.(lejos.todavía))]
+
+pariityaro		[p-][VPers][2S/A+][--][=arii+INF@/EP:t/aantsi.][VRoot][=to.arrive (ES: llegar); to.visit.with.sb. (ES: visitar.a.algn.)][--][-t][+EP]t[--][-ya+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]ya[--][=ro][+3n.m.O/P]
+
+,	,[$.]
+
+okatonkotzi	okatonkotzi	+?
+
+parinini		[=parini+sem@NP.river][NRoot][=river, Perené.river][--][-ni+place][+CL:watercourse][=watercourse, running.water.feature]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.57">
-        <sentence lang="prq">Poñaa iroñaaka okantsi,ishara.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Poñaa iroñaaka okantsi,ishara.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ponyaa ironyaaka okantsi,ishara.</sentence>
         <sentence lang="es">Después ahora dijo la abuela</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ponyaa		[=ponyaa][AdvRoot][=CONN (EN: then, later)]
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+okantsi		[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+,	,[$.]
+
+ishara		[=isha+gndr@m.+voc.+kin@fem.ego][NRoot][=grandson (ES: nieto)][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.58">
-        <sentence lang="prq">Maatsi oyovitsite antaroite, ari omoyakotsi onijate. Okantsiro iroñaaka noshayo paakitenaro ironta, noshinkini jenokira</sentence>
+        <sentence lang="prq" normalizationlevel="none">Maatsi oyovitsite antaroite, ari omoyakotsi onijate. Okantsiro iroñaaka noshayo paakitenaro ironta, noshinkini jenokira</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Maatsi oyovitsite antaroite, ari omoyakotsi onihate. Okantsiro ironyaaka noshayo paakitenaro ironta, noshinkini henokira</sentence>
         <sentence lang="es">Tenía una olla bien grande, ahí hacia hervir su agua. Le dijo ahora nieta anda tráigamelo mi maíz que esta allá arriba</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+maatsi		[=maatsi][VRoot][=EXIST (EN: there.is/are); POSSESS (EN: has)]
+
+oyovitsite		[o-][NPers][3n.m.poss+][--][=kovitsi+gndr@n.m.+poss@te.+mrph.phon@LEN:^k→^y.][NRoot][=(clay).pot (ES: olla.(de.barro), tinaja)][--][-te+syl@&gt;tri.][Gen][+aln.poss.]te
+
+antaroite		[=antaro+gndr@n.m.+poss@nposs.adj.][NRoot][=big; mature][--][-ite][DEGR][+AUG][=many; expansive]
+
+,	,[$.]
+
+ari		[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+omoyakotsi		[o-][VPers][3n.m.S/A+][--][=moy+INF@aantsi.][VRoot][=to.boil (ES: hervir)][--][-ako][VS][+APPL.GEN][=GEN (EN: with.reference.to.sth., about.sth.); INDR (EN: action.affects.sth.in.an.indirect.manner)]ako[--][-ts][+EP]ts[--][-i+tns@n.fut.+C.I@act.v.+RSS@00][MODALITY][+REAL]i
+
+onihate		[o-][NPers][3n.m.poss+][--][=niha+gndr@n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)][--][-te+syl@&gt;tri.][Gen][+aln.poss.]te
+
+.	.[$.]
+
+okantsiro		[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+noshayo		[no-][NPers][1SG.poss+][--][=shayo+gndr@n.m.+kin@fem.ego][NRoot][=granddaughter (ES: nieta)]
+
+paakitenaro		[p-][VPers][2S/A+][--][=a+INF@/DEL:a/gaantsi.+I-Conj@act.v.][VRoot][=to.take (ES: agarrar)][--][-ak][+APPL.CAUS.SOC][=A+(causer).causes.sth/sb(causee).to.do.sth.&amp;.A+.also.participates.in.the.actn.; to.make.sth/sb.do.sth.]ak[--][-it][Asp][+ICPL][=actn/event.that.was.begun.but.not.completed]it[--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e[--][=na][+1SG.O/P][=me (ES: me)][--][=ro][+3n.m.O/P]
+
+ironta		[=ironta+gndr@n.m.+loc@distal.b.][PrnDem][=that.(over.there)]
+
+,	,[$.]
+
+noshinkini		[no-][NPers][1SG.poss+][--][=shinki+gndr@m.+poss@ne:ni.][NRoot][=corn, maize (ES: maíz, botany.nm.: zea.maíz)][--][-ni+syl@di.][Gen][+aln.poss.]ni
+
+henokira		[=henoki][NRoot][=up, top (ES: arriba, alto); sky; (ES: el.padre.sol)][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.59">
