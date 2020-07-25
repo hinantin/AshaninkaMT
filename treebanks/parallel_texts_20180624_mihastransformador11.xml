@@ -2054,21 +2054,74 @@ henokira		[=henoki][NRoot][=up, top (ES: arriba, alto); sky; (ES: el.padre.sol)]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.59">
-        <sentence lang="prq">onintsi arika atetanaki kooyara ontsiriakotero atetamentokira, onkantakotero tsirik.</sentence>
+        <sentence lang="prq" normalizationlevel="none">onintsi arika atetanaki kooyara ontsiriakotero atetamentokira, onkantakotero tsirik.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">onintsi arika atetanaki kooyara ontsiriakotero atetamentokira, onkantakotero tsirik.</sentence>
         <sentence lang="es">Quería que cuando sube la chica hacerlo caer por la escalera, moviéndolo track.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+onintsi		[o-][VPers][3n.m.S/A+][--][=nint+INF@aantsi.+poss@ane:ani.][VRoot][=to.want (ES: gustar); to.love (ES: amar)][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+arika		[=ari][PostPol][=PP][--][=ka+~{R.DEL:ri}{COND:rika}][+COND]::[=when (temporal.simultaneity); if (expresses.possible.condition)]
+
+atetanaki		[=ate+INF@/EP:t/antsi.][VRoot][=to.go.up (ES: subir); to.climb (ES: trepar)][--][-t][+EP]t[--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+kooyara		[=kooya+gndr@n.m.][NRoot][=woman (ES: mujer; QU: quya)][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+ontsiriakotero	ontsiriakotero	+?
+
+atetamentokira		[=ate+INF@/EP:t/antsi.][VRoot][=to.go.up (ES: subir); to.climb (ES: trepar)][--][-t][+EP]t[--][-a][+VERB.CL:liquid][=liquid]a[--][-mento+gndr@n.m.][NS][+NMZ.CONCR]mento[--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+,	,[$.]
+
+onkantakotero		[o-][VPers][3n.m.S/A+][--][N=][IRR+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-ako][+VERB.CL:vessel][=vessel; recipient, container; cavity; hand]ako[--][-t][+EP]t[--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e[--][=ro][+3n.m.O/P]
+
+tsirik		[=tsirik][Ideo:PRQ][=action.of.releasing.from.a.state.of.being.stuck.together]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.60">
-        <sentence lang="prq">Ompariamaintapakia kooyara omoyakira nijaa onintsi ovinkiro</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ompariamaintapakia kooyara omoyakira nijaa onintsi ovinkiro</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ompariamaintapakia kooyara omoyakira nihaa onintsi ovinkiro</sentence>
         <sentence lang="es">La chica caia donde esta herviendo el agua quería hacerlo hundir.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ompariamaintapakia		[o-][VPers][3n.m.S/A+][--][N=][IRR+][--][=pari][VRoot][=to.fall (ES: caer)][--][-amaint][Asp][+INCH][=beginning.of.a.new.state; CNT.EXP:but]amaint[--][-ap+dir@goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=kya][MODAL][+O.FOC]
+
+kooyara		[=kooya+gndr@n.m.][NRoot][=woman (ES: mujer; QU: quya)][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+omoyakira		[o-][VPers][3n.m.S/A+][--][=moy+INF@aantsi.][VRoot][=to.boil (ES: hervir)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][-ra+loc@medial.][+ADV]ra
+
+nihaa		[=nihaa+gndr@n.m.+poss@ti:te.][NRoot][=water (ES: agua);| river (ES: rio)]
+
+onintsi		[o-][VPers][3n.m.S/A+][--][=nint+INF@aantsi.+poss@ane:ani.][VRoot][=to.want (ES: gustar); to.love (ES: amar)][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+ovinkiro		[o-][NPers][3n.m.poss+][--][=pinki][VRoot][=to.drown (ES: ahogar)][--][-ro+gndr@n.m.][NS][+NMZ]ro
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.61">
-        <sentence lang="prq">poñaa omavita, te okante atetiro kooyara omavita te .Poñaa okantsi, tsikama okantatyarika.</sentence>
+        <sentence lang="prq" normalizationlevel="none">poñaa omavita, te okante atetiro kooyara omavita te .Poñaa okantsi, tsikama okantatyarika.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">ponyaa omavita, te okante atetiro kooyara omavita te .Ponyaa okantsi, tsikama okantatyarika.</sentence>
         <sentence lang="es">Luego intentaba, no podía subir la chica intentaba nada, luego dijo como es esto.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ponyaa		[=ponyaa][AdvRoot][=CONN (EN: then, later)]
+
+omavita	+?
+
+,	,[$.]
+
+te		[=te+tns@future.neg.][Neg][=NEG.REAL]
+
+okante		[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.62">
