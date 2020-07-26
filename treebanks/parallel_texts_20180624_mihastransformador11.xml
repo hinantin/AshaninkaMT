@@ -2141,13 +2141,63 @@ tsikama		[=tsika][WhPrn][=WH][--][-ma][+DUB]
 okantatyarika		[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-a][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]a[--][-t][+EP]t[--][-ya+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]ya[--][=rika][MODAL][+COND][=if (expresses.possible.condition); like (comparison)]
 
 .	.[$.]
+
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.62">
-        <sentence lang="prq">iroñaakaja ,ari okatsiyaitani,okantsiro , ishaa apaniro pisaikavaitsikia ,akanakiro ,te apaniro  nosaikavaite notsipayetari notomipatsaini,korakitatsi taima iroñaaka.</sentence>
+        <!-- iroñaakaja ,ari okatsiyaitani,okantsiro , ishaa apaniro pisaikavaitsikia ,akanakiro ,te apaniro  nosaikavaite notsipayetari notomipatsaini,korakitatsi taima iroñaaka. -->
+        <sentence lang="prq" normalizationlevel="none">iroñaakaja ,ari okatsiyaitani,okantsiro , ishaa apaniro pisaikavaitsikia ,akanakiro ,te apaniro  nosaikavaite notsipayetari notomipatsaini,korakitatsitaima iroñaaka.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">ironyaakaha ,ari okatsiyaitani,okantsiro , ishaa apaniro pisaikavaitsikia ,akanakiro ,te apaniro  nosaikavaite notsipayetari notomipatsaini,korakitatsitaima ironyaaka.</sentence>
         <sentence lang="es">Ahora pues, ahí estaba parada, luego le dijo, abuela solita vives aquí, ella le contesto, no yo no vivo solita estoy acompañado de mis hijitos, ya van a llegar ahora.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ironyaakaha		[=ironyaa][NRoot][=now (ES: ahora)][--][-ka][+EMPH][=EMPH; ASSERT (EN: state.clearly-&amp;-firmly.that.sth.is.true)][--][-ha][+EMPH][=EMPH; ASSERT (EN: state.clearly-&amp;-firmly.that.sth.is.true)]
+
+,	,[$.]
+
+ari		[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+okatsiyaitani		[o-][VPers][3n.m.S/A+][--][=katsiy+INF@aantsi.][VRoot][=to.stand (ES: pararse); to.stand.guard; to.be.erect (ES: estar.recto); to.stand.up][--][-a][+EP]a[--][-it][Asp][+ICPL][=actn/event.that.was.begun.but.not.completed]it[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ni+tns@fut.][NS][+REL][=IRR]
+
+,	,[$.]
+
+okantsiro		[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+,	,[$.]
+
+ishaa		[=ishaa+gndr@n.m.+voc.+kin@fe/male.ego][NRoot][=grandma, grandmother]
+
+apaniro		[=apaniro][NRoot][=on.one's.own]
+
+pisaikavaitsikia		[pi-][VPers][2S/A+][--][=saik+INF@aantsi.][VRoot][=to.be, to.be.at, to.be.in; to.sit (ES: sentarse); to.live][--][-a][+EP]a[--][-vai][ASP][+DUR][=action/state.endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]vai[--][-ts][+EP]ts[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=kya][MODAL][+O.FOC]
+
+,	,[$.]
+
+akanakiro		[=ak+INF@aantsi.][VRoot][=to.answer.back (ES: contestar, responder)][--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+,	,[$.]
+
+te		[=te+tns@future.neg.][Neg][=NEG.REAL]
+
+apaniro		[=apaniro][NRoot][=on.one's.own]
+
+nosaikavaite		[no-][VPers][1SG.S/A+][--][=saik+INF@aantsi.][VRoot][=to.be, to.be.at, to.be.in; to.sit (ES: sentarse); to.live][--][-a][+EP]a[--][-vai][ASP][+DUR][=action/state.endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]vai[--][-t][+EP]t[--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e
+
+notsipayetari		[no-][VPers][1SG.S/A+][--][=tsipa+INF@/EP:t/aantsi.][VRoot][=to.accompany (ES: acompañar);| to.be.together (ES: tener.pareja);| to.join (ES: juntarse)][--][-ye][+DIST][=PL.S/A+.who.are.separated.into.groups.in.≠.locations]ye[--][-t][+EP]t[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL.RFL]a[--][=ri][+3m.O/P]
+
+notomipatsaini		[no-][NPers][1SG.poss+][--][=tomi+gndr@m.+inal@tsi.+kin@fe/male.ego][NRoot][=son (ES: hijo)][--][-patsa][=small.part][--][-ini][+DIM]
+
+,	,[$.]
+
+korakitatsitaima		[=koraki][VRoot][=to.approach, to.get.closer, to.come.near][--][-t][+EP]t[--][-atsi][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]atsi[--][=taima][MODAL][+DUB][=maybe; sb.might.do.sth.]
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.63">
