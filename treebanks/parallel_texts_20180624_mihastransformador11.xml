@@ -2112,7 +2112,7 @@ ovinkiro		[o-][NPers][3n.m.poss+][--][=pinki][VRoot][=to.drown (ES: ahogar)][--]
 
 ponyaa		[=ponyaa][AdvRoot][=CONN (EN: then, later)]
 
-omavita	+?
+omavita		[o-][VPers][3n.m.S/A+][--][=ma+INF@/EP:t/VC.][VRoot][=to.manage.(to.do.sth.), to.be.able/possible.(to.do.sth.) (ES: lograr, poder.hacer.algo)][--][-vi][+FRUS][=unsuccessful/interrupted.action/state (EN: in.vain; ES: casi); action.that.didn't.achieve.the.desired.result]vi[--][-t][+EP]t[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
 
 ,	,[$.]
 
@@ -2124,7 +2124,23 @@ atetiro		[=ate+INF@/EP:t/antsi.][VRoot][=to.go.up (ES: subir); to.climb (ES: tre
 
 kooyara		[=kooya+gndr@n.m.][NRoot][=woman (ES: mujer; QU: quya)][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
 
+omavita		[o-][VPers][3n.m.S/A+][--][=ma+INF@/EP:t/VC.][VRoot][=to.manage.(to.do.sth.), to.be.able/possible.(to.do.sth.) (ES: lograr, poder.hacer.algo)][--][-vi][+FRUS][=unsuccessful/interrupted.action/state (EN: in.vain; ES: casi); action.that.didn't.achieve.the.desired.result]vi[--][-t][+EP]t[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
 
+te		[=te+tns@future.neg.][Neg][=NEG.REAL]
+
+.	.[$.]
+
+ponyaa		[=ponyaa][AdvRoot][=CONN (EN: then, later)]
+
+okantsi		[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+,	,[$.]
+
+tsikama		[=tsika][WhPrn][=WH][--][-ma][+DUB]
+
+okantatyarika		[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-a][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]a[--][-t][+EP]t[--][-ya+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]ya[--][=rika][MODAL][+COND][=if (expresses.possible.condition); like (comparison)]
+
+.	.[$.]
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
