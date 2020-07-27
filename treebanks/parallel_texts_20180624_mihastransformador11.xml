@@ -2307,9 +2307,15 @@ ayaari	+?
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.66">
-        <sentence lang="prq">okantsiri iroñaaka, notyomi aka noñaaki aparoni, yakanakiro Ikantsi tsika iroñaakakia,okantsiri nironta.</sentence>
+        <sentence lang="prq" normalizationlevel="none">okantsiri iroñaaka, notyomi aka noñaaki aparoni, yakanakiro Ikantsi tsika iroñaakakia,okantsiri nironta.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">okantsiri ironyaaka, notyomi aka nonyaaki aparoni, yakanakiro Ikantsi tsika ironyaakakia,okantsiri nironta.</sentence>
         <sentence lang="es">Ella le dijo ahora, hijito aquí yo he visto uno, y él le contesto, donde está ahora, ella le dijo allá esta.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.67">
