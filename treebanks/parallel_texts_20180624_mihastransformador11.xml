@@ -2201,21 +2201,109 @@ ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.63">
-        <sentence lang="prq">opoñaa okimajatsiri ikaimayapaajini,tonkarikinta,okantsiro korakitaji iroñaaka notyomi ,ari pisaiki jaka noshayo</sentence>
+        <sentence lang="prq" normalizationlevel="none">opoñaa okimajatsiri ikaimayapaajini,tonkarikinta,okantsiro korakitaji iroñaaka notyomi ,ari pisaiki jaka noshayo</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">oponyaa okimahatsiri ikaimayapaahini,tonkarikinta,okantsiro korakitahi ironyaaka notyomi ,ari pisaiki haka noshayo</sentence>
         <sentence lang="es">Luego escucho que gritaban allá arriba, le dijo ya van a venir ahora a mí, aquí vas a sentarte.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+oponyaa		[=oponyaa][AdvRoot][=CONN (EN: then)]
+
+okimahatsiri		[o-][VPers][3n.m.S/A+][--][=kim+INF@aantsi.][VRoot][=to.hear, to.listen; to.sense (ES: sentir)][--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-atsi][Asp][+STAT.IPRF][=ongoing.&amp;.non-evolving.state]atsi[--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+ikaimayapaahini	ikaimayapaahini	+?
+
+,	,[$.]
+
+tonkarikinta		[=tonkari+sem@loc.][NRoot][=hill.top,above (ES: loma)][--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)][--][=nta+mrph.cath@distal.b.][AS][+DEM.NOM][=DEM (EN: there, far.from.the.speaker (bounded))]
+
+,	,[$.]
+
+okantsiro		[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+korakitahi		[=koraki][VRoot][=to.approach, to.get.closer, to.come.near][--][-t][+EP]t[--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+notyomi		[no-][NPers][1SG.poss+][--][=tyomi+~{E.PAL.:ty}omi+gndr@m.+inal@tsi.+kin@male.ego][NRoot][=son.(with.affection) (ES: hijito)]
+
+,	,[$.]
+
+ari		[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+pisaiki		[pi-][VPers][2S/A+][--][=saik+INF@aantsi.][VRoot][=to.be, to.be.at, to.be.in; to.sit (ES: sentarse); to.live][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+haka		[=haka+loc@proximal.b.][PrnDem][=DEM.ADV. (EN: here, close.to.the.speaker; ES: aquí)]
+
+noshayo		[no-][NPers][1SG.poss+][--][=shayo+gndr@n.m.+kin@fem.ego][NRoot][=granddaughter (ES: nieta)]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.64">
-        <sentence lang="prq">Poñaa ipokajetapaajira otomipayera, ikantapaajiro inaa te vee, tekatsi noñii.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Poñaa ipokajetapaajira otomipayera, ikantapaajiro inaa te vee, tekatsi noñii.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ponyaa ipokahetapaahira otomipayera, ikantapaahiro inaa te vee, tekatsi nonyii.</sentence>
         <sentence lang="es">Después llegaron sus hijos, le dijo a su mamá no hay nada, no he visto nada</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ponyaa		[=ponyaa][AdvRoot][=CONN (EN: then, later)]
+
+ipokahetapaahira		[i-][VPers][3m.S/A+][--][=pokahe+INF@/EP:t/VC.][VRoot][=to.come (ES: venir)][--][-t][+EP]t[--][-ap+dir@goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-a][+EP]a[--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][-ra+loc@medial.][+ADV]ra
+
+otomipayera		[o-][NPers][3n.m.poss+][--][=tomi+gndr@m.+inal@tsi.+kin@fe/male.ego][NRoot][=son (ES: hijo)][--][-paye][Num][+PL][=PL; DIST][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+,	,[$.]
+
+ikantapaahiro		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-ap+dir@goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-a][+EP]a[--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+inaa		[=inaa+gndr@n.m.+inal@tsi.+kin@fe/male.ego][NRoot][=mother (ES: mamá); wife]
+
+te		[=te+tns@future.neg.][Neg][=NEG.REAL]
+
+vee		[=vee][Interj:PRQ][=EXCL]
+
+,	,[$.]
+
+tekatsi		[=tekatsi][Neg][=NEG.EXIST (EN: there.is.nothing); NOT.POSSESS (ES: no.tener.nada)]
+
+nonyii		[no-][VPers][1SG.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-ii+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]ii
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.65">
-        <sentence lang="prq">tekatsi yoyaa, tekatsite, tekatsi kamintsainani iroñaaka iyora ayovintsani ayaari.</sentence>
-        <sentence lang="es">No hay nada que come,no hay nada,no he encontrado nada ahora ,este nuetra presa para comer.</sentence>
-        <morphology format="" analysislevel=""/>
+        <sentence lang="prq" normalizationlevel="none">tekatsi yoyaa, tekatsite, tekatsi kamintsainani iroñaaka iyora ayovintsani ayaari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">tekatsi yoyaa, tekatsite, tekatsi kamintsainani ironyaaka iyora ayovintsani ayaari.</sentence>
+        <sentence lang="es">No hay nada que comer,no hay nada,no he encontrado nada ahora ,este nuestra presa para comer.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+tekatsi		[=tekatsi][Neg][=NEG.EXIST (EN: there.is.nothing); NOT.POSSESS (ES: no.tener.nada)]
+
+yoyaa		[y-][VPers][3m.S/A+][--][=oy][VRoot][=to.eat (ES: comer)][--][-aa+allomorph@a.+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]aa
+
+,	,[$.]
+
+tekatsite		[=tekatsi][NRoot][=none, empty, zero, null][--][-te+~{R.DEL:i}{N:/'animate,plural':ite/}][+CL:anim.PL][=animate,plural]te
+
+kamintsainani	+?
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+iyora		[=iyora+gndr@m.+loc@medial][PrnDem][=that]
+
+ayovintsani	+?
+
+ayaari	+?
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.66">
