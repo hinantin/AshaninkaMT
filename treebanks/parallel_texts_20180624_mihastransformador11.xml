@@ -2388,9 +2388,35 @@ kooyara		[=kooya+gndr@n.m.][NRoot][=woman (ES: mujer; QU: quya)][--][=ra+mrph.ca
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.68">
-        <sentence lang="prq">Ivakiro iroñaaka iposainatakiro teee. Otsomontetatsira Ivakiro iroñaaka otsapiaki parinini.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ivakiro iroñaaka iposainatakiro teee. Otsomontetatsira Ivakiro iroñaaka otsapiaki parinini.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ivakiro ironyaaka iposainatakiro teee. Otsomontetatsira Ivakiro ironyaaka otsapiaki parinini.</sentence>
         <sentence lang="es">Lo mato ahora, lo golpeo en su cabeza teee, como ella estaba gestando lo mato  lo llevo y lo puso cerca a la orilla del rio.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ivakiro		[i-][VPers][3m.S/A+][--][=v][VRoot][=to.kill][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+iposainatakiro		[i-][VPers][3m.S/A+][--][=pos+INF@aantsi.+mrph.phon@SIBL.NEUT:s$→^sh$.][VRoot][=to.hit, to.beat, to.crash][--][-a][+EP][--][-ina][+VERB.CL:ball-like][=ball-like, spherical]ina[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+teee		[=teee][Ideo:PRQ][=action.of.hitting.a.human.body]
+
+.	.[$.]
+
+otsomontetatsira		[o-][VPers][3n.m.S/A+][--][=tsomonte+sem@b.p.][NRoot][=belly (ES: abdomen, barriga)]::[=to.be.pregnant (ES: estar.embarazada)][^VBZ][--][-t][+EP]t[--][-ats][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]atz[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][-ra+loc@medial.][+ADV]ra
+
+ivakiro		[i-][VPers][3m.S/A+][--][=v][VRoot][=to.kill][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+otsapiaki		[o-][NPers][3n.m.poss+][--][=tsapi+gndr@n.m.+inal@tsi.][NRoot][=edge, side, end.edge.of.some.plane (ES: canto)][--][-a][+CL:liquid][=liquid][--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)]
+
+parinini		[=parini+sem@NP.river][NRoot][=river, Perené.river][--][-ni+sem@place.][+CL:watercourse][=watercourse, running.water.feature]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.69">
