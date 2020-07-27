@@ -2420,9 +2420,41 @@ parinini		[=parini+sem@NP.river][NRoot][=river, Perené.river][--][-ni+sem@place
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.69">
-        <sentence lang="prq">Ari ivakirori, ari itsimavintsirori itoyetsiro ovatsara ari okantatapita,ari taima ikantakaarori ariajaini ,atziri ashitakiarini eentsira.</sentence>
+        <!-- Ari ivakirori, ari itsimavintsirori itoyetsiro ovatsara ari okantatapita,ari taima ikantakaarori ariajaini ,atziri ashitakiarini eentsira. -->
+        <sentence lang="prq" normalizationlevel="none">Ari ivakirori, ari itsimavintsirori itoyetsiro ovatsara ari okantatapita,aritaima ikantakaarori ariajaini ,atziri ashitakiarini eentsira.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ari ivakirori, ari itsimavintsirori itoyetsiro ovatsara ari okantatapita,aritaima ikantakaarori ariahaini ,atziri ashitakiarini eentsira.</sentence>
         <sentence lang="es">Ahí lo puso, ahí se estaba demorando cortando la carne de la chica era una laja inclinada así habrá sido el destino acaso el dueño del bebe es una persona.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ari		[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+ivakirori		[i-][VPers][3m.S/A+][--][=v][VRoot][=to.kill][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P][--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+,	,[$.]
+
+ari		[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+itsimavintsirori		[i-][VPers][3m.S/A+][--][=tsima+INF@antsi][VRoot][=to.anger (ES: enojar); to.have.anger/rage (ES: tener.ira/rabia); to.be.angry (ES: estar.molesto)][--][-vint][+APPL.BEN][=action.done.for.sb.else]vint[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P][--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+itoyetsiro		[i-][VPers][3m.S/A+][--][=to+INF@/EP:t/aantsi.][VRoot][=to.cut (ES: cortar)][--][-ye][+DIST][=PL.S/A+.who.are.separated.into.groups.in.≠.locations]ye[--][-ts][+EP]ts[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+ovatsara		[o-][NPers][3n.m.poss+][--][=vatsa+gndr@n./m.+inal@tsi.][NRoot][=meat (ES: carne), mass; flesh, body (ES: cuerpo); inner.part.of.sth. (tender.part, cogollo)][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+okantatapita	+?
+
+aritaima		[=ari][PostPol][=PP][--][=taima][+DUB]::[=perhaps]
+
+ikantakaarori		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-aa+allomorph@a.+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]aa[--][=ro][+3n.m.O/P][--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+ariahaini	+?
+
+,	,[$.]
+
+atziri		[=atziri+gndr@m.+poss@te.][NRoot][=person, individual, human (ES: gente)]
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.70">
