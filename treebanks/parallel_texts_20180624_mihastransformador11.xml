@@ -2313,7 +2313,37 @@ ayaari	+?
         <morphology format="ashaninkamorph" analysislevel="fully">
 
 
+okantSiri		[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
 
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+,	,[$.]
+
+notyomi		[no-][NPers][1SG.poss+][--][=tyomi+~{E.PAL.:ty}omi+gndr@m.+inal@tsi.+kin@male.ego][NRoot][=son.(with.affection) (ES: hijito)]
+
+aka		[=aka+loc@proximal.b.][PrnDem][=DEM.ADV. (EN: here, close.to.the.speaker)]
+
+nonyaaki		[no-][VPers][1SG.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-a][+EP]a[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+aparoni		[=aparoni+~{'one':apa}{NMZ:ro}{ADV:ni}][Numeral:PRQ][=1 ~ one (ES: uno)]
+
+,	,[$.]
+
+yakanakiro		[y-][VPers][3m.S/A+][--][=ak+INF@aantsi.][VRoot][=to.answer.back (ES: contestar, responder)][--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+ikantsi		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+tsika		[=tsika+periphrasis@=saik.][WhPrn][=WH (EN: where,, what,, which,, how,, why)]
+
+ironyaakakia		[=ironyaa][NRoot][=now (ES: ahora)][--][-ka][+EMPH][=EMPH; ASSERT (EN: state.clearly-&amp;-firmly.that.sth.is.true)][--][-kia][+EMPH][=EMPH; ASSERT (EN: state.clearly-&amp;-firmly.that.sth.is.true)]
+
+,	,[$.]
+
+okantSiri		[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+nironta		[=nironta+gndr@n.m.+loc@distal][PrnDem][= (ES: allí.está)]
+
+.	.[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
