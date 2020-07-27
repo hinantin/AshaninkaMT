@@ -2349,10 +2349,42 @@ nironta		[=nironta+gndr@n.m.+loc@distal][PrnDem][= (ES: allí.está)]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.67">
-        <sentence lang="prq" normalizationlevel="none">Yaminakaki iñaatsiro, yaanakiro iroñaaka, ikantsiro tsame ankate,ari ivakiro iroñaaka kooyara.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">Yaminakaki iñaatsiro, yaanakiro iroñaaka, ikantsiro tsame ankate,ari ivakiro iroñaaka kooyara.</sentence>
+        <!-- Yaminakaki iñaatsiro, yaanakiro iroñaaka, ikantsiro tsame ankate,ari ivakiro iroñaaka kooyara. -->
+        <sentence lang="prq" normalizationlevel="none">Yaminakaki iñaatsiro, yaanakiro iroñaaka, ikantsiro tsame ankaate,ari ivakiro iroñaaka kooyara.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Yaminakaki inyaatsiro, yaanakiro ironyaaka, ikantsiro tsame ankaate,ari ivakiro ironyaaka kooyara.</sentence>
         <sentence lang="es">Miro y lo vio, se lo llevo ahora, le dijo vamos bañarnos, ahí lo mato ahora a la chica.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+yaminakaki		[y-][VPers][3m.S/A+][--][=amin+INF@aantsi.][VRoot][=to.treat ][--][-ak][+APPL.CAUS.SOC][=A+(causer).causes.sth/sb(causee).to.do.sth.&amp;.A+.also.participates.in.the.actn.; to.make.sth/sb.do.sth.]ak[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+inyaatSiro		[i-][VPers][3m.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-a][+EP]a[--][-atSi][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]atSi[--][=ro][+3n.m.O/P]
+
+,	,[$.]
+
+yaanakiro		[y-][VPers][3m.S/A+][--][=a+INF@/DEL:a/gaantsi.+I-Conj@act.v.][VRoot][=to.take (ES: agarrar)][--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+,	,[$.]
+
+ikantsiro		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+tsame		[=tsame+prop@standalone.][VRoot][=COME.ON, LET'S.GO (ES: vamos)]
+
+ankaate		[a-][VPers][1PL.S/A+][--][N=][IRR+][--][=kaa+INF@/EP:t/aantsi.][VRoot][=to.bathe (ES: bañar)][--][-t][+EP]t[--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e
+
+,	,[$.]
+
+ari		[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+ivakiro		[i-][VPers][3m.S/A+][--][=v][VRoot][=to.kill][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+kooyara		[=kooya+gndr@n.m.][NRoot][=woman (ES: mujer; QU: quya)][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.68">
