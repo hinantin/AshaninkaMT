@@ -2527,9 +2527,37 @@ ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.72">
-        <sentence lang="prq">yaminaki iroñaaka yora, jainaitera, tera iyotero yamaate ishiyashitnaka otsapiaki oparaiki parinini.</sentence>
+        <!-- yaminaki iroñaaka yora, jainaitera, tera iyotero yamaate ishiyashitnaka otsapiaki oparaiki parinini. -->
+        <sentence lang="prq" normalizationlevel="none">yaminaki iroñaaka yora, jainaitera, tera iyotero yamaate ishiyashitanaka otsapiaki oparaiki parinini.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">yaminaki ironyaaka yora, hainaitera, tera iyotero yamaate ishiyashitanaka otsapiaki oparaiki parinini.</sentence>
         <sentence lang="es">Miro ahora el hombre que comía carne humana, como no sabía nadar, solamente se fue corriendo por la playa del rio.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+yaminaki		[y-][VPers][3m.S/A+][--][=amin+INF@aantsi.][VRoot][=to.treat ][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+yora		[=yora+num@3SG+gndr@m.][PrnPers][=he (ES: él)]
+
+,	,[$.]
+
+hainaitera		[=hainaite][NRoot][=cannibal (ES: caníbal)][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+,	,[$.]
+
+tera		[=te][Neg][=NEG.REAL][--][=ra][+SUB][=Denoting.a.cause/motive/reason:since]::[=since.[…].not (ES: pues/entonces.no (no-futuro, realis))]
+
+iyotero		[i-][VPers][3m.S/A+][--][=yot+INF@(a)antsi:agaantsi.][VRoot][=to.know (ES: conocer, saber)][--][-e+allomorph@i.+tns@n.fut.+C.I@act.v.+RSS@00][MODALITY][+REAL][=after.-ak/-ah]e[--][=ro][+3n.m.O/P]
+
+yamaate		[y-][VPers][3m.S/A+][--][=ama+INF@/EP:t/aantsi.][VRoot][=to.swim (ES: nadar)][--][-a][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]a[--][-t][+EP]t[--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e
+
+ishiyashitanaka		[i-][VPers][3m.S/A+][--][=shiy+INF@aantsi.][VRoot][=to.escape, to.run (ES: escapar)][--][-a][+EP]a[--][-shi+~{L.DEL:a}{APPL.INT:ashi}][+APPL.INT][=purpose,(with.the).intent]shi[--][-t][+EP]t[--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+otsapiaki		[o-][NPers][3n.m.poss+][--][=tsapi+gndr@n.m.+inal@tsi.][NRoot][=edge, side, end.edge.of.some.plane (ES: canto)][--][-a][+CL:liquid][=liquid][--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)]
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.73">
