@@ -2699,13 +2699,46 @@ omotonkani		[o-][VPers][3n.m.S/A+][--][=motonk][VRoot][=to.form.a.whirlpool (ES:
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.76">
-        <sentence lang="prq">Poñaa aminakiri, okantakotakiri oñaatsiri apite okanta, aparoni shirampari, aparoni kooya.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Poñaa aminakiri, okantakotakiri oñaatsiri apite okanta, aparoni shirampari, aparoni kooya.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ponyaa aminakiri, okantakotakiri onyaatsiri apite okanta, aparoni shirampari, aparoni kooya.</sentence>
         <sentence lang="es">Después el remolino lo reviso y encontró que eran dos seres un hombre y una mujer.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ponyaa		[=ponyaa][AdvRoot][=CONN (EN: then, later)]
+
+aminakiri		[=amin+INF@aantsi.][VRoot][=to.treat ][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+,	,[$.]
+
+okantakotakiri		[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-ako][+VERB.CL:vessel][=vessel; recipient, container; cavity; hand]ako[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+onyaatsiri		[o-][VPers][3n.m.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-a][+REP][=again.and.again]a[--][-atsi][Asp][+STAT.IPRF][=ongoing.&amp;.non-evolving.state]atsi[--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+apite		[=apite][Numeral:PRQ][=2 ~ two (ES: dos)]
+
+okanta		[=okanta][AdvRoot][=CONN (EN: meanwhile)]
+
+,	,[$.]
+
+aparoni		[=aparoni+~{'one':apa}{NMZ:ro}{ADV:ni}][Numeral:PRQ][=1 ~ one (ES: uno)]
+
+shirampari		[=shirampari+gndr@m.][NRoot][=man;| male (ES: hombre)]
+
+,	,[$.]
+
+aparoni		[=aparoni+~{'one':apa}{NMZ:ro}{ADV:ni}][Numeral:PRQ][=1 ~ one (ES: uno)]
+
+kooya		[=kooya+gndr@n.m.][NRoot][=woman (ES: mujer; QU: quya)]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.77">
-        <sentence lang="prq">Naviriritatsirira iroñaaka, paytatyari naviriri, aakiri iroñaaka aitaki isaikinta icharini ikaatapintanta. Aritaki aavajiri irisaroo.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Naviriritatsirira iroñaaka, paytatyari naviriri, aakiri iroñaaka aitaki isaikinta icharini ikaatapintanta. Aritaki aavajiri irisaroo.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Naviriritatsirira iroñaaka, paytatyari naviriri, aakiri iroñaaka aitaki isaikinta icharini ikaatapintanta. Aritaki aavajiri irisaroo.</sentence>
         <sentence lang="es">El quién sería el transformador ahora, el que se llama naviriri lo cogió ahora, ahí donde vive su abuelo, donde siempre se baña.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
