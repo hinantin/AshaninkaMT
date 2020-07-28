@@ -2737,10 +2737,48 @@ kooya		[=kooya+gndr@n.m.][NRoot][=woman (ES: mujer; QU: quya)]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.77">
-        <sentence lang="prq" normalizationlevel="none">Naviriritatsirira iroñaaka, paytatyari naviriri, aakiri iroñaaka aitaki isaikinta icharini ikaatapintanta. Aritaki aavajiri irisaroo.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">Naviriritatsirira iroñaaka, paytatyari naviriri, aakiri iroñaaka aitaki isaikinta icharini ikaatapintanta. Aritaki aavajiri irisaroo.</sentence>
+        <!-- Naviriritatsirira iroñaaka, paytatyari naviriri, aakiri iroñaaka aitaki isaikinta icharini ikaatapintanta. Aritaki aavajiri irisaroo. -->
+        <sentence lang="prq" normalizationlevel="none">Naviriritatsirira iroñaaka, paitatyari naviriri, aakiri iroñaaka aitaki isaikinta icharini ikaatapintanta. Aritaki aavajiri irisaroo.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Naviriritatsirira ironyaaka, paitatyari naviriri, aakiri ironyaaka aitaki isaikinta icharini ikaatapintanta. Aritaki aavahiri irisaroo.</sentence>
         <sentence lang="es">El quién sería el transformador ahora, el que se llama naviriri lo cogió ahora, ahí donde vive su abuelo, donde siempre se baña.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+naviriritatsirira	+?
+
+ironyaaka	[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+,	,[$.]
+
+paitatyari	[=pai+INF@/EP:t/aantsi.][VRoot][=to.be.called; to.call, to.name (ES: nombrar); to.get.white.hair, to.have.gray.hair][--][-t][+EP]t[--][-aty][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]aty[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL.RFL]a[--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+naviriri	[=naviriri+sem@NP.person][NRoot][=person's.name (ES: el.hombre.transformador, convertidor.de.personas)]
+
+,	,[$.]
+
+aakiri	[=a+INF@/DEL:a/gaantsi.+I-Conj@act.v.][VRoot][=to.take (ES: agarrar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+ironyaaka	[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+aitaki	[=ai][PostPol][=PP][--][-t][+EP][--][-ak][+PRF][--][-i][+REAL]::[=it.is.the.case (ES: así.es)]
+
+isaikinta	[i-][VPers][3m.S/A+][--][=saik+INF@aantsi.][VRoot][=to.be, to.be.at, to.be.in; to.sit (ES: sentarse); to.live][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][-nta+loc@distal.][+ADV]nta
+
+icharini	[i-][NPers][3m.poss+][--][=charini+gndr@m.+poss@te.+kin@male.ego][NRoot][=grandpa, grandfather, grandparent]
+
+ikaatapintanta	[i-][VPers][3m.S/A+][--][=kaa+INF@/EP:t/aantsi.][VRoot][=to.bathe (ES: bañar)][--][-t][+EP]t[--][-apin][Asp][+HAB_CUST][=always]apin[--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=REAS (EN: in.order.to, so.that; ES: para.que); INST (EN: that.with.which.sb.does.sth., sb's.tool)]ant[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+.	.[$.]
+
+Aritaki	[=ari][PostPol][=PP][--][-t][+EP][--][-ak][+PRF][--][-i][+REAL]::[=it.is.the.case.(that) (ES: así.es.que)]
+
+aavahiri	[=a+INF@/DEL:a/gaantsi.+I-Conj@act.v.][VRoot][=to.take (ES: agarrar)][--][-av+dir@object.oriented][ADV][+DIR][=contrary,opposite; RCVG:object.arriving.at.the.location.of.the.subject]av[--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+irisaroo		[iri-][NPers][3m.poss+][--][=saroo+gndr@n.m.+kin@fe/male.ego][NRoot][=grandmother (ES: abuela)]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.78">
