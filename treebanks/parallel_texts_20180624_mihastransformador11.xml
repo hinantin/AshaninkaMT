@@ -2495,9 +2495,35 @@ aanakiro		[=a+INF@/DEL:a/gaantsi.+I-Conj@act.v.][VRoot][=to.take (ES: agarrar)][
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.71">
-        <sentence lang="prq">Amatanaki, amatakotanaki kooyara  motyaanto aisatsi entsitera, amatakotanaki iroñaaka.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Amatanaki, amatakotanaki kooyara  motyaanto aisatsi entsitera, amatakotanaki iroñaaka.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Amatanaki, amatakotanaki kooyara  motyaanto aisatsi entsitera, amatakotanaki ironyaaka.</sentence>
         <sentence lang="es">Se fue flotando (el cuerpo) de la mujer gestante, también de su bebe, se fue flotando ahora.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+amatanaki		[=ama+INF@/EP:t/aantsi.][VRoot][=to.swim (ES: nadar)][--][-t][+EP]t[--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+,	,[$.]
+
+amatakotanaki		[=ama+INF@/EP:t/aantsi.][VRoot][=to.swim (ES: nadar)][--][-t][+EP]t[--][-ako][VS][+APPL.GEN][=GEN (EN: with.reference.to.sth., about.sth.); INDR (EN: action.affects.sth.in.an.indirect.manner)]ako[--][-t][+EP]t[--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+kooyara		[=kooya+gndr@n.m.][NRoot][=woman (ES: mujer; QU: quya)][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+motyaanto		[=motya+sem@b.p.][NRoot][=stomach, belly]::[=to.get.pregnant (ES: embarazarse)][^VBZ][--][-a][+VERB.CL:liquid][=liquid]a[--][-nto+gndr@n.m.][NS][+ADJ.PARTIC]nto
+
+aisatsi		[=aisatsi][ConnRoot][=CONN (EN: also)]
+
+entsitera		[=entsi+gndr@n./m.+poss@te.][NRoot][=child (ES: niño)][--][-te+~{R.DEL:i}{N:/'animate,plural':ite/}][+CL:anim.PL][=animate,plural]te[--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+,	,[$.]
+
+amatakotanaki		[=ama+INF@/EP:t/aantsi.][VRoot][=to.swim (ES: nadar)][--][-t][+EP]t[--][-ako][VS][+APPL.GEN][=GEN (EN: with.reference.to.sth., about.sth.); INDR (EN: action.affects.sth.in.an.indirect.manner)]ako[--][-t][+EP]t[--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.72">
