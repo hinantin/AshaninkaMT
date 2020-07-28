@@ -2556,14 +2556,49 @@ ishiyashitanaka		[i-][VPers][3m.S/A+][--][=shiy+INF@aantsi.][VRoot][=to.escape, 
 
 otsapiaki		[o-][NPers][3n.m.poss+][--][=tsapi+gndr@n.m.+inal@tsi.][NRoot][=edge, side, end.edge.of.some.plane (ES: canto)][--][-a][+CL:liquid][=liquid][--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)]
 
+oparaiki		[=oparai+gndr@n.m.][NRoot][=countryside (ES: campo); beach (ES: playa); stretch.of.the.riverbank.that.is.communally.used][--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)]
+
+parinini		[=parini+sem@NP.river][NRoot][=river, Perené.river][--][-ni+sem@place.][+CL:watercourse][=watercourse, running.water.feature]
+
+.	.[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.73">
-        <sentence lang="prq">Ishiyavitaka, pashini yamaki inchaki, inintsi intsikotavairomi, itsikovitaka, tsikoo, tsikoo, iroo,  intsikotantavaijiarorimi, te onkante.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ishiyavitaka, pashini yamaki inchaki, inintsi intsikotavairomi, itsikovitaka, tsikoo, tsikoo, iroo,  intsikotantavaijiarorimi, te onkante.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ishiyavitaka, pashini yamaki inchaki, inintsi intsikotavairomi, itsikovitaka, tsikoo, tsikoo, iroo,  intsikotantavaihiarorimi, te onkante.</sentence>
         <sentence lang="es">Corrió otro trayendo un palo quería engancharlo, intentaba engancharlo tsiko, tsiko, ya estaba para engancharlo no pudo enganchar.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ishiyavitaka		[i-][VPers][3m.S/A+][--][=shiy+INF@aantsi.][VRoot][=to.escape, to.run (ES: escapar)][--][-a][+EP]a[--][-vi][+FRUS][=unsuccessful/interrupted.action/state (EN: in.vain; ES: casi); action.that.didn't.achieve.the.desired.result]vi[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+,	,[$.]
+
+pashini		[=pashini][NRoot][=other, another (ES: otro); few]
+
+yamaki		[y-][VPers][3m.S/A+][--][=am+INF@aantsi.][VRoot][=to.bring (ES: traer)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+inchaki		[=inchaki+~{N:/'plant':incha/}{CL:/'hard':ki/}][NRoot][=tree.sp. (ES: copaiba; sci.nm.: copaifera.paupera)]
+
+,	,[$.]
+
+inintsi		[i-][VPers][3m.S/A+][--][=nint+INF@aantsi.+poss@ane:ani.][VRoot][=to.want (ES: gustar); to.love (ES: amar)][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+intsikotavairomi		[i-][VPers][3m.S/A+][--][N=][IRR+][--][=tsiko+INF@/EP:t/aantsi.][VRoot][=to.hook (ES: enganchar, coger.algo.con.gancho);| to.take.hold][--][-t][+EP]t[--][-av+dir@object.oriented][ADV][+DIR][=contrary,opposite; RCVG:object.arriving.at.the.location.of.the.subject]av[--][=ai][+1INCL.PL.O/P][=(to).us (ES: (a).nosotros,, nos)]ai[--][=ro][+3n.m.O/P][--][=mi][MODAL][+CNT.F][=if-clause.expressing.an.idea/assumption/argument.contrary.to.fact (ES: no.realizado)]
+
+,	,[$.]
+
+itsikovitaka		[i-][VPers][3m.S/A+][--][=tsiko+INF@/EP:t/aantsi.][VRoot][=to.hook (ES: enganchar, coger.algo.con.gancho);| to.take.hold][--][-vi][+FRUS][=unsuccessful/interrupted.action/state (EN: in.vain; ES: casi); action.that.didn't.achieve.the.desired.result]vi[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+,	,[$.]
+
+tsikoo		[=tsikoo+s.redup.word@2X.][Ideo][=action.of.taking_hold_of/hooking.an.object (ES: acción.de.enganchar.algo)]
+
+,	,[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.74">
