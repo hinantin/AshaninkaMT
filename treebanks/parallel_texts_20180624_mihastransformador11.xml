@@ -2463,9 +2463,35 @@ eentsira		[=eentsi+gndr@n./m.+poss@te.][NRoot][=child (ES: niño)][--][=ra+mrph.
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.70">
-        <sentence lang="prq">Okantapaaka iroñaaka oshinki, aanakiro parinini kooyara ivaitakirira iroñaaka, aanakiro</sentence>
+        <sentence lang="prq" normalizationlevel="none">Okantapaaka iroñaaka oshinki, aanakiro parinini kooyara ivaitakirira iroñaaka, aanakiro</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Okantapaaka ironyaaka oshinki, aanakiro parinini kooyara ivaitakirira ironyaaka, aanakiro</sentence>
         <sentence lang="es">Vino ahora una olada, se lo llevo el rio a esa mujer lo que han matado, ahora se lo llevo.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+okantapaaka		[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-ap+dir@goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-a][+EP]a[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+oshinki		[=oshinki][NRoot][=river.wave, turbulence.of.the.river (ES: olada, ola.de.río)]
+
+,	,[$.]
+
+aanakiro		[=a+INF@/DEL:a/gaantsi.+I-Conj@act.v.][VRoot][=to.take (ES: agarrar)][--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+parinini		[=parini+sem@NP.river][NRoot][=river, Perené.river][--][-ni+sem@place.][+CL:watercourse][=watercourse, running.water.feature]
+
+kooyara		[=kooya+gndr@n.m.][NRoot][=woman (ES: mujer; QU: quya)][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+ivaitakirira		[i-][VPers][3m.S/A+][--][=v][VRoot][=to.kill][--][-a][+EP]a[--][-it][Asp][+ICPL][=actn/event.that.was.begun.but.not.completed]it[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P][--][-ra+loc@medial.][+ADV]ra
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+,	,[$.]
+
+aanakiro		[=a+INF@/DEL:a/gaantsi.+I-Conj@act.v.][VRoot][=to.take (ES: agarrar)][--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.71">
