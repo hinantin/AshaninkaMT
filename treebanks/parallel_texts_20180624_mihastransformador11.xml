@@ -2620,15 +2620,82 @@ onkante		[o-][VPers][3n.m.S/A+][--][N=][IRR+][--][=kant+INF@aantsi.][VRoot][=to.
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.74">
-        <sentence lang="prq">ijatashita ishiritata, ijatsi, ijatsi irojatsi otsonkatapakanta oparai, te yavajiro jaitetsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">ijatashita ishiritata, ijatsi, ijatsi irojatsi otsonkatapakanta oparai, te yavajiro jaitetsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">ihatashita ishiritata, ihatsi, ihatsi irohatsi otsonkatapakanta oparai, te yavahiro haitetsi.</sentence>
         <sentence lang="es">Solamente caminaba por la rivera del rio iba, iba, hasta donde termina la playa no lo cogió.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ihatashita		[i-][VPers][3m.S/A+][--][=ha+INF@/EP:t/aantsi.][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-ashi][+APPL.INT][=purpose,(with.the).intent]ashi[--][-t][+EP]t[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+ishiritata	+?
+
+,	,[$.]
+
+ihatsi		[i-][VPers][3m.S/A+][--][=ha+INF@/EP:t/aantsi.][VRoot][=to.go (ES: ir)][--][-tz][+EP]tz[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+,	,[$.]
+
+ihatsi		[i-][VPers][3m.S/A+][--][=ha+INF@/EP:t/aantsi.][VRoot][=to.go (ES: ir)][--][-tz][+EP]tz[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+irohatsi		[=irohatsi][AdvRoot][=until (ES: hasta), when]
+
+otsonkatapakanta		[o-][VPers][3n.m.S/A+][--][=tsonk][VRoot][=to.kill][--][-a][+REP][=again.and.again]a[--][-t][+EP]t[--][-ap+dir@goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][-nta+loc@distal.][+ADV]nta
+
+oparai		[=oparai+gndr@n.m.][NRoot][=countryside (ES: campo); beach (ES: playa); stretch.of.the.riverbank.that.is.communally.used]
+
+,	,[$.]
+
+te		[=te+tns@future.neg.][Neg][=NEG.REAL]
+
+yavahiro	+?
+
+haitetsi	+?
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.75">
-        <sentence lang="prq">Amatanaki iroñaaka, amaatsi, amaatasi ari tsikarika anta, kirinkanta,ari aavakiri omotonkani</sentence>
+        <!-- Amatanaki iroñaaka, amaatsi, amaatasi ari tsikarika anta, kirinkanta,ari aavakiri omotonkani -->
+        <sentence lang="prq" normalizationlevel="none">Amatanaki iroñaaka, amaatsi, amaatsi ari tsikarika anta, kirinkanta,ari aavakiri omotonkani</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Amatanaki ironyaaka, amaatsi, amaatsi ari tsikarika anta, kirinkanta,ari aavakiri omotonkani</sentence>
         <sentence lang="es">Se fue flotando por el rio ahora flotaba, y flotaba hasta allá, no se sabe donde por adentro, ahí lo cogió un remolino.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+amatanaki		[=ama+INF@/EP:t/aantsi.][VRoot][=to.swim (ES: nadar)][--][-t][+EP]t[--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+,	,[$.]
+
+amaatsi		[=ama+INF@/EP:t/aantsi.][VRoot][=to.swim (ES: nadar)][--][-a][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]a[--][-tz][+EP]tz[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+,	,[$.]
+
+amaatsi		[=ama+INF@/EP:t/aantsi.][VRoot][=to.swim (ES: nadar)][--][-a][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]a[--][-tz][+EP]tz[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+ari		[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+tsikarika		[=tsika][WhPrn][=WH][--][-rika][+COND]::[=whatever; wherever]
+
+anta		[=anta+loc@distal.b.][PrnDem][=DEM.ADV.: there (ES: allí.(está)), far.from.the.speaker (bounded)]
+
+,	,[$.]
+
+kirinkanta		[=kirinka][NRoot][=down.river, downstream (ES: río.abajo); central.part.of.the.jungle][--][=nta+mrph.cath@distal.b.][AS][+DEM.NOM][=DEM (EN: there, far.from.the.speaker (bounded))]
+
+,	,[$.]
+
+ari		[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+aavakiri		[=a+INF@/DEL:a/gaantsi.+I-Conj@act.v.][VRoot][=to.take (ES: agarrar)][--][-av+dir@object.oriented][ADV][+DIR][=contrary,opposite; RCVG:object.arriving.at.the.location.of.the.subject]av[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+omotonkani		[o-][VPers][3n.m.S/A+][--][=motonk][VRoot][=to.form.a.whirlpool (ES: arremolinarse.en.el.agua)][--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL.RFL]a[--][=ni+tns@fut.][NS][+REL][=IRR]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.76">
