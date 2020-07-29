@@ -2833,7 +2833,8 @@ ipasavaihetakiroranki	+?
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.79">
-        <sentence lang="prq">Okantsi tsikaratya okinataiki nishintoranki, okinkishiriavaita irori.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Okantsi tsikaratya okinataiki nishintoranki, okinkishiriavaita irori.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Okantsi tsikaratya okinataiki nishintoranki, okinkishiriavaita irori.</sentence>
         <sentence lang="es">Decía por donde se habrá mi hija, estaba pensando ella.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
