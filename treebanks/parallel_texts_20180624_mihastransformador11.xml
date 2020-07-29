@@ -2782,10 +2782,54 @@ irisaroo		[iri-][NPers][3m.poss+][--][=saroo+gndr@n.m.+kin@fe/male.ego][NRoot][=
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.78">
-        <sentence lang="prq" normalizationlevel="none">Iroñaaka, iinara irisarora naviriri inirora kooya, ari ovashirivaitaka irori, ovashitakotaro oshinto, otomipaye imishiyakiri oimira ipasavaijetakiroranki.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ironyaaka, iinara irisarora naviriri inirora kooya, ari ovashirivaitaka irori, ovashitakotaro oshinto, otomipaye imishiyakiri oimira ipasavaihetakiroranki.</sentence>
+        <!-- Iroñaaka, iinara irisarora naviriri inirora kooya, ari ovashirivaitaka irori, ovashitakotaro oshinto, otomipaye imishiyakiri oimira ipasavaijetakiroranki. -->
+        <sentence lang="prq" normalizationlevel="none">Iroñaaka, iinara irisarora naviriri inirora kooya, ari ovashirivaitaka irori, ovashitakotaro oshinto, otomipaye imishiyaakiri oimira ipasavaijetakiroranki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ironyaaka, iinara irisarora naviriri inirora kooya, ari ovashirivaitaka irori, ovashitakotaro oshinto, otomipaye imishiyaakiri oimira ipasavaihetakiroranki.</sentence>
         <sentence lang="es">Ahora la esposa (del abuelo) la abuela del transformador la mama de la chica estaba muy apenado y recordaba a su hija y de sus hijos lo que hizo huir su esposo castigándoles en vano.</sentence>
-        <morphology format="ashaninkamorph" analysislevel="fully"/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+Ironyaaka	[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+,	,[$.]
+
+iinara	[i-][NPers][3m.poss+][--][=ina+gndr@n.m.+inal@tsi.+voc.+kin@fe/male.ego][NRoot][=mother (ES: mamá); wife][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+irisarora	[iri-][NPers][3m.poss+][--][=saro+gndr@n.m.+kin@fe/male.ego][NRoot][=grandmother (ES: abuela)][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+naviriri	[=naviriri+sem@NP.person][NRoot][=person's.name (ES: el.hombre.transformador, convertidor.de.personas)]
+
+inirora	[i-][NPers][3m.poss+][--][=niro+gndr@n.m.+kin@fe/male.ego+voc@1SG:2SG:3SG.][NRoot][=mother (ES: mamá)][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+kooya	[=kooya+gndr@n.m.][NRoot][=woman (ES: mujer; QU: quya)]
+
+,	,[$.]
+
+ari	[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+ovashirivaitaka	[o-][VPers][3n.m.S/A+][--][=vashiri+INF@/EP:t/aantsi.][VRoot][=to.get.sad (ES: entristecer, ponerse.triste), to.be.sad (ES: estar.triste)][--][-vai][ASP][+DUR][=action/state.endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]vai[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+irori	[=irori+pragm.func@cntr.add.l.FOC.+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella)]
+
+,	,[$.]
+
+ovashitakotaro	+?
+
+oshinto	[o-][NPers][3n.m.poss+][--][=shinto+gndr@n.m.+inal@tsi.+kin@fe/male.ego][NRoot][=daughter]
+
+,	,[$.]
+
+otomipaye	[o-][NPers][3n.m.poss+][--][=tomi+gndr@m.+inal@tsi.+kin@fe/male.ego][NRoot][=son (ES: hijo)][--][-paye][Num][+PL][=PL; DIST]
+
+imishiyaakiri	[i-][VPers][3m.S/A+][--][=mishiya+~{M.CAUS:mi}{'huir':shiya}+INF@/EP:t/antsi.][VRoot][=to.frighten.away (ES: espantar, ahuyentar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+oimira	[o-][NPers][3n.m.poss+][--][=imi+gndr@m.+voc.+kin@fem.ego][NRoot][=husband (ES: esposo)][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+ipasavaihetakiroranki	+?
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.79">
