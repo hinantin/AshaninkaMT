@@ -3018,7 +3018,35 @@ nihaakira		[=nihaa+gndr@n.m.+poss@ti:te.][NRoot][=water (ES: agua);| river (ES: 
         <morphology format="ashaninkamorph" analysislevel="fully">
 
 
+ihataki		[i-][VPers][3m.S/A+][--][=ha+INF@/EP:t/aantsi.][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
 
+pashiniki		[=pashini][NRoot][=other, another (ES: otro); few][--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)]
+
+kitaiteri		[=kitaiteri][NRoot][=day (ES: día; PT: dia; QU: p'unchay, p'unchaw)]
+
+,	,[$.]
+
+yaminapahi		[y-][VPers][3m.S/A+][--][=amin+INF@aantsi.][VRoot][=to.treat ][--][-ap+dir@goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+,	,[$.]
+
+inyaapatsiri		[i-][VPers][3m.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-a][+EP]a[--][-ap+dir@goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-atsi][Asp][+STAT.IPRF][=ongoing.&amp;.non-evolving.state]atsi[--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+,	,[$.]
+
+inyavahiri		[i-][VPers][3m.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-av+dir@object.oriented][ADV][+DIR][=contrary,opposite; RCVG:object.arriving.at.the.location.of.the.subject]av[--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+atziri		[=atziri+gndr@m.+poss@te.][NRoot][=person, individual, human (ES: gente)]
+
+shiyaheetanaha		[=shiy][VRoot][=to.be.like, to.be.similar, to.resemble][--][-a][+EP]a[--][-hee][NUM][+PL][=PL.S/A+; INTR: PL.S/A+; TR: PL.S/A+.or.+PL.O]hee[--][-t][+EP]t[--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+,	,[$.]
+
+pinkapahi		[=pink][VRoot][=to.refrain.from.doing.sth.; to.float; to.drown][--][-ap+dir@goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+nihaaki		[=nihaa+gndr@n.m.+poss@ti:te.][NRoot][=water (ES: agua);| river (ES: rio)][--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)]
+
+.	.[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
