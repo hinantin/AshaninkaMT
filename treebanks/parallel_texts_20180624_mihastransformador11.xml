@@ -2937,9 +2937,38 @@ inyatsavaitaiyani		[i-][VPers][3m.S/A+][--][=nyatsa+allomorph@ñatsa.+INF@/EP:t/
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.82">
-        <sentence lang="prq">Tsame airikiri, ijataki iroñaaka isaikinta impananikiki, iñatsavaitaiyaninta apiteroite itsipatavaka.</sentence>
+        <!-- Tsame airikiri, ijataki iroñaaka isaikinta impananikiki, iñatsavaitaiyaninta apiteroite itsipatavaka. -->
+        <sentence lang="prq" normalizationlevel="none">Tsame airikiri, ijataki iroñaaka isaikinta impanikiki, iñatsavaitaiyaninta apiteroite itsipatavaka.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Tsame airikiri, ihataki ironyaaka isaikinta impanikiki, inyatsavaitaiyaninta apiteroite itsipatavaka.</sentence>
         <sentence lang="es">Vamos agarrarle, se fue ahora donde estaban jugando en la arena donde estaban jugando los dos.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+tsame		[=tsame+prop@standalone.][VRoot][=COME.ON, LET'S.GO (ES: vamos)]
+
+airikiri		[=airik+INF@VC.][VRoot][=to.hang; to.snatch.sth., to.grab.sth., to.capture (ES: captar)][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+,	,[$.]
+
+ihataki		[i-][VPers][3m.S/A+][--][=ha+INF@/EP:t/aantsi.][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+isaikinta		[i-][VPers][3m.S/A+][--][=saik+INF@aantsi.][VRoot][=to.be, to.be.at, to.be.in; to.sit (ES: sentarse); to.live][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][-nta+loc@distal.][+ADV]nta
+
+impanikiki		[=iNpaniki+gndr@n.m.][NRoot][=fine.sand, sand.made.of.very.small.grains (ES: arena); sandy.area (ES: arenal, playa)][--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)]
+
+,	,[$.]
+
+inyatsavaitaiyaninta	inyatsavaitaiyaninta	+?
+
+apiteroite		[=apite][Numeral:PRQ][=2 ~ two (ES: dos)][^VBZ][--][-ro+gndr@n.m.][NS][+ADJ.NMZ]ro[--][-ite][+CL:anim.PL][=animate,plural]
+
+itsipatavaka		[i-][VPers][3m.S/A+][--][=tsipat+INF@aantsi.][VRoot][=to.accompany (ES: acompañar); to.join (ES: juntarse); to.combine (ES: combinar)][--][-av+dir@object.oriented][ADV][+DIR][=contrary,opposite; RCVG:object.arriving.at.the.location.of.the.subject]av[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.83">
