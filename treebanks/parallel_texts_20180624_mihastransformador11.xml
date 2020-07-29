@@ -2978,9 +2978,10 @@ itsipatavaka		[i-][VPers][3m.S/A+][--][=tsipat+INF@aantsi.][VRoot][=to.accompany
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.84">
-        <sentence lang="prq">Ijataki pashiniki kitaiteri, yaminapaji, iñaapatsiri, iñavajiri atziri shiyajeetanaja,pinkapaji nijaaki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ijataki pashiniki kitaiteri, yaminapaji, iñaapatsiri, iñavajiri atziri shiyajeetanaja,pinkapaji nijaaki.</sentence>
+        <sentence lang="prq" normalizationlevel="">Ihataki pashiniki kitaiteri, yaminapahi, inyaapatsiri, inyavahiri atziri shiyaheetanaha,pinkapahi nihaaki.</sentence>
         <sentence lang="es">Se fue al otro día, nuevamente miro, ahí los vio que estaban jugando nuevamente se fueron corriendo otra vez se hundieron en el agua.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully"/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.85">
