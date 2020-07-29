@@ -3116,7 +3116,8 @@ naaka		[=naaka+pragm.func@cont.d.TOP.+num@1SG.EXCL.][PrnPers][=I (ES: yo; PT: eu
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.87">
-        <sentence lang="prq">Ikantsi pashini, te airo okantsi airikiri, Ikantsi iroñaaka pamatavitatyeri, pintsateniri inchatyaaki, vitsikatyariranki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikantsi pashini, te airo okantsi airikiri, Ikantsi iroñaaka pamatavitatyeri, pintsateniri inchatyaaki, vitsikatyariranki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikantsi pashini, te airo okantsi airikiri, Ikantsi ironyaaka pamatavitatyeri, pintsateniri inchatyaaki, vitsikatyariranki.</sentence>
         <sentence lang="es">Otra persona dijo – no no vamos a poder agarrarlo (otro) dijo ahora tienes que engañarle, cuélgale una flor fabricada.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
