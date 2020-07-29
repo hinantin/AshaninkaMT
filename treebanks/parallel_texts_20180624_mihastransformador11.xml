@@ -3158,7 +3158,8 @@ naaka		[=naaka+pragm.func@cont.d.TOP.+num@1SG.EXCL.][PrnPers][=I (ES: yo; PT: eu
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.93">
-        <sentence lang="prq">Ishiyapaaka maniro tema yantaritatsira,iro yairikantavakiarimi,shintsi ishiyanaka pinkapaji nijakira</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ishiyapaaka maniro tema yantaritatsira,iro yairikantavakiarimi,shintsi ishiyanaka pinkapaji nijakira</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ishiyapaaka maniro tema yantaritatsira,iro yairikantavakiarimi,shintsi ishiyanaka pinkapahi nihakira</sentence>
         <sentence lang="es">Corrió el venado como era grande, casi lo agarra, rápido corrió se hundió en el agua.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
