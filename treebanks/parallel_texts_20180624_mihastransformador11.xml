@@ -3080,9 +3080,15 @@ eentsipayera		[=eentsi+gndr@n./m.+poss@te.][NRoot][=child (ES: niño)][--][-paye
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.86">
-        <sentence lang="prq">Poñaa ikantavitaka pashini, irojatsi yatzirivitani sankatsi, Ikantsi ari naajeri Naaka.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Poñaa ikantavitaka pashini, irojatsi yatzirivitani sankatsi, Ikantsi ari naajeri Naaka.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ponyaa ikantavitaka pashini, irohatsi yatzirivitani sankatsi, Ikantsi ari naaheri Naaka.</sentence>
         <sentence lang="es">Luego había dicho otra persona, cuando todavía era un ser humano la pucacunga-dijo yo lo voy a cogerlo yo</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.87">
