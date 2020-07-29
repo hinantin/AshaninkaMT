@@ -3052,9 +3052,31 @@ nihaaki		[=nihaa+gndr@n.m.+poss@ti:te.][NRoot][=water (ES: agua);| river (ES: ri
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.85">
-        <sentence lang="prq">Ikantsi icharini, tsika ankanterika airikantyariri antyariri eentsipayera.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikantsi icharini, tsika ankanterika airikantyariri antyariri eentsipayera.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikantsi icharini, tsika ankanterika airikantyariri antyariri eentsipayera.</sentence>
         <sentence lang="es">Dijo el abuelo – como lo hacemos – para agarrarles a esos niños.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ikantsi		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+icharini		[i-][NPers][3m.poss+][--][=charini+gndr@m.+poss@te.+kin@male.ego][NRoot][=grandpa, grandfather, grandparent]
+
+,	,[$.]
+
+tsika		[=tsika+periphrasis@=saik.][WhPrn][=WH (EN: where,, what,, which,, how,, why)]
+
+ankanterika		[a-][VPers][1PL.S/A+][--][N=][IRR+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e[--][=rika][MODAL][+COND][=if (expresses.possible.condition); like (comparison)]
+
+airikantyariri		[=airik+INF@VC.][VRoot][=to.hang; to.snatch.sth., to.grab.sth., to.capture (ES: captar)][--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-t][+EP]t[--][-ya+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]ya[--][=ri][+3m.O/P][--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+antyariri		[=ant+INF@aantsi.+poss@ane.][VRoot][=to.beat, to.hit (ES: pegar); to.build, to.do, to.make (ES: hacer)][--][-iya+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR.RFL]iya[--][=ri][+3m.O/P][--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+eentsipayera		[=eentsi+gndr@n./m.+poss@te.][NRoot][=child (ES: niño)][--][-paye][Num][+PL][=PL; DIST][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.86">
