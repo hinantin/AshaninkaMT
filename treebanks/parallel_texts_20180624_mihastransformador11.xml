@@ -2859,9 +2859,34 @@ irori	[=irori+pragm.func@cntr.add.l.FOC.+num@3SG+gndr@n.m.][PrnPers][=she (ES: e
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.80">
-        <sentence lang="prq">Poñaa ijataki iroñaaka oimira pariniki,iñaatsiri apite eentsi iñaatsavaitaiyani impanikiki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Poñaa ijataki iroñaaka oimira pariniki,iñaatsiri apite eentsi iñaatsavaitaiyani impanikiki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ponyaa ihataki ironyaaka oimira pariniki,inyaatsiri apite eentsi inyaatsavaitaiyani impanikiki.</sentence>
         <sentence lang="es">Después ahora el esposo se fue al rio ahí vio a dos niños que estaban jugando en la arena.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+Ponyaa	[=ponyaa][AdvRoot][=CONN (EN: then, later)]
+
+ihataki	[i-][VPers][3m.S/A+][--][=ha+INF@/EP:t/aantsi.][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+ironyaaka	[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+oimira	[o-][NPers][3n.m.poss+][--][=imi+gndr@m.+voc.+kin@fem.ego][NRoot][=husband (ES: esposo)][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+pariniki	[=parini+sem@NP.river][NRoot][=river, Perené.river][--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)]
+
+,	,[$.]
+
+inyaatsiri	[i-][VPers][3m.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-a][+EP]a[--][-atsi][Asp][+STAT.IPRF][=ongoing.&amp;.non-evolving.state]atsi[--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+apite	[=apite][Numeral:PRQ][=2 ~ two (ES: dos)]
+
+eentsi	[=eentsi+gndr@n./m.+poss@te.][NRoot][=child (ES: niño)]
+
+inyaatsavaitaiyani	[i-][VPers][3m.S/A+][--][=nyaatsa+allomorph@ñaatsa.+INF@/EP:t/aantsi.][VRoot][=to.play (ES: jugar); to.have.sex (euphemism)][--][-vai][ASP][+DUR][=action/state.endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]vai[--][-t][+EP]t[--][-aiy][+PL]aiy[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL.RFL]a[--][-ni+circumfixing][+PL]
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.81">
