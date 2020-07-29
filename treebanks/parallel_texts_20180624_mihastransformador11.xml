@@ -3086,7 +3086,31 @@ eentsipayera		[=eentsi+gndr@n./m.+poss@te.][NRoot][=child (ES: niño)][--][-paye
         <morphology format="ashaninkamorph" analysislevel="fully">
 
 
+ponyaa		[=ponyaa][AdvRoot][=CONN (EN: then, later)]
 
+ikantavitaka		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-a][+EP]a[--][-vi][+FRUS][=unsuccessful/interrupted.action/state (EN: in.vain; ES: casi); action.that.didn't.achieve.the.desired.result]vi[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+pashini		[=pashini][NRoot][=other, another (ES: otro); few]
+
+,	,[$.]
+
+irohatsi		[=irohatsi][AdvRoot][=until (ES: hasta), when]
+
+yatzirivitani	[y-][VPers][3m.S/A+][--][=atziri+gndr@m.+poss@te.][NRoot][=person, individual, human (ES: gente)]::[=to.be.a.person][^VBZ][--][-vi][+FRUS][=unsuccessful/interrupted.action/state (EN: in.vain; ES: casi); action.that.didn't.achieve.the.desired.result]vi[--][-t][+EP]t[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ni+tns@fut.][NS][+REL][=IRR]
+
+sankatsi		[=sankatsi+gndr@m.+sem@bird][NRoot][=red-necked.gallinacean.bird.sp. (ES: pava.de.monte, pucacunga; QU: puka.kunka 'bare.throat');| spix's.guan (ES: guan.de.Spix; sci.nm.: penelope.jacquacu)]
+
+,	,[$.]
+
+ikantsi		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+ari		[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+naaheri		[n-][VPers][1SG.S/A+][--][=a+INF@/DEL:a/gaantsi.+I-Conj@act.v.][VRoot][=to.take (ES: agarrar)][--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e[--][=ri][+3m.O/P]
+
+naaka		[=naaka+pragm.func@cont.d.TOP.+num@1SG.EXCL.][PrnPers][=I (ES: yo; PT: eu; QU: ñuqa)]
+
+.	.[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
