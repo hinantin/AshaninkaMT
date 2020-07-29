@@ -2972,16 +2972,55 @@ itsipatavaka		[i-][VPers][3m.S/A+][--][=tsipat+INF@aantsi.][VRoot][=to.accompany
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.83">
-        <sentence lang="prq">Yaminaki entsipayera iñatsiri atziri,shintsini ishiyajeetanaka ,tok, tok ,pinkapaaki nijaakira.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Yaminaki entsipayera iñatsiri atziri,shintsini ishiyajeetanaka ,tok, tok ,pinkapaaki nijaakira.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Yaminaki entsipayera inyatsiri atziri,shintsini ishiyaheetanaka ,tok, tok ,pinkapaaki nihaakira.</sentence>
         <sentence lang="es">Miraron ahora los niños y vieron una persona, los dos corrieron toc, toc se hundieron en el agua.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+yaminaki		[y-][VPers][3m.S/A+][--][=amin+INF@aantsi.][VRoot][=to.treat ][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+entsipayera		[=entsi+gndr@n./m.+poss@te.][NRoot][=child (ES: niño)][--][-paye][Num][+PL][=PL; DIST][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+inyatsiri		[i-][VPers][3m.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-atsi][Asp][+STAT.IPRF][=ongoing.&amp;.non-evolving.state]atsi[--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+atziri		[=atziri+gndr@m.+poss@te.][NRoot][=person, individual, human (ES: gente)]
+
+,	,[$.]
+
+shintsini		[=shintsini][AdvRoot][=quickly; strongly (ES: con.fuerza)]
+
+ishiyajeetanaka		[i-][VPers][3m.S/A+][--][=shiy+INF@aantsi.][VRoot][=to.escape, to.run (ES: escapar)][--][-a][+EP]a[--][-hee][NUM][+PL][=PL.S/A+; INTR: PL.S/A+; TR: PL.S/A+.or.+PL.O]hee[--][-t][+EP]t[--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+,	,[$.]
+
+tok		[=tok+s.redup.word@3X.][Ideo:PRQ][=running.briskly; action.of.hitting.(a.solid.substance)]
+
+,	,[$.]
+
+tok		[=tok+s.redup.word@3X.][Ideo:PRQ][=running.briskly; action.of.hitting.(a.solid.substance)]
+
+,	,[$.]
+
+pinkapaaki		[=pink][VRoot][=to.refrain.from.doing.sth.; to.float; to.drown][--][-ap+dir@goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-a][+EP]a[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+nihaakira		[=nihaa+gndr@n.m.+poss@ti:te.][NRoot][=water (ES: agua);| river (ES: rio)][--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.84">
         <sentence lang="prq" normalizationlevel="none">Ijataki pashiniki kitaiteri, yaminapaji, iñaapatsiri, iñavajiri atziri shiyajeetanaja,pinkapaji nijaaki.</sentence>
-        <sentence lang="prq" normalizationlevel="">Ihataki pashiniki kitaiteri, yaminapahi, inyaapatsiri, inyavahiri atziri shiyaheetanaha,pinkapahi nihaaki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ihataki pashiniki kitaiteri, yaminapahi, inyaapatsiri, inyavahiri atziri shiyaheetanaha,pinkapahi nihaaki.</sentence>
         <sentence lang="es">Se fue al otro día, nuevamente miro, ahí los vio que estaban jugando nuevamente se fueron corriendo otra vez se hundieron en el agua.</sentence>
-        <morphology format="ashaninkamorph" analysislevel="fully"/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.85">
