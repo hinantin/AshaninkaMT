@@ -3151,7 +3151,8 @@ naaka		[=naaka+pragm.func@cont.d.TOP.+num@1SG.EXCL.][PrnPers][=I (ES: yo; PT: eu
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.92">
-        <sentence lang="prq">Itsinpatapitsaitsiri anta, ari okanta itsinpatapitsaitsiri, poñaa, yapitajiro irotaintsimi yairikiromi ¡eh!</sentence>
+        <sentence lang="prq" normalizationlevel="none">Itsinpatapitsaitsiri anta, ari okanta itsinpatapitsaitsiri, poñaa, yapitajiro irotaintsimi yairikiromi ¡eh!</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Itsimpatapitsaitsiri anta, ari okanta itsimpatapitsaitsiri, ponyaa, yapitahiro irotaintsimi yairikiromi ¡eh!</sentence>
         <sentence lang="es">Como lo estaban jalando ahí así siempre lo jalaba. Después nuevamente volvió jalaroya estaba para cogerlo ¡eh!.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
