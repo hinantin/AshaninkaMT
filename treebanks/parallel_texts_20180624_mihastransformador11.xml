@@ -2893,9 +2893,47 @@ impanikiki		[=iNpaniki+gndr@n.m.][NRoot][=fine.sand, sand.made.of.very.small.gra
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.81">
-        <sentence lang="prq">Ari iñaatsavaitaiyani apiteroite, Ikantsi ikinkishiriaka, tsikaratya ipaitaka, ninkaratya ashitariri eentsira saikatsirira ,iñatsavaitaiyani.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ari iñaatsavaitaiyani apiteroite, Ikantsi ikinkishiriaka, tsikaratya ipaitaka, ninkaratya ashitariri eentsira saikatsirira ,iñatsavaitaiyani.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ari inyaatsavaitaiyani apiteroite, Ikantsi ikinkishiriaka, tsikaratya ipaitaka, ninkaratya ashitariri eentsira saikatsirira ,inyatsavaitaiyani.</sentence>
         <sentence lang="es">Ahí estaban jugando los dos, pensando dijo -que será, o de quien será el dueño de esos dos niños quienes están jugando ahí.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+Ari	[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+inyaatsavaitaiyani	[i-][VPers][3m.S/A+][--][=nyaatsa+allomorph@ñaatsa.+INF@/EP:t/aantsi.][VRoot][=to.play (ES: jugar); to.have.sex (euphemism)][--][-vai][ASP][+DUR][=action/state.endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]vai[--][-t][+EP]t[--][-aiy][+PL]aiy[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][-ni+circumfix@/PL:aiy/;/PL:iy/.][+PL]
+
+apiteroite	[=apite][Numeral:PRQ][=2 ~ two (ES: dos)][^VBZ][--][-ro+gndr@n.m.][NS][+NMZ]ro[--][-ite][+CL:anim.PL][=animate,plural]
+
+,	,[$.]
+
+ikantzi		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+ikinkishiriaka		[i-][VPers][3m.S/A+][--][=kinkishiri+INF@/EP:t/aantsi.][VRoot][=to.believe, to.think (ES: razonar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+,	,[$.]
+
+tsikaratya		[=tsika][WhPrn][=WH][--][-ra+medial.b.][+DEM][--][-tya][+EMPH]
+
+ipaitaka		[i-][VPers][3m.S/A+][--][=pai+INF@/EP:t/aantsi.][VRoot][=to.be.called; to.call, to.name (ES: nombrar); to.get.white.hair, to.have.gray.hair][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+,	,[$.]
+
+ninkaratya		[=ninka][WhPrn][=WH (EN: who, whom)][--][-ra+medial.b.][+DEM][--][-tya][+EMPH]::[=who.be.sb.there]
+
+ashitariri		[=ashit+INF@aantsi.][VRoot][=to.have; to.own, to.possess (ES: poseer, adueñarse)][--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ri][+3m.O/P][--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+eentsira		[=eentsi+gndr@n./m.+poss@te.][NRoot][=child (ES: niño)][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+saikatsirira		[=saik+INF@aantsi.][VRoot][=to.be, to.be.at, to.be.in; to.sit (ES: sentarse); to.live][--][-atsi][Asp][+STAT.IPRF][=ongoing.&amp;.non-evolving.state]atsi[--][=ri+tns@n.fut.][NS][+REL][=REAL][--][-ra+loc@medial.][+ADV]ra
+
+,	,[$.]
+
+inyatsavaitaiyani		[i-][VPers][3m.S/A+][--][=nyatsa+allomorph@ñatsa.+INF@/EP:t/antsi.][VRoot][=to.play (ES: jugar); to.have.sex (euphemism)][--][-vai][ASP][+DUR][=action/state.endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]vai[--][-t][+EP]t[--][-aiy][+PL]aiy[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][-ni+circumfix@/PL:aiy/;/PL:iy/.][+PL]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.82">
