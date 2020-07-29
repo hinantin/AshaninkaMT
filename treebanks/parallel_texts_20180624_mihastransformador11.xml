@@ -3123,7 +3123,8 @@ naaka		[=naaka+pragm.func@cont.d.TOP.+num@1SG.EXCL.][PrnPers][=I (ES: yo; PT: eu
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.88">
-        <sentence lang="prq">Yamashitakiniri iroñaaka inchatyaaki vitsikatyariranki, itsatakiro shivitsaki antaro manpitsa.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Yamashitakiniri iroñaaka inchatyaaki vitsikatyariranki, itsatakiro shivitsaki antaro manpitsa.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Yamashitakiniri ironyaaka inchatyaaki vitsikatyariranki, itsatakiro shivitsaki antaro mampitsa.</sentence>
         <sentence lang="es">Trajeron ahora una flor que es fabricado, lo colgaron con una pita grande era el ovillo</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
