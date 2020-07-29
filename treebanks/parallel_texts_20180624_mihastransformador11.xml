@@ -3144,7 +3144,8 @@ naaka		[=naaka+pragm.func@cont.d.TOP.+num@1SG.EXCL.][PrnPers][=I (ES: yo; PT: eu
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.91">
-        <sentence lang="prq">Eentsira iroñaaka inintsi yayiromi inchatyakira, ivarankakiro irako irotaki yairikantyarorimi</sentence>
+        <sentence lang="prq" normalizationlevel="none">Eentsira iroñaaka inintsi yayiromi inchatyakira, ivarankakiro irako irotaki yairikantyarorimi</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Eentsira ironyaaka inintsi yayiromi inchatyakira, ivarankakiro irako irotaki yairikantyarorimi</sentence>
         <sentence lang="es">Esos niños ahora, quería sacarlo a esa flor, estiro su mano ya estaba para cogerlo</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
