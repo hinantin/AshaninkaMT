@@ -588,7 +588,7 @@ opariantanakari	[o-][VPers][3n.m.S/A+][--][=pari][VRoot][=to.fall (ES: caer)][--
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.20">
-        <!-- Poñaa ikantsiro okantaikata, ari aminanajiro, arika ajatanaji. -->
+        <!-- Poñaa ikantsiro <misspelling>okantaikata</misspelling>, ari aminanajiro, arika ajatanaji. -->
         <sentence lang="prq" normalizationlevel="none">Poñaa ikantsiro okantakata, ari aminanajiro, arika ajatanaji.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ponyaa ikantsiro okantakata, ari aminanahiro, arika ahatanahi.</sentence>
         <sentence lang="es">Después le dijo así nomas déjalo vamos a buscarlo cuando ya nos vamos</sentence>
@@ -653,7 +653,7 @@ ooriatsiri	[=ooriatsiri+gndr@m.][NRoot][=shining.sun, strong.sun; the.sun; solar
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.22">
-        <!-- sheetyaki, ikantsiro tsame atai chooki, aminanajirota tsika pivariakiro inchatyaakiranki -->
+        <!-- sheetyaki, ikantsiro tsame <misspelling>atai</misspelling> chooki, aminanajirota tsika pivariakiro inchatyaakiranki -->
         <sentence lang="prq" normalizationlevel="none">sheetyaki, ikantsiro tsame jatai chooki, aminanajirota tsika pivariakiro inchatyaakiranki</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">sheetyaki, ikantsiro tsame hatai chooki, aminanahirota tsika pivariakiro inchatyaakiranki</sentence>
         <sentence lang="es">Ya era tarde, le dijo a su hermana, vámonos ya hermana, para buscar la flor donde lo hiciste caer.</sentence>
