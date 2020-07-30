@@ -2782,7 +2782,7 @@ irisaroo		[iri-][NPers][3m.poss+][--][=saroo+gndr@n.m.+kin@fe/male.ego][NRoot][=
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.78">
-        <!-- Iroñaaka, iinara irisarora naviriri inirora kooya, ari ovashirivaitaka irori, ovashitakotaro oshinto, otomipaye imishiyakiri oimira ipasavaijetakiroranki. -->
+        <!-- Iroñaaka, iinara irisarora naviriri inirora kooya, ari ovashirivaitaka irori, ovashitakotaro oshinto, otomipaye <misspelling>imishiyakiri</misspelling> oimira ipasavaijetakiroranki. -->
         <sentence lang="prq" normalizationlevel="none">Iroñaaka, iinara irisarora naviriri inirora kooya, ari ovashirivaitaka irori, ovashitakotaro oshinto, otomipaye imishiyaakiri oimira ipasavaijetakiroranki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ironyaaka, iinara irisarora naviriri inirora kooya, ari ovashirivaitaka irori, ovashitakotaro oshinto, otomipaye imishiyaakiri oimira ipasavaihetakiroranki.</sentence>
         <sentence lang="es">Ahora la esposa (del abuelo) la abuela del transformador la mama de la chica estaba muy apenado y recordaba a su hija y de sus hijos lo que hizo huir su esposo castigándoles en vano.</sentence>
