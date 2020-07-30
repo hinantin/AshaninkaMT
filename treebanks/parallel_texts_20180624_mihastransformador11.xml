@@ -2349,7 +2349,7 @@ nironta		[=nironta+gndr@n.m.+loc@distal][PrnDem][= (ES: allí.está)]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.67">
-        <!-- Yaminakaki iñaatsiro, yaanakiro iroñaaka, ikantsiro tsame ankate,ari ivakiro iroñaaka kooyara. -->
+        <!-- Yaminakaki iñaatsiro, yaanakiro iroñaaka, ikantsiro tsame <missspelling>ankate</missspelling>,ari ivakiro iroñaaka kooyara. -->
         <sentence lang="prq" normalizationlevel="none">Yaminakaki iñaatsiro, yaanakiro iroñaaka, ikantsiro tsame ankaate,ari ivakiro iroñaaka kooyara.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Yaminakaki inyaatsiro, yaanakiro ironyaaka, ikantsiro tsame ankaate,ari ivakiro ironyaaka kooyara.</sentence>
         <sentence lang="es">Miro y lo vio, se lo llevo ahora, le dijo vamos bañarnos, ahí lo mato ahora a la chica.</sentence>
