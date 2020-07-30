@@ -3221,7 +3221,15 @@ aka		[=aka+loc@proximal.b.][PrnDem][=DEM.ADV. (EN: here, close.to.the.speaker)]
         <sentence lang="prq" normalizationlevel="none">Ipokaiyapaajeni eentsipayera iñaapatsiro otsatakota inchatyaaki, ikantsiro iritsiro ¡eh! Chooki Paminitya inchatyakira,tsame ayiro.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ipokaiyapaaheni eentsipayera inyaapatsiro otsatakota inchatyaaki, ikantsiro iritsiro ¡eh! Chooki Paminitya inchatyakira,tsame ayiro.</sentence>
         <sentence lang="es">Cuando vinieron los niños vieron colgado una flor –le dijo a su hermana eh hermana mira pues a esa flor vamos sacarlo.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ipokaiyapaaheni		[i-][VPers][3m.S/A+][--][=pok+INF@aantsi;VC.][VRoot][=to.come (ES: venir), to.arrive][--][-aiy][+PL]aiy[--][-apa+dir@goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]apa[--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e[--][-ni+circumfix@/PL:aiy/;/PL:iy/.][+PL]
+
+eentsipayera		[=eentsi+gndr@n./m.+poss@te.][NRoot][=child (ES: niño)][--][-paye][Num][+PL][=PL; DIST][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.91">
