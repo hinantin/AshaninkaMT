@@ -3216,7 +3216,8 @@ naaka		[=naaka+pragm.func@cont.d.TOP.+num@1SG.EXCL.][PrnPers][=I (ES: yo; PT: eu
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.101">
-        <sentence lang="prq">iroñaaka eentsira iyotakiri icharini, icharinira inatsi ikantsiri .Naaka picharini nonatsi</sentence>
+        <sentence lang="prq" normalizationlevel="none">iroñaaka eentsira iyotakiri icharini, icharinira inatsi ikantsiri .Naaka picharini nonatsi</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">ironyaaka eentsira iyotakiri icharini, icharinira inatsi ikantsiri .Naaka picharini nonatsi</sentence>
         <sentence lang="es">Ahora ese niño lo reconoció a su abuelo, como era su abuelo le dijo – yo soy tu nieto.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
