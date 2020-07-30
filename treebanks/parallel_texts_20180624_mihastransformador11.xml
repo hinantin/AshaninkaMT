@@ -3179,7 +3179,8 @@ naaka		[=naaka+pragm.func@cont.d.TOP.+num@1SG.EXCL.][PrnPers][=I (ES: yo; PT: eu
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.96">
-        <sentence lang="prq">Iñaatsiri, irotaintsimi yairikiromi ishirinkapitsatsiri,shiririri. poñaa ikantsiro iritsiro,chooki pantaitena jaka, pairikirota iroñaaka aviroka inchatyakira.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iñaatsiri, irotaintsimi yairikiromi ishirinkapitsatsiri,shiririri. poñaa ikantsiro iritsiro,chooki pantaitena jaka, pairikirota iroñaaka aviroka inchatyakira.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Inyaatsiri, irotaintsimi yairikiromi ishirinkapitsatsiri,shiririri. ponyaa ikantsiro iritsiro,chooki pantaitena haka, pairikirota ironyaaka aviroka inchatyakira.</sentence>
         <sentence lang="es">Lo ha visto que casi lo agarra, como lo estaba arrimando shiriri, después le dijo: a su hermana, hermana agame subir aquí, para que tú lo agarras a esa flor</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
