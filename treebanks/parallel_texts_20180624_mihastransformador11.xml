@@ -3194,7 +3194,8 @@ naaka		[=naaka+pragm.func@cont.d.TOP.+num@1SG.EXCL.][PrnPers][=I (ES: yo; PT: eu
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.98">
-        <sentence lang="prq">tema oshirinkatyara inchatyakira, iroo airicantyaromi, shiyapaaka shintsini sankatsi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">tema oshirinkatyara inchatyakira, iroo airicantyaromi, shiyapaaka shintsini sankatsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">tema oshirinkatyara inchatyakira, iroo airicantyaromi, shiyapaaka shintsini sankatsi.</sentence>
         <sentence lang="es">Como se esta moviendo esa flor, ya estaba para agarrarlo corrió rápidamente la pucacunga</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
