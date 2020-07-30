@@ -2527,7 +2527,7 @@ ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.72">
-        <!-- yaminaki iroñaaka yora, jainaitera, tera iyotero yamaate ishiyashitnaka otsapiaki oparaiki parinini. -->
+        <!-- yaminaki iroñaaka yora, jainaitera, tera iyotero yamaate <missspelling>ishiyashitnaka</missspelling> otsapiaki oparaiki parinini. -->
         <sentence lang="prq" normalizationlevel="none">yaminaki iroñaaka yora, jainaitera, tera iyotero yamaate ishiyashitanaka otsapiaki oparaiki parinini.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">yaminaki ironyaaka yora, hainaitera, tera iyotero yamaate ishiyashitanaka otsapiaki oparaiki parinini.</sentence>
         <sentence lang="es">Miro ahora el hombre que comía carne humana, como no sabía nadar, solamente se fue corriendo por la playa del rio.</sentence>
