@@ -3267,7 +3267,18 @@ ayiro		[=a+INF@/DEL:a/gaantsi.+I-Conj@act.v.][VRoot][=to.take (ES: agarrar)][--]
         <sentence lang="prq" normalizationlevel="none">Eentsira iroñaaka inintsi yayiromi inchatyakira, ivarankakiro irako irotaki yairikantyarorimi</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Eentsira ironyaaka inintsi yayiromi inchatyakira, ivarankakiro irako irotaki yairikantyarorimi</sentence>
         <sentence lang="es">Esos niños ahora, quería sacarlo a esa flor, estiro su mano ya estaba para cogerlo</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+eentsira		[=eentsi+gndr@n./m.+poss@te.][NRoot][=child (ES: niño)][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+ironyaaka		[=ironyaaka][ConnRoot][=CONN (EN: then)]
+
+inintsi		[i-][VPers][3m.S/A+][--][=nint+INF@aantsi.+poss@ane:ani.][VRoot][=to.want (ES: gustar); to.love (ES: amar)][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.92">
