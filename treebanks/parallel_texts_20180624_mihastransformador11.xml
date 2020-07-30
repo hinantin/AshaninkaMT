@@ -2146,7 +2146,7 @@ okantatyarika		[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.62">
-        <!-- iroñaakaja ,ari okatsiyaitani,okantsiro , ishaa apaniro pisaikavaitsikia ,akanakiro ,te apaniro  nosaikavaite notsipayetari notomipatsaini,korakitatsi taima iroñaaka. -->
+        <!-- iroñaakaja ,ari okatsiyaitani,okantsiro , ishaa apaniro pisaikavaitsikia ,akanakiro ,te apaniro  nosaikavaite notsipayetari notomipatsaini,<misspelling>korakitatsi taima<misspelling> iroñaaka. -->
         <sentence lang="prq" normalizationlevel="none">iroñaakaja ,ari okatsiyaitani,okantsiro , ishaa apaniro pisaikavaitsikia ,akanakiro ,te apaniro  nosaikavaite notsipayetari notomipatsaini,korakitatsitaima iroñaaka.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">ironyaakaha ,ari okatsiyaitani,okantsiro , ishaa apaniro pisaikavaitsikia ,akanakiro ,te apaniro  nosaikavaite notsipayetari notomipatsaini,korakitatsitaima ironyaaka.</sentence>
         <sentence lang="es">Ahora pues, ahí estaba parada, luego le dijo, abuela solita vives aquí, ella le contesto, no yo no vivo solita estoy acompañado de mis hijitos, ya van a llegar ahora.</sentence>
