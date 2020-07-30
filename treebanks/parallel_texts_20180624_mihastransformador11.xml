@@ -527,7 +527,7 @@ yayaa	[=yayaa+gndr@m.+kin@fem.ego][NRoot][=brother (ES: hermano.de.mujer)]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.18">
-        <!-- novariataijro inchatyakiranki te añaajiro,- ikantsi arima kari pikinpoyantaro -->
+        <!-- <misspelling>novariataijro</misspelling> inchatyakiranki te añaajiro,- ikantsi arima kari pikinpoyantaro -->
         <sentence lang="prq" normalizationlevel="none">novariatairo inchatyakiranki te añaajiro,- ikantsi arima kari pikinpoyantaro</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">novariatairo inchatyakiranki te anyaahiro,- ikantsi arima kari pikimpoyantaro</sentence>
         <sentence lang="es">Yo lo hice caer esa flor, ya no hay – le dijo es cierto como no lo conservaste</sentence>
