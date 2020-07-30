@@ -3186,7 +3186,9 @@ naaka		[=naaka+pragm.func@cont.d.TOP.+num@1SG.EXCL.][PrnPers][=I (ES: yo; PT: eu
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.97">
-        <sentence lang="prq">ari painkitakitakiaro aviroka, ivantaitakiro ironaka, iritsirora , iro arikinomi inchatyakira tema osirnkirotyara inchatyakira.</sentence>
+        <!-- ari painkitakitakiaro aviroka, ivantaitakiro ironaka, iritsirora , iro arikinomi inchatyakira tema osirnkirotyara inchatyakira. -->
+        <sentence lang="prq" normalizationlevel="none">ari painkitakitakiaro aviroka, ivantaitakiro ironaka, iritsirora , iro arikinomi inchatyakira tema oshirinkirotyara inchatyakira.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">ari painkitakitakiaro aviroka, ivantaitakiro ironaka, iritsirora , iro arikinomi inchatyakira tema oshirinkirotyara inchatyakira.</sentence>
         <sentence lang="es">Tu vas agarrarlo, lo hizo subir ahora a su hermana, ya iba agárralo a la flor, pero Como lo estaban arrimando la pita..</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
