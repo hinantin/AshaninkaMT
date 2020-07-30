@@ -1065,7 +1065,7 @@ yantaventsavaitena	[y-][VPers][3m.S/A+][--][=antaventsa+~{V:/'to.fight':ant/}{EP
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.35">
-        <!-- notsipantari kameetsa notsipantari, te noñiri yantaventsavaitena tsikarika janta inkantavaitena. -->
+        <!-- <misspelling>notsipamtari</misspelling> kameetsa <misspelling>notsipamtari</misspelling>, te noñiri yantaventsavaitena tsikarika janta   inkantavaitena. -->
         <sentence lang="prq" normalizationlevel="none">notsipantari kameetsa notsipantari, te noñiri yantaventsavaitena tsikarika janta inkantavaitena.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">notsipantari kameetsa notsipantari, te nonyiri yantaventsavaitena tsikarika hanta inkantavaitena.</sentence>
         <sentence lang="es">Me acompaño, bien me acompaño, nunca me ha fastidiado en ningún lugar o me hace cualquier cosa.</sentence>
