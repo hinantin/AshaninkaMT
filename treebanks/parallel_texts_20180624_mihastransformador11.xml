@@ -3157,7 +3157,30 @@ vitsikatyariranki		[=vitsik+INF@aantsi.+I-Conj@act.v.][VRoot][=to.fix; to.make (
         <sentence lang="prq" normalizationlevel="none">Yamashitakiniri iroñaaka inchatyaaki vitsikatyariranki, itsatakiro shivitsaki antaro manpitsa.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Yamashitakiniri ironyaaka inchatyaaki vitsikatyariranki, itsatakiro shivitsaki antaro mampitsa.</sentence>
         <sentence lang="es">Trajeron ahora una flor que es fabricado, lo colgaron con una pita grande era el ovillo</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+yamashitakiniri		[y-][VPers][3m.S/A+][--][=am+INF@aantsi.][VRoot][=to.bring (ES: traer)][--][-a][+EP]a[--][-shi+~{L.DEL:a}{APPL.INT:ashi}][+APPL.INT][=purpose,(with.the).intent]shi[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ni][+3SG.O/P][=it/him/her (ES: le/lo/la)][--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+inchatyaaki		[=incha][NRoot][=plant (ES: planta)][--][-tyaaki][+CL:flower][=flower]
+
+vitsikatyariranki		[=vitsik+INF@aantsi.+I-Conj@act.v.][VRoot][=to.fix; to.make (ES: preparar.comida/bebida); to.create, to.build][--][-aty][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]aty[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ri+tns@n.fut.][NS][+REL][=REAL][--][-ranki+tense@fused.t.][Asp][+ADV.P][=past.situation]ranki
+
+,	,[$.]
+
+itsatakiro		[i-][VPers][3m.S/A+][--][=tsa+INF@/EP:t/aantsi.][VRoot][=to.tie, to.moor; to.hung.up (ES: colgar); to.hung.from.sth. (ES: colgarse)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+shivitsaki		[=shivitsa+gndr@n.m.+poss@te:ti.][NRoot][=(wild).rope; liana.fiber (ES: fibra.de.bejuco); vine.species]::[=to.entwine (ES: entrecruzarse, enroscarse.alrededor.de.algo)][^VBZ][--][-ki][+VERB.CL:S.R.H][=small,round(ed);hard;seed-like;small.insect-like]ki
+
+antaro		[=antaro+gndr@n.m.+poss@nposs.adj.][NRoot][=big; mature]
+
+mampitsa		[=mampitsa+gndr@n.m.+poss@te.][NRoot][=thread;| cotton.thread (ES: hilo.de.algodón);| distaff (ES: huso, rueca; QU: puchka)]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.89">
@@ -3174,6 +3197,22 @@ ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
 imonkaratakiro		[i-][VPers][3m.S/A+][--][=monkara+INF@/EP:t/aantsi.][VRoot][=to.measure (ES: medir); to.fulfill][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
 
 ,	,[$.]
+
+ikaratsi		[i-][VPers][3m.S/A+][--][=kara+INF@/EP:t/aantsi.][VRoot][=COP.CAP (EN: the.amount,, to.be.Nº/#.in.number/quantity_of_sth.)][--][-ts][+EP]ts[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+ikatsiya		[i-][VPers][3m.S/A+][--][=katsiy+INF@aantsi.][VRoot][=to.stand (ES: pararse); to.stand.guard; to.be.erect (ES: estar.recto); to.stand.up][--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+eentsira		[=eentsi+gndr@n./m.+poss@te.][NRoot][=child (ES: niño)][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+,	,[$.]
+
+itsatakiro		[i-][VPers][3m.S/A+][--][=tsa+INF@/EP:t/aantsi.][VRoot][=to.tie, to.moor; to.hung.up (ES: colgar); to.hung.from.sth. (ES: colgarse)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+ovira	+?
+
+aka		[=aka+loc@proximal.b.][PrnDem][=DEM.ADV. (EN: here, close.to.the.speaker)]
+
+.	.[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
