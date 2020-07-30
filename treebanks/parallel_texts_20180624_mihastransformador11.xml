@@ -2420,7 +2420,7 @@ parinini		[=parini+sem@NP.river][NRoot][=river, Perené.river][--][-ni+sem@place
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.69">
-        <!-- Ari ivakirori, ari itsimavintsirori itoyetsiro ovatsara ari okantatapita,ari taima ikantakaarori ariajaini ,atziri ashitakiarini eentsira. -->
+        <!-- Ari ivakirori, ari itsimavintsirori itoyetsiro ovatsara ari okantatapita,<missspelling>ari taima</missspelling> ikantakaarori ariajaini ,atziri ashitakiarini eentsira. -->
         <sentence lang="prq" normalizationlevel="none">Ari ivakirori, ari itsimavintsirori itoyetsiro ovatsara ari okantatapita,aritaima ikantakaarori ariajaini ,atziri ashitakiarini eentsira.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ari ivakirori, ari itsimavintsirori itoyetsiro ovatsara ari okantatapita,aritaima ikantakaarori ariahaini ,atziri ashitakiarini eentsira.</sentence>
         <sentence lang="es">Ahí lo puso, ahí se estaba demorando cortando la carne de la chica era una laja inclinada así habrá sido el destino acaso el dueño del bebe es una persona.</sentence>
