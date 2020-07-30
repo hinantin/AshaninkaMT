@@ -1452,7 +1452,7 @@ ashoshira		[=ashoshi+gndr@m.+sem@NP.person;wild.anim.][NRoot][=armadillo (ES: ar
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.45">
-        <!-- Aritaka iroñaaka sheeteni, okantapaakiro – Naaka ishaa,- aviró noshayo,- tsika pipoñaaka iroñaaka Noshayo,- nopoña kirinka,- Tsika pijateka iroññaka,- nojatatye katonko -->
+        <!-- Aritaka iroñaaka sheeteni, okantapaakiro – Naaka ishaa,- aviró noshayo,- tsika pipoñaaka iroñaaka Noshayo,- nopoña kirinka,- Tsika pijateka <misspelling>iroññaka</misspelling>,- nojatatye katonko -->
         <sentence lang="prq" normalizationlevel="none">Aritaka iroñaaka sheeteni, okantapaakiro – Naaka ishaa,- aviró noshayo,- tsika pipoñaaka iroñaaka Noshayo,- nopoña kirinka,- Tsika pijateka iroñaaka,- nojatatye katonko</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Aritaka ironyaaka sheeteni, okantapaakiro – Naaka ishaa,- aviro noshayo,- tsika piponyaaka ironyaaka Noshayo,- noponya kirinka,- Tsika pihateka ironyaaka,- nohatatye katonko</sentence>
         <sentence lang="es">Ahora llego en la tarde, le dijo a la abuela – yo soy abuela,- ella le contesto eres tu mi nieta.- de dónde vienes ahora nieta,- yo vengo de adentro,- donde vas a ir ahora ,- voy a irme hacia la altura o afuera</sentence>
