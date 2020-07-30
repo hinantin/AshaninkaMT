@@ -3130,6 +3130,25 @@ pashini		[=pashini][NRoot][=other, another (ES: otro); few]
 
 te		[=te+tns@future.neg.][Neg][=NEG.REAL]
 
+airo		[=airo][Neg][=NEG.IRR]
+
+okantsi		[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+pamatavitatyeri		[p-][VPers][2S/A+][--][=amatavi+INF@/EP:t/aantsi.][VRoot][=to.deceive (ES: engañar); to.trick.sb.][--][-t][+EP]t[--][-aty][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]aty[--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e[--][=ri][+3m.O/P]
+
+,	,[$.]
+
+pintsateniri		[pi-][VPers][2S/A+][--][N=][IRR+][--][=tsa+INF@/EP:t/aantsi.][VRoot][=to.tie, to.moor; to.hung.up (ES: colgar); to.hung.from.sth. (ES: colgarse)][--][-t][+EP]t[--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e[--][=ni][+3SG.O/P][=it/him/her (ES: le/lo/la)][--][=ri][+3m.O/P]
+
+inchatyaaki		[=incha][NRoot][=plant (ES: planta)][--][-tyaaki][+CL:flower][=flower]
+
+,	,[$.]
+
+vitsikatyariranki		[=vitsik+INF@aantsi.+I-Conj@act.v.][VRoot][=to.fix; to.make (ES: preparar.comida/bebida); to.create, to.build][--][-aty][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]aty[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ri+tns@n.fut.][NS][+REL][=REAL][--][-ranki+tense@fused.t.][Asp][+ADV.P][=past.situation]ranki
+
+.	.[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
