@@ -3276,7 +3276,19 @@ ironyaaka		[=ironyaaka][ConnRoot][=CONN (EN: then)]
 
 inintsi		[i-][VPers][3m.S/A+][--][=nint+INF@aantsi.+poss@ane:ani.][VRoot][=to.want (ES: gustar); to.love (ES: amar)][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
 
+yayiromi		[y-][VPers][3m.S/A+][--][=a+INF@/DEL:a/gaantsi.+I-Conj@act.v.][VRoot][=to.take (ES: agarrar)][--][-yi+allomorph@e.+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]yi[--][=ro][+3n.m.O/P][--][=mi][MODAL][+CNT.F][=if-clause.expressing.an.idea/assumption/argument.contrary.to.fact (ES: no.realizado)]
 
+inchatyakira		[=incha][NRoot][=plant (ES: planta)][--][-tyaki][+CL:flower][=flower][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+,	,[$.]
+
+ivarankakiro	ivarankakiro	+?
+
+irako		[ir-][NPers][3m.poss+][--][=ako+gndr@n.m.+inal@tsi.+sem@b.p.][NRoot][=hand (ES: mano; PT: mão)]
+
+irotaki		[=irotaki+pragm.func@cntr.exh.l.FOC.+num@3SG+gndr@n.m.][PrnPers][=that's.why; she.is.the.one.(who)]
+
+yairikantyarorimi		[y-][VPers][3m.S/A+][--][=airik+INF@VC.][VRoot][=to.hang; to.snatch.sth., to.grab.sth., to.capture (ES: captar)][--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-t][+EP]t[--][-ya+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]ya[--][=ro][+3n.m.O/P][--][=ri+tns@n.fut.][NS][+REL][=REAL][--][=mi][MODAL][+CNT.F][=if-clause.expressing.an.idea/assumption/argument.contrary.to.fact (ES: no.realizado)]
 
 </morphology>
         <parsing format="" analysislevel=""/>
