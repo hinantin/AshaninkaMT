@@ -3164,7 +3164,18 @@ vitsikatyariranki		[=vitsik+INF@aantsi.+I-Conj@act.v.][VRoot][=to.fix; to.make (
         <sentence lang="prq" normalizationlevel="none">poña iroñaaka imonkaratakiro, Ikaratsi ikatsiya eentsira,itsatakiro ovira aka.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">ponya ironyaaka imonkaratakiro, Ikaratsi ikatsiya eentsira,itsatakiro ovira aka.</sentence>
         <sentence lang="es">Después ahora lo midió el tamaño de estatura de estar parado el niño, lo colgó de este tamaño</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ponya		[=ponya][AdvRoot][=CONN (EN: then, later)]
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+imonkaratakiro		[i-][VPers][3m.S/A+][--][=monkara+INF@/EP:t/aantsi.][VRoot][=to.measure (ES: medir); to.fulfill][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+,	,[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.90">
