@@ -3223,7 +3223,8 @@ naaka		[=naaka+pragm.func@cont.d.TOP.+num@1SG.EXCL.][PrnPers][=I (ES: yo; PT: eu
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.102">
-        <sentence lang="prq">pipasavaishitakaro pairani inaa, kokipaye pipasavaishitakari Ikantsi arima.</sentence>
+        <sentence lang="prq" normalizationlevel="none">pipasavaishitakaro pairani inaa, kokipaye pipasavaishitakari Ikantsi arima.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">pipasavaishitakaro pairani inaa, kokipaye pipasavaishitakari Ikantsi arima.</sentence>
         <sentence lang="es">En vano has castigado antes a mi mama y a mis tíos en vano –dijo así.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
