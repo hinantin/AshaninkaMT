@@ -2937,7 +2937,7 @@ inyatsavaitaiyani		[i-][VPers][3m.S/A+][--][=nyatsa+allomorph@ñatsa.+INF@/EP:t/
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.82">
-        <!-- Tsame airikiri, ijataki iroñaaka isaikinta impananikiki, iñatsavaitaiyaninta apiteroite itsipatavaka. -->
+        <!-- Tsame airikiri, ijataki iroñaaka isaikinta <misspelling>impananikiki</misspelling>, iñatsavaitaiyaninta apiteroite itsipatavaka. -->
         <sentence lang="prq" normalizationlevel="none">Tsame airikiri, ijataki iroñaaka isaikinta impanikiki, iñatsavaitaiyaninta apiteroite itsipatavaka.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Tsame airikiri, ihataki ironyaaka isaikinta impanikiki, inyatsavaitaiyaninta apiteroite itsipatavaka.</sentence>
         <sentence lang="es">Vamos agarrarle, se fue ahora donde estaban jugando en la arena donde estaban jugando los dos.</sentence>
