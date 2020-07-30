@@ -3165,13 +3165,15 @@ naaka		[=naaka+pragm.func@cont.d.TOP.+num@1SG.EXCL.][PrnPers][=I (ES: yo; PT: eu
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.94">
-        <sentence lang="prq">Te yayiri katsi saikantyarini, Ikantsi iroñaaka sankatsi Naaka aritaki nairikakiri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Te yayiri katsi saikantyarini, Ikantsi iroñaaka sankatsi Naaka aritaki nairikakiri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Te yayiri katsi saikantyarini, Ikantsi ironyaaka sankatsi Naaka aritaki nairikakiri.</sentence>
         <sentence lang="es">No lo cogió no había nada en su interior, ahora dijo la pucacunga yo si lo puedo coger.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.95">
-        <sentence lang="prq">Ijajeetaki pashiniki kitaiteri, Ikantsi arika piñavajiri inintsi yairikiro pishirinkapitsateri shivitsara,   shiri, shiri</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ijajeetaki pashiniki kitaiteri, Ikantsi arika piñavajiri inintsi yairikiro pishirinkapitsateri shivitsara,   shiri, shiri</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ihaheetaki pashiniki kitaiteri, Ikantsi arika pinyavahiri inintsi yairikiro pishirinkapitsateri shivitsara,   shiri, shiri</sentence>
         <sentence lang="es">Se fueron ahora se fueron ahora al otro día- dijo cuando lo ven intentando agarrarlo arrímalo la pita shiri, shiri</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
