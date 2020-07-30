@@ -3201,13 +3201,16 @@ naaka		[=naaka+pragm.func@cont.d.TOP.+num@1SG.EXCL.][PrnPers][=I (ES: yo; PT: eu
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.99">
-        <sentence lang="prq">irootaki anitantanakiarimi, iritsirora, yairikapaakiro iroñaaka, yairikaitakiri irirori.</sentence>
+        <sentence lang="prq" normalizationlevel="none">irootaki anitantanakiarimi, iritsirora, yairikapaakiro iroñaaka, yairikaitakiri irirori.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">irootaki anitantanakiarimi, iritsirora, yairikapaakiro ironyaaka, yairikaitakiri irirori.</sentence>
         <sentence lang="es">Cuando ya iba a bajar su hermana lo agarraron ahora, lo agarraron a el también.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.100">
-        <sentence lang="prq">yaanakiri, pona ikantakiri- tsika piponaaka- tsika paita pantavaitsiri impanikikira</sentence>
+        <!-- yaanakiri, <misspelling>pona</misspelling> ikantakiri- tsika piponaaka- tsika paita pantavaitsiri impanikikira -->
+        <sentence lang="prq" normalizationlevel="none">yaanakiri, poña ikantakiri- tsika piponaaka- tsika paita pantavaitsiri impanikikira</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">yaanakiri, ponya ikantakiri- tsika piponaaka- tsika paita pantavaitsiri impanikikira</sentence>
         <sentence lang="es">Se lo llevo, luego le dijo – de donde eres – que cosa haces en la arena.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
