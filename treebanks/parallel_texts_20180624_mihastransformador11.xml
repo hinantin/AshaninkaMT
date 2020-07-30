@@ -840,7 +840,7 @@ oyariri	[o-][NPers][3n.m.poss+][--][=yari+gndr@m.+poss@ri.+kin@fem.ego][NRoot][=
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.28">
-        <!-- Yaya paitaratya antakinarika nomotyaakika, ikantsiro tsikapikantakakia, akanakiri tan. -->
+        <!-- Yaya paitaratya antakinarika nomotyaakika, ikantsiro <misspelling>tsikapikantakakia</misspelling>, akanakiri tan. -->
         <sentence lang="prq" normalizationlevel="none">Yaya paitaratya antakinarika nomotyaakika, ikantsiro tsika pikantakakia, akanakiri tan.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Yaya paitaratya antakinarika nomotyaakika, ikantsiro tsika pikantakakia, akanakiri tan.</sentence>
         <sentence lang="es">Hermano que es lo que me habrá pasado en mi estomago, le dijo que es lo que te paso pues ella le contesto no se</sentence>
