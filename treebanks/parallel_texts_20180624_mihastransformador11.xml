@@ -2658,7 +2658,7 @@ haitetsi	+?
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.75">
-        <!-- Amatanaki iroñaaka, amaatsi, amaatasi ari tsikarika anta, kirinkanta,ari aavakiri omotonkani -->
+        <!-- Amatanaki iroñaaka, amaatsi, <missspelling>amaatasi</missspelling> ari tsikarika anta, kirinkanta,ari aavakiri omotonkani -->
         <sentence lang="prq" normalizationlevel="none">Amatanaki iroñaaka, amaatsi, amaatsi ari tsikarika anta, kirinkanta,ari aavakiri omotonkani</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Amatanaki ironyaaka, amaatsi, amaatsi ari tsikarika anta, kirinkanta,ari aavakiri omotonkani</sentence>
         <sentence lang="es">Se fue flotando por el rio ahora flotaba, y flotaba hasta allá, no se sabe donde por adentro, ahí lo cogió un remolino.</sentence>
@@ -2737,7 +2737,7 @@ kooya		[=kooya+gndr@n.m.][NRoot][=woman (ES: mujer; QU: quya)]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.77">
-        <!-- Naviriritatsirira iroñaaka, paytatyari naviriri, aakiri iroñaaka aitaki isaikinta icharini ikaatapintanta. Aritaki aavajiri irisaroo. -->
+        <!-- Naviriritatsirira iroñaaka, <missspelling>paytatyari</missspelling> naviriri, aakiri iroñaaka aitaki isaikinta icharini ikaatapintanta. Aritaki aavajiri irisaroo. -->
         <sentence lang="prq" normalizationlevel="none">Naviriritatsirira iroñaaka, paitatyari naviriri, aakiri iroñaaka aitaki isaikinta icharini ikaatapintanta. Aritaki aavajiri irisaroo.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Naviriritatsirira ironyaaka, paitatyari naviriri, aakiri ironyaaka aitaki isaikinta icharini ikaatapintanta. Aritaki aavahiri irisaroo.</sentence>
         <sentence lang="es">El quién sería el transformador ahora, el que se llama naviriri lo cogió ahora, ahí donde vive su abuelo, donde siempre se baña.</sentence>
