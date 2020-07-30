@@ -1209,7 +1209,7 @@ ohate	[o-][VPers][3n.m.S/A+][--][=hat+INF@aantsi.][VRoot][=to.go (ES: ir)][--][-
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.39">
-        <!-- Poñaa, okinkishiriaka, kooyara okantsi iroñaaka taima nojatatye katonko. -->
+        <!-- Poñaa, okinkishiriaka, kooyara okantsi <misspelling>iroñaaka taima</misspelling> nojatatye katonko. -->
         <sentence lang="prq" normalizationlevel="none">Poñaa, okinkishiriaka, kooyara okantsi iroñaakataima nojatatye katonko.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ponyaa, okinkishiriaka, kooyara okantsi ironyaakataima nohatatye katonko.</sentence>
         <sentence lang="es">Después, la chica pensó, dijo ahora mejor me voy hacia la altura o hacia afuera.</sentence>
