@@ -1164,7 +1164,7 @@ pashininta	[=pashini][NRoot][=other, another (ES: otro); few][--][=nta+mrph.cath
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.38">
-        <!-- Ikantsi iroñaaka iriro, ari taima, iroñaaka te nonkovaji osakaji ashinto jaka, ojateta tsika onintakaro Ojate -->
+        <!-- Ikantsi iroñaaka iriro, <misspelling>ari taima</misspelling>, iroñaaka te nonkovaji osakaji ashinto jaka, ojateta tsika onintakaro Ojate -->
         <sentence lang="prq" normalizationlevel="none">Ikantsi iroñaaka iriro, aritaima, iroñaaka te nonkovaji osaikaji ashinto jaka, ojateta tsika onintakaro Ojate</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikantsi ironyaaka iriro, aritaima, ironyaaka te nonkovahi osaikahi ashinto haka, ohateta tsika onintakaro Ohate</sentence>
         <sentence lang="es">Ahora dijo el papá, así será .Ahora yo no quiero que nuestra hija esté mas aquí, que se vaya donde quiera ir ella.</sentence>
