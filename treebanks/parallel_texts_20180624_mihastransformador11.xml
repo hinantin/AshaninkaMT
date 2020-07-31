@@ -3458,7 +3458,9 @@ eh		[=eh+s.redup.word][Ideo:PRQ][=action.of.swallowing]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.110">
-        <sentence lang="prq">icharini tsimatsi ivintani iyanirimashi: Ikantsi ari ashirivatakiaro kaniri nijaa.irotaki yookatakotsi.</sentence>
+        <!-- icharini tsimatsi ivintani iyanirimashi: Ikantsi ari ashirivatakiaro kaniri <misspelling alt="nijaa. irotaki">nijaa.irotaki</misspelling> yookatakotsi. -->
+        <sentence lang="prq" normalizationlevel="none">icharini tsimatsi ivintani iyanirimashi: Ikantsi ari ashirivatakiaro kaniri nijaa. irotaki yookatakotsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">icharini tsimatsi ivintani iyanirimashi: Ikantsi ari ashirivatakiaro kaniri nihaa. irotaki yookatakotsi.</sentence>
         <sentence lang="es">Su abuelo tenia sembrado su yucal; dijo se va ahogar la yuca con el agua, por eso lo que bota el agua.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
