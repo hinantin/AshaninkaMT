@@ -3602,7 +3602,8 @@ eh		[=eh+s.redup.word][Ideo:PRQ][=action.of.swallowing]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.130">
-        <sentence lang="prq">Imavita yantaite te inkante yantaite tema naviririra inatsi iroñaaka tsikarika okantsimotakaro iroñaaka ishara ataitanake iroñaaka.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Imavita yantaite te inkante yantaite tema naviririra inatsi iroñaaka tsikarika okantsimotakaro iroñaaka ishara ataitanake iroñaaka.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Imavita yantaite te inkante yantaite tema naviririra inatsi ironyaaka tsikarika okantsimotakaro ironyaaka ishara ataitanake ironyaaka.</sentence>
         <sentence lang="es">Intentaba subir no podía subir como era transformador ahora que le habrá pasado a la abuela ahora ella se subió.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
