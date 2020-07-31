@@ -3501,6 +3501,7 @@ eh		[=eh+s.redup.word][Ideo:PRQ][=action.of.swallowing]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.116">
+        <!-- ironaaka jataki itsipatanakaro iritsiro, ikinapaaki yaritajaro ovanko ashoshi. -->
         <sentence lang="prq">ironaaka jataki itsipatanakaro iritsiro, ikinapaaki yaritajaro ovanko ashoshi.</sentence>
         <sentence lang="es">Ahora sí, se fue acompañada de su hermana, vino por aquí, llego a la casa de la armadillo.</sentence>
         <morphology format="" analysislevel=""/>
