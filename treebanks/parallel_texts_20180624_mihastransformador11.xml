@@ -3567,7 +3567,8 @@ eh		[=eh+s.redup.word][Ideo:PRQ][=action.of.swallowing]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.125">
-        <sentence lang="prq">Okantakiri iroñaaka okimitakiro iriniro pairani okantsiri paakotaitenaro ninkini.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Okantakiri iroñaaka okimitakiro iriniro pairani okantsiri paakotaitenaro ninkini.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Okantakiri ironyaaka okimitakiro iriniro pairani okantsiri paakotaitenaro ninkini.</sentence>
         <sentence lang="es">Ahora le dijo como le dijo a su mamá antes, le dijo tráigamelo mi maní.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
