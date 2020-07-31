@@ -3422,6 +3422,7 @@ eh		[=eh+s.redup.word][Ideo:PRQ][=action.of.swallowing]
     <text id="1.105">
         <!-- ari <misspelling>opona</misspelling> ikisavakaka iroñaaka – okantsiri iina naakiro, pipasavaishitakaro ashinto tema <misspelling>ocantsi<misspelling> -->
         <sentence lang="prq" normalizationlevel="none">ari opoña ikisavakaka iroñaaka – okantsiri iina naakiro, pipasavaishitakaro ashinto tema okantsi</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">ari oponya ikisavakaka ironyaaka – okantsiri iina naakiro, pipasavaishitakaro ashinto tema okantsi</sentence>
         <sentence lang="es">Ahí se inicio la rina entre ellos ahora – le dijo la esposa ya vez en vano has castigado a nuestra hija si ella decía.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
