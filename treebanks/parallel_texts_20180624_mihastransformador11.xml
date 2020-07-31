@@ -3466,7 +3466,8 @@ eh		[=eh+s.redup.word][Ideo:PRQ][=action.of.swallowing]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.111">
-        <sentence lang="prq">yookatsiro, yookatsiro, pona ikanta, ikanta kimotataki iroñaaka viranaka jaka te ishinte eentsirakia.</sentence>
+        <sentence lang="prq" normalizationlevel="none">yookatsiro, yookatsiro, pona ikanta, ikanta kimotataki iroñaaka viranaka jaka te ishinte eentsirakia.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">yookatsiro, yookatsiro, pona ikanta, ikanta kimotataki ironyaaka viranaka haka te ishinte eentsirakia.</sentence>
         <sentence lang="es">Botaba el agua, botaba Después de un tiempo ya había crecido ahora ya era de este tamaño no duro en crecer ese niño.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
