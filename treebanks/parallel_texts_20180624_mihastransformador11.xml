@@ -3442,14 +3442,17 @@ eh		[=eh+s.redup.word][Ideo:PRQ][=action.of.swallowing]
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
-    <text id="1.108">
-        <sentence lang="prq">ikintsi sharoo, samani, ikintsi kintsori, sankatsi, tsamiri maaroni ikaratsi pairani tsimiriyetatsiri.</sentence>
+    <text id="1.108">*
+        <sentence lang="prq" normalizationlevel="none">ikintsi sharoo, samani, ikintsi kintsori, sankatsi, tsamiri maaroni ikaratsi pairani tsimiriyetatsiri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">ikintsi sharoo, samani, ikintsi kintsori, sankatsi, tsamiri maaroni ikaratsi pairani tsimiriyetatsiri.</sentence>
         <sentence lang="es">Picaba (con flechas)cutpes, samano, picaba pucacunga,paujil y todo los animales que existían antes.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.109">
-        <sentence lang="prq">irootaki ivakariri icharini, ponaaka arika onparianaji inkani osheki inintsi ijate yookatero nija .</sentence>
+        <!-- irootaki ivakariri icharini, <misspelling alt="poñaaka">ponaaka</misspelling> arika onparianaji inkani osheki inintsi ijate yookatero nija . -->
+        <sentence lang="prq" normalizationlevel="none">irootaki ivakariri icharini, poñaaka arika onparianaji inkani osheki inintsi ijate yookatero nija .</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">irootaki ivakariri icharini, ponyaaka arika omparianahi inkani osheki inintsi ihate yookatero niha .</sentence>
         <sentence lang="es">Eso lo hacía comer a su nieto, después el nieto cuando llovía mucho le gustaba ir a votar el agua de la lluvia.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
