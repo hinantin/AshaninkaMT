@@ -3552,7 +3552,9 @@ eh		[=eh+s.redup.word][Ideo:PRQ][=action.of.swallowing]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.123">
-        <sentence lang="prq">Ikaimaki iroñaaka, ishaa naakave, ishaa naakave - ikimatsiro akaki – joo…….aviroo tsika pitsimika.</sentence>
+        <!-- Ikaimaki iroñaaka, ishaa naakave, ishaa naakave - ikimatsiro akaki – joo…….<mispelling alt="aviro">aviroo</mispelling> tsika pitsimika. -->
+        <sentence lang="prq">Ikaimaki iroñaaka, ishaa naakave, ishaa naakave - ikimatsiro akaki – joo…….aviro tsika pitsimika.</sentence>
+        <sentence lang="prq">Ikaimaki ironyaaka, ishaa naakave, ishaa naakave - ikimatsiro akaki – hoo…….aviro tsika pitsimika.</sentence>
         <sentence lang="es">Ahora le llamó, abuelaaaa… yo sooooy, abuelaaaa, yo sooooy – luego escucharon contestar – joooo – eres tú, quien eres.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
