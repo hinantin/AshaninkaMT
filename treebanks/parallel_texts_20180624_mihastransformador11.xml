@@ -3480,13 +3480,15 @@ eh		[=eh+s.redup.word][Ideo:PRQ][=action.of.swallowing]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.113">
-        <sentence lang="prq">ikantsiri icharini aani iroñaaka nojatatye katonko, tsika ivaitakaro inaa. Ontsimatye Nompiyavintajiaro.</sentence>
+        <sentence lang="prq" normalizationlevel="none">ikantsiri icharini aani iroñaaka nojatatye katonko, tsika ivaitakaro inaa. Ontsimatye Nompiyavintajiaro.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">ikantsiri icharini aani ironyaaka nohatatye katonko, tsika ivaitakaro inaa. Ontsimatye Nompiyavintahiaro.</sentence>
         <sentence lang="es">Le dijo a su abuelo, abuelo ahora voy a irme hacia la altura, donde se lo comieron a mi mama. Tengo que vengarme de ella.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.114">
-        <sentence lang="prq">ikantsiri icharini airo pijatsi aani ari ivavakiami jainaite, osheki ivanta – Ikantsi airo Ivana.</sentence>
+        <sentence lang="prq" normalizationlevel="none">ikantsiri icharini airo pijatsi aani ari ivavakiami jainaite, osheki ivanta – Ikantsi airo Ivana.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">ikantsiri icharini airo pihatsi aani ari ivavakiami hainaite, osheki ivanta – Ikantsi airo Ivana.</sentence>
         <sentence lang="es">Su abuelo le dijo no vas a ir nieto, te va a comer, el hombre que come carne humana, le gusta comer –él le respondió no me va a comer.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
