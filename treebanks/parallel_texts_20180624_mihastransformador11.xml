@@ -3545,8 +3545,8 @@ eh		[=eh+s.redup.word][Ideo:PRQ][=action.of.swallowing]
     </text>
     <text id="1.122">
         <!-- Te <mispelling alt="osaiki">otsaiki</mispelling>, ojatatsi otsamaivaitsi <mispelling alt="oyanirimashiki">oyananirimashiki</mispelling>; <mispelling alt="poña">pona</mispelling> Ikantsi tsame ankaimakotero iroñaaka. -->
-        <sentence lang="prq">Te osaiki, ojatatsi otsamaivaitsi oyanirimashiki; pona Ikantsi tsame ankaimakotero iroñaaka.</sentence>
-        <sentence lang="prq">Te osaiki, ohatatsi otsamaivaitsi oyanirimashiki; ponya Ikantsi tsame ankaimakotero ironyaaka.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Te osaiki, ojatatsi otsamaivaitsi oyanirimashiki; pona Ikantsi tsame ankaimakotero iroñaaka.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Te osaiki, ohatatsi otsamaivaitsi oyanirimashiki; ponya Ikantsi tsame ankaimakotero ironyaaka.</sentence>
         <sentence lang="es">Ella no estaba, se fue a lampear su yucal; después dijo vamos a llamarlo ahora.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
