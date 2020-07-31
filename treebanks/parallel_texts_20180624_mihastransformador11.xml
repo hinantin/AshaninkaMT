@@ -3560,7 +3560,8 @@ eh		[=eh+s.redup.word][Ideo:PRQ][=action.of.swallowing]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.124">
-        <sentence lang="prq">Naaka, opokapaki iroñaaka irisarora, irinirora jainaiti oñapakiri okantsiri ¡Oh! Ari pipoki pisaikavaitapajityami.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Naaka, opokapaki iroñaaka irisarora, irinirora jainaiti oñapakiri okantsiri ¡Oh! Ari pipoki pisaikavaitapajityami.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Naaka, opokapaki ironyaaka irisarora, irinirora hainaiti onyapakiri okantsiri ¡Oh! Ari pipoki pisaikavaitapahityami.</sentence>
         <sentence lang="es">Yo soy, ahora vino su abuela, la mamá del hombre que come carne humana, ella le vio y le dijo ¡oh! Has venido tome asiento.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
