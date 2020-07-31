@@ -3428,7 +3428,8 @@ eh		[=eh+s.redup.word][Ideo:PRQ][=action.of.swallowing]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.106">
-        <sentence lang="prq">te oniri yantavintsatero oyariri, ikanta, pona ikantsiri, aritaki nosaikimotakimi pivankoki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">te oniri yantavintsatero oyariri, ikanta, pona ikantsiri, aritaki nosaikimotakimi pivankoki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">te oniri yantavintsatero oyariri, ikanta, pona ikantsiri, aritaki nosaikimotakimi pivankoki.</sentence>
         <sentence lang="es">No lo ha visto fastidiar su hermano, después dijo el nieto si me voy a quedarme en tu casa</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
