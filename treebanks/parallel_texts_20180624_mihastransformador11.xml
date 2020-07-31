@@ -3525,18 +3525,20 @@ eh		[=eh+s.redup.word][Ideo:PRQ][=action.of.swallowing]
     <text id="1.119">
         <sentence lang="prq" normalizationlevel="none">ah, irotaki nojatantyari, nonintsi nompiyavintajiaro inaa. Tsika pinkini pimpiyakovintero inaa, oshekiteni ikanta ari intsonkatavakimi.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">ah, irotaki nohatantyari, nonintsi nompiyavintahiaro inaa. Tsika pinkini pimpiyakovintero inaa, oshekiteni ikanta ari intsonkatavakimi.</sentence>
-        <sentence lang="es">Si, por eso voy a ir, quiero vengarme de mi madre. Como quieres vengarte de tu madre, si ellos son bastante te va acabar.</sentence>
+        <sentence lang="es">Si, por eso voy a ir, quiero vengarme de mi madre. Como quieres vengarte de tu madre, si ellos son bastante te va aca  bar.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.120">
-        <sentence lang="prq">Yakanikiro ikantsiro airo. Noyotakiro iroñaaka tsika nonkantiri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Yakanikiro ikantsiro airo. Noyotakiro iroñaaka tsika nonkantiri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Yakanikiro ikantsiro airo. Noyotakiro ironyaaka tsika nonkantiri.</sentence>
         <sentence lang="es">Él le respondió diciendo. Ya se ahora como hacerlo. (La venganza)</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.121">
-        <sentence lang="prq">Ari imaapaki, okitaitamanaki jatsi iroñaaka, iñapakiro ivanko jainaite.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ari imaapaki, okitaitamanaki jatsi iroñaaka, iñapakiro ivanko jainaite.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ari imaapaki, okitaitamanaki hatsi ironyaaka, inyapakiro ivanko hainaite.</sentence>
         <sentence lang="es">Ahí se quedo a dormir esa noche, al día siguiente se fue ahora, ahí vio la casa del hombre que camia la carne humana.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
