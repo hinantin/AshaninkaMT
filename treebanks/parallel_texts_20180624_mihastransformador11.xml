@@ -3413,13 +3413,15 @@ eh		[=eh+s.redup.word][Ideo:PRQ][=action.of.swallowing]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.104">
-        <sentence lang="prq">yamajiri iroñaaka ikantsiri avirokama, pona yamajirira iinaki ikantapaajiro, acharini inatsira iyoka.</sentence>
+        <sentence lang="prq" normalizationlevel="none">yamajiri iroñaaka ikantsiri avirokama, pona yamajirira iinaki ikantapaajiro, acharini inatsira iyoka.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">yamahiri ironyaaka ikantsiri avirokama, pona yamahirira iinaki ikantapaahiro, acharini inatsira iyoka.</sentence>
         <sentence lang="es">Le trajo ahora diciéndole a ya eres tú, después que lo ha traído: le dijo a su esposa aquel es nuestro nieto ¡eh!</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.105">
-        <sentence lang="prq">ari opona ikisavakaka iroñaaka – okantsiri iina naakiro, pipasavaishitakaro ashinto tema ocantsi</sentence>
+        <!-- ari <misspelling>opona</misspelling> ikisavakaka iroñaaka – okantsiri iina naakiro, pipasavaishitakaro ashinto tema ocantsi -->
+        <sentence lang="prq" normalizationlevel="none">ari opoña ikisavakaka iroñaaka – okantsiri iina naakiro, pipasavaishitakaro ashinto tema ocantsi</sentence>
         <sentence lang="es">Ahí se inicio la rina entre ellos ahora – le dijo la esposa ya vez en vano has castigado a nuestra hija si ella decía.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
