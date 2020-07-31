@@ -3588,13 +3588,15 @@ eh		[=eh+s.redup.word][Ideo:PRQ][=action.of.swallowing]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.128">
-        <sentence lang="prq">kaantsimaintatya moyatsi nija oyovitsiteki antaroite akantsiri pairani ayovitsite.</sentence>
+        <sentence lang="prq" normalizationlevel="none">kaantsimaintatya moyatsi nija oyovitsiteki antaroite akantsiri pairani ayovitsite.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">kaantsimaintatya moyatsi niha oyovitsiteki antaroite akantsiri pairani ayovitsite.</sentence>
         <sentence lang="es">Sin embargo estaba hirviendo su agua con una olla grande, lo que decimos nosotros antes nuestra olla.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.129">
-        <sentence lang="prq">Moyatsi nijaa onkantya arika intsirianaki eentsira pinkapaki nijaakira.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Moyatsi nijaa onkantya arika intsirianaki eentsira pinkapaki nijaakira.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Moyatsi nihaa onkantya arika intsirianaki eentsira pinkapaki nihaakira.</sentence>
         <sentence lang="es">Hervía el agua para que cuando se caiga ese niño se meta directamente donde está el agua.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
