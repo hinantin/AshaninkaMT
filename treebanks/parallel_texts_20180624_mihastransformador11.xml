@@ -3616,7 +3616,8 @@ eh		[=eh+s.redup.word][Ideo:PRQ][=action.of.swallowing]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.132">
-        <sentence lang="prq">Okantya okovi ompavakiri inkinira ivapakiata iyenkatanakityiri anintaiyari oyari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Okantya okovi ompavakiri inkinira ivapakiata iyenkatanakityiri anintaiyari oyari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Okantya okovi ompavakiri inkinira ivapakiata iyenkatanakityiri anintaiyari oyari.</sentence>
         <sentence lang="es">Ella quería darle de comer su mani para que se engorde y tenga grasa y así comerlo más sabroso.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
