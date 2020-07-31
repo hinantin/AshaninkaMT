@@ -3609,7 +3609,8 @@ eh		[=eh+s.redup.word][Ideo:PRQ][=action.of.swallowing]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.131">
-        <sentence lang="prq">Okantsi nakatya ataitatsini naavakita inki pivapaakiari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Okantsi nakatya ataitatsini naavakita inki pivapaakiari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Okantsi nakatya ataitatsini naavakita inki pivapaakiari.</sentence>
         <sentence lang="es">- Dijo mejor yo voy a subir se subió voy a sacar maní para que comas.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
