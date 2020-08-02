@@ -3708,7 +3708,8 @@ sherori		[=sherori+s.redup.word@][Ideo:PRQ][=sliding.down.the_tree (slowly)]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.144">
-        <sentence lang="prq">¡inaaaa!, ikimatsiro akanaki ¡joooo!, aritajeetapaaja, yaminapaji ikantsiri iririntsi, iyee paminitya.</sentence>
+        <sentence lang="prq" normalizationlevel="none">¡inaaaa!, ikimatsiro akanaki ¡joooo!, aritajeetapaaja, yaminapaji ikantsiri iririntsi, iyee paminitya.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">¡inaaaa!, ikimatsiro akanaki ¡hoooo!, aritaheetapaaha, yaminapahi ikantsiri iririntsi, iyee paminitya.</sentence>
         <sentence lang="es">¡Mamá!, escucharon contestarle ¡joooo!, ya llegaron, miró le dijo a su hermano, hermano mira pues.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
