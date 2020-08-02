@@ -3687,7 +3687,8 @@ sherori		[=sherori+s.redup.word@][Ideo:PRQ][=sliding.down.the_tree (slowly)]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.141">
-        <sentence lang="prq">okantakovitari, sherori, sherori, te oñiri, shitovashitanaja iroñaaka okante te, te añiri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">okantakovitari, sherori, sherori, te oñiri, shitovashitanaja iroñaaka okante te, te añiri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">okantakovitari, sherori, sherori, te onyiri, shitovashitanaha ironyaaka okante te, te anyiri.</sentence>
         <sentence lang="es">Levantaba otras cosas no le veía se salió se canso de buscarle ahora le dijo no le he visto.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
