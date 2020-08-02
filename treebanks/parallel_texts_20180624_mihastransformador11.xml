@@ -3673,7 +3673,7 @@ eh		[=eh+s.redup.word][Ideo:PRQ][=action.of.swallowing]
     </text>
     <text id="1.140">
         <sentence lang="prq" normalizationlevel="none">intya paminina iroñaaka, arika piñaakina, iritsirora ataitanaki aminiri, okantakovitari sherori, sherori, sherori, okimashitari inaavaitsi anta.</sentence>
-        <sentence lang="prq" normalizationlevel="none">intya paminina iroñaaka, arika piñaakina, iritsirora ataitanaki aminiri, okantakovitari sherori, sherori, sherori, okimashitari inaavaitsi anta.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">intya paminina ironyaaka, arika pinyaakina, iritsirora ataitanaki aminiri, okantakovitari sherori, sherori, sherori, okimashitari inaavaitsi anta.</sentence>
         <sentence lang="es">Haber ahora búscame haber si me vas a encontrar la hermana se subió para buscarle buscaba y buscaba por todo lado solamente escuchaba lo que hablaba.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
