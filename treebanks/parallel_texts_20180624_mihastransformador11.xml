@@ -3723,7 +3723,8 @@ sherori		[=sherori+s.redup.word@][Ideo:PRQ][=sliding.down.the_tree (slowly)]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.146">
-        <sentence lang="prq">ishiyakavintakiri intsipatsaini, oporianikipatsaini,arive ikantsi; intsitya tsame ankaimiro inaa.</sentence>
+        <sentence lang="prq" normalizationlevel="none">ishiyakavintakiri intsipatsaini, oporianikipatsaini,arive ikantsi; intsitya tsame ankaimiro inaa.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">ishiyakavintakiri intsipatsaini, oporianikipatsaini,arive ikantsi; intsitya tsame ankaimiro inaa.</sentence>
         <sentence lang="es">Lo asimiló como unos niños, muslitos muy bien dijo haber vamos llamarlo a mamá.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
