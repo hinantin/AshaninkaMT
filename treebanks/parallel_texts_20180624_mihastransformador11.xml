@@ -3746,7 +3746,7 @@ sherori		[=sherori+s.redup.word@][Ideo:PRQ][=sliding.down.the_tree (slowly)]
     <text id="1.149">
         <!-- poña ikantsi otsonkatanakityero <misspelling alt="otsamairi">otssamairi</misspelling>, iroñaaka ikantsi tsametya ayete avavakiata. -->
         <sentence lang="prq" normalizationlevel="none">poña ikantsi otsonkatanakityero otsamairi, iroñaaka ikantsi tsametya ayete avavakiata.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">ponya ikantsi otsonkatanakityero otssamairi, ironyaaka ikantsi tsametya ayete avavakiata.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">ponya ikantsi otsonkatanakityero otsamairi, ironyaaka ikantsi tsametya ayete avavakiata.</sentence>
         <sentence lang="es">Después dijo dice va terminarlo su lampeo, ahora dijo vamos servir para comer.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
