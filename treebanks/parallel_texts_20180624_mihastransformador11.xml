@@ -3730,7 +3730,8 @@ sherori		[=sherori+s.redup.word@][Ideo:PRQ][=sliding.down.the_tree (slowly)]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.147">
-        <sentence lang="prq">Ikaimakotakiro! Inaaaa! Ikimatsiro akanaki okantsi ¡ooooo! Otsamaitatsiro oyanirimashi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikaimakotakiro! Inaaaa! Ikimatsiro akanaki okantsi ¡ooooo! Otsamaitatsiro oyanirimashi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikaimakotakiro! Inaaaa! Ikimatsiro akanaki okantsi ¡ooooo! Otsamaitatsiro oyanirimashi.</sentence>
         <sentence lang="es">Llamó ¡mamá! Escucharon contestar dijo ¡oooo! Esta lampeando su yucal.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
