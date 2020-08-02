@@ -3694,14 +3694,15 @@ sherori		[=sherori+s.redup.word@][Ideo:PRQ][=sliding.down.the_tree (slowly)]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.142">
-        <sentence lang="prq">poña ikantsiro intsitya avirori, iroñaaka ataitanaki irori iritsirora; aijatsi irori ijavitaka yaminiro te iñiro, poña ikantsi kameetsataki iroñaaka aritaki amatakiri jainaite.</sentence>
-        <sentence lang="prq">ponya ikantsiro intsitya avirori, ironyaaka ataitanaki irori iritsirora; aihatsi irori ihavitaka yaminiro te inyiro, ponya ikantsi kameetsataki ironyaaka aritaki amatakiri hainaite.</sentence>
+        <sentence lang="prq" normalizationlevel="none">poña ikantsiro intsitya avirori, iroñaaka ataitanaki irori iritsirora; aijatsi irori ijavitaka yaminiro te iñiro, poña ikantsi kameetsataki iroñaaka aritaki amatakiri jainaite.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">ponya ikantsiro intsitya avirori, ironyaaka ataitanaki irori iritsirora; aihatsi irori ihavitaka yaminiro te inyiro, ponya ikantsi kameetsataki ironyaaka aritaki amatakiri hainaite.</sentence>
         <sentence lang="es">Después le dijo haber tu ahora, subió la hermana igualito también ella aunque ha ido a buscarla no le vio luego dijo ahora si está bien, ahora vamos terminarle al hombre que come carne humana.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.143">
         <sentence lang="prq">Osamani ikimaiyaatsiri iroñaaka ikaimaiyapaajini, ¡ooooo!, ¡aauuu!, ¡oooouuu!, ¡eeeee! Ikaimapaajiro iriniro.</sentence>
+        <sentence lang="prq">Osamani ikimaiyaatsiri ironyaaka ikaimaiyapaahini, ¡ooooo!, ¡aauuu!, ¡oooouuu!, ¡eeeee! Ikaimapaahiro iriniro.</sentence>
         <sentence lang="es">Después de largo rato escucharon ahora que gritaban sus hijos llamaron ¡ooooo1, ¡aauuuuu!, ¡oooouuu!, ¡eeeee! Llamaron a su mamá.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
