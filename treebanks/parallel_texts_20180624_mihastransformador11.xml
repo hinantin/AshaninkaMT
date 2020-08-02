@@ -3716,7 +3716,8 @@ sherori		[=sherori+s.redup.word@][Ideo:PRQ][=sliding.down.the_tree (slowly)]
     </text>
     <text id="1.145">
         <!-- Paita okotsitsiri inaa, yaminaki iririntsi <misspelling alt="ikantsi">ikantssi</misspelling>, shoo paita kamintsakiro, ityarinkakiro, iñaatsi, oitsipatsaini, oporianikipatsaini, ovirayetaka aka. -->
-        <sentence lang="prq">Paita okotsitsiri inaa, yaminaki iririntsi ikantssi, shoo paita kamintsakiro, ityarinkakiro, iñaatsi, oitsipatsaini, oporianikipatsaini, ovirayetaka aka.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Paita okotsitsiri inaa, yaminaki iririntsi ikantsi, shoo paita kamintsakiro, ityarinkakiro, iñaatsi, oitsipatsaini, oporianikipatsaini, ovirayetaka aka.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Paita okotsitsiri inaa, yaminaki iririntsi ikantsi, shoo paita kamintsakiro, ityarinkakiro, inyaatsi, oitsipatsaini, oporianikipatsaini, ovirayetaka aka.</sentence>
         <sentence lang="es">Qué cosa esta cocinando mamá, su hermano miró y dijo que rico que cosa que sorpresa nos dio mamá lo movió la olla ahí vio piecitos, muslitos que eran pequeños.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
