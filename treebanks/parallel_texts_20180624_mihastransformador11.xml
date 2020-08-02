@@ -3737,7 +3737,8 @@ sherori		[=sherori+s.redup.word@][Ideo:PRQ][=sliding.down.the_tree (slowly)]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.148">
-        <sentence lang="prq">Ikantsiri iririntsi pinkaimakotero avavakiata ikaimakovetaro te anki ikimatsiro okantsi piya jara irotaki nontsanpishiriro notsamairika.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikantsiri iririntsi pinkaimakotero avavakiata ikaimakovetaro te anki ikimatsiro okantsi piya jara irotaki nontsanpishiriro notsamairika.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikantsiri iririntsi pinkaimakotero avavakiata ikaimakovetaro te anki ikimatsiro okantsi piya hara irotaki nontsampishiriro notsamairika.</sentence>
         <sentence lang="es">Le dijo a su hermano llámalo para comer lo llamaba y no contestaba luego escucharon que dijo coman ahí ya voy terminarlo mi lampeo.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
