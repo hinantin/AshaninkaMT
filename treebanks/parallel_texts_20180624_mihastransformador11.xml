@@ -3701,8 +3701,8 @@ sherori		[=sherori+s.redup.word@][Ideo:PRQ][=sliding.down.the_tree (slowly)]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.143">
-        <sentence lang="prq">Osamani ikimaiyaatsiri iroñaaka ikaimaiyapaajini, ¡ooooo!, ¡aauuu!, ¡oooouuu!, ¡eeeee! Ikaimapaajiro iriniro.</sentence>
-        <sentence lang="prq">Osamani ikimaiyaatsiri ironyaaka ikaimaiyapaahini, ¡ooooo!, ¡aauuu!, ¡oooouuu!, ¡eeeee! Ikaimapaahiro iriniro.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Osamani ikimaiyaatsiri iroñaaka ikaimaiyapaajini, ¡ooooo!, ¡aauuu!, ¡oooouuu!, ¡eeeee! Ikaimapaajiro iriniro.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Osamani ikimaiyaatsiri ironyaaka ikaimaiyapaahini, ¡ooooo!, ¡aauuu!, ¡oooouuu!, ¡eeeee! Ikaimapaahiro iriniro.</sentence>
         <sentence lang="es">Después de largo rato escucharon ahora que gritaban sus hijos llamaron ¡ooooo1, ¡aauuuuu!, ¡oooouuu!, ¡eeeee! Llamaron a su mamá.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
