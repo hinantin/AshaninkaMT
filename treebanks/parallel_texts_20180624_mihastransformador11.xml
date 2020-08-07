@@ -3342,6 +3342,12 @@ eh		[=eh+s.redup.word][Ideo:PRQ][=action.of.swallowing]
 
 ishiyapaaka		[i-][VPers][3m.S/A+][--][=shiy+INF@aantsi.][VRoot][=to.escape, to.run (ES: escapar)][--][-ap+dir@goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-aak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]aak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
 
+maniro		[=maniro+gndr@m.+sem@wild.anim.][NRoot][=deer (pronunc.: [maˈniɾɞ]; ES: venado); red.deer (ES: venado.rojo; sci.nm.: mazama.americana); gray.deer (ES: venado.gris; sci.nm.: mazama.gouazoubira)]
+
+tema		[=tema][OtherRoot][=because (ES: porque); maybe (ES: como, ya.que, puesto.que)]
+
+yantaritatzira		[y-][VPers][3m.S/A+][--][=antari+gndr@m.+poss@nposs.adj.][NRoot][=big (ES: grande); mature][^VBZ][--][-t][+EP]t[--][-atz][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]atz[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][-ra+loc@medial.][+ADV]ra
+
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
