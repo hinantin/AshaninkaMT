@@ -3337,7 +3337,12 @@ eh		[=eh+s.redup.word][Ideo:PRQ][=action.of.swallowing]
         <sentence lang="prq" normalizationlevel="none">Ishiyapaaka maniro tema yantaritatsira,iro yairikantavakiarimi,shintsi ishiyanaka pinkapaji nijakira</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ishiyapaaka maniro tema yantaritatsira,iro yairikantavakiarimi,shintsi ishiyanaka pinkapahi nihakira</sentence>
         <sentence lang="es">Corrió el venado como era grande, casi lo agarra, rápido corrió se hundió en el agua.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ishiyapaaka		[i-][VPers][3m.S/A+][--][=shiy+INF@aantsi.][VRoot][=to.escape, to.run (ES: escapar)][--][-ap+dir@goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-aak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]aak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.94">
