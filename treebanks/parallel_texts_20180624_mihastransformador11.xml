@@ -3536,8 +3536,9 @@ inchatyakira		[=incha][NRoot][=plant (ES: planta)][--][-tyaki][+CL:flower][=flow
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.98">
-        <sentence lang="prq" normalizationlevel="none">tema oshirinkatyara inchatyakira, iroo airicantyaromi, shiyapaaka shintsini sankatsi.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">tema oshirinkatyara inchatyakira, iroo airicantyaromi, shiyapaaka shintsini sankatsi.</sentence>
+        <!-- tema oshirinkatyara inchatyakira, iroo <misspelling alt="airikantyaromi">airicantyaromi</misspelling>, shiyapaaka shintsini sankatsi. -->
+        <sentence lang="prq" normalizationlevel="none">tema oshirinkatyara inchatyakira, iroo airikantyaromi, shiyapaaka shintsini sankatsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">tema oshirinkatyara inchatyakira, iroo airikantyaromi, shiyapaaka shintsini sankatsi.</sentence>
         <sentence lang="es">Como se esta moviendo esa flor, ya estaba para agarrarlo corrió rápidamente la pucacunga</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
 
@@ -3549,6 +3550,10 @@ oshirinkatyara		[o-][VPers][3n.m.S/A+][--][=shirink+INF@aantsi.][VRoot][=to.make
 inchatyakira		[=incha][NRoot][=plant (ES: planta)][--][-tyaki][+CL:flower][=flower][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
 
 ,	,[$.]
+
+iroo		[=iroo+pragm.func@cont.d.TOP.+num@3SG+gndr@n.m.][PrnPers][=she, it; that's why (ES: por.eso)]
+
+airikantyaromi		[=airik+INF@VC.][VRoot][=to.hang; to.snatch.sth., to.grab.sth., to.capture (ES: captar)][--][-ant][Asp][+APPL.REAS][=REAS (EN: in.order.to, so.that; ES: para.que); INST (EN: that.with.which.sb.does.sth., sb's.tool)]ant[--][-ya+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]ya[--][=ro][+3n.m.O/P][--][=mi][MODAL][+CNT.F][=if-clause.expressing.an.idea/assumption/argument.contrary.to.fact (ES: no.realizado)]
 
 </morphology>
         <parsing format="" analysislevel=""/>
