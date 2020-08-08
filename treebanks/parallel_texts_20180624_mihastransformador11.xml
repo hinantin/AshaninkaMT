@@ -3406,7 +3406,15 @@ nairikakiri		[n-][VPers][1SG.S/A+][--][=airik+INF@VC.][VRoot][=to.hang; to.snatc
         <sentence lang="prq" normalizationlevel="none">Ijajeetaki pashiniki kitaiteri, Ikantsi arika piñavajiri inintsi yairikiro pishirinkapitsateri shivitsara,   shiri, shiri</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ihaheetaki pashiniki kitaiteri, Ikantsi arika pinyavahiri inintsi yairikiro pishirinkapitsateri shivitsara,   shiri, shiri</sentence>
         <sentence lang="es">Se fueron ahora se fueron ahora al otro día- dijo cuando lo ven intentando agarrarlo arrímalo la pita shiri, shiri</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ihaheetaki		[i-][VPers][3m.S/A+][--][=ha+INF@/EP:t/aantsi.][VRoot][=to.go (ES: ir)][--][-hee][NUM][+PL][=PL.S/A+; INTR: PL.S/A+; TR: PL.S/A+.or.+PL.O]hee[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+pashiniki		[=pashini][NRoot][=other, another (ES: otro); few][--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)]
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.96">
