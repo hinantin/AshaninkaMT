@@ -3494,8 +3494,8 @@ inchatyakira		[=incha][NRoot][=plant (ES: planta)][--][-tyaki][+CL:flower][=flow
     </text>
     <text id="1.97">
         <!-- ari <misspelling alt="pairikitakiaro">painkitakitakiaro</misspelling> aviroka, ivantaitakiro <misspelling alt="iroñaka">ironaka</misspelling>, iritsirora , iro <misspelling alt="airikiromi">arikinomi</misspelling> inchatyakira tema <misspelling alt="oshirinkirotyara">osirnkirotyara</misspelling> inchatyakira. -->
-        <sentence lang="prq" normalizationlevel="none">ari pairikitakiaro aviroka, ivantaitakiro iroñaka, iritsirora , iro arikinomi inchatyakira tema oshirinkirotyara inchatyakira.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">ari pairikitakiaro aviroka, ivantaitakiro ironyaka, iritsirora , iro arikinomi inchatyakira tema oshirinkirotyara inchatyakira.</sentence>
+        <sentence lang="prq" normalizationlevel="none">ari pairikitakiaro aviroka, ivantaitakiro iroñaka, iritsirora , iro airikiromi inchatyakira tema oshirinkirotyara inchatyakira.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">ari pairikitakiaro aviroka, ivantaitakiro ironyaka, iritsirora , iro airikiromi inchatyakira tema oshirinkirotyara inchatyakira.</sentence>
         <sentence lang="es">Tu vas agarrarlo, lo hizo subir ahora a su hermana, ya iba agárralo a la flor, pero Como lo estaban arrimando la pita..</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
 
