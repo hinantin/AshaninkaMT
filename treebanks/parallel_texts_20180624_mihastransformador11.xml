@@ -3493,7 +3493,7 @@ inchatyakira		[=incha][NRoot][=plant (ES: planta)][--][-tyaki][+CL:flower][=flow
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.97">
-        <!-- ari <misspelling alt="pairikitakiaro">painkitakitakiaro</misspelling> aviroka, ivantaitakiro ironaka, iritsirora , iro arikinomi inchatyakira tema <misspelling alt="oshirinkirotyara">osirnkirotyara</misspelling> inchatyakira. -->
+        <!-- ari <misspelling alt="pairikitakiaro">painkitakitakiaro</misspelling> aviroka, ivantaitakiro <misspelling alt="iroñaka">ironaka</misspelling>, iritsirora , iro arikinomi inchatyakira tema <misspelling alt="oshirinkirotyara">osirnkirotyara</misspelling> inchatyakira. -->
         <sentence lang="prq" normalizationlevel="none">ari pairikitakiaro aviroka, ivantaitakiro ironaka, iritsirora , iro arikinomi inchatyakira tema oshirinkirotyara inchatyakira.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">ari pairikitakiaro aviroka, ivantaitakiro ironaka, iritsirora , iro arikinomi inchatyakira tema oshirinkirotyara inchatyakira.</sentence>
         <sentence lang="es">Tu vas agarrarlo, lo hizo subir ahora a su hermana, ya iba agárralo a la flor, pero Como lo estaban arrimando la pita..</sentence>
@@ -3505,6 +3505,8 @@ ari		[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es
 pairikitakiaro		[p-][VPers][2S/A+][--][=airik+INF@VC.][VRoot][=to.hang; to.snatch.sth., to.grab.sth., to.capture (ES: captar)][--][-it][Asp][+ICPL][=actn/event.that.was.begun.but.not.completed]it[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-ia+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]ia[--][=ro][+3n.m.O/P]
 
 aviroka		[=aviro+pragm.func@cont.d.TOP.+num@2SG][PrnPers][=you (ES: tú)][--][-ka][+EMPH][=EMPH; ASSERT (EN: state.clearly-&amp;-firmly.that.sth.is.true)]
+
+,	,[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
