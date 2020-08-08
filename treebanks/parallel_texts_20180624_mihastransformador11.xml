@@ -3372,7 +3372,16 @@ nihakira		[=niha+gndr@n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio
         <sentence lang="prq" normalizationlevel="none">Te yayiri katsi saikantyarini, Ikantsi iroñaaka sankatsi Naaka aritaki nairikakiri.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Te yayiri katsi saikantyarini, Ikantsi ironyaaka sankatsi Naaka aritaki nairikakiri.</sentence>
         <sentence lang="es">No lo cogió no había nada en su interior, ahora dijo la pucacunga yo si lo puedo coger.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+te		[=te+tns@future.neg.][Neg][=NEG.REAL]
+
+yayiri		[y-][VPers][3m.S/A+][--][=a+INF@/DEL:a/gaantsi.+I-Conj@act.v.][VRoot][=to.take (ES: agarrar)][--][-yi+allomorph@e.+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]yi[--][=ri][+3m.O/P]
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.95">
