@@ -3417,6 +3417,10 @@ kitaiteri		[=kitaiteri][NRoot][=day (ES: día; PT: dia; QU: p'unchay, p'unchaw)]
 
 ,	,[$.]
 
+ikantsi		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+arika		[=ari][PostPol][=PP][--][=ka+~{R.DEL:ri}{COND:rika}][+COND]::[=when (temporal.simultaneity); if (expresses.possible.condition)]
+
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
