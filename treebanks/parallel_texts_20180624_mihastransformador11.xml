@@ -3446,7 +3446,13 @@ shiri		[=shiri+s.redup.word@2X.][Ideo:PRQ][=action.of.sewing/stringing.beads/see
         <sentence lang="prq" normalizationlevel="none">Iñaatsiri, irotaintsimi yairikiromi ishirinkapitsatsiri,shiririri. poñaa ikantsiro iritsiro,chooki pantaitena jaka, pairikirota iroñaaka aviroka inchatyakira.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Inyaatsiri, irotaintsimi yairikiromi ishirinkapitsatsiri,shiririri. ponyaa ikantsiro iritsiro,chooki pantaitena haka, pairikirota ironyaaka aviroka inchatyakira.</sentence>
         <sentence lang="es">Lo ha visto que casi lo agarra, como lo estaba arrimando shiriri, después le dijo: a su hermana, hermana agame subir aquí, para que tú lo agarras a esa flor</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+inyaatsiri		[i-][VPers][3m.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-a][+EP]a[--][-atsi][Asp][+STAT.IPRF][=ongoing.&amp;.non-evolving.state]atsi[--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.97">
