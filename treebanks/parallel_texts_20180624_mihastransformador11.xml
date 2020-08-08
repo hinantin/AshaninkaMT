@@ -3539,7 +3539,16 @@ inchatyakira		[=incha][NRoot][=plant (ES: planta)][--][-tyaki][+CL:flower][=flow
         <sentence lang="prq" normalizationlevel="none">tema oshirinkatyara inchatyakira, iroo airicantyaromi, shiyapaaka shintsini sankatsi.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">tema oshirinkatyara inchatyakira, iroo airicantyaromi, shiyapaaka shintsini sankatsi.</sentence>
         <sentence lang="es">Como se esta moviendo esa flor, ya estaba para agarrarlo corrió rápidamente la pucacunga</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+tema		[=tema][ConjRoot][=because (ES: porque); maybe (ES: como, ya.que, puesto.que)]
+
+oshirinkatyara		[o-][VPers][3n.m.S/A+][--][=shirink+INF@aantsi.][VRoot][=to.make.room (ES: arrimar); to.contract.in.size, to.shrink (ES: mermar.(el.río))][--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=tya][MODAL][+EMPH][=urgency, impatience, surprise, exasperation (non-contradictory.emphasis); almost (with.time.adverbs)][--][=ra][+SUB][=Temporal:when;Location:where(place);Denoting.a.cause/motive/reason:since;Epist.uncertainty:Okay?]
+
+inchatyakira		[=incha][NRoot][=plant (ES: planta)][--][-tyaki][+CL:flower][=flower][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.99">
