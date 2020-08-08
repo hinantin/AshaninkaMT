@@ -3379,6 +3379,12 @@ te		[=te+tns@future.neg.][Neg][=NEG.REAL]
 
 yayiri		[y-][VPers][3m.S/A+][--][=a+INF@/DEL:a/gaantsi.+I-Conj@act.v.][VRoot][=to.take (ES: agarrar)][--][-yi+allomorph@e.+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]yi[--][=ri][+3m.O/P]
 
+katsi		[=katsi][Neg][=NEG.EXIST (EN: there.is.nothing; ES: no.haber.nada); NOT.POSSESS]
+
+saikantyarini		[=saik+INF@aantsi.][VRoot][=to.be, to.be.at, to.be.in; to.sit (ES: sentarse); to.live][--][-ant][Asp][+APPL.REAS][=REAS (EN: in.order.to, so.that; ES: para.que); INST (EN: that.with.which.sb.does.sth., sb's.tool)]ant[--][-ya+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]ya[--][=ri][+3m.O/P][--][=ni+tns@fut.][NS][+REL][=IRR]
+
+,	,[$.]
+
 
 
 </morphology>
