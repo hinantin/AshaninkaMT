@@ -3358,6 +3358,12 @@ yairikantavakiarimi		[y-][VPers][3m.S/A+][--][=airik+INF@VC.][VRoot][=to.hang; t
 
 shintsi	+?
 
+ishiyanaka		[i-][VPers][3m.S/A+][--][=shiy+INF@aantsi.][VRoot][=to.escape, to.run (ES: escapar)][--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+pinkapahi		[=pink+INF@aantsi.][VRoot][=to.drown (ES: ahogar(se))][--][-ap+dir@goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+
+
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
