@@ -3395,6 +3395,10 @@ naaka		[=naaka+pragm.func@cont.d.TOP.+num@1SG.EXCL.][PrnPers][=I (ES: yo; PT: eu
 
 aritaki		[=ari][PostPol][=PP][--][-t][+EP][--][-ak][+PRF][--][-i][+REAL]::[=it.is.the.case.(that) (ES: así.es.que)]
 
+nairikakiri		[n-][VPers][1SG.S/A+][--][=airik+INF@VC.][VRoot][=to.hang; to.snatch.sth., to.grab.sth., to.capture (ES: captar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+.	.[$.]
+
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
