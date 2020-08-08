@@ -3572,7 +3572,12 @@ sankatsi		[=sankatsi+gndr@m.+sem@bird][NRoot][=red-necked.gallinacean.bird.sp. (
         <sentence lang="prq" normalizationlevel="none">irootaki anitantanakiarimi, iritsirora, yairikapaakiro iroñaaka, yairikaitakiri irirori.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">irootaki anitantanakiarimi, iritsirora, yairikapaakiro ironyaaka, yairikaitakiri irirori.</sentence>
         <sentence lang="es">Cuando ya iba a bajar su hermana lo agarraron ahora, lo agarraron a el también.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+irootaki		[=irootaki+pragm.func@cntr.exh.l.FOC.+num@3SG+gndr@n.m.][PrnPers][=that's.why; she.is.the.one.(who)]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.100">
