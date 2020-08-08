@@ -3493,7 +3493,7 @@ inchatyakira		[=incha][NRoot][=plant (ES: planta)][--][-tyaki][+CL:flower][=flow
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.97">
-        <!-- ari <misspelling alt="pairikitakiaro">painkitakitakiaro</misspelling> aviroka, ivantaitakiro <misspelling alt="iroñaka">ironaka</misspelling>, iritsirora , iro arikinomi inchatyakira tema <misspelling alt="oshirinkirotyara">osirnkirotyara</misspelling> inchatyakira. -->
+        <!-- ari <misspelling alt="pairikitakiaro">painkitakitakiaro</misspelling> aviroka, ivantaitakiro <misspelling alt="iroñaka">ironaka</misspelling>, iritsirora , iro <misspelling alt="airikiromi">arikinomi</misspelling> inchatyakira tema <misspelling alt="oshirinkirotyara">osirnkirotyara</misspelling> inchatyakira. -->
         <sentence lang="prq" normalizationlevel="none">ari pairikitakiaro aviroka, ivantaitakiro iroñaka, iritsirora , iro arikinomi inchatyakira tema oshirinkirotyara inchatyakira.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">ari pairikitakiaro aviroka, ivantaitakiro ironyaka, iritsirora , iro arikinomi inchatyakira tema oshirinkirotyara inchatyakira.</sentence>
         <sentence lang="es">Tu vas agarrarlo, lo hizo subir ahora a su hermana, ya iba agárralo a la flor, pero Como lo estaban arrimando la pita..</sentence>
@@ -3515,6 +3515,10 @@ ironyaka		[=ironyaka][AdvRoot][=now (ES: ahora)]
 ,	,[$.]
 
 iritsirora		[iri-][NPers][3m.poss+][--][=tsiro+gndr@n.m.+kin@male.ego][NRoot][=sister][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+,	,[$.]
+
+iro		[=iro+pragm.func@cont.d.TOP.+num@3SG+gndr@n.m.][PrnPers][=she, it; that's why (ES: por.eso)]
 
 </morphology>
         <parsing format="" analysislevel=""/>
