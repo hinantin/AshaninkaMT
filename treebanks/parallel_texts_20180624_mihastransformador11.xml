@@ -3849,7 +3849,12 @@ pivankoki		[pi-][NPers][2poss+][--][=panko+gndr@n.m.+inal@tsi.+mrph.phon@LEN:^p�
         <sentence lang="prq" normalizationlevel="none">paajana iroñaaka aritaki nosaikimotakimi, ari isaiki iroñaaka .pona icharini iroñaaka jaitetsi isaikashivaitsi.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">paahana ironyaaka aritaki nosaikimotakimi, ari isaiki ironyaaka .ponya icharini ironyaaka haitetsi isaikashivaitsi.</sentence>
         <sentence lang="es">Tú me has acogido ahora, si voy a quedarme a vivir contigo: ahora ahí se quedo a vivir, después el abuelo ahora se fuea poner trampas a los animales.</sentence>
-        <morphology format="ashaninkamorph" analysislevel="fully"/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.108">*
