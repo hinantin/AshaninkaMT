@@ -3699,10 +3699,19 @@ arima		[=ari][PostPol][=PP][--][=ma][+DUB]::[= (ES: ¿verdad?); perhaps]
         <sentence lang="prq" normalizationlevel="none">iroñaaka aanakina inaa katonko, ivaitakaro inaa ivakaro jainaite Ikantsi arima.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">ironyaaka aanakina inaa katonko, ivaitakaro inaa ivakaro hainaite Ikantsi arima.</sentence>
         <sentence lang="es">Ahora me llevo mama a la altura, ahí lo comieron a mama’ lo comió el hombre que come carne humana. Le respondió así.</sentence>
-        <morphology format="ashaninkamorph" analysislevel="fully"/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+aanakina		[=a+INF@/DEL:a/gaantsi.+I-Conj@act.v.][VRoot][=to.take (ES: agarrar)][--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=na][+1SG.O/P][=me (ES: me)]
+
+inaa		[=inaa+gndr@n.m.+inal@tsi.+kin@fe/male.ego][NRoot][=mother (ES: mamá); wife]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
-    <text id="1.104">
++    <text id="1.104">
         <sentence lang="prq" normalizationlevel="none">yamajiri iroñaaka ikantsiri avirokama, pona yamajirira iinaki ikantapaajiro, acharini inatsira iyoka.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">yamahiri ironyaaka ikantsiri avirokama, pona yamahirira iinaki ikantapaahiro, acharini inatsira iyoka.</sentence>
         <sentence lang="es">Le trajo ahora diciéndole a ya eres tú, después que lo ha traído: le dijo a su esposa aquel es nuestro nieto ¡eh!</sentence>
