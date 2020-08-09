@@ -114,12 +114,79 @@
             <xs:enumeration value="normalized-lexicon"/>
         </xs:restriction>
     </xs:simpleType>
+    <xs:simpleType name="error_type">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="lexicosemantic">
+                <xs:annotation>
+                    <xs:documentation>
+                        Description: lexico-semantic errors.
+                        Example: mentor | a mentor 
+                    </xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="punct">
+                <xs:annotation>
+                    <xs:documentation>
+                        Description: mistakes in punctuations.
+                        Example:  ! | . 
+                    </xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="spelling">
+                <xs:annotation>
+                    <xs:documentation>
+                        Description: misspelling
+                        Example: intensly | intensely 
+                    </xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="style">
+                <xs:annotation>
+                    <xs:documentation>
+                        Description: typos relating to style
+                        Example:  other | the feasibility of other 
+                    </xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="typographical">
+                <xs:annotation>
+                    <xs:documentation>
+                        Description: mistakes relating to typography
+                        Example:  ‘ | ”  
+                    </xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="unclassified">
+                <xs:annotation>
+                    <xs:documentation>
+                        Description: other types of typos
+                        Example: is to be | was 
+                    </xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+        </xs:restriction>
+    </xs:simpleType>
     <xs:element name="parallel">
         <xs:complexType>
             <xs:sequence>
                 <xs:element name="text" maxOccurs="unbounded">
                     <xs:complexType>
                         <xs:sequence>
+                            <xs:element name="error_sentence" minOccurs="0" maxOccurs="1">
+                                <xs:complexType mixed="true">
+                                    <xs:sequence>
+                                        <xs:element name="error" minOccurs="0" maxOccurs="10">
+                                            <xs:complexType>
+                                                <xs:simpleContent>
+                                                    <xs:extension base="xs:string">
+                                                        <xs:attribute type="error_type" name="type" use="required"/>
+                                                    </xs:extension>
+                                                </xs:simpleContent>
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
                             <xs:element name="sentence" minOccurs="2" maxOccurs="10">
                                 <xs:complexType>
                                     <xs:simpleContent>
@@ -131,7 +198,6 @@
                                 </xs:complexType>
                             </xs:element>
                             <!-- 
-                            <xs:element name="prq" minOccurs="1" maxOccurs="1"/>
                             <xs:element name="es" minOccurs="0" maxOccurs="1"/>
                             <xs:element name="en" minOccurs="1" maxOccurs="1"/>
                             -->
