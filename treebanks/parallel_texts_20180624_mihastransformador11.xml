@@ -3788,6 +3788,8 @@ te		[=te+tns@future.neg.][Neg][=NEG.REAL]
 
 onyiri		[o-][VPers][3n.m.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
 
+yantavintsatero		[y-][VPers][3m.S/A+][--][=antavintsa+~{V:/'to.fight':ant/}{EP:a}{DLMT:vintsa}][VRoot][=to.annoy (prbly.with.jokes; ES: fastidiar.a.algn.)][--][-t][+EP]t[--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e[--][=ro][+3n.m.O/P]
+
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
