@@ -3729,7 +3729,7 @@ arima		[=ari][PostPol][=PP][--][=ma][+DUB]::[= (ES: ¿verdad?); perhaps]
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
-+    <text id="1.104">
+    <text id="1.104">
     <!-- yamajiri iroñaaka ikantsiri avirokama, <misspelling alt="poña">pona</misspelling> yamajirira iinaki ikantapaajiro, acharini inatsira iyoka. -->
         <sentence lang="prq" normalizationlevel="none">yamajiri iroñaaka ikantsiri avirokama, poña yamajirira iinaki ikantapaajiro, acharini inatsira iyoka.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">yamahiri ironyaaka ikantsiri avirokama, ponya yamahirira iinaki ikantapaahiro, acharini inatsira iyoka.</sentence>
