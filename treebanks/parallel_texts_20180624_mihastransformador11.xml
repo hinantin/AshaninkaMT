@@ -3784,7 +3784,9 @@ iyoka		[=iyoka+gndr@m.+loc@proximal][PrnDem][=DEM (EN: this, this.one; ES: él.a
         <morphology format="ashaninkamorph" analysislevel="fully">
 
 
+te		[=te+tns@future.neg.][Neg][=NEG.REAL]
 
+onyiri		[o-][VPers][3n.m.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
 
 </morphology>
         <parsing format="" analysislevel=""/>
