@@ -3654,6 +3654,8 @@ icharini		[i-][NPers][3m.poss+][--][=charini+gndr@m.+poss@te.+kin@male.ego][NRoo
 
 icharinira		[i-][NPers][3m.poss+][--][=charini+gndr@m.+poss@te.+kin@male.ego][NRoot][=grandpa, grandfather, grandparent][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
 
+inatsi		[i-][VPers][3m.S/A+][--][=n+INF@aantsi][VRoot][=to.be (ES: ser,, estar)][--][-atsi][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]atsi
+
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
