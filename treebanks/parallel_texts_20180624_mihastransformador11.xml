@@ -3686,6 +3686,12 @@ inaa		[=inaa+gndr@n.m.+inal@tsi.+kin@fe/male.ego][NRoot][=mother (ES: mamá); wi
 
 kokipaye		[=koki+gndr@m.+poss@ri:re.+kin@male.ego][NRoot][=father; father.in.law; uncle (ES: suegro)][--][-paye][Num][+PL][=PL; DIST]
 
+pipasavaishitakari		[pi-][VPers][2S/A+][--][=pasa+INF@/EP:t/aantsi.][VRoot][=to.punish (ES: castigar); to.hit, to.beat.up (ES: golpear)][--][-vai][ASP][+DUR][=action/state.endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]vai[--][-shi+~{L.DEL:a}{APPL.INT:ashi}][+APPL.INT][=purpose,(with.the).intent]shi[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ri][+3m.O/P]
+
+ikantsi		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+arima		[=ari][PostPol][=PP][--][=ma][+DUB]::[= (ES: ¿verdad?); perhaps]
+
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
