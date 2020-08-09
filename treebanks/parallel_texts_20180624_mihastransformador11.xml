@@ -3602,8 +3602,8 @@ irirori		[=irirori+pragm.func@cntr.add.l.FOC.+num@3SG+gndr@m.][PrnPers][=he (ES:
     </text>
     <text id="1.100">
         <!-- yaanakiri, <misspelling alt="poña">pona</misspelling> ikantakiri- tsika <misspelling alt="pipoñaaka">piponaaka</misspelling>- tsika paita pantavaitsiri impanikikira -->
-        <sentence lang="prq" normalizationlevel="none">yaanakiri, poña ikantakiri- tsika piponaaka- tsika paita pantavaitsiri impanikikira</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">yaanakiri, ponya ikantakiri- tsika piponaaka- tsika paita pantavaitsiri impanikikira</sentence>
+        <sentence lang="prq" normalizationlevel="none">yaanakiri, poña ikantakiri- tsika pipoñaaka- tsika paita pantavaitsiri impanikikira</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">yaanakiri, ponya ikantakiri- tsika piponyaaka- tsika paita pantavaitsiri impanikikira</sentence>
         <sentence lang="es">Se lo llevo, luego le dijo – de donde eres – que cosa haces en la arena.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
 
@@ -3620,6 +3620,9 @@ ikantakiri		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call
 
 tsika		[=tsika+periphrasis@=saik.][WhPrn][=WH (EN: where,, what,, which,, how,, why)]
 
+piponyaaka		[pi-][VPers][2S/A+][--][=pony+INF@VC.][VRoot][=to.come.from.(some_place) (ES: venir.de.algún_lugar)][--][-a][+EP]a[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+-	-[$.]
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
