@@ -3730,6 +3730,7 @@ arima		[=ari][PostPol][=PP][--][=ma][+DUB]::[= (ES: ¿verdad?); perhaps]
         <parsing format="" analysislevel=""/>
     </text>
 +    <text id="1.104">
+    <!-- yamajiri iroñaaka ikantsiri avirokama, <misspelling alt="poña">pona</misspelling> yamajirira iinaki ikantapaajiro, acharini inatsira iyoka. -->
         <sentence lang="prq" normalizationlevel="none">yamajiri iroñaaka ikantsiri avirokama, pona yamajirira iinaki ikantapaajiro, acharini inatsira iyoka.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">yamahiri ironyaaka ikantsiri avirokama, pona yamahirira iinaki ikantapaahiro, acharini inatsira iyoka.</sentence>
         <sentence lang="es">Le trajo ahora diciéndole a ya eres tú, después que lo ha traído: le dijo a su esposa aquel es nuestro nieto ¡eh!</sentence>
@@ -3744,6 +3745,7 @@ ikantsiri		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;
 
 avirokama		[=aviroka+pragm.func@cont.d.TOP.+num@2SG][PrnPers][=you][--][=ma][MODAL][+DUB][=maybe; sb.might.do.sth.]
 
+,	,[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
