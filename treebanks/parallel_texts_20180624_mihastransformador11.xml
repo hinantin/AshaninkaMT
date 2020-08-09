@@ -3656,6 +3656,8 @@ icharinira		[i-][NPers][3m.poss+][--][=charini+gndr@m.+poss@te.+kin@male.ego][NR
 
 inatsi		[i-][VPers][3m.S/A+][--][=n+INF@aantsi][VRoot][=to.be (ES: ser,, estar)][--][-atsi][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]atsi
 
+ikantsiri		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
