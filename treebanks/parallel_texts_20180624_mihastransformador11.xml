@@ -3773,7 +3773,12 @@ iyoka		[=iyoka+gndr@m.+loc@proximal][PrnDem][=DEM (EN: this, this.one; ES: él.a
         <sentence lang="prq" normalizationlevel="none">ari opoña ikisavakaka iroñaaka – okantsiri iina naakiro, pipasavaishitakaro ashinto tema okantsi</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">ari oponya ikisavakaka ironyaaka – okantsiri iina naakiro, pipasavaishitakaro ashinto tema okantsi</sentence>
         <sentence lang="es">Ahí se inicio la rina entre ellos ahora – le dijo la esposa ya vez en vano has castigado a nuestra hija si ella decía.</sentence>
-        <morphology format="ashaninkamorph" analysislevel="fully"/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.106">
