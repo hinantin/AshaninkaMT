@@ -3806,7 +3806,7 @@ okantsi		[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.106">
-        <!-- te <error type="misspelling">oniri|oñiri</error> yantavintsatero oyariri, ikanta, <error type="misspelling">pona|poña</error> ikantsiri, aritaki nosaikimotakimi pivankoki. -->
+        <error_sentence>te <error type="spelling">oniri|oñiri</error> yantavintsatero oyariri, ikanta, <error type="spelling">pona|poña</error> ikantsiri, aritaki nosaikimotakimi pivankoki.</error_sentence>
         <sentence lang="prq" normalizationlevel="none">te oñiri yantavintsatero oyariri, ikanta, poña ikantsiri, aritaki nosaikimotakimi pivankoki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">te onyiri yantavintsatero oyariri, ikanta, ponya ikantsiri, aritaki nosaikimotakimi pivankoki.</sentence>
         <sentence lang="es">No lo ha visto fastidiar su hermano, después dijo el nieto si me voy a quedarme en tu casa</sentence>
