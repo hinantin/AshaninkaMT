@@ -3699,7 +3699,7 @@ arima		[=ari][PostPol][=PP][--][=ma][+DUB]::[= (ES: ¿verdad?); perhaps]
         <sentence lang="prq" normalizationlevel="none">iroñaaka aanakina inaa katonko, ivaitakaro inaa ivakaro jainaite Ikantsi arima.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">ironyaaka aanakina inaa katonko, ivaitakaro inaa ivakaro hainaite Ikantsi arima.</sentence>
         <sentence lang="es">Ahora me llevo mama a la altura, ahí lo comieron a mama’ lo comió el hombre que come carne humana. Le respondió así.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully"/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.104">
