@@ -3778,8 +3778,8 @@ iyoka		[=iyoka+gndr@m.+loc@proximal][PrnDem][=DEM (EN: this, this.one; ES: él.a
     </text>
     <text id="1.106">
         <!-- te <error type="misspelling">oniri|oñiri</error> yantavintsatero oyariri, ikanta, <error type="misspelling">pona|poña</error> ikantsiri, aritaki nosaikimotakimi pivankoki. -->
-        <sentence lang="prq" normalizationlevel="none">te oñiri yantavintsatero oyariri, ikanta, pona ikantsiri, aritaki nosaikimotakimi pivankoki.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">te onyiri yantavintsatero oyariri, ikanta, pona ikantsiri, aritaki nosaikimotakimi pivankoki.</sentence>
+        <sentence lang="prq" normalizationlevel="none">te oñiri yantavintsatero oyariri, ikanta, poña ikantsiri, aritaki nosaikimotakimi pivankoki.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">te onyiri yantavintsatero oyariri, ikanta, ponya ikantsiri, aritaki nosaikimotakimi pivankoki.</sentence>
         <sentence lang="es">No lo ha visto fastidiar su hermano, después dijo el nieto si me voy a quedarme en tu casa</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
 
