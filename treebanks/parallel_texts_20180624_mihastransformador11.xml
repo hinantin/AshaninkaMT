@@ -3662,7 +3662,9 @@ ikantsiri		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;
 
 naaka		[=naaka+pragm.func@cont.d.TOP.+num@1SG.EXCL.][PrnPers][=I (ES: yo; PT: eu; QU: ñuqa)]
 
-picharini		[pi-][NPers][2poss+][--][=charini+gndr@m.+poss@te.+kin@male.ego][NRoot][=grandpa, grandfather, grandparent]
+picharini		[pi-][NPers][2poss+][--][=charini+gndr@m.+poss@te.+kin@male.ego][NRoot][=grandpa, grandfather, grandparent; grandson (ES: nieto)]
+
+nonatsi		[no-][VPers][1SG.S/A+][--][=n+INF@aantsi][VRoot][=to.be (ES: ser,, estar)][--][-atsi][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]atsi
 
 </morphology>
         <parsing format="" analysislevel=""/>
