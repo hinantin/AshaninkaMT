@@ -3601,7 +3601,7 @@ irirori		[=irirori+pragm.func@cntr.add.l.FOC.+num@3SG+gndr@m.][PrnPers][=he (ES:
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.100">
-        <!-- yaanakiri, <misspelling>pona</misspelling> ikantakiri- tsika piponaaka- tsika paita pantavaitsiri impanikikira -->
+        <!-- yaanakiri, <misspelling alt="poña">pona</misspelling> ikantakiri- tsika piponaaka- tsika paita pantavaitsiri impanikikira -->
         <sentence lang="prq" normalizationlevel="none">yaanakiri, poña ikantakiri- tsika piponaaka- tsika paita pantavaitsiri impanikikira</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">yaanakiri, ponya ikantakiri- tsika piponaaka- tsika paita pantavaitsiri impanikikira</sentence>
         <sentence lang="es">Se lo llevo, luego le dijo – de donde eres – que cosa haces en la arena.</sentence>
