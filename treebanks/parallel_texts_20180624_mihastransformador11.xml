@@ -3808,6 +3808,8 @@ aritaki		[=ari][PostPol][=PP][--][-t][+EP][--][-ak][+PRF][--][-i][+REAL]::[=it.i
 
 nosaikimotakimi		[no-][VPers][1SG.S/A+][--][=saik+INF@aantsi.][VRoot][=to.be, to.be.at, to.be.in; to.sit (ES: sentarse); to.live][--][-imo+sem@company][VS][+APPL.PRES][=with.other.person, presence]imo[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=mi][MODAL][+CNT.F][=if-clause.expressing.an.idea/assumption/argument.contrary.to.fact (ES: no.realizado)]
 
+pivankoki		[pi-][NPers][2poss+][--][=panko+gndr@n.m.+inal@tsi.+mrph.phon@LEN:^p→^v.][NRoot][=house, home (ES: casa);| tambo (QU: tampu)][--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)]
+
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
