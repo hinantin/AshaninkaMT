@@ -3639,7 +3639,12 @@ impanikikira		[=iNpaniki+gndr@n.m.][NRoot][=fine.sand, sand.made.of.very.small.g
         <sentence lang="prq" normalizationlevel="none">iroñaaka eentsira iyotakiri icharini, icharinira inatsi ikantsiri .Naaka picharini nonatsi</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">ironyaaka eentsira iyotakiri icharini, icharinira inatsi ikantsiri .Naaka picharini nonatsi</sentence>
         <sentence lang="es">Ahora ese niño lo reconoció a su abuelo, como era su abuelo le dijo – yo soy tu nieto.</sentence>
-        <morphology format="ashaninkamorph" analysislevel="fully"/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.102">
