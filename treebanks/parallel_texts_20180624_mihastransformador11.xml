@@ -3928,7 +3928,7 @@ tsimiriyetatsiri	tsimiriyetatsiri	+?
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.109">
-        <!-- irootaki ivakariri icharini, <misspelling alt="poñaaka">ponaaka</misspelling> arika onparianaji inkani osheki inintsi ijate yookatero nija . -->
+        <error_sentence>irootaki ivakariri icharini, <error type="spelling">ponaaka|poñaaka</error> arika onparianaji inkani osheki inintsi ijate yookatero nija .</error_sentence>
         <sentence lang="prq" normalizationlevel="none">irootaki ivakariri icharini, poñaaka arika onparianaji inkani osheki inintsi ijate yookatero nija .</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">irootaki ivakariri icharini, ponyaaka arika omparianahi inkani osheki inintsi ihate yookatero niha .</sentence>
         <sentence lang="es">Eso lo hacía comer a su nieto, después el nieto cuando llovía mucho le gustaba ir a votar el agua de la lluvia.</sentence>
