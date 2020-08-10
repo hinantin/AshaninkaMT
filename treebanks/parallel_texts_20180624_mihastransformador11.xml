@@ -3866,6 +3866,21 @@ ari		[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es
 
 isaiki		[i-][VPers][3m.S/A+][--][=saik+INF@aantsi.][VRoot][=to.be, to.be.at, to.be.in; to.sit (ES: sentarse); to.live][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
 
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+.	.[$.]
+
+ponya		[=ponya][AdvRoot][=CONN (EN: then, later)]
+
+icharini		[i-][NPers][3m.poss+][--][=charini+gndr@m.+kin@male.ego][NRoot][=grandpa, grandfather, grandparent; grandson (ES: nieto)]
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+haitetsi		[=ha+INF@/EP:t/aantsi.][VRoot][=to.go (ES: ir)][--][-ite][Asp][+CMPL][=completion.of.an.event]ite[--][-ts][+EP]ts[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+isaikashivaitsi		[i-][VPers][3m.S/A+][--][=saik+INF@aantsi.][VRoot][=to.be, to.be.at, to.be.in; to.sit (ES: sentarse); to.live][--][-ashi][+APPL.INT][=purpose,(with.the).intent]ashi[--][-vai][ASP][+DUR][=action/state.endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]vai[--][-ts][+EP]ts[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+.	.[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
