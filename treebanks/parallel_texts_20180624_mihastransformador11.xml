@@ -3947,7 +3947,7 @@ icharini		[i-][NPers][3m.poss+][--][=charini+gndr@m.+kin@male.ego][NRoot][=grand
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.110">
-        <!-- icharini tsimatsi ivintani iyanirimashi: Ikantsi ari ashirivatakiaro kaniri <misspelling alt="nijaa. irotaki">nijaa.irotaki</misspelling> yookatakotsi. -->
+        <error_sentence>icharini tsimatsi ivintani iyanirimashi: Ikantsi ari ashirivatakiaro kaniri <error type="punct">nijaa.irotaki|nijaa. irotaki</error> yookatakotsi.</error_sentence>
         <sentence lang="prq" normalizationlevel="none">icharini tsimatsi ivintani iyanirimashi: Ikantsi ari ashirivatakiaro kaniri nijaa. irotaki yookatakotsi.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">icharini tsimatsi ivintani iyanirimashi: Ikantsi ari ashirivatakiaro kaniri nihaa. irotaki yookatakotsi.</sentence>
         <sentence lang="es">Su abuelo tenia sembrado su yucal; dijo se va ahogar la yuca con el agua, por eso lo que bota el agua.</sentence>
