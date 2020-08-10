@@ -3889,7 +3889,15 @@ isaikashivaitsi		[i-][VPers][3m.S/A+][--][=saik+INF@aantsi.][VRoot][=to.be, to.b
         <sentence lang="prq" normalizationlevel="none">ikintsi sharoo, samani, ikintsi kintsori, sankatsi, tsamiri maaroni ikaratsi pairani tsimiriyetatsiri.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">ikintsi sharoo, samani, ikintsi kintsori, sankatsi, tsamiri maaroni ikaratsi pairani tsimiriyetatsiri.</sentence>
         <sentence lang="es">Picaba (con flechas)cutpes, samano, picaba pucacunga,paujil y todo los animales que existían antes.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ikintsi		[i-][VPers][3m.S/A+][--][=kint+INF@aantsi.][VRoot][=to.pierce.with.arrows, to.shoot.arrows; to.sting (ES: picar)][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+sharo		[=sharo+gndr@m.+sem@wild.anim.][NRoot][=rodent.sp. (añuje, agutí, agouti, cutpe; sci.nm.: dasyprocta.variegata)]
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.109">
