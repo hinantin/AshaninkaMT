@@ -3932,7 +3932,13 @@ tsimiriyetatsiri	tsimiriyetatsiri	+?
         <sentence lang="prq" normalizationlevel="none">irootaki ivakariri icharini, poñaaka arika onparianaji inkani osheki inintsi ijate yookatero nija .</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">irootaki ivakariri icharini, ponyaaka arika omparianahi inkani osheki inintsi ihate yookatero niha .</sentence>
         <sentence lang="es">Eso lo hacía comer a su nieto, después el nieto cuando llovía mucho le gustaba ir a votar el agua de la lluvia.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+irootaki		[=irootaki+pragm.func@cntr.exh.l.FOC.+num@3SG+gndr@n.m.][PrnPers][=that's.why; she.is.the.one.(who)]
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.110">
