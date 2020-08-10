@@ -3852,6 +3852,19 @@ pivankoki		[pi-][NPers][2poss+][--][=panko+gndr@n.m.+inal@tsi.+mrph.phon@LEN:^p�
         <morphology format="ashaninkamorph" analysislevel="fully">
 
 
+paahana		[p-][VPers][2S/A+][--][=a+INF@/DEL:a/gaantsi.+I-Conj@act.v.][VRoot][=to.take (ES: agarrar)][--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=na][+1SG.O/P][=me (ES: me)]
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+aritaki		[=ari][PostPol][=PP][--][-t][+EP][--][-ak][+PRF][--][-i][+REAL]::[=it.is.the.case.(that) (ES: así.es.que)]
+
+nosaikimotakimi		[no-][VPers][1SG.S/A+][--][=saik+INF@aantsi.][VRoot][=to.be, to.be.at, to.be.in; to.sit (ES: sentarse); to.live][--][-imo+sem@company][VS][+APPL.PRES][=with.other.person, presence]imo[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=mi][+2SG.O/P][=you (ES: te)]
+
+,	,[$.]
+
+ari		[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+isaiki		[i-][VPers][3m.S/A+][--][=saik+INF@aantsi.][VRoot][=to.be, to.be.at, to.be.in; to.sit (ES: sentarse); to.live][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
 
 
 </morphology>
