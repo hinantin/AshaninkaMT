@@ -4027,6 +4027,12 @@ ikanta		[=ikanta][AdvRoot][=CONN (EN: meanwhile)]
 
 .	.[$.]
 
+ikanta		[=ikanta][AdvRoot][=CONN (EN: meanwhile)]
+
+kimotataki		[=kimota+INF@/EP:t/aantsi.][VRoot][=to.grow.in.size/volume (ES: crecer)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
