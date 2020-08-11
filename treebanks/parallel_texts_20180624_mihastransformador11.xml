@@ -3971,7 +3971,12 @@ niha		[=niha+gndr@n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
         <sentence lang="prq" normalizationlevel="none">icharini tsimatsi ivintani iyanirimashi: Ikantsi ari ashirivatakiaro kaniri nijaa. irotaki yookatakotsi.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">icharini tsimatsi ivintani iyanirimashi: Ikantsi ari ashirivatakiaro kaniri nihaa. irotaki yookatakotsi.</sentence>
         <sentence lang="es">Su abuelo tenia sembrado su yucal; dijo se va ahogar la yuca con el agua, por eso lo que bota el agua.</sentence>
-        <morphology format="ashaninkamorph" analysislevel="fully"/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.111">
