@@ -4043,6 +4043,8 @@ ishinte	ishinte	+?
 
 eentsirakia		[=eentsi+gndr@n./m.+poss@te.][NRoot][=child (ES: niño)][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)][--][-kia][+EMPH][=EMPH; ASSERT (EN: state.clearly-&amp;-firmly.that.sth.is.true)]
 
+.	.[$.]
+
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
@@ -4050,7 +4052,7 @@ eentsirakia		[=eentsi+gndr@n./m.+poss@te.][NRoot][=child (ES: niño)][--][=ra+mr
         <sentence lang="prq" normalizationlevel="none">kimotatakira, iroñaaka ikantakiro iritsiro tsame iroñaaka ampiyavintajiaro inaa.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">kimotatakira, ironyaaka ikantakiro iritsiro tsame ironyaaka ampiyavintahiaro inaa.</sentence>
         <sentence lang="es">Como ya era grandecito, ahora le dijo a su hermana, vamos ahora a vengarnos de nuestra madre</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully"/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.113">
