@@ -4052,7 +4052,12 @@ eentsirakia		[=eentsi+gndr@n./m.+poss@te.][NRoot][=child (ES: niño)][--][=ra+mr
         <sentence lang="prq" normalizationlevel="none">kimotatakira, iroñaaka ikantakiro iritsiro tsame iroñaaka ampiyavintajiaro inaa.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">kimotatakira, ironyaaka ikantakiro iritsiro tsame ironyaaka ampiyavintahiaro inaa.</sentence>
         <sentence lang="es">Como ya era grandecito, ahora le dijo a su hermana, vamos ahora a vengarnos de nuestra madre</sentence>
-        <morphology format="ashaninkamorph" analysislevel="fully"/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.113">
