@@ -3953,6 +3953,16 @@ inkani		[=inkani+gndr@n.m.][NRoot][=rain (ES: lluvia; PT: chuva; QU: para)]
 
 osheki		[=osheki][NRoot][=many; much; a.lot]
 
+inintsi		[i-][VPers][3m.S/A+][--][=nint+INF@aantsi.+poss@ane:ani.][VRoot][=to.want (ES: gustar); to.love (ES: amar)][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+ihate		[i-][VPers][3m.S/A+][--][=ha+INF@/EP:t/aantsi.][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e
+
+yookatero		[y-][VPers][3m.S/A+][--][=ook][VRoot][=to.abandon; to.leave (ES: dejar); to.throw; to.throw.away/out (ES: botar)][--][-a][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]a[--][-t][+EP]t[--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e[--][=ro][+3n.m.O/P]
+
+niha		[=niha+gndr@n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
+
+.	.[$.]
+
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
