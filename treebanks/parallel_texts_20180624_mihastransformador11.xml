@@ -4009,7 +4009,14 @@ yookatakotsi		[y-][VPers][3m.S/A+][--][=ooka][VRoot][=to.abandon; to.leave (ES: 
         <sentence lang="prq" normalizationlevel="none">yookatsiro, yookatsiro, pona ikanta, ikanta kimotataki iroñaaka viranaka jaka te ishinte eentsirakia.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">yookatsiro, yookatsiro, pona ikanta, ikanta kimotataki ironyaaka viranaka haka te ishinte eentsirakia.</sentence>
         <sentence lang="es">Botaba el agua, botaba Después de un tiempo ya había crecido ahora ya era de este tamaño no duro en crecer ese niño.</sentence>
-        <morphology format="ashaninkamorph" analysislevel="fully"/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+yookatsiro		[y-][VPers][3m.S/A+][--][=ooka][VRoot][=to.abandon; to.leave (ES: dejar); to.throw; to.throw.away/out (ES: botar)][--][-ts+freq@&lt;*.][+EP]ts[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.112">
