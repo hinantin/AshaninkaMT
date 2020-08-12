@@ -4082,7 +4082,12 @@ inaa		[=inaa+gndr@n.m.+inal@tsi.+kin@fe/male.ego][NRoot][=mother (ES: mamá); wi
         <sentence lang="prq" normalizationlevel="none">ikantsiri icharini aani iroñaaka nojatatye katonko, tsika ivaitakaro inaa. Ontsimatye Nompiyavintajiaro.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">ikantsiri icharini aani ironyaaka nohatatye katonko, tsika ivaitakaro inaa. Ontsimatye Nompiyavintahiaro.</sentence>
         <sentence lang="es">Le dijo a su abuelo, abuelo ahora voy a irme hacia la altura, donde se lo comieron a mi mama. Tengo que vengarme de ella.</sentence>
-        <morphology format="ashaninkamorph" analysislevel="fully"/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.114">
