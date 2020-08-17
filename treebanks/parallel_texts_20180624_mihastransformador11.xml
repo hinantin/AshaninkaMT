@@ -4181,11 +4181,20 @@ inaa		[=inaa+gndr@n.m.+inal@tsi.+kin@fe/male.ego][NRoot][=mother (ES: mamá); wi
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.116">
-        <!-- <misspelling alt="iroñaaka">ironaaka</misspelling> jataki itsipatanakaro iritsiro, ikinapaaki yaritajaro ovanko ashoshi. -->
+        <error_sentence>
+            <error type="spelling">ironaaka|iroñaaka</error> jataki itsipatanakaro iritsiro, ikinapaaki yaritajaro ovanko ashoshi.</error_sentence>
         <sentence lang="prq" normalizationlevel="none">iroñaaka jataki itsipatanakaro iritsiro, ikinapaaki yaritajaro ovanko ashoshi.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">ironyaaka hataki itsipatanakaro iritsiro, ikinapaaki yaritaharo ovanko ashoshi.</sentence>
         <sentence lang="es">Ahora sí, se fue acompañada de su hermana, vino por aquí, llego a la casa de la armadillo.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+hataki		[=ha+INF@/EP:t/aantsi.][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.117">
