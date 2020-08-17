@@ -4120,7 +4120,19 @@ nompiyavintahiaro		[no-][VPers][1SG.S/A+][--][N=][IRR+][--][=piyavint][VRoot][=t
         <sentence lang="prq" normalizationlevel="none">ikantsiri icharini airo pijatsi aani ari ivavakiami jainaite, osheki ivanta – Ikantsi airo Ivana.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">ikantsiri icharini airo pihatsi aani ari ivavakiami hainaite, osheki ivanta – Ikantsi airo Ivana.</sentence>
         <sentence lang="es">Su abuelo le dijo no vas a ir nieto, te va a comer, el hombre que come carne humana, le gusta comer –él le respondió no me va a comer.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ikantsiri		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+icharini		[i-][NPers][3m.poss+][--][=charini+gndr@m.+kin@male.ego][NRoot][=grandpa, grandfather, grandparent; grandson (ES: nieto)]
+
+airo		[=airo][Neg][=NEG.IRR]
+
+pihatsi		[pi-][VPers][2S/A+][--][=ha+INF@/EP:t/aantsi.][VRoot][=to.go (ES: ir)][--][-ts+freq@&lt;*.][+EP]ts[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.115">
