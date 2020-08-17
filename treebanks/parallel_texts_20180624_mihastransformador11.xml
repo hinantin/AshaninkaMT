@@ -4162,7 +4162,12 @@ ivana		[i-][VPers][3m.S/A+][--][=v][VRoot][=to.eat (ES: comer)][--][-a+tns@n.fut
         <sentence lang="prq" normalizationlevel="none">irotaki nojatantyari iroñaaka, nompiyakovintajiaro inaa.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">irotaki nohatantyari ironyaaka, nompiyakovintahiaro inaa.</sentence>
         <sentence lang="es">Por eso voy a ir ahora, voy vengarme de mi mama</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.116">
