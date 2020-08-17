@@ -4131,6 +4131,13 @@ airo		[=airo][Neg][=NEG.IRR]
 
 pihatsi		[pi-][VPers][2S/A+][--][=ha+INF@/EP:t/aantsi.][VRoot][=to.go (ES: ir)][--][-ts+freq@&lt;*.][+EP]ts[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
 
+aani		[=aani+gndr@m.+kin@male.ego][NRoot][=grandseer; grandfather (ES: abuelo; PT: avô; IT: nonno); grandson (ES: nieto; PT: neto; IT: nipote)]
+
+ari		[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+ivavakiami		[i-][VPers][3m.S/A+][--][=v][VRoot][=to.eat (ES: comer)][--][-av+dir@object.oriented][ADV][+DIR][=contrary,opposite; RCVG:object.arriving.at.the.location.of.the.subject]av[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-ia+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]ia[--][=mi][+2SG.O/P][=you (ES: te)]
+
+hainaite		[=hainaite][NRoot][=cannibal (ES: caníbal)]
 
 </morphology>
         <parsing format="" analysislevel=""/>
