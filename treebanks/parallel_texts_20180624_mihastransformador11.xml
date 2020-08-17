@@ -4143,6 +4143,18 @@ hainaite		[=hainaite][NRoot][=cannibal (ES: caníbal)]
 
 osheki		[=osheki][NRoot][=many; much; a.lot]
 
+ivanta		[i-][VPers][3m.S/A+][--][=v][VRoot][=to.eat (ES: comer)][--][-ant][Asp][+APPL.REAS][=REAS (EN: in.order.to, so.that; ES: para.que); INST (EN: that.with.which.sb.does.sth., sb's.tool)]ant[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+-	-[$.]
+
+ikantsi		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+airo		[=airo][Neg][=NEG.IRR]
+
+ivana		[i-][VPers][3m.S/A+][--][=v][VRoot][=to.eat (ES: comer)][--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=na][+1SG.O/P][=me (ES: me)]
+
+.	.[$.]
+
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
