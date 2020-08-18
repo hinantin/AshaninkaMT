@@ -4182,9 +4182,9 @@ inaa		[=inaa+gndr@n.m.+inal@tsi.+kin@fe/male.ego][NRoot][=mother (ES: mamá); wi
     </text>
     <text id="1.116">
         <error_sentence>
-            <error type="spelling">ironaaka|iroñaaka</error> jataki itsipatanakaro iritsiro, ikinapaaki yaritajaro ovanko ashoshi.</error_sentence>
-        <sentence lang="prq" normalizationlevel="none">iroñaaka jataki itsipatanakaro iritsiro, ikinapaaki yaritajaro ovanko ashoshi.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">ironyaaka hataki itsipatanakaro iritsiro, ikinapaaki yaritaharo ovanko ashoshi.</sentence>
+            <error type="spelling">ironaaka|iroñaaka</error> jataki itsipatanakaro iritsiro, ikinapaaki <error type="spelling">yaritajaro|yariitajaro</error> ovanko ashoshi.</error_sentence>
+        <sentence lang="prq" normalizationlevel="none">iroñaaka jataki itsipatanakaro iritsiro, ikinapaaki yariitajaro ovanko ashoshi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">ironyaaka hataki itsipatanakaro iritsiro, ikinapaaki yariitaharo ovanko ashoshi.</sentence>
         <sentence lang="es">Ahora sí, se fue acompañada de su hermana, vino por aquí, llego a la casa de la armadillo.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
 
@@ -4200,6 +4200,9 @@ iritsiro		[iri-][NPers][3m.poss+][--][=tsiro+gndr@n.m.+kin@male.ego][NRoot][=sis
 ,	,[$.]
 
 ikinapaaki		[i-][VPers][3m.S/A+][--][=kin+INF@aantsi.][VRoot][=to.go.by.trail, to.go (ES: ir); to.pass (ES: pasar); to.walk, to.come][--][-ap+dir@goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-aak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]aak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+yariitaharo		[y-][VPers][3m.S/A+][--][=arii+INF@/EP:t/aantsi.][VRoot][=to.arrive (ES: llegar); to.visit.with.sb. (ES: visitar.a.algn.)][--][-t][+EP]t[--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ro][+3n.m.O/P]
+
 
 </morphology>
         <parsing format="" analysislevel=""/>
