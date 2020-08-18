@@ -4213,13 +4213,22 @@ ashoshi		[=ashoshi+gndr@m.+sem@NP.person;wild.anim.][NRoot][=armadillo (ES: arma
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.117">
+        <error_sentence>okantsiri – ari pipoki noshari, <error type="spelling">Yakanikiro|Yakanakiro</error> Ikantsi jee ari nopoki – okantsiri tsika pijatika. – ikantsiro nojatye iroñaaka katonko.</error_sentence>
         <sentence lang="prq" normalizationlevel="none">okantsiri – ari pipoki noshari, Yakanikiro Ikantsi jee ari nopoki – okantsiri tsika pijatika. – ikantsiro nojatye iroñaaka katonko.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">okantsiri – ari pipoki noshari, Yakanikiro Ikantsi hee ari nopoki – okantsiri tsika pihatika. – ikantsiro nohatye ironyaaka katonko.</sentence>
         <sentence lang="es">Ella le dijo – has venido nieto – le contesto diciendo sí, yo he venido – ella le dijo dónde vas a ir – le contesto yo voy a ir ahora hacia la altura.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
 
 
+okantsiri		[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
 
+-	-[$.]
+
+ari		[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+noshari		[no-][NPers][1SG.poss+][--][=shari+gndr@m.+kin@fem.ego][NRoot][=grandpa, grandfather; grandson (ES: nieto)]
+
+,	,[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
