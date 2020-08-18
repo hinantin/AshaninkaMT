@@ -4214,8 +4214,8 @@ ashoshi		[=ashoshi+gndr@m.+sem@NP.person;wild.anim.][NRoot][=armadillo (ES: arma
     </text>
     <text id="1.117">
         <error_sentence>okantsiri – ari pipoki noshari, <error type="spelling">Yakanikiro|Yakanakiro</error> Ikantsi jee ari nopoki – okantsiri tsika pijatika. – ikantsiro nojatye iroñaaka katonko.</error_sentence>
-        <sentence lang="prq" normalizationlevel="none">okantsiri – ari pipoki noshari, Yakanikiro Ikantsi jee ari nopoki – okantsiri tsika pijatika. – ikantsiro nojatye iroñaaka katonko.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">okantsiri – ari pipoki noshari, Yakanikiro Ikantsi hee ari nopoki – okantsiri tsika pihatika. – ikantsiro nohatye ironyaaka katonko.</sentence>
+        <sentence lang="prq" normalizationlevel="none">okantsiri – ari pipoki noshari, Yakanakiro Ikantsi jee ari nopoki – okantsiri tsika pijatika. – ikantsiro nojatye iroñaaka katonko.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">okantsiri – ari pipoki noshari, Yakanakiro Ikantsi hee ari nopoki – okantsiri tsika pihatika. – ikantsiro nohatye ironyaaka katonko.</sentence>
         <sentence lang="es">Ella le dijo – has venido nieto – le contesto diciendo sí, yo he venido – ella le dijo dónde vas a ir – le contesto yo voy a ir ahora hacia la altura.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
 
