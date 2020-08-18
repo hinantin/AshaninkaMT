@@ -4216,7 +4216,12 @@ ashoshi		[=ashoshi+gndr@m.+sem@NP.person;wild.anim.][NRoot][=armadillo (ES: arma
         <sentence lang="prq" normalizationlevel="none">okantsiri – ari pipoki noshari, Yakanikiro Ikantsi jee ari nopoki – okantsiri tsika pijatika. – ikantsiro nojatye iroñaaka katonko.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">okantsiri – ari pipoki noshari, Yakanikiro Ikantsi hee ari nopoki – okantsiri tsika pihatika. – ikantsiro nohatye ironyaaka katonko.</sentence>
         <sentence lang="es">Ella le dijo – has venido nieto – le contesto diciendo sí, yo he venido – ella le dijo dónde vas a ir – le contesto yo voy a ir ahora hacia la altura.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.118">
