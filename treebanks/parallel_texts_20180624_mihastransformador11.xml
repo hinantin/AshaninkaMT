@@ -4248,6 +4248,10 @@ pihatika		[pi-][VPers][2S/A+][--][=hat+INF@aantsi.][VRoot][=to.go (ES: ir)][--][
 
 .	.[$.]
 
+ikantsiro		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+nohatye		[no-][VPers][1SG.S/A+][--][=hat+INF@aantsi.][VRoot][=to.go (ES: ir)][--][-ye+allomorph@e.+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]ye
+
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
