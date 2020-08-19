@@ -4265,7 +4265,7 @@ katonko		[=katonko+poss@te.][NRoot][=up.river, upstream (ES: río.arriba)]
         <sentence lang="prq" normalizationlevel="none">okantsiri airo pijatsi noshari, airo parita, ari katyonkoinira ari isaiki jainaite, ari ivavakiami.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">okantsiri airo pihatsi noshari, airo parita, ari katyonkoinira ari isaiki hainaite, ari ivavakiami.</sentence>
         <sentence lang="es">Ella le dijo no vas a ir nieto, no vas a llegar, ahí arribita ahí vive un hombre que come cerne humana, te va a comer.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully"/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.119">
