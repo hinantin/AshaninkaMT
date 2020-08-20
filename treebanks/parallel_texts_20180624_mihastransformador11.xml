@@ -4405,7 +4405,7 @@ hainaite		[=hainaite][NRoot][=cannibal (ES: caníbal)]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.122">
-        <error_sentence>Te <error type="spelling">otsaiki|osaiki</error>, ojatatsi otsamaivaitsi <mispelling alt="oyanirimashiki">oyananirimashiki</mispelling>; <mispelling alt="poña">pona</mispelling> Ikantsi tsame ankaimakotero iroñaaka.</error_sentence>
+        <error_sentence>Te <error type="spelling">otsaiki|osaiki</error>, ojatatsi otsamaivaitsi <error type="spelling">oyananirimashiki|oyanirimashiki</error>; <error type="spelling">pona|poña</error> Ikantsi tsame ankaimakotero iroñaaka.</error_sentence>
         <sentence lang="prq" normalizationlevel="none">Te osaiki, ojatatsi otsamaivaitsi oyanirimashiki; pona Ikantsi tsame ankaimakotero iroñaaka.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Te osaiki, ohatatsi otsamaivaitsi oyanirimashiki; ponya Ikantsi tsame ankaimakotero ironyaaka.</sentence>
         <sentence lang="es">Ella no estaba, se fue a lampear su yucal; después dijo vamos a llamarlo ahora.</sentence>
