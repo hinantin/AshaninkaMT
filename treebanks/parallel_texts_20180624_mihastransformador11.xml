@@ -4329,6 +4329,11 @@ inaa		[=inaa+gndr@n.m.+inal@tsi.+kin@fe/male.ego][NRoot][=mother (ES: mamá); wi
 
 .	.[$.]
 
+oshekiteni		[=osheki][NRoot][=many; much; a.lot][--][-te+~{R.DEL:i}{N:/'animate,plural':ite/}][+CL:anim.PL][=animate,plural]te[--][-ni][DEGR][+AUG][=AUG (EN: too; ES: demasiado); INTNS]
+
+ikanta		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
