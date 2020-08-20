@@ -4376,7 +4376,14 @@ nonkantiri		[no-][VPers][1SG.S/A+][--][N=][IRR+][--][=kant+INF@aantsi.][VRoot][=
         <sentence lang="prq" normalizationlevel="none">Ari imaapaki, okitaitamanaki jatsi iroñaaka, iñapakiro ivanko jainaite.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ari imaapaki, okitaitamanaki hatsi ironyaaka, inyapakiro ivanko hainaite.</sentence>
         <sentence lang="es">Ahí se quedo a dormir esa noche, al día siguiente se fue ahora, ahí vio la casa del hombre que camia la carne humana.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ari		[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.122">
