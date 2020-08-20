@@ -4343,10 +4343,17 @@ intsonkatavakimi		[i-][VPers][3m.S/A+][--][N=][IRR+][--][=tsonk+INF@antsi.][VRoo
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.120">
+        <error_sentence>
+            <error type="spelling">Yakanikiro|Yakanakiro</error> ikantsiro airo. Noyotakiro iroñaaka tsika nonkantiri.</error_sentence>
         <sentence lang="prq" normalizationlevel="none">Yakanikiro ikantsiro airo. Noyotakiro iroñaaka tsika nonkantiri.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Yakanikiro ikantsiro airo. Noyotakiro ironyaaka tsika nonkantiri.</sentence>
         <sentence lang="es">Él le respondió diciendo. Ya se ahora como hacerlo. (La venganza)</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.121">
