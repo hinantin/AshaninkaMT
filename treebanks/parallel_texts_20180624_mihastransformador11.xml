@@ -4381,7 +4381,19 @@ nonkantiri		[no-][VPers][1SG.S/A+][--][N=][IRR+][--][=kant+INF@aantsi.][VRoot][=
 
 ari		[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
 
+imaapaki		[i-][VPers][3m.S/A+][--][=ma+INF@/DEL:a/gaantsi;/DEL:a/antsi.][VRoot][=to.sleep (ES: dormir)][--][-ap+dir@goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
 
+,	,[$.]
+
+okitaitamanaki		[o-][VPers][3n.m.S/A+][--][=kitai+INF@/EP:t/aantsi.][VRoot][=to.be.morning; to.dawn, to.be.light; to.get.up.early][--][-t][+EP]t[--][-aman][ADV][+TIME.MODAL][=early]aman[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+hatsi		[=ha+INF@/EP:t/aantsi.][VRoot][=to.go (ES: ir)][--][-ts+freq@&lt;*.][+EP]ts[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+,	,[$.]
+
+inyapakiro		[i-][VPers][3m.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-ap+dir@goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+tns@n.fut.+C.I@act.v.+RSS@00][MODALITY][+REAL]i[--][=ro][+3n.m.O/P]
 
 </morphology>
         <parsing format="" analysislevel=""/>
