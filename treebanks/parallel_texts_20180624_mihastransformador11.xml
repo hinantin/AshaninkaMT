@@ -4295,7 +4295,7 @@ katyonkoinira		[=katyonko+poss@te.][NRoot][=up.river, upstream (ES: río.arriba)
     <text id="1.119">
         <sentence lang="prq" normalizationlevel="none">ah, irotaki nojatantyari, nonintsi nompiyavintajiaro inaa. Tsika pinkini pimpiyakovintero inaa, oshekiteni ikanta ari intsonkatavakimi.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">ah, irotaki nohatantyari, nonintsi nompiyavintahiaro inaa. Tsika pinkini pimpiyakovintero inaa, oshekiteni ikanta ari intsonkatavakimi.</sentence>
-        <sentence lang="es">Si, por eso voy a ir, quiero vengarme de mi madre. Como quieres vengarte de tu madre, si ellos son bastante te va aca  bar.</sentence>
+        <sentence lang="es">Si, por eso voy a ir, quiero vengarme de mi madre. Como quieres vengarte de tu madre, si ellos son bastante te va acabar.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
 
 
@@ -4311,6 +4311,7 @@ nohatantyari		[no-][VPers][1SG.S/A+][--][=ha+INF@/EP:t/aantsi.][VRoot][=to.go (E
 
 nonintsi		[no-][VPers][1SG.S/A+][--][=nint+INF@aantsi.+poss@ane:ani.][VRoot][=to.want (ES: gustar); to.love (ES: amar)][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
 
+nompiyavintahiaro		[no-][VPers][1SG.S/A+][--][N=][IRR+][--][=piyavint][VRoot][=to.defend (ES: defender)][--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-ia+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR.RFL]ia[--][=ro][+3n.m.O/P]
 
 
 </morphology>
