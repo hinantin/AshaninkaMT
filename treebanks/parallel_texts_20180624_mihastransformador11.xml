@@ -4333,6 +4333,11 @@ oshekiteni		[=osheki][NRoot][=many; much; a.lot][--][-te+~{R.DEL:i}{N:/'animate,
 
 ikanta		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
 
+ari		[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+intsonkatavakimi		[i-][VPers][3m.S/A+][--][N=][IRR+][--][=tsonk+INF@antsi.][VRoot][=to.finish.(off) (ES: terminar)][--][-a][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]a[--][-t][+EP]t[--][-av+dir@object.oriented][ADV][+DIR][=contrary,opposite; RCVG:object.arriving.at.the.location.of.the.subject]av[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=mi][+2SG.O/P][=you (ES: te)]
+
+.	.[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
