@@ -4296,7 +4296,14 @@ katyonkoinira		[=katyonko+poss@te.][NRoot][=up.river, upstream (ES: río.arriba)
         <sentence lang="prq" normalizationlevel="none">ah, irotaki nojatantyari, nonintsi nompiyavintajiaro inaa. Tsika pinkini pimpiyakovintero inaa, oshekiteni ikanta ari intsonkatavakimi.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">ah, irotaki nohatantyari, nonintsi nompiyavintahiaro inaa. Tsika pinkini pimpiyakovintero inaa, oshekiteni ikanta ari intsonkatavakimi.</sentence>
         <sentence lang="es">Si, por eso voy a ir, quiero vengarme de mi madre. Como quieres vengarte de tu madre, si ellos son bastante te va aca  bar.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+,	,[$.]
+
+irotaki		[=irotaki+pragm.func@cntr.exh.l.FOC.+num@3SG+gndr@n.m.][PrnPers][=that's.why; she.is.the.one.(who)]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.120">
