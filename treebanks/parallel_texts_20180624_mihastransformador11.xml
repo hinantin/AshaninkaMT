@@ -4420,6 +4420,9 @@ osaiki		[o-][VPers][3n.m.S/A+][--][=saik+INF@aantsi.][VRoot][=to.be, to.be.at, t
 
 ohatatsi		[o-][VPers][3n.m.S/A+][--][=ha+INF@/EP:t/aantsi.][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-atsi][Asp][+STAT.IPRF][=ongoing.&amp;.non-evolving.state]atsi
 
+otsamaivaitsi		[o-][VPers][3n.m.S/A+][--][=tsamai+INF@/EP:t/aantsi.][VRoot][=to.cut.grass, to.clean.a.sown_field/road.with.a.shovel (ES: lampear/palear.el_terreno)][--][-vai][ASP][+DUR][=action/state.endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]vai[--][-ts+freq@&lt;*.][+EP]ts[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+oyanirimashiki		[o-][NPers][3n.m.poss+][--][=kaniri+~{N:/'yucca':kanir/}{nposs:i}+gndr@n.m.+voc@N.+mrph.phon@LEN:^k→^y;LEN:^k→^v.][NRoot][=(sweet).manioc, (sweet).yucca (pronunc.: [ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)][--][-mashi][+CL:vast.space.with.vegetation][=vast.space.with.vegetation;wide,flat.space][--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)]
 
 </morphology>
         <parsing format="" analysislevel=""/>
