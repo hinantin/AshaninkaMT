@@ -4409,7 +4409,13 @@ hainaite		[=hainaite][NRoot][=cannibal (ES: caníbal)]
         <sentence lang="prq" normalizationlevel="none">Te osaiki, ojatatsi otsamaivaitsi oyanirimashiki; pona Ikantsi tsame ankaimakotero iroñaaka.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Te osaiki, ohatatsi otsamaivaitsi oyanirimashiki; ponya Ikantsi tsame ankaimakotero ironyaaka.</sentence>
         <sentence lang="es">Ella no estaba, se fue a lampear su yucal; después dijo vamos a llamarlo ahora.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+te		[=te+tns@future.neg.][Neg][=NEG.REAL]
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.123">
