@@ -4428,15 +4428,34 @@ oyanirimashiki		[o-][NPers][3n.m.poss+][--][=kaniri+~{N:/'yucca':kanir/}{nposs:i
 
 ponya		[=ponya][AdvRoot][=CONN (EN: then, later)]
 
+ikantsi		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+tsame		[=tsame+prop@standalone.][VRoot][=COME.ON, LET'S.GO (ES: vamos)]
+
+ankaimakotero		[a-][VPers][1PL.S/A+][--][N=][IRR+][--][=kaim+INF@aantsi.][VRoot][=to.scream (ES: gritar); to.call (ES: llamar)][--][-ako][VS][+APPL.GEN][=GEN (EN: with.reference.to.sth., about.sth.); INDR (EN: action.affects.sth.in.an.indirect.manner)]ako[--][-t][+EP]t[--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e[--][=ro][+3n.m.O/P]
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+.	.[$.]
+
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.123">
-        <!-- Ikaimaki iroñaaka, ishaa naakave, ishaa naakave - ikimatsiro akaki – joo…….<mispelling alt="aviro">aviroo</mispelling> tsika pitsimika. -->
+        <error_sentence>Ikaimaki iroñaaka, ishaa naakave, ishaa naakave - ikimatsiro akaki – joo…….<error type="spelling">aviroo|aviro</error> tsika pitsimika.</error_sentence>
         <sentence lang="prq">Ikaimaki iroñaaka, ishaa naakave, ishaa naakave - ikimatsiro akaki – joo…….aviro tsika pitsimika.</sentence>
         <sentence lang="prq">Ikaimaki ironyaaka, ishaa naakave, ishaa naakave - ikimatsiro akaki – hoo…….aviro tsika pitsimika.</sentence>
         <sentence lang="es">Ahora le llamó, abuelaaaa… yo sooooy, abuelaaaa, yo sooooy – luego escucharon contestar – joooo – eres tú, quien eres.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ikaimaki		[i-][VPers][3m.S/A+][--][=kaim+INF@aantsi.][VRoot][=to.scream (ES: gritar); to.call (ES: llamar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+,	,[$.]
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.124">
