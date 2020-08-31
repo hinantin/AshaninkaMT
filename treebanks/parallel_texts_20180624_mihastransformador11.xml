@@ -4443,8 +4443,8 @@ ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
     </text>
     <text id="1.123">
         <error_sentence>Ikaimaki iroñaaka, ishaa naakave, ishaa naakave - ikimatsiro akaki – joo…….<error type="spelling">aviroo|aviro</error> tsika pitsimika.</error_sentence>
-        <sentence lang="prq">Ikaimaki iroñaaka, ishaa naakave, ishaa naakave - ikimatsiro akaki – joo…….aviro tsika pitsimika.</sentence>
-        <sentence lang="prq">Ikaimaki ironyaaka, ishaa naakave, ishaa naakave - ikimatsiro akaki – hoo…….aviro tsika pitsimika.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Ikaimaki iroñaaka, ishaa naakave, ishaa naakave - ikimatsiro akaki – joo…….aviro tsika pitsimika.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikaimaki ironyaaka, ishaa naakave, ishaa naakave - ikimatsiro akaki – hoo…….aviro tsika pitsimika.</sentence>
         <sentence lang="es">Ahora le llamó, abuelaaaa… yo sooooy, abuelaaaa, yo sooooy – luego escucharon contestar – joooo – eres tú, quien eres.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
 
