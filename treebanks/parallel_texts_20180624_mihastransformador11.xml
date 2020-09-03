@@ -4366,8 +4366,11 @@ ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
 tsika		[=tsika+periphrasis@=saik.][WhPrn][=WH (EN: where,, what,, which,, how,, why)]
 
 nonkantiri		[no-][VPers][1SG.S/A+][--][N=][IRR+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
-
+          
 .	.[$.]
+
+tsika		[=tsika+periphrasis@=saik.][WhPrn][=WH (EN: where,, what,, which,, how,, why)]
+
 
 </morphology>
         <parsing format="" analysislevel=""/>
@@ -4475,6 +4478,19 @@ akaki		[=ak+INF@aantsi.][VRoot][=to.answer.back (ES: contestar, responder)][--][
 
 hoo		[=hoo+s.redup.word@3X.][Ideo:PRQ][=animal.cry.made.by.a.howler.monkey]
 
+…	…[$.]
+
+…	…[$.]
+
+.	.[$.]
+
+aviro		[=aviro+pragm.func@cont.d.TOP.+num@2SG][PrnPers][=you (ES: tú)]
+
+tsika		[=tsika+periphrasis@=saik.][WhPrn][=WH (EN: where,, what,, which,, how,, why)]
+
+pitsimika		[pi-][VPers][2S/A+][--][=tsim][VRoot][=POSSESS (EN: to.have; ES: tener); EXIST (EN: to.be.born, to.exist; ES: nacer)][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ka][+Q]
+
+.	.[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
