@@ -4499,7 +4499,20 @@ pitsimika		[pi-][VPers][2S/A+][--][=tsim][VRoot][=POSSESS (EN: to.have; ES: tene
         <sentence lang="prq" normalizationlevel="none">Naaka, opokapaki iroñaaka irisarora, irinirora jainaiti oñapakiri okantsiri ¡Oh! Ari pipoki pisaikavaitapajityami.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Naaka, opokapaki ironyaaka irisarora, irinirora hainaiti onyapakiri okantsiri ¡Oh! Ari pipoki pisaikavaitapahityami.</sentence>
         <sentence lang="es">Yo soy, ahora vino su abuela, la mamá del hombre que come carne humana, ella le vio y le dijo ¡oh! Has venido tome asiento.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+naaka		[=naaka+pragm.func@cont.d.TOP.+num@1SG.EXCL.][PrnPers][=I (ES: yo; PT: eu; QU: ñuqa)]
+
+,	,[$.]
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+,	,[$.]
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.125">
