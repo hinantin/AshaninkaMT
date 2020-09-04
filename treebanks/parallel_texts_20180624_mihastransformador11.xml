@@ -5048,14 +5048,45 @@ sherori		[=sherori+s.redup.word@][Ideo:PRQ][=sliding.down.the_tree (slowly)]
         <sentence lang="prq" normalizationlevel="none">Iroñaaka iranirira pokaji janta, imontsavajari, ikantanakiri Afuu, kintero pinii ipianajiri iraniri.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ironyaaka iranirira pokahi hanta, imontsavahari, ikantanakiri Afuu, kintero pinii ipianahiri iraniri.</sentence>
         <sentence lang="es">Ahora su cuñado ya estaba viniendo, se encontraron en medio camino ahí le dijo Afuu panteonero serás le convirtió a su cuñado.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+iranirira		[ir-][NPers][3m.poss+][--][=ani+gndr@m.+poss@ri.+kin@male.ego][NRoot][=brother.in.law (ES: cuñado)][--][-ri][Gen][+aln.poss.]ri[--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+pokahi		[=pok+INF@aantsi;VC.][VRoot][=to.come (ES: venir), to.arrive][--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+hanta		[=hanta+loc@distal.b.][PrnDem][=DEM.ADV.: there (ES: allí.(está)), far.from.the.speaker (bounded; ES: allá, allí)]
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.192">
         <sentence lang="prq" normalizationlevel="none">Ari pinkantaitatyeyani pinkiyiro kipatsi. Avirokataki kiyarontakina.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ari pinkantaitatyeyani pinkiyiro kipatsi. Avirokataki kiyarontakina.</sentence>
         <sentence lang="es">Asi siempre vas a ser escarbando la tierra. Eres tu quien has escarbado para mí.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ari		[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+pinkantaitatyeyani		[pi-][VPers][2S/A+][--][N=][IRR+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-ai][+IMP.P][=3(PL)m.S/A+.is.unknown/unspecified-and-focus.on.+O/P]ai[--][-t][+EP]t[--][-aty][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]aty[--][-eya+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR.RFL]eya[--][=ni+tns@fut.][NS][+REL][=IRR]
+
+pinkiyiro		[pi-][VPers][2S/A+][--][N=][IRR+][--][=kiy+INF@aantsi.][VRoot][=to.dig (ES: escarbar)][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+kipatsi		[=kipatsi+gndr@n.m.+poss@te:ti.+mrph.phon@LEN:^k→^Ø.][NRoot][=ground, earth (ES: tierra; PT: terra; QU: allpa);| mud;| land]
+
+.	.[$.]
+
+avirokataki		[=avirokataki+pragm.func@cntr.exh.l.FOC.+num@2SG][PrnPers][=you.are.the.one.who]
+
+kiyarontakina	kiyarontakina	+?
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.193">
@@ -5099,7 +5130,7 @@ ari		[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es
 
 okaratapaki		[o-][VPers][3n.m.S/A+][--][=kara+INF@/EP:t/aantsi.][VRoot][=to.contain, to.finish][--][-t][+EP]t[--][-ap+dir@goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
 
-
+kinkitsarentsi		[=kinkitsa+INF@/EP:t/aantsi.][VRoot][=to.talk, to.tell (ES: contar, hablar, predicar)][--][-re+gndr@m.][NS][+NMZ]re[--][-ntsi+poss@alien.+syl@&gt;poly.][Gen][+nposs]ntsi
 
 </morphology>
         <parsing format="" analysislevel=""/>
