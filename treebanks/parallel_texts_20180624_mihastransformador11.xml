@@ -4584,7 +4584,17 @@ haikiini		[=haiki+INF@/EP:t/aantsi.][VRoot][=to.fill.sth. (ES: llenar)][--][-i+a
 
 inkini		[i-][NPers][3m.poss+][--][=inki+gndr@n.m.+poss@ne:ni.][NRoot][=peanut, groundnut ([ˈɪn.kɪ]; ES: maní; botany.nm.: arachis.hipogagea)][--][-ni+syl@di.][Gen][+aln.poss.]ni
 
+okantsi		[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
 
+noshari		[no-][NPers][1SG.poss+][--][=shari+gndr@m.+kin@fem.ego][NRoot][=grandpa, grandfather; grandson (ES: nieto)]
+
+pakotaitenaro		[=p+INF@aantsi.][VRoot][=to.give (ES: dar); to.feed (ES: alimentar)][--][-ako][VS][+APPL.GEN][=GEN (EN: with.reference.to.sth., about.sth.); INDR (EN: action.affects.sth.in.an.indirect.manner)]ako[--][-t][+EP]t[--][-ai][+IMP.P][=3(PL)m.S/A+.is.unknown/unspecified-and-focus.on.+O/P]ai[--][-t][+EP]t[--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e[--][=na][+1SG.O/P][=me (ES: me)][--][=ro][+3n.m.O/P]
+
+ninkini		[n-][NPers][1SG.poss+][--][=inki+gndr@n.m.+poss@ne:ni.][NRoot][=peanut, groundnut ([ˈɪn.kɪ]; ES: maní; botany.nm.: arachis.hipogagea)][--][-ni+syl@di.][Gen][+aln.poss.]ni
+
+henokinta		[=henoki][NRoot][=up, top (ES: arriba, alto); sky; (ES: el.padre.sol)][--][=nta+mrph.cath@distal.b.][AS][+DEM.NOM][=DEM (EN: there, far.from.the.speaker (bounded))]
+
+.	.[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
