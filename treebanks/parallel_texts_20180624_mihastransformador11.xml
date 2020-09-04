@@ -4570,7 +4570,14 @@ ninkini		[n-][NPers][1SG.poss+][--][=inki+gndr@n.m.+poss@ne:ni.][NRoot][=peanut,
         <sentence lang="prq" normalizationlevel="none">tsimatsi oyantsiri antaro jaikini inkini okantsi noshari pakotaitenaro ninkini osaiki jenokinta.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">tsimatsi oyantsiri antaro haikini inkini okantsi noshari pakotaitenaro ninkini osaiki henokinta.</sentence>
         <sentence lang="es">Tenía una canasta bien grande estaba bien lleno de su maní. Nieto tráigamelo mi maní que esta arriba.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+tsimatsi		[=tsimatsi][VRoot][=EXIST (EN: there.is/are; ES: hay,, haber); POSSESS]
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.127">
