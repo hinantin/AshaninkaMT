@@ -4567,8 +4567,9 @@ ninkini		[n-][NPers][1SG.poss+][--][=inki+gndr@n.m.+poss@ne:ni.][NRoot][=peanut,
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.126">
-        <sentence lang="prq" normalizationlevel="none">tsimatsi oyantsiri antaro jaikini inkini okantsi noshari pakotaitenaro ninkini osaiki jenokinta.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">tsimatsi oyantsiri antaro haikini inkini okantsi noshari pakotaitenaro ninkini osaiki henokinta.</sentence>
+        <error_sentence>tsimatsi oyantsiri antaro <error type="spelling">jaikini|jaikiini</error> inkini okantsi noshari pakotaitenaro ninkini osaiki jenokinta.</error_sentence>
+        <sentence lang="prq" normalizationlevel="none">tsimatsi oyantsiri antaro jaikiini inkini okantsi noshari pakotaitenaro ninkini osaiki jenokinta.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">tsimatsi oyantsiri antaro haikiini inkini okantsi noshari pakotaitenaro ninkini osaiki henokinta.</sentence>
         <sentence lang="es">Tenía una canasta bien grande estaba bien lleno de su maní. Nieto tráigamelo mi maní que esta arriba.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
 
@@ -4578,6 +4579,12 @@ tsimatsi		[=tsimatsi][VRoot][=EXIST (EN: there.is/are; ES: hay,, haber); POSSESS
 oyantsiri		[o-][NPers][3n.m.poss+][--][=kantsiri+gndr@n.m.+mrph.phon@LEN:^k→^y.][NRoot][=basket (ES: canasta)]
 
 antaro		[=antaro+gndr@n.m.+poss@nposs.adj.][NRoot][=big; mature]
+
+haikiini		[=haiki+INF@/EP:t/aantsi.][VRoot][=to.fill.sth. (ES: llenar)][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ni][+3SG.O/P][=it/him/her (ES: le/lo/la)]
+
+inkini		[i-][NPers][3m.poss+][--][=inki+gndr@n.m.+poss@ne:ni.][NRoot][=peanut, groundnut ([ˈɪn.kɪ]; ES: maní; botany.nm.: arachis.hipogagea)][--][-ni+syl@di.][Gen][+aln.poss.]ni
+
+
 
 </morphology>
         <parsing format="" analysislevel=""/>
