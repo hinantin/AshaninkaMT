@@ -5085,6 +5085,22 @@ ironyaaka	[=ironyaaka][AdvRoot][=now (ES: ahora)]
 
 irori	[=irori+cntr.add.l.+foc.][PrnPers][+3SG.n.m.][=she (ES: ella)]
 
+kamaaritaki		[=kamaari+gndr@m.+poss@te.+mrph.phon@LEN:^k→^y;LEN:^k→^Ø.][NRoot][=deamon, demonic.creature/spirit, evil.spirit; shaman][^VBZ][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+aari		[a-][NPers][1PL.poss+][--][=ari+gndr@m.+kin@fem.ego+voc@N.][NRoot][=brother (ES: hermano.de.mujer)]
+
+ipianahiri		[i-][VPers][3m.S/A+][--][=py+INF@aantsi.][VRoot][=to.convert, to.transform][--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+iraniri		[ir-][NPers][3m.poss+][--][=ani+gndr@m.+poss@ri.+kin@male.ego][NRoot][=brother.in.law (ES: cuñado)][--][-ri][Gen][+aln.poss.]ri
+
+,	,[$.]
+
+ari		[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+okaratapaki		[o-][VPers][3n.m.S/A+][--][=kara+INF@/EP:t/aantsi.][VRoot][=to.contain, to.finish][--][-t][+EP]t[--][-ap+dir@goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+
+
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
