@@ -4508,10 +4508,14 @@ naaka		[=naaka+pragm.func@cont.d.TOP.+num@1SG.EXCL.][PrnPers][=I (ES: yo; PT: eu
 
 ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
 
-,	,[$.]
 
 irisarora		[iri-][NPers][3m.poss+][--][=saro+gndr@n.m.+kin@fe/male.ego][NRoot][=grandmother (ES: abuela)][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
 
+,	,[$.]
+
+irinirora		[iri-][NPers][3m.poss+][--][=niro+gndr@n.m.+kin@fe/male.ego+voc@1SG:2SG:3SG.][NRoot][=mother (ES: mamá)][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+hainaiti		[=hainaiti][NRoot][=cannibal (ES: caníbal)]
 
 
 </morphology>
