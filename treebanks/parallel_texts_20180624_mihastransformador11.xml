@@ -5060,6 +5060,12 @@ ikiyakiro		[i-][VPers][3m.S/A+][--][=kiy+INF@aantsi.][VRoot][=to.dig (ES: escarb
 
 oimi		[o-][NPers][3n.m.poss+][--][=imi+gndr@m.+voc.+kin@fem.ego][NRoot][=husband (ES: esposo)]
 
+otyankakiri		[o-][VPers][3n.m.S/A+][--][=tyank+INF@antsi.][VRoot][=to.send (ES: mandar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+omoronakiki		[o-][NPers][3n.m.poss+][--][=omorona+gndr@n.m.][NRoot][=long.hole (ES: hueco.largo)][--][-ki][+CL:human.populated][=place.populated.by.humans][--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)]
+
+,	,[$.]
+
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
