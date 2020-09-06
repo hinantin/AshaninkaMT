@@ -4824,7 +4824,28 @@ ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
         <sentence lang="prq" normalizationlevel="none">Poña ipiayetakiro oporianikipatsaini, akopatsaini iyanipatsaini moyakotaki iroñaaka.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ponya ipiayetakiro oporianikipatsaini, akopatsaini iyanipatsaini moyakotaki ironyaaka.</sentence>
         <sentence lang="es">Después le convirtió en muslitos, manitos pequeños hirvió ahora (el cuerpo de la abuela).</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ponya		[=ponya][AdvRoot][=CONN (EN: then, later)]
+
+ipiayetakiro		[i-][VPers][3m.S/A+][--][=pi][VRoot][=to.convert, to.transform][--][-a][+EP]a[--][-ye][+DIST][=PL.S/A+.who.are.separated.into.groups.in.≠.locations]ye[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+oporianikipatsaini		[o-][NPers][3n.m.poss+][--][=pori+gndr@n.m.+inal@tsi.][NRoot][=leg (ES: pierna); thigh][--][-aniki][+DIM][--][-patsa][=small.part][--][-ini][+DIM]
+
+,	,[$.]
+
+akopatsaini		[=ako+gndr@n.m.+inal@tsi.+sem@b.p.][NRoot][=hand (ES: mano; PT: mão)][--][-patsa][=small.part][--][-ini][+DIM]
+
+iyanipatsaini		[=iyani+gndr@m.+poss@nposs.adj.][NRoot][=small][--][-patsa][=small.part][--][-ini][+DIM]
+
+moyakotaki		[=moy+INF@aantsi.][VRoot][=to.boil (ES: hervir)][--][-ako][+VERB.CL:vessel][=vessel; recipient, container; cavity; hand]ako[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.135">
