@@ -4627,7 +4627,14 @@ yantaite		[y-][VPers][3m.S/A+][--][N=][IRR+][--][=atai+INF@/EP:t/antsi.][VRoot][
         <sentence lang="prq" normalizationlevel="none">kaantsimaintatya moyatsi nija oyovitsiteki antaroite akantsiri pairani ayovitsite.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">kaantsimaintatya moyatsi niha oyovitsiteki antaroite akantsiri pairani ayovitsite.</sentence>
         <sentence lang="es">Sin embargo estaba hirviendo su agua con una olla grande, lo que decimos nosotros antes nuestra olla.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+kaantsimaintatya		[=kaantsimaintatya][ConnRoot][=but (ES: pero)]
+
+moyatsi		[=moy+INF@aantsi.][VRoot][=to.boil (ES: hervir)][--][-atsi][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]atsi
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.129">
