@@ -4725,14 +4725,47 @@ ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
         <sentence lang="prq" normalizationlevel="none">Okantsi nakatya ataitatsini naavakita inki pivapaakiari.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Okantsi nakatya ataitatsini naavakita inki pivapaakiari.</sentence>
         <sentence lang="es">- Dijo mejor yo voy a subir se subió voy a sacar maní para que comas.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+okantsi		[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+nakatya		[=naka+pragm.func@cont.d.TOP.+num@1SG.EXCL.][PrnPers][=I (ES: yo; PT: eu; QU: ñuqa)][--][-tya][+EMPH]
+
+ataitatsini		[=atai+INF@/EP:t/(a)antsi.][VRoot][=to.go.up (ES: subir); to.climb (ES: trepar)][--][-t][+EP]t[--][-atsi][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]atsi[--][=ni][+3SG.O/P][=it/him/her (ES: le/lo/la)]
+
+naavakita		[n-][VPers][1SG.S/A+][--][=a+INF@/DEL:a/gaantsi.+I-Conj@act.v.][VRoot][=to.take (ES: agarrar)][--][-av+dir@object.oriented][ADV][+DIR][=contrary,opposite; RCVG:object.arriving.at.the.location.of.the.subject]av[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ta][MODAL][+OPT_SUBJ][CONTG: actn.that.depends.on.sth.that.may.or.may.not.happen; HYPOTH: actn.that.is.possible.&amp;.imagined.rather.than.real.&amp;.true]
+
+inki		[=inki+gndr@n.m.+poss@ne:ni.][NRoot][=peanut, groundnut ([ˈɪn.kɪ]; ES: maní; botany.nm.: arachis.hipogagea)]
+
+pivapaakiari		[pi-][VPers][2S/A+][--][=v][VRoot][=to.eat (ES: comer)][--][-ap+dir@goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-a][+EP]a[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-ia+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]ia[--][=ri][+3m.O/P]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.132">
         <sentence lang="prq" normalizationlevel="none">Okantya okovi ompavakiri inkinira ivapakiata iyenkatanakityiri anintaiyari oyari.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Okantya okovi ompavakiri inkinira ivapakiata iyenkatanakityiri anintaiyari oyari.</sentence>
         <sentence lang="es">Ella quería darle de comer su mani para que se engorde y tenga grasa y así comerlo más sabroso.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+okantya		[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-ya+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]ya
+
+okovi		[o-][VPers][3n.m.S/A+][--][=kov+INF@antsi.][VRoot][=to.want (ES: querer)][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+ompavakiri		[o-][VPers][3n.m.S/A+][--][N=][IRR+][--][=p+INF@aantsi.][VRoot][=to.give (ES: dar); to.feed (ES: alimentar)][--][-av+dir@object.oriented][ADV][+DIR][=contrary,opposite; RCVG:object.arriving.at.the.location.of.the.subject]av[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+inkinira		[i-][NPers][3m.poss+][--][=inki+gndr@n.m.+poss@ne:ni.][NRoot][=peanut, groundnut ([ˈɪn.kɪ]; ES: maní; botany.nm.: arachis.hipogagea)][--][-ni+syl@di.][Gen][+aln.poss.]ni[--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+ivapakiata		[i-][VPers][3m.S/A+][--][=v][VRoot][=to.eat (ES: comer)][--][-ap+dir@goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-ia+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]ia[--][=ta][MODAL][+OPT_SUBJ][CONTG: actn.that.depends.on.sth.that.may.or.may.not.happen; HYPOTH: actn.that.is.possible.&amp;.imagined.rather.than.real.&amp;.true]
+
+iyenkatanakityiri	iyenkatanakityiri	+?
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.133">
