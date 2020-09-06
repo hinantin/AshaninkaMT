@@ -4774,10 +4774,28 @@ oyari		[=o+~{V:/'to.eat':ov/}{L.DEL:v}+INF@aantsi.][VRoot][=to.eat (ES: comer)][
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.133">
+        <error_sentence/>
         <sentence lang="prq" normalizationlevel="none">Iroñaaka ataitanaki ishara iroo oviravitanaka jeñokini itsinkakotsimaintaro antaimintokira tsinik okantanaka piinkapaki omoyakira nijaa ishara, pinkapaki iroñaaka.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ironyaaka ataitanaki ishara iroo oviravitanaka henyokini itsinkakotsimaintaro antaimintokira tsinik okantanaka piinkapaki omoyakira nihaa ishara, pinkapaki ironyaaka.</sentence>
         <sentence lang="es">Ahora cuando subió la abuela ya estaba a media altura lo empujó de su escalera tsinik se ladeo y se cayó donde estaba hirviendo el agua la abuela se hundió ahora.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+ataitanaki		[=atai+INF@/EP:t/(a)antsi.][VRoot][=to.go.up (ES: subir); to.climb (ES: trepar)][--][-t][+EP]t[--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+ishara		[=isha+gndr@n.m.+voc.+kin@fe/male.ego][NRoot][=grandma, grandmother][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+iroo		[=iroo+pragm.func@cont.d.TOP.+num@3SG+gndr@n.m.][PrnPers][=she, it; that's why (ES: por.eso)]
+
+oviravitanaka		[o-][VPers][3n.m.S/A+][--][=vira][VRoot][=to.advance][--][-vi][+FRUS][=unsuccessful/interrupted.action/state (EN: in.vain; ES: casi); action.that.didn't.achieve.the.desired.result]vi[--][-t][+EP]t[--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+henyokini		[=henyoki~{he}{E.PAL.:ny}{oki}][NRoot][=top (ES: arriba, alto); sky][--][-ni+~{R.DEL:e}{ADV:eni}][AS][+ADV]
+
+itsinkakotzimaintaro		[i-][VPers][3m.S/A+][--][=tsink+INF@V.][VRoot][=to.(crush|mash).sth.with.wooden.pestle (prbly.boiled.yucca);| to.pound.sth. (ES: machacar)][--][-ako][+VERB.CL:vessel][=vessel; recipient, container; cavity; hand]ako[--][-ts][+EP]ts[--][-imain][Asp][+INCH][=beginning.of.a.new.state; CNT.EXP:but]imain[--][-t][+EP]t[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ro][+3n.m.O/P]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.134">
