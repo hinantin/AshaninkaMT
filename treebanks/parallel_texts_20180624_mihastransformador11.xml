@@ -4634,6 +4634,20 @@ kaantsimaintatya		[=kaantsimaintatya][ConnRoot][=but (ES: pero)]
 
 moyatsi		[=moy+INF@aantsi.][VRoot][=to.boil (ES: hervir)][--][-atsi][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]atsi
 
+niha		[=niha+gndr@n.m.+poss@ti:te.][NRoot][=water (ES: agua); river (ES: rio)]
+
+oyovitsiteki		[o-][NPers][3n.m.poss+][--][=kovitsi+gndr@n.m.+poss@te.+mrph.phon@LEN:^k→^y.][NRoot][=(clay).pot (ES: olla.(de.barro), tinaja)][--][-te+syl@&gt;tri.][Gen][+aln.poss.]te[--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)]
+
+antaroite		[=antaro+gndr@n.m.+poss@nposs.adj.][NRoot][=big; mature][--][-ite][DEGR][+AUG][=many; expansive]
+
+akantsiri		[a-][VPers][1PL.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+pairani		[=pairani][AdvRoot][=since; before; long.ago]
+
+ayovitsite		[a-][NPers][1PL.poss+][--][=kovitsi+gndr@n.m.+poss@te.+mrph.phon@LEN:^k→^y.][NRoot][=(clay).pot (ES: olla.(de.barro), tinaja)][--][-te+syl@&gt;tri.][Gen][+aln.poss.]te
+
+.	.[$.]
+
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
