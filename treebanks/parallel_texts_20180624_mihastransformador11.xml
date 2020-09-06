@@ -4655,7 +4655,28 @@ ayovitsite		[a-][NPers][1PL.poss+][--][=kovitsi+gndr@n.m.+poss@te.+mrph.phon@LEN
         <sentence lang="prq" normalizationlevel="none">Moyatsi nijaa onkantya arika intsirianaki eentsira pinkapaki nijaakira.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Moyatsi nihaa onkantya arika intsirianaki eentsira pinkapaki nihaakira.</sentence>
         <sentence lang="es">Hervía el agua para que cuando se caiga ese niño se meta directamente donde está el agua.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+moyatsi		[=moy+INF@aantsi.][VRoot][=to.boil (ES: hervir)][--][-atsi][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]atsi
+
+nihaa		[=nihaa+gndr@n.m.+poss@ti:te.][NRoot][=water (ES: agua);| river (ES: rio)]
+
+onkantya		[o-][VPers][3n.m.S/A+][--][N=][IRR+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-ya+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]ya
+
+arika		[=ari][PostPol][=PP][--][=ka+~{R.DEL:ri}{COND:rika}][+COND]::[=when (temporal.simultaneity); if (expresses.possible.condition)]
+
+intsirianaki		+?
+
+eentsira		[=eentsi+gndr@n./m.+poss@te.][NRoot][=child (ES: niño)][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+pinkapaki		[=pink][VRoot][=to.refrain.from.doing.sth.; to.float; to.drown][--][-ap+dir@goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+nihaakira		[=nihaa+gndr@n.m.+poss@ti:te.][NRoot][=water (ES: agua);| river (ES: rio)][--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.130">
