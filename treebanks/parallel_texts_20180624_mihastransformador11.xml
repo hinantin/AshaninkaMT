@@ -4603,7 +4603,13 @@ henokinta		[=henoki][NRoot][=up, top (ES: arriba, alto); sky; (ES: el.padre.sol)
         <sentence lang="prq" normalizationlevel="none">Poña imavita yantaitemi te inkante yantaite.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ponya imavita yantaitemi te inkante yantaite.</sentence>
         <sentence lang="es">Después intentaba subir no podía subir.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ponya		[=ponya][AdvRoot][=CONN (EN: then, later)]
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.128">
