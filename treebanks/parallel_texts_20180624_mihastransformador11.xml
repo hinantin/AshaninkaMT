@@ -4852,7 +4852,20 @@ ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
         <sentence lang="prq" normalizationlevel="none">ikantsiro iroñaaka iritsiro amatakiro iriniro korakitaintsi otomipaye.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">ikantsiro ironyaaka iritsiro amatakiro iriniro korakitaintsi otomipaye.</sentence>
         <sentence lang="es">Le dijo ahora a su hermana ya lo hemos conseguido con su mamá ahora vienen sus hijos.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ikantsiro		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+iritsiro		[iri-][NPers][3m.poss+][--][=tsiro+gndr@n.m.+kin@male.ego][NRoot][=sister]
+
+amatakiro		[=amat][VRoot][=to.manage.(to.do.sth.), to.be.able/possible.(to.do.sth.) (ES: lograr, poder.hacer.algo); to.do.sth. (ES: hacer.algo); to.transmit.a.disease (ES: contagiar); to.become.infected.wth.sth., to.get.a_disease (ES: contagiarse)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+iriniro		[iri-][NPers][3m.poss+][--][=niro+gndr@n.m.+kin@fe/male.ego+voc@1SG:2SG:3SG.][NRoot][=mother (ES: mamá)]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.136">
