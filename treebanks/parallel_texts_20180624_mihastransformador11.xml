@@ -4865,6 +4865,10 @@ amatakiro		[=amat][VRoot][=to.manage.(to.do.sth.), to.be.able/possible.(to.do.st
 
 iriniro		[iri-][NPers][3m.poss+][--][=niro+gndr@n.m.+kin@fe/male.ego+voc@1SG:2SG:3SG.][NRoot][=mother (ES: mamá)]
 
+otomipaye		[o-][NPers][3n.m.poss+][--][=tomi+gndr@m.+inal@tsi.+kin@fe/male.ego][NRoot][=son (ES: hijo)][--][-paye][Num][+PL][=PL; DIST]
+
+.	.[$.]
+
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
@@ -4872,7 +4876,26 @@ iriniro		[iri-][NPers][3m.poss+][--][=niro+gndr@n.m.+kin@fe/male.ego+voc@1SG:2SG
         <sentence lang="prq" normalizationlevel="none">Poña ikantsiro iritsiro paanakiniro omatsaraka anta inchaponkitsikinta, iroñaaka osatekapaintsiro oyanirimashikinta ari osatekapaintsiro.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ponya ikantsiro iritsiro paanakiniro omatsaraka anta inchaponkitsikinta, ironyaaka osatekapaintsiro oyanirimashikinta ari osatekapaintsiro.</sentence>
         <sentence lang="es">Después le dijo a su hermana llévatelo su cushma allá en ese tronco lo llevó y lo colocó donde estaba el tronco en su yucal ahí lo colgó.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ponya		[=ponya][AdvRoot][=CONN (EN: then, later)]
+
+ikantsiro		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+iritsiro		[iri-][NPers][3m.poss+][--][=tsiro+gndr@n.m.+kin@male.ego][NRoot][=sister]
+
+paanakiniro		[p-][VPers][2S/A+][--][=a+INF@/DEL:a/gaantsi.+I-Conj@act.v.][VRoot][=to.take (ES: agarrar)][--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ni][+3SG.O/P][=it/him/her (ES: le/lo/la)][--][=ro][+3n.m.O/P]
+
+omatsaraka		[o-][NPers][3n.m.poss+][--][=matsara+inal@ntsi.][NRoot][=rug (ES: trapo); robe][--][=ka+mrph.cath@proximal.b.][AS][+DEM.NOM][=DEM (EN: here, close.to.the.speaker)]
+
+anta		[=anta+loc@distal.b.][PrnDem][=DEM.ADV.: there (ES: allí.(está)), far.from.the.speaker (bounded)]
+
+inchaponkitsikinta	inchaponkitsikinta	+?
+
+,	,[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.137">
