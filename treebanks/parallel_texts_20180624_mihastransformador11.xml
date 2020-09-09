@@ -4997,7 +4997,7 @@ amanya		[a-][VPers][1PL.S/A+][--][=man+INF@aantsi.][VRoot][=to.hide (ES: ocultar
 
 ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
 
-.	.[$.]
+.	.[$.]  
 
 </morphology>
         <parsing format="" analysislevel=""/>
@@ -5006,7 +5006,38 @@ ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
         <sentence lang="prq" normalizationlevel="none">ataitanaki iroñaaka shiramparira shero, shero ivankopashikira irojatsi otavantokinta ari isantapaakari, poña ikantsiro iritsiro</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">ataitanaki ironyaaka shiramparira shero, shero ivankopashikira irohatsi otavantokinta ari isantapaakari, ponya ikantsiro iritsiro</sentence>
         <sentence lang="es">Se subió ahora el hombre shero, shero, en las hojas de su casa hasta la cumbrera ahí se metió; después le dijo a su hermana.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ataitanaki		[=atai+INF@/EP:t/(a)antsi.][VRoot][=to.go.up (ES: subir); to.climb (ES: trepar)][--][-t][+EP]t[--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+shiramparira		[=shirampari+gndr@m.][NRoot][=man;| male (ES: hombre)][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+shero		[=shero][Ideo:PRQ][=slipping.and.falling.on.the_surface]
+
+,	,[$.]
+
+ivankopashikira		[i-][NPers][3m.poss+][--][=panko+gndr@n.m.+inal@tsi.+mrph.phon@LEN:^p→^v.][NRoot][=house, home (ES: casa);| tambo (QU: tampu)][--][-pa][+CL:cylindrical,pod-like][=cylindrical,pod-like; banana,plantain][--][-shi][+CL:L.S.T.F.F][=leaf;small,thin,flexible,flat;leafy.substance][--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+irohatsi		[=irohatsi][ConnRoot][=also (ES: también)]
+
+otavantokinta		[o-][NPers][3n.m.poss+][--][=tavanto+gndr@n.m.+inal@ntsi.][NRoot][=summit, peak (ES: cumbre)][--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)][--][=nta+mrph.cath@distal.b.][AS][+DEM.NOM][=DEM (EN: there, far.from.the.speaker (bounded))]
+
+ari		[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+isantapaakari		[i-][VPers][3m.S/A+][--][=san+INF@aantsi.][VRoot][=to.throw.sth. (ES: tirar, lanzar)][--][-t][+EP]t[--][-ap+dir@goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-a][+EP]a[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+,	,[$.]
+
+ponya		[=ponya][AdvRoot][=CONN (EN: then, later)]
+
+ikantsiro		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+iritsiro		[iri-][NPers][3m.poss+][--][=tsiro+gndr@n.m.+kin@male.ego][NRoot][=sister]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.140">
