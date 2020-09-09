@@ -4987,7 +4987,17 @@ inchapontsora		[=incha][NRoot][=plant (ES: planta)][--][-pontso][+CL:with.a.blun
 
 :	:[$.]
 
+ponya		[=ponya][AdvRoot][=CONN (EN: then, later)]
 
+ikantsi		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+tsame		[=tsame+prop@standalone.][VRoot][=COME.ON, LET'S.GO (ES: vamos)]
+
+amanya		[a-][VPers][1PL.S/A+][--][=man+INF@aantsi.][VRoot][=to.hide (ES: ocultar)][--][-ya+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]ya
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+.	.[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
