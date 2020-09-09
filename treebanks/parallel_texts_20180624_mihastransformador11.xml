@@ -4895,6 +4895,14 @@ inchaponkitsikinta	inchaponkitsikinta	+?
 
 ,	,[$.]
 
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+osatekapaintsiro		[o-][VPers][3n.m.S/A+][--][=satek+INF@aantsi.][VRoot][=to.place/put.in/inside.sth./sb.; (ES: estar.en.medio, entremeterse)][--][-apaint][Asp][+SEMEL.F][=PUNCTUAL:once;RAPID:for.a.while,short-term]apaint[--][-i+tns@n.fut.+C.I@act.v.+RSS@00][MODALITY][+REAL]i[--][=ro][+3n.m.O/P]
+
+oyanirimashikinta		[o-][NPers][3n.m.poss+][--][=kaniri+~{N:/'yucca':kanir/}{nposs:i}+gndr@n.m.+voc@N.+mrph.phon@LEN:^k→^y;LEN:^k→^v.][NRoot][=(sweet).manioc, (sweet).yucca (pronunc.: [ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)][--][-mashi][+CL:vast.space.with.vegetation][=vast.space.with.vegetation;wide,flat.space][--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)][--][=nta+mrph.cath@distal.b.][AS][+DEM.NOM][=DEM (EN: there, far.from.the.speaker (bounded))]
+
+ari		[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+                       2
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
