@@ -5047,6 +5047,30 @@ iritsiro		[iri-][NPers][3m.poss+][--][=tsiro+gndr@n.m.+kin@male.ego][NRoot][=sis
         <morphology format="ashaninkamorph" analysislevel="fully">
 
 
+intya		[=int+INF@aantsi.][VRoot][=to.begin][--][-ya+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]ya
+
+paminina		[p-][VPers][2S/A+][--][=amin+INF@aantsi.][VRoot][=to.treat ][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=na][+1SG.O/P][=me (ES: me)]
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+,	,[$.]
+
+arika		[=ari][PostPol][=PP][--][=ka+~{R.DEL:ri}{COND:rika}][+COND]::[=when (temporal.simultaneity); if (expresses.possible.condition)]
+
+pinyaakina		[pi-][VPers][2S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-a][+EP]a[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=na][+1SG.O/P][=me (ES: me)]
+
+,	,[$.]
+
+iritsirora		[iri-][NPers][3m.poss+][--][=tsiro+gndr@n.m.+kin@male.ego][NRoot][=sister][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+ataitanaki		[=atai+INF@/EP:t/(a)antsi.][VRoot][=to.go.up (ES: subir); to.climb (ES: trepar)][--][-t][+EP]t[--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+aminiri		[=amin+INF@aantsi.][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+,	,[$.]
+
+okantakovitari		[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-ako][VS][+APPL.GEN][=GEN (EN: with.reference.to.sth., about.sth.); INDR (EN: action.affects.sth.in.an.indirect.manner)]ako[--][-vi][+FRUS][=unsuccessful/interrupted.action/state (EN: in.vain; ES: casi); action.that.didn't.achieve.the.desired.result]vi[--][-t][+EP]t[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ri][+3m.O/P]
+
 okantakovitari		[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-ako][VS][+APPL.GEN][=GEN (EN: with.reference.to.sth., about.sth.); INDR (EN: action.affects.sth.in.an.indirect.manner)]ako[--][-vi][+FRUS][=unsuccessful/interrupted.action/state (EN: in.vain; ES: casi); action.that.didn't.achieve.the.desired.result]vi[--][-t][+EP]t[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ri][+3m.O/P]
 
 sherori		[=sherori+s.redup.word@][Ideo:PRQ][=sliding.down.the_tree (slowly)]
