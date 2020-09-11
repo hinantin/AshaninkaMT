@@ -4997,7 +4997,7 @@ amanya		[a-][VPers][1PL.S/A+][--][=man+INF@aantsi.][VRoot][=to.hide (ES: ocultar
 
 ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
 
-.	.[$.]  
+.	.[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
@@ -5041,8 +5041,9 @@ iritsiro		[iri-][NPers][3m.poss+][--][=tsiro+gndr@n.m.+kin@male.ego][NRoot][=sis
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.140">
-        <sentence lang="prq" normalizationlevel="none">intya paminina iroñaaka, arika piñaakina, iritsirora ataitanaki aminiri, okantakovitari sherori, sherori, sherori, okimashitari inaavaitsi anta.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">intya paminina ironyaaka, arika pinyaakina, iritsirora ataitanaki aminiri, okantakovitari sherori, sherori, sherori, okimashitari inaavaitsi anta.</sentence>
+        <error_sentence>intya paminina iroñaaka, arika piñaakina, iritsirora ataitanaki aminiri, okantakovitari sherori, sherori, sherori, okimashitari <error type="spelling">inaavaitsi|iñaavaitsi</error> anta.</error_sentence>
+        <sentence lang="prq" normalizationlevel="none">intya paminina iroñaaka, arika piñaakina, iritsirora ataitanaki aminiri, okantakovitari sherori, sherori, sherori, okimashitari iñaavaitsi anta.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">intya paminina ironyaaka, arika pinyaakina, iritsirora ataitanaki aminiri, okantakovitari sherori, sherori, sherori, okimashitari inyaavaitsi anta.</sentence>
         <sentence lang="es">Haber ahora búscame haber si me vas a encontrar la hermana se subió para buscarle buscaba y buscaba por todo lado solamente escuchaba lo que hablaba.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
 
@@ -5071,10 +5072,25 @@ aminiri		[=amin+INF@aantsi.][VRoot][=to.see, to.look; to.look.for; to.look.after
 
 okantakovitari		[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-ako][VS][+APPL.GEN][=GEN (EN: with.reference.to.sth., about.sth.); INDR (EN: action.affects.sth.in.an.indirect.manner)]ako[--][-vi][+FRUS][=unsuccessful/interrupted.action/state (EN: in.vain; ES: casi); action.that.didn't.achieve.the.desired.result]vi[--][-t][+EP]t[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ri][+3m.O/P]
 
-okantakovitari		[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-ako][VS][+APPL.GEN][=GEN (EN: with.reference.to.sth., about.sth.); INDR (EN: action.affects.sth.in.an.indirect.manner)]ako[--][-vi][+FRUS][=unsuccessful/interrupted.action/state (EN: in.vain; ES: casi); action.that.didn't.achieve.the.desired.result]vi[--][-t][+EP]t[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ri][+3m.O/P]
+sherori		[=sherori+s.redup.word@][Ideo:PRQ][=sliding.down.the_tree (slowly)]
+
+,	,[$.]
 
 sherori		[=sherori+s.redup.word@][Ideo:PRQ][=sliding.down.the_tree (slowly)]
 
+,	,[$.]
+
+sherori		[=sherori+s.redup.word@][Ideo:PRQ][=sliding.down.the_tree (slowly)]
+
+,	,[$.]
+
+okimashitari		[o-][VPers][3n.m.S/A+][--][=kim+INF@aantsi.][VRoot][=to.hear, to.listen; to.sense (ES: sentir)][--][-ashi][+APPL.INT][=purpose,(with.the).intent]ashi[--][-t][+EP]t[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ri][+3m.O/P]
+
+inyaavaitsi		[i-][VPers][3m.S/A+][--][=nya+allomorph@ña.+INF@antsi.][VRoot][=to.speak (ES: hablar)][--][-a][+EP]a[--][-vai][ASP][+DUR][=action/state.endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]vai[--][-ts+freq@&lt;*.][+EP]ts[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+anta		[=anta+loc@distal.b.][PrnDem][=DEM.ADV.: there (ES: allí.(está)), far.from.the.speaker (bounded)]
+
+.	.[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
