@@ -5099,14 +5099,60 @@ anta		[=anta+loc@distal.b.][PrnDem][=DEM.ADV.: there (ES: allí.(está)), far.fr
         <sentence lang="prq" normalizationlevel="none">okantakovitari, sherori, sherori, te oñiri, shitovashitanaja iroñaaka okante te, te añiri.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">okantakovitari, sherori, sherori, te onyiri, shitovashitanaha ironyaaka okante te, te anyiri.</sentence>
         <sentence lang="es">Levantaba otras cosas no le veía se salió se canso de buscarle ahora le dijo no le he visto.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+okantakovitari		[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-ako][VS][+APPL.GEN][=GEN (EN: with.reference.to.sth., about.sth.); INDR (EN: action.affects.sth.in.an.indirect.manner)]ako[--][-vi][+FRUS][=unsuccessful/interrupted.action/state (EN: in.vain; ES: casi); action.that.didn't.achieve.the.desired.result]vi[--][-t][+EP]t[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ri][+3m.O/P]
+
+,	,[$.]
+
+sherori		[=sherori+s.redup.word@][Ideo:PRQ][=sliding.down.the_tree (slowly)]
+
+,	,[$.]
+
+sherori		[=sherori+s.redup.word@][Ideo:PRQ][=sliding.down.the_tree (slowly)]
+
+,	,[$.]
+
+te		[=te+tns@future.neg.][Neg][=NEG.REAL]
+
+onyiri		[o-][VPers][3n.m.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+,	,[$.]
+
+shitovashitanaha		[=shitov+INF@aantsi;VC.][VRoot][=to.leave, to.come.out (ES: salir); to.escape, to.run.away][--][-ashi][+APPL.INT][=purpose,(with.the).intent]ashi[--][-t][+EP]t[--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+okante		[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e
+
+te		[=te+tns@future.neg.][Neg][=NEG.REAL]
+
+,	,[$.]
+
+te		[=te+tns@future.neg.][Neg][=NEG.REAL]
+
+anyiri		[a-][VPers][1PL.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.142">
         <sentence lang="prq" normalizationlevel="none">poña ikantsiro intsitya avirori, iroñaaka ataitanaki irori iritsirora; aijatsi irori ijavitaka yaminiro te iñiro, poña ikantsi kameetsataki iroñaaka aritaki amatakiri jainaite.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">ponya ikantsiro intsitya avirori, ironyaaka ataitanaki irori iritsirora; aihatsi irori ihavitaka yaminiro te inyiro, ponya ikantsi kameetsataki ironyaaka aritaki amatakiri hainaite.</sentence>
         <sentence lang="es">Después le dijo haber tu ahora, subió la hermana igualito también ella aunque ha ido a buscarla no le vio luego dijo ahora si está bien, ahora vamos terminarle al hombre que come carne humana.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ponya		[=ponya][AdvRoot][=CONN (EN: then, later)]
+
+ikantsiro		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.143">
