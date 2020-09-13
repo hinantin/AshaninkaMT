@@ -5166,6 +5166,30 @@ iritsirora		[iri-][NPers][3m.poss+][--][=tsiro+gndr@n.m.+kin@male.ego][NRoot][=s
 
 ;	;[$.]
 
+aihatsi		[=aihatsi][ConnRoot][=also (ES: también)]
+
+irori		[=irori+pragm.func@cntr.add.l.FOC.+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella)]
+
+ihavitaka		[i-][VPers][3m.S/A+][--][=ha+INF@/EP:t/aantsi.][VRoot][=to.go (ES: ir)][--][-vi][+FRUS][=unsuccessful/interrupted.action/state (EN: in.vain; ES: casi); action.that.didn't.achieve.the.desired.result]vi[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+yaminiro		[y-][VPers][3m.S/A+][--][=amin+INF@aantsi.][VRoot][=to.examine (ES: examinar)][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+te		[=te+tns@future.neg.][Neg][=NEG.REAL]
+
+inyiro		[i-][VPers][3m.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+,	,[$.]
+
+ponya		[=ponya][AdvRoot][=CONN (EN: then, later)]
+
+ikantsi		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+kameetsataki		[=kameetsa+INF@/EP:t/VC.][VRoot][=to.be.good][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+aritaki		[=ari][PostPol][=PP][--][-t][+EP][--][-ak][+PRF][--][-i][+REAL]::[=it.is.the.case.(that) (ES: así.es.que)]
+
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
