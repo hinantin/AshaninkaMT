@@ -5259,7 +5259,34 @@ iriniro		[iri-][NPers][3m.poss+][--][=niro+gndr@n.m.+kin@fe/male.ego+voc@1SG:2SG
         <sentence lang="prq" normalizationlevel="none">¡inaaaa!, ikimatsiro akanaki ¡joooo!, aritajeetapaaja, yaminapaji ikantsiri iririntsi, iyee paminitya.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">¡inaaaa!, ikimatsiro akanaki ¡hoooo!, aritaheetapaaha, yaminapahi ikantsiri iririntsi, iyee paminitya.</sentence>
         <sentence lang="es">¡Mamá!, escucharon contestarle ¡joooo!, ya llegaron, miró le dijo a su hermano, hermano mira pues.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+¡	¡[$.]
+
+inaaaa	inaaaa	+?
+
+!	![$.]
+
+,	,[$.]
+
+ikimatsiro		[i-][VPers][3m.S/A+][--][=kim+INF@aantsi.][VRoot][=to.hear, to.listen; to.sense (ES: sentir)][--][-atsi][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]atsi[--][=ro][+3n.m.O/P]
+
+akanaki		[=ak+INF@aantsi.][VRoot][=to.answer.back (ES: contestar, responder)][--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+¡	¡[$.]
+
+hoooo	hoooo	+?
+
+!	![$.]
+
+,	,[$.]
+
+aritaheetapaaha		[=ari][VRoot][=to.be.the.case (ES: ser.así); to.be.true][--][-t][+EP]t[--][-a][+REP][=again.and.again]a[--][-hee][NUM][+PL][=PL.S/A+; INTR: PL.S/A+; TR: PL.S/A+.or.+PL.O]hee[--][-t][+EP]t[--][-ap+dir@goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-aa+allomorph@a.+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]aa[--][=ha][+EMPH][=contradictory.emphasis]ha
+
+,	,[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.145">
