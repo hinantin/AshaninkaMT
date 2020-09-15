@@ -5206,7 +5206,37 @@ hainaite		[=hainaite][NRoot][=cannibal (ES: caníbal)]
         <morphology format="ashaninkamorph" analysislevel="fully">
 
 
+osamani		[=osamani][AdvRoot][=some.time.later; later.on, after.a.while]
 
+ikimaiyaatsiri		[i-][VPers][3m.S/A+][--][=kim+INF@aantsi.][VRoot][=to.hear, to.listen; to.sense (ES: sentir)][--][-aiy][+PL]aiy[--][-a][+EP]a[--][-a][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]a[--][-ts+freq@&lt;*.][+EP]ts[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+ikaimaiyapaahini		[i-][VPers][3m.S/A+][--][=kaim+INF@aantsi.][VRoot][=to.scream (ES: gritar); to.call (ES: llamar)][--][-aiy][+PL]aiy[--][-ap+dir@goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-a][+EP]a[--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][-ni+circumfix@/PL:aiy/;/PL:iy/.][+PL]
+
+,	,[$.]
+
+¡	¡[$.]
+
+ooooo	ooooo	+?
+
+!	![$.]
+
+,	,[$.]
+
+¡	¡[$.]
+
+aauuu	aauuu	+?
+
+!	![$.]
+
+,	,[$.]
+
+¡	¡[$.]
+
+oooouuu	oooouuu	+?
+
+!	![$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
