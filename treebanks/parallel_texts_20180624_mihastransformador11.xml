@@ -5286,6 +5286,20 @@ aritaheetapaaha		[=ari][VRoot][=to.be.the.case (ES: ser.así); to.be.true][--][-
 
 ,	,[$.]
 
+yaminapahi		[y-][VPers][3m.S/A+][--][=amin+INF@aantsi.][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of][--][-ap+dir@goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+ikantsiri		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+iririntsi		[ir-][NPers][3m.poss+][--][=irintsi+gndr@m.+kin@male.ego][NRoot][=brother (ES: hermano)]
+
+,	,[$.]
+
+iyee		[=iyee+gndr@m.+kin@male.ego][NRoot][=brother (ES: hermano)]
+
+paminitya		[p-][VPers][2S/A+][--][=amin+INF@aantsi.][VRoot][=to.treat ][--][-it][Asp][+ICPL][=actn/event.that.was.begun.but.not.completed]it[--][-ya+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]ya
+
+.	.[$.]
+
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
