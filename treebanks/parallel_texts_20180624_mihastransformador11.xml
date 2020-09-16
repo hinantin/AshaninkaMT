@@ -5308,7 +5308,45 @@ paminitya		[p-][VPers][2S/A+][--][=amin+INF@aantsi.][VRoot][=to.treat ][--][-it]
         <sentence lang="prq" normalizationlevel="none">Paita okotsitsiri inaa, yaminaki iririntsi ikantsi, shoo paita kamintsakiro, ityarinkakiro, iñaatsi, oitsipatsaini, oporianikipatsaini, ovirayetaka aka.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Paita okotsitsiri inaa, yaminaki iririntsi ikantsi, shoo paita kamintsakiro, ityarinkakiro, inyaatsi, oitsipatsaini, oporianikipatsaini, ovirayetaka aka.</sentence>
         <sentence lang="es">Qué cosa esta cocinando mamá, su hermano miró y dijo que rico que cosa que sorpresa nos dio mamá lo movió la olla ahí vio piecitos, muslitos que eran pequeños.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+paita		[=paita][WhPrn][=WH (EN: how, why, what; ES: ¿qué?, ¿por qué?)]
+
+okotsitsiri		[o-][VPers][3n.m.S/A+][--][=kotsi+INF@antsi.][VRoot][=to.cook (ES: cocinar, preparar.comida)][--][-ts+freq@&lt;*.][+EP]ts[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+inaa		[=inaa+gndr@n.m.+inal@tsi.+kin@fe/male.ego][NRoot][=mother (ES: mamá); wife]
+
+,	,[$.]
+
+yaminaki		[y-][VPers][3m.S/A+][--][=amin+INF@aantsi.][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+iririntsi		[ir-][NPers][3m.poss+][--][=irintsi+gndr@m.+kin@male.ego][NRoot][=brother (ES: hermano)]
+
+ikantsi		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+,	,[$.]
+
+shoo	shoo	+?
+
+paita		[=paita][WhPrn][=WH (EN: how, why, what; ES: ¿qué?, ¿por qué?)]
+
+kamintsakiro		[=kamin+INF@antsi.][VRoot][=to.advise; to.give.advice][--][-ts][+EP]ts[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+,	,[$.]
+
+ityarinkakiro	+?
+
+,	,[$.]
+
+inyaatsi		[i-][VPers][3m.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-a][+EP]a[--][-atsi][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]atsi
+
+,	,[$.]
+
+oitsipatsaini		[o-][NPers][3n.m.poss+][--][=kitsi+gndr@n.m.+inal@tsi.+sem@b.p.][NRoot][=leg; foot (ES: pie)][--][-patsa][=small.part][--][-ini][+DIM]
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.146">
