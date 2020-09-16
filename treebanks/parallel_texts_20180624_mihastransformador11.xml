@@ -5345,6 +5345,17 @@ inyaatsi		[i-][VPers][3m.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot
 
 oitsipatsaini		[o-][NPers][3n.m.poss+][--][=kitsi+gndr@n.m.+inal@tsi.+sem@b.p.][NRoot][=leg; foot (ES: pie)][--][-patsa][=small.part][--][-ini][+DIM]
 
+,	,[$.]
+
+oporianikipatsaini		[o-][NPers][3n.m.poss+][--][=pori+gndr@n.m.+inal@tsi.][NRoot][=leg (ES: pierna); thigh][--][-aniki][+DIM][--][-patsa][=small.part][--][-ini][+DIM]
+
+,	,[$.]
+
+ovirayetaka	+?
+
+aka		[=aka+loc@proximal.b.][PrnDem][=DEM.ADV. (EN: here, close.to.the.speaker)]
+
+.	.[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
