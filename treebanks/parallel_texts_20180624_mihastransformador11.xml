@@ -5364,7 +5364,15 @@ aka		[=aka+loc@proximal.b.][PrnDem][=DEM.ADV. (EN: here, close.to.the.speaker)]
         <sentence lang="prq" normalizationlevel="none">ishiyakavintakiri intsipatsaini, oporianikipatsaini,arive ikantsi; intsitya tsame ankaimiro inaa.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">ishiyakavintakiri intsipatsaini, oporianikipatsaini,arive ikantsi; intsitya tsame ankaimiro inaa.</sentence>
         <sentence lang="es">Lo asimiló como unos niños, muslitos muy bien dijo haber vamos llamarlo a mamá.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ishiyakavintakiri		[i-][VPers][3m.S/A+][--][=shiyak+INF@aantsi.][VRoot][=to.take.a.picture (ES: tomar.una.foto)][--][-a][+EP]a[--][-vint][+APPL.BEN][=action.done.for.sb.else]vint[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.147">
