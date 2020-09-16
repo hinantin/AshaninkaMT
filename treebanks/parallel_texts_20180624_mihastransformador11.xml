@@ -5369,8 +5369,29 @@ aka		[=aka+loc@proximal.b.][PrnDem][=DEM.ADV. (EN: here, close.to.the.speaker)]
 
 ishiyakavintakiri		[i-][VPers][3m.S/A+][--][=shiyak+INF@aantsi.][VRoot][=to.take.a.picture (ES: tomar.una.foto)][--][-a][+EP]a[--][-vint][+APPL.BEN][=action.done.for.sb.else]vint[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
 
+intsipatsaini		[i-][NPers][3m.poss+][--][=intsi+gndr@n./m.][NRoot][=child (ES: niño)][--][-patsa][=small.part][--][-ini][+DIM]
 
+,	,[$.]
 
+oporianikipatsaini		[o-][NPers][3n.m.poss+][--][=pori+gndr@n.m.+inal@tsi.][NRoot][=leg (ES: pierna); thigh][--][-aniki][+DIM][--][-patsa][=small.part][--][-ini][+DIM]
+
+,	,[$.]
+
+arive		[=ari][PostPol][=PP][--][=ve][+EXCL]::[= (ES: muy.bien)]
+
+ikantsi		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+;	;[$.]
+
+intsitya		[=intsitya][Interj][=well; let's.see (ES: vamos.a.ver, a.ver)]
+
+tsame		[=tsame+prop@standalone.][VRoot][=COME.ON, LET'S.GO (ES: vamos)]
+
+ankaimiro		[a-][VPers][1PL.S/A+][--][N=][IRR+][--][=kaim+INF@aantsi.][VRoot][=to.scream (ES: gritar); to.call (ES: llamar)][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+inaa		[i-][NPers][3m.poss+][--][=inaa+gndr@n.m.+inal@tsi.+kin@fe/male.ego][NRoot][=mother (ES: mamá); wife]
+
+.	.[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
