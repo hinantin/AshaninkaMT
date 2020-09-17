@@ -5400,7 +5400,12 @@ inaa		[i-][NPers][3m.poss+][--][=inaa+gndr@n.m.+inal@tsi.+kin@fe/male.ego][NRoot
         <sentence lang="prq" normalizationlevel="none">Ikaimakotakiro! Inaaaa! Ikimatsiro akanaki okantsi ¡ooooo! Otsamaitatsiro oyanirimashi.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikaimakotakiro! Inaaaa! Ikimatsiro akanaki okantsi ¡ooooo! Otsamaitatsiro oyanirimashi.</sentence>
         <sentence lang="es">Llamó ¡mamá! Escucharon contestar dijo ¡oooo! Esta lampeando su yucal.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.148">
