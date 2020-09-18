@@ -5453,6 +5453,12 @@ te		[=te+tns@future.neg.][Neg][=NEG.REAL]
 
 anki		[N=][IRR+][--][=ak+INF@aantsi.][VRoot][=to.answer.back (ES: contestar, responder)][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
 
+ikimatsiro		[i-][VPers][3m.S/A+][--][=kim+INF@aantsi.][VRoot][=to.hear, to.listen; to.sense (ES: sentir)][--][-atsi][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]atsi[--][=ro][+3n.m.O/P]
+
+okantsi		[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+piya		[pi-][VPers][2S/A+][--][=Ø][VRoot][=to.eat (ES: comer)][--][-ya+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]
+
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
