@@ -5474,11 +5474,21 @@ notsamaiirika		[no-][VPers][1SG.S/A+][--][=tsamai+INF@/EP:t/aantsi.][VRoot][=to.
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.149">
-        <!-- poña ikantsi otsonkatanakityero <misspelling alt="otsamairi">otssamairi</misspelling>, iroñaaka ikantsi tsametya ayete avavakiata. -->
+        <error_sentence>poña ikantsi otsonkatanakityero <error type="spelling">otssamairi|otsamairi</error>, iroñaaka ikantsi tsametya ayete avavakiata.</error_sentence>
         <sentence lang="prq" normalizationlevel="none">poña ikantsi otsonkatanakityero otsamairi, iroñaaka ikantsi tsametya ayete avavakiata.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">ponya ikantsi otsonkatanakityero otsamairi, ironyaaka ikantsi tsametya ayete avavakiata.</sentence>
         <sentence lang="es">Después dijo dice va terminarlo su lampeo, ahora dijo vamos servir para comer.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ponya		[=ponya][AdvRoot][=CONN (EN: then, later)]
+
+ikantsi		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.150">
