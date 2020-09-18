@@ -5436,7 +5436,22 @@ oyanirimashi		[o-][NPers][3n.m.poss+][--][=kaniri+~{N:/'yucca':kanir/}{nposs:i}+
         <sentence lang="prq" normalizationlevel="none">Ikantsiri iririntsi pinkaimakotero avavakiata ikaimakovetaro te anki ikimatsiro okantsi piya jara irotaki nontsanpishiriro notsamairika.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikantsiri iririntsi pinkaimakotero avavakiata ikaimakovetaro te anki ikimatsiro okantsi piya hara irotaki nontsampishiriro notsamairika.</sentence>
         <sentence lang="es">Le dijo a su hermano llámalo para comer lo llamaba y no contestaba luego escucharon que dijo coman ahí ya voy terminarlo mi lampeo.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ikantsiri		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+iririntsi		[ir-][NPers][3m.poss+][--][=irintsi+gndr@m.+kin@male.ego][NRoot][=brother (ES: hermano)]
+
+pinkaimakotero		[pi-][VPers][2S/A+][--][N=][IRR+][--][=kaim+INF@aantsi.][VRoot][=to.scream (ES: gritar); to.call (ES: llamar)][--][-ako][+VERB.CL:vessel][=vessel; recipient, container; cavity; hand]ako[--][-t][+EP]t[--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e[--][=ro][+3n.m.O/P]
+
+avavakiata		[a-][VPers][1PL.S/A+][--][=v][VRoot][=to.eat (ES: comer)][--][-av+dir@object.oriented][ADV][+DIR][=contrary,opposite; RCVG:object.arriving.at.the.location.of.the.subject]av[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-ia+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR.RFL]ia[--][=ta][MODAL][+OPT_SUBJ][CONTG: actn.that.depends.on.sth.that.may.or.may.not.happen; HYPOTH: actn.that.is.possible.&amp;.imagined.rather.than.real.&amp;.true]
+
+ikaimakovetaro		[i-][VPers][3m.S/A+][--][=kaim+INF@aantsi.][VRoot][=to.scream (ES: gritar); to.call (ES: llamar)][--][-ako][VS][+APPL.GEN][=GEN (EN: with.reference.to.sth., about.sth.); INDR (EN: action.affects.sth.in.an.indirect.manner)]ako[--][-ve][+FRUS][=unsuccessful/interrupted.action/state (EN: in.vain; ES: casi); action.that.didn't.achieve.the.desired.result]ve[--][-t][+EP]t[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ro][+3n.m.O/P]
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.149">
