@@ -5449,7 +5449,9 @@ avavakiata		[a-][VPers][1PL.S/A+][--][=v][VRoot][=to.eat (ES: comer)][--][-av+di
 
 ikaimakovetaro		[i-][VPers][3m.S/A+][--][=kaim+INF@aantsi.][VRoot][=to.scream (ES: gritar); to.call (ES: llamar)][--][-ako][VS][+APPL.GEN][=GEN (EN: with.reference.to.sth., about.sth.); INDR (EN: action.affects.sth.in.an.indirect.manner)]ako[--][-ve][+FRUS][=unsuccessful/interrupted.action/state (EN: in.vain; ES: casi); action.that.didn't.achieve.the.desired.result]ve[--][-t][+EP]t[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ro][+3n.m.O/P]
 
+te		[=te+tns@future.neg.][Neg][=NEG.REAL]
 
+anki		[N=][IRR+][--][=ak+INF@aantsi.][VRoot][=to.answer.back (ES: contestar, responder)][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
 
 </morphology>
         <parsing format="" analysislevel=""/>
