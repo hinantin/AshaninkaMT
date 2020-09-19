@@ -5629,9 +5629,33 @@ imairiatsi		[i-][VPers][3m.S/A+][--][=mairi+INF@/EP:t/aantsi.][VRoot][=to.be.ser
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.152">
-        <sentence lang="prq">¿Paita ipiakari?- ipiaakari pitsiro, poña ikantsi shiri, shiri, shiri, ivajaro irinironta.ikantsi pinkimitya Ikantsika ivajaro iriniro.</sentence>
+        <sentence lang="prq" normalizationlevel="none">¿Paita ipiakari?- ipiaakari pitsiro, poña ikantsi shiri, shiri, shiri, ivajaro irinironta.ikantsi pinkimitya Ikantsika ivajaro iriniro.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">¿Paita ipiakari?- ipiaakari pitsiro, ponya ikantsi shiri, shiri, shiri, ivajaro irinironta.ikantsi pinkimitya Ikantsika ivajaro iriniro.</sentence>
         <sentence lang="es">¿En que se convirtió? – se convirtió en grillo, después dijo se comió a su mamá, dijo escuchen pues dice este que comió a su mamá.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+¿	¿[$.]
+
+paita		[=paita][WhPrn][=WH (EN: how, why, what; ES: ¿qué?, ¿por qué?)]
+
+ipiakari		[i-][VPers][3m.S/A+][--][=pi][VRoot][=to.convert, to.transform][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+?	?[$.]
+
+-	-[$.]
+
+ipiaakari		[i-][VPers][3m.S/A+][--][=pi][VRoot][=to.convert, to.transform][--][-aak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]aak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+pitsiro		[=pitsiro+gndr@m.+sem@insect][NRoot][=grasshopper (ES: saltamonte; sci.nm.: familia.locustidae/acrididae); true.locust]
+
+,	,[$.]
+
+ponya		[=ponya][AdvRoot][=CONN (EN: then, later)]
+
+ikantsi		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.153">
