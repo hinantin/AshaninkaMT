@@ -5690,7 +5690,7 @@ iriniro		[iri-][NPers][3m.poss+][--][=niro+gndr@n.m.+kin@fe/male.ego+voc@1SG:2SG
     </text>
     <text id="1.153">
         <sentence lang="prq" normalizationlevel="none">ikantsiri iririntsi intsitya iyee pintyarinkirotya, yaaki inchaki ityarinkakiro, iñaatsiro oito menkotsi iriniro.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">ikantsiri iririntsi intsitya iyee pintyarinkirotya, yaaki inchaki ityarinkakiro, iñaatsiro oito menkotsi iriniro.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">ikantsiri iririntsi intsitya iyee pintyarinkirotya, yaaki inchaki ityarinkakiro, inyaatsiro oito menkotsi iriniro.</sentence>
         <sentence lang="es">Le dijo a su hermano haber hermano remueve la olla cogió un palo y lo removió ahí vieron la cabezota de su madre.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
 
@@ -5701,20 +5701,82 @@ iririntsi		[ir-][NPers][3m.poss+][--][=irintsi+gndr@m.+kin@male.ego][NRoot][=bro
 
 intsitya		[=intsitya][Interj][=well; let's.see (ES: vamos.a.ver, a.ver)]
 
+iyee		[=iyee+gndr@m.+kin@male.ego][NRoot][=brother (ES: hermano)]
+
+pintyarinkirotya		[pi-][VPers][2S/A+][--][N=][IRR+][--][=tyarink+INF@VC.][VRoot][=to.stir.the.pot (ES: remover.la.olla)][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P][--][=tya][+N.C.FOC][=urgency, impatience, surprise, exasperation (non-contradictory.emphasis); almost (with.time.adverbs)]
+
+,	,[$.]
+
+yaaki		[y-][VPers][3m.S/A+][--][=a+INF@/DEL:a/gaantsi.+I-Conj@act.v.][VRoot][=to.take (ES: agarrar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+inchaki		[=inchaki+~{N:/'plant':incha/}{CL:/'hard':ki/}+poss@ri.][NRoot][=pole (ES: palo)]
+
+ityarinkakiro		[i-][VPers][3m.S/A+][--][=tyarink+INF@VC.][VRoot][=to.stir.the.pot (ES: remover.la.olla)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+,	,[$.]
+
+inyaatsiro		[i-][VPers][3m.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-a][+EP]a[--][-atsi][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]atsi[--][=ro][+3n.m.O/P]
+
+oito		[o-][NPers][3n.m.poss+][--][=kito+inal@tsi.][NRoot][=head (ES: cabeza)]
+
+menkotsi		[=menko+gndr@n.m.+inal@tsi:tzi.][NRoot][=platform (ES: plataforma, tarima), floor (ES: piso.(de.pona)), floor.made.out.of.Pona/tree.sp., flat.surface][--][-tsi+poss@alien.+syl@mono;di.][Gen][+nposs]tsi
+
+iriniro		[iri-][NPers][3m.poss+][--][=niro+gndr@n.m.+kin@fe/male.ego+voc@1SG:2SG:3SG.][NRoot][=mother (ES: mamá)]
+
+.	.[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.154">
-        <sentence lang="prq">ikantanaki ñaamitsa iyee ivakajairo inaa iroñaaka. Tsikaratya ipaitaka iroñaaka, shintsitanaki yaminiri iroñaaka.</sentence>
+        <sentence lang="prq" normalizationlevel="none">ikantanaki ñaamitsa iyee ivakajairo inaa iroñaaka. Tsikaratya ipaitaka iroñaaka, shintsitanaki yaminiri iroñaaka.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">ikantanaki nyaamitsa iyee ivakahairo inaa ironyaaka. Tsikaratya ipaitaka ironyaaka, shintsitanaki yaminiri ironyaaka.</sentence>
         <sentence lang="es">Ahí dijeron que barbaridad hermano nos ha hecho comer a nuestra madre ahora. Quien será este ahora rápidamente comenzaron a buscar ahora.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ikantanaki		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+nyaamitsa		[=nyaamitsa][Interj][=expression.of.compassion (ES: ¡que.barbaridad!)]
+
+iyee		[=iyee+gndr@m.+kin@male.ego][NRoot][=brother (ES: hermano)]
+
+ivakahairo		[i-][VPers][3m.S/A+][--][=v][VRoot][=to.eat (ES: comer)][--][-ak][+APPL.CAUS.SOC][=A+(causer).causes.sth/sb(causee).to.do.sth.&amp;.A+.also.participates.in.the.actn.; to.make.sth/sb.do.sth.]ak[--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][=ai][+1INCL.PL.O/P][=(to).us (ES: (a).nosotros,, nos)]ai[--][=ro][+3n.m.O/P]
+
+inaa		[=inaa+gndr@n.m.+inal@tsi.+kin@fe/male.ego][NRoot][=mother (ES: mamá); wife]
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+.	.[$.]
+
+tsikaratya		[=tsika][WhPrn][=WH][--][-ra+medial.b.][+DEM][--][-tya][+EMPH]
+
+ipaitaka		[i-][VPers][3m.S/A+][--][=pai+INF@/EP:t/aantsi.][VRoot][=to.be.called; to.call, to.name (ES: nombrar); to.get.white.hair, to.have.gray.hair][--][-t][+EP]t[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ka][+Q]
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+,	,[$.]
+
+shintsitanaki		[=shintsi+INF@/EP:t/aantsi.][VRoot][=to.be.strong][--][-t][+EP]t[--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+yaminiri		[y-][VPers][3m.S/A+][--][=amin+INF@aantsi.][VRoot][=to.treat ][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.155">
         <sentence lang="prq">ikantakovitari, shikiri, shikiri, te, te iñiri yapitakovitari shikiri, shikiri, shikiri, manapirotaka eentsi- payera.</sentence>
         <sentence lang="es">Buscaron removían todas las cosas, no; no le han visto por más que volvieron a buscarlo nada, estaban bien escondidos esos niños.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.156">
