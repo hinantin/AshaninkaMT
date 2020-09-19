@@ -5567,6 +5567,37 @@ henokinta		[=henoki][NRoot][=up, top (ES: arriba, alto); sky; (ES: el.padre.sol)
 
 ponya		[=ponya][AdvRoot][=CONN (EN: then, later)]
 
+yapitahiro		[y-][VPers][3m.S/A+][--][=api+INF@/EP:t/aantsi.][VRoot][=to.repeat (ES: repetir)][--][-t][+EP]t[--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+ikantsi		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+shire		[=shire+s.redup.word@3X.][Ideo][=cricket.sound (ES: sonido.del.grillo)]
+
+,	,[$.]
+
+shire		[=shire+s.redup.word@3X.][Ideo][=cricket.sound (ES: sonido.del.grillo)]
+
+,	,[$.]
+
+shire		[=shire+s.redup.word@3X.][Ideo][=cricket.sound (ES: sonido.del.grillo)]
+
+,	,[$.]
+
+ivaharo		[i-][VPers][3m.S/A+][--][=v][VRoot][=to.eat (ES: comer)][--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ro][+3n.m.O/P]
+
+irinironta		[iri-][NPers][3m.poss+][--][=niro+gndr@n.m.+kin@fe/male.ego+voc@1SG:2SG:3SG.][NRoot][=mother (ES: mamá)][--][=nta+mrph.cath@distal.b.][AS][+DEM.NOM][=DEM (EN: there, far.from.the.speaker (bounded))]
+
+,	,[$.]
+
+ari		[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+ishirontaheetaiyani		[i-][VPers][3m.S/A+][--][=shiront+INF@(a)antsi.][VRoot][=to.laugh.at.sb. (ES: reír)][--][-a][+EP]a[--][-hee][NUM][+PL][=PL.S/A+; INTR: PL.S/A+; TR: PL.S/A+.or.+PL.O]hee[--][-t][+EP]t[--][-aiy][+PL]aiy[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL.RFL]a[--][-ni+circumfix@/PL:aiy/;/PL:iy/.][+PL]
+
+otomipaye		[o-][NPers][3n.m.poss+][--][=tomi+gndr@m.+inal@tsi.+kin@fe/male.ego][NRoot][=son (ES: hijo)][--][-paye][Num][+PL][=PL; DIST]
+
+,	,[$.]
+
+
 
 </morphology>
         <parsing format="" analysislevel=""/>
