@@ -5630,7 +5630,7 @@ imairiatsi		[i-][VPers][3m.S/A+][--][=mairi+INF@/EP:t/aantsi.][VRoot][=to.be.ser
     </text>
     <text id="1.152">
         <sentence lang="prq" normalizationlevel="none">¿Paita ipiakari?- ipiaakari pitsiro, poña ikantsi shiri, shiri, shiri, ivajaro irinironta.ikantsi pinkimitya Ikantsika ivajaro iriniro.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">¿Paita ipiakari?- ipiaakari pitsiro, ponya ikantsi shiri, shiri, shiri, ivajaro irinironta.ikantsi pinkimitya Ikantsika ivajaro iriniro.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">¿Paita ipiakari?- ipiaakari pitsiro, ponya ikantsi shiri, shiri, shiri, ivaharo irinironta.ikantsi pinkimitya Ikantsika ivaharo iriniro.</sentence>
         <sentence lang="es">¿En que se convirtió? – se convirtió en grillo, después dijo se comió a su mamá, dijo escuchen pues dice este que comió a su mamá.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
 
@@ -5654,6 +5654,36 @@ pitsiro		[=pitsiro+gndr@m.+sem@insect][NRoot][=grasshopper (ES: saltamonte; sci.
 ponya		[=ponya][AdvRoot][=CONN (EN: then, later)]
 
 ikantsi		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+shiri		[=shiri+s.redup.word@2X:3X.][Ideo:PRQ][=cricket.sound (ES: sonido.del.grillo); action.of.(slowly).climbing.up.a_tree; wiping.tears.from.the.face]
+
+,	,[$.]
+
+shiri		[=shiri+s.redup.word@2X:3X.][Ideo:PRQ][=cricket.sound (ES: sonido.del.grillo); action.of.(slowly).climbing.up.a_tree; wiping.tears.from.the.face]
+
+,	,[$.]
+
+shiri		[=shiri+s.redup.word@2X:3X.][Ideo:PRQ][=cricket.sound (ES: sonido.del.grillo); action.of.(slowly).climbing.up.a_tree; wiping.tears.from.the.face]
+
+,	,[$.]
+
+ivaharo		[i-][VPers][3m.S/A+][--][=v][VRoot][=to.eat (ES: comer)][--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ro][+3n.m.O/P]
+
+irinironta		[iri-][NPers][3m.poss+][--][=niro+gndr@n.m.+kin@fe/male.ego+voc@1SG:2SG:3SG.][NRoot][=mother (ES: mamá)][--][=nta+mrph.cath@distal.b.][AS][+DEM.NOM][=DEM (EN: there, far.from.the.speaker (bounded))]
+
+.	.[$.]
+
+ikantsi		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+pinkimitya		[pi-][VPers][2S/A+][--][N=][IRR+][--][=kim+INF@aantsi.][VRoot][=to.hear, to.listen; to.sense (ES: sentir)][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=tya][+N.C.FOC][=urgency, impatience, surprise, exasperation (non-contradictory.emphasis); almost (with.time.adverbs)]
+
+ikantsika		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ka][+Q]
+
+ivaharo		[i-][VPers][3m.S/A+][--][=v][VRoot][=to.eat (ES: comer)][--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ro][+3n.m.O/P]
+
+iriniro		[iri-][NPers][3m.poss+][--][=niro+gndr@n.m.+kin@fe/male.ego+voc@1SG:2SG:3SG.][NRoot][=mother (ES: mamá)]
+
+.	.[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
