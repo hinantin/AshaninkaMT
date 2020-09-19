@@ -5560,8 +5560,15 @@ henokinta		[=henoki][NRoot][=up, top (ES: arriba, alto); sky; (ES: el.padre.sol)
     </text>
     <text id="1.151">
         <sentence lang="prq" normalizationlevel="none">poña yapitajiro ikantsi shire, shire ,shire ivajaro irinironta, ari ishirontajeetaiyani otomipaye, poña ikimavaki pashini, ikantsi –paita – tsika ikantsika yoka ari imairiatsi.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">ponya yapitahiro ikantsi shire, shire ,shire ivaharo irinironta, ari ishirontaheetaiyani otomipaye, ponya ikimavaki pashini, ikantsi –paita – tsika ikantsika yoka ari imairiatsi.</sentence>
         <sentence lang="es">Luego repitió nuevamente dijo ya comieron a su mamá, ahí comenzaron a reírse los hijos de la señora, después otro escucho diciendo, que cosa – que dice esta persona se quedaron en silencio.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ponya		[=ponya][AdvRoot][=CONN (EN: then, later)]
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.152">
