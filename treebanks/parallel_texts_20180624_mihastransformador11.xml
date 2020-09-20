@@ -5769,7 +5769,8 @@ ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.155">
-        <sentence lang="prq">ikantakovitari, shikiri, shikiri, te, te iñiri yapitakovitari shikiri, shikiri, shikiri, manapirotaka eentsi- payera.</sentence>
+        <sentence lang="prq" normalizationlevel="none">ikantakovitari, shikiri, shikiri, te, te iñiri yapitakovitari shikiri, shikiri, shikiri, manapirotaka eentsi- payera.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">ikantakovitari, shikiri, shikiri, te, te inyiri yapitakovitari shikiri, shikiri, shikiri, manapirotaka eentsi- payera.</sentence>
         <sentence lang="es">Buscaron removían todas las cosas, no; no le han visto por más que volvieron a buscarlo nada, estaban bien escondidos esos niños.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
 
