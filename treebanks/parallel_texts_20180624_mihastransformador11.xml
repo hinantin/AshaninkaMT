@@ -5861,15 +5861,78 @@ teek	teek	+?
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.157">
-        <sentence lang="prq">iñaatsiri yaranaki iroñaaka pitsirorakia, irotaki impasaikitavakirimi, irotaki impasatavakirimi, motyaanaka intatsikironta.</sentence>
+        <error_sentence>iñaatsiri yaranaki iroñaaka pitsirorakia, irotaki impasaikitavakirimi, irotaki impasatavakirimi, <error type="spelling">motyaanaka|montyaanaka</error> intatsikironta.</error_sentence>
+        <sentence lang="prq" normalizationlevel="none">iñaatsiri yaranaki iroñaaka pitsirorakia, irotaki impasaikitavakirimi, irotaki impasatavakirimi, montyaanaka intatsikironta.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">inyaatsiri yaranaki ironyaaka pitsirorakia, irotaki impasaikitavakirimi, irotaki impasatavakirimi, montyaanaka intatsikironta.</sentence>
         <sentence lang="es">Luego vieron volar grillo ya iban golpearlo, iban golpearlo, logro bandearse al otro lado.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+inyaatsiri		[i-][VPers][3m.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-a][+EP]a[--][-atsi][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]atsi[--][=ri][+3m.O/P]
+
+yaranaki		[y-][VPers][3m.S/A+][--][=ar+INF@aantsi:V.+I-Conj@act.v.][VRoot][=to.fly (ES: volar)][--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+pitsirorakia		[=pitsiro+gndr@m.+sem@insect][NRoot][=grasshopper (ES: saltamonte; sci.nm.: familia.locustidae/acrididae); true.locust][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)][--][-kia][+EMPH][=EMPH; ASSERT (EN: state.clearly-&amp;-firmly.that.sth.is.true)]
+
+,	,[$.]
+
+irotaki		[=irotaki+pragm.func@cntr.exh.l.FOC.+num@3SG+gndr@n.m.][PrnPers][=that's.why; she.is.the.one.(who)]
+
+impasaikitavakirimi		[i-][VPers][3m.S/A+][--][N=][IRR+][--][=pasaiki+INF@/EP:t/VC.][VRoot][=to.hit.with.a.stick (ES: golpear.con.un.palo)][--][-t][+EP]t[--][-av+dir@object.oriented][ADV][+DIR][=contrary,opposite; RCVG:object.arriving.at.the.location.of.the.subject]av[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P][--][=mi][MODAL][+CNT.F][=if-clause.expressing.an.idea/assumption/argument.contrary.to.fact (ES: no.realizado)]
+
+,	,[$.]
+
+irotaki		[=irotaki+pragm.func@cntr.exh.l.FOC.+num@3SG+gndr@n.m.][PrnPers][=that's.why; she.is.the.one.(who)]
+
+impasatavakirimi		[i-][VPers][3m.S/A+][--][N=][IRR+][--][=pasa+INF@/EP:t/aantsi.][VRoot][=to.punish (ES: castigar); to.hit, to.beat.up (ES: golpear)][--][-t][+EP]t[--][-av+dir@object.oriented][ADV][+DIR][=contrary,opposite; RCVG:object.arriving.at.the.location.of.the.subject]av[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P][--][=mi][MODAL][+CNT.F][=if-clause.expressing.an.idea/assumption/argument.contrary.to.fact (ES: no.realizado)]
+
+,	,[$.]
+
+montyaanaka		[=monty+INF@aantsi.][VRoot][=to.cross.river (by.boat/canoe/a_bridge, ES: vadear, cruzar.el.río.por.bote/canoa/puente)][--][-a][+EP]a[--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+intatsikironta		[=intatsikironta][NRoot][=other.side (ES: otro.lado, otra.banda)]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.158">
-        <sentence lang="prq">iñaatsiro pashini iroñaaka iritsiro, irotaki impasatavakiromi, irotaki impasatavakiromi, aataki irori intatsikironta irori.</sentence>
+        <sentence lang="prq" normalizationlevel="none">iñaatsiro pashini iroñaaka iritsiro, irotaki impasatavakiromi, irotaki impasatavakiromi, aataki irori intatsikironta irori.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">inyaatsiro pashini ironyaaka iritsiro, irotaki impasatavakiromi, irotaki impasatavakiromi, aataki irori intatsikironta irori.</sentence>
         <sentence lang="es">Vio a la otra ahora era la hermana, casi lo golpean, casi lo golpean; llego a cruzar a la otra banda del rio ella también.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+inyaatsiro		[i-][VPers][3m.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-a][+EP]a[--][-atsi][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]atsi[--][=ro][+3n.m.O/P]
+
+pashini		[=pashini][NRoot][=other, another (ES: otro); few]
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+iritsiro		[iri-][NPers][3m.poss+][--][=tsiro+gndr@n.m.+kin@male.ego][NRoot][=sister (ES: hermana)]
+
+,	,[$.]
+
+irotaki		[=irotaki+pragm.func@cntr.exh.l.FOC.+num@3SG+gndr@n.m.][PrnPers][=that's.why; she.is.the.one.(who)]
+
+impasatavakiromi		[i-][VPers][3m.S/A+][--][N=][IRR+][--][=pasa+INF@/EP:t/aantsi.][VRoot][=to.punish (ES: castigar); to.hit, to.beat.up (ES: golpear)][--][-t][+EP]t[--][-av+dir@object.oriented][ADV][+DIR][=contrary,opposite; RCVG:object.arriving.at.the.location.of.the.subject]av[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P][--][=mi][MODAL][+CNT.F][=if-clause.expressing.an.idea/assumption/argument.contrary.to.fact (ES: no.realizado)]
+
+,	,[$.]
+
+aataki		[=a][VRoot][=to.get][--][-a][+VERB.CL:liquid][=liquid]a[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+irori		[=irori+pragm.func@cntr.add.l.FOC.+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella)]
+
+intatsikironta		[=intatsikironta][NRoot][=other.side (ES: otro.lado, otra.banda)]
+
+irori		[=irori+pragm.func@cntr.add.l.FOC.+num@3SG+gndr@n.m.][PrnPers][=she (ES: ella)]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.159">
