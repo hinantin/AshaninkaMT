@@ -5824,7 +5824,12 @@ eentsipayera		[=eentsi+gndr@n./m.+poss@te.][NRoot][=child (ES: niño)][--][-paye
     <text id="1.156">
         <sentence lang="prq">Poña ikantanaki tsame antaakoteri, yaaki paamari itsirikakiro itakotakiri morikanaki, teek teek.</sentence>
         <sentence lang="es">Después dijo vamos quemarlo saco fuego, prendió la casa se quemó, ardió la candela.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.157">
