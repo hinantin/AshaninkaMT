@@ -5822,12 +5822,40 @@ eentsipayera		[=eentsi+gndr@n./m.+poss@te.][NRoot][=child (ES: niño)][--][-paye
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.156">
-        <sentence lang="prq">Poña ikantanaki tsame antaakoteri, yaaki paamari itsirikakiro itakotakiri morikanaki, teek teek.</sentence>
+        <error_sentence>Poña ikantanaki tsame antaakoteri, yaaki paamari itsirikakiro <error type="spelling">itakotakiri|itaakotakiri</error> morikanaki, teek teek.</error_sentence>
+        <sentence lang="prq" normalizationlevel="none">Poña ikantanaki tsame antaakoteri, yaaki paamari itsirikakiro itakotakiri morikanaki, teek teek.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ponya ikantanaki tsame antaakoteri, yaaki paamari itsirikakiro itakotakiri morikanaki, teek teek.</sentence>
         <sentence lang="es">Después dijo vamos quemarlo saco fuego, prendió la casa se quemó, ardió la candela.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
 
 
+ponya		[=ponya][AdvRoot][=CONN (EN: then, later)]
 
+ikantanaki		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+tsame		[=tsame+prop@standalone.][VRoot][=COME.ON, LET'S.GO (ES: vamos)]
+
+antaakoteri		[a-][VPers][1PL.S/A+][--][N=][IRR+][--][=ta+INF@antsi.][VRoot][=to.burn (ES: quemar)][--][-ako][VS][+APPL.GEN][=GEN (EN: with.reference.to.sth., about.sth.); INDR (EN: action.affects.sth.in.an.indirect.manner)]ako[--][-t][+EP]t[--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e[--][=ri][+3m.O/P]
+
+,	,[$.]
+
+yaaki		[y-][VPers][3m.S/A+][--][=a+INF@/DEL:a/gaantsi.+I-Conj@act.v.][VRoot][=to.take (ES: agarrar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+paamari		[=paamari+gndr@n.m.][NRoot][=fire (ES: candela, fuego)]
+
+itsirikakiro		[i-][VPers][3m.S/A+][--][=tsirik+INF@VC.][VRoot][=to.attach (ES: adherirse); to.stick (ES: pegar(se))][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+itaakotakiri		[i-][VPers][3m.S/A+][--][=ta+INF@antsi.][VRoot][=to.burn (ES: quemar)][--][-ako][VS][+APPL.GEN][=GEN (EN: with.reference.to.sth., about.sth.); INDR (EN: action.affects.sth.in.an.indirect.manner)]ako[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+morikanaki		[=morik+INF@aantsi.][VRoot][=to.burn (ES: arder)][--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+,	,[$.]
+
+teek	teek	+?
+
+teek	teek	+?
+
+.	.[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
