@@ -6005,8 +6005,8 @@ apiraateri		[a-][VPers][1PL.S/A+][--][=pira+INF@/EP:t/antsi.][VRoot][=to.win (ES
     </text>
     <text id="1.161">
         <error_sentence>Iroñaaka itsokaki ishimpityoki <error type="spelling">pona|poña</error> ikantaki! Afuu! Iñaatsiro atsatanaka antaro pampiamentotsi, irojatsi intatsikironta.</error_sentence>
-        <sentence lang="prq" normalizationlevel="none">Iroñaaka itsokaki ishimpityoki pona ikantaki! Afuu! Iñaatsiro atsatanaka antaro pampiamentotsi, irojatsi intatsikironta.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ironyaaka itsokaki ishimpityoki pona ikantaki! Afuu! Iñaatsiro atsatanaka antaro pampiamentotsi, irojatsi intatsikironta.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iroñaaka itsokaki ishimpityoki poña ikantaki! Afuu! Iñaatsiro atsatanaka antaro pampiamentotsi, irojatsi intatsikironta.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ironyaaka itsokaki ishimpityoki ponya ikantaki! Afuu! Inyaatsiro atsatanaka antaro pampiamentotsi, irohatsi intatsikironta.</sentence>
         <sentence lang="es">Ahora jaló su pestaña después dijo así sea luego vio colgado un gran puente hasta el otro lado.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
