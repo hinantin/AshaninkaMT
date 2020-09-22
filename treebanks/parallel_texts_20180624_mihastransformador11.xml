@@ -5986,12 +5986,27 @@ nyaakiro		[=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.
 
 chooki		[=chooki+gndr@n.m.+voc.+kin@male.ego][NRoot][=sister (ES: hermana)]
 
+amatakiri		[=amat][VRoot][=to.manage.(to.do.sth.), to.be.able/possible.(to.do.sth.) (ES: lograr, poder.hacer.algo); to.do.sth. (ES: hacer.algo); to.transmit.a.disease (ES: contagiar); to.become.infected.wth.sth., to.get.a_disease (ES: contagiarse)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+avakaahari		[a-][VPers][1PL.S/A+][--][=v][VRoot][=to.eat (ES: comer)][--][-ak][+APPL.CAUS.SOC][=A+(causer).causes.sth/sb(causee).to.do.sth.&amp;.A+.also.participates.in.the.actn.; to.make.sth/sb.do.sth.]ak[--][-a][+EP]a[--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL.RFL]a[--][=ri][+3m.O/P]
+
+iriniro		[iri-][NPers][3m.poss+][--][=niro+gndr@n.m.+kin@fe/male.ego+voc@1SG:2SG:3SG.][NRoot][=mother (ES: mamá)]
+
+;	;[$.]
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+apiraateri		[a-][VPers][1PL.S/A+][--][=pira+INF@/EP:t/antsi.][VRoot][=to.win (ES: vencer)][--][-a][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]a[--][-t][+EP]t[--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e[--][=ri][+3m.O/P]
 
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.161">
-        <sentence lang="prq">Iroñaaka itsokaki ishimpityoki pona ikantaki! Afuu! Iñaatsiro atsatanaka antaro pampiamentotsi, irojatsi intatsikironta.</sentence>
+        <error_sentence>Iroñaaka itsokaki ishimpityoki <error type="spelling">pona|poña</error> ikantaki! Afuu! Iñaatsiro atsatanaka antaro pampiamentotsi, irojatsi intatsikironta.</error_sentence>
+        <sentence lang="prq" normalizationlevel="none">Iroñaaka itsokaki ishimpityoki pona ikantaki! Afuu! Iñaatsiro atsatanaka antaro pampiamentotsi, irojatsi intatsikironta.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ironyaaka itsokaki ishimpityoki pona ikantaki! Afuu! Iñaatsiro atsatanaka antaro pampiamentotsi, irojatsi intatsikironta.</sentence>
         <sentence lang="es">Ahora jaló su pestaña después dijo así sea luego vio colgado un gran puente hasta el otro lado.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
