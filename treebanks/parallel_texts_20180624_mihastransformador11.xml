@@ -5936,15 +5936,58 @@ irori		[=irori+pragm.func@cntr.add.l.FOC.+num@3SG+gndr@n.m.][PrnPers][=she (ES: 
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.159">
-        <sentence lang="prq">okantaranki jaranki totsiraakinta, ari  aatakiri intatsikironta. Ari isaikapaaki iroñaaka naviriritatsirira.</sentence>
+        <sentence lang="prq" normalizationlevel="none">okantaranki jaranki totsiraakinta, ari  aatakiri intatsikironta. Ari isaikapaaki iroñaaka naviriritatsirira.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">okantaranki haranki totsiraakinta, ari  aatakiri intatsikironta. Ari isaikapaaki ironyaaka naviriritatsirira.</sentence>
         <sentence lang="es">Como es por allá en Toterani, allí llego a bandearse al otro lado ahí se quedo ahora el que iba ser el transformador</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+okantaranki		[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][-ranki+tense@fused.t.][Asp][+ADV.P][=past.situation]ranki
+
+haranki		[=haranki+~{DEM.ADV.:hara}{CLAR:nki}][PrnDem][= (ES: por.allá)]
+
+totsiraakinta		[=totsiraaki+sem@NP.place][NRoot][=the.stream.where.totziroki/aquatic_snail.is.abundant][--][=nta+mrph.cath@distal.b.][AS][+DEM.NOM][=DEM (EN: there, far.from.the.speaker (bounded))]
+
+,	,[$.]
+
+ari		[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+aatakiri		[=aa+INF@/EP:t/aantsi.][VRoot][=to.perch;| to.land, to.disembark;| to.dock (ES: atracar)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+intatsikironta		[=intatsikironta][NRoot][=other.side (ES: otro.lado, otra.banda)]
+
+.	.[$.]
+
+ari		[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+isaikapaaki		[i-][VPers][3m.S/A+][--][=saik+INF@aantsi.][VRoot][=to.be, to.be.at, to.be.in; to.sit (ES: sentarse); to.live][--][-ap+dir@goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-a][+EP]a[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+ironyaaka		[=ironyaaka][ConnRoot][=CONN (EN: then)]
+
+naviriritatsirira		[=naviriri+sem@NP.person][NRoot][=person's.name (ES: el.hombre.transformador, convertidor.de.personas)][^VBZ][--][-t][+EP]t[--][-atsi][Asp][+STAT.IPRF][=ongoing.&amp;.non-evolving.state]atsi[--][=ri+tns@n.fut.][NS][+REL][=REAL][--][-ra+loc@medial.][+ADV]ra
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.160">
-        <sentence lang="prq">Poña ikantsiro iritsiro ñaakiro Chooki amatakiri iroñaaka avakaajari iriniro; iroñaaka apiraateri</sentence>
+        <sentence lang="prq" normalizationlevel="none">Poña ikantsiro iritsiro ñaakiro Chooki amatakiri iroñaaka avakaajari iriniro; iroñaaka apiraateri</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ponya ikantsiro iritsiro nyaakiro Chooki amatakiri ironyaaka avakaahari iriniro; ironyaaka apiraateri</sentence>
         <sentence lang="es">Luego le dijo a su hermana, has visto hermana ya lo vencimos ahora, hicimos comer a su mamá ahora vamos acabarlos con todos</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ponya		[=ponya][AdvRoot][=CONN (EN: then, later)]
+
+iritsiro		[iri-][NPers][3m.poss+][--][=tsiro+gndr@n.m.+kin@male.ego][NRoot][=sister (ES: hermana)]
+
+nyaakiro		[=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-a][+EP]a[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+chooki		[=chooki+gndr@n.m.+voc.+kin@male.ego][NRoot][=sister (ES: hermana)]
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.161">
