@@ -6159,6 +6159,25 @@ hainaite		[=hainaite][NRoot][=cannibal (ES: caníbal)]
 
 irotaki		[=irotaki+pragm.func@cntr.exh.l.FOC.+num@3SG+gndr@n.m.][PrnPers][=that's.why; she.is.the.one.(who)]
 
+avisakotaatsiri		[=avisako+INF@/EP:t/antsi.][VRoot][=to.heal (ES: sanar); to.recover (ES: sanarse)][--][-t][+EP]t[--][-a][+REP][=again.and.again]a[--][-atsi][Asp][+STAT.IPRF][=ongoing.&amp;.non-evolving.state]atsi[--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+.	.[$.]
+
+aatahi		[=aa+INF@/EP:t/aantsi.][VRoot][=to.perch;| to.land, to.disembark;| to.dock (ES: atracar)][--][-t][+EP]t[--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+oyotsiro		[o-][VPers][3n.m.S/A+][--][=yo+INF@/EP:t/aantsi:/EP:t/agaantsi.][VRoot][=to.learn (ES: aprender); to.know (ES: conocer, saber)][--][-ts+freq@&lt;*.][+EP]ts[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+amaatsi		[=ama+INF@/EP:t/aantsi.][VRoot][=to.swim (ES: nadar)][--][-atsi][Asp][+STAT.IPRF][=ongoing.&amp;.non-evolving.state]atsi
+
+,	,[$.]
+
+pashinipaye		[=pashini][NRoot][=other, another (ES: otro); few][--][-paye][Num][+PL][=PL; DIST]
+
+tsonkataka		[=tsonk+INF@antsi.][VRoot][=to.finish.(off) (ES: terminar)][--][-a][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]a[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+ikamaki		[i-][VPers][3m.S/A+][--][=kam+INF@aantsi.+A-Conj@mid.v.][VRoot][=to.die (ES: morir)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+.	.[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
