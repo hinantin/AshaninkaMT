@@ -6112,7 +6112,32 @@ iviari		[i-][VPers][3m.S/A+][--][=v][VRoot][=to.eat (ES: comer)][--][-ia+tns@fut
         <sentence lang="prq" normalizationlevel="none">iroo iviravitaka niyanki ankante iroo yaatsimatantyari ikantakotsimaintari tarook itsonkakiri ivinkakiri.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">iroo iviravitaka niyanki ankante iroo yaatsimatantyari ikantakotsimaintari tarook itsonkakiri ivinkakiri.</sentence>
         <sentence lang="es">Cuando ya estaban por el medio digamos que ya van a llegar a la otra banda volteó al puente tarook acabó de hacerles ahogar a todos.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+iroo		[=iroo+pragm.func@cont.d.TOP.+num@3SG+gndr@n.m.][PrnPers][=she, it; that's why (ES: por.eso)]
+
+iviravitaka		[i-][VPers][3m.S/A+][--][=vir+INF@aantsi:agaantsi.][VRoot][=to.stop.doing.sth. (ES: dejar.de.hacer); to.end.sth.; to.advance.towards.sth. (ES: llegar/progresar/avanzar.hasta)][--][-a][+EP]a[--][-vi][+FRUS][=unsuccessful/interrupted.action/state (EN: in.vain; ES: casi); action.that.didn't.achieve.the.desired.result]vi[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+niyanki		[=niyanki+sem@loc.+poss@ti][NRoot][=in.the.center.of.sth., in.the.middle.of.sth.; half (ES: mitad)]
+
+ankante		[a-][VPers][1PL.S/A+][--][N=][IRR+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e
+
+iroo		[=iroo+pragm.func@cont.d.TOP.+num@3SG+gndr@n.m.][PrnPers][=she, it; that's why (ES: por.eso)]
+
+yaatsimatantyari		[y-][VPers][3m.S/A+][--][=aa+INF@/EP:t/aantsi.][VRoot][=to.perch;| to.land, to.disembark;| to.dock (ES: atracar)][--][-ts][+EP]ts[--][-ima][Asp][+INCH][=beginning.of.a.new.state; CNT.EXP:but]ima[--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=REAS (EN: in.order.to, so.that; ES: para.que); INST (EN: that.with.which.sb.does.sth., sb's.tool)]ant[--][-ya+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]ya[--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+ikantakotsimaintari		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-ako][VS][+APPL.GEN][=GEN (EN: with.reference.to.sth., about.sth.); INDR (EN: action.affects.sth.in.an.indirect.manner)]ako[--][-ts][+EP]ts[--][-imain][Asp][+INCH][=beginning.of.a.new.state; CNT.EXP:but]imain[--][-t][+EP]t[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL.RFL]a[--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+tarook	tarook	+?
+
+itsonkakiri		[i-][VPers][3m.S/A+][--][=tsonk+INF@antsi.][VRoot][=to.finish.(off) (ES: terminar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+ivinkakiri		[i-][VPers][3m.S/A+][--][=vink][VRoot][=to.dunk (cause.to.submerge; ES: hacer.ahogar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.165">
