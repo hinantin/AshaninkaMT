@@ -6005,22 +6005,107 @@ apiraateri		[a-][VPers][1PL.S/A+][--][=pira+INF@/EP:t/antsi.][VRoot][=to.win (ES
     </text>
     <text id="1.161">
         <error_sentence>Iroñaaka itsokaki ishimpityoki <error type="spelling">pona|poña</error> ikantaki! Afuu! Iñaatsiro atsatanaka antaro pampiamentotsi, irojatsi intatsikironta.</error_sentence>
-        <sentence lang="prq" normalizationlevel="none">Iroñaaka itsokaki ishimpityoki poña ikantaki! Afuu! Iñaatsiro atsatanaka antaro pampiamentotsi, irojatsi intatsikironta.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Iroñaaka itsokaki ishimpityoki poña ikantaki! Afuu! Iñaatsiro atsatanaka antaro pampiamentotsi, irohatsi intatsikironta.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ironyaaka itsokaki ishimpityoki ponya ikantaki! Afuu! Inyaatsiro atsatanaka antaro pampiamentotsi, irohatsi intatsikironta.</sentence>
         <sentence lang="es">Ahora jaló su pestaña después dijo así sea luego vio colgado un gran puente hasta el otro lado.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+itsokaki		[i-][VPers][3m.S/A+][--][=tsok+INF@antsi.][VRoot][=to.pull.out (ES: desyerbar/desherbar/deshierbar; cosechar.yuca/mavona)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+ishimpityoki		[i-][NPers][3m.poss+][--][=shimpityoki][NRoot][=eyelash (ES: pestaña)]
+
+ponya		[=ponya][AdvRoot][=CONN (EN: then, later)]
+
+ikantaki		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+!	![$.]
+
+afuu		[=afuu][Interj][=ritual.formula.whose.articulation.results.in.the.targeted.entity's.transformation]
+
+!	![$.]
+
+inyaatsiro		[i-][VPers][3m.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-a][+EP]a[--][-atsi][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]atsi[--][=ro][+3n.m.O/P]
+
+atsatanaka		[a-][VPers][1PL.S/A+][--][=tsa+INF@/EP:t/aantsi.][VRoot][=to.tie, to.moor; to.hung.up (ES: colgar); to.hung.from.sth. (ES: colgarse)][--][-t][+EP]t[--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+antaro		[=antaro+gndr@n.m.+poss@nposs.adj.][NRoot][=big; mature]
+
+pampiamentotsi		[=pampia][VRoot][=to.cross.river (by.boat/canoe/a_bridge)][--][-mento+gndr@n.m.][NS][+NMZ.CONCR]mento[--][-tsi+poss@alien.+syl@mono;di.][Gen][+nposs]tsi
+
+,	,[$.]
+
+irohatsi		[=irohatsi][AdvRoot][=until (ES: hasta), when]
+
+intatsikironta		[=intatsikironta][NRoot][=other.side (ES: otro.lado, otra.banda)]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.162">
-        <sentence lang="prq">ikantsiro iritsiro ñaakiro Chooki iroñaaka apiraateri ovakarori inaa.</sentence>
+        <sentence lang="prq" normalizationlevel="none">ikantsiro iritsiro ñaakiro Chooki iroñaaka apiraateri ovakarori inaa.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">ikantsiro iritsiro nyaakiro Chooki ironyaaka apiraateri ovakarori inaa.</sentence>
         <sentence lang="es">Le dijo a su hermana has visto hermana ahora hemos acabado con los que han comido a mamá.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ikantsiro		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+iritsiro		[iri-][NPers][3m.poss+][--][=tsiro+gndr@n.m.+kin@male.ego][NRoot][=sister (ES: hermana)]
+
+nyaakiro		[=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-a][+EP]a[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+chooki		[=chooki+gndr@n.m.+voc.+kin@male.ego][NRoot][=sister (ES: hermana)]
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+apiraateri	+?
+
+ovakarori		[=ov][VRoot][=to.save.sth.in.sth. (ES: guardar.algo)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ro][+3n.m.O/P][--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+inaa		[i-][NPers][3m.poss+][--][=inaa+gndr@n.m.+inal@tsi.+kin@fe/male.ego][NRoot][=mother (ES: mamá); wife]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.163">
-        <sentence lang="prq">iñaakiro iroñaaka otsatakotanaka pampiamentotsi antaro inchato montyajeetaka jainaite, inintsimi iviari.</sentence>
+        <sentence lang="prq" normalizationlevel="none">iñaakiro iroñaaka otsatakotanaka pampiamentotsi antaro inchato montyajeetaka jainaite, inintsimi iviari.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">inyaakiro ironyaaka otsatakotanaka pampiamentotsi antaro inchato montyaheetaka hainaite, inintsimi iviari.</sentence>
         <sentence lang="es">Han visto ahora colgado algo para caminar que era grande palo (puente) comenzaron a bandearse los hombres que comían carne humana quería comérselo.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+inyaakiro		[i-][VPers][3m.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-a][+EP]a[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+otsatakotanaka		[o-][VPers][3n.m.S/A+][--][=tsa+INF@/EP:t/aantsi.][VRoot][=to.tie, to.moor; to.hung.up (ES: colgar); to.hung.from.sth. (ES: colgarse)][--][-t][+EP]t[--][-ako][VS][+APPL.GEN][=GEN (EN: with.reference.to.sth., about.sth.); INDR (EN: action.affects.sth.in.an.indirect.manner)]ako[--][-t][+EP]t[--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+pampiamentotsi		[=pampia][VRoot][=to.cross.river (by.boat/canoe/a_bridge)][--][-mento+gndr@n.m.][NS][+NMZ.CONCR]mento[--][-tsi+poss@alien.+syl@mono;di.][Gen][+nposs]tsi
+
+antaro		[=antaro+gndr@n.m.+poss@nposs.adj.][NRoot][=big; mature]
+
+inchato		[=inchato+~{N:/'plant':incha/}{CL:/'tree':to/}+gndr@n.m.][NRoot][=tree (ES: árbol)]
+
+montyaheetaka		[=monty+INF@aantsi.][VRoot][=to.cross.river (by.boat/canoe/a_bridge, ES: vadear, cruzar.el.río.por.bote/canoa/puente)][--][-a][+EP]a[--][-hee][NUM][+PL][=PL.S/A+; INTR: PL.S/A+; TR: PL.S/A+.or.+PL.O]hee[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+hainaite		[=hainaite][NRoot][=cannibal (ES: caníbal)]
+
+,	,[$.]
+
+inintsimi		[i-][VPers][3m.S/A+][--][=nint+INF@aantsi.+poss@ane:ani.][VRoot][=to.want (ES: gustar); to.love (ES: amar)][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=mi][+2SG.O/P][=you (ES: te)]
+
+iviari		[i-][VPers][3m.S/A+][--][=v][VRoot][=to.eat (ES: comer)][--][-ia+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]ia[--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.164">
