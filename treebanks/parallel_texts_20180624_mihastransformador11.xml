@@ -6217,17 +6217,63 @@ apiraatakiri		[a-][VPers][1PL.S/A+][--][=piraa+INF@/EP:t/VC.][VRoot][=to.extermi
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.167">
-        <sentence lang="prq" normalizationlevel="none">Iroñaa1ka iritsiro shimashiri irotaki iritsiro okaakini irotaki itsipatakari pairani. Tsimaatsi okaratsi mava iritsiro naviri iroñaaka.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">Iroñaa1ka iritsiro shimashiri irotaki iritsiro okaakini irotaki itsipatakari pairani. Tsimaatsi okaratsi mava iritsiro naviri iroñaaka.</sentence>
+        <error_sentence>Iroñaaka iritsiro shimashiri irotaki iritsiro okaakini irotaki itsipatakari pairani. Tsimaatsi okaratsi mava iritsiro <error type="spelling">naviri|naviriri</error> iroñaaka.</error_sentence>
+        <sentence lang="prq" normalizationlevel="none">Iroñaaka iritsiro shimashiri irotaki iritsiro okaakini irotaki itsipatakari pairani. Tsimaatsi okaratsi mava iritsiro naviriri iroñaaka.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ironyaaka iritsiro shimashiri irotaki iritsiro okaakini irotaki itsipatakari pairani. Tsimaatsi okaratsi mava iritsiro naviriri ironyaaka.</sentence>
         <sentence lang="es">Ahora su hermana Hoja de pescado es la hermana cercana con quien se acompaño antes. Tenía tres hermanas el hombre transformador.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+iritsiro		[iri-][NPers][3m.poss+][--][=tsiro+gndr@n.m.+kin@male.ego][NRoot][=sister (ES: hermana)]
+
+shimashiri		[=shimashiri+gndr@n.m.+sem@plant][NRoot][=flowering.tree.sp., plant.sp. (ES: Pino.chuncho, flor.de.mayo; sci.nm.: schizolobium.amazoni.cum); person's.name, NP]
+
+irotaki		[=irotaki+pragm.func@cntr.exh.l.FOC.+num@3SG+gndr@n.m.][PrnPers][=that's.why; she.is.the.one.(who)]
+
+iritsiro		[iri-][NPers][3m.poss+][--][=tsiro+gndr@n.m.+kin@male.ego][NRoot][=sister (ES: hermana)]
+
+okaakini		[=okaakini][AdvRoot][=near (ES: cerca)]
+
+irotaki		[=irotaki+pragm.func@cntr.exh.l.FOC.+num@3SG+gndr@n.m.][PrnPers][=that's.why; she.is.the.one.(who)]
+
+itsipatakari		[i-][VPers][3m.S/A+][--][=tsipa+INF@/EP:t/aantsi.][VRoot][=to.accompany (ES: acompañar);| to.be.together (ES: tener.pareja);| to.join (ES: juntarse)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ri][+3m.O/P]
+
+pairani		[=pairani][AdvRoot][=since; before; long.ago]
+
+.	.[$.]
+
+tsimaatsi		[=tsim][VRoot][=POSSESS (EN: to.have; ES: tener); EXIST (EN: to.be.born, to.exist; ES: nacer)][--][-a][+EP]a[--][-atsi][Asp][+STAT.IPRF][=ongoing.&amp;.non-evolving.state]atsi
+
+okaratsi		[o-][VPers][3n.m.S/A+][--][=kara+INF@/EP:t/aantsi.][VRoot][=COP.CAP (EN: the.amount,, to.be.Nº/#.in.number/quantity_of_sth.)][--][-ts+freq@&lt;*.][+EP]ts[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+mava		[=mava][Numeral:PRQ][=3 ~ three (ES: tres)]
+
+iritsiro		[iri-][NPers][3m.poss+][--][=tsiro+gndr@n.m.+kin@male.ego][NRoot][=sister (ES: hermana)]
+
+naviriri		[=naviriri+sem@NP.person][NRoot][=person's.name (ES: el.hombre.transformador, convertidor.de.personas)]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.168">
         <sentence lang="prq" normalizationlevel="none">Shimashiri, oka misha poña, sabori ari okaratsi mava. Iritsiropiro okakinipiro irotaki shimashiri, okaratsi otsomontetakiri iriniro.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Shimashiri, oka misha ponya, savori ari okaratsi mava. Iritsiropiro okakinipiro irotaki shimashiri, okaratsi otsomontetakiri iriniro.</sentence>
         <sentence lang="es">Hoja de pescado, lopuna y la espina eso eran los tres la más cercana era Hoja de pescado con lo que estuvieron en el vientre de su madre.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+shimashiri		[=shimashiri+gndr@n.m.+sem@plant][NRoot][=flowering.tree.sp., plant.sp. (ES: Pino.chuncho, flor.de.mayo; sci.nm.: schizolobium.amazoni.cum); person's.name, NP]
+
+,	,[$.]
+
+oka		[=oka+gndr@n.m.+loc@proximal][PrnDem][=DEM. NOM.DEM (EN: this; ES: ello.aquí)]
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.169">
