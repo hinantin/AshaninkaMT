@@ -6186,7 +6186,16 @@ ikamaki		[i-][VPers][3m.S/A+][--][=kam+INF@aantsi.+A-Conj@mid.v.][VRoot][=to.die
         <sentence lang="prq" normalizationlevel="none">Poña ikantsiro iroñaaka iritsiro ñaakiro Chooki amatakiri iroñaaka, atsonkatakiri apiraatakiri.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ponya ikantsiro ironyaaka iritsiro nyaakiro Chooki amatakiri ironyaaka, atsonkatakiri apiraatakiri.</sentence>
         <sentence lang="es">Luego le dijo ahora a su hermana has visto hermana hemos logrado terminar lo terminamos.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ponya		[=ponya][AdvRoot][=CONN (EN: then, later)]
+
+ikantsiro		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.167">
