@@ -6144,7 +6144,23 @@ ivinkakiri		[i-][VPers][3m.S/A+][--][=vink][VRoot][=to.dunk (cause.to.submerge; 
         <sentence lang="prq" normalizationlevel="none">Maatsi aparoni kooya motyaanto jainaite irotaki avisakotaatsiri. Aataji oyotsiro amaatsi, pashinipaye tsonkataka ikamaki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Maatsi aparoni kooya motyaanto hainaite irotaki avisakotaatsiri. Aatahi oyotsiro amaatsi, pashinipaye tsonkataka ikamaki.</sentence>
         <sentence lang="es">Había una mujer embarazada del hombre que come carne humana, ella es la que se salvó, logró llegar a la orilla nadando. Ella sabía nadar los demás se acabaron de morir.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+maatsi		[=maatsi][VRoot][=EXIST (EN: there.is/are); POSSESS (EN: has)]
+
+aparoni		[=aparoni+~{'one':apa}{NMZ:ro}{ADV:ni}][Numeral:PRQ][=1 ~ one (ES: uno)]
+
+kooya		[=kooya+gndr@n.m.][NRoot][=woman (ES: mujer; QU: quya)]
+
+motyaanto		[=motya+sem@b.p.][NRoot][=stomach, belly]::[=to.get.pregnant (ES: embarazarse)][^VBZ][--][-a][+VERB.CL:liquid][=liquid]a[--][-nto+gndr@n.m.][NS][+ADJ.PARTIC]nto
+
+hainaite		[=hainaite][NRoot][=cannibal (ES: caníbal)]
+
+irotaki		[=irotaki+pragm.func@cntr.exh.l.FOC.+num@3SG+gndr@n.m.][PrnPers][=that's.why; she.is.the.one.(who)]
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.166">
