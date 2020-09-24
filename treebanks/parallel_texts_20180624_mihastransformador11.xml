@@ -6260,8 +6260,9 @@ naviriri		[=naviriri+sem@NP.person][NRoot][=person's.name (ES: el.hombre.transfo
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.168">
-        <sentence lang="prq" normalizationlevel="none">Shimashiri, oka misha poña, sabori ari okaratsi mava. Iritsiropiro okakinipiro irotaki shimashiri, okaratsi otsomontetakiri iriniro.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">Shimashiri, oka misha ponya, savori ari okaratsi mava. Iritsiropiro okakinipiro irotaki shimashiri, okaratsi otsomontetakiri iriniro.</sentence>
+        <error_sentence>Shimashiri, oka misha poña, <error type="spelling">sabori|saboro</error> ari okaratsi mava. Iritsiropiro okakinipiro irotaki shimashiri, okaratsi otsomontetakiri iriniro.</error_sentence>
+        <sentence lang="prq" normalizationlevel="none">Shimashiri, oka misha poña, saboro ari okaratsi mava. Iritsiropiro okakinipiro irotaki shimashiri, okaratsi otsomontetakiri iriniro.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Shimashiri, oka misha ponya, savoro ari okaratsi mava. Iritsiropiro okakinipiro irotaki shimashiri, okaratsi otsomontetakiri iriniro.</sentence>
         <sentence lang="es">Hoja de pescado, lopuna y la espina eso eran los tres la más cercana era Hoja de pescado con lo que estuvieron en el vientre de su madre.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
 
@@ -6272,6 +6273,39 @@ shimashiri		[=shimashiri+gndr@n.m.+sem@plant][NRoot][=flowering.tree.sp., plant.
 
 oka		[=oka+gndr@n.m.+loc@proximal][PrnDem][=DEM. NOM.DEM (EN: this; ES: ello.aquí)]
 
+misha		[=misha+gndr@n.m.+sem@plant][NRoot][=tree.sp. (capirona)]
+
+ponya		[=ponya][AdvRoot][=CONN (EN: then, later)]
+
+,	,[$.]
+
+savoro		[=savoro+gndr@n.m.][NRoot][=(wild).giant.cane (ES: caña.brava, carrizo)]
+
+ari		[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+okaratsi		[o-][VPers][3n.m.S/A+][--][=kara+INF@/EP:t/aantsi.][VRoot][=COP.CAP (EN: the.amount,, to.be.Nº/#.in.number/quantity_of_sth.)][--][-ts+freq@&lt;*.][+EP]ts[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+mava		[=mava][Numeral:PRQ][=3 ~ three (ES: tres)]
+
+.	.[$.]
+
+iritsiropiro		[iri-][NPers][3m.poss+][--][=tsiro+gndr@n.m.+kin@male.ego][NRoot][=sister (ES: hermana)][--][-piro][+CL:thin,flacid][=thin,flacid]
+
+okaakinipiro		[=okaakini+sem@loc.][AdvRoot][=in.close.proximity, closeby][--][-piro][+CL:thin,flacid][=thin,flacid]
+
+irotaki		[=irotaki+pragm.func@cntr.exh.l.FOC.+num@3SG+gndr@n.m.][PrnPers][=that's.why; she.is.the.one.(who)]
+
+shimashiri		[=shimashiri+gndr@n.m.+sem@plant][NRoot][=flowering.tree.sp., plant.sp. (ES: Pino.chuncho, flor.de.mayo; sci.nm.: schizolobium.amazoni.cum); person's.name, NP]
+
+,	,[$.]
+
+okaratsi		[o-][VPers][3n.m.S/A+][--][=kara+INF@/EP:t/aantsi.][VRoot][=COP.CAP (EN: the.amount,, to.be.Nº/#.in.number/quantity_of_sth.)][--][-ts+freq@&lt;*.][+EP]ts[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+otsomontetakiri		[o-][VPers][3n.m.S/A+][--][=tsomonte+sem@b.p.][NRoot][=belly (ES: abdomen, barriga)]::[=to.be.pregnant (ES: estar.embarazada)][^VBZ][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+iriniro		[iri-][NPers][3m.poss+][--][=niro+gndr@n.m.+kin@fe/male.ego+voc@1SG:2SG:3SG.][NRoot][=mother (ES: mamá)]
+
+.	.[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
@@ -6280,7 +6314,50 @@ oka		[=oka+gndr@n.m.+loc@proximal][PrnDem][=DEM. NOM.DEM (EN: this; ES: ello.aqu
         <sentence lang="prq" normalizationlevel="none">Poña ikantakiro iroñaaka iritsiro amatakiri iroñaaka. Tsame ajate katonko. Pokaki iroñaaka jaka aritaka jaka antaritanaki antaritaki. Iroñaaka.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ponya ikantakiro ironyaaka iritsiro amatakiri ironyaaka. Tsame ahate katonko. Pokaki ironyaaka haka aritaka haka antaritanaki antaritaki. Ironyaaka.</sentence>
         <sentence lang="es">Después le dijo a su hermana ahora ya hemos terminado ahora vamos a la parte alta vinieron ahora hasta aquí llegaron aquí ya creció ya es grande ahora.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ponya		[=ponya][AdvRoot][=CONN (EN: then, later)]
+
+ikantakiro		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+iritsiro		[iri-][NPers][3m.poss+][--][=tsiro+gndr@n.m.+kin@male.ego][NRoot][=sister (ES: hermana)]
+
+amatakiri		[=amat][VRoot][=to.manage.(to.do.sth.), to.be.able/possible.(to.do.sth.) (ES: lograr, poder.hacer.algo); to.do.sth. (ES: hacer.algo); to.transmit.a.disease (ES: contagiar); to.become.infected.wth.sth., to.get.a_disease (ES: contagiarse)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+.	.[$.]
+
+tsame		[=tsame+prop@standalone.][VRoot][=COME.ON, LET'S.GO (ES: vamos)]
+
+ahate		[a-][VPers][1PL.S/A+][--][=hat+INF@aantsi.][VRoot][=to.go (ES: ir)][--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e
+
+katonko		[=katonko+poss@te.][NRoot][=up.river, upstream (ES: río.arriba)]
+
+.	.[$.]
+
+pokaki		[=pok+INF@aantsi;VC.][VRoot][=to.come (ES: venir), to.arrive][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+ironyaaka		[=ironyaaka][ConnRoot][=CONN (EN: then)]
+
+haka		[=haka+loc@proximal.b.][PrnDem][=DEM.ADV. (EN: here, close.to.the.speaker; ES: aquí)]
+
+aritaka		[=ari][VRoot][=to.be.the.case (ES: ser.así); to.be.true][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+haka		[=haka+loc@proximal.b.][PrnDem][=DEM.ADV. (EN: here, close.to.the.speaker; ES: aquí)]
+
+antaritanaki		[=antari+gndr@m.+poss@nposs.adj.][NRoot][=big (ES: grande); mature][^VBZ][--][-t][+EP]t[--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+antaritaki		[=antari+gndr@m.+poss@nposs.adj.][NRoot][=big (ES: grande); mature][^VBZ][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+.	.[$.]
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.170">
