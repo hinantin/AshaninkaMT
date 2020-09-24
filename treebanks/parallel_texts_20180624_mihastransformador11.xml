@@ -6355,7 +6355,9 @@ antaritaki		[=antari+gndr@m.+poss@nposs.adj.][NRoot][=big (ES: grande); mature][
 
 .	.[$.]
 
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
 
+.	.[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
@@ -6364,7 +6366,19 @@ antaritaki		[=antari+gndr@m.+poss@nposs.adj.][NRoot][=big (ES: grande); mature][
         <sentence lang="prq" normalizationlevel="none">Tsimaatsi aparoni ikantsiri icharini ipaita poiyotsi, iritaki itsipaantari. Ari intanakari iroñaaka ipiantayetanaki arika iñaapaki tsika paitarika inkantaki Afuu, ichaponkitsi pinpiya.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Tsimaatsi aparoni ikantsiri icharini ipaita poiyotsi, iritaki itsipaantari. Ari intanakari ironyaaka ipiantayetanaki arika inyaapaki tsika paitarika inkantaki Afuu, ichaponkitsi pimpiya.</sentence>
         <sentence lang="es">Tenía una persona a quien le decía que era su nieto se llamaba cabeza blanca él era su compañero ahí comenzó ahora a transformar a otras personas cuando iba a otros sitios y veía cualquier cosa decía así sea tronco de un árbol conviértete.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+tsimaatsi		[=tsim][VRoot][=POSSESS (EN: to.have; ES: tener); EXIST (EN: to.be.born, to.exist; ES: nacer)][--][-a][+EP]a[--][-atsi][Asp][+STAT.IPRF][=ongoing.&amp;.non-evolving.state]atsi
+
+aparoni		[=aparoni+~{'one':apa}{NMZ:ro}{ADV:ni}][Numeral:PRQ][=1 ~ one (ES: uno)]
+
+ikantsiri		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+icharini		[i-][NPers][3m.poss+][--][=charini][NRoot][=toucan.sp. (ES: sp.de.tucán; sci.nm.: ramphastos.aff.swainsonii)]
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.171">
