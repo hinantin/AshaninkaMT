@@ -6363,8 +6363,9 @@ ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.170">
-        <sentence lang="prq" normalizationlevel="none">Tsimaatsi aparoni ikantsiri icharini ipaita poiyotsi, iritaki itsipaantari. Ari intanakari iroñaaka ipiantayetanaki arika iñaapaki tsika paitarika inkantaki Afuu, ichaponkitsi pinpiya.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">Tsimaatsi aparoni ikantsiri icharini ipaita poiyotsi, iritaki itsipaantari. Ari intanakari ironyaaka ipiantayetanaki arika inyaapaki tsika paitarika inkantaki Afuu, ichaponkitsi pimpiya.</sentence>
+        <error_sentence>Tsimaatsi aparoni ikantsiri icharini ipaita poiyotsi, iritaki itsipaantari. Ari intanakari iroñaaka ipiantayetanaki arika iñaapaki tsika paitarika inkantaki Afuu, <error type="spelling">ichaponkitsi|inchaponkitsi</error> pinpiya.</error_sentence>
+        <sentence lang="prq" normalizationlevel="none">Tsimaatsi aparoni ikantsiri icharini ipaita poiyotsi, iritaki itsipaantari. Ari intanakari iroñaaka ipiantayetanaki arika iñaapaki tsika paitarika inkantaki Afuu, inchaponkitsi pinpiya.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Tsimaatsi aparoni ikantsiri icharini ipaita poiyotsi, iritaki itsipaantari. Ari intanakari ironyaaka ipiantayetanaki arika inyaapaki tsika paitarika inkantaki Afuu, inchaponkitsi pimpiya.</sentence>
         <sentence lang="es">Tenía una persona a quien le decía que era su nieto se llamaba cabeza blanca él era su compañero ahí comenzó ahora a transformar a otras personas cuando iba a otros sitios y veía cualquier cosa decía así sea tronco de un árbol conviértete.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
 
@@ -6405,6 +6406,17 @@ tsika		[=tsika+periphrasis@=saik.][WhPrn][=WH (EN: where,, what,, which,, how,, 
 
 paitarika		[=paita][WhPrn][=WH][--][-rika][+COND]::[Prn][=INDF (animate/inanimate.entitities; EN: whatever, something)]
 
+inkantaki		[i-][VPers][3m.S/A+][--][N=][IRR+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+afuu		[=afuu][Interj][=ritual.formula.whose.articulation.results.in.the.targeted.entity's.transformation]
+
+,	,[$.]
+
+inchaponkitsi		[=incha][NRoot][=plant (ES: planta)][--][-po][+CL:abandoned][=abandoned][--][-nki][+CL:snake][=snake.sp.][--][-tsi+poss@alien.+syl@mono;di.][Gen][+nposs]tsi
+
+pimpiya		[pi-][VPers][2S/A+][--][N=][IRR+][--][=pi][VRoot][=to.convert, to.transform][--][-ya+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]ya
+
+.	.[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
