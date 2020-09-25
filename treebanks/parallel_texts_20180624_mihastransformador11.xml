@@ -6493,7 +6493,17 @@ hu		[=hu+s.redup.word@3X.][Ideo][=animal.cry.made.by.a.koshiri-monkey]
         <sentence lang="prq" normalizationlevel="none">Tsika ijate, tsika paita iñaapaki, ari inkantya, ari inkantya, iyoitsi arika impoki ikantsi korakitaintsi naviriri.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Tsika ihate, tsika paita inyaapaki, ari inkantya, ari inkantya, iyoitsi arika impoki ikantsi korakitaintsi naviriri.</sentence>
         <sentence lang="es">Donde iba lo que veía así era, así era, sabían cuando venia decían ya viene el transformador.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+tsika		[=tsika+periphrasis@=saik.][WhPrn][=WH (EN: where,, what,, which,, how,, why)]
+
+ihate		[i-][VPers][3m.S/A+][--][=ha+INF@/EP:t/aantsi.][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e
+
+,	,[$.]
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.173">
