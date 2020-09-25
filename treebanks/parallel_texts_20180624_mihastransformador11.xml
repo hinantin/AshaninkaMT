@@ -6425,7 +6425,12 @@ pimpiya		[pi-][VPers][2S/A+][--][N=][IRR+][--][=pi][VRoot][=to.convert, to.trans
         <sentence lang="prq" normalizationlevel="none">Pianaka inchapontso Arika iñaapakiri aparoni asháninka atsovaitatsini, akantsiri intsiki, pamaaki, yantaitakovaitsiro inkantapaakiri Afuu, koshiri pinii; Pianaka koshiri kaimanaki ju, ju, ju.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Pianaka inchapontso Arika inyaapakiri aparoni ashaninka atsovaitatsini, akantsiri intsiki, pamaaki, yantaitakovaitsiro inkantapaakiri Afuu, koshiri pinii; Pianaka koshiri kaimanaki hu, hu, hu.</sentence>
         <sentence lang="es">Se convertía en tronco de un árbol. Cuando veía una persona paisano que chupaba lo que decimos frutilla y chimicua y se subía decía así sea mono serás se convertía en mono y gritaba ju ju ju.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.172">
