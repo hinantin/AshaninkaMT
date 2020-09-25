@@ -6468,6 +6468,14 @@ pinii		[pi-][VPers][2S/A+][--][=n+INF@aantsi][VRoot][=to.be (ES: ser,, estar)][-
 
 ;	;[$.]
 
+pianaka		[=pi][VRoot][=to.disappear (ES: desaparecer)][--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+koshiri		[=koshiri+gndr@m.+poss@ti.+sem@wild.anim.][NRoot][=monkey.sp., white.monkey.sp. (ES: machín.blanco; sci.nm.: cebus.albifrons)]
+
+kaimanaki		[=kaim+INF@aantsi.][VRoot][=to.scream (ES: gritar); to.call (ES: llamar)][--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+hu		[=hu+s.redup.word@3X.][Ideo][=animal.cry.made.by.a.koshiri-monkey]
+
 
 </morphology>
         <parsing format="" analysislevel=""/>
