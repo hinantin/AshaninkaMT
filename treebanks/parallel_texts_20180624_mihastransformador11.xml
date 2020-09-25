@@ -6383,6 +6383,22 @@ poiyotsi		[=poiyotsi][NRoot][=gray-headed.child (ES: persona.de.cabeza.blanca)]
 
 ,	,[$.]
 
+iritaki		[=iritaki+pragm.func@cntr.exh.l.FOC.+num@3SG+gndr@m.][PrnPers][=that's.why; he.is.the.one.(who); this.is.(what)]
+
+itsipaantari		[i-][VPers][3m.S/A+][--][=tsipa+INF@/EP:t/aantsi.][VRoot][=to.accompany (ES: acompañar);| to.be.together (ES: tener.pareja);| to.join (ES: juntarse)][--][-ant][Asp][+APPL.REAS][=REAS (EN: in.order.to, so.that; ES: para.que); INST (EN: that.with.which.sb.does.sth., sb's.tool)]ant[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL.RFL]a[--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+.	.[$.]
+
+ari		[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+intanakari		[=int+INF@aantsi.][VRoot][=to.begin][--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+ipiantayetanaki		[i-][VPers][3m.S/A+][--][=pi][VRoot][=to.disappear (ES: desaparecer)][--][-ant][Asp][+APPL.REAS][=REAS (EN: in.order.to, so.that; ES: para.que); INST (EN: that.with.which.sb.does.sth., sb's.tool)]ant[--][-a][+EP]a[--][-ye][+DIST][=PL.S/A+.who.are.separated.into.groups.in.≠.locations]ye[--][-t][+EP]t[--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+arika		[=ari][PostPol][=PP][--][=ka+~{R.DEL:ri}{COND:rika}][+COND]::[=when (temporal.simultaneity); if (expresses.possible.condition)]
+
 
 
 </morphology>
