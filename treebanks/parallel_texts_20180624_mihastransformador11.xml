@@ -6490,8 +6490,9 @@ hu		[=hu+s.redup.word@3X.][Ideo][=animal.cry.made.by.a.koshiri-monkey]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.172">
-        <sentence lang="prq" normalizationlevel="none">Tsika ijate, tsika paita iñaapaki, ari inkantya, ari inkantya, iyoitsi arika impoki ikantsi korakitaintsi naviriri.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">Tsika ihate, tsika paita inyaapaki, ari inkantya, ari inkantya, iyoitsi arika impoki ikantsi korakitaintsi naviriri.</sentence>
+        <error_sentence>Tsika ijate, tsika paita iñaapaki, ari inkantya, ari inkantya, <error type="spelling">iyoitsi|iyoitzi</error> arika impoki ikantsi korakitaintsi naviriri.</error_sentence>
+        <sentence lang="prq" normalizationlevel="none">Tsika ijate, tsika paita iñaapaki, ari inkantya, ari inkantya, iyoitzi arika impoki ikantsi korakitaintsi naviriri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Tsika ihate, tsika paita inyaapaki, ari inkantya, ari inkantya, iyoitzi arika impoki ikantsi korakitaintsi naviriri.</sentence>
         <sentence lang="es">Donde iba lo que veía así era, así era, sabían cuando venia decían ya viene el transformador.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
 
@@ -6506,7 +6507,36 @@ tsika		[=tsika+periphrasis@=saik.][WhPrn][=WH (EN: where,, what,, which,, how,, 
 
 paita		[=paita][WhPrn][=WH (EN: how, why, what; ES: ¿qué?, ¿por qué?)]
 
+inyaapaki		[i-][VPers][3m.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-a][+EP]a[--][-ap+dir@goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
 
+,	,[$.]
+
+ari		[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+inkantya		[i-][VPers][3m.S/A+][--][N=][IRR+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-ya+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]ya
+
+,	,[$.]
+
+
+ari		[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+inkantya		[i-][VPers][3m.S/A+][--][N=][IRR+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-ya+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]ya
+
+,	,[$.]
+
+iyoitzi		[=iyo+INF@/EP:t/aantsi:/EP:t/agaantsi.][VRoot][=to.know (ES: saber); to.learn (ES: aprender)][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=tzi][+EMPH]tzi
+
+arika		[=ari][PostPol][=PP][--][=ka+~{R.DEL:ri}{COND:rika}][+COND]::[=when (temporal.simultaneity); if (expresses.possible.condition)]
+
+impoki		[i-][VPers][3m.S/A+][--][N=][IRR+][--][=pok+INF@aantsi;VC.][VRoot][=to.come (ES: venir), to.arrive][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+ikantsi		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+korakitaintsi		[=koraki+INF@/EP:t/aantsi.][VRoot][=to.approach, to.get.closer, to.come.near][--][-t][+EP]t[--][-aintsi][Asp][+STAT.PRF][=termination.of.what.is.viewed.as.a.static.event.in.its.entirety]aintsi
+
+naviriri		[=naviriri+sem@NP.person][NRoot][=person's.name (ES: el.hombre.transformador, convertidor.de.personas)]
+
+.	.[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
@@ -6515,7 +6545,24 @@ paita		[=paita][WhPrn][=WH (EN: how, why, what; ES: ¿qué?, ¿por qué?)]
         <sentence lang="prq" normalizationlevel="none">ikantajeetsi pashinipaye, tsika ankanterika: antaitavitanaka jeñokini apaata asatekavitakia añashitakia yaminaki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">ikantaheetsi pashinipaye, tsika ankanterika: antaitavitanaka henyokini apaata asatekavitakia anyashitakia yaminaki.</sentence>
         <sentence lang="es">Decían otras personas que le hacemos algunos se subían arriba esperaban colgados ahí lo veían mirándoles.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ikantaheetsi		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-a][+EP]a[--][-hee][NUM][+PL][=PL.S/A+; INTR: PL.S/A+; TR: PL.S/A+.or.+PL.O]hee[--][-ts+freq@&lt;*.][+EP]ts[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+pashinipaye		[=pashini][NRoot][=other, another (ES: otro); few][--][-paye][Num][+PL][=PL; DIST]
+
+,	,[$.]
+
+tsika		[=tsika+periphrasis@=saik.][WhPrn][=WH (EN: where,, what,, which,, how,, why)]
+
+ankanterika		[a-][VPers][1PL.S/A+][--][N=][IRR+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e[--][=rika][MODAL][+COND][=if (expresses.possible.condition); like (comparison)]
+
+:	:[$.]
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.174">
