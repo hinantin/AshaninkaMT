@@ -6560,7 +6560,19 @@ ankanterika		[a-][VPers][1PL.S/A+][--][N=][IRR+][--][=kant+INF@aantsi.][VRoot][=
 
 :	:[$.]
 
+antaitavitanaka	+?
 
+henyokini		[=henyoki~{he}{E.PAL.:ny}{oki}][NRoot][=top (ES: arriba, alto); sky][--][-ni+~{R.DEL:e}{ADV:eni}][AS][+ADV]
+
+apaata	+?
+
+asatekavitakia		[a-][VPers][1PL.S/A+][--][=satek+INF@aantsi.][VRoot][=to.place/put.in/inside.sth./sb.; (ES: estar.en.medio, entremeterse)][--][-a][+EP]a[--][-vi][+FRUS][=unsuccessful/interrupted.action/state (EN: in.vain; ES: casi); action.that.didn't.achieve.the.desired.result]vi[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-ia+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]ia
+
+anyashitakia		[a-][VPers][1PL.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-ashi][+APPL.INT][=purpose,(with.the).intent]ashi[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-ia+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]ia
+
+yaminaki		[y-][VPers][3m.S/A+][--][=amin+INF@aantsi.][VRoot][=to.see, to.look; to.look.for; to.look.after; to.take.care.of][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+.	.[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
@@ -6569,14 +6581,111 @@ ankanterika		[a-][VPers][1PL.S/A+][--][N=][IRR+][--][=kant+INF@aantsi.][VRoot][=
         <sentence lang="prq" normalizationlevel="none">Tsimaatsi aparoni akantakiri poiyotsi, iritaki aminavaitatsi. Ikiiri itapiiki, yaminayetsi jaka, impitsokaki jaka.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Tsimaatsi aparoni akantakiri poiyotsi, iritaki aminavaitatsi. Ikiiri itapiiki, yaminayetsi haka, impitsokaki haka.</sentence>
         <sentence lang="es">Había uno lo que decimos cabeza blanca él era quien miraba lo cargaba miraba acá volteaba allá.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+tsimaatsi		[=tsim][VRoot][=POSSESS (EN: to.have; ES: tener); EXIST (EN: to.be.born, to.exist; ES: nacer)][--][-a][+EP]a[--][-atsi][Asp][+STAT.IPRF][=ongoing.&amp;.non-evolving.state]atsi
+
+aparoni		[=aparoni+~{'one':apa}{NMZ:ro}{ADV:ni}][Numeral:PRQ][=1 ~ one (ES: uno)]
+
+akantakiri		[a-][VPers][1PL.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+poiyotsi		[=poiyotsi][NRoot][=gray-headed.child (ES: persona.de.cabeza.blanca)]
+
+,	,[$.]
+
+iritaki		[=iritaki+pragm.func@cntr.exh.l.FOC.+num@3SG+gndr@m.][PrnPers][=that's.why; he.is.the.one.(who); this.is.(what)]
+
+aminavaitatsi		[=amin+INF@aantsi.][VRoot][=to.treat ][--][-a][+EP]a[--][-vai][ASP][+DUR][=action/state.endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]vai[--][-t][+EP]t[--][-a][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]a[--][-ts+freq@&lt;*.][+EP]ts[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+.	.[$.]
+
+ikiiri		[i-][VPers][3m.S/A+][--][=ki][VRoot][=to.carry.load (on.the.back.holding.it.with.a.large.lace.on.the.forehead)][--][-i+tns@n.fut.+C.I@act.v.+RSS@00][MODALITY][+REAL]i[--][=ri][+3m.O/P]
+
+itapiiki		[i-][NPers][3m.poss+][--][=tapii+inal@ntsi.+sem@b.p.][NRoot][=back (body.part; ES: espalda); bottom; lower.side][--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)]
+
+.	.[$.]
+
+yaminayetsi		[y-][VPers][3m.S/A+][--][=amin+INF@aantsi.][VRoot][=to.treat ][--][-a][+EP]a[--][-ye][+DIST][=PL.S/A+.who.are.separated.into.groups.in.≠.locations]ye[--][-ts+freq@&lt;*.][+EP]ts[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+haka		[=haka+loc@proximal.b.][PrnDem][=DEM.ADV. (EN: here, close.to.the.speaker; ES: aquí)]
+
+,	,[$.]
+
+impitsokaki		[i-][VPers][3m.S/A+][--][N=][IRR+][--][=pitsok+INF@aantsi.][VRoot][=to.turn.around (ES: voltearse, dar.vuelta)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+haka		[=haka+loc@proximal.b.][PrnDem][=DEM.ADV. (EN: here, close.to.the.speaker; ES: aquí)]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.175">
         <sentence lang="prq" normalizationlevel="none">ikantaitsiri poiyotsitatsirira, arika aminakiri, aritaki ampaitanaki. Iritaki ñaakiro kitamarori iito iritaki. Aka tsimatsi arika añiri kantsimaintatya te añapiroteri.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">ikantaitsiri poiyotsitatsirira, arika aminakiri, aritaki ampaitanaki. Iritaki nyaakiro kitamarori iito iritaki. Aka tsimatsi arika anyiri kantsimaintatya te anyapiroteri.</sentence>
         <sentence lang="es">Lo que le dicen cabeza blanca cuando lo miramos, nos convertimos en canosos. El es ya ves su cabeza es blanco él es aquí hay cuando le vemos sin embargo no lo vemos constantemente.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ikantaitsiri		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-ai][+IMP.P][=3(PL)m.S/A+.is.unknown/unspecified-and-focus.on.+O/P]ai[--][-ts+freq@&lt;*.][+EP]ts[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+poiyotsitatsirira	poiyotsitatsirira	+?
+
+,	,[$.]
+
+arika		[=ari][PostPol][=PP][--][=ka+~{R.DEL:ri}{COND:rika}][+COND]::[=when (temporal.simultaneity); if (expresses.possible.condition)]
+
+aminakiri		[=amin+INF@aantsi.][VRoot][=to.treat ][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+,	,[$.]
+
+aritaki		[=ari][PostPol][=PP][--][-t][+EP][--][-ak][+PRF][--][-i][+REAL]::[=it.is.the.case.(that) (ES: así.es.que)]
+
+ampaitanaki		[a-][VPers][1PL.S/A+][--][N=][IRR+][--][=pai+INF@/EP:t/aantsi.][VRoot][=to.be.called; to.call, to.name (ES: nombrar); to.get.white.hair, to.have.gray.hair][--][-t][+EP]t[--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+.	.[$.]
+
+iritaki		[=iritaki+pragm.func@cntr.exh.l.FOC.+num@3SG+gndr@m.][PrnPers][=that's.why; he.is.the.one.(who); this.is.(what)]
+
+nyaakiro		[=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-a][+EP]a[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+kitamarori		[=kitamarori+sem@color.][NRoot][=white]
+
+iito		[i-][NPers][3m.poss+][--][=kito+inal@tsi.+mrph.phon@LEN:^k→^Ø.][NRoot][=head (ES: cabeza)]
+
+iritaki		[=iritaki+pragm.func@cntr.exh.l.FOC.+num@3SG+gndr@m.][PrnPers][=that's.why; he.is.the.one.(who); this.is.(what)]
+
+.	.[$.]
+
+aka		[=aka+loc@proximal.b.][PrnDem][=DEM.ADV. (EN: here, close.to.the.speaker)]
+
+tsimatsi		[=tsimatsi][VRoot][=EXIST (EN: there.is/are; ES: hay,, haber); POSSESS]
+
+arika		[=ari][PostPol][=PP][--][=ka+~{R.DEL:ri}{COND:rika}][+COND]::[=when (temporal.simultaneity); if (expresses.possible.condition)]
+
+anyiri		[a-][VPers][1PL.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+
+
+
+ampaitanaki		[a-][VPers][1PL.S/A+][--][N=][IRR+][--][=pai+INF@/EP:t/aantsi.][VRoot][=to.be.called; to.call, to.name (ES: nombrar); to.get.white.hair, to.have.gray.hair][--][-t][+EP]t[--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+.	.[$.]
+
+iritaki		[=iritaki+pragm.func@cntr.exh.l.FOC.+num@3SG+gndr@m.][PrnPers][=that's.why; he.is.the.one.(who); this.is.(what)]
+
+nyaakiro		[=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-a][+EP]a[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+kantsimaintatya		[=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-imaint][Asp][+INCH][=beginning.of.a.new.state; CNT.EXP:but]imaint[--][-a][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]a[--][-t][+EP]t[--][-ya+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]ya
+
+te		[=te+tns@future.neg.][Neg][=NEG.REAL]
+
+anyapiroteri		[a-][VPers][1PL.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-a][+EP]a[--][-piro][DEGR][+AUG][=VERITY:indeed, truly]piro[--][-t][+EP]t[--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e[--][=ri][+3m.O/P]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.176">
