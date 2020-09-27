@@ -6692,7 +6692,34 @@ anyapiroteri		[a-][VPers][1PL.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][
         <sentence lang="prq" normalizationlevel="none">Arika añiri añiri isaiki inchapontsoki, maaroni ipotsitatsi, intani ikitamarotsi iitokika , iyanini inatsi, ishiyari chompiranki.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Arika anyiri anyiri isaiki inchapontsoki, maaroni ipotsitatsi, intani ikitamarotsi iitokika , iyanini inatsi, ishiyari chompiranki.</sentence>
         <sentence lang="es">Cuando lo vemos, lo vemos sentado en un tronco, todo su cuerpo es negro, solamente es blanco en su cabeza, es pequeño como el guindillo.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+arika		[=ari][PostPol][=PP][--][=ka+~{R.DEL:ri}{COND:rika}][+COND]::[=when (temporal.simultaneity); if (expresses.possible.condition)]
+
+anyiri		[a-][VPers][1PL.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+anyiri		[a-][VPers][1PL.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+isaiki		[i-][VPers][3m.S/A+][--][=saik+INF@aantsi.][VRoot][=to.be, to.be.at, to.be.in; to.sit (ES: sentarse); to.live][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+inchapontsoki		[i-][NPers][3m.poss+][--][=inchapontso+~{N:/'plant':incha/}{CL:/'sharpless.edge':pontso/}][NRoot][=stake (ES: estaca)][--][-ki][+CL:S.R.H][=small,round(ed);hard;seed-like;small.insect-like]
+
+,	,[$.]
+
+maaroni		[=maaroni][IndfPrn][=all, everyone]
+
+ipotsitatsi	ipotsitatsi	+?
+
+,	,[$.]
+
+intani	intani	+?
+
+ikitamarotsi		[i-][VPers][3m.S/A+][--][=kitamaro][VRoot][=to.be.white (ES: ser.blanco)][--][-ts+freq@&lt;*.][+EP]ts[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.177">
