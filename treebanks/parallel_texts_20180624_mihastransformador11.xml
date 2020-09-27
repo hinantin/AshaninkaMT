@@ -6727,7 +6727,9 @@ inatsi		[i-][VPers][3m.S/A+][--][=na+INF@/EP:t/antsi][VRoot][=to.be (ES: ser,, e
 
 ,	,[$.]
 
+ishiyari		[i-][VPers][3m.S/A+][--][=shiy][VRoot][=to.be.like, to.be.similar, to.resemble][--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ri+tns@n.fut.][NS][+REL][=REAL]
 
+chompiranki	chompiranki	+?
 
 </morphology>
         <parsing format="" analysislevel=""/>
@@ -6736,7 +6738,18 @@ inatsi		[i-][VPers][3m.S/A+][--][=na+INF@/EP:t/antsi][VRoot][=to.be (ES: ser,, e
         <sentence lang="prq" normalizationlevel="none">Iroo okantapintsiri inaayeni airo paminiri pipaitanakikari, ¡omapiro! aka,aka, kitamarotyonkini.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Iroo okantapintsiri inaayeni airo paminiri pipaitanakikari, ¡omapiro! aka,aka, kitamarotyonkini.</sentence>
         <sentence lang="es">Eso lo que decía mi difunta madre no le vas a mirar te vas a convertir en canoso ¡es verdad! Aquí, aquí es blanquito.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+iroo		[=iroo+pragm.func@cont.d.TOP.+num@3SG+gndr@n.m.][PrnPers][=she, it; that's why (ES: por.eso)]
+
+okantapintsiri		[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-apin][Asp][+HAB_CUST][=always]apin[--][-ts+freq@&lt;*.][+EP]ts[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+inaayeni	+?
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.178">
