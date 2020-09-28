@@ -6731,6 +6731,8 @@ ishiyari		[i-][VPers][3m.S/A+][--][=shiy][VRoot][=to.be.like, to.be.similar, to.
 
 chompiranki	chompiranki	+?
 
+.	.[$.]
+
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
@@ -6757,8 +6759,21 @@ pipaitanakikari		[pi-][VPers][2S/A+][--][=pai+INF@/EP:t/aantsi.][VRoot][=to.be.c
 
 ¡	¡[$.]
 
+omapiro		[=omapiro+prop@standalone.][VRoot][=BE.TRUE (EN: it.is.true; ES: verdaderamente, es.verdad, hablar/decir.la.veracidad/verdad)]
+
 !	![$.]
 
+aka		[=aka+loc@proximal.b.][PrnDem][=DEM.ADV. (EN: here, close.to.the.speaker)]
+
+,	,[$.]
+
+aka		[=aka+loc@proximal.b.][PrnDem][=DEM.ADV. (EN: here, close.to.the.speaker)]
+
+,	,[$.]
+
+kitamarotyonkini		[=kitamaro+gndr@n.m.+sem@color.][NRoot][=white][--][-tyonki][+CL:long.tree.segment][=long.tree.segment; thin (ES: delgado)][--][-ni][DEGR][+AUG][=AUG (EN: too; ES: demasiado); INTNS]
+
+.	.[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
@@ -6767,7 +6782,14 @@ pipaitanakikari		[pi-][VPers][2S/A+][--][=pai+INF@/EP:t/aantsi.][VRoot][=to.be.c
         <sentence lang="prq" normalizationlevel="none">Arika yaminaki inkantaki aani paminitya paita saikatsirinta, inkantanaki afuu, ari pimpiaitya pianakami ipiakimi.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Arika yaminaki inkantaki aani paminitya paita saikatsirinta, inkantanaki afuu, ari pimpiaitya pianakami ipiakimi.</sentence>
         <sentence lang="es">Cuando miraba decía abuelo mira pues que es lo que está sentado ahí decía así sea, así conviértete te convertías ya te convirtió.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+arika		[=ari][PostPol][=PP][--][=ka+~{R.DEL:ri}{COND:rika}][+COND]::[=when (temporal.simultaneity); if (expresses.possible.condition)]
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.179">
