@@ -6807,6 +6807,16 @@ afuu		[=afuu][Interj][=ritual.formula.whose.articulation.results.in.the.targeted
 
 ,	,[$.]
 
+ari		[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+pimpiaitya		[pi-][VPers][2S/A+][--][N=][IRR+][--][=pi][VRoot][=to.convert, to.transform][--][-a][+EP]a[--][-it][Asp][+ICPL][=actn/event.that.was.begun.but.not.completed]it[--][-ya+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]ya
+
+pianakami		[=pi][VRoot][=to.convert, to.transform][--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=mi][MODAL][+CNT.F][=if-clause.expressing.an.idea/assumption/argument.contrary.to.fact (ES: no.realizado)]
+
+ipiakimi		[i-][VPers][3m.S/A+][--][=pi][VRoot][=to.convert, to.transform][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=mi][+2SG.O/P][=you (ES: te)]
+
+.	.[$.]
+
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
@@ -6814,7 +6824,34 @@ afuu		[=afuu][Interj][=ritual.formula.whose.articulation.results.in.the.targeted
         <sentence lang="prq" normalizationlevel="none">Ari ikantatya, irotaki osheki ipiaaki atziri, iroñaaka iritsirora, Misha, Savori okantajeetsi tsika ankanterika iroñaaka yaaya.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ari ikantatya, irotaki osheki ipiaaki atziri, ironyaaka iritsirora, Misha, Savori okantaheetsi tsika ankanterika ironyaaka yaaya.</sentence>
         <sentence lang="es">Así era, ya era mucho que ha transformado, Ahora su hermana la lopuna y la espina decían que hacemos ahora con nuestro hermano.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ari		[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
+
+ikantatya		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-aty][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]aty[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+,	,[$.]
+
+irotaki		[=irotaki+pragm.func@cntr.exh.l.FOC.+num@3SG+gndr@n.m.][PrnPers][=that's.why; she.is.the.one.(who)]
+
+osheki		[=osheki][NRoot][=many; much; a.lot]
+
+ipiaaki		[i-][VPers][3m.S/A+][--][=pi][VRoot][=to.convert, to.transform][--][-a][+EP]a[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+atziri		[=atziri+gndr@m.+poss@te.][NRoot][=person, individual, human (ES: gente)]
+
+,	,[$.]
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+iritsirora		[iri-][NPers][3m.poss+][--][=tsiro+gndr@n.m.+kin@male.ego][NRoot][=sister (ES: hermana)][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+,	,[$.]
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.180">
