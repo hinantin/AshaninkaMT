@@ -6849,7 +6849,21 @@ iritsirora		[iri-][NPers][3m.poss+][--][=tsiro+gndr@n.m.+kin@male.ego][NRoot][=s
 
 ,	,[$.]
 
+misha		[=misha+gndr@n.m.+sem@plant][NRoot][=tree.sp. (capirona)]
 
+savoro		[=savoro+gndr@n.m.][NRoot][=(wild).giant.cane (ES: caña.brava, carrizo)]
+
+okantaheetsi		[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-a][+EP]a[--][-hee][NUM][+PL][=PL.S/A+; INTR: PL.S/A+; TR: PL.S/A+.or.+PL.O]hee[--][-ts+freq@&lt;*.][+EP]ts[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+tsika		[=tsika+periphrasis@=saik.][WhPrn][=WH (EN: where,, what,, which,, how,, why)]
+
+ankanterika		[a-][VPers][1PL.S/A+][--][N=][IRR+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e[--][=rika][MODAL][+COND][=if (expresses.possible.condition); like (comparison)]
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+yaaya		[=yaaya+gndr@m.+kin@fem.ego][NRoot][=brother (ES: hermano.de.mujer)]
+
+.	.[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
