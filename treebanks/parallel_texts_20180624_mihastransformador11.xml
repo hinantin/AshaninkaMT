@@ -6904,7 +6904,22 @@ eentsite		[=eentsi+gndr@n./m.+poss@te.][NRoot][=child (ES: niño)][--][-te+~{R.D
         <sentence lang="prq" normalizationlevel="none">ookanakiniri eentsite okantanakiri, paminavakiri yaaya pitsiniri naakiteta kaniri, jaitetaki iroñaaka.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">ookanakiniri eentsite okantanakiri, paminavakiri yaaya pitsiniri naakiteta kaniri, haitetaki ironyaaka.</sentence>
         <sentence lang="es">Le dejó a su hijo diciéndole cuídamelo hermano a tu sobrino voy a ir a traer yuca se fue ahora.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ookanakiniri		[=ook][VRoot][=to.abandon; to.leave (ES: dejar); to.throw; to.throw.away/out (ES: botar)][--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ni][+3SG.O/P][=it/him/her (ES: le/lo/la)][--][=ri][+3m.O/P]
+
+eentsite		[=eentsi+gndr@n./m.+poss@te.][NRoot][=child (ES: niño)][--][-te+~{R.DEL:i}{AUG:ite}][DEGR][+AUG][=many; expansive]te
+
+okantanakiri		[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+,	,[$.]
+
+paminavakiri		[p-][VPers][2S/A+][--][=amin+INF@aantsi.][VRoot][=to.treat ][--][-av+dir@object.oriented][ADV][+DIR][=contrary,opposite; RCVG:object.arriving.at.the.location.of.the.subject]av[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.182">
