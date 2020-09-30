@@ -6901,8 +6901,9 @@ eentsite		[=eentsi+gndr@n./m.+poss@te.][NRoot][=child (ES: niño)][--][-te+~{R.D
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.181">
-        <sentence lang="prq" normalizationlevel="none">ookanakiniri eentsite okantanakiri, paminavakiri yaaya pitsiniri naakiteta kaniri, jaitetaki iroñaaka.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">ookanakiniri eentsite okantanakiri, paminavakiri yaaya pitsiniri naakiteta kaniri, haitetaki ironyaaka.</sentence>
+        <error_sentence>ookanakiniri eentsite okantanakiri, paminavakiri yaaya pitsiniri naakiteta kaniri, <error type="spelling">jaitetaki|jatetaki</error> iroñaaka.</error_sentence>
+        <sentence lang="prq" normalizationlevel="none">ookanakiniri eentsite okantanakiri, paminavakiri yaaya pitsiniri naakiteta kaniri, jatetaki iroñaaka.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">ookanakiniri eentsite okantanakiri, paminavakiri yaaya pitsiniri naakiteta kaniri, hatetaki ironyaaka.</sentence>
         <sentence lang="es">Le dejó a su hijo diciéndole cuídamelo hermano a tu sobrino voy a ir a traer yuca se fue ahora.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
 
@@ -6925,7 +6926,13 @@ naakiteta		[n-][VPers][1SG.S/A+][--][=a][VRoot][=to.get][--][-ak][+APPL.CAUS.SOC
 
 kaniri		[=kaniri+~{N:/'yucca':kanir/}{nposs:i}+gndr@n.m.+voc@N.+mrph.phon@LEN:^k→^y;LEN:^k→^v.][NRoot][=(sweet).manioc, (sweet).yucca (pronunc.: [ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]
 
+,	,[$.]
 
+hatetaki		[=ha+INF@/EP:t/aantsi.][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-et+allomorph@it.][Asp][+ICPL][=actn/event.that.was.begun.but.not.completed]et[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+.	.[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
