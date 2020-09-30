@@ -6883,6 +6883,13 @@ shimashiro		[=shimashiro+gndr@n.m.+sem@plant][NRoot][=person's.name, NP]
 
 irotaki		[=irotaki+pragm.func@cntr.exh.l.FOC.+num@3SG+gndr@n.m.][PrnPers][=that's.why; she.is.the.one.(who)]
 
+oyariri		[o-][NPers][3n.m.poss+][--][=yari+gndr@m.+poss@ri.+kin@fem.ego][NRoot][=brother (ES: hermano; PT: irmão)][--][-ri][Gen][+aln.poss.]ri
+
+okaakini		[=okaakini][AdvRoot][=near (ES: cerca)]
+
+,	,[$.]
+
+
 
 </morphology>
         <parsing format="" analysislevel=""/>
