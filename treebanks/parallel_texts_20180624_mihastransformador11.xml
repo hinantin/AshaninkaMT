@@ -6889,7 +6889,13 @@ okaakini		[=okaakini][AdvRoot][=near (ES: cerca)]
 
 ,	,[$.]
 
+kantsimaintatya		[=kantsimaintatya][ConnRoot][=but (ES: pero, sin.embargo)]
 
+ipiitakiniro		[i-][VPers][3m.S/A+][--][=pi][VRoot][=to.convert, to.transform][--][-it][Asp][+ANT][=past/non-past.action (EN: before)]it[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ni][+3SG.O/P][=it/him/her (ES: le/lo/la)][--][=ro][+3n.m.O/P]
+
+eentsite		[=eentsi+gndr@n./m.+poss@te.][NRoot][=child (ES: niño)][--][-te+~{R.DEL:i}{AUG:ite}][DEGR][+AUG][=many; expansive]te
+
+.	.[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
