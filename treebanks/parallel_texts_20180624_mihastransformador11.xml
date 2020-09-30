@@ -6917,6 +6917,14 @@ okantanakiri		[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.
 
 paminavakiri		[p-][VPers][2S/A+][--][=amin+INF@aantsi.][VRoot][=to.treat ][--][-av+dir@object.oriented][ADV][+DIR][=contrary,opposite; RCVG:object.arriving.at.the.location.of.the.subject]av[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
 
+yaaya		[=yaaya+gndr@m.+kin@fem.ego][NRoot][=brother (ES: hermano.de.mujer)]
+
+pitsiniri		[pi-][NPers][2poss+][--][=tsiniri+gndr@m.+voc.][NRoot][=son.in.law; nephew]
+
+naakiteta		[n-][VPers][1SG.S/A+][--][=a][VRoot][=to.get][--][-ak][+APPL.CAUS.SOC][=A+(causer).causes.sth/sb(causee).to.do.sth.&amp;.A+.also.participates.in.the.actn.; to.make.sth/sb.do.sth.]ak[--][-it][Asp][+ICPL][=actn/event.that.was.begun.but.not.completed]it[--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e[--][=ta][MODAL][+OPT_SUBJ][CONTG: actn.that.depends.on.sth.that.may.or.may.not.happen; HYPOTH: actn.that.is.possible.&amp;.imagined.rather.than.real.&amp;.true]
+
+kaniri		[=kaniri+~{N:/'yucca':kanir/}{nposs:i}+gndr@n.m.+voc@N.+mrph.phon@LEN:^k→^y;LEN:^k→^v.][NRoot][=(sweet).manioc, (sweet).yucca (pronunc.: [ka.ˈnɪ.ɾɪ]; ES: yuca.dulce; PT: macaxeira; sci.nm.: manihot.sculenta)]
+
 
 
 </morphology>
