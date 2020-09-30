@@ -6872,7 +6872,12 @@ yaaya		[=yaaya+gndr@m.+kin@fem.ego][NRoot][=brother (ES: hermano.de.mujer)]
         <sentence lang="prq" normalizationlevel="none">okantakonintavitakari Shimashiro, irotaki oyariri okaakini, kantsimaintatya ipiitakiniro eentsite.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">okantakonintavitakari Shimashiro, irotaki oyariri okaakini, kantsimaintatya ipiitakiniro eentsite.</sentence>
         <sentence lang="es">Se había opuesto la hoja de pescado, ella era la hermana legítima sin embargo le transformó a su hijo.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.181">
