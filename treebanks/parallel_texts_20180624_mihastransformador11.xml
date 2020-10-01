@@ -7051,7 +7051,12 @@ ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
         <sentence lang="prq" normalizationlevel="none">iroñaaka jataki ikantaitsirinta kishtarikinta mapiniki, ikantaitsirinta mapiniki, jataki iroñaaka, ikantajeetsi pashinipaye, tsika ankanterika.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">ironyaaka hataki ikantaitsirinta kishtarikinta mapiniki, ikantaitsirinta mapiniki, hataki ironyaaka, ikantaheetsi pashinipaye, tsika ankanterika.</sentence>
         <sentence lang="es">Ahora se fue lo que dicen Mariscal Cáceres en la piedrecita, lo que dicen piedrecita se fue ahora, decían otras personas que le hacemos.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.185">
