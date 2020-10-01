@@ -7126,7 +7126,34 @@ iraniri		[ir-][NPers][3m.poss+][--][=ani+gndr@m.+poss@ri.+kin@male.ego][NRoot][=
         <sentence lang="prq" normalizationlevel="none">jaitetaki kirinka ikiyi ikiyaki chek chek, ikantanakiro iina Arika nompiakia mava kashiri piyajana, oyotaki iroñaaka iinara iyovantapajiari kashiri, pashini kashiri.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">haitetaki kirinka ikiyi ikiyaki chek chek, ikantanakiro iina Arika nompiakia mava kashiri piyajana, oyotaki ironyaaka iinara iyovantapahiari kashiri, pashini kashiri.</sentence>
         <sentence lang="es">Se fue adentro a escarbar, le dijo a su esposa cuando me demoro tres meses ya he estaré de vuelta, ya sabía ahora su esposa cuando iba a salir la luna, otra luna.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+haitetaki		+?
+
+kirinka		[=kirinka][NRoot][=down.river, downstream (ES: río.abajo); central.part.of.the.jungle]
+
+ikiyi		[i-][VPers][3m.S/A+][--][=kiy+INF@aantsi.][VRoot][=to.dig (ES: escarbar)][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+ikiyaki		[i-][VPers][3m.S/A+][--][=kiy+INF@aantsi.][VRoot][=to.dig (ES: escarbar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+chek		[=chek+s.redup.word@2X.][Ideo:PRQ][=chopping.wood/trees/shrub]
+
+chek		[=chek+s.redup.word@2X.][Ideo:PRQ][=chopping.wood/trees/shrub]
+
+,	,[$.]
+
+ikantanakiro		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ro][+3n.m.O/P]
+
+iina		[=iina+gndr@n.m.+inal@tsi.+kin@fe/male.ego][NRoot][=mother (ES: mamá); wife]
+
+arika		[=ari][PostPol][=PP][--][=ka+~{R.DEL:ri}{COND:rika}][+COND]::[=when (temporal.simultaneity); if (expresses.possible.condition)]
+
+nompiakia		[no-][VPers][1SG.S/A+][--][N=][IRR+][--][=pi][VRoot][=to.convert, to.transform][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-ia+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]ia
+
+mava		[=mava][Numeral:PRQ][=3 ~ three (ES: tres)]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.187">
