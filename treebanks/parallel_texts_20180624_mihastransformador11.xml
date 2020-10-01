@@ -6941,7 +6941,21 @@ ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
         <sentence lang="prq" normalizationlevel="none">Imavitatya ipirintanaka ikanta iraataita guaii, guaii, guaii iposhenkavitari, te inkimi isamakari, ikantsi. Afuu, mapi pimpiataitya, Pianaka mapi. Opokapaji irinirora okantsiri tsikama pikantatyaka yaaya.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Imavitatya ipirintanaka ikanta iraataita guaii, guaii, guaii iposhenkavitari, te inkimi isamakari, ikantsi. Afuu, mapi pimpiataitya, Pianaka mapi. Opokapaji irinirora okantsiri tsikama pikantatyaka yaaya.</sentence>
         <sentence lang="es">Estaba durmiendo, cuando despertó comenzó a llorar, le hacía callar no le hacía caso se aburrió de él (del bebe) dijo así sea piedra serás y se transformo en piedra. Cuando su hermana vino le dijo como eres así hermano.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+imavitatya		[i-][VPers][3m.S/A+][--][=ma+INF@/DEL:a/gaantsi;/DEL:a/antsi.][VRoot][=to.sleep (ES: dormir)][--][-vi][+FRUS][=unsuccessful/interrupted.action/state (EN: in.vain; ES: casi); action.that.didn't.achieve.the.desired.result]vi[--][-t][+EP]t[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL.RFL]a[--][=tya][MODAL][+EMPH][=urgency, impatience, surprise, exasperation (non-contradictory.emphasis); almost (with.time.adverbs)]
+
+ipirintanaka		[i-][VPers][3m.S/A+][--][=pirin+INF@/EP:t/aantsi.+I-Conj@act.v.][VRoot][=to.raise (ES: levantar); to.revive (ES: resucitar)][--][-t][+EP]t[--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+ikanta		[=ikanta][ConnRoot][=CONN (EN: meanwhile, in.the.meantime)]
+
+iraataita		[=ir+INF@aantsi.][VRoot][=to.cry (ES: llorar)][--][-a][+EP]a[--][-atai][+MIR][=sudden.discovery.of.knowledge; -ri/REL:surprise.in.a.rhetorical.Q.]atai[--][-t][+EP]t[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.183">
