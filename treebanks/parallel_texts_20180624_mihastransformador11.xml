@@ -7048,11 +7048,17 @@ ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.184">
-        <sentence lang="prq" normalizationlevel="none">iroñaaka jataki ikantaitsirinta kishtarikinta mapiniki, ikantaitsirinta mapiniki, jataki iroñaaka, ikantajeetsi pashinipaye, tsika ankanterika.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">ironyaaka hataki ikantaitsirinta kishtarikinta mapiniki, ikantaitsirinta mapiniki, hataki ironyaaka, ikantaheetsi pashinipaye, tsika ankanterika.</sentence>
+        <error_sentence>iroñaaka jataki <error type="spelling">ikantaitsirinta|ikantatsirinta</error>
+            <error type="spelling">kishtarikinta|kishitarikinta</error> mapiniki, <error type="spelling">ikantaitsirinta|ikantatsirinta</error> mapiniki, jataki iroñaaka, ikantajeetsi pashinipaye, tsika ankanterika.</error_sentence>
+        <sentence lang="prq" normalizationlevel="none">iroñaaka jataki ikantatsirinta kishitarikinta mapiniki, ikantatsirinta mapiniki, jataki iroñaaka, ikantajeetsi pashinipaye, tsika ankanterika.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">ironyaaka hataki ikantatsirinta kishitarikinta mapiniki, ikantatsirinta mapiniki, hataki ironyaaka, ikantaheetsi pashinipaye, tsika ankanterika.</sentence>
         <sentence lang="es">Ahora se fue lo que dicen Mariscal Cáceres en la piedrecita, lo que dicen piedrecita se fue ahora, decían otras personas que le hacemos.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
 
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+hataki		[=hat+INF@aantsi.][VRoot][=to.go (ES: ir)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
 
 
 
