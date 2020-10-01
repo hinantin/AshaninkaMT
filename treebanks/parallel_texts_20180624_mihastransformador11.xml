@@ -7015,7 +7015,18 @@ yaaya		[=yaaya+gndr@m.+kin@fem.ego][NRoot][=brother (ES: hermano.de.mujer)]
         <sentence lang="prq" normalizationlevel="none">Pipiayetantariri neentsite, ari intanakari iroñaaka okisanintanakiri, okantsi tsika ankanterika iroñaaka.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Pipiayetantariri neentsite, ari intanakari ironyaaka okisanintanakiri, okantsi tsika ankanterika ironyaaka.</sentence>
         <sentence lang="es">Le transformaste a mi hijo, ahí comenzó ahora tenerle odio ella dijo que le hacemos ahora.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+pipiayetantariri		[pi-][VPers][2S/A+][--][=pi][VRoot][=to.convert, to.transform][--][-a][+EP]a[--][-ye][+DIST][=PL.S/A+.who.are.separated.into.groups.in.≠.locations]ye[--][-t][+EP]t[--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-t][+EP]t[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ri][+3m.O/P][--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+neentsite		[n-][NPers][1SG.poss+][--][=eentsi+gndr@n./m.+poss@te.][NRoot][=child (ES: niño)][--][-te+syl@&gt;tri.][Gen][+aln.poss.]te
+
+,	,[$.]
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.184">
