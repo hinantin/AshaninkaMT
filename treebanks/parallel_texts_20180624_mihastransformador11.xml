@@ -7064,21 +7064,66 @@ ikantatsirinta		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.
 
 kishitarikinta		[=kishitari+sem@NP.place][NRoot][=where.the.local.shaman-jaguar.had.disheveled.hair, Mariscal.Cáceres][--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)][--][=nta+mrph.cath@distal.b.][AS][+DEM.NOM][=DEM (EN: there, far.from.the.speaker (bounded))]
 
+mapiniki		[=mapi+gndr@n.m.+poss@ni:ne.][NRoot][=stone; rock][--][-ni+~{R.DEL:i}{DIM:ini}][+DIM][--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)]
 
+,	,[$.]
+
+hataki		[=hat+INF@aantsi.][VRoot][=to.go (ES: ir)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+,	,[$.]
+
+ikantaheetsi		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-a][+EP]a[--][-hee][NUM][+PL][=PL.S/A+; INTR: PL.S/A+; TR: PL.S/A+.or.+PL.O]hee[--][-ts+freq@&lt;*.][+EP]ts[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+pashinipaye		[=pashini][NRoot][=other, another (ES: otro); few][--][-paye][Num][+PL][=PL; DIST]
+
+,	,[$.]
+
+tsika		[=tsika+periphrasis@=saik.][WhPrn][=WH (EN: where,, what,, which,, how,, why)]
+
+ankanterika		[a-][VPers][1PL.S/A+][--][N=][IRR+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e[--][=ri][+3m.O/P][--][=ka][+Q]
+
+.	.[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.185">
-        <sentence lang="prq" normalizationlevel="none">Maatsi iroñaaka iraniri, iraniri iroñaaka iritaki ikantaitsiri kintero iroñaaka ipiatsiri iraniri.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">Maatsi ironyaaka iraniri, iraniri ironyaaka iritaki ikantaitsiri kintero ironyaaka ipiatsiri iraniri.</sentence>
+        <error_sentence>Maatsi iroñaaka iraniri, iraniri iroñaaka iritaki <error type="spelling">ikantaitsiri|ikantatsiri</error> kintero iroñaaka ipiatsiri iraniri.</error_sentence>
+        <sentence lang="prq" normalizationlevel="none">Maatsi iroñaaka iraniri, iraniri iroñaaka iritaki ikantatsiri kintero iroñaaka ipiatsiri iraniri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Maatsi ironyaaka iraniri, iraniri ironyaaka iritaki ikantatsiri kintero ironyaaka ipiatsiri iraniri.</sentence>
         <sentence lang="es">Hay ahora su cuñado, su cunado ahora él es lo que le dicen panteonero ahora él lo transformo.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+maatsi		[=maatsi][VRoot][=EXIST (EN: there.is/are); POSSESS (EN: has)]
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+iraniri		[ir-][NPers][3m.poss+][--][=ani+gndr@m.+poss@ri.+kin@male.ego][NRoot][=brother.in.law (ES: cuñado)][--][-ri][Gen][+aln.poss.]ri
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+iritaki		[=iritaki+pragm.func@cntr.exh.l.FOC.+num@3SG+gndr@m.][PrnPers][=that's.why; he.is.the.one.(who); this.is.(what)]
+
+ikantatsiri		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-atsi][Asp][+STAT.IPRF][=ongoing.&amp;.non-evolving.state]atsi[--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+kintero		[=kintero+gndr@m.+sem@wild.anim.][NRoot][=big.armadillo.sp. (sci.nm.: priodontes.maximus/giganteus; ES: 'especie.de.armadillo.grande', yangunturo, yungunturo); PT: tatú.canastra]
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+ipiatsiri		[i-][VPers][3m.S/A+][--][=pi][VRoot][=to.convert, to.transform][--][-atsi][Asp][+STAT.IPRF][=ongoing.&amp;.non-evolving.state]atsi[--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+iraniri		[ir-][NPers][3m.poss+][--][=ani+gndr@m.+poss@ri.+kin@male.ego][NRoot][=brother.in.law (ES: cuñado)][--][-ri][Gen][+aln.poss.]ri
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.186">
-    }}
-    <sentence lang="prq" normalizationlevel="none">jaitetaki kirinka ikiyi ikiyaki chek chek, ikantanakiro iina Arika nompiakia mava kashiri piyajana, oyotaki iroñaaka iinara iyovantapajiari kashiri, pashini kashiri.</sentence>
+        <sentence lang="prq" normalizationlevel="none">jaitetaki kirinka ikiyi ikiyaki chek chek, ikantanakiro iina Arika nompiakia mava kashiri piyajana, oyotaki iroñaaka iinara iyovantapajiari kashiri, pashini kashiri.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">haitetaki kirinka ikiyi ikiyaki chek chek, ikantanakiro iina Arika nompiakia mava kashiri piyajana, oyotaki ironyaaka iinara iyovantapahiari kashiri, pashini kashiri.</sentence>
         <sentence lang="es">Se fue adentro a escarbar, le dijo a su esposa cuando me demoro tres meses ya he estaré de vuelta, ya sabía ahora su esposa cuando iba a salir la luna, otra luna.</sentence>
         <morphology format="" analysislevel=""/>
