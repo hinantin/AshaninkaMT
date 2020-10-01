@@ -7024,7 +7024,25 @@ neentsite		[n-][NPers][1SG.poss+][--][=eentsi+gndr@n./m.+poss@te.][NRoot][=child
 
 ,	,[$.]
 
+ari		[=ari][PostPol][=PP][=there; so; thus; thereby; just.like.that (ES: así.es); to.be.this.way (ES: ser.así)]
 
+intanakari		[=int+INF@aantsi.][VRoot][=to.begin (ES: comenzar)][--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+okisanintanakiri		[o-][VPers][3n.m.S/A+][--][=kis+INF@aantsi.+poss@ane.][VRoot][=to.be.angry/furious, to.get.upset/angry (ES: estar.molesto)][--][-a][+EP]a[--][-nint][DEGR][+SENSORY][=DIM: almost,(do).a.little.bit (ES: medio, más.o.menos)]nint[--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+,	,[$.]
+
+okantsi		[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+tsika		[=tsika+periphrasis@=saik.][WhPrn][=WH (EN: where,, what,, which,, how,, why)]
+
+ankanterika		[a-][VPers][1PL.S/A+][--][N=][IRR+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e[--][=ri][+3m.O/P][--][=ka][+Q]
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+.	.[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
