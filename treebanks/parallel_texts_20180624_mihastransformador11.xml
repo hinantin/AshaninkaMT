@@ -6939,7 +6939,7 @@ ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
     </text>
     <text id="1.182">
         <sentence lang="prq" normalizationlevel="none">Imavitatya ipirintanaka ikanta iraataita guaii, guaii, guaii iposhenkavitari, te inkimi isamakari, ikantsi. Afuu, mapi pimpiataitya, Pianaka mapi. Opokapaji irinirora okantsiri tsikama pikantatyaka yaaya.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">Imavitatya ipirintanaka ikanta iraataita guaii, guaii, guaii iposhenkavitari, te inkimi isamakari, ikantsi. Afuu, mapi pimpiataitya, Pianaka mapi. Opokapaji irinirora okantsiri tsikama pikantatyaka yaaya.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Imavitatya ipirintanaka ikanta iraataita guaii, guaii, guaii iposhenkavitari, te inkimi isamakari, ikantsi. Afuu, mapi pimpiataitya, Pianaka mapi. Opokapahi irinirora okantsiri tsikama pikantatyaka yaaya.</sentence>
         <sentence lang="es">Estaba durmiendo, cuando despertó comenzó a llorar, le hacía callar no le hacía caso se aburrió de él (del bebe) dijo así sea piedra serás y se transformo en piedra. Cuando su hermana vino le dijo como eres así hermano.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
 
@@ -6990,7 +6990,23 @@ pimpiataitya		[pi-][VPers][2S/A+][--][N=][IRR+][--][=pi][VRoot][=to.disappear (E
 
 pianaka		[=pi][VRoot][=to.disappear (ES: desaparecer)][--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
 
+mapi		[=mapi+gndr@n.m.+poss@ni:ne.][NRoot][=stone; rock]
 
+.	.[$.]
+
+opokapahi		[o-][VPers][3n.m.S/A+][--][=pok+INF@aantsi;VC.][VRoot][=to.come (ES: venir), to.arrive][--][-ap+dir@goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+irinirora		[iri-][NPers][3m.poss+][--][=niro+gndr@n.m.+kin@fe/male.ego+voc@1SG:2SG:3SG.][NRoot][=mother (ES: mamá)][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+okantsiri		[o-][VPers][3n.m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+tsikama		[=tsika][WhPrn][=WH][--][-ma][+DUB]
+
+pikantatyaka		[pi-][VPers][2S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-aty][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]aty[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ka][+Q]
+
+yaaya		[=yaaya+gndr@m.+kin@fem.ego][NRoot][=brother (ES: hermano.de.mujer)]
+
+.	.[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
