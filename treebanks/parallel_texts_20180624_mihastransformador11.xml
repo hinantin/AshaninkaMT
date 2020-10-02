@@ -7183,8 +7183,8 @@ kashiri		[=kashiri+gndr@m.+poss@te.][NRoot][=moon (ES: luna); month (ES: mes); l
     </text>
     <text id="1.187">
         <error_sentence>Antaki iroñaaka piarintsi antajeetaki iroñaaka, shimashiri, savori <error type="spelling">pona|poña</error> iroñaaka misha, shinkijeetaka iroñaaka, onkantemikia oiyavajirita oimi ishitovaji.</error_sentence>
-        <sentence lang="prq" normalizationlevel="none">Antaki iroñaaka piarintsi antajeetaki iroñaaka, shimashiri, savori pona iroñaaka misha, shinkijeetaka iroñaaka, onkantemikia oiyavajirita oimi ishitovaji.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">Antaki ironyaaka piarintsi antaheetaki ironyaaka, shimashiri, savori pona ironyaaka misha, shinkiheetaka ironyaaka, onkantemikia oiyavahirita oimi ishitovahi.</sentence>
+        <sentence lang="prq" normalizationlevel="none">Antaki iroñaaka piarintsi antajeetaki iroñaaka, shimashiri, savori poña iroñaaka misha, shinkijeetaka iroñaaka, onkantemikia oiyavajirita oimi ishitovaji.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Antaki ironyaaka piarintsi antaheetaki ironyaaka, shimashiri, savori ponya ironyaaka misha, shinkiheetaka ironyaaka, onkantemikia oiyavahirita oimi ishitovahi.</sentence>
         <sentence lang="es">Preparo ahora masato prepararon ahora, hoja de pescado, la espina y la lopuna, se embriagaron ahora, hubiese esperado a su esposo que salga.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
 
@@ -7207,7 +7207,19 @@ shimashiri		[=shimashiri+gndr@n.m.+sem@plant][NRoot][=flowering.tree.sp., plant.
 
 savori	+?
 
+ponya		[=ponya][AdvRoot][=CONN (EN: then, later)]
 
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+misha		[=misha+gndr@n.m.+sem@plant][NRoot][=tree.sp. (capirona)]
+
+,	,[$.]
+
+shinkiheetaka		[=shinki+INF@/EP:t/(a)antsi.][VRoot][=to.get.drunk (ES: emborrachar, embriagar(se)); to.intoxicate][--][-hee][NUM][+PL][=PL.S/A+; INTR: PL.S/A+; TR: PL.S/A+.or.+PL.O]hee[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+,	,[$.]
 
 
 </morphology>
