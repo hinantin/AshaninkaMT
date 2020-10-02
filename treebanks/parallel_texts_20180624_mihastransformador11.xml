@@ -7123,8 +7123,9 @@ iraniri		[ir-][NPers][3m.poss+][--][=ani+gndr@m.+poss@ri.+kin@male.ego][NRoot][=
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.186">
-        <sentence lang="prq" normalizationlevel="none">jaitetaki kirinka ikiyi ikiyaki chek chek, ikantanakiro iina Arika nompiakia mava kashiri piyajana, oyotaki iroñaaka iinara iyovantapajiari kashiri, pashini kashiri.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">haitetaki kirinka ikiyi ikiyaki chek chek, ikantanakiro iina Arika nompiakia mava kashiri piyajana, oyotaki ironyaaka iinara iyovantapahiari kashiri, pashini kashiri.</sentence>
+        <error_sentence>jaitetaki kirinka ikiyi ikiyaki chek chek, ikantanakiro iina Arika nompiakia mava kashiri <error type="spelling">piyajana|piyaajana</error>, oyotaki iroñaaka iinara iyovantapajiari kashiri, pashini kashiri.</error_sentence>
+        <sentence lang="prq" normalizationlevel="none">jaitetaki kirinka ikiyi ikiyaki chek chek, ikantanakiro iina Arika nompiakia mava kashiri piyaajana, oyotaki iroñaaka iinara iyovantapajiari kashiri, pashini kashiri.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">haitetaki kirinka ikiyi ikiyaki chek chek, ikantanakiro iina Arika nompiakia mava kashiri piyaahana, oyotaki ironyaaka iinara iyovantapahiari kashiri, pashini kashiri.</sentence>
         <sentence lang="es">Se fue adentro a escarbar, le dijo a su esposa cuando me demoro tres meses ya he estaré de vuelta, ya sabía ahora su esposa cuando iba a salir la luna, otra luna.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
 
@@ -7152,6 +7153,10 @@ arika		[=ari][PostPol][=PP][--][=ka+~{R.DEL:ri}{COND:rika}][+COND]::[=when (temp
 nompiakia		[no-][VPers][1SG.S/A+][--][N=][IRR+][--][=pi][VRoot][=to.convert, to.transform][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-ia+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]ia
 
 mava		[=mava][Numeral:PRQ][=3 ~ three (ES: tres)]
+
+kashiri		[=kashiri+gndr@m.+poss@te.][NRoot][=moon (ES: luna); month (ES: mes); lunar.deity]
+
+piyaahana		[p-][VPers][2S/A+][--][=iya][VRoot][=to.go (ES: ir)][--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=na][+1SG.O/P][=me (ES: me)]
 
 </morphology>
         <parsing format="" analysislevel=""/>
