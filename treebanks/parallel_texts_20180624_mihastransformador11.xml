@@ -7158,6 +7158,16 @@ kashiri		[=kashiri+gndr@m.+poss@te.][NRoot][=moon (ES: luna); month (ES: mes); l
 
 piyaahana		[p-][VPers][2S/A+][--][=iya][VRoot][=to.go (ES: ir)][--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=na][+1SG.O/P][=me (ES: me)]
 
+,	,[$.]
+
+oyotaki		[o-][VPers][3n.m.S/A+][--][=yot+INF@(a)antsi:agaantsi.][VRoot][=to.know (ES: conocer, saber)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+iinara		[i-][NPers][3m.poss+][--][=ina][NRoot][=sphere; spherical][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
+
+
+
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
