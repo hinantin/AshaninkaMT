@@ -7166,16 +7166,51 @@ ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
 
 iinara		[i-][NPers][3m.poss+][--][=ina][NRoot][=sphere; spherical][--][=ra+mrph.cath@medial.b.][AS][+DEM.NOM][=DEM (EN: not.here, there, not.in.the.speaker's.interactional.space)]
 
+iyovantapahiari		[i-][VPers][3m.S/A+][--][=yov+INF@aantsi.][VRoot][=to.escape; to.come.out (ES: salir); to.leave][--][-ant][Asp][+APPL.REAS][=REAS (EN: in.order.to, so.that; ES: para.que); INST (EN: that.with.which.sb.does.sth., sb's.tool)]ant[--][-ap+dir@goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-ia+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR.RFL]ia[--][=ri+tns@n.fut.][NS][+REL][=REAL]
 
+kashiri		[=kashiri+gndr@m.+poss@te.][NRoot][=moon (ES: luna); month (ES: mes); lunar.deity]
+
+,	,[$.]
+
+pashini		[=pashini][NRoot][=other, another (ES: otro); few]
+
+kashiri		[=kashiri+gndr@m.+poss@te.][NRoot][=moon (ES: luna); month (ES: mes); lunar.deity]
+
+.	.[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.187">
+        <error_sentence>Antaki iroñaaka piarintsi antajeetaki iroñaaka, shimashiri, savori <error type="spelling">pona|poña</error> iroñaaka misha, shinkijeetaka iroñaaka, onkantemikia oiyavajirita oimi ishitovaji.</error_sentence>
         <sentence lang="prq" normalizationlevel="none">Antaki iroñaaka piarintsi antajeetaki iroñaaka, shimashiri, savori pona iroñaaka misha, shinkijeetaka iroñaaka, onkantemikia oiyavajirita oimi ishitovaji.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Antaki ironyaaka piarintsi antaheetaki ironyaaka, shimashiri, savori pona ironyaaka misha, shinkiheetaka ironyaaka, onkantemikia oiyavahirita oimi ishitovahi.</sentence>
         <sentence lang="es">Preparo ahora masato prepararon ahora, hoja de pescado, la espina y la lopuna, se embriagaron ahora, hubiese esperado a su esposo que salga.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+antaki		[=ant+INF@aantsi.+poss@ane.][VRoot][=to.beat, to.hit (ES: pegar); to.build, to.do, to.make (ES: hacer)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+piarintsi		[=piari+gndr@n.m.+inal@ntsi.+mrph.phon@LEN:^p→^v.][NRoot][=manioc.beer (ES: masato; PT: caiçuma/caissuma/caxiri.brava/forte)][--][-ntsi+poss@alien.+syl@&gt;poly.][Gen][+nposs]ntsi
+
+antaheetaki		[=ant+INF@aantsi.+poss@ane.][VRoot][=to.beat, to.hit (ES: pegar); to.build, to.do, to.make (ES: hacer)][--][-a][+EP]a[--][-hee][NUM][+PL][=PL.S/A+; INTR: PL.S/A+; TR: PL.S/A+.or.+PL.O]hee[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+,	,[$.]
+
+shimashiri		[=shimashiri+gndr@n.m.+sem@plant][NRoot][=flowering.tree.sp., plant.sp. (ES: Pino.chuncho, flor.de.mayo; sci.nm.: schizolobium.amazoni.cum); person's.name, NP]
+
+,	,[$.]
+
+savori	+?
+
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.188">
