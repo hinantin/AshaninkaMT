@@ -7238,7 +7238,25 @@ ishitovahi		[i-][VPers][3m.S/A+][--][=shitov+INF@aantsi;VC.][VRoot][=to.leave, t
         <sentence lang="prq" normalizationlevel="none">Ikanta iroñaaka irirori pokaji, iroñaaka anta oshinkitajeetakiri opako, pakojetakiri, piarentsi, opakotsiri, opakotsiri, iyovitaka iroñaaka.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ikanta ironyaaka irirori pokahi, ironyaaka anta oshinkitaheetakiri opako, pakohetakiri, piarentsi, opakotsiri, opakotsiri, iyovitaka ironyaaka.</sentence>
         <sentence lang="es">Ahora el ya estaba de retorno, ahora allá ellas le hicieron embriagar, le daban y le daban masato, le daban el ya sabía o se había percatado ahora.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ikanta		[=ikanta][ConnRoot][=CONN (EN: meanwhile, in.the.meantime)]
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+irirori		[=irirori+pragm.func@cntr.add.l.FOC.+num@3SG+gndr@m.][PrnPers][=he (ES: él)]
+
+pokahi		[=pok+INF@aantsi;VC.][VRoot][=to.come (ES: venir), to.arrive][--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+,	,[$.]
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+anta		[=anta+loc@distal.b.][PrnDem][=DEM.ADV.: there (ES: allí.(está)), far.from.the.speaker (bounded)]
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.189">
