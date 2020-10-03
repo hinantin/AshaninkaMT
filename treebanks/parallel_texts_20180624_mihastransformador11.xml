@@ -7277,6 +7277,11 @@ opakotsiri		[o-][VPers][3n.m.S/A+][--][=p+INF@aantsi.][VRoot][=to.give (ES: dar)
 
 ,	,[$.]
 
+iyovitaka		[i-][VPers][3m.S/A+][--][=yov+INF@aantsi.][VRoot][=to.escape; to.come.out (ES: salir); to.leave][--][-it][Asp][+ICPL][=actn/event.that.was.begun.but.not.completed]it[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+ironyaaka		[=ironyaaka][ConnRoot][=CONN (EN: then)]
+
+.	.[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
@@ -7285,7 +7290,42 @@ opakotsiri		[o-][VPers][3n.m.S/A+][--][=p+INF@aantsi.][VRoot][=to.give (ES: dar)
         <sentence lang="prq" normalizationlevel="none">Poña, ovishiriakaakari, ovishiriakaakari, aikiro opakotatsiri, pashini opakotsiri, opakotsiri irotaki onkitaitsimate, shinkitaka iroñaaka.</sentence>
         <sentence lang="prq" normalizationlevel="normalized-alphabet">Ponya, ovishiriakaakari, ovishiriakaakari, aikiro opakotatsiri, pashini opakotsiri, opakotsiri irotaki onkitaitsimate, shinkitaka ironyaaka.</sentence>
         <sentence lang="es">Después lo hizo danzar, lo hizo danzar, le seguía dando otro y más otro le seguía dando ya iba amanecer estaba embriagado ahora.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+ponya		[=ponya][AdvRoot][=CONN (EN: then, later)]
+
+,	,[$.]
+
+ovishiriakaakari		[o-][VPers][3n.m.S/A+][--][=vishiri+INF@antsi.][VRoot][=to.sing-and-dance.together/collectively (ES: cantar-y-bailar.juntos)][--][-ak][+APPL.CAUS.SOC][=A+(causer).causes.sth/sb(causee).to.do.sth.&amp;.A+.also.participates.in.the.actn.; to.make.sth/sb.do.sth.]ak[--][-a][+EP]a[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ri][+3m.O/P]
+
+,	,[$.]
+
+ovishiriakaakari		[o-][VPers][3n.m.S/A+][--][=vishiri+INF@antsi.][VRoot][=to.sing-and-dance.together/collectively (ES: cantar-y-bailar.juntos)][--][-ak][+APPL.CAUS.SOC][=A+(causer).causes.sth/sb(causee).to.do.sth.&amp;.A+.also.participates.in.the.actn.; to.make.sth/sb.do.sth.]ak[--][-a][+EP]a[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ri][+3m.O/P]
+
+aikiro		[=aikiro][AdvRoot][=still (ES: todavía); (ES: sin.embargo)]
+
+opakotatsiri		[o-][VPers][3n.m.S/A+][--][=p+INF@aantsi.][VRoot][=to.give (ES: dar); to.feed (ES: alimentar)][--][-ako][VS][+APPL.GEN][=GEN (EN: with.reference.to.sth., about.sth.); INDR (EN: action.affects.sth.in.an.indirect.manner)]ako[--][-t][+EP]t[--][-a][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]a[--][-ts+freq@&lt;*.][+EP]ts[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+,	,[$.]
+
+pashini		[=pashini][NRoot][=other, another (ES: otro); few]
+
+opakotsiri		[o-][VPers][3n.m.S/A+][--][=p+INF@aantsi.][VRoot][=to.give (ES: dar); to.feed (ES: alimentar)][--][-ako][VS][+APPL.GEN][=GEN (EN: with.reference.to.sth., about.sth.); INDR (EN: action.affects.sth.in.an.indirect.manner)]ako[--][-ts+freq@&lt;*.][+EP]ts[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+irotaki		[=irotaki+pragm.func@cntr.exh.l.FOC.+num@3SG+gndr@n.m.][PrnPers][=that's.why; she.is.the.one.(who)]
+
+onkitaitsimate		[o-][VPers][3n.m.S/A+][--][N=][IRR+][--][=kitai+INF@/EP:t/aantsi.][VRoot][=to.be.morning; to.dawn, to.be.light; to.get.up.early][--][-ts][+EP]ts[--][-ima][Asp][+INCH][=beginning.of.a.new.state; CNT.EXP:but]ima[--][-t][+EP]t[--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e
+
+,	,[$.]
+
+shinkitaka		[=shinki+INF@/EP:t/(a)antsi.][VRoot][=to.get.drunk (ES: emborrachar, embriagar(se)); to.intoxicate][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a
+
+ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.190">
