@@ -7182,9 +7182,9 @@ kashiri		[=kashiri+gndr@m.+poss@te.][NRoot][=moon (ES: luna); month (ES: mes); l
         <parsing format="" analysislevel=""/>
     </text>
     <text id="1.187">
-        <error_sentence>Antaki iroñaaka piarintsi antajeetaki iroñaaka, shimashiri, savori <error type="spelling">pona|poña</error> iroñaaka misha, shinkijeetaka iroñaaka, onkantemikia oiyavajirita oimi ishitovaji.</error_sentence>
-        <sentence lang="prq" normalizationlevel="none">Antaki iroñaaka piarintsi antajeetaki iroñaaka, shimashiri, savori poña iroñaaka misha, shinkijeetaka iroñaaka, onkantemikia oiyavajirita oimi ishitovaji.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">Antaki ironyaaka piarintsi antaheetaki ironyaaka, shimashiri, savori ponya ironyaaka misha, shinkiheetaka ironyaaka, onkantemikia oiyavahirita oimi ishitovahi.</sentence>
+        <error_sentence>Antaki iroñaaka piarintsi antajeetaki iroñaaka, shimashiri, savori <error type="spelling">pona|poña</error> iroñaaka misha, shinkijeetaka iroñaaka, onkantemikia <error type="spelling">oiyavajirita|oyavajirita</error> oimi ishitovaji.</error_sentence>
+        <sentence lang="prq" normalizationlevel="none">Antaki iroñaaka piarintsi antajeetaki iroñaaka, shimashiri, savori poña iroñaaka misha, shinkijeetaka iroñaaka, onkantemikia oyavajirita oimi ishitovaji.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Antaki ironyaaka piarintsi antaheetaki ironyaaka, shimashiri, savori ponya ironyaaka misha, shinkiheetaka ironyaaka, onkantemikia oyavahirita oimi ishitovahi.</sentence>
         <sentence lang="es">Preparo ahora masato prepararon ahora, hoja de pescado, la espina y la lopuna, se embriagaron ahora, hubiese esperado a su esposo que salga.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
 
@@ -7220,6 +7220,8 @@ shinkiheetaka		[=shinki+INF@/EP:t/(a)antsi.][VRoot][=to.get.drunk (ES: emborrach
 ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
 
 ,	,[$.]
+
+onkantemikia		[o-][VPers][3n.m.S/A+][--][N=][IRR+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e[--][=mi][+2SG.O/P][=you (ES: te)][--][=kia][MODAL][+O.FOC]
 
 
 </morphology>
