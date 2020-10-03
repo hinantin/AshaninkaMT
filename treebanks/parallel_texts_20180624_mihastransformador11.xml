@@ -7223,6 +7223,13 @@ ironyaaka		[=ironyaaka][AdvRoot][=now (ES: ahora)]
 
 onkantemikia		[o-][VPers][3n.m.S/A+][--][N=][IRR+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e[--][=mi][+2SG.O/P][=you (ES: te)][--][=kia][MODAL][+O.FOC]
 
+oyavahirita		[=oy+INF@aantsi.+I-Conj@act.v.][VRoot][=to.expect (ES: aguardar); to.wait (ES: esperar)][--][-av+dir@object.oriented][ADV][+DIR][=contrary,opposite; RCVG:object.arriving.at.the.location.of.the.subject]av[--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P][--][=ta][MODAL][+OPT_SUBJ][CONTG: actn.that.depends.on.sth.that.may.or.may.not.happen; HYPOTH: actn.that.is.possible.&amp;.imagined.rather.than.real.&amp;.true]
+
+oimi		[o-][NPers][3n.m.poss+][--][=imi+gndr@m.+voc.+kin@fem.ego][NRoot][=husband (ES: esposo)]
+
+ishitovahi		[i-][VPers][3m.S/A+][--][=shitov+INF@aantsi;VC.][VRoot][=to.leave, to.come.out (ES: salir); to.escape, to.run.away][--][-ah][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]ah[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+.	.[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
