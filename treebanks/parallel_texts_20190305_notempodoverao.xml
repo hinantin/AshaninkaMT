@@ -19,7 +19,22 @@ AWAIRO NÃPITSI APIWTXA.</sentence>
         <sentence lang="pt">OS ASHANINKA DAQUI VIVEM NA BEIRINHA
 DO BRASIL, ÀS MARGENS DO RIO AMÔNIA,
 NUMA ALDEIA CHAMADA APIWTXA.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+isaiki		[i-][VPers][3m.S/A+][--][=saik+INF@aantsi.][VRoot][=to.be, to.be.at, to.be.in; to.sit (ES: sentarse); to.live][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+ashenĩkapaini		[=asheninka][NRoot][=indigenous.person.that.lives.in.the.in.the.central.adjoining.Amazonian.regions.between.Peru-and-Brazil][--][-paini][Num][+PL][=PL; DIST]
+
+othapiyakiini		[o-][NPers][3n.m.poss+][--][=tsapiyaki+inal@ntsi.][NRoot][=edge, side, end.edge.of.some.plane (ES: canto)][--][-ini][AS][+ADV]
+
+amõyani		[=amonya+allomorph@amoña.+gndr@n.m.+sem@plant][NRoot][=plant.sp. (ES: sp.de.planta)][--][-ni+sem@place.][+CL:watercourse][=watercourse, running.water.feature]
+
+oita		[=oita][WhPrn][=WH (EN: ,, lit.: it.is.called; ES: ,, lit.: ella.es)]
+
+awairo		[a-][NPers][1PL.poss+][--][=pairo+gndr@n.m.+inal@ntsi.+mrph.phon@LEN:^p→^v.][NRoot][=name (ES: nombre)]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="2">
