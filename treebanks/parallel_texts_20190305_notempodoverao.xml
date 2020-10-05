@@ -1,5 +1,7 @@
 <parallel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="parallel_texts.xsd">
     <text id="0">
+        <error_sentence>ASHI <error type="punct">OSAR ẼTSIPAITEKI|OSARẼTSIPAITEKI</error>
+        </error_sentence>
         <sentence lang="cpb" normalizationlevel="none">ASHI OSARẼTSIPAITEKI</sentence>
         <sentence lang="pt">NO TEMPO DO VERÃO</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
@@ -34,6 +36,12 @@ oita		[=oita][WhPrn][=WH (EN: ,, lit.: it.is.called; ES: ,, lit.: ella.es)]
 
 awairo		[a-][NPers][1PL.poss+][--][=pairo+gndr@n.m.+inal@ntsi.+mrph.phon@LEN:^p→^v.][NRoot][=name (ES: nombre)]
 
+nãpitsi		[=nampi+gndr@n.m.+inal@tsi.][NRoot][=village (ES: aldea; PT: aldeia); place; country; settlement][--][-tsi+poss@alien.+syl@mono;di.][Gen][+nposs]tsi
+
+apiwtxa		[=apiwtxa][NRoot:CPB][=all.together (PT: todos.juntos); together; NP]
+
+.	.[$.]
+
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
@@ -48,7 +56,12 @@ NÃO VÃO À ESCOLA. ANDAM COM SEUS
 PARENTES PARA APRENDER COM ELES
 AS COISAS QUE VÃO PRECISAR SABER
 QUANDO CRESCEREM.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="3">
