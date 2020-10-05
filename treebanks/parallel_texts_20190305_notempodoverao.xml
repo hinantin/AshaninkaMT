@@ -1,12 +1,19 @@
 <parallel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="parallel_texts.xsd">
     <text id="0">
-        <sentence lang="cpb">ASHI OSARẼTSIPAITEKI</sentence>
+        <sentence lang="cpb" normalizationlevel="none">ASHI OSARẼTSIPAITEKI</sentence>
         <sentence lang="pt">NO TEMPO DO VERÃO</sentence>
-        <morphology format="ashaninkamorph" analysislevel="not-fully"/>
+        <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+
+ashi		[=ashi+num@1PL][PrnPoss][=ours]
+
+osarẽtsipaiteki		[o-][NPers][3n.m.poss+][--][=sarentsi+gndr@m.+poss@te.][NRoot][=year (ES: año); dry.season/summer (ES: verano)][--][-paite][AS][+ADV][=during; at.the.time.of.sth.; period][--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)]
+
+</morphology>
         <parsing format="CoNLL" analysislevel="not-fully"/>
     </text>
     <text id="1">
-        <sentence lang="cpb">ISAIKI ASHENĨKAPAINI
+        <sentence lang="cpb" normalizationlevel="none">ISAIKI ASHENĨKAPAINI
 OTHAPIYAKIINI AMÕYANI OITA
 AWAIRO NÃPITSI APIWTXA.</sentence>
         <sentence lang="pt">OS ASHANINKA DAQUI VIVEM NA BEIRINHA
