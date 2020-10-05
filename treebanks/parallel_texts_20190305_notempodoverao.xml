@@ -15,12 +15,9 @@ osarẽtsipaiteki		[o-][NPers][3n.m.poss+][--][=sarentsi+gndr@m.+poss@te.][NRoot
         <parsing format="CoNLL" analysislevel="not-fully"/>
     </text>
     <text id="1">
-        <sentence lang="cpb" normalizationlevel="none">ISAIKI ASHENĨKAPAINI
-OTHAPIYAKIINI AMÕYANI OITA
-AWAIRO NÃPITSI APIWTXA.</sentence>
-        <sentence lang="pt">OS ASHANINKA DAQUI VIVEM NA BEIRINHA
-DO BRASIL, ÀS MARGENS DO RIO AMÔNIA,
-NUMA ALDEIA CHAMADA APIWTXA.</sentence>
+        <error_sentence/>
+        <sentence lang="cpb" normalizationlevel="none">ISAIKI ASHENĨKAPAINI OTHAPIYAKIINI AMÕYANI OITA AWAIRO NÃPITSI APIWTXA.</sentence>
+        <sentence lang="pt">OS ASHANINKA DAQUI VIVEM NA BEIRINHA DO BRASIL, ÀS MARGENS DO RIO AMÔNIA, NUMA ALDEIA CHAMADA APIWTXA.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
 
 
