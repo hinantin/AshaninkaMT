@@ -44,8 +44,8 @@ apiwtxa		[=apiwtxa][NRoot:CPB][=all.together (PT: todos.juntos); together; NP]
     </text>
     <text id="2">
         <error_sentence>
-            <error type="punct">OSARẼTSI PAITEKI|OSARẼTSIPAITEKI</error> EẼTXERIKI EERO IKIYAANAI ISHIKOIRAKI, HATANAKI RANASHIWAITXA ITSIPATXAARI ISHENĨKA PAINI, IKOWIR IYOTERI.</error_sentence>
-        <sentence lang="cpb" normalizationlevel="none">OSARẼTSIPAITEKI EẼTXERIKI EERO IKIYAANAI ISHIKOIRAKI, HATANAKI RANASHIWAITXA ITSIPATXAARI ISHENĨKA PAINI, IKOWIR IYOTERI.</sentence>
+            <error type="punct">OSARẼTSI PAITEKI|OSARẼTSIPAITEKI</error> EẼTXERIKI EERO IKIYAANAI ISHIKOIRAKI, HATANAKI RANASHIWAITXA ITSIPATXAARI <error type="punct">ISHENĨKA PAINI|ISHENĨKAPAINI</error>, <error type="spelling">IKOWIR|IKOWIRI</error> IYOTERI.</error_sentence>
+        <sentence lang="cpb" normalizationlevel="none">OSARẼTSIPAITEKI EẼTXERIKI EERO IKIYAANAI ISHIKOIRAKI, HATANAKI RANASHIWAITXA ITSIPATXAARI ISHENĨKAPAINI, IKOWIRI IYOTERI.</sentence>
         <sentence lang="pt">NO TEMPO DO VERÃO AS CRIANÇAS NÃO VÃO À ESCOLA. ANDAM COM SEUS PARENTES PARA APRENDER COM ELES AS COISAS QUE VÃO PRECISAR SABER QUANDO CRESCEREM.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
 
@@ -55,6 +55,15 @@ osarẽtsipaiteki		[=osarentsi+gndr@m.+poss@te.][NRoot][=year (ES: año); dry.se
 eẽtxeriki		[=eeNtxe/eẽtxe+gndr@n./m.+poss@ti.][NRoot:CPB][=child (ES: niño; PT: menino)][--][-riki+~{R.DEL:i}{DIM:iriki}][+DIM]riki
 
 eero		[=eero][Neg][=NEG.IRR]
+
+ikiyaanai		[i-][VPers][3m.S/A+][--][=kiy+allomorph@ky.][VRoot][=to.enter (ES: ingresar)][--][-a][+EP]a[--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][=ai][+1INCL.PL.O/P][=(to).us (ES: (a).nosotros,, nos)]ai
+
+ishikoiraki		[=escuela/ishikoira][NRoot:ES][=school][--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)]
+
+,	,[$.]
+
+hatanaki		[=hat+INF@aantsi.][VRoot][=to.go (ES: ir)][--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
 
 
 </morphology>
