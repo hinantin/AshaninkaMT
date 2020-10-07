@@ -15,7 +15,7 @@ osarẽtsipaiteki		[o-][NPers][3n.m.poss+][--][=sarentsi+gndr@m.+poss@te.][NRoot
         <parsing format="CoNLL" analysislevel="not-fully"/>
     </text>
     <text id="1">
-        <error_sentence/>
+        <error_sentence>ISAIKI ASHENĨKAPAINI OTHAPIYAKIINI <error type="spelling">AMOYANI|AMÕYANI</error> OITA AWAIRO NÃPITSI APIWTXA.</error_sentence>
         <sentence lang="cpb" normalizationlevel="none">ISAIKI ASHENĨKAPAINI OTHAPIYAKIINI AMÕYANI OITA AWAIRO NÃPITSI APIWTXA.</sentence>
         <sentence lang="pt">OS ASHANINKA DAQUI VIVEM NA BEIRINHA DO BRASIL, ÀS MARGENS DO RIO AMÔNIA, NUMA ALDEIA CHAMADA APIWTXA.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
@@ -43,18 +43,16 @@ apiwtxa		[=apiwtxa][NRoot:CPB][=all.together (PT: todos.juntos); together; NP]
         <parsing format="" analysislevel=""/>
     </text>
     <text id="2">
-        <sentence lang="cpb">OSARẼTSI PAITEKI EẼTXERIKI
-EERO IKIYAANAI ISHIKOIRAKI,
-HATANAKI RANASHIWAITXA
-ITSIPATXAARI ISHENĨKA PAINI,
-IKOWIR IYOTERI.</sentence>
-        <sentence lang="pt">NO TEMPO DO VERÃO AS CRIANÇAS
-NÃO VÃO À ESCOLA. ANDAM COM SEUS
-PARENTES PARA APRENDER COM ELES
-AS COISAS QUE VÃO PRECISAR SABER
-QUANDO CRESCEREM.</sentence>
+        <error_sentence>
+            <error type="punct">OSARẼTSI PAITEKI|OSARẼTSIPAITEKI</error> EẼTXERIKI EERO IKIYAANAI ISHIKOIRAKI, HATANAKI RANASHIWAITXA ITSIPATXAARI ISHENĨKA PAINI, IKOWIR IYOTERI.</error_sentence>
+        <sentence lang="cpb" normalizationlevel="none">OSARẼTSIPAITEKI EẼTXERIKI EERO IKIYAANAI ISHIKOIRAKI, HATANAKI RANASHIWAITXA ITSIPATXAARI ISHENĨKA PAINI, IKOWIR IYOTERI.</sentence>
+        <sentence lang="pt">NO TEMPO DO VERÃO AS CRIANÇAS NÃO VÃO À ESCOLA. ANDAM COM SEUS PARENTES PARA APRENDER COM ELES AS COISAS QUE VÃO PRECISAR SABER QUANDO CRESCEREM.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
 
+
+osarẽtsipaiteki		[=osarentsi+gndr@m.+poss@te.][NRoot][=year (ES: año); dry.season/summer (ES: verano)][--][-paite][AS][+ADV][=during; at.the.time.of.sth.; period][--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)]
+
+eẽtxeriki	eẽtxeriki	+?
 
 
 
