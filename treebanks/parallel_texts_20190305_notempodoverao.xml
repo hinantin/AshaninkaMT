@@ -91,6 +91,32 @@ iyaatsi		[=iya][VRoot][=to.go (ES: ir)][--][-atsi][ASP][+PROG][=actn.in.progress
 
 tayri		[=tairi+gndr@n.m.+sem@plant][NRoot][=yellow-flowered.tree.sp. (ES: oropel; sci.nm.: erithrina.uley?)]
 
+itxarini		[i-][NPers][3m.poss+][--][=txarini+gndr@m.+kin@male.ego][NRoot][=grandpa, grandfather, grandparent (ES: abuelo; PT: avô); grandson (ES: nieto; PT: neto)]
+
+,	,[$.]
+
+ikowakoteri		[i-][VPers][3m.S/A+][--][=kov+INF@antsi.][VRoot][=to.want (ES: querer)][--][-ako][VS][+APPL.GEN][=GEN (EN: with.reference.to.sth., about.sth.); INDR (EN: action.affects.sth.in.an.indirect.manner)]ako[--][-t][+EP]t[--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e[--][=ri][+3m.O/P]
+
+iyotãtxaawori		[=iyot+INF@aantsi:agaantsi.][VRoot][=to.know (ES: saber); to.understand (ES: entender)][--][-ant][Asp][+APPL.REAS][=REAS (EN: in.order.to, so.that; ES: para.que); INST (EN: that.with.which.sb.does.sth., sb's.tool)]ant[--][-xaa+allomorph@yaa.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR][--][=vo][+3n.m.O/P][--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+rãtero		[Ø-][VPers][3m.S/A+][--][r=][IRR+][--][=ant+INF@aantsi.+poss@ane.][VRoot][=to.beat, to.hit (ES: pegar); to.build, to.do, to.make (ES: hacer)][--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e[--][=ro][+3n.m.O/P]
+
+txekopi		[=txekopi+gndr@n.m.+poss@te:ti.][NRoot][=arrow (ES: flecha); small.cane (ES: cañabrava.pequeña)]
+
+:	:[$.]
+
+eeroka		[=eeroka+pragm.func@cont.d.TOP.+num@2SG][PrnPers][=you (ES: tú, usted)]
+
+otsimatxe		[o-][VPers][3n.m.S/A+][--][=tsim][VRoot][=POSSESS (EN: to.have; ES: tener); EXIST (EN: to.be.born, to.exist; ES: nacer)][--][-a][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]a[--][-t][+EP]t[--][-xe+allomorph@ye.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]
+
+piyoteri		[p-][VPers][2S/A+][--][=iyot+INF@aantsi:agaantsi.][VRoot][=to.know (ES: saber); to.understand (ES: entender)][--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e[--][=ri][+3m.O/P]
+
+pitoteri		[pi-][VPers][2S/A+][--][=tot+INF@aantsi.][VRoot][=to.cut (ES: cortar)][--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e[--][=ri][+3m.O/P]
+
+ishiwãki		[i-][NPers][3m.poss+][--][=shivaNki+gndr@n.m.+inal@n/tsi.][NRoot][=feather (ES: pluma); wing]
+
+kametha		[=kametsa][NRoot][=well (ES: bien), good]
+
 
 </morphology>
         <parsing format="" analysislevel=""/>
