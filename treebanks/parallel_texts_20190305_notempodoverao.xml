@@ -64,23 +64,35 @@ ishikoiraki		[=escuela/ishikoira][NRoot:ES][=school][--][-ki][Cas][+LOC][=LOC (E
 
 hatanaki		[=hat+INF@aantsi.][VRoot][=to.go (ES: ir)][--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
 
+ranashiwaitxa		[Ø-][VPers][3m.S/A+][--][r=][IRR+][--][=anashi+INF@/EP:t/aantsi.][VRoot][=to.walk.in.some_location (i.e.: the_woods; ES: caminar, andar.por)][--][-vai][ASP][+DUR][=action/state.endured.over.a.long.period.of.time; motion.took.place.over.a.long.distance]vai[--][-t][+EP]t[--][-xa+allomorph@ya.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]
 
+itsipatxaari		[i-][VPers][3m.S/A+][--][=tsipa+INF@/EP:t/aantsi.][VRoot][=to.accompany (ES: acompañar);| to.be.together (ES: tener.pareja);| to.join (ES: juntarse)][--][-t][+EP]t[--][-xaa+allomorph@yaa.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR][--][=ri][+3m.O/P]
+
+ishenĩkapaini		[i-][NPers][3m.poss+][--][=sheni][VRoot][=to.be.of.the.same.group][--][-nka][NS][+NMZ.QLTY]nka[--][-paini][Num][+PL][=PL; DIST]
+
+,	,[$.]
+
+ikowiri		[i-][VPers][3m.S/A+][--][=kov+INF@antsi.][VRoot][=to.want (ES: querer)][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+iyoteri		[=iyo+INF@/EP:t/aantsi:/EP:t/agaantsi.][VRoot][=to.know (ES: saber); to.learn (ES: aprender)][--][-t][+EP]t[--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e[--][=ri][+3m.O/P]
+
+.	.[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="3">
-        <sentence lang="cpb">IYAATSI TAYRI ITXARINI, IKOWAKOTERI
-        IYOTÃTXAAWORI RÃTERO TXEKOPI:
-        EEROKA OTSIMATXE PIYOTERI PITOTERI ISHIWÃKI
-        KAMETHA PIYOMATAKAIRO TXEKOPI. KAPIROKOTA
-        EERO ITSIMÃTAWO TSIMERI. IKÃTSI IRIRORI.</sentence>
-        <sentence lang="pt">TAYRI VAI VISITAR O SEU AVÔ PARA
-        APRENDER A FAZER FLECHA:
-        "VOCÊ TÊM QUE CORTAR AS PENAS IGUALZINHO.
-        FLECHA COM PONTA DE TABOCA
-        A CAÇA NÃO RESISTE!" - DIZ ELE.</sentence>
-        <morphology format="" analysislevel=""/>
+        <sentence lang="cpb">IYAATSI TAYRI ITXARINI, IKOWAKOTERI IYOTÃTXAAWORI RÃTERO TXEKOPI: EEROKA OTSIMATXE PIYOTERI PITOTERI ISHIWÃKI KAMETHA PIYOMATAKAIRO TXEKOPI. KAPIROKOTA EERO ITSIMÃTAWO TSIMERI. IKÃTSI IRIRORI.</sentence>
+        <sentence lang="pt">TAYRI VAI VISITAR O SEU AVÔ PARA APRENDER A FAZER FLECHA: "VOCÊ TÊM QUE CORTAR AS PENAS IGUALZINHO. FLECHA COM PONTA DE TABOCA A CAÇA NÃO RESISTE!" - DIZ ELE.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+iyaatsi		[=iya][VRoot][=to.go (ES: ir)][--][-atsi][ASP][+PROG][=actn.in.progress; FUT:actn.being.in.progress]atsi
+
+tayri		[=tairi+gndr@n.m.+sem@plant][NRoot][=yellow-flowered.tree.sp. (ES: oropel; sci.nm.: erithrina.uley?)]
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="4">
