@@ -125,6 +125,17 @@ txekopi		[=txekopi+gndr@n.m.+poss@te:ti.][NRoot][=arrow (ES: flecha; PT: flecha)
 
 kapirokota		[=kapiro+gndr@n.m.+sem@plant][NRoot][=bamboo.sp. (ES: paca, especie.de.bambú)][--][-kota][+CL:piece][=piece; split.plank-like; small,flat,thin]
 
+eero		[=eero][Neg][=NEG.IRR]
+
+itsimãtawo		[i-][VPers][3m.S/A+][--][=tsim][VRoot][=POSSESS (EN: to.have; ES: tener); EXIST (EN: to.be.born, to.exist; ES: nacer)][--][-ant][Asp][+APPL.REAS][=REAS (EN: in.order.to, so.that; ES: para.que); INST (EN: that.with.which.sb.does.sth., sb's.tool)]ant[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=vo][+3n.m.O/P]
+
+tsimeri		[=tsimeri+gndr@m.+poss@ti.+sem@bird][NRoot][=bird, little.bird (ES: ave, pájaro)]
+
+.	.[$.]
+
+ikãtsi		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+irirori		[=irirori+pragm.func@cntr.add.l.FOC.+num@3SG+gndr@m.][PrnPers][=he (ES: él)]
 
 </morphology>
         <parsing format="" analysislevel=""/>
