@@ -137,21 +137,23 @@ ikãtsi		[i-][VPers][3m.S/A+][--][=kant+INF@aantsi.][VRoot][=to.say;| to.call;| 
 
 irirori		[=irirori+pragm.func@cntr.add.l.FOC.+num@3SG+gndr@m.][PrnPers][=he (ES: él)]
 
+.	.[$.]
+
 </morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="4">
-        <sentence lang="cpb">IYAATATXE ITSIPATXARI IRẼTSI PIYÃKO
-        EEHATSI IRITSIRO BIANCA, ROYAATANAKIRI
-        RAKATXAATE IKÕKIRI WEWITO.
-        HO! PAMINERITXA ETSĨYAKI, IKOWAKI
-        IYAATE EEHATSI IRIRORI!</sentence>
-        <sentence lang="pt">ELE VAI PARTIR COM SEUS IRMÃOS,
-        PIANKO E BIANCA, E SEU TIO WEWITO,
-        PARA UMA PESCARIA.
-        EI! PARACE QUE ETSIYAKI, O CACHORRO,
-        TAMBÉM QUER IR!</sentence>
-        <morphology format="" analysislevel=""/>
+        <sentence lang="cpb">IYAATATXE ITSIPATXARI IRẼTSI PIYÃKO EEHATSI IRITSIRO BIANCA, ROYAATANAKIRI RAKATXAATE IKÕKIRI WEWITO. HO! PAMINERITXA ETSĨYAKI, IKOWAKI IYAATE EEHATSI IRIRORI!</sentence>
+        <sentence lang="pt">ELE VAI PARTIR COM SEUS IRMÃOS, PIANKO E BIANCA, E SEU TIO WEWITO, PARA UMA PESCARIA. EI! PARACE QUE ETSIYAKI, O CACHORRO, TAMBÉM QUER IR!</sentence>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+iyaatatxe		[=iyaa][VRoot][=to.go (ES: ir)][--][-t][+EP]t[--][-a][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]a[--][-t][+EP]t[--][-xe+allomorph@ye.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]
+
+itsipatxari		[i-][VPers][3m.S/A+][--][=tsipa+INF@/EP:t/aantsi.][VRoot][=to.accompany (ES: acompañar);| to.be.together (ES: tener.pareja);| to.join (ES: juntarse)][--][-t][+EP]t[--][-xa+allomorph@ya.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR][--][=ri][+3m.O/P]
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="5">
