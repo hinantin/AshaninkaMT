@@ -198,17 +198,40 @@ irirori		[=irirori+pragm.func@cntr.add.l.FOC.+num@3SG+gndr@m.][PrnPers][=he (ES:
         <parsing format="" analysislevel=""/>
     </text>
     <text id="5">
-        <sentence lang="cpb">AREETAPAKIYA HÃTA, OTSIMATXE ÃTAPAAKI
-        APÃKOSHI AMÃTXAARI, EẼTAATSI TAYRI
-        EEHATSI PIYÃKO RAMITAKOTSIRI IKÕKIRI
-        IRIRORI, IROORI BIANCA ÃTATSI
-        IPÃKOSHI OTXAPANITE.</sentence>
-        <sentence lang="pt">CHEGANDO LÁ É PRECISO CONSTRUIR
-        UMA CABANA PARA PASSAR A NOITE.
-        ENQUANTO TAYRI E PIANKO AJUDAM
-        SEU TIO BIANCA FAZ COM SUAS PRIMAS
-        UMA CABANA PARA O PINTINHO.</sentence>
-        <morphology format="" analysislevel=""/>
+        <sentence lang="cpb">AREETAPAKIYA HÃTA, OTSIMATXE ÃTAPAAKI APÃKOSHI AMÃTXAARI, EẼTAATSI TAYRI EEHATSI PIYÃKO RAMITAKOTSIRI IKÕKIRI IRIRORI, IROORI BIANCA ÃTATSI IPÃKOSHI OTXAPANITE.</sentence>
+        <sentence lang="pt">CHEGANDO LÁ É PRECISO CONSTRUIR UMA CABANA PARA PASSAR A NOITE. ENQUANTO TAYRI E PIANKO AJUDAM SEU TIO BIANCA FAZ COM SUAS PRIMAS UMA CABANA PARA O PINTINHO.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+areetapakiya		[=aree+INF@/EP:t/aantsi.][VRoot][=to.arrive (ES: llegar); to.visit.with.sb. (ES: visitar.a.algn.)][--][-t][+EP]t[--][-ap+dir@goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-iya+allomorph@ia.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR.RFL]iya
+
+hãta		[=hanta+loc@distal.b.][PrnDem][=DEM.ADV.: there (ES: allí.(está)), far.from.the.speaker (bounded; ES: allá, allí)]
+
+,	,[$.]
+
+otsimatxe		[o-][VPers][3n.m.S/A+][--][=tsim][VRoot][=POSSESS (EN: to.have; ES: tener); EXIST (EN: to.be.born, to.exist; ES: nacer)][--][-a][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]a[--][-t][+EP]t[--][-xe+allomorph@ye.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]
+
+ãtapaaki		[=ant+INF@aantsi.+poss@ane.][VRoot][=to.beat, to.hit (ES: pegar); to.build, to.do, to.make (ES: hacer)][--][-ap+dir@goal][ADV][+DIR][=on.arrival,arriving;final.phase.of.an.action/state]ap[--][-aak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]aak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i
+
+apãkoshi		[a-][NPers][1PL.poss+][--][=pankoshi~{'house':panko}{CL:/'leaf':shi/}+gndr@n.m.+inal@ntsi.][NRoot][=hut, hovel, hunter's.blind (ES: choza.(para.cazar.aves.salvajes); PT: cabana)]
+
+amãtxaari		[a-][VPers][1PL.S/A+][--][=man+INF@aantsi.][VRoot][=to.hide (ES: ocultar)][--][-t][+EP]t[--][-xaa+allomorph@yaa.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR][--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+,	,[$.]
+
+eẽtaatsi	eẽtaatsi	+?
+
+tayri		[=tairi+gndr@n.m.+sem@plant][NRoot][=yellow-flowered.tree.sp. (ES: oropel; sci.nm.: erithrina.uley?)]
+
+eehatsi		[=eehatsi][ConnRoot][=CONN (EN: also,, and; PT: e)]
+
+piyãko	piyãko	+?
+
+ramitakotsiri		[Ø-][VPers][3m.S/A+][--][r=][IRR+][--][=amitako+INF@/EP:t/aantsi.][VRoot][=to.help (ES: ayudar)][--][-ts+freq@&lt;*.][+EP]ts[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="6">
