@@ -227,6 +227,12 @@ eehatsi		[=eehatsi][ConnRoot][=CONN (EN: also,, and; PT: e)]
 
 piyãko	piyãko	+?
 
+ramitakotsiri		[Ø-][VPers][3m.S/A+][--][r=][IRR+][--][=amitako+INF@/EP:t/aantsi.][VRoot][=to.help (ES: ayudar)][--][-ts+freq@&lt;*.][+EP]ts[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+ikõkiri		[i-][NPers][3m.poss+][--][=konki+gndr@m.+poss@ri:re.+kin@male.ego][NRoot][=father; father.in.law; uncle (ES: suegro)][--][-ri][Gen][+aln.poss.]ri
+
+irirori		[=irirori+pragm.func@cntr.add.l.FOC.+num@3SG+gndr@m.][PrnPers][=he (ES: él)]
+
 
 </morphology>
         <parsing format="" analysislevel=""/>
