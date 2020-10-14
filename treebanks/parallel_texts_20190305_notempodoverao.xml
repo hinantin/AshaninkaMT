@@ -251,7 +251,7 @@ otxapanite	otxapanite	+?
         <parsing format="" analysislevel=""/>
     </text>
     <text id="6">
-        <sentence lang="cpb">IKITEESHITAKOMANAI, TAYRI ANANIKAKI IYOTAIRO IRITSIRO HĨPE IKÃTAITSIRO, OOSHERO PAÃPARI OTSIMATXE AMINERO KAMETHA. PISHAYE KANIRI ANANTXA, IRIRORI SHIRÃPARI PAINIRÃTE IYẼTAAMẼTO: IRÕYAKA OITEESHIRITE OMANAATE!</sentence>
+        <sentence lang="cpb">IKITEESHITAKOMANAI, TAYRI ANANIKAKI IYOTAIRO IRITSIRO HĨPE  , OOSHERO PAÃPARI OTSIMATXE AMINERO KAMETHA. PISHAYE KANIRI ANANTXA, IRIRORI SHIRÃPARI PAINIRÃTE IYẼTAAMẼTO: IRÕYAKA OITEESHIRITE OMANAATE!</sentence>
         <sentence lang="pt">NO DIA SEGUINTE BEM CEDO TAYRI ENSINA OS IRMÃOS: "PARA O FOGO PEGAR É PRECISO FAZER COM CARINHO..." ANANTXA DESCASCA A MACAXEIRA E OS MENINOS PREPARAM SEUS ARPÕES: É DIA DE PESCARIA!</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
 
@@ -264,6 +264,7 @@ tayri		[=tairi+gndr@n.m.+sem@plant][NRoot][=yellow-flowered.tree.sp. (ES: oropel
 
 ananikaki	ananikaki	+?
 
+iyotairo		[=iyot+INF@aantsi:agaantsi.][VRoot][=to.know (ES: saber); to.understand (ES: entender)][--][=ai][+1INCL.PL.O/P][=(to).us (ES: (a).nosotros,, nos)]ai[--][=ro][+3n.m.O/P]
 
 
 </morphology>
