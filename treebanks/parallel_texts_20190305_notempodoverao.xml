@@ -333,7 +333,23 @@ oirõtsi		[=oirontsi+poss@ti.+sem@crustacean][NRoot][=crab.sp. (ES: especie.de.c
 
 oirõtsi		[=oirontsi+poss@ti.+sem@crustacean][NRoot][=crab.sp. (ES: especie.de.cangrejo; PT: caranguejo)]
 
+,	,[$.]
 
+atsikawetakari		[=atsik+INF@aantsi.][VRoot][=to.bite (ES: morder.(sujeto.animado))][--][-a][+EP]a[--][-ve][+FRUS][=unsuccessful/interrupted.action/state (EN: in.vain; ES: casi); action.that.didn't.achieve.the.desired.result]ve[--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=ri][+3m.O/P]
+
+ikiriki		[i-][NPers][3m.poss+][--][=kiri+gndr@n.m.+inal@tsi.+sem@b.p.][NRoot][=nose (ES: nariz); nostrils][--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)]
+
+,	,[$.]
+
+kãtsimaitxa		[=kant+INF@aantsi.][VRoot][=to.say;| to.call;| to.do;| to.happen;| to.be (ES: ser);| to.be.able][--][-imai][Asp][+INCH][=beginning.of.a.new.state; CNT.EXP:but]imai[--][-t][+EP]t[--][-xa+allomorph@ya.+tns@fut.+C.A@mid.v.+RSS@00000][MODALITY][+IRR]
+
+raakiri		[Ø-][VPers][3m.S/A+][--][r=][IRR+][--][=a][VRoot][=to.get][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+eẽtxeriki		[=eeNtxe/eẽtxe+gndr@n./m.+poss@ti.][NRoot:CPB][=child (ES: niño; PT: menino)][--][-riki+~{R.DEL:i}{DIM:iriki}][+DIM]riki
+
+itsitokaiyakirini		[i-][VPers][3m.S/A+][--][=tsitok+INF@aantsi.][VRoot][=to.crush.sth. (ES: chancar); to.kill (ES: matar); to.hit][--][-aiy][+PL]aiy[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P][--][-ni+circumfix@/PL:aiy/;/PL:iy/.][+PL]
+
+.	.[$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
