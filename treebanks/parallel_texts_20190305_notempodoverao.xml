@@ -406,7 +406,9 @@ tayri	[=tairi+n.m.][NRoot][=yellow-flowered.tree.sp. (ES: oropel; sci.nm.: erith
         <parsing format="" analysislevel=""/>
     </text>
     <text id="9">
-        <sentence lang="cpb">HAME AATAI PÃKOTSIKI, ĨTAINA APÕYAAKA, KIYARIYO PIPEYAKOTSIRIKARI ETSĨYAKI!</sentence>
+        <error_sentence>
+            <error type="spelling">HAME|THAME</error> AATAI PÃKOTSIKI, ĨTAINA APÕYAAKA, KIYARIYO PIPEYAKOTSIRIKARI ETSĨYAKI!</error_sentence>
+        <sentence lang="cpb">THAME AATAI PÃKOTSIKI, ĨTAINA APÕYAAKA, KIYARIYO PIPEYAKOTSIRIKARI ETSĨYAKI!</sentence>
         <sentence lang="pt">HORA DE ARRUMAR AS COISAS E VOLTAR PRA CASA QUE A JORNADA É LONGA E O DIA JÁ VAI LONGE. MAS ESPEREM, NÃO VÃO ESQUECER ETSIYAKI!</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
 
@@ -421,7 +423,17 @@ pãkotsiki		[=panko+gndr@n.m.+inal@tsi.+mrph.phon@LEN:^p→^v.][NRoot][=house, h
 
 ĩtaina		[=intaina+sem@loc.][AdvRoot][=far.away (ES: muy.lejos)]
 
+apõyaaka		[=aponyaaka][VRoot][=we.continued (ES: nosotros.proseguimos)]
 
+,	,[$.]
+
+kiyariyo	kiyariyo	+?
+
+pipeyakotsirikari		[pi-][VPers][2S/A+][--][=peyako+INF@/EP:t/aantsi.][VRoot][=to.forget (ES: olvidar)][--][-ts+freq@&lt;*.][+EP]ts[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P][--][-kari][MODAL][+APPR][=lest (EN: in.order.to.prevent; ES: ¡cuidado!)]
+
+etsĩyaki		etsĩyaki		+?
+
+!	![$.]
 
 </morphology>
         <parsing format="" analysislevel=""/>
