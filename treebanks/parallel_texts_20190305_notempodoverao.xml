@@ -315,9 +315,17 @@ omanaate		[o-][VPers][3n.m.S/A+][--][=manaa+INF@/EP:t/antsi.][VRoot][=to.shoot (
         <parsing format="" analysislevel=""/>
     </text>
     <text id="7">
-        <sentence lang="cpb">HĨYAAKI ĨTHOMOITA ARI ISAIKI OIRÕTSI, ATSIKAWETAKARI IKIRIKI, KÃTSIMAITXA RAAKIRI EẼTXERIKI ITSITOKAIYAKIRINI.</sentence>
+        <error_sentence>HĨYAAKI <error type="spelling">ĨTHOMOITA|ĨTHOMOĨTA</error> ARI ISAIKI OIRÕTSI, ATSIKAWETAKARI IKIRIKI, KÃTSIMAITXA RAAKIRI EẼTXERIKI ITSITOKAIYAKIRINI.</error_sentence>
+        <sentence lang="cpb">HĨYAAKI ĨTHOMOĨTA ARI ISAIKI OIRÕTSI, ATSIKAWETAKARI IKIRIKI, KÃTSIMAITXA RAAKIRI EẼTXERIKI ITSITOKAIYAKIRINI.</sentence>
         <sentence lang="pt">NO FUNDO DO RIO UM CARANGUEJO QUASE LHES BELISCA O NARIZ, MAS OS MENINOS CONSEGUEM APANHÁ-LO.</sentence>
-        <morphology format="ashaninkamorph" analysislevel="fully"/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+hĩyaaki		[=hinyaa+gndr@n.m.+poss@te.][NRoot][=water (ES: agua, rìo, lluvia)][--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)]
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="8">
