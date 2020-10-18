@@ -355,16 +355,8 @@ itsitokaiyakirini		[i-][VPers][3m.S/A+][--][=tsitok+INF@aantsi.][VRoot][=to.crus
         <parsing format="" analysislevel=""/>
     </text>
     <text id="8">
-        <sentence lang="cpb">HĨPE IKAATSIKA PAAKARI
-SHIMA? ARI IKAATSI APITE?
-PIKÃTERI WEWITO ARIRIKA
-PIMÕKAATAKA, TEKAATSIMA PIINA.
-- IKÃTSI TAYRI.</sentence>
-        <sentence lang="pt">- "QUANTOS PEIXES VOCÊ PESCOU?"
-SÓ DOIS” – PERGUNTA TIO WEWITO
-“AH JÁ DÁ PRA VOCÊ COMER”.
--“DÁ SIM, VOCÊ NÃO TEM MULHER”.
--COMPLETA TAYRI</sentence>
+        <sentence lang="cpb">HĨPE IKAATSIKA PAAKARI SHIMA? ARI IKAATSI APITE? PIKÃTERI WEWITO ARIRIKA PIMÕKAATAKA, TEKAATSIMA PIINA. - IKÃTSI TAYRI.</sentence>
+        <sentence lang="pt">- "QUANTOS PEIXES VOCÊ PESCOU?" SÓ DOIS” – PERGUNTA TIO WEWITO “AH JÁ DÁ PRA VOCÊ COMER”. -“DÁ SIM, VOCÊ NÃO TEM MULHER”. -COMPLETA TAYRI</sentence>
         <morphology format="ashaninkamorph" analysislevel="not-fully">
             
 
