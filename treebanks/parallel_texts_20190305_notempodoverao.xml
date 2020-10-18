@@ -406,14 +406,24 @@ tayri	[=tairi+n.m.][NRoot][=yellow-flowered.tree.sp. (ES: oropel; sci.nm.: erith
         <parsing format="" analysislevel=""/>
     </text>
     <text id="9">
-        <sentence lang="cpb">HAME AATAI PÃKOTSIKI,
-        ĨTAINA APÕYAAKA, KIYARIYO
-        PIPEYAKOTSIRIKARI ETSĨYAKI!</sentence>
-        <sentence lang="pt">HORA DE ARRUMAR AS COISAS
-        E VOLTAR PRA CASA QUE A JORNADA É LONGA E O DIA
-        JÁ VAI LONGE. MAS ESPEREM,
-        NÃO VÃO ESQUECER ETSIYAKI!</sentence>
-        <morphology format="" analysislevel=""/>
+        <sentence lang="cpb">HAME AATAI PÃKOTSIKI, ĨTAINA APÕYAAKA, KIYARIYO PIPEYAKOTSIRIKARI ETSĨYAKI!</sentence>
+        <sentence lang="pt">HORA DE ARRUMAR AS COISAS E VOLTAR PRA CASA QUE A JORNADA É LONGA E O DIA JÁ VAI LONGE. MAS ESPEREM, NÃO VÃO ESQUECER ETSIYAKI!</sentence>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+hame		hame		+?
+
+aatai		aatai		+?
+
+pãkotsiki		[=panko+gndr@n.m.+inal@tsi.+mrph.phon@LEN:^p→^v.][NRoot][=house, home (ES: casa);| tambo (QU: tampu)][--][-tsi+poss@alien.+syl@mono;di.][Gen][+nposs]tsi[--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)]
+
+,	,[$.]
+
+ĩtaina		[=intaina+sem@loc.][AdvRoot][=far.away (ES: muy.lejos)]
+
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="10">
