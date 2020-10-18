@@ -307,7 +307,7 @@ irõyaka		[=ironyaka/irõyaka][AdvRoot:CPB][=now (ES: ahora)]
 
 oiteeshirite	oiteeshirite	+?
 
-omanaate		[o-][VPers][3n.m.S/A+][--][=mana+INF@/EP:t/antsi.][VRoot][=to.shoot (tipically.with.arrow(s); ES: disparar); to.fish.with.a.bow-and-arrow (ES: pescar.con.arco-y-flecha)][--][-a][+REP][=again.and.again]a[--][-t][+EP]t[--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e
+omanaate		[o-][VPers][3n.m.S/A+][--][=manaa+INF@/EP:t/antsi.][VRoot][=to.shoot (tipically.with.arrow(s); ES: disparar); to.fish.with.a.bow-and-arrow (ES: pescar.con.arco-y-flecha)][--][-t][+EP]t[--][-e+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]e
 
 !	![$.]
 
@@ -315,14 +315,9 @@ omanaate		[o-][VPers][3n.m.S/A+][--][=mana+INF@/EP:t/antsi.][VRoot][=to.shoot (t
         <parsing format="" analysislevel=""/>
     </text>
     <text id="7">
-        <sentence lang="cpb">HĨYAAKI ĨTHOMOITA ARI ISAIKI
-        OIRÕTSI, ATSIKAWETAKARI IKIRIKI,
-        KÃTSIMAITXA RAAKIRI EẼTXERIKI
-        ITSITOKAIYAKIRINI.</sentence>
-        <sentence lang="pt">NO FUNDO DO RIO UM CARANGUEJO
-        QUASE LHES BELISCA O NARIZ, MAS
-        OS MENINOS CONSEGUEM APANHÁ-LO.</sentence>
-        <morphology format="" analysislevel=""/>
+        <sentence lang="cpb">HĨYAAKI ĨTHOMOITA ARI ISAIKI OIRÕTSI, ATSIKAWETAKARI IKIRIKI, KÃTSIMAITXA RAAKIRI EẼTXERIKI ITSITOKAIYAKIRINI.</sentence>
+        <sentence lang="pt">NO FUNDO DO RIO UM CARANGUEJO QUASE LHES BELISCA O NARIZ, MAS OS MENINOS CONSEGUEM APANHÁ-LO.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="fully"/>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="8">
