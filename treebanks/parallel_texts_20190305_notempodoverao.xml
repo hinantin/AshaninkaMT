@@ -415,7 +415,7 @@ tayri	[=tairi+n.m.][NRoot][=yellow-flowered.tree.sp. (ES: oropel; sci.nm.: erith
 
 thame		[=tsame+prop@standalone.][VRoot][=COME.ON, LET'S.GO (ES: vamos)]
 
-aatai		[=aatai][VRoot][=we.will.go.back (ES: nosotros.volveremos; PT: nós.vamos.voltar)]
+aatai		[=aatai][VRoot][=WE.WILL.GO.BACK (ES: nosotros.volveremos; PT: nós.vamos.voltar)]
 
 pãkotsiki		[=panko+gndr@n.m.+inal@tsi.+mrph.phon@LEN:^p→^v.][NRoot][=house, home (ES: casa);| tambo (QU: tampu)][--][-tsi+poss@alien.+syl@mono;di.][Gen][+nposs]tsi[--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)]
 
@@ -439,15 +439,8 @@ etsĩyaki		etsĩyaki		+?
         <parsing format="" analysislevel=""/>
     </text>
     <text id="10">
-        <sentence lang="cpb">HAKA NÃPITSIKI, MAAWOINI
-        EẼTXERIKI ĨYAÃTAWO
-        PÃKOTSIKI, KOMITHAKIRIKA
-        EEHATSI RÕYAAYERO
-        HĨPEOKAATSI IYOTAKIRI.</sentence>
-        <sentence lang="pt">NA ALDEIA, OS MENINOS
-        VÃO TESTAR SUA HABILIDADE NO
-        TREINO DE PONTARIA E MOSTRAR PARA
-        A COMUNIDADE O QUE APRENDERAM.</sentence>
+        <sentence lang="cpb">HAKA NÃPITSIKI, MAAWOINI EẼTXERIKI ĨYAÃTAWO PÃKOTSIKI, KOMITHAKIRIKA EEHATSI RÕYAAYERO HĨPEOKAATSI IYOTAKIRI.</sentence>
+        <sentence lang="pt">NA ALDEIA, OS MENINOS VÃO TESTAR SUA HABILIDADE NO TREINO DE PONTARIA E MOSTRAR PARA A COMUNIDADE O QUE APRENDERAM.</sentence>
         <morphology format="" analysislevel=""/>
         <parsing format="" analysislevel=""/>
     </text>
