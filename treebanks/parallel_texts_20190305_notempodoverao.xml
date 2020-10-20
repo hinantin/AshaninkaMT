@@ -439,22 +439,69 @@ etsĩyaki		etsĩyaki		+?
         <parsing format="" analysislevel=""/>
     </text>
     <text id="10">
-        <sentence lang="cpb">HAKA NÃPITSIKI, MAAWOINI EẼTXERIKI ĨYAÃTAWO PÃKOTSIKI, KOMITHAKIRIKA EEHATSI RÕYAAYERO HĨPEOKAATSI IYOTAKIRI.</sentence>
+        <error_sentence>HAKA NÃPITSIKI, MAAWOINI EẼTXERIKI ĨYAÃTAWO PÃKOTSIKI, <error type="spelling">KOMITHAKIRIKA|KOMĨTHAAKIRIKA</error> EEHATSI RÕYAAYERO HĨPEOKAATSI IYOTAKIRI.</error_sentence>
+        <sentence lang="cpb">HAKA NÃPITSIKI, MAAWOINI EẼTXERIKI ĨYAÃTAWO PÃKOTSIKI, KOMĨTHAAKIRIKA EEHATSI RÕYAAYERO HĨPEOKAATSI IYOTAKIRI.</sentence>
         <sentence lang="pt">NA ALDEIA, OS MENINOS VÃO TESTAR SUA HABILIDADE NO TREINO DE PONTARIA E MOSTRAR PARA A COMUNIDADE O QUE APRENDERAM.</sentence>
-        <morphology format="" analysislevel=""/>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+haka		[=haka+loc@proximal.b.][PrnDem][=DEM.ADV. (EN: here, close.to.the.speaker; ES: aquí)]
+
+nãpitsiki		[=nampi+gndr@n.m.+inal@tsi.][NRoot][=village (ES: aldea; PT: aldeia); place; country; settlement][--][-tsi+poss@alien.+syl@mono;di.][Gen][+nposs]tsi[--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)]
+
+,	,[$.]
+
+maawoini		[=maavoini][NRoot][=everybody, all (ES: todos)]
+
+eẽtxeriki		[=eeNtxe/eẽtxe+gndr@n./m.+poss@ti.][NRoot:CPB][=child (ES: niño; PT: menino)][--][-riki+~{R.DEL:i}{DIM:iriki}][+DIM]riki
+
+ĩyaãtawo		[i-][VPers][3m.S/A+][--][=nya+allomorph@ña.+INF@antsi.][VRoot][=to.speak (ES: hablar)][--][-ant][Asp][+APPL.REAS][=REAS (EN: in.order.to, so.that; ES: para.que); INST (EN: that.with.which.sb.does.sth., sb's.tool)]ant[--][-a+tns@n.fut.+C.A@mid.v.+RSS@00][MODALITY][+REAL]a[--][=vo][+3n.m.O/P]
+
+pãkotsiki		[=paNko/pãko+gndr@n.m.+inal@tsi.][NRoot:CPB][=house (ES: casa); tambo (QU: tampu)][--][-tsi+poss@alien.+syl@mono;di.][Gen][+nposs]tsi[--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)]
+
+,	,[$.]
+
+komĩthaakirika		[=komintsa+INF@/EP:t/aantsi.][VRoot][=to.hunt (ES: cazar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=rika][MODAL][+COND][=if (expresses.possible.condition); like (comparison)]
+
+eehatsi		[=eehatsi][ConnRoot][=CONN (EN: also,, and; PT: e)]
+
+rõyaayero		[Ø-][VPers][3m.S/A+][--][r=][IRR+][--][o=][AGT.CAUS+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-a][+EP]a[--][-a][ASP][+REGR_TERM][=REGR: to.repeat.sth.again, to.continue.sth.; TERM: finality-and-closure, once-and-for.all]a[--][-ye+allomorph@e.+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]ye[--][=ro][+3n.m.O/P]
+
+hĩpeokaatsi	hĩpeokaatsi	+?
+
+iyotakiri		[=iyot+INF@aantsi:agaantsi.][VRoot][=to.know (ES: saber); to.understand (ES: entender)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+.	.[$.]
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
     <text id="11">
-        <sentence lang="cpb">RAANAKIRI TAYRI ITÃPOOTE
-        PIYAARẼTSIKI, ĨYEERI ÃTARIITE
-        ITÃPOOTE EEHATSI IPÃPITHAI. ARI OKÃTA
-        RIYOYETSI EẼTXEERI OSARẼTSIPAYTEKI.</sentence>
-        <sentence lang="pt">NA FESTA, TAYRI TAMBÉM APROVEITA PARA
-        TOCAR E CANTAR. LEVA SEU INSTRUMENTO E
-        TENTA FAZER COMO OS MAIS VELHOS.
-        É ASSIM QUE AS CRIANÇAS APRENDEM
-        NO TEMPO DE VERÃO.</sentence>
-        <morphology format="" analysislevel=""/>
+        <sentence lang="cpb">RAANAKIRI TAYRI ITÃPOOTE PIYAARẼTSIKI, ĨYEERI ÃTARIITE ITÃPOOTE EEHATSI IPÃPITHAI. ARI OKÃTA RIYOYETSI EẼTXEERI OSARẼTSIPAYTEKI.</sentence>
+        <sentence lang="pt">NA FESTA, TAYRI TAMBÉM APROVEITA PARA TOCAR E CANTAR. LEVA SEU INSTRUMENTO E TENTA FAZER COMO OS MAIS VELHOS. É ASSIM QUE AS CRIANÇAS APRENDEM NO TEMPO DE VERÃO.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+
+raanakiri		[Ø-][VPers][3m.S/A+][--][r=][IRR+][--][=a][VRoot][=to.get][--][-an+dir@source][ADV][+DIR][=(upon).leaving/departing;INCH:beginning.of.a.new.state;INCEP:beginning.of.a.new.action]an[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+allomorph@e.+tns@fut.+RSS@00000][MODALITY][+IRR]i[--][=ri][+3m.O/P]
+
+tayri		[=tairi+gndr@n.m.+sem@plant][NRoot][=yellow-flowered.tree.sp. (ES: oropel; sci.nm.: erithrina.uley?)]
+
+itãpoote		[i-][NPers][3m.poss+][--][=tambor+m.][NRoot][=drum][--][-te+syl@&gt;tri.][Gen][+aln.poss.]te
+
+piyaarẽtsiki		[=piyaare+gndr@n.m.+inal@ntsi.][NRoot][=manioc.beer (ES: masato; PT: caiçuma/caissuma/caxiri.brava/forte)][--][-ntsi+poss@alien.+syl@&gt;poly.][Gen][+nposs]ntsi[--][-ki][Cas][+LOC][=LOC (EN: motion.to/motion.from); LOC.T (EN: during/over)]
+
+,	,[$.]
+
+ĩyeeri		[i-][VPers][3m.S/A+][--][=ny+allomorph@ñ.+INF@aantsi:agaantsi.][VRoot][=to.see (ES: ver), to.look.for; to.visit][--][-ee+allomorph@e.+tns@fut.+C.I@act.v.+RSS@00000][MODALITY][+IRR]ee[--][=ri][+3m.O/P]
+
+ãtariite		[=antari+gndr@m.+poss@nposs.adj.][NRoot][=big (ES: grande); mature][--][-ite][+CL:anim.PL][=animate,plural]
+
+itãpoote		[i-][NPers][3m.poss+][--][=tambor+m.][NRoot][=drum][--][-te+syl@&gt;tri.][Gen][+aln.poss.]te
+
+eehatsi		[=eehatsi][ConnRoot][=CONN (EN: also,, and; PT: e)]
+
+
+</morphology>
         <parsing format="" analysislevel=""/>
     </text>
 </parallel>
