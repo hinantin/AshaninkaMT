@@ -1,31 +1,31 @@
 # deprecated 
 extractbilingualvocab:
 	@cat en-cni.dix.part1
-	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/vroot.prq.foma --file ../AshaninkaMorph/oroot.prq.foma --file ../AshaninkaMorph/neg.prq.foma 
+	@perl convertFsttoLttoolbox.pl --file ../AshMorph/vroot.prq.foma --file ../AshMorph/oroot.prq.foma --file ../AshMorph/neg.prq.foma 
 	@cat en-cni.dix.part2
-	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/nroot.prq.foma --label "@section:noun@" --rootlabel "NRoot" --section "Noun" 
+	@perl convertFsttoLttoolbox.pl --file ../AshMorph/nroot.prq.foma --label "@section:noun@" --rootlabel "NRoot" --section "Noun" 
 	@cat en-cni.dix.part3
 
 enbilingualvocab:
 	@cp en-cni.base.dix en-cni.dix 
-	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/prnposs.prq.foma --label "@section:prnposs@" --rootlabel "PrnPoss" --section "Possessive_pronoun" > file1
+	@perl convertFsttoLttoolbox.pl --file ../AshMorph/prnposs.prq.foma --label "@section:prnposs@" --rootlabel "PrnPoss" --section "Possessive_pronoun" > file1
 	@sed -i -e '/POINTERPRNPOSS/r file1' en-cni.dix 
-	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/vroot.prq.foma --file ../AshaninkaMorph/oroot.prq.foma --file ../AshaninkaMorph/neg.prq.foma > file1
+	@perl convertFsttoLttoolbox.pl --file ../AshMorph/vroot.prq.foma --file ../AshMorph/oroot.prq.foma --file ../AshMorph/neg.prq.foma > file1
 	@sed -i -e '/POINTERVROOT/r file1' en-cni.dix 
-	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/nroot.prq.foma --file ../AshaninkaMorph/vroot.prq.foma --file ../AshaninkaMorph/aroot.prq.foma --file ../AshaninkaMorph/nroot.es.foma --label "@section:noun@" --rootlabel "NRoot" --section "Noun" > file1
+	@perl convertFsttoLttoolbox.pl --file ../AshMorph/nroot.prq.foma --file ../AshMorph/vroot.prq.foma --file ../AshMorph/aroot.prq.foma --file ../AshMorph/nroot.es.foma --label "@section:noun@" --rootlabel "NRoot" --section "Noun" > file1
 	@sed -i -e '/POINTERNROOT/r file1' en-cni.dix 
-	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/prnpers.prq.foma --label "@section:prnpers@" --rootlabel "PrnPers" --section "Personal_pronoun" > file1
+	@perl convertFsttoLttoolbox.pl --file ../AshMorph/prnpers.prq.foma --label "@section:prnpers@" --rootlabel "PrnPers" --section "Personal_pronoun" > file1
 	@sed -i -e '/POINTERPRNPERS/r file1' en-cni.dix 
 	@perl httpclient.pl -s -c /db/HNTAshaninka/BilingualMorphology en-cni.dix 
 
 bilingualvocab:
 	@cp en-cni.base.dix es-cni.dix 
-	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/vroot.prq.foma --label "@section:verb@" --rootlabel "VRoot" --section "Verb" --language "ES" > file1
+	@perl convertFsttoLttoolbox.pl --file ../AshMorph/vroot.prq.foma --label "@section:verb@" --rootlabel "VRoot" --section "Verb" --language "ES" > file1
 	@sed -i -e '/POINTERVROOT/r file1' es-cni.dix 
-	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/nroot.prq.foma --label "@section:noun@" --rootlabel "NRoot" --section "Noun" --language "ES" > file1
+	@perl convertFsttoLttoolbox.pl --file ../AshMorph/nroot.prq.foma --label "@section:noun@" --rootlabel "NRoot" --section "Noun" --language "ES" > file1
 	@sed -i -e '/POINTERNROOT/r file1' es-cni.dix 
-	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/nroot.prq.foma --label "@section:noun@" --rootlabel "NRoot" --section "Noun" --language "PT" > pt-cni.dix
-	@perl convertFsttoLttoolbox.pl --file ../AshaninkaMorph/nroot.prq.foma --label "@section:noun@" --rootlabel "NRoot" --section "Noun" --language "QU" > qu-cni.dix    
+	@perl convertFsttoLttoolbox.pl --file ../AshMorph/nroot.prq.foma --label "@section:noun@" --rootlabel "NRoot" --section "Noun" --language "PT" > pt-cni.dix
+	@perl convertFsttoLttoolbox.pl --file ../AshMorph/nroot.prq.foma --label "@section:noun@" --rootlabel "NRoot" --section "Noun" --language "QU" > qu-cni.dix    
 
 compile:
 	@sudo cp freeling/en/locucions.dat /usr/local/share/freeling/en/locucions.dat 
