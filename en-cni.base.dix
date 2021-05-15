@@ -158,13 +158,6 @@
         ##### -->
         <!-- animal_de_caza -->
         <e><p><l>game_animal</l><r>poshiniri<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
-        <!-- #####
-            H 
-        ##### -->
-        <!-- tekatsi oyerine / =NEG.EXIST = / EN: 'healthy'; ES: 'saludable' -->
-        <e><p><l>healthy</l><r>oyerine<s n="preform"/>#tekatsi</r></p><par n="Adjectives"/></e>
-        <!-- tekatsi oyerini / =NEG.EXIST = / EN: 'healthy'; ES: 'saludable' -->
-        <e><p><l>healthy</l><r>oyerini<s n="preform"/>#tekatsi</r></p><par n="Adjectives"/></e>
         <!--  -->
         <e><p><l>heavy</l><r>tenari<s n="gndr"/>+m.</r></p><par n="Adjectives"/></e>
         <!--  -->
