@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <alphabet>abcdefghijklmnñopqrstuvwxyzABCDEFGHIJKLMNÑOPQRSTUVWXYZ</alphabet>
+    <sdefs>
+        <sdef n="mi"     c="Morphological information"/>
+        <sdef n="parol"  c="PAROLE style tag"/>
+        <sdef n="si"    c="syntactic information"/>
+        <sdef n="lem"    c="lem"/>
+        <sdef n="auxlem"    c="auxiliary lemma"/>
+        <sdef n="auxverbmi"    c="auxiliary morphology"/>
+        <sdef n="addlem"    c="addlem"/>
+        <sdef n="adpos"    c="adpositions (pre- or postpositions)"/>
+        <!--    deprecated <sdef n="split"    c="1:n translation that need to be split up (-> 2,3.. nodes)"/> -->
+        <sdef n="root_type"    c="root type"/>
+        <sdef n="preform"    c="additional wordform, insert before"/>
+        <sdef n="postform"    c="additional wordform, insert after"/>
+        <sdef n="firstform"    c="additional wordform, insert as first token"/>
+        <sdef n="moveToHead_mi"    c="additional morphology for head"/>
+        <sdef n="lemInCpred"    c="additional morphology for Cpred (and make this the head)"/>
+        <sdef n="add_mi"    c="additional morphology"/>
+        <sdef n="poss"    c="poss"/>
+        <sdef n="gndr"    c="gender: +n./m. masculine and not-masculine; +m. masculine; +n.m. not-masculine"/>
+        <sdef n="inal"    c="inalienable"/>
+        <sdef n="voc"    c="vocative FLAGS +N (None). +1SG, +2SG, +3SG, +1PL, +2PL, +3PL"/>
+        <sdef n="num"    c="number +1SG, +2SG, 3SG, 1PL. 2PL, 3PL"/>
+        <sdef n="kinship"    c="+m.ego, +n.m.ego"/>
+        <sdef n="inf"    c="infinitive: aantsi, antsi, agaantsi"/>
+		<sdef n="pragm.func"    c="..."/>
+		<sdef n="i-conj"    c="..."/>
+		<sdef n="mrph.phon"    c="..."/>
+		<sdef n="sem"    c="..."/>
+		<sdef n="kin"    c="..."/>
+        <!-- Location -->
+        <sdef n="loc"    c="location"/>
+        <sdef n="verbmi"    c="verbal morphology needed for generation"/>
+        <sdef n="subj"    c="for verbs: type (semantic label) or lemma of subject"/>
+        <sdef n="obj"    c="for verbs: type (semantic label) or lemma of object"/>
+        <sdef n="transitivity"    c="for verbs: either rflx (intransitive or reflexive form with 'se'), rzpr (reciprocal form with 'se'), intrans (intransitive form, no 'se'), trans (transitive form, need a 'cd')"/>
+        <sdef n="subjToObj"    c="for verbs: convert subject to object, e.g. 'tengo una casa' -> in Q: wasi kapuWAn"/>
+        <sdef n="func"    c="attributive use of nominal root translated from Spanish adjective"/>
+        <sdef n="s_pos"    c="source pos (if necessary to distinguish between adj and noun (e.g. 'general'))"/>
+        <sdef n="pobjCase"    c="different case of 'prepositional object' in Quechua and Spanish (e.g. 'convertir(se) en/a' -> '-man tukuy' (no -pi))"/>
+        <sdef n="objCase"    c="different case of 'direct object' in Spanish"/>
+        <sdef n="iobjCase"    c="different case of 'indirect object' in Spanish"/>
+        <sdef n="head"    c="use this translation only if head matches indicated semantics"/>
+        <!--  -->
+        <sdef n="v" c="verb"/>
+        <sdef n="n" c="noun"/>
+        <sdef n="sg" c="singular"/>
+        <sdef n="pl" c="plural"/>
+        
+        <!-- Classifier -->
+        <sdef n="CL:L.S.T.F.F" c="classifier"/>
+        <sdef n="CL:long,thin.branch" c="classifier"/>
+        <sdef n="add_mi"    c="additional morphology"/>
+        <sdef n="preform"    c="additional wordform, insert before"/>
+        <!--  -->
+        <sdef n="sci.nm."    c="scientific name"/>
+		
+		<sdef n="compound-only-L" c="May only be the left-side of a compound"/>
+		<sdef n="compound-R"      c="May be the right-side of a compound, or a full word"/>
+    </sdefs>
+    <pardefs>
+        <pardef n="cl__n">
+            <e><p><l>shi</l><r><s n="n"/><s n="CL:L.S.T.F.F"/><s n="compound-only-L"/></r></p></e>
+            <e><p><l>kii</l><r><s n="n"/><s n="CL:L.S.T.F.F"/><s n="compound-only-L"/></r></p></e>
+        </pardef>
+        <pardef n="nmz__v">
+            <e><p><l>nka</l><r><s n="n"/><s n="compound-only-L"/></r></p></e>
+        </pardef>
+        <pardef n="Personal_pronoun">
+            <e><p><l><s n="parol"/>PRP</l><r><s n="mi"/>PrnPers</r></p></e>
+        </pardef>
+        <pardef n="Possessive_pronoun">
+            <e><p><l><s n="parol"/>PRP$</l><r><s n="mi"/>PrnPoss</r></p></e>
+        </pardef>
+        <pardef n="Noun">
+            <e><p><l><s n="parol"/>NNS</l><r><s n="mi"/>NRoot+PL</r></p></e>
+            <e><p><l><s n="parol"/>NN</l><r><s n="mi"/>NRoot</r></p></e>
+            <e><p><l><s n="parol"/>NNP</l><r><s n="mi"/>NRoot</r></p></e>
+            <e><p><l><s n="parol"/>NP00000</l><r><s n="mi"/>NRoot</r></p></e>
+            <e><p><l><s n="parol"/>NP</l><r><s n="mi"/>NRoot</r></p></e>
+            <e><p><l><s n="parol"/>NP00G00</l><r><s n="mi"/>NRoot</r></p></e>
+            <e><p><l><s n="parol"/>NP00O00</l><r><s n="mi"/>NRoot</r></p></e>
+            <e><p><l><s n="parol"/>NP00V00</l><r><s n="mi"/>NRoot</r></p></e>
+            <e><p><l><s n="parol"/>NP00SP0</l><r><s n="mi"/>NRoot</r></p></e>
+            <e><p><l><s n="parol"/>NNPS</l><r><s n="mi"/>NRoot+PL</r></p></e>
+        </pardef>
+        <pardef n="Verb">
+            <e><p><l><s n="parol"/>MD</l><r><s n="mi"/>VRoot</r></p></e>
+            <e><p><l><s n="parol"/>VBG</l><r><s n="mi"/>VRoot</r></p></e>
+            <e><p><l><s n="parol"/>VB</l><r><s n="mi"/>VRoot</r></p></e>
+            <e><p><l><s n="parol"/>VBN</l><r><s n="mi"/>VRoot</r></p></e>
+            <e><p><l><s n="parol"/>VBD</l><r><s n="mi"/>VRoot</r></p></e>
+            <e><p><l><s n="parol"/>VBP</l><r><s n="mi"/>VRoot</r></p></e>
+            <e><p><l><s n="parol"/>VBZ</l><r><s n="mi"/>VRoot</r></p></e>
+        </pardef>
+        <pardef n="Adverb">
+            <e><p><l><s n="parol"/>RB</l><r><s n="mi"/>AdvRoot</r></p></e>
+            <e><p><l><s n="parol"/>RBR</l><r><s n="mi"/>AdvRoot</r></p></e>
+            <e><p><l><s n="parol"/>RBS</l><r><s n="mi"/>AdvRoot</r></p></e>
+            <e><p><l><s n="parol"/>WRB</l><r><s n="mi"/>AdvRoot</r></p></e>
+        </pardef>
+        <pardef n="Adjectives">
+            <e><p><l><s n="parol"/>JJ</l><r><s n="mi"/>AdjRoot</r></p></e>
+            <e><p><l><s n="parol"/>JJR</l><r><s n="mi"/>AdjRoot</r></p></e>
+            <e><p><l><s n="parol"/>JJS</l><r><s n="mi"/>AdjRoot</r></p></e>
+        </pardef>
+        <pardef n="Conjunctions">
+            <!-- 
+                Tag         Atributes
+                CC          pos:conjunction; type:coordinating
+            -->
+            <e><p><l><s n="parol"/>CC</l><r><s n="mi"/>ConnRoot</r></p></e>  
+        </pardef> 
+        <pardef n="Determiner">
+            <e><p><l><s n="parol"/>DT</l><r><s n="mi"/>DetRoot</r></p></e>
+            <e><p><l><s n="parol"/>WDT</l><r><s n="mi"/>DetRoot</r></p></e>
+            <e><p><l><s n="parol"/>PDT</l><r><s n="mi"/>DetRoot</r></p></e>
+        </pardef>
+        <pardef n="Ideophone">
+            <e><p><l><s n="parol"/>NN</l><r><s n="mi"/>IdeoRoot</r></p></e>
+        </pardef>
+        <pardef n="Particle">
+            <e><p><l><s n="parol"/>RP</l><r></r></p></e>
+        </pardef>
+    </pardefs>
+    <section id="personal_pronouns" type="standard">
+<!--POINTERPRNPERS-->
+        <e><p><l>he</l><r>irio</r></p><par n="Personal_pronoun"/></e>
+        <e><p><l>he</l><r>iryo</r></p><par n="Personal_pronoun"/></e>
+        <!--  -->
+        <e><p><l>she</l><r>iro</r></p><par n="Personal_pronoun"/></e>
+        <e><p><l>she</l><r>iroo</r></p><par n="Personal_pronoun"/></e>
+        <!--  -->
+        <e><p><l>it</l><r>hirova</r></p><par n="Personal_pronoun"/></e>
+        <!--  -->
+        <e><p><l>we</l><r>aaka</r></p><par n="Personal_pronoun"/></e>
+        <e><p><l>we</l><r>aro</r></p><par n="Personal_pronoun"/></e>
+    </section>
+    <section id="possessive_pronouns" type="standard">
+<!--POINTERPRNPOSS-->
+    </section>
+    <section id="verbs" type="standard">
+<!--POINTERVROOT-->
+    </section>
+    <section id="nouns" type="standard">
+<!--POINTERNROOT-->
+        <!--  -->
+        <e><p><l>adjective</l><r>kantaveetachari</r></p><par n="Noun"/></e>
+        <!--  -->
+        <e><p><l>adverb</l><r>tsipatsatachari</r></p><par n="Noun"/></e>
+        <!--  -->
+        <e><p><l>armored_catfish</l><r>kitetakiri<s n="preform"/>#hetari<s n="sci.nm."/>chaetostoma.sp.,chaetostoma.lineopunctatum</r></p><par n="Noun"/></e>
+        <e><p><l>armored_catfish</l><r>tsekinti<s n="preform"/>#hetari<s n="sci.nm."/>ancistrus.sp.</r></p><par n="Noun"/></e>
+        <!-- #####
+            B 
+        ##### -->
+        <!-- overapaka / EN: 'boundary'; ES: 'límite' --> 
+        <e><p><l>boundary</l><r>overapaka</r></p><par n="Noun"/></e>
+        <!-- #####
+            C 
+        ##### -->
+        <e><p><l>cooked</l><r>posari<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
+        <!--  -->
+        <e><p><l>conjunction</l><r>ovavitsatachari</r></p><par n="Noun"/></e>
+        <!-- #####
+            D 
+        ##### -->
+        <e><p><l>disregard</l><r>inkemisante<s n="preform"/>#te</r></p><par n="Noun"/></e>
+        <!--  -->
+        <e><p><l>down_river</l><r>kirinka</r></p><par n="Particle"/></e>
+        <!-- #####
+            E 
+        ##### -->
+        <!-- ES: alargado -->
+        <e><p><l>elongated</l><r>antyarotsantsa</r></p><par n="Adjectives"/></e>
+        <!-- #####
+            F 
+        ##### -->
+        <!-- fellowman, sheninka -->
+        <e><p><l>fellowman</l><r>sheni<s n="add_mi"/>+NMZ</r></p><par n="Noun"/></e>
+		<!-- fellowman, shaninka -->
+        <e><p><l>fellowman</l><r>shani<s n="add_mi"/>+NMZ</r></p><par n="Noun"/></e>
+        <!-- #####
+            G 
+        ##### -->
+        <!-- animal_de_caza -->
+        <e><p><l>game_animal</l><r>poshiniri<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
+        <!-- #####
+            H 
+        ##### -->
+        <!-- tekatsi oyerine / =NEG.EXIST = / EN: 'healthy'; ES: 'saludable' -->
+        <e><p><l>healthy</l><r>oyerine<s n="preform"/>#tekatsi</r></p><par n="Adjectives"/></e>
+        <!-- tekatsi oyerini / =NEG.EXIST = / EN: 'healthy'; ES: 'saludable' -->
+        <e><p><l>healthy</l><r>oyerini<s n="preform"/>#tekatsi</r></p><par n="Adjectives"/></e>
+        <!--  -->
+        <e><p><l>heavy</l><r>tenari<s n="gndr"/>+m.</r></p><par n="Adjectives"/></e>
+        <!--  -->
+        <e><p><l>hen</l><r>tyaapa<s n="poss"/>+te<s n="poss"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>chicken</l><r>tyaapa<s n="poss"/>+te<s n="poss"/>+n.m.</r></p><par n="Noun"/></e>
+        <!--  -->
+        <e><p><l>HIV</l><r>virakocha<s n="preform"/>#imantsiyare</r></p><par n="Noun"/></e>
+        <!-- perabeetachari / peraveetachari / =pera -vee -t -acha =ri / EN: 'hobo'; ES: 'vagabundo' -->
+        <e><p><l>hobo</l><r>peraveetachari</r></p><par n="Noun"/></e>
+        <e><p><l>hospital</l><r>panko<s n="preform"/>#avintantsi</r></p><par n="Noun"/></e>
+        <e><p><l>hot_water</l><r>saava<s n="add_mi"/>+CL:liquid@a+ADJ<s n="gndr"/>+m.</r></p><par n="Adjectives"/></e>
+        <e><p><l>hot_water</l><r>saava<s n="add_mi"/>+CL:liquid@a+ADJ<s n="gndr"/>+n.m.</r></p><par n="Adjectives"/></e>
+        <e><p><l>hot</l><r>saava<s n="add_mi"/>+ADJ<s n="gndr"/>+m.</r></p><par n="Adjectives"/></e>
+        <e><p><l>hot</l><r>saava<s n="add_mi"/>+ADJ<s n="gndr"/>+n.m.</r></p><par n="Adjectives"/></e>
+        <!-- komintsare / =komintsa -re / =to.hunt -adj / ES: 'cazador'; EN: 'hunter' -->
+        <e><p><l>hunter</l><r>komintsare</r></p><par n="Noun"/></e>
+        <!-- #####
+            I 
+        ##### -->
+        <e><p><l>interjection</l><r>okireatsataa<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
+        <!-- pashinisato nampitsi / =pashini -sato *** =nampi -tsi / =other +:human.provenance  / EN: 'international'; ES: 'internacional'   -->
+        <e><p><l>international</l><r>nampitsi<s n="preform"/>#pashinisato</r></p><par n="Adjectives"/></e>
+        <!-- kaari oyeakotacha / =kaari  / =NEG.COP / EN: 'intolerable'; ES: 'intolerable' -->
+        <e><p><l>intolerable</l><r>oyeakotacha<s n="preform"/>#kaari</r></p><par n="Adjectives"/></e>
+        <!-- te inkantaje / te inkantahe / =te i- N- =kant -a -he / =NEG.REAL  3m.s- irr- =to.be -real -neg / EN: 'invalid'; ES: 'inválido' -->
+        <e><p><l>invalid</l><r>inkantahe<s n="preform"/>#te</r></p><par n="Adjectives"/></e>
+        <!--
+            maotsari ES: 'inválido'
+            maotsaro ES: 'inválida' 
+        -->
+        <e><p><l>invalid</l><r>maotsari<s n="gndr"/>+m.</r></p><par n="Adjectives"/></e>
+        <e><p><l>invalid</l><r>maotsaro<s n="gndr"/>+n.m.</r></p><par n="Adjectives"/></e>
+        <!--  -->
+        <e><p><l>invisible</l><r>ineeti<s n="preform"/>#kaari</r></p><par n="Adjectives"/></e>
+        <!-- #####
+            J 
+        ##### -->
+        <!-- #####
+            K 
+        ##### -->
+        <!-- #####
+            L 
+        ##### -->
+        <!-- kantakantantsi / ES: 'law'; ES: 'ley'  -->
+        <e><p><l>law</l><r>kantakantantsi</r></p><par n="Noun"/></e>
+        <e><p><l>law</l><r>kantakantaantsi</r></p><par n="Noun"/></e>
+        <!-- tsinamparo / ES: 'lesbiana'; EN: 'lesbian' -->
+        <e><p><l>lesbian</l><r>tsinamparo</r></p><par n="Noun"/></e>
+        <!-- sankenarentsi / =sankena -re -ntsi / ES: 'carta'; EN: 'letter' -->
+        <e><p><l>letter</l><r>sankenare<s n="inal"/>+ntsi<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
+        <!--  -->
+        <e><p><l>liar</l><r>cheeyari<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
+        <e><p><l>liar</l><r>tseeyari<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
+        <!--  -->
+        <e><p><l>long</l><r>santsari<s n="gndr"/>+m.</r></p><par n="Adjectives"/></e>
+        <!-- tsantsakirentsi / =tsantsa -ki -re -ntsi / =long -cl:s.r.h -nmz -nposs / EN: 'long-pointed.fishing.arrow'; ES: 'flecha.para.la.pesca.con.punta.larga' -->
+        <e><p><l>long_pointed_fishing_arrow</l><r>tsantsakire<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
+        <!-- tsatamentotsi / =tsat -a -mento -tsi / =to.tear.into.two.parts -ep -concr -nposs / ES: 'flecha.para.la.pesca.con.punta.larga (no.necesita.de.un.arco.propulsor) ' -->
+        <e><p><l>bowless_long_pointed_fishing_arrow</l><r>tsatamento<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
+        <!-- peainchari / =pea -incha =ri / =to.lose -stat.prf =rel / EN: 'lost'; ES: 'perdido' -->
+        <e><p><l>lost</l><r>peainchari</r></p><par n="Adjectives"/></e>
+        <!-- #####
+            M 
+        ##### -->
+        <!-- poshiniri / =poshini -ri / =to.be.tasty -rel / EN: 'mammal'; ES: 'mamífero' -->
+        <e><p><l>mammal</l><r>poshiniri<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
+        <!-- #####
+            N 
+        ##### -->
+        <e><p><l>national</l><r>anampisato<s n="gndr"/>+n.m.</r></p><par n="Adjectives"/></e>
+        <!-- #####
+            O 
+        ##### -->
+        <e><p><l>old</l><r>kinkivari<s n="gndr"/>+m.</r></p><par n="Adjectives"/></e>
+        <e><p><l>old</l><r>kinkivaro<s n="gndr"/>+n.m.</r></p><par n="Adjectives"/></e>
+        <!-- #####
+            P 
+        ##### -->
+        <e><p><l>painted</l><r>karinari<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
+        <e><p><l>painted</l><r>karinaro<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>painted</l><r>karinavo<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>plantain</l><r>chentero<s n="add_mi"/>+CL:plantain<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>plantain</l><r>mamaro<s n="add_mi"/>+CL:plantain<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <!-- oantamentontsi / =o -ant -a -mento -ntsi / =to.eat -appl.reas -real -concr -nposs / ES: 'plato'; ES: 'plate' -->
+        <e><p><l>plate</l><r>oantamento<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
+        <!-- motinto / =moti -nto / =belly -adj / EN: 'pregnant.woman'; ES: 'mujer.embarazada' -->
+        <e><p><l>pregnant_woman</l><r>motinto<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <!--  -->
+        <e><p><l>pronoun</l><r>poyaatsatachari</r></p><par n="Noun"/></e>
+        <!--  -->
+        <e><p><l>prophesy</l><r>kantachani</r></p><par n="Noun"/></e>
+        <!-- #####
+            Q 
+        ##### -->
+        <!-- #####
+            R 
+        ##### -->
+        <e><p><l>red</l><r>kityonkari</r></p><par n="Adjectives"/></e>
+       <e><p><l>ruler</l><r>yomaare<s n="inal" />+ntsi.</r></p><par n="Noun"/></e>
+       <e><p><l>ruler</l><r>monkaramento<s n="inal" />+tsi.</r></p><par n="Noun"/></e>
+        <!--  -->
+        <e><p><l>relative</l><r>sheni<s n="add_mi"/>+NMZ@nka</r></p><par n="Noun"/></e>
+        <e><p><l>relative</l><r>shani<s n="add_mi"/>+NMZ@nka</r></p><par n="Noun"/></e>
+        <!-- kaaritseeyacha / kaari tseeyacha / =kaari =tseey -acha / =NEG.COP =to.lie -stat / EN: 'reliable'; ES: 'confiable' -->
+        <e><p><l>reliable</l><r>tseeyacha<s n="preform"/>#kaari</r></p><par n="Noun"/></e>
+        <!--  -->
+        <e><p><l>riverside</l><r>niha<s n="add_mi"/>+CL:provenance</r></p><par n="Noun"/></e>
+        <!-- maatsara / EN: 'robe' -->
+        <e><p><l>robe</l><r>maa<s n="add_mi"/>+CL:fabric</r></p><par n="Noun"/></e>
+        <!--  -->
+        <e><p><l>robust</l><r>shintsiri<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
+        <!-- #####
+            S 
+        ##### -->
+        <!-- tsinane pimantirori ovatsa / =tsinane  =pimant -i -ro -ri  o- =vatsa / EN: 'sex.worker, lit.: woman.who.sells.her.flesh'; ES: 'trabajadora.sexual' -->
+        <e><p><l>sex_worker</l><r>ovatsa<s n="preform"/>#tsinane#pimantirori<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <!--  -->
+        <e><p><l>sharp</l><r>tsaimpiri<s n="gndr"/>+m.</r></p><par n="Adjectives"/></e>
+        <!-- kaari kameetsatatsi / =kaari =kameetsa -t -atsi / =NEG.COP  =to.be.good -ep -stat / EN: 'sin'; ES: 'maldad, pecado' -->
+        <e><p><l>sin</l><r>kameetsatatsi<s n="preform"/>#kaari</r></p><par n="Noun"/></e>
+        <!--  -->
+        <e><p><l>shamanic_ritual_singing</l><r>pantsa<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
+        <e><p><l>shamanic_song</l><r>pantsa<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
+        <e><p><l>singing</l><r>pantsa<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
+        <!--  -->
+        <e><p><l>sick</l><r>mantsiyari<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
+        <e><p><l>sick</l><r>mantsiyaro<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <!-- ES: 'adormilado/sleepy, dormilón/sleepyhead, soñoliento/drowsy' -->
+        <e><p><l>sleepy</l><r>pochokintsi<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
+        <e><p><l>sleepy</l><r>pochokinti<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
+        <!--  -->
+        <e><p><l>small</l><r>iyani</r></p><par n="Adjectives"/></e>
+        <e><p><l>small</l><r>iyaani</r></p><par n="Adjectives"/></e>
+        <e><p><l>small</l><r>kapiche</r></p><par n="Adjectives"/></e>
+        <e><p><l>small</l><r>kapichee</r></p><par n="Adjectives"/></e>
+        <!--  -->
+        <e><p><l>small_parrot</l><r>chokiyo</r></p><par n="Noun"/></e>
+        <!-- inchakii / =incha -kii / =plant -cl:long,thin.branch / EN: 'stick'; ES: 'palo' -->
+        <e><p><l>stick</l><r>incha<s n="add_mi"/>+CL:long,thin.branch</r></p><par n="Noun"/></e>
+        <!-- sealing wax, patanariki -->
+        <e><p><l>sealing_wax</l><r>patanari<s n="add_mi"/>+CL:S.R.H</r></p><par n="Noun"/></e>
+        <!--  -->
+        <e><p><l>strong</l><r>shintsiri<s n="gndr"/>+m.</r></p><par n="Adjectives"/></e>
+        <e><p><l>robust</l><r>shintsiri<s n="gndr"/>+m.</r></p><par n="Adjectives"/></e>
+        <!-- kaari kemisantatsini / =kaari  =kemisan -t -atsi -ni / =NEG.COP =to.obey -ep -stat -rel / ES: 'terco', EN: 'stubborn; lit.: the.one.who.doe.not.obey' -->
+        <e><p><l>stubborn</l><r>kemisantatsini<s n="preform"/>#kaari</r></p><par n="Adjectives"/></e>
+        <!--  -->
+        <e><p><l>school</l><r>panko<s n="preform"/>#yotaantsi</r></p><par n="Noun"/></e>
+        <!-- shenkaanti / =shenkaa -nti / =to.sob -adj / EN: 'sobbing'; ES: 'sollozante' -->
+        <e><p><l>sobbing</l><r>shenkaanti<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
+        <!-- EN: 'stupid'; ES: 'estúpido' -->
+        <e><p><l>stupid</l><r>iotatsine<s n="preform"/>#kaari</r></p><par n="Adjectives"/></e>
+        <e><p><l>fool</l><r>iotatsine<s n="preform"/>#kaari</r></p><par n="Adjectives"/></e>
+        <!-- #####
+            T 
+        ##### -->        
+        <!-- ebankari / evankari / ES: 'teenager'; ES: 'adolescente' -->
+        <!-- ebankaro / evankaro / ES: 'teenager'; ES: 'adolescente' -->
+        <e><p><l>teenager</l><r>evankari<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
+        <e><p><l>teenager</l><r>evankaro<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <!--  -->
+        <e><p><l>thin</l><r>matsari<s n="gndr"/>+m.</r></p><par n="Adjectives"/></e>
+        <e><p><l>thin</l><r>matsaro<s n="gndr"/>+n.m.</r></p><par n="Adjectives"/></e>
+        <!-- #####
+            U 
+        ##### -->
+        <e><p><l>up_river</l><r>katonko</r></p><par n="Particle"/></e>
+        <!-- #####
+            V 
+        ##### -->
+        <e><p><l>venomous_root</l><r>konyapi</r></p><par n="Noun"/></e>
+        <e><p><l>venomous_root</l><r>kepiyari</r></p><par n="Noun"/></e>
+        <!--  -->
+        <e><p><l>verb</l><r>antaa<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
+        <e><p><l>visible</l><r>konihataantsi</r></p><par n="Adjectives"/></e>
+        <!-- #####
+            W 
+        ##### -->
+        <e><p><l>widowed</l><r>kamaiventsinkari<s n="gndr"/>+m.</r></p><par n="Adjectives"/></e>
+        <e><p><l>widowed</l><r>kamaiventsinkaro<s n="gndr"/>+n.m.</r></p><par n="Adjectives"/></e>
+        <!--  anaakotantatsiri / ES: 'campeón' -->
+        <e><p><l>winner</l><r>anaakotantatsiri<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
+        <!-- ampitsari / =ampitsa -ri / =to.be.wrinkled -nmz / EN: 'wrinkled'; ES: 'arrugado' -->
+        <e><p><l>wrinkled</l><r>ampitsari<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
+        <!-- ampitsaro / =ampitsa -ro / =to.be.wrinkled -nmz / EN: 'wrinkled'; ES: 'arrugada' -->
+        <e><p><l>wrinkled</l><r>ampitsaro<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+    </section>
+    <section id="adverbs" type="standard">
+        <!-- okaakini / o- =kaaki -ni / 3n.m.s- =to.get.closer -adv / EN: 'close.by' -->
+        <e><p><l>close.by</l><r>okaaki<s n="add_mi"/>+ADV@ni</r></p><par n="Adverb"/></e>
+        <!-- shintsini / =shintsi -ni / =to.be.quick -adv / EN: 'quickly' -->
+        <e><p><l>quickly</l><r>shintsi<s n="add_mi"/>+ADV@ni</r></p><par n="Adverb"/></e>
+        <!--  -->
+        <e><p><l>inside</l><r>intsomoe</r></p><par n="Adverb"/></e>
+        <!--  -->
+        <e><p><l>alone</l><r>apaniroeni</r></p><par n="Adverb"/></e>
+        <e><p><l>alone</l><r>apanironi</r></p><par n="Adverb"/></e>
+        <!--  -->
+        <e><p><l>well</l><r>kametsa</r></p><par n="Adverb"/></e>
+        <!--  -->
+        <e><p><l>never</l><r>katsini<s n="preform"/>#eiro</r></p><par n="Adverb"/></e>
+        <!-- ================================== 
+            Location 
+        ================================== -->
+        <!-- Bounded proximal -->
+        <e><p><l>here</l><r>aka<s n="loc"/>+proximal.b.</r></p><par n="Adverb"/></e>
+        <e><p><l>here</l><r>haka<s n="loc"/>+proximal.b.</r></p><par n="Adverb"/></e>
+        <!-- Bounded medial -->
+        <e><p><l>there</l><r>ara<s n="loc"/>+medial.b.</r></p><par n="Adverb"/></e>
+        <e><p><l>there</l><r>hara<s n="loc"/>+medial.b.</r></p><par n="Adverb"/></e>
+        <!-- Bounded distal; DEM.ADV -->
+        <e><p><l>there</l><r>anta<s n="loc"/>+distal.b.</r></p><par n="Adverb"/></e>
+        <e><p><l>there</l><r>hanta<s n="loc"/>+distal.b.</r></p><par n="Adverb"/></e>
+        <!-- Unbounded distal -->
+        <e><p><l>there</l><r>anto<s n="loc"/>+distal.unb.</r></p><par n="Adverb"/></e>
+        <e><p><l>there</l><r>hanto<s n="loc"/>+distal.unb.</r></p><par n="Adverb"/></e>
+        <e><p><l>over_there</l><r>anto<s n="loc"/>+distal.unb.</r></p><par n="Adverb"/></e>
+        <e><p><l>over_there</l><r>hanto<s n="loc"/>+distal.unb.</r></p><par n="Adverb"/></e>
+    </section>
+    <section id="conjunctions" type="standard">
+        <e><p><l>but</l><r>irokantaincha</r></p><par n="Conjunctions"/></e>
+        <e><p><l>but</l><r>kantaincha<s n="preform"/>#iro</r></p><par n="Conjunctions"/></e>
+        <e><p><l>and</l><r>eehatzi</r></p><par n="Conjunctions"/></e>
+    </section>
+    <section id="determiners" type="standard">
+        <e><p><l>that</l><r>irora</r></p><par n="Determiner"/></e>
+        <e><p><l>many</l><r>osheki</r></p><par n="Determiner"/></e>
+        <!--  -->
+        <e><p><l>both</l><r>apiteroite</r></p><par n="Determiner"/></e>
+    </section>
+</dictionary>
