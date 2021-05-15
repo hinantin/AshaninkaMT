@@ -16,7 +16,7 @@ enbilingualvocab:
 	@sed -i -e '/POINTERNROOT/r file1' en-cni.dix 
 	@perl convertFsttoLttoolbox.pl --file ../AshMorph/prnpers.prq.foma --label "@section:prnpers@" --rootlabel "PrnPers" --section "Personal_pronoun" > file1
 	@sed -i -e '/POINTERPRNPERS/r file1' en-cni.dix 
-	@perl httpclient.pl -s -c /db/HNTAshaninka/BilingualMorphology en-cni.dix 
+#	@perl httpclient.pl -s -c /db/HNTAshaninka/BilingualMorphology en-cni.dix 
 
 bilingualvocab:
 	@cp en-cni.base.dix es-cni.dix 
