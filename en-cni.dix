@@ -155,8 +155,8 @@
         <e><p><l>its</l><r>irashi<s n="num"/>+3SG<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
         <e><p><l>mine</l><r>nashi<s n="num"/>+1SG</r></p><par n="Possessive_pronoun"/></e>
         <e><p><l>ours</l><r>ashi<s n="num"/>+1PL</r></p><par n="Possessive_pronoun"/></e>
-        <e><p><l>theirs</l><r>irashiite<s n="add_mi"/>+PRN:3SG.m.(his)@irashi+ANIM.PL@ite<s n="num"/>+3PL<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
         <e><p><l>theirs</l><r>ashiite<s n="add_mi"/>+PRN:3SG.n.m.(its)@ashi+ANIM.PL@ite<s n="num"/>+3PL<s n="gndr"/>+n.m.</r></p><par n="Possessive_pronoun"/></e>
+        <e><p><l>theirs</l><r>irashiite<s n="add_mi"/>+PRN:3SG.m.(his)@irashi+ANIM.PL@ite<s n="num"/>+3PL<s n="gndr"/>+m.</r></p><par n="Possessive_pronoun"/></e>
         <e><p><l>yours</l><r>pashi<s n="num"/>+2SG</r></p><par n="Possessive_pronoun"/></e>
         <e><p><l>yours</l><r>pashiite<s n="add_mi"/>+PRN:2SG.(yours)@pashi+ANIM.PL@ite<s n="num"/>+2PL</r></p><par n="Possessive_pronoun"/></e>
     </section>
@@ -165,26 +165,26 @@
         <e><p><l>crush_sth_with_wooden_pestle</l><r>tsink<s n="inf"/>+V</r></p><par n="Verb"/></e>
         <e><p><l>mash_sth_with_wooden_pestle</l><r>tsink<s n="inf"/>+V</r></p><par n="Verb"/></e>
         <e><p><l>there_be_not</l><r>anyeerohi<s n="preform"/>#te</r></p><par n="Verb"/></e>
-        <e><p><l>there_be_not</l><r>tekatsi</r></p><par n="Verb"/></e>
         <e><p><l>there_be_not</l><r>aneerohi<s n="preform"/>#te</r></p><par n="Verb"/></e>
+        <e><p><l>there_be_not</l><r>tekatsi</r></p><par n="Verb"/></e>
         <e><p><l>NEG_POSSESS: do_not_have</l><r>tekatsi</r></p><par n="Verb"/></e>
         <e><p><l>accompany</l><r>tsipa<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>advise</l><r>kamant<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
-        <e><p><l>be</l><r>kant<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>be</l><r>na<s n="inf"/>+EP@t+antsi</r></p><par n="Verb"/></e>
+        <e><p><l>be</l><r>kant<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>be_a_relative_of</l><r>kashiy<s n="i-conj"/>+act.v</r></p><par n="Verb"/></e>
         <e><p><l>be_able</l><r>kant<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>be_afternoon</l><r>shaavity<s n="add_mi"/>+V:to.be.afternoon@shaavi+L.DEL@i+UNK@ity<s n="inf"/>+VC</r></p><par n="Verb"/></e>
         <e><p><l>be_alive</l><r>anyi<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>be_alive</l><r>any<s n="inf"/>+(a)antsi</r></p><par n="Verb"/></e>
         <e><p><l>be_bored</l><r>shem<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
-        <e><p><l>be_of_the_same_group</l><r>shani</r></p><par n="Verb"/></e>
         <e><p><l>be_of_the_same_group</l><r>sheni</r></p><par n="Verb"/></e>
+        <e><p><l>be_of_the_same_group</l><r>shani</r></p><par n="Verb"/></e>
         <e><p><l>be_phlegmy</l><r>karentsa<s n="inf"/>+EP@t+VC</r></p><par n="Verb"/></e>
         <e><p><l>be_slippery</l><r>karentsa<s n="inf"/>+EP@t+VC</r></p><par n="Verb"/></e>
         <e><p><l>be_together</l><r>tsipa<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
-        <e><p><l>be_unfaithful</l><r>aiment<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>be_unfaithful</l><r>aivent<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
+        <e><p><l>be_unfaithful</l><r>aiment<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>be_viscous</l><r>karentsa<s n="inf"/>+EP@t+VC</r></p><par n="Verb"/></e>
         <e><p><l>boom</l><r>kameni<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>bring</l><r>am<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
@@ -211,8 +211,8 @@
         <e><p><l>go</l><r>ha<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>go_to_warn</l><r>et<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>grab</l><r>ahirik<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
-        <e><p><l>happen</l><r>avis<s n="inf"/>+aantsi<s n="mrph.phon"/>+SIBL.NEUT:s$→^sh$</r></p><par n="Verb"/></e>
         <e><p><l>happen</l><r>kant<s n="inf"/>+aantsi</r></p><par n="Verb"/></e>
+        <e><p><l>happen</l><r>avis<s n="inf"/>+aantsi<s n="mrph.phon"/>+SIBL.NEUT:s$→^sh$</r></p><par n="Verb"/></e>
         <e><p><l>hook</l><r>tsiko<s n="inf"/>+EP@t+aantsi</r></p><par n="Verb"/></e>
         <e><p><l>hug</l><r>avitsano<s n="inf"/>+EP@t+aantsi<s n="i-conj"/>+act.v</r></p><par n="Verb"/></e>
         <e><p><l>hunt</l><r>kin</r></p><par n="Verb"/></e>
@@ -278,52 +278,52 @@
         <e><p><l>underground_dweller</l><r>kipatsisato<s n="add_mi"/>+N:earth@kipatsi+CL:provenance@satzi<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>male_underground_dweller</l><r>kipatsisatzi<s n="add_mi"/>+N:earth@kipatsi+CL:provenance@satzi<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>underground_dweller</l><r>kipatsisatzi<s n="add_mi"/>+N:earth@kipatsi+CL:provenance@satzi<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
-        <e><p><l>manioc</l><r>maneeyaniri<s n="add_mi"/>+N:bullet.ant@manee+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>yucca</l><r>maneeyaniri<s n="add_mi"/>+N:bullet.ant@manee+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>manioc</l><r>shimaganiri<s n="add_mi"/>+N:fish@shima+R.LEN@^k→^g+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>yucca</l><r>shimaganiri<s n="add_mi"/>+N:fish@shima+R.LEN@^k→^g+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>manioc</l><r>memeriyaniri<s n="add_mi"/>+N:small.green.parrot@memeri+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>yucca</l><r>memeriyaniri<s n="add_mi"/>+N:small.green.parrot@memeri+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>manioc</l><r>tsireentsiyaniri<s n="add_mi"/>+N:palm.tree@tsireentsi+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>yucca</l><r>tsireentsiyaniri<s n="add_mi"/>+N:palm.tree@tsireentsi+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>manioc</l><r>pamokoyaniri<s n="add_mi"/>+N:bejuco@pamoko+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>yucca</l><r>pamokoyaniri<s n="add_mi"/>+N:bejuco@pamoko+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>manioc</l><r>shevoriyaniri<s n="add_mi"/>+N:catfish@shevori+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>yucca</l><r>shevoriyaniri<s n="add_mi"/>+N:catfish@shevori+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>manioc</l><r>paryantziyaniri<s n="add_mi"/>+N:plantain@paryantzi+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>yucca</l><r>paryantziyaniri<s n="add_mi"/>+N:plantain@paryantzi+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>manioc</l><r>pitzirishiyaniri<s n="add_mi"/>+N:herb.sp.@pitzirishi+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>yucca</l><r>pitzirishiyaniri<s n="add_mi"/>+N:herb.sp.@pitzirishi+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>manioc</l><r>porenkaatziyaniri<s n="add_mi"/>+N:UNK@porenkaatzi+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>yucca</l><r>porenkaatziyaniri<s n="add_mi"/>+N:UNK@porenkaatzi+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>manioc</l><r>koviriyaniri<s n="add_mi"/>+N:corvina-fish@koviri+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>yucca</l><r>koviriyaniri<s n="add_mi"/>+N:corvina-fish@koviri+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>manioc</l><r>kontavaniri<s n="add_mi"/>+N:sole.of.foot@konta+R.LEN@^k→^v+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>yucca</l><r>kontavaniri<s n="add_mi"/>+N:sole.of.foot@konta+R.LEN@^k→^v+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>manioc</l><r>sariyaniri<s n="add_mi"/>+N:scarlet.macaw@sari+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>yucca</l><r>sariyaniri<s n="add_mi"/>+N:scarlet.macaw@sari+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>manioc</l><r>savavoyaniri<s n="add_mi"/>+N:red-and-green.macaw@savavo+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>yucca</l><r>savavoyaniri<s n="add_mi"/>+N:red-and-green.macaw@savavo+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>manioc</l><r>shevantyoyaniri<s n="add_mi"/>+N:shad-fish@shevantyoki+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>yucca</l><r>shevantyoyaniri<s n="add_mi"/>+N:shad-fish@shevantyoki+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>manioc</l><r>sankatziyaniri<s n="add_mi"/>+N:red-necked.gallinacean.bird@sankatzi+R.LEN@^k→^y+N:yucca@kaaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>yucca</l><r>sankatziyaniri<s n="add_mi"/>+N:red-necked.gallinacean.bird@sankatzi+R.LEN@^k→^y+N:yucca@kaaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>manioc</l><r>inkiyaniri<s n="add_mi"/>+N:peanut@inki+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>yucca</l><r>inkiyaniri<s n="add_mi"/>+N:peanut@inki+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>manioc</l><r>samomoyaniri<s n="add_mi"/>+N:ruddy.pigeon@samomo+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>yucca</l><r>samomoyaniri<s n="add_mi"/>+N:ruddy.pigeon@samomo+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>manioc</l><r>samaniyaniri<s n="add_mi"/>+N:rodent@samani+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>yucca</l><r>samaniyaniri<s n="add_mi"/>+N:rodent@samani+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>manioc</l><r>kamatoyaniri<s n="add_mi"/>+N:insect.sp.@kamato+R.LEN@^k→^y+N:yucca@kaaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>yucca</l><r>kamatoyaniri<s n="add_mi"/>+N:insect.sp.@kamato+R.LEN@^k→^y+N:yucca@kaaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>manioc</l><r>kavovaniri<s n="add_mi"/>+N:corncob@kavo+R.LEN@^k→^v+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>yucca</l><r>kavovaniri<s n="add_mi"/>+N:corncob@kavo+R.LEN@^k→^v+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>manioc</l><r>sampakityaaniri<s n="add_mi"/>+N:plumbeous.pigeon@sampakiti+DEL@i+R.LEN@^k→^y+N:yucca@kaaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>yucca</l><r>sampakityaaniri<s n="add_mi"/>+N:plumbeous.pigeon@sampakiti+DEL@i+R.LEN@^k→^y+N:yucca@kaaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>manioc</l><r>kaavovaniri<s n="add_mi"/>+N:sugar-cane@kaaro+R.LEN@^k→^v+N:yucca@kaaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>yucca</l><r>kaavovaniri<s n="add_mi"/>+N:sugar-cane@kaaro+R.LEN@^k→^v+N:yucca@kaaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>manioc</l><r>pamokoyaniri<s n="add_mi"/>+N:bejuco@pamoko+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>yucca</l><r>pamokoyaniri<s n="add_mi"/>+N:bejuco@pamoko+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>manioc</l><r>tsamiriyaniri<s n="add_mi"/>+N:curassow@tsamiri+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>yucca</l><r>tsamiriyaniri<s n="add_mi"/>+N:curassow@tsamiri+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>manioc</l><r>kamatoyaniri<s n="add_mi"/>+N:insect.sp.@kamato+R.LEN@^k→^y+N:yucca@kaaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>yucca</l><r>kamatoyaniri<s n="add_mi"/>+N:insect.sp.@kamato+R.LEN@^k→^y+N:yucca@kaaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>manioc</l><r>kaavovaniri<s n="add_mi"/>+N:sugar-cane@kaaro+R.LEN@^k→^v+N:yucca@kaaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>yucca</l><r>kaavovaniri<s n="add_mi"/>+N:sugar-cane@kaaro+R.LEN@^k→^v+N:yucca@kaaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>manioc</l><r>porenkaatziyaniri<s n="add_mi"/>+N:UNK@porenkaatzi+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>yucca</l><r>porenkaatziyaniri<s n="add_mi"/>+N:UNK@porenkaatzi+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>manioc</l><r>inkiyaniri<s n="add_mi"/>+N:peanut@inki+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>yucca</l><r>inkiyaniri<s n="add_mi"/>+N:peanut@inki+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>manioc</l><r>samaniyaniri<s n="add_mi"/>+N:rodent@samani+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>yucca</l><r>samaniyaniri<s n="add_mi"/>+N:rodent@samani+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>manioc</l><r>pitzirishiyaniri<s n="add_mi"/>+N:herb.sp.@pitzirishi+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>yucca</l><r>pitzirishiyaniri<s n="add_mi"/>+N:herb.sp.@pitzirishi+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>manioc</l><r>koviriyaniri<s n="add_mi"/>+N:corvina-fish@koviri+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>yucca</l><r>koviriyaniri<s n="add_mi"/>+N:corvina-fish@koviri+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>manioc</l><r>sampakityaaniri<s n="add_mi"/>+N:plumbeous.pigeon@sampakiti+DEL@i+R.LEN@^k→^y+N:yucca@kaaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>yucca</l><r>sampakityaaniri<s n="add_mi"/>+N:plumbeous.pigeon@sampakiti+DEL@i+R.LEN@^k→^y+N:yucca@kaaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>manioc</l><r>shevantyoyaniri<s n="add_mi"/>+N:shad-fish@shevantyoki+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>yucca</l><r>shevantyoyaniri<s n="add_mi"/>+N:shad-fish@shevantyoki+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>manioc</l><r>shevoriyaniri<s n="add_mi"/>+N:catfish@shevori+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>yucca</l><r>shevoriyaniri<s n="add_mi"/>+N:catfish@shevori+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>manioc</l><r>savavoyaniri<s n="add_mi"/>+N:red-and-green.macaw@savavo+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>yucca</l><r>savavoyaniri<s n="add_mi"/>+N:red-and-green.macaw@savavo+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>manioc</l><r>sankatziyaniri<s n="add_mi"/>+N:red-necked.gallinacean.bird@sankatzi+R.LEN@^k→^y+N:yucca@kaaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>yucca</l><r>sankatziyaniri<s n="add_mi"/>+N:red-necked.gallinacean.bird@sankatzi+R.LEN@^k→^y+N:yucca@kaaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>manioc</l><r>samomoyaniri<s n="add_mi"/>+N:ruddy.pigeon@samomo+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>yucca</l><r>samomoyaniri<s n="add_mi"/>+N:ruddy.pigeon@samomo+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>manioc</l><r>tsireentsiyaniri<s n="add_mi"/>+N:palm.tree@tsireentsi+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>yucca</l><r>tsireentsiyaniri<s n="add_mi"/>+N:palm.tree@tsireentsi+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>manioc</l><r>kavovaniri<s n="add_mi"/>+N:corncob@kavo+R.LEN@^k→^v+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>yucca</l><r>kavovaniri<s n="add_mi"/>+N:corncob@kavo+R.LEN@^k→^v+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>manioc</l><r>paryantziyaniri<s n="add_mi"/>+N:plantain@paryantzi+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>yucca</l><r>paryantziyaniri<s n="add_mi"/>+N:plantain@paryantzi+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>manioc</l><r>shimaganiri<s n="add_mi"/>+N:fish@shima+R.LEN@^k→^g+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>yucca</l><r>shimaganiri<s n="add_mi"/>+N:fish@shima+R.LEN@^k→^g+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>manioc</l><r>kontavaniri<s n="add_mi"/>+N:sole.of.foot@konta+R.LEN@^k→^v+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>yucca</l><r>kontavaniri<s n="add_mi"/>+N:sole.of.foot@konta+R.LEN@^k→^v+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>manioc</l><r>memeriyaniri<s n="add_mi"/>+N:small.green.parrot@memeri+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>yucca</l><r>memeriyaniri<s n="add_mi"/>+N:small.green.parrot@memeri+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>manioc</l><r>maneeyaniri<s n="add_mi"/>+N:bullet.ant@manee+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>yucca</l><r>maneeyaniri<s n="add_mi"/>+N:bullet.ant@manee+R.LEN@^k→^y+N:yucca@kaniri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>plantain_beer</l><r>pariantia<s n="add_mi"/>+N:plantain@parianti+CL:liquid@a</r></p><par n="Noun"/></e>
         <e><p><l>banana_beer</l><r>pariantia<s n="add_mi"/>+N:plantain@parianti+CL:liquid@a</r></p><par n="Noun"/></e>
         <e><p><l>solar_deity</l><r>pava<s n="gndr"/>+m.<s n="poss"/>+ni<s n="mrph.phon"/>+LEN:^p→^v</r></p><par n="Noun"/></e>
@@ -335,6 +335,7 @@
         <e><p><l>yucca_field</l><r>kanirimashi<s n="add_mi"/>+N:yucca@kaniri+CL:wide,flat.space@mashi</r></p><par n="Noun"/></e>
         <e><p><l>manioc_field</l><r>kanirimashi<s n="add_mi"/>+N:yucca@kaniri+CL:wide,flat.space@mashi</r></p><par n="Noun"/></e>
         <e><p><l>___</l><r>ohamanineentane<s n="add_mi"/>+to.delay@ohamani+SENSORY@neent+INTNS@a+POSS@ne<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
+        <e><p><l>HIV</l><r>virakocha<s n="preform"/>#imantsiyare</r></p><par n="Noun"/></e>
         <e><p><l>abscess</l><r>kitenka<s n="add_mi"/>+V:to.have.abscess@kite+NMZ@nka<s n="inal"/>+tsi</r></p><par n="Noun"/></e>
         <e><p><l>achiote_pod</l><r>potsotsipenki<s n="add_mi"/>+N:annato@potsotsi+CL:pod@penki</r></p><par n="Noun"/></e>
         <e><p><l>activity_of_fishing_with_barbasco_at_the_bank_of_the_river</l><r>konatsapiyare<s n="add_mi"/>+V:to.appear@kona+CL:side.of.river@tsapiya+NMZ@re<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
@@ -351,8 +352,8 @@
         <e><p><l>aquatic</l><r>inyaaveri<s n="add_mi"/>+N:water@inyaa+CL:agentive@veri<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>aquatic_being</l><r>inyaaveri<s n="add_mi"/>+N:water@inyaa+CL:agentive@veri<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>aquatic_venomous_toad</l><r>piviro<s n="gndr"/>+m.<s n="sem"/>+amphibian</r></p><par n="Noun"/></e>
-        <e><p><l>armored_catfish</l><r>kitetakiri<s n="preform"/>#hevari<s n="gndr"/>+m.<s n="sem"/>+fish</r></p><par n="Noun"/></e>
         <e><p><l>armored_catfish</l><r>tsekinti<s n="preform"/>#hevari<s n="gndr"/>+m.<s n="sem"/>+fish</r></p><par n="Noun"/></e>
+        <e><p><l>armored_catfish</l><r>kitetakiri<s n="preform"/>#hevari<s n="gndr"/>+m.<s n="sem"/>+fish</r></p><par n="Noun"/></e>
         <e><p><l>aromatic_love_charm</l><r>asopi<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>aromatic_love_amulet</l><r>asopi<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>arrow</l><r>chekopi<s n="gndr"/>+n.m.<s n="poss"/>+te:ti</r></p><par n="Noun"/></e>
@@ -368,8 +369,8 @@
         <e><p><l>big_earthquake</l><r>onika<s n="preform"/>#antyaro</r></p><par n="Noun"/></e>
         <e><p><l>big_traditional_fishing_boat</l><r>inchatonaki<s n="add_mi"/>+N:plant@incha+CL:tree@to+CL:round.hollow@naki</r></p><par n="Noun"/></e>
         <e><p><l>bird</l><r>tsimeri<s n="gndr"/>+m.<s n="poss"/>+ti<s n="sem"/>+bird</r></p><par n="Noun"/></e>
-        <e><p><l>book</l><r>sankenare<s n="add_mi"/>+V:to.write@sankena+NMZ@re<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
         <e><p><l>book</l><r>nyaanamento<s n="add_mi"/>+V:to.read@nyaana+CONCR@mento<s n="gndr"/>+n.m.<s n="inal"/>+tsi</r></p><par n="Noun"/></e>
+        <e><p><l>book</l><r>sankenare<s n="add_mi"/>+V:to.write@sankena+NMZ@re<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
         <e><p><l>boquichico_fish</l><r>shima<s n="gndr"/>+m.<s n="poss"/>+ni:te<s n="sem"/>+fish</r></p><par n="Noun"/></e>
         <e><p><l>bored</l><r>sheminkari<s n="add_mi"/>+V:to.be.bored@shem+NMZ@nka+NMZ@ri<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>boundary</l><r>overapaka</r></p><par n="Noun"/></e>
@@ -403,15 +404,15 @@
         <e><p><l>controller_of_pooled_water</l><r>onkama</r></p><par n="Noun"/></e>
         <e><p><l>controller_of_river_tide</l><r>onkama</r></p><par n="Noun"/></e>
         <e><p><l>cooked</l><r>posari<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
-        <e><p><l>corn_beer</l><r>shinkia<s n="add_mi"/>+N:corn@shinki+CL:liquid@a<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>corn_beer</l><r>shinkia<s n="add_mi"/>+N:corn@shinki+CL:liquid@a</r></p><par n="Noun"/></e>
+        <e><p><l>corn_beer</l><r>shinkia<s n="add_mi"/>+N:corn@shinki+CL:liquid@a<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>cotton_thread</l><r>mampitsa<s n="gndr"/>+n.m.<s n="poss"/>+te</r></p><par n="Noun"/></e>
         <e><p><l>creator</l><r>pava<s n="gndr"/>+m.<s n="poss"/>+ni<s n="mrph.phon"/>+LEN:^p→^v</r></p><par n="Noun"/></e>
         <e><p><l>creek</l><r>nihateni<s n="add_mi"/>+water@niha+CL:longitudinal.depression@teni</r></p><par n="Noun"/></e>
         <e><p><l>cricket</l><r>tsinaro<s n="gndr"/>+m.<s n="sem"/>+insect</r></p><par n="Noun"/></e>
+        <e><p><l>cry_baby</l><r>shinkanto<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>cry_baby</l><r>shinkanti<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>cry_baby</l><r>shinkari<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
-        <e><p><l>cry_baby</l><r>shinkanto<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>cubé</l><r>komo</r></p><par n="Noun"/></e>
         <e><p><l>dad</l><r>pava<s n="gndr"/>+m.<s n="poss"/>+ni<s n="mrph.phon"/>+LEN:^p→^v</r></p><par n="Noun"/></e>
         <e><p><l>danger</l><r>koveenkari</r></p><par n="Noun"/></e>
@@ -435,8 +436,8 @@
         <e><p><l>fat_man</l><r>vatsanti<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>fat_woman</l><r>vatsanto<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>father</l><r>pava<s n="gndr"/>+m.<s n="poss"/>+ni<s n="mrph.phon"/>+LEN:^p→^v</r></p><par n="Noun"/></e>
-        <e><p><l>fellow_citizen</l><r>shaninka<s n="add_mi"/>+V:to.be.of.the.same.group@shani+NMZ@nka</r></p><par n="Noun"/></e>
         <e><p><l>fellow_citizen</l><r>sheninka<s n="add_mi"/>+V:to.be.of.the.same.group@sheni+NMZ@nka</r></p><par n="Noun"/></e>
+        <e><p><l>fellow_citizen</l><r>shaninka<s n="add_mi"/>+V:to.be.of.the.same.group@shani+NMZ@nka</r></p><par n="Noun"/></e>
         <e><p><l>fellowman</l><r>shaninka<s n="add_mi"/>+V:to.be.of.the.same.group@shani+NMZ@nka</r></p><par n="Noun"/></e>
         <e><p><l>fellowman</l><r>sheninka<s n="add_mi"/>+V:to.be.of.the.same.group@sheni+NMZ@nka</r></p><par n="Noun"/></e>
         <e><p><l>female</l><r>tsinane<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
@@ -449,8 +450,8 @@
         <e><p><l>firewood</l><r>inchahempeki<s n="add_mi"/>+N:plant@incha+CL:small.branch@hempeki</r></p><par n="Noun"/></e>
         <e><p><l>firmament</l><r>inkite<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>fish</l><r>shima<s n="gndr"/>+m.<s n="poss"/>+ni:te<s n="sem"/>+fish</r></p><par n="Noun"/></e>
-        <e><p><l>fish</l><r>kisontainari<s n="gndr"/>+m.<s n="sem"/>+fish</r></p><par n="Noun"/></e>
         <e><p><l>fish</l><r>shima<s n="gndr"/>+m.<s n="poss"/>+ni:te<s n="sem"/>+fish</r></p><par n="Noun"/></e>
+        <e><p><l>fish</l><r>kisontainari<s n="gndr"/>+m.<s n="sem"/>+fish</r></p><par n="Noun"/></e>
         <e><p><l>foreigner</l><r>atiri<s n="preform"/>#pashini</r></p><par n="Noun"/></e>
         <e><p><l>forward_part_of_the_hull_of_a_boat</l><r>tsovi</r></p><par n="Noun"/></e>
         <e><p><l>fragrance</l><r>asankaa<s n="add_mi"/>+V:to.smell@asank+EP@aa<s n="inal"/>+ntsi<s n="poss"/>+ne</r></p><par n="Noun"/></e>
@@ -464,16 +465,16 @@
         <e><p><l>grandson</l><r>ani<s n="gndr"/>+m.<s n="kin"/>+male.ego</r></p><par n="Noun"/></e>
         <e><p><l>grass</l><r>inchashi<s n="add_mi"/>+N:plant@incha+CL:leaf@shi<s n="gndr"/>+n.m.<s n="poss"/>+ri:te</r></p><par n="Noun"/></e>
         <e><p><l>grasshopper</l><r>tsinaro<s n="gndr"/>+m.<s n="sem"/>+insect</r></p><par n="Noun"/></e>
-        <e><p><l>grasslander</l><r>kishiisatzi<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>grasslander</l><r>keshiisatzi<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
+        <e><p><l>grasslander</l><r>kishiisatzi<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>gravel_pit</l><r>mapipooki<s n="add_mi"/>+N:stone@mapi+CL:group.of.tiny.objects@pooki<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>ground</l><r>kipatsi<s n="gndr"/>+n.m.<s n="poss"/>+te:ti<s n="mrph.phon"/>+LEN:^k→^Ø</r></p><par n="Noun"/></e>
         <e><p><l>guerrilla</l><r>ovayeri<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>hail_storm</l><r>katsinkaetiri</r></p><par n="Noun"/></e>
         <e><p><l>hair</l><r>kishi<s n="gndr"/>+n.m.<s n="inal"/>+tsi<s n="mrph.phon"/>+LEN:^k→^Ø</r></p><par n="Noun"/></e>
         <e><p><l>hardwood_tree</l><r>hirivatziki<s n="gndr"/>+n.m.<s n="sem"/>+plant</r></p><par n="Noun"/></e>
-        <e><p><l>healthy</l><r>oyerine<s n="preform"/>#tekatsi</r></p><par n="Noun"/></e>
         <e><p><l>healthy</l><r>oyerini<s n="preform"/>#tekatsi</r></p><par n="Noun"/></e>
+        <e><p><l>healthy</l><r>oyerine<s n="preform"/>#tekatsi</r></p><par n="Noun"/></e>
         <e><p><l>heavy</l><r>tenari<s n="add_mi"/>+V:to.weigh@tena+NMZ@ri</r></p><par n="Noun"/></e>
         <e><p><l>hen</l><r>tyaapa<s n="gndr"/>+n.m.<s n="poss"/>+te<s n="sem"/>+bird</r></p><par n="Noun"/></e>
         <e><p><l>herb</l><r>inchashi<s n="add_mi"/>+N:plant@incha+CL:leaf@shi<s n="gndr"/>+n.m.<s n="poss"/>+ri:te</r></p><par n="Noun"/></e>
@@ -484,23 +485,23 @@
         <e><p><l>house</l><r>panko<s n="gndr"/>+n.m.<s n="inal"/>+tsi<s n="mrph.phon"/>+LEN:^p→^v</r></p><par n="Noun"/></e>
         <e><p><l>inflammation</l><r>patsaro<s n="add_mi"/>+V:to.have.a.skin.sore@patsa+NMZ@ro<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
         <e><p><l>intermittent_rain_water_well</l><r>inkanya<s n="add_mi"/>+N:rain@inka+CL:small.shallow.pool.of.water@nya<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>invisible</l><r>konihatatsi<s n="preform"/>#kaari<s n="add_mi"/>+NEG.COP:not.be@kaari+BLANK@SPACE+V:to.appear@koniha+EP@t+STAT.IPRF@atsi</r></p><par n="Noun"/></e>
         <e><p><l>invisible</l><r>ineeti<s n="preform"/>#kaari<s n="add_mi"/>+NEG.COP:not.be@kaari+BLANK@SPACE+3m.S@i+V:to.see@ne+ICPL@et+IRR@i</r></p><par n="Noun"/></e>
+        <e><p><l>invisible</l><r>konihatatsi<s n="preform"/>#kaari<s n="add_mi"/>+NEG.COP:not.be@kaari+BLANK@SPACE+V:to.appear@koniha+EP@t+STAT.IPRF@atsi</r></p><par n="Noun"/></e>
         <e><p><l>jungle</l><r>inchatoshi<s n="add_mi"/>+N:plant@incha+CL:tree@to+CL:leaf@shi</r></p><par n="Noun"/></e>
         <e><p><l>lacquer</l><r>patanariki<s n="add_mi"/>+N:red.resin.sp.@patanari+CL:S.R.H@ki<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>lake</l><r>inkari<s n="add_mi"/>+rain@inka+NMZ@ri<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>land</l><r>kipatsi<s n="gndr"/>+n.m.<s n="poss"/>+te:ti<s n="mrph.phon"/>+LEN:^k→^Ø</r></p><par n="Noun"/></e>
         <e><p><l>leaf_wrapped_food</l><r>akipare<s n="gndr"/>+m.<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
         <e><p><l>left_hand</l><r>ampate<s n="inal"/>+ntsi<s n="sem"/>+b.p</r></p><par n="Noun"/></e>
-        <e><p><l>left_over</l><r>timaarantapaatsiri<s n="add_mi"/>+V:to.be.left_over@timaarant+DIR:goal@ap+EP@a+STAT.IPRF@atsi+REL:REAL@ri<s n="gndr"/>+m.<s n="poss"/>+nposs.adj</r></p><par n="Noun"/></e>
         <e><p><l>left_over</l><r>timaarantatsiri<s n="add_mi"/>+V:to.be.left_over@timaarant+STAT.IPRF@atsi+REL:REAL@ri<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
+        <e><p><l>left_over</l><r>timaarantapaatsiri<s n="add_mi"/>+V:to.be.left_over@timaarant+DIR:goal@ap+EP@a+STAT.IPRF@atsi+REL:REAL@ri<s n="gndr"/>+m.<s n="poss"/>+nposs.adj</r></p><par n="Noun"/></e>
         <e><p><l>left_side</l><r>ampate<s n="inal"/>+ntsi<s n="sem"/>+b.p</r></p><par n="Noun"/></e>
         <e><p><l>letter</l><r>sankenare<s n="add_mi"/>+V:to.write@sankena+NMZ@re<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
         <e><p><l>liana</l><r>chamairo<s n="gndr"/>+n.m.<s n="sem"/>+plant</r></p><par n="Noun"/></e>
         <e><p><l>lightning</l><r>omorekatzi</r></p><par n="Noun"/></e>
         <e><p><l>little_bird</l><r>tsimeri<s n="gndr"/>+m.<s n="poss"/>+ti<s n="sem"/>+bird</r></p><par n="Noun"/></e>
-        <e><p><l>lover</l><r>ninta<s n="add_mi"/>+to.want@nint+INTNS@a<s n="inal"/>+ntsi<s n="poss"/>+ni</r></p><par n="Noun"/></e>
         <e><p><l>lover</l><r>shironta<s n="add_mi"/>+to.laugh.at.sb.@shiront+INTNS@a<s n="inal"/>+ntsi<s n="poss"/>+ne</r></p><par n="Noun"/></e>
+        <e><p><l>lover</l><r>ninta<s n="add_mi"/>+to.want@nint+INTNS@a<s n="inal"/>+ntsi<s n="poss"/>+ni</r></p><par n="Noun"/></e>
         <e><p><l>machine</l><r>máquina</r></p><par n="Noun"/></e>
         <e><p><l>main_channel_of_the_river</l><r>niyankia<s n="add_mi"/>+ADV:half@niyanki+CL:liquid@a<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>male</l><r>shirampari<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
@@ -524,15 +525,15 @@
         <e><p><l>name</l><r>vahiro<s n="gndr"/>+n.m.<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
         <e><p><l>needle</l><r>kitsapi<s n="gndr"/>+m.<s n="poss"/>+ti</r></p><par n="Noun"/></e>
         <e><p><l>new_leaf</l><r>eereshi<s n="add_mi"/>+V:to.sprout@eere+CL:leaf@shi</r></p><par n="Noun"/></e>
-        <e><p><l>newly_sprouted_palm_tree_leaf</l><r>eeretsova<s n="add_mi"/>+V:to.sprout@eere+CL:beak-like@tsova</r></p><par n="Noun"/></e>
         <e><p><l>newly_sprouted_palm_tree_leaf</l><r>iiritsova<s n="add_mi"/>+V:to.sprout@eere+CL:beak-like@tsova</r></p><par n="Noun"/></e>
+        <e><p><l>newly_sprouted_palm_tree_leaf</l><r>eeretsova<s n="add_mi"/>+V:to.sprout@eere+CL:beak-like@tsova</r></p><par n="Noun"/></e>
         <e><p><l>obedient</l><r>piyathatachane<s n="preform"/>#kaari<s n="add_mi"/>+NEG.COP:not.be@kaari+BLANK@SPACE+V:to.disobey@piyatsa+EP@t+STAT.IPRF@acha+REL@ne</r></p><par n="Noun"/></e>
         <e><p><l>open_forest</l><r>inchatoshi<s n="add_mi"/>+N:plant@incha+CL:tree@to+CL:leaf@shi</r></p><par n="Noun"/></e>
         <e><p><l>palmiped</l><r>tsipakontataka<s n="add_mi"/>+V:to.join@tsipa+N:sole.of.foot@konta+EP@t+PRF@ak+REAL@a</r></p><par n="Noun"/></e>
         <e><p><l>papaya</l><r>mapocha<s n="gndr"/>+n.m.<s n="poss"/>+ti</r></p><par n="Noun"/></e>
         <e><p><l>peanut_beer</l><r>inkia<s n="add_mi"/>+N:peanut@inki+CL:liquid@a<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
-        <e><p><l>peanut</l><r>ampeeninki<s n="add_mi"/>+N:cotton@ampee+EP@n+N:peanut@inki<s n="gndr"/>+n.m.<s n="sem"/>+plant</r></p><par n="Noun"/></e>
         <e><p><l>peanut</l><r>samaninki<s n="add_mi"/>+N:rodent@samani+L.DEL@i+N:peanut@inki<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>peanut</l><r>ampeeninki<s n="add_mi"/>+N:cotton@ampee+EP@n+N:peanut@inki<s n="gndr"/>+n.m.<s n="sem"/>+plant</r></p><par n="Noun"/></e>
         <e><p><l>period</l><r>iraaha<s n="add_mi"/>+N:blood@iraa+CL:liquid@ha<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
         <e><p><l>phone</l><r>yempipaavaerontsi<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>phone</l><r>kempipavaerontsi<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
@@ -562,14 +563,14 @@
         <e><p><l>shotgun</l><r>tonkamento<s n="gndr"/>+n.m.<s n="inal"/>+tsi</r></p><par n="Noun"/></e>
         <e><p><l>shrubs</l><r>inchashi<s n="add_mi"/>+N:plant@incha+CL:leaf@shi<s n="gndr"/>+n.m.<s n="poss"/>+ri:te</r></p><par n="Noun"/></e>
         <e><p><l>sin</l><r>kameetsatatsine<s n="preform"/>#kaari<s n="add_mi"/>+NEG.COP:not.be@kaari+BLANK@SPACE+V:to.be.good@kameetsa+EP@t+STAT.IPRF@atsi+REL:IRR@ne</r></p><par n="Noun"/></e>
-        <e><p><l>sister</l><r>entyo<s n="gndr"/>+n.m.<s n="kin"/>+fem.ego<s n="voc"/>+N</r></p><par n="Noun"/></e>
         <e><p><l>sister</l><r>irento<s n="gndr"/>+n.m.<s n="kin"/>+fem.ego<s n="voc"/>+1SG:2SG:3SG:1PL</r></p><par n="Noun"/></e>
+        <e><p><l>sister</l><r>entyo<s n="gndr"/>+n.m.<s n="kin"/>+fem.ego<s n="voc"/>+N</r></p><par n="Noun"/></e>
         <e><p><l>skilful</l><r>nyaaperori<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <e><p><l>sky</l><r>inkite<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>small_boil</l><r>patsaro<s n="add_mi"/>+V:to.have.a.skin.sore@patsa+NMZ@ro<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
         <e><p><l>small_cane</l><r>chekopi<s n="gndr"/>+n.m.<s n="poss"/>+te:ti</r></p><par n="Noun"/></e>
-        <e><p><l>snakebite_medicinal_plant</l><r>mankishi<s n="add_mi"/>+N:snake@manki+CL:leaf@shi<s n="gndr"/>+n.m.<s n="sem"/>+plant</r></p><par n="Noun"/></e>
         <e><p><l>snakebite_medicinal_plant</l><r>mankeshi<s n="add_mi"/>+N:snake@manke+CL:leaf@shi<s n="gndr"/>+n.m.<s n="sem"/>+plant</r></p><par n="Noun"/></e>
+        <e><p><l>snakebite_medicinal_plant</l><r>mankishi<s n="add_mi"/>+N:snake@manki+CL:leaf@shi<s n="gndr"/>+n.m.<s n="sem"/>+plant</r></p><par n="Noun"/></e>
         <e><p><l>sole_of_foot</l><r>iitsikonta<s n="add_mi"/>+N:foot@iitsi+CL:underside@konta<s n="inal"/>+ntsi<s n="sem"/>+b.p</r></p><par n="Noun"/></e>
         <e><p><l>sown_field</l><r>ova<s n="gndr"/>+n.m.<s n="inal"/>+ntsi<s n="poss"/>+ni</r></p><par n="Noun"/></e>
         <e><p><l>sown_plot_of_land</l><r>ova<s n="gndr"/>+n.m.<s n="inal"/>+ntsi<s n="poss"/>+ni</r></p><par n="Noun"/></e>
@@ -593,8 +594,8 @@
         <e><p><l>tambo</l><r>panko<s n="gndr"/>+n.m.<s n="inal"/>+tsi<s n="mrph.phon"/>+LEN:^p→^v</r></p><par n="Noun"/></e>
         <e><p><l>thread</l><r>mampitsa<s n="gndr"/>+n.m.<s n="poss"/>+te</r></p><par n="Noun"/></e>
         <e><p><l>thunder</l><r>onyaatzi<s n="allomorph"/>+oñaatzi</r></p><par n="Noun"/></e>
-        <e><p><l>toad</l><r>piviro<s n="gndr"/>+m.<s n="sem"/>+amphibian</r></p><par n="Noun"/></e>
         <e><p><l>toad</l><r>chamairotonki<s n="add_mi"/>+N:liana@chamairo+CL:long.tree.segment@tonki<s n="gndr"/>+m.<s n="sem"/>+amphibian</r></p><par n="Noun"/></e>
+        <e><p><l>toad</l><r>piviro<s n="gndr"/>+m.<s n="sem"/>+amphibian</r></p><par n="Noun"/></e>
         <e><p><l>tobacco</l><r>sheri<s n="gndr"/>+n.m.<s n="poss"/>+ni</r></p><par n="Noun"/></e>
         <e><p><l>tobacco_leaf</l><r>sheri<s n="gndr"/>+n.m.<s n="poss"/>+ni</r></p><par n="Noun"/></e>
         <e><p><l>tobacco_paste</l><r>sheri<s n="gndr"/>+n.m.<s n="poss"/>+ni</r></p><par n="Noun"/></e>
@@ -603,8 +604,8 @@
         <e><p><l>tree</l><r>inchato<s n="add_mi"/>+N:plant@incha+CL:tree@to<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>tree_flower</l><r>inchateaki<s n="add_mi"/>+N:plant@incha+CL:teaki@flower</r></p><par n="Noun"/></e>
         <e><p><l>tree_root</l><r>shitsapaereki<s n="add_mi"/>+N:vine@shitsa+CL:root@paere+CL:stick-like@ki</r></p><par n="Noun"/></e>
-        <e><p><l>tree</l><r>mapa<s n="gndr"/>+n.m.<s n="poss"/>+ni<s n="sem"/>+plant</r></p><par n="Noun"/></e>
         <e><p><l>tree</l><r>tsonento<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
+        <e><p><l>tree</l><r>mapa<s n="gndr"/>+n.m.<s n="poss"/>+ni<s n="sem"/>+plant</r></p><par n="Noun"/></e>
         <e><p><l>uncle</l><r>iritsori<s n="add_mi"/>+N:father@iri+CL:distant.kin@tsori<s n="gndr"/>+m.<s n="kin"/>+fe/male.ego</r></p><par n="Noun"/></e>
         <e><p><l>uncle</l><r>pavachori<s n="add_mi"/>+N:father@pava+CL:distant.kin@chori<s n="gndr"/>+m.<s n="poss"/>+ti<s n="kin"/>+male.ego</r></p><par n="Noun"/></e>
         <e><p><l>unriped_fruit</l><r>eereki<s n="add_mi"/>+V:to.sprout@eere+CL:seed-like@ki</r></p><par n="Noun"/></e>
@@ -638,7 +639,6 @@
         <e><p><l>young_girl</l><r>tsinane<s n="gndr"/>+n.m.</r></p><par n="Noun"/></e>
         <e><p><l>yucca_mass</l><r>kaniriapatsa<s n="add_mi"/>+N:yucca@kaniri+CL:liquid@a+CL:mass@patsa</r></p><par n="Noun"/></e>
         <!--  -->
-        <e><p><l>HIV</l><r>virakocha<s n="preform"/>#imantsiyare</r></p><par n="Noun"/></e>
         <e><p><l>hospital</l><r>panko<s n="preform"/>#avintantsi</r></p><par n="Noun"/></e>
         <e><p><l>hot_water</l><r>saava<s n="add_mi"/>+CL:liquid@a+ADJ<s n="gndr"/>+m.</r></p><par n="Adjectives"/></e>
         <e><p><l>hot_water</l><r>saava<s n="add_mi"/>+CL:liquid@a+ADJ<s n="gndr"/>+n.m.</r></p><par n="Adjectives"/></e>
