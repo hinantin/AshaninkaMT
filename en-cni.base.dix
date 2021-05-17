@@ -168,9 +168,6 @@
         <!-- #####
             L 
         ##### -->
-        <!-- kantakantantsi / ES: 'law'; ES: 'ley'  -->
-        <e><p><l>law</l><r>kantakantantsi</r></p><par n="Noun"/></e>
-        <e><p><l>law</l><r>kantakantaantsi</r></p><par n="Noun"/></e>
         <!-- tsinamparo / ES: 'lesbiana'; EN: 'lesbian' -->
         <e><p><l>lesbian</l><r>tsinamparo</r></p><par n="Noun"/></e>
         <!-- sankenarentsi / =sankena -re -ntsi / ES: 'carta'; EN: 'letter' -->
