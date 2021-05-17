@@ -147,8 +147,6 @@
     <section id="nouns" type="standard">
 <!--POINTERNROOT-->
         <!--  -->
-        <e><p><l>hot_water</l><r>saava<s n="add_mi"/>+CL:liquid@a+ADJ<s n="gndr"/>+m.</r></p><par n="Adjectives"/></e>
-        <e><p><l>hot_water</l><r>saava<s n="add_mi"/>+CL:liquid@a+ADJ<s n="gndr"/>+n.m.</r></p><par n="Adjectives"/></e>
         <e><p><l>hot</l><r>saava<s n="add_mi"/>+ADJ<s n="gndr"/>+m.</r></p><par n="Adjectives"/></e>
         <e><p><l>hot</l><r>saava<s n="add_mi"/>+ADJ<s n="gndr"/>+n.m.</r></p><par n="Adjectives"/></e>
         <!-- komintsare / =komintsa -re / =to.hunt -adj / ES: 'cazador'; EN: 'hunter' -->
