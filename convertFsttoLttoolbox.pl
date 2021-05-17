@@ -234,9 +234,10 @@ sub extractlabels {
             $rightelementanalysis = $1; 
           }
           elsif ($rightelement =~ /(.*)_(.*)/) { # multiword entries separated by underscores 
-		    my $myvar = $1;
-			$myvar = $myvar =~ s/_/#/r;
-            $rightelementanalysis = "$2<s n=\"preform\"/>#$myvar"; 
+		    my $var1 = $1;
+			my $var2 = $2;
+			$var1 = $var1 =~ s/_/#/r;
+            $rightelementanalysis = "$var2<s n=\"preform\"/>#$var1"; 
           }
           else {
             $rightelementanalysis = $rightelement; 
