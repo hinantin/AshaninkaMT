@@ -184,10 +184,6 @@
         <!-- peainchari / =pea -incha =ri / =to.lose -stat.prf =rel / EN: 'lost'; ES: 'perdido' -->
         <e><p><l>lost</l><r>peainchari</r></p><par n="Adjectives"/></e>
         <!-- #####
-            N 
-        ##### -->
-        <e><p><l>national</l><r>anampisato<s n="gndr"/>+n.m.</r></p><par n="Adjectives"/></e>
-        <!-- #####
             O 
         ##### -->
         <e><p><l>old</l><r>kinkivari<s n="gndr"/>+m.</r></p><par n="Adjectives"/></e>
