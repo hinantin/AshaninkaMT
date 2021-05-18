@@ -231,8 +231,6 @@
         <e><p><l>small</l><r>kapichee</r></p><par n="Adjectives"/></e>
         <!--  -->
         <e><p><l>small_parrot</l><r>chokiyo</r></p><par n="Noun"/></e>
-        <!-- inchakii / =incha -kii / =plant -cl:long,thin.branch / EN: 'stick'; ES: 'palo' -->
-        <e><p><l>stick</l><r>incha<s n="add_mi"/>+CL:long,thin.branch</r></p><par n="Noun"/></e>
         <!-- sealing wax, patanariki -->
         <e><p><l>sealing_wax</l><r>patanari<s n="add_mi"/>+CL:S.R.H</r></p><par n="Noun"/></e>
         <!--  -->
