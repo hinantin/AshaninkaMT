@@ -121,10 +121,10 @@ sub sortprintelements {
     $left =~ s/\.sb\.$//ig;
     $left =~ s/\.sth\.$//ig;
     $left =~ s/\.sb\.\/sth\.$//ig;
-    $left =~ s/^NEG.EXIST:\s//ig;
-	$left =~ s/^NEG.POSSESS:\s//ig;
+    $left =~ s/^NEG\.EXIST:\s//ig;
+	$left =~ s/^NEG\.POSSESS:\s//ig;
     $left =~ s/^EXIST:\s//ig;
-    $left =~ s/^CONT.EXIST:\s//ig;
+    $left =~ s/^CONT\.EXIST:\s//ig;
 
     $left =~ s/\.sp\.$//ig;
     # replacements 
