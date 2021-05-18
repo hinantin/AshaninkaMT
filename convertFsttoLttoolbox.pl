@@ -45,8 +45,8 @@ open INFO, $file or die "Could not open $file: $!";
    my $right = undef;
    my $left = undef;
    if ($line =~ /\[=(.*)\]\[$rootlabel\]\[=(.*)\]\"/) {
-     $right = $1;
-     $left = $2;
+     $right = $1; # NATIVE LANGUAGE 
+     $left = $2; # TRANSLATIONS 
    }
 #print "$left\n";
 # BEGIN: SPLITING LEFT SET INTO ELEMENTS
@@ -57,10 +57,10 @@ open INFO, $file or die "Could not open $file: $!";
 #  parseentries(\%wordsES, \%wordsPT, \%wordsQU, $2, $right, $idES, $idPT, $idQU);
 #}
 
-for my $leftset (split /;{1,2}\|\s/, $left) { # SPLITTING ;| ;;| 
+for my $leftset (split /;{1,2}\|\s/, $left) { # SPLITTING using flags: ';|' ';;|' 
  if ($leftset =~ /(.*)\s\((.*)\)/) {
-  # ENGLISH 
-  for my $leftelement (split /,\s/, $1) {
+  # ENGLISH LEXICON  
+  for my $leftelement (split /,\s/, $1) { # SPLITTING using flags: ', '  
    $id++;
    # Noun
    if ($leftelement =~ /(.*)\s\(/) { $words{$1}{$right} = $id; }
@@ -122,6 +122,7 @@ sub sortprintelements {
     $left =~ s/\.sth\.$//ig;
     $left =~ s/\.sb\.\/sth\.$//ig;
     $left =~ s/^NEG.EXIST:\s//ig;
+	$left =~ s/^NEG.POSSESS:\s//ig;
     $left =~ s/^EXIST:\s//ig;
     $left =~ s/^CONT.EXIST:\s//ig;
 
