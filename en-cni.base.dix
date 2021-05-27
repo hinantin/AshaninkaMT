@@ -173,7 +173,6 @@
         <!-- sankenarentsi / =sankena -re -ntsi / ES: 'carta'; EN: 'letter' -->
         <e><p><l>letter</l><r>sankenare<s n="inal"/>+ntsi<s n="gndr"/>+m.</r></p><par n="Noun"/></e>
         <!--  -->
-        <e><p><l>long</l><r>santsari<s n="gndr"/>+m.</r></p><par n="Adjectives"/></e>
         <!-- tsantsakirentsi / =tsantsa -ki -re -ntsi / =long -cl:s.r.h -nmz -nposs / EN: 'long-pointed.fishing.arrow'; ES: 'flecha.para.la.pesca.con.punta.larga' -->
         <e><p><l>long_pointed_fishing_arrow</l><r>tsantsakire<s n="inal"/>+ntsi</r></p><par n="Noun"/></e>
         <!-- tsatamentotsi / =tsat -a -mento -tsi / =to.tear.into.two.parts -ep -concr -nposs / ES: 'flecha.para.la.pesca.con.punta.larga (no.necesita.de.un.arco.propulsor) ' -->
