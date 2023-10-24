@@ -1,0 +1,21 @@
+<!-- **************************************************************
+    
+@phdthesis{pedros2023 grammar,
+  title={A grammar of Ash{\'e}ninka (Ucayali-Pajonal)},
+  author={Pedr{\'o}s Caballero, T},
+  year={2023},
+  school={Leiden University}
+}
+    
+****************************************************************** -->
+<parallel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="parallel_texts.xsd">
+    <text id="1.1">
+        <sentence lang="prq" normalizationlevel="none">Owámetakinàri owámetàntatsìri poñínkari hanta kirinka.</sentence>
+        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ovametakinari ovametantatsiri ponyinkari hanta kirinka.</sentence>
+        <sentence lang="es">El que me ha enseñado es un maestro procedente de allá río abajo.</sentence>
+        <sentence lang="en">The one who taught me is a teacher coming from there downriver.</sentence>
+        <morphology format="ashaninkamorph" analysislevel="fully">
+
+		</morphology>
+	</text>
+</parallel>
