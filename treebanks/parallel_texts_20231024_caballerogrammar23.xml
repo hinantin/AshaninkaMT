@@ -15,6 +15,18 @@
         <sentence lang="es">El que me ha enseñado es un maestro procedente de allá río abajo.</sentence>
         <sentence lang="en">The one who taught me is a teacher coming from there downriver.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
+		
+ovametakinari	[=ovame][VRoot][=to.teach (ES: enseñar)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+tns@n.fut.+C.I@act.v.+RSS@00][MODALITY][+REAL]i[--][=na][+1SG.O/P][=me (ES: me)][--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+ovametantatsiri	[=ovame][VRoot][=to.teach (ES: enseñar)][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=REAS (EN: in.order.to, so.that; ES: para.que); INST (EN: that.with.which.sb.does.sth., sb's.tool)]ant[--][-atsi][Asp][+STAT.IPRF][=ongoing.&.non-evolving.state]atsi[--][=ri+tns@n.fut.][NS][+REL][=REAL]
+
+ponyinkari	[=pony+INF@VC.][VRoot][=to.come.from.(some_place) (ES: venir.de.algún_lugar)][--][-inka][NS][+NMZ.QLTY]inka[--][-ri+gndr@m.][NS][+NMZ]
+
+hanta	[=hanta+loc@distal.b.][PrnDem][=DEM.ADV.: there (ES: allí.(está)), far.from.the.speaker (bounded; ES: allá, allí)]
+
+kirinka	[=kirinka][NRoot][=(down.river|downstream) (ES: río.abajo);| central.part.of.the.jungle]
+
+.	.[$.]
 
 		</morphology>
 	</text>
