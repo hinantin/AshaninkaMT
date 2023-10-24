@@ -29,5 +29,10 @@ kirinka	[=kirinka][NRoot][=(down.river|downstream) (ES: río.abajo);| central.pa
 .	.[$.]
 
 		</morphology>
+        <parsing format="CoNLL" analysislevel="fully">
+
+
+
+</parsing>
 	</text>
 </parallel>
