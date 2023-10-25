@@ -9,16 +9,32 @@
     
 ****************************************************************** -->
 <parallel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="parallel_texts.xsd">
-    <text id="1.1">
-        <sentence lang="prq" normalizationlevel="none">Owámetakinàri owámetàntatsìri poñínkari hanta kirinka.</sentence>
-        <sentence lang="prq" normalizationlevel="normalized-alphabet">Ovametakinari ovametantatsiri ponyinkari hanta kirinka.</sentence>
+        <text id="1">
+                <sentence lang="cjo" normalizationlevel="none">Pirinto, tsiká pihéekakika? Irika eenchániki ihéekaki.</sentence>
+                <sentence lang="cjo">Pirinto, tsika piheekakika? Irika eenchaniki iheekaki.</sentence>
+                <sentence lang="es">Rana, ¿dónde estás? Este niñito está sentado.</sentence>
+                <sentence lang="en">Frog, where are you? This little child is sitting down.</sentence>
+        </text>
+        <text id="2">
+                <sentence lang="cjo" normalizationlevel="none">Eentsi itsipátari rótsitzitì</sentence>
+                <sentence lang="es">El niño está acompañado por su perro.</sentence>
+                <sentence lang="en">The child is accompanied by his dog.</sentence>
+        </text>
+        <text id="3">
+                <sentence lang="cjo" normalizationlevel="none">Pirinto ihéekaki inthomoeki poterya.</sentence>
+                <sentence lang="es">La rana está dentro de una botella.</sentence>
+                <sentence lang="en">The frog is inside a bottle.</sentence>
+        </text>
+        <text id="341">
+        <sentence lang="cjo" normalizationlevel="none">Owámetakinàri owámetàntatsìri poñínkari hanta kirinka.</sentence>
+        <sentence lang="cjo" normalizationlevel="normalized-alphabet">Ovametakinari ovametantatsiri ponyinkari hanta kirinka.</sentence>
         <sentence lang="es">El que me ha enseñado es un maestro procedente de allá río abajo.</sentence>
         <sentence lang="en">The one who taught me is a teacher coming from there downriver.</sentence>
         <morphology format="ashaninkamorph" analysislevel="fully">
 		
 ovametakinari	[=ovame][VRoot][=to.teach (ES: enseñar)][--][-t][+EP]t[--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+tns@n.fut.+C.I@act.v.+RSS@00][MODALITY][+REAL]i[--][=na][+1SG.O/P][=me (ES: me)][--][=ri+tns@n.fut.][NS][+REL][=REAL]
 
-ovametantatsiri	[=ovame][VRoot][=to.teach (ES: enseñar)][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=REAS (EN: in.order.to, so.that; ES: para.que); INST (EN: that.with.which.sb.does.sth., sb's.tool)]ant[--][-atsi][Asp][+STAT.IPRF][=ongoing.&.non-evolving.state]atsi[--][=ri+tns@n.fut.][NS][+REL][=REAL]
+ovametantatsiri	[=ovame][VRoot][=to.teach (ES: enseñar)][--][-t][+EP]t[--][-ant][Asp][+APPL.REAS][=REAS (EN: in.order.to, so.that; ES: para.que); INST (EN: that.with.which.sb.does.sth., sb's.tool)]ant[--][-atsi][Asp][+STAT.IPRF][=ongoing.and.non-evolving.state]atsi[--][=ri+tns@n.fut.][NS][+REL][=REAL]
 
 ponyinkari	[=pony+INF@VC.][VRoot][=to.come.from.(some_place) (ES: venir.de.algún_lugar)][--][-inka][NS][+NMZ.QLTY]inka[--][-ri+gndr@m.][NS][+NMZ]
 
@@ -33,6 +49,10 @@ kirinka	[=kirinka][NRoot][=(down.river|downstream) (ES: río.abajo);| central.pa
 
 
 
-</parsing>
+        </parsing>
 	</text>
+        <text id="">
+                <sentence lang=""></sentence>
+                <sentence lang=""></sentence>
+        </text>
 </parallel>
