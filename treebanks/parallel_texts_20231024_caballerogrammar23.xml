@@ -14,6 +14,25 @@
                 <sentence lang="cjo">Pirinto, tsika piheekakika? Irika eenchaniki iheekaki.</sentence>
                 <sentence lang="es">Rana, ¿dónde estás? Este niñito está sentado.</sentence>
                 <sentence lang="en">Frog, where are you? This little child is sitting down.</sentence>
+                <morphology format="ashaninkamorph" analysislevel="not-fully">
+
+pirinto	[=pirinto+gndr@m.+sem@amphibian][NRoot][=lake.frog, toad (ES: sp.de.sapo, hualo; sci.nm.: leptodactylus.knudseni); mountain.frog]
+
+,	,[$.]
+
+tsika	[=tsika+periphrasis@=saik.][WhPrn][=WH (EN: where,, what,, which,, how,, why)]
+                    
+piheekakika	[pi-][VPers][2S/A+][--][=heek+INF@aantsi.][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir); to.be (ES: estar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+tns@n.fut.+C.I@act.v.+RSS@00][MODALITY][+REAL]i[--][=ka][+Q]
+                    
+?	?[$.]
+
+irika	[=irika+gndr@m.+loc@proximal][PrnDem][=this (ES: este)]
+
+
+
+iheekaki	[i-][VPers][3m.S/A+][--][=heek+INF@aantsi.][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir); to.be (ES: estar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+tns@n.fut.+C.I@act.v.+RSS@00][MODALITY][+REAL]i
+
+                </morphology>
         </text>
         <text id="2">
                 <sentence lang="cjo" normalizationlevel="none">Eentsi itsipátari rótsitzitì</sentence>
