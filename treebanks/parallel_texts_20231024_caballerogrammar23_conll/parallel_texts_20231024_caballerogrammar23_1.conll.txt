@@ -7,8 +7,8 @@
 7	-i	_	STATUS	STATUS	STATUS=+REAL	6	status	_	_
 8	=ka	_	Root	Root	Root=NRoot|trans=warrior|gndr=+m.	5	s-arg	_	_
 9	?	_	$.	$.	_	10	punc	_	_
-10	=irika	_	Root	Root					
-11	=eenchaniki	_	Root	Root					
+10	=irika	_	Root	Root	Root=PrnDem|gndr=m.|loc=proximal|trans=this				
+11	=eenchaniki	_	Root	Root	Root=NRoot|gndr=m.|trans=little.child				
 12	i-	_							
 13	=heek	_	Root	Root					
 14	-ak	_	ASP	ASP	ASP=+PRF	5	asp	_	_
