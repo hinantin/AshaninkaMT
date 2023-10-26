@@ -28,9 +28,11 @@ piheekakika	[pi-][VPers][2S/A+][--][=heek+INF@aantsi.][VRoot][=to.live, to.dwell
 
 irika	[=irika+gndr@m.+loc@proximal][PrnDem][=this (ES: este)]
 
-
+eenchaniki	[=eenchaniki][NRoot][=little.child]
 
 iheekaki	[i-][VPers][3m.S/A+][--][=heek+INF@aantsi.][VRoot][=to.live, to.dwell, to.inhabit (ES: vivir); to.be (ES: estar)][--][-ak][ASP][+PRF][=completed.actn.; FUT:actn.viewed.as.being.completed; STATIVE:describing.a.state (to.be.…)]ak[--][-i+tns@n.fut.+C.I@act.v.+RSS@00][MODALITY][+REAL]i
+
+.	.[$.]
 
                 </morphology>
         </text>
@@ -43,6 +45,211 @@ iheekaki	[i-][VPers][3m.S/A+][--][=heek+INF@aantsi.][VRoot][=to.live, to.dwell, 
                 <sentence lang="cjo" normalizationlevel="none">Pirinto ihéekaki inthomoeki poterya.</sentence>
                 <sentence lang="es">La rana está dentro de una botella.</sentence>
                 <sentence lang="en">The frog is inside a bottle.</sentence>
+        </text>
+        <text id="4">
+                <sentence lang="cjo">Eentsi imaaki.</sentence>
+                <sentence lang="es">El niño está dormido.</sentence>
+                <sentence lang="en">The child is asleep.</sentence>
+        </text>
+        <text id="5">
+                <sentence lang="cjo">Pirinto ishitówanaki, ihéekawìta inthomoeki poterya.</sentence>
+                <sentence lang="es">La rana ha salido, estaba dentro de la botella.</sentence>
+                <sentence lang="en">The frog has come out, it was inside the bottle.</sentence>
+        </text>
+        <text id="6">
+                <sentence lang="cjo">Eentsi ráminawitàri pirinto: tekátsitanàki poterya.</sentence>
+                <sentence lang="es">El niño mira (busca) a la rana en vano: no hay nada en la botella.</sentence>
+                <sentence lang="en">The boy looks at (for) the frog in vain: there is nothing in the bottle.</sentence>
+        </text>
+        <text id="7">
+                <sentence lang="cjo">Eentsi ikòakòawitakári zapátokì, ihòokántawitakàri.</sentence>
+                <sentence lang="es">El niño ha estado buscándola en vano en el zapato, por eso lo ha vaciado en vano.</sentence>
+                <sentence lang="en">The boy has been looking in vain for it in the shoe, so he has emptied it in vain.</sentence>
+        </text>
+        <text id="8">
+                <sentence lang="cjo">Tee iñagaeri iwírintòti. Ótsitzi rahánkahànkawitakàri.</sentence>
+                <sentence lang="es">Otra vez no ha visto su rana. El perro ha estado olfateándola en vano.</sentence>
+                <sentence lang="en">Again he hasn’t seen his frog. The dog has been sniffing her in vain.</sentence>
+        </text>
+        <text id="9">
+                <sentence lang="cjo">Ikáemawitàri eentsi pirinto. Ikáemakáemawitàri.</sentence>
+                <sentence lang="es">El niño llama a la rana en vano. Sigue llamándola en vano.</sentence>
+                <sentence lang="en">The boy calls the frog in vain. He keeps calling it in vain.</sentence>
+        </text>
+        <text id="10">
+                <sentence lang="cjo">Ótsitzi rahánkahánkawitakàwo poterya inthomoeki: tekatsi, káankinakitàki.</sentence>
+                <sentence lang="es">El perro ha estado olfateando en vano dentro de la botella. No hay nada, está vacía.</sentence>
+                <sentence lang="en">The dog has been sniffing in vain inside the bottle. There’s nothing, it’s empty.</sentence>
+        </text>
+        <text id="11">
+                <sentence lang="cjo">Eentsi ithòmákiri rótsitzitè.</sentence>
+                <sentence lang="es">El niño ha abrazado a su perro.</sentence>
+                <sentence lang="en">The child hugs his dog.</sentence>
+        </text>
+        <text id="12">
+                <sentence lang="cjo">Eentsi káemawitàri pirinto. Ragénkataki hani.</sentence>
+                <sentence lang="es">El niño llama en vano a la rana. Unas avispas vuelan en círculos.</sentence>
+                <sentence lang="en">The child calls the frog in vain. Some wasps fly in circles.</sentence>
+        </text>        
+        <text id="">
+                <sentence lang="cjo"></sentence>
+                <sentence lang="es"></sentence>
+                <sentence lang="en"></sentence>
+        </text>
+        <text id="13">
+                <sentence lang="cjo"></sentence>
+                <sentence lang="es"></sentence>
+                <sentence lang="en"></sentence>
+        </text>
+        <text id="14">
+                <sentence lang="cjo"></sentence>
+                <sentence lang="es"></sentence>
+                <sentence lang="en"></sentence>
+        </text>
+        <text id="15">
+                <sentence lang="cjo"></sentence>
+                <sentence lang="es"></sentence>
+                <sentence lang="en"></sentence>
+        </text>
+        <text id="16">
+                <sentence lang="cjo"></sentence>
+                <sentence lang="es"></sentence>
+                <sentence lang="en"></sentence>
+        </text>
+        <text id="17">
+                <sentence lang="cjo"></sentence>
+                <sentence lang="es"></sentence>
+                <sentence lang="en"></sentence>
+        </text>
+        <text id="18">
+                <sentence lang="cjo"></sentence>
+                <sentence lang="es"></sentence>
+                <sentence lang="en"></sentence>
+        </text>
+        <text id="19">
+                <sentence lang="cjo"></sentence>
+                <sentence lang="es"></sentence>
+                <sentence lang="en"></sentence>
+        </text>
+        <text id="20">
+                <sentence lang="cjo"></sentence>
+                <sentence lang="es"></sentence>
+                <sentence lang="en"></sentence>
+        </text>
+        <text id="21">
+                <sentence lang="cjo"></sentence>
+                <sentence lang="es"></sentence>
+                <sentence lang="en"></sentence>
+        </text>
+        <text id="22">
+                <sentence lang="cjo"></sentence>
+                <sentence lang="es"></sentence>
+                <sentence lang="en"></sentence>
+        </text>
+        <text id="23">
+                <sentence lang="cjo"></sentence>
+                <sentence lang="es"></sentence>
+                <sentence lang="en"></sentence>
+        </text>
+        <text id="24">
+                <sentence lang="cjo"></sentence>
+                <sentence lang="es"></sentence>
+                <sentence lang="en"></sentence>
+        </text>
+        <text id="25">
+                <sentence lang="cjo"></sentence>
+                <sentence lang="es"></sentence>
+                <sentence lang="en"></sentence>
+        </text>
+        <text id="26">
+                <sentence lang="cjo"></sentence>
+                <sentence lang="es"></sentence>
+                <sentence lang="en"></sentence>
+        </text>
+        <text id="27">
+                <sentence lang="cjo"></sentence>
+                <sentence lang="es"></sentence>
+                <sentence lang="en"></sentence>
+        </text>
+        <text id="28">
+                <sentence lang="cjo"></sentence>
+                <sentence lang="es"></sentence>
+                <sentence lang="en"></sentence>
+        </text>
+        <text id="29">
+                <sentence lang="cjo"></sentence>
+                <sentence lang="es"></sentence>
+                <sentence lang="en"></sentence>
+        </text>
+        <text id="30">
+                <sentence lang="cjo"></sentence>
+                <sentence lang="es"></sentence>
+                <sentence lang="en"></sentence>
+        </text>
+        <text id="31">
+                <sentence lang="cjo"></sentence>
+                <sentence lang="es"></sentence>
+                <sentence lang="en"></sentence>
+        </text>
+        <text id="32">
+                <sentence lang="cjo"></sentence>
+                <sentence lang="es"></sentence>
+                <sentence lang="en"></sentence>
+        </text>
+        <text id="33">
+                <sentence lang="cjo"></sentence>
+                <sentence lang="es"></sentence>
+                <sentence lang="en"></sentence>
+        </text>
+        <text id="34">
+                <sentence lang="cjo"></sentence>
+                <sentence lang="es"></sentence>
+                <sentence lang="en"></sentence>
+        </text>
+        <text id="35">
+                <sentence lang="cjo"></sentence>
+                <sentence lang="es"></sentence>
+                <sentence lang="en"></sentence>
+        </text>
+        <text id="36">
+                <sentence lang="cjo"></sentence>
+                <sentence lang="es"></sentence>
+                <sentence lang="en"></sentence>
+        </text>
+        <text id="37">
+                <sentence lang="cjo"></sentence>
+                <sentence lang="es"></sentence>
+                <sentence lang="en"></sentence>
+        </text>
+        <text id="38">
+                <sentence lang="cjo"></sentence>
+                <sentence lang="es"></sentence>
+                <sentence lang="en"></sentence>
+        </text>
+        <text id="39">
+                <sentence lang="cjo"></sentence>
+                <sentence lang="es"></sentence>
+                <sentence lang="en"></sentence>
+        </text>
+        <text id="40">
+                <sentence lang="cjo"></sentence>
+                <sentence lang="es"></sentence>
+                <sentence lang="en"></sentence>
+        </text>
+        <text id="41">
+                <sentence lang="cjo"></sentence>
+                <sentence lang="es"></sentence>
+                <sentence lang="en"></sentence>
+        </text>
+        <text id="42">
+                <sentence lang="cjo"></sentence>
+                <sentence lang="es"></sentence>
+                <sentence lang="en"></sentence>
+        </text>
+        <text id="43">
+                <sentence lang="cjo"></sentence>
+                <sentence lang="es"></sentence>
+                <sentence lang="en"></sentence>
         </text>
         <text id="341">
         <sentence lang="cjo" normalizationlevel="none">Owámetakinàri owámetàntatsìri poñínkari hanta kirinka.</sentence>
