@@ -91,11 +91,6 @@ iheekaki	[i-][VPers][3m.S/A+][--][=heek+INF@aantsi.][VRoot][=to.live, to.dwell, 
                 <sentence lang="es">El niño llama en vano a la rana. Unas avispas vuelan en círculos.</sentence>
                 <sentence lang="en">The child calls the frog in vain. Some wasps fly in circles.</sentence>
         </text>        
-        <text id="">
-                <sentence lang="cjo"></sentence>
-                <sentence lang="es"></sentence>
-                <sentence lang="en"></sentence>
-        </text>
         <text id="13">
                 <sentence lang="cjo"></sentence>
                 <sentence lang="es"></sentence>
@@ -273,12 +268,18 @@ kirinka	[=kirinka][NRoot][=(down.river|downstream) (ES: río.abajo);| central.pa
 		</morphology>
         <parsing format="CoNLL" analysislevel="fully">
 
-
+[Owámetakinàri]MC [owámetàntatsìri poñínkari hanta kirinka.]CC
 
         </parsing>
 	</text>
         <text id="">
-                <sentence lang=""></sentence>
-                <sentence lang=""></sentence>
+                <sentence lang="cjo"></sentence>
+                <sentence lang="es"></sentence>
+                <sentence lang="en"></sentence>
+        </text>
+        <text id="">
+                <sentence lang="cjo"></sentence>
+                <sentence lang="es"></sentence>
+                <sentence lang="en"></sentence>
         </text>
 </parallel>
