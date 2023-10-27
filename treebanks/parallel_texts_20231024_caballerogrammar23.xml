@@ -1,8 +1,8 @@
 <!-- **************************************************************
     
-@phdthesis{pedros2023 grammar,
+@phdthesis{caballero:grammar:23,
   title={A grammar of Ash{\'e}ninka (Ucayali-Pajonal)},
-  author={Pedr{\'o}s Caballero, T},
+  author={Pedr{\'o}s Caballero, T.},
   year={2023},
   school={Leiden University}
 }
@@ -192,14 +192,14 @@ iheekaki	[i-][VPers][3m.S/A+][--][=heek+INF@aantsi.][VRoot][=to.live, to.dwell, 
                 <sentence lang="en">This child goes on calling, he calls it (the frog) in vain.</sentence>
         </text>
         <text id="33">
-                <sentence lang="cjo"></sentence>
-                <sentence lang="es"></sentence>
-                <sentence lang="en"></sentence>
+                <sentence lang="cjo">Rótsitziti ihéekaki oháawiyàki.</sentence>
+                <sentence lang="es">Su perro está debajo de la tierra.</sentence>
+                <sentence lang="en">His dog is under the ground.</sentence>
         </text>
         <text id="34">
-                <sentence lang="cjo"></sentence>
-                <sentence lang="es"></sentence>
-                <sentence lang="en"></sentence>
+                <sentence lang="cjo">Irika rira, ikàntétzirikà, éentsika rowánkitakàri irira maniro.</sentence>
+                <sentence lang="es">Este, esto…, ¿cómo se llama?, este niño se ha puesto encima de ese venado.</sentence>
+                <sentence lang="en">This, um…, what’s its name? This boy has got on top of that deer.</sentence>
         </text>
         <text id="35">
                 <sentence lang="cjo"></sentence>
