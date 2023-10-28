@@ -7,10 +7,10 @@
 7	-i	_	STATUS	STATUS	STATUS=+REAL	6	status	_	_
 8	=ka	_	Q	Q	Q=question	7	s-arg	_	_
 9	?	_	$.	$.	_	8	punc	_	_
-10	=irika	_	Root	Root	Root=PrnDem|gndr=m.|loc=proximal|trans=this	11			
-11	=eenchaniki	_	Root	Root	Root=NRoot|gndr=m.|trans=little.child	12			
-12	i-	_	VPers	VPers	Pers=3m.S/A+	13			
-13	=heek	_	Root	Root	Root=VRoot|INF=aantsi.|trans=to.live	17			
+10	=irika	_	Root	Root	Root=PrnDem|gndr=m.|loc=proximal|trans=this	11		_	_
+11	=eenchaniki	_	Root	Root	Root=NRoot|gndr=m.|trans=little.child	12		_	_
+12	i-	_	VPers	VPers	Pers=3m.S/A+	13		_	_
+13	=heek	_	Root	Root	Root=VRoot|INF=aantsi.|trans=to.live	17		_	_
 14	-ak	_	ASP	ASP	ASP=+PRF	13	asp	_	_
 15	-i	_	STATUS	STATUS	STATUS=+REAL	14	status	_	_
 16	.	_	$.	$.	_	17	punc	_	_
